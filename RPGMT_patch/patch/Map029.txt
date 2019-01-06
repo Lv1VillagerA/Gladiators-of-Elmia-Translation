@@ -1,0 +1,70 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ソードシーフ
+「はんっ、この程度かい？
+レストンの男ってのも、たいしたことないんだねぇ。
+女にボコボコにされて、情けない坊やだ」
+> CONTEXT: Map029/events/3/pages/0/24/Dialogue
+> CONTEXT: Map016/events/44/pages/0/25/Dialogue
+> CONTEXT: Map016/events/47/pages/0/25/Dialogue
+> CONTEXT: Map006/events/11/pages/0/23/Dialogue
+sword thief. 「Is this about how much? A man of Reston does
+not have much to do. It is a miserable little girl by being
+told by a woman」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ、ううっ……く、くそっ、負けちまうなんて……」
+> CONTEXT: Map029/events/3/pages/0/29/Dialogue
+> CONTEXT: Map029/events/4/pages/0/30/Dialogue
+> CONTEXT: Map017/events/14/pages/0/30/Dialogue
+> CONTEXT: Map016/events/44/pages/0/30/Dialogue
+> CONTEXT: Map016/events/47/pages/0/30/Dialogue
+> CONTEXT: Map006/events/11/pages/0/28/Dialogue
+\\N[12]. 「Kugh, uugh ... ... damn, damn it ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ソードシーフ
+「そんじゃ、金をいただくよ。
+恨むんなら、女にあっさり負けちまうような
+弱い自分を恨むんだね。あはははっ！」
+> CONTEXT: Map029/events/3/pages/0/32/Dialogue
+> CONTEXT: Map016/events/44/pages/0/33/Dialogue
+> CONTEXT: Map016/events/47/pages/0/33/Dialogue
+> CONTEXT: Map006/events/11/pages/0/31/Dialogue
+sword thief. 「Then, I will give you money.
+If you feel hurt, it seems like it will not be easy to lose
+to a woman. Hate the weak self.Hahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ソードシーフ
+「宝箱に釣られちまったかい？
+お宝を手に入れられず、残念だったねぇ。
+あははっ！」
+> CONTEXT: Map029/events/4/pages/0/25/Dialogue
+> CONTEXT: Map017/events/14/pages/0/25/Dialogue
+sword thief. 「Have you been caught in a treasure box?
+I was sorry that I could not get the treasure.
+Hahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ソードシーフ
+「そんじゃ、金はいただいとくよ、ふふっ。
+欲をかいてこんなところにやってきちまった、
+無謀な自分を恨みなよ、弱っちい坊や♪」
+> CONTEXT: Map029/events/4/pages/0/33/Dialogue
+> CONTEXT: Map017/events/14/pages/0/33/Dialogue
+sword thief. 「Then, I will withdraw money, heh.
+I came to this place with greed, Do not hate your reckless
+self, weak boy♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+300\\G 手に入れた！
+> CONTEXT: Map029/events/5/pages/0/9/Dialogue
+300 \\G I got!#MTLed
+> END STRING

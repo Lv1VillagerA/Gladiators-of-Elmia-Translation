@@ -1,0 +1,257 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+グロッセル鉱石を手に入れた！
+> CONTEXT: Map085/events/1/pages/0/1/Dialogue
+I have grossel ore!#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あったあった！
+これだよ、グロッセル鉱石！
+話に聞いてた通りの色だし間違いないよ」
+> CONTEXT: Map085/events/1/pages/0/5/Dialogue
+Mileena. 「! This is grossel ore!
+It's the color of the street as you heard it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へえ、まさかこんなところで見つけるなんてなあ。
+この空洞に落ちたのは怪我の功名ってやつだな」
+> CONTEXT: Map085/events/1/pages/0/10/Dialogue
+\\N[12]. 「Well, I guess I will never find it in such a
+place. What fell into this cavity is a fairytale of injury」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「この鉱石は強い魔力を放つから、
+それをエサにしてる魔物を呼び寄せちゃうんだよね。
+たぶん、さっきの魔物もこれに吸い寄せられてたんだよ」
+> CONTEXT: Map085/events/1/pages/0/14/Dialogue
+Mileena. 「Because this ore releases strong
+magical power, I'm going to call monster making
+it that food. Perhaps the monster just before was
+being drawn to this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え？　おいっ、そんなの聞いてなかったぞ！
+そんな危険な鉱石だったのかよ」
+> CONTEXT: Map085/events/1/pages/0/19/Dialogue
+\\N[12]. 「Huh? Oi, I did not hear that! I wonder if it
+was such a dangerous ore」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あれ、言ってなかったっけ？
+まあ、二人とも無事なまま手に入ったんだし
+結果オーライってことでいいじゃん」
+> CONTEXT: Map085/events/1/pages/0/23/Dialogue
+Mileena. 「Have not you said that?
+Well, they both got it safe. You can do it as a
+result.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まったく……まあ、いいけどさ」
+> CONTEXT: Map085/events/1/pages/0/28/Dialogue
+\\N[12]. 「Absolutely ... well, well, it is good」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「んじゃ、あとは脱出しよっか」
+> CONTEXT: Map085/events/1/pages/0/31/Dialogue
+Mileena. 「Okay then, I will escape」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「上り階段があるよ、ここから脱出できるんじゃない？」
+> CONTEXT: Map085/events/8/pages/0/0/Dialogue
+Mileena. 「There is an ascending staircase, can
+you escape from here?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな、天井が開きそうだ。
+よいしょっと……！」
+> CONTEXT: Map085/events/8/pages/0/3/Dialogue
+\\N[12]. 「That's right, the ceiling is about to open.
+Good to hear ... ...!!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「やったー！　出られたよぉ、よかったぁ」
+> CONTEXT: Map085/events/8/pages/0/14/Dialogue
+Mileena. 「Yay! I was okay, I was glad.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな、出口がちゃんとあってよかったぜ」
+> CONTEXT: Map085/events/8/pages/0/17/Dialogue
+\\N[12]. 「That's right, it was good that the exit was
+properly in place」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（やっぱり不安だったんだな、ミリーナ。
+無事に脱出させてやることができて良かったな）
+> CONTEXT: Map085/events/8/pages/0/20/Dialogue
+\\N[12]. (After all it was uneasy, Mileena.
+I was glad I could let you escape safely)#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「それにしても、ここの地下の空間、
+なんだったんだろうね？」
+> CONTEXT: Map085/events/8/pages/0/24/Dialogue
+Mileena. 「Even so, the underground space here,
+I wonder what was it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうやら、ただの空洞じゃなくて
+人の手が入ってる場所だったみたいだな。
+元は坑道かなにかだったんじゃないか？」
+> CONTEXT: Map085/events/8/pages/0/28/Dialogue
+\\N[12]. 「Apparently, it's not just a cave
+It seems that it was a place where people's hands were in.
+Was not it originally a tunnel or something?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ま、これで地下空間にも自由に出入りできるし……
+ここにグロッセル鉱石があることも分かったし、
+ウチの店が独占で商売できるかも♪」
+> CONTEXT: Map085/events/8/pages/0/34/Dialogue
+Mileena. 「Well, with this you can freely enter
+and leave the underground space ... ...
+I also found there was a grossel ore here,
+Maybe we can trade our store in monopoly♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「さすが武器屋の娘だなあ、たくましいもんだ」
+> CONTEXT: Map085/events/8/pages/0/39/Dialogue
+\\N[12]. 「It is truly a daughter of an arsenal, she is
+a strong person」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「まあねっ♪」
+> CONTEXT: Map085/events/8/pages/0/42/Dialogue
+Mileena. 「Well♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ま、これで自由に地下の空間に出入りできるね。
+まだまだ探索しきれてない気がするし、
+もうちょっと調べてみようよ」
+> CONTEXT: Map085/events/8/pages/0/47/Dialogue
+Mileena. 「Well, you can freely enter and leave
+the underground space with this.
+I feel like I have not been able to explore it,
+Let's investigate a bit more」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「なんか、強そうな魔物がいるよ！」
+> CONTEXT: Map085/events/14/pages/0/0/Dialogue
+Mileena. 「Something, there is a strong monster!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この空間、死霊みたいな魔物ばかり徘徊してるが
+その大元締めって感じだな、こいつ……」
+> CONTEXT: Map085/events/14/pages/0/3/Dialogue
+\\N[12]. 「In this space, monster like the
+evil spirit just wanders around
+I feel like that big deal, this guy ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「こいつが大ボスなんだね。
+今後も鉱石を採掘しに来ることもあるだろうし、
+荒野の安全を確保するためにも、倒さなきゃ！」
+> CONTEXT: Map085/events/14/pages/0/8/Dialogue
+Mileena. 「This guy is a big boss.
+There will be times to come for mining ores in
+the future, In order to ensure the safety of the
+wilderness, I have to defeat it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「わざわざ狭いトコで通行止めしてるってことは
+この先に何かありそうだね。
+脱出の手段を探るためにも、倒さなきゃ！」
+> CONTEXT: Map085/events/14/pages/0/15/Dialogue
+Mileena. 「Expressly saying that we are closing a
+road with a narrow token. There seems to be
+something ahead of this. In order to explore the
+means of escape, I have to defeat it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな。
+だが、雰囲気からして容易な相手じゃなさそうだ。
+いくぞミリーナ、気を引き締めてかかるんだ！」
+> CONTEXT: Map085/events/14/pages/0/22/Dialogue
+\\N[12]. 「That's right. However, it seems not to be an
+easy partner from the atmosphere. Let's go, Mileena, I'm
+tightening up!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うん、任せて！」
+> CONTEXT: Map085/events/14/pages/0/27/Dialogue
+Mileena. 「Yes, leave it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「やったね、倒したよ！」
+> CONTEXT: Map085/events/14/pages/0/44/Dialogue
+Mileena. 「You did it, you knocked down!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、何とかなるもんだな。
+これで、魔物の発生も
+少しは減るんじゃないか」
+> CONTEXT: Map085/events/14/pages/0/47/Dialogue
+\\N[12]. 「Oh, it will do something.
+With this, the occurrence of monster is also
+Would not it be a little less?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「それじゃ、さっそくこの先を見てみようよ。
+もしかすると、この先にアレがあるかも……」
+> CONTEXT: Map085/events/14/pages/0/52/Dialogue
+Mileena. 「Then let's see this ahead.
+Perhaps there may be ahead of this ... ...」#MTLed
+> END STRING

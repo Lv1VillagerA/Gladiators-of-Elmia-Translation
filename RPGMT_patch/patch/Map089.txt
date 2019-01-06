@@ -1,0 +1,426 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ディラント北東台地
+> CONTEXT: Map089/display_name/
+Dirant North East Plateau#MTLed
+> END STRING
+
+> BEGIN STRING
+ロープがかけられていて中に下りられそうだ……
+どうする？
+> CONTEXT: Map089/events/3/pages/0/0/Dialogue
+It is said that the rope is hung and it is going to get
+down inside...what will you do?#MTLed
+> END STRING
+
+> BEGIN STRING
+下りる
+> CONTEXT: Map089/events/3/pages/0/3/Choice/0
+To descend#MTLed
+> END STRING
+
+> BEGIN STRING
+エレメンタルコア（青）を手に入れた！
+> CONTEXT: Map089/events/4/pages/0/9/Dialogue
+I got elemental core (blue)!#MTLed
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+「うふふ、キミの体力のおかげでダメージ回復しちゃった♪
+ごちそうさま、剣士クン♪
+お尻に夢中になってる間に負けちゃって、無様な男の子ねぇ」
+> CONTEXT: Map089/events/5/pages/0/19/Dialogue
+> CONTEXT: Map089/events/12/pages/0/19/Dialogue
+> CONTEXT: Map089/events/14/pages/0/19/Dialogue
+> CONTEXT: Map089/events/15/pages/0/19/Dialogue
+> CONTEXT: Map089/events/16/pages/0/19/Dialogue
+> CONTEXT: Map089/events/17/pages/0/19/Dialogue
+> CONTEXT: Map077/events/22/pages/0/19/Dialogue
+> CONTEXT: Map077/events/23/pages/0/19/Dialogue
+evil witch. 「Uhufu, your damage has been recovered thanks
+to your physical strength♪. Thank you for the meal,
+swordsman Kun♪. I lost while I was absorbed in the butt,
+unsightly boy」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あうっ、ぐっ……
+ち、力が、入らない……」
+> CONTEXT: Map089/events/5/pages/0/24/Dialogue
+> CONTEXT: Map089/events/12/pages/0/24/Dialogue
+> CONTEXT: Map089/events/14/pages/0/24/Dialogue
+> CONTEXT: Map089/events/15/pages/0/24/Dialogue
+> CONTEXT: Map089/events/16/pages/0/24/Dialogue
+> CONTEXT: Map089/events/17/pages/0/24/Dialogue
+> CONTEXT: Map077/events/22/pages/0/24/Dialogue
+> CONTEXT: Map077/events/23/pages/0/24/Dialogue
+\\N[12]. 「Huh, ugly .... Power does not get into......
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+「若い剣士クン、残念だったわね。
+キミ程度の腕じゃ、私の魔法の前では赤子も同然よ」
+> CONTEXT: Map089/events/5/pages/0/30/Dialogue
+> CONTEXT: Map089/events/12/pages/0/30/Dialogue
+> CONTEXT: Map089/events/14/pages/0/30/Dialogue
+> CONTEXT: Map089/events/15/pages/0/30/Dialogue
+> CONTEXT: Map089/events/16/pages/0/30/Dialogue
+> CONTEXT: Map089/events/17/pages/0/30/Dialogue
+> CONTEXT: Map077/events/22/pages/0/30/Dialogue
+> CONTEXT: Map077/events/23/pages/0/30/Dialogue
+evil witch. 「Young swordsman Kun, I'm sorry.
+Kimi degree arm in front of my magic, the baby is the same」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うう……し、しまった……」
+> CONTEXT: Map089/events/5/pages/0/34/Dialogue
+> CONTEXT: Map089/events/12/pages/0/34/Dialogue
+> CONTEXT: Map089/events/14/pages/0/34/Dialogue
+> CONTEXT: Map089/events/15/pages/0/34/Dialogue
+> CONTEXT: Map089/events/16/pages/0/34/Dialogue
+> CONTEXT: Map089/events/17/pages/0/34/Dialogue
+> CONTEXT: Map077/events/22/pages/0/34/Dialogue
+> CONTEXT: Map077/events/23/pages/0/34/Dialogue
+\\N[12]. 「Uu ......, I got it ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は魔法力を2吸収された――
+> CONTEXT: Map089/events/5/pages/0/44/Dialogue
+> CONTEXT: Map089/events/5/pages/0/147/Dialogue
+> CONTEXT: Map089/events/12/pages/0/44/Dialogue
+> CONTEXT: Map089/events/12/pages/0/147/Dialogue
+> CONTEXT: Map089/events/14/pages/0/44/Dialogue
+> CONTEXT: Map089/events/14/pages/0/147/Dialogue
+> CONTEXT: Map089/events/15/pages/0/44/Dialogue
+> CONTEXT: Map089/events/15/pages/0/147/Dialogue
+> CONTEXT: Map089/events/16/pages/0/44/Dialogue
+> CONTEXT: Map089/events/16/pages/0/147/Dialogue
+> CONTEXT: Map089/events/17/pages/0/44/Dialogue
+> CONTEXT: Map089/events/17/pages/0/147/Dialogue
+> CONTEXT: Map077/events/22/pages/0/44/Dialogue
+> CONTEXT: Map077/events/22/pages/0/147/Dialogue
+> CONTEXT: Map077/events/23/pages/0/44/Dialogue
+> CONTEXT: Map077/events/23/pages/0/147/Dialogue
+\\N[12] He absorbed magical power 2 -#MTLed
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+「よっぽど私のお尻に興奮しちゃったみたいね。
+死ぬかもしれない戦いの最中にお尻の誘惑に釣られるなんて、
+ホント、男の子って愚かなんだから♪」
+> CONTEXT: Map089/events/5/pages/0/58/Dialogue
+> CONTEXT: Map089/events/12/pages/0/58/Dialogue
+> CONTEXT: Map089/events/14/pages/0/58/Dialogue
+> CONTEXT: Map089/events/15/pages/0/58/Dialogue
+> CONTEXT: Map089/events/16/pages/0/58/Dialogue
+> CONTEXT: Map089/events/17/pages/0/58/Dialogue
+> CONTEXT: Map077/events/22/pages/0/58/Dialogue
+> CONTEXT: Map077/events/23/pages/0/58/Dialogue
+evil witch. 「It sounds pretty exciting about my ass.
+To be tempted by the butt in the midst of battle that may
+die, Really, a boy is stupid♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+「それとも、お姉さんのお尻にドキドキして
+力を出せなかった、とかかな？」
+> CONTEXT: Map089/events/5/pages/0/65/Dialogue
+> CONTEXT: Map089/events/12/pages/0/65/Dialogue
+> CONTEXT: Map089/events/14/pages/0/65/Dialogue
+> CONTEXT: Map089/events/15/pages/0/65/Dialogue
+> CONTEXT: Map089/events/16/pages/0/65/Dialogue
+> CONTEXT: Map089/events/17/pages/0/65/Dialogue
+> CONTEXT: Map077/events/22/pages/0/65/Dialogue
+> CONTEXT: Map077/events/23/pages/0/65/Dialogue
+evil witch. 「Or, make it your sister's ass
+I was not able to make efforts, or mightbe?」#MTLed
+> END STRING
+
+> BEGIN STRING
+イビルウィッチは、\\N[12]の顔に
+お尻を押し付けてきた！
+> CONTEXT: Map089/events/5/pages/0/71/Dialogue
+> CONTEXT: Map089/events/12/pages/0/71/Dialogue
+> CONTEXT: Map089/events/14/pages/0/71/Dialogue
+> CONTEXT: Map089/events/15/pages/0/71/Dialogue
+> CONTEXT: Map089/events/16/pages/0/71/Dialogue
+> CONTEXT: Map089/events/17/pages/0/71/Dialogue
+> CONTEXT: Map077/events/22/pages/0/71/Dialogue
+> CONTEXT: Map077/events/23/pages/0/71/Dialogue
+evil witch, \\N[12] On the face of. I pressed my butt!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「むぐっ、うううっ！」
+> CONTEXT: Map089/events/5/pages/0/75/Dialogue
+> CONTEXT: Map089/events/12/pages/0/75/Dialogue
+> CONTEXT: Map089/events/14/pages/0/75/Dialogue
+> CONTEXT: Map089/events/15/pages/0/75/Dialogue
+> CONTEXT: Map089/events/16/pages/0/75/Dialogue
+> CONTEXT: Map089/events/17/pages/0/75/Dialogue
+> CONTEXT: Map077/events/22/pages/0/75/Dialogue
+> CONTEXT: Map077/events/23/pages/0/75/Dialogue
+> CONTEXT: Map069/events/18/pages/0/56/Dialogue
+> CONTEXT: Map071/events/15/pages/0/56/Dialogue
+> CONTEXT: Map070/events/26/pages/0/56/Dialogue
+> CONTEXT: Map069/events/22/pages/0/56/Dialogue
+> CONTEXT: Map070/events/27/pages/0/56/Dialogue
+> CONTEXT: Map070/events/28/pages/0/56/Dialogue
+> CONTEXT: Map071/events/18/pages/0/56/Dialogue
+> CONTEXT: Map070/events/29/pages/0/56/Dialogue
+> CONTEXT: Map071/events/21/pages/0/56/Dialogue
+> CONTEXT: Map070/events/30/pages/0/56/Dialogue
+> CONTEXT: Map070/events/38/pages/0/56/Dialogue
+\\N[12]. 「Pounding, OHHh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+「ほらほら、お姉さんのお尻、柔らかいでしょ？
+じっくり味わってくれていいんだからね？」
+> CONTEXT: Map089/events/5/pages/0/78/Dialogue
+> CONTEXT: Map089/events/12/pages/0/78/Dialogue
+> CONTEXT: Map089/events/14/pages/0/78/Dialogue
+> CONTEXT: Map089/events/15/pages/0/78/Dialogue
+> CONTEXT: Map089/events/16/pages/0/78/Dialogue
+> CONTEXT: Map089/events/17/pages/0/78/Dialogue
+> CONTEXT: Map077/events/22/pages/0/78/Dialogue
+> CONTEXT: Map077/events/23/pages/0/78/Dialogue
+evil witch. 「oh no, your sister's ass, is it soft?
+You can taste thoroughly, is not it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、イビルウィッチは杖を構え
+魔法を発動させる。
+> CONTEXT: Map089/events/5/pages/0/82/Dialogue
+> CONTEXT: Map089/events/12/pages/0/82/Dialogue
+> CONTEXT: Map089/events/14/pages/0/82/Dialogue
+> CONTEXT: Map089/events/15/pages/0/82/Dialogue
+> CONTEXT: Map089/events/16/pages/0/82/Dialogue
+> CONTEXT: Map089/events/17/pages/0/82/Dialogue
+> CONTEXT: Map077/events/22/pages/0/82/Dialogue
+> CONTEXT: Map077/events/23/pages/0/82/Dialogue
+And evil witch is holding a cane. Activate magic.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なにを……？」
+> CONTEXT: Map089/events/5/pages/0/86/Dialogue
+> CONTEXT: Map089/events/12/pages/0/86/Dialogue
+> CONTEXT: Map089/events/14/pages/0/86/Dialogue
+> CONTEXT: Map089/events/15/pages/0/86/Dialogue
+> CONTEXT: Map089/events/16/pages/0/86/Dialogue
+> CONTEXT: Map089/events/17/pages/0/86/Dialogue
+> CONTEXT: Map077/events/22/pages/0/86/Dialogue
+> CONTEXT: Map077/events/23/pages/0/86/Dialogue
+\\N[12]. 「What, what ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+「ふふっ……キミの魔法力を吸い取らせてもらうのよ。
+私はここを通りかかる旅人や魔物を襲って
+ドレイン魔法で魔力を奪っているの」
+> CONTEXT: Map089/events/5/pages/0/89/Dialogue
+> CONTEXT: Map089/events/12/pages/0/89/Dialogue
+> CONTEXT: Map089/events/14/pages/0/89/Dialogue
+> CONTEXT: Map089/events/15/pages/0/89/Dialogue
+> CONTEXT: Map089/events/16/pages/0/89/Dialogue
+> CONTEXT: Map089/events/17/pages/0/89/Dialogue
+> CONTEXT: Map077/events/22/pages/0/89/Dialogue
+> CONTEXT: Map077/events/23/pages/0/89/Dialogue
+evil witch. 「Huh...... let me suck up your magical power.
+I hit the travelers and monsters going through here
+I'm taking magical power with drain magic」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだって！？
+くっ、そんなこと、させてたまるか……！」
+> CONTEXT: Map089/events/5/pages/0/94/Dialogue
+> CONTEXT: Map089/events/12/pages/0/94/Dialogue
+> CONTEXT: Map089/events/14/pages/0/94/Dialogue
+> CONTEXT: Map089/events/15/pages/0/94/Dialogue
+> CONTEXT: Map089/events/16/pages/0/94/Dialogue
+> CONTEXT: Map089/events/17/pages/0/94/Dialogue
+> CONTEXT: Map077/events/22/pages/0/94/Dialogue
+> CONTEXT: Map077/events/23/pages/0/94/Dialogue
+\\N[12]. 「? ? Cut, that kind of thing, let me
+just let it......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+むにっ、ぐにぐにっ！
+> CONTEXT: Map089/events/5/pages/0/102/Dialogue
+> CONTEXT: Map089/events/12/pages/0/102/Dialogue
+> CONTEXT: Map089/events/14/pages/0/102/Dialogue
+> CONTEXT: Map089/events/15/pages/0/102/Dialogue
+> CONTEXT: Map089/events/16/pages/0/102/Dialogue
+> CONTEXT: Map089/events/17/pages/0/102/Dialogue
+> CONTEXT: Map077/events/22/pages/0/102/Dialogue
+> CONTEXT: Map077/events/23/pages/0/102/Dialogue
+> CONTEXT: Map147/events/2/pages/5/141/Dialogue
+> CONTEXT: Map147/events/17/pages/0/100/Dialogue
+Mude, * rub *!#MTLed
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+「ほらほら、暴れないの。
+すぐ済むからねー」
+> CONTEXT: Map089/events/5/pages/0/107/Dialogue
+> CONTEXT: Map089/events/12/pages/0/107/Dialogue
+> CONTEXT: Map089/events/14/pages/0/107/Dialogue
+> CONTEXT: Map089/events/15/pages/0/107/Dialogue
+> CONTEXT: Map089/events/16/pages/0/107/Dialogue
+> CONTEXT: Map089/events/17/pages/0/107/Dialogue
+> CONTEXT: Map077/events/22/pages/0/107/Dialogue
+> CONTEXT: Map077/events/23/pages/0/107/Dialogue
+evil witch. 「oh no, do not get cranky. I will finish it
+soon」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（う、ううっ……
+自分の中から、なにかが吸われているのが分かる……
+なんだか、体がゾクゾクして……あ、ああぁ……！）
+> CONTEXT: Map089/events/5/pages/0/113/Dialogue
+> CONTEXT: Map089/events/12/pages/0/113/Dialogue
+> CONTEXT: Map089/events/14/pages/0/113/Dialogue
+> CONTEXT: Map089/events/15/pages/0/113/Dialogue
+> CONTEXT: Map089/events/16/pages/0/113/Dialogue
+> CONTEXT: Map089/events/17/pages/0/113/Dialogue
+> CONTEXT: Map077/events/22/pages/0/113/Dialogue
+> CONTEXT: Map077/events/23/pages/0/113/Dialogue
+> CONTEXT: Map147/events/2/pages/5/152/Dialogue
+> CONTEXT: Map147/events/17/pages/0/111/Dialogue
+\\N[12]. (U, uugh...... I understand that something is
+being sucked out among myself...... Somehow, the body
+tremble....... あ, あ あ ぁ ......!)#MTLed
+> END STRING
+
+> BEGIN STRING
+魔力吸収の刺激が\\N[12]の体全体を痺れさせ、
+あっという間に快感へと変わってゆく――！
+> CONTEXT: Map089/events/5/pages/0/118/Dialogue
+> CONTEXT: Map089/events/12/pages/0/118/Dialogue
+> CONTEXT: Map089/events/14/pages/0/118/Dialogue
+> CONTEXT: Map089/events/15/pages/0/118/Dialogue
+> CONTEXT: Map089/events/16/pages/0/118/Dialogue
+> CONTEXT: Map089/events/17/pages/0/118/Dialogue
+> CONTEXT: Map077/events/22/pages/0/118/Dialogue
+> CONTEXT: Map077/events/23/pages/0/118/Dialogue
+> CONTEXT: Map147/events/2/pages/5/157/Dialogue
+> CONTEXT: Map147/events/17/pages/0/116/Dialogue
+The stimulation of magical absorption \\N[12] The whole
+body is numb, It will change to pleasure in no time -!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだこれっ……
+や、やばいっ……
+あがっ、あっ、あぐうううぅっ！」
+> CONTEXT: Map089/events/5/pages/0/121/Dialogue
+> CONTEXT: Map089/events/12/pages/0/121/Dialogue
+> CONTEXT: Map089/events/14/pages/0/121/Dialogue
+> CONTEXT: Map089/events/15/pages/0/121/Dialogue
+> CONTEXT: Map089/events/16/pages/0/121/Dialogue
+> CONTEXT: Map089/events/17/pages/0/121/Dialogue
+> CONTEXT: Map077/events/22/pages/0/121/Dialogue
+> CONTEXT: Map077/events/23/pages/0/121/Dialogue
+> CONTEXT: Map147/events/2/pages/5/160/Dialogue
+> CONTEXT: Map147/events/17/pages/0/119/Dialogue
+\\N[12]. 「What is this ...? Oh yeah, yeah yeah......
+Go up, there, ah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あひっ、あっ、あうぅ……」
+> CONTEXT: Map089/events/5/pages/0/129/Dialogue
+> CONTEXT: Map089/events/12/pages/0/129/Dialogue
+> CONTEXT: Map089/events/14/pages/0/129/Dialogue
+> CONTEXT: Map089/events/15/pages/0/129/Dialogue
+> CONTEXT: Map089/events/16/pages/0/129/Dialogue
+> CONTEXT: Map089/events/17/pages/0/129/Dialogue
+> CONTEXT: Map077/events/22/pages/0/129/Dialogue
+> CONTEXT: Map077/events/23/pages/0/129/Dialogue
+> CONTEXT: Map147/events/2/pages/5/168/Dialogue
+> CONTEXT: Map147/events/17/pages/0/127/Dialogue
+\\N[12]. 「Oh, there, ah ...」#MTLed
+> CONTEXT: Commonevents/9/252/Dialogue
+> CONTEXT: Commonevents/227/253/Dialogue
+\\N[12]. 「Oh, there, ah ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+「あらあら、ドレインの拍子に精液まで出させちゃった。
+お姉さんのお尻の感触、そんなによかったの？
+こんなことでイっちゃうなんて、早漏なのね。クスクス……♪」
+> CONTEXT: Map089/events/5/pages/0/132/Dialogue
+> CONTEXT: Map089/events/12/pages/0/132/Dialogue
+> CONTEXT: Map089/events/14/pages/0/132/Dialogue
+> CONTEXT: Map089/events/15/pages/0/132/Dialogue
+> CONTEXT: Map089/events/16/pages/0/132/Dialogue
+> CONTEXT: Map089/events/17/pages/0/132/Dialogue
+> CONTEXT: Map077/events/22/pages/0/132/Dialogue
+> CONTEXT: Map077/events/23/pages/0/132/Dialogue
+> CONTEXT: Map147/events/2/pages/5/171/Dialogue
+> CONTEXT: Map147/events/17/pages/0/130/Dialogue
+evil witch. 「oh no, I got the semen out for the drain's
+meter. Feeling of your sister's butt, was it that good?
+It is a premature ejaculation to wear out with such a
+thing.* Giggle * ......♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は脱力し、ぐったりと四肢を投げ出す。
+> CONTEXT: Map089/events/5/pages/0/137/Dialogue
+> CONTEXT: Map089/events/12/pages/0/137/Dialogue
+> CONTEXT: Map089/events/14/pages/0/137/Dialogue
+> CONTEXT: Map089/events/15/pages/0/137/Dialogue
+> CONTEXT: Map089/events/16/pages/0/137/Dialogue
+> CONTEXT: Map089/events/17/pages/0/137/Dialogue
+> CONTEXT: Map077/events/22/pages/0/137/Dialogue
+> CONTEXT: Map077/events/23/pages/0/137/Dialogue
+> CONTEXT: Map147/events/2/pages/5/176/Dialogue
+> CONTEXT: Map147/events/17/pages/0/135/Dialogue
+\\N[12] He is weak and throws limbs quietly.#MTLed
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+「ふう、剣士だから魔力は少ないみたいだけど、
+ま、少しは吸えたからいっか。
+それじゃね、剣士クン。またキミの魔力、吸わせてね♪」
+> CONTEXT: Map089/events/5/pages/0/139/Dialogue
+> CONTEXT: Map089/events/12/pages/0/139/Dialogue
+> CONTEXT: Map089/events/14/pages/0/139/Dialogue
+> CONTEXT: Map089/events/15/pages/0/139/Dialogue
+> CONTEXT: Map089/events/16/pages/0/139/Dialogue
+> CONTEXT: Map089/events/17/pages/0/139/Dialogue
+> CONTEXT: Map077/events/22/pages/0/139/Dialogue
+> CONTEXT: Map077/events/23/pages/0/139/Dialogue
+> CONTEXT: Map147/events/2/pages/5/178/Dialogue
+> CONTEXT: Map147/events/17/pages/0/137/Dialogue
+evil witch. 「It seems that magical power is small because
+it is a sword fighter, Well, I sucked for a while.
+Well, swordsman Kun. Please let me suck your magical powers
+again♪」#MTLed
+> END STRING

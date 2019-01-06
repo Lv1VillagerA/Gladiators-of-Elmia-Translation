@@ -1,0 +1,47 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+出口が塞がれていて開かない……
+> CONTEXT: Map075/events/3/pages/1/0/Dialogue
+The exit is closed and it will not open ...#MTLed
+> END STRING
+
+> BEGIN STRING
+←王城地下方面
+※こちらは緊急時用の通路です。
+王城地下は平時は通行禁止となっております。
+――地下水道管理局
+> CONTEXT: Map075/events/10/pages/0/0/Dialogue
+← Wang Castle Underground. ※ This is a passage for
+emergency. The royal basement is forbidden for traffic
+during normal times. - Groundwater management office#MTLed
+> END STRING
+
+> BEGIN STRING
+→闘技場地下（通行禁止）
+↓王都南東部
+> CONTEXT: Map075/events/11/pages/0/0/Dialogue
+→ Battle ground underground (no traffic)
+↓ king south south east#MTLed
+> END STRING
+
+> BEGIN STRING
+手裏剣を手に入れた！
+> CONTEXT: Map075/events/12/pages/0/9/Dialogue
+I got a shuriken!#MTLed
+> CONTEXT: Commonevents/97/27/Dialogue
+I got a shuriken!#MTLed
+> END STRING
+
+> BEGIN STRING
+毒消しを３つ手に入れた！
+> CONTEXT: Map075/events/13/pages/0/9/Dialogue
+I got three poisons!#MTLed
+> END STRING
+
+> BEGIN STRING
+『地下水道管理室Ｂ』
+と書いてある。
+> CONTEXT: Map075/events/19/pages/0/0/Dialogue
+"Ground water service management room B"
+It is written.#MTLed
+> END STRING

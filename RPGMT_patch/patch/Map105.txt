@@ -1,0 +1,159 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+闘技場地下の鍵で扉を開けた。
+> CONTEXT: Map105/events/5/pages/1/1/Dialogue
+> CONTEXT: Map105/events/6/pages/1/1/Dialogue
+I opened the door with a key in the basement floor.#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場地下水路の鍵を手に入れた！
+> CONTEXT: Map105/events/8/pages/0/9/Dialogue
+I got the key of the Arena groundwater channel!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おかしいな、ここから先には進めないんだろうか。
+どこにも道がないようだが……」
+> CONTEXT: Map105/events/15/pages/0/7/Dialogue
+> CONTEXT: Map105/events/15/pages/1/7/Dialogue
+\\N[12]. 「It is strange, I wonder if I can not move
+forward from here. It seems there is no way anywhere ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子の声
+「おにいさん！　こっちこっち！」
+> CONTEXT: Map105/events/15/pages/0/11/Dialogue
+Voice of a girl. 「Brother!!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ここに扉が隠してあるんだよ。
+こっちに来て、開けてあげるから」
+> CONTEXT: Map105/events/15/pages/0/24/Dialogue
+Purim. 「The door is hidden here.
+Come over here and open it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「プリムじゃないか。
+こんな地下水道なんかで、いったいどうしたんだ？」
+> CONTEXT: Map105/events/15/pages/0/35/Dialogue
+\\N[12]. 「Is not it Purim? What on earth did you do
+with this underground water service?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ある人から頼まれて、ここで待ってたの。
+地下水道のこの区画は道が隠されてて、
+おにいさんが絶対困ってるだろうからって」
+> CONTEXT: Map105/events/15/pages/0/39/Dialogue
+Purim. 「Someone asked me, I was waiting here.
+In this section of the underground waterway the
+road is hidden, Because the old man is absolutely
+troubled」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだったのか……
+ん？　なんかおかしい気もするが……」
+> CONTEXT: Map105/events/15/pages/0/44/Dialogue
+\\N[12]. 「Is that so……. Hmm? I feel something wrong ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「と、とにかくこっちだよ、入って」
+> CONTEXT: Map105/events/15/pages/0/48/Dialogue
+Purim. 「And anyway, here it is, go in」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子の声
+「ちょっと、そこの庶民！
+こっちよ、こっち！」
+> CONTEXT: Map105/events/15/pages/1/11/Dialogue
+Voice of a girl. 「Hey, the commoners there!
+Okay, here!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ここに扉が隠してあるのよ。
+こっちに来なさい！
+私が開けてあげるわ」
+> CONTEXT: Map105/events/15/pages/1/25/Dialogue
+Diana. 「The door is hidden here.
+Come over here! I'll open up.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ディアーナじゃないか。
+こんな地下水道なんかで、いったいどうしたんだ？」
+> CONTEXT: Map105/events/15/pages/1/37/Dialogue
+\\N[12]. 「Is not it Diana? What on earth did you do
+with this underground water service?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふん、女王様の試練を受けるって聞いたからよ。
+庶民のあなたには難しい試練だと思ったから、
+先にこのあたりを調査しておいてあげたの」
+> CONTEXT: Map105/events/15/pages/1/41/Dialogue
+Diana. 「Because I heard that I am going to take
+the queen 's test. Because I thought it was a
+difficult test for you of the common people,
+I've studied this around first」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「助けてくれる、っていうのか？
+いったいどうして」
+> CONTEXT: Map105/events/15/pages/1/46/Dialogue
+\\N[12]. 「Do you mean they will help? Why on earth」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「そんなのどうだっていいでしょう！
+私が助けてあげるって言っているんだから、
+せいぜい感謝なさい！」
+> CONTEXT: Map105/events/15/pages/1/50/Dialogue
+Diana. 「How about such a thing?
+Because I'm telling you I will help you,
+At best thank you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、おう……そうだな、サンキュ。
+俺は王都出身じゃないから、
+詳しい奴に助けてもらえるのは助かるぜ」
+> CONTEXT: Map105/events/15/pages/1/55/Dialogue
+\\N[12]. 「Oh, oh ... That's right, thanks.
+Because I am not from the kingdom, It will be saved to be
+offered by a detailed guy」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふん、ベックフォード家は古くから続く王国貴族だし
+王都なら、地下だろうとなんだろうと把握しているわ。
+さあ、こっちに入りなさい」
+> CONTEXT: Map105/events/15/pages/1/60/Dialogue
+Diana. 「Hmm, the Beckford family is a kingdom
+aristocratic who has been a long way since
+If the kingdom is underground, I understand what
+it is. Come on, come over here.」#MTLed
+> END STRING

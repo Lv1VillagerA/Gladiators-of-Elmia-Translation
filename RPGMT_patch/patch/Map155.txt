@@ -1,0 +1,106 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「あ、あの……」
+> CONTEXT: Map155/events/2/pages/0/9/Dialogue
+> CONTEXT: Map145/events/2/pages/0/9/Dialogue
+\\N[12]. 「Ah, that ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「あら\\N[12]君。
+今日も私とエッチなことをしに来たの？」
+> CONTEXT: Map155/events/2/pages/0/16/Dialogue
+> CONTEXT: Map145/events/2/pages/0/16/Dialogue
+bunny girl. 「Oh \\N[12] You. Have you come here today
+doing lewd things too?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「は、はい……」
+> CONTEXT: Map155/events/2/pages/0/20/Dialogue
+> CONTEXT: Map145/events/2/pages/0/20/Dialogue
+> CONTEXT: Map041/events/56/pages/0/701/Dialogue
+> CONTEXT: Map149/events/38/pages/1/265/Dialogue
+> CONTEXT: Map149/events/38/pages/1/442/Dialogue
+> CONTEXT: Map041/events/5/pages/5/1047/Dialogue
+> CONTEXT: Map025/events/267/pages/1/321/Dialogue
+> CONTEXT: Map025/events/267/pages/1/559/Dialogue
+\\N[12]. 「Is that ... Yes.」#MTLed
+> CONTEXT: Commonevents/242/686/Dialogue
+\\N[12]. 「Is that ... Yes.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「キミもおかしくなっちゃったみたいね。
+私とエッチしたら力を奪われるって分かっているのに
+せっせと鍛え上げてから、何度も来るんだから」
+> CONTEXT: Map155/events/2/pages/0/23/Dialogue
+> CONTEXT: Map145/events/2/pages/0/23/Dialogue
+bunny girl. 「You seem to have become strange.
+I know I will be deprived of power by lewd with me
+It's time to come up after training hard」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「だ、だって、武道大会のときのことが忘れられなくて……
+バニーさんは、一定の強さの相手としてエッチしてくれないし
+俺はもう、こうするしかないんです。
+> CONTEXT: Map155/events/2/pages/0/28/Dialogue
+> CONTEXT: Map145/events/2/pages/0/28/Dialogue
+\\N[12]. 「But, I can not forget about martial arts
+tournament ... ... Bunny-san does not lewd as a partner of
+constant strength. I have no choice but to do this anymore.#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーさんとのエッチじゃなきゃ、
+俺はもう満足できないんですっ！」
+> CONTEXT: Map155/events/2/pages/0/33/Dialogue
+> CONTEXT: Map145/events/2/pages/0/33/Dialogue
+If it's lewd with Bunny-san, I can not be satisfied
+anymore!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「ふふっ、分かっているわ。
+じゃ、今日もお金をちょうだいね。
+その上で、いっぱいエッチしましょ♪」
+> CONTEXT: Map155/events/2/pages/0/37/Dialogue
+> CONTEXT: Map145/events/2/pages/0/37/Dialogue
+bunny girl. 「Huh, I know. Well, please give me some money
+today. Then lewd a lot♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、お願いします！」
+> CONTEXT: Map155/events/2/pages/0/42/Dialogue
+> CONTEXT: Map145/events/2/pages/0/42/Dialogue
+\\N[12]. 「Thank you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は体を少し鍛え上げては
+そのたびにバニーガールの元に足を運び、
+力と精液を搾り取られるセックスに溺れるという
+堕落した日々を送るのだった。
+> CONTEXT: Map155/events/2/pages/0/47/Dialogue
+> CONTEXT: Map145/events/2/pages/0/47/Dialogue
+In this way, \\N[12] He gave up his body a bit
+Every time I visited bunny girl, Drowning in sex with force
+and semen being squeezed. It was to send the corrupt days.#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールエンド：バニーガールの罠に落ちた少年剣士
+> CONTEXT: Map155/events/2/pages/0/52/Dialogue
+> CONTEXT: Map145/events/2/pages/0/52/Dialogue
+bunny girl end: a boy swordsman who fell into a trap of
+bunny girl#MTLed
+> END STRING

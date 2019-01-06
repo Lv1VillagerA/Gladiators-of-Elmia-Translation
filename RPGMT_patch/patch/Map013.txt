@@ -1,0 +1,60 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+女の子
+「\\N[12]お兄ちゃん、武道大会頑張ってね！」
+> CONTEXT: Map013/events/2/pages/0/0/Dialogue
+girl. 「\\N[12] Onii-chan, martial arts tournament Good
+luck!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「わたしも大きくなったら出場したいなぁー
+これでも、同い年の男の子には負けないくらい強いんだよ！」
+> CONTEXT: Map013/events/2/pages/1/0/Dialogue
+girl. 「I want to participate as I grow up
+Again, it is strong enough to lose to boys of the same age!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「\\N[12]お兄ちゃん、優勝おめでとう！
+わたしもお兄ちゃんを目標に頑張るね！」
+> CONTEXT: Map013/events/2/pages/2/0/Dialogue
+girl. 「\\N[12] Onii-chan, congratulations for winning!
+I am going to try my older brother as my goal!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「武道大会は盛り上がるイベントだよなー
+去年、うちの娘を連れて行ったら熱中しちゃってなぁ、
+あの大会はなぜか女性の闘士がたくさん出場するから……」
+> CONTEXT: Map013/events/3/pages/0/0/Dialogue
+male. 「Martial arts tournament is an exciting event
+Last year, I took my daughter and got into it.
+That tournament is why many female fighters will
+participate ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「どうも、この国は戦いたがる女の子が多い気がするな。
+\\N[12]も彼女たちに負けないよう頑張ってな」
+> CONTEXT: Map013/events/3/pages/1/0/Dialogue
+male. 「Somehow, this country seems to have a lot of girls
+wanting to fight. \\N[12] Do your best not to lose to
+them too」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「レストン生まれでも優勝できるものなんだなあ……
+うちの娘も、強くなりたいと言い出したら
+ちゃんと後押ししてやろうかな」
+> CONTEXT: Map013/events/3/pages/2/0/Dialogue
+male. 「I wish I could win even though I was born Reston
+...... If my daughter also wants to be strong
+I'd rather boost it properly」#MTLed
+> END STRING

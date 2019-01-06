@@ -1,0 +1,905 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+商人
+「景色はいいし、温泉も温かい。
+この村はとてもよいところですな」
+> CONTEXT: Map083/events/2/pages/0/0/Dialogue
+merchant. 「The view is nice and the hot springs are warm.
+This village is a very nice place」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「うおー、すっげー白い！」
+> CONTEXT: Map083/events/3/pages/0/0/Dialogue
+boy. 「Wow, it's pretty white!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「うちの子は武道大会よりも雪が好きなようでね。
+ま、あの大会は人混みもひどいし、
+この村のほうがのんびり観光できるってもんさ」
+> CONTEXT: Map083/events/4/pages/0/0/Dialogue
+male. 「My child seems to like snow more than martial arts
+tournament. Well, that tournament has a lot of crowds,
+I think that this village can take a leisurely leisure time
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「よっ、\\N[12]。
+武道大会、優勝したらしいじゃないか。
+さすがだねぇ、あたしに勝つだけのことはあるよ」
+> CONTEXT: Map083/events/5/pages/0/2/Dialogue
+> CONTEXT: Map083/events/5/pages/1/8/Dialogue
+> CONTEXT: Map083/events/5/pages/2/0/Dialogue
+> CONTEXT: Map083/events/5/pages/3/2/Dialogue
+velvet. 「Well, \\N[12] . Martial arts
+tournament seems to have won. As expected, there
+is only one thing that I win」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、サンキュ。
+どうにか優勝できたぜ、
+これであんたも満足してくれただろう」
+> CONTEXT: Map083/events/5/pages/1/13/Dialogue
+> CONTEXT: Map083/events/5/pages/3/7/Dialogue
+\\N[12]. 「Oh, thanks. I managed to win the race,
+You would have been satisfied with this」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「たいしたもんだ、マジでね。
+初対面のときは、ここまでやる男だとは思ってなかった。
+面白い男だとは思っていたけどさ」
+> CONTEXT: Map083/events/5/pages/1/18/Dialogue
+> CONTEXT: Map083/events/5/pages/3/12/Dialogue
+velvet. 「It's a big deal, really.
+When I was on my first meeting, I did not think
+that it was a man to do so far.
+I thought that it was an interesting man」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あんたとの勝負も、俺にとっては強くなるための糧になった。
+今さらだが、あんたとやり合えてよかったよ」
+> CONTEXT: Map083/events/5/pages/1/23/Dialogue
+> CONTEXT: Map083/events/5/pages/3/17/Dialogue
+\\N[12]. 「The game against you also proved to be a
+source of strength for me. Nowadays, I'm glad I could talk
+with you」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「そうかい、あたしもあんたとの勝負は楽しかった。
+また一戦交えたいもんだが……
+> CONTEXT: Map083/events/5/pages/1/27/Dialogue
+velvet. 「Okay, I also enjoyed the game against
+you. I want to get one fight again ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+今日はいったい、こんなトコまでなんの用だい？
+あたしらは以前宣言した通り、
+傭兵団として他の国に行ってみるつもりなんだけどね」
+> CONTEXT: Map083/events/5/pages/1/31/Dialogue
+What on earth are you up to today?
+As we have previously declared,
+I am going to go to another country as a
+mercenary group」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「今さらどうしたってのよ、
+こんな出発直前であんたがやってくるなんて
+ちょっとびっくりしちゃった」
+> CONTEXT: Map083/events/5/pages/1/36/Dialogue
+Bandit Girl. 「What are you doing now? Before you leave
+such a thing that you are coming. I was slightly surprised」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「おにーさんも一緒に行くとか？」
+> CONTEXT: Map083/events/5/pages/1/42/Dialogue
+bandit teen. 「Does the older go together?」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「それとも、お頭に対して
+今になって武道大会での勝者の権利を
+行使したくなっちゃたのかしら、うふふっ」
+> CONTEXT: Map083/events/5/pages/1/46/Dialogue
+sexy bandit. 「Or against your head. Now the right of the
+winner in the martial arts tournament. I wondered if I
+wanted to exercise, Uhufu」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（うーん……
+なんか、こいつらはいつも楽しそうで
+うらやましいな……）
+> CONTEXT: Map083/events/5/pages/1/53/Dialogue
+\\N[12]. (Well .... Something, they always look like fun
+I'm jealous ... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「優勝したくせに、ずいぶん浮かない顔じゃないか。
+あたしはてっきり、賞金で豪遊でもしてるかと思ってたよ」
+> CONTEXT: Map083/events/5/pages/1/58/Dialogue
+velvet. 「Even though I won the championship, it
+is a lot of floating face. I clearly thought that
+I'm playing a crowd with prize money」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、俺はなにか大きなことを成し遂げたくて
+レストンから出てきたんだけどな。
+武道大会優勝でそれがかなって、宙ぶらりんになっちまって」
+> CONTEXT: Map083/events/5/pages/1/71/Dialogue
+\\N[12]. 「No, I want to accomplish something big
+It came out from Reston. It became true with victory in
+martial arts tournament, becoming dangling」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「要するに、することがないってわけかい」
+> CONTEXT: Map083/events/5/pages/1/76/Dialogue
+velvet. 「In short, it is not possible to do」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まあ、そうだな。ぜいたくな悩みだけどさ」
+> CONTEXT: Map083/events/5/pages/1/79/Dialogue
+\\N[12]. 「Well, that's right. It's a luxury problem」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「じゃあいっそ、
+ホントにあたしたちと来たらいいじゃん」
+> CONTEXT: Map083/events/5/pages/1/82/Dialogue
+Bandit Girl. 「Well, I hope to come and see you soon」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「二度もお頭を破ったおにーさんなら、
+わたしたちの仲間にふさわしいもんね！」
+> CONTEXT: Map083/events/5/pages/1/89/Dialogue
+bandit teen. 「If you ever broke your head twice,
+It is fit for our company!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「いっそのこと、あたしらベル傭兵団のボスになるかい？
+あんたになら、みんな喜んでついていくだろうさ。
+もちろん、あたし自身もね」
+> CONTEXT: Map083/events/5/pages/1/93/Dialogue
+velvet. 「Better yet, will we be the bells of
+Bell mercenary teams? Everyone will be happy to
+follow you if you do. Of course, myself too」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、ボスって……お前は、それでいいのか？」
+> CONTEXT: Map083/events/5/pages/1/98/Dialogue
+\\N[12]. 「Eh, boss ...... You, is that okay?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「一番強い奴がボスになるべきだ。
+あたしらはずっと、そうやってきたんでね」
+> CONTEXT: Map083/events/5/pages/1/101/Dialogue
+velvet. 「The strongest guy should be a boss.
+We have been doing that for a long time」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（この四人は、他の国に行くつもりなんだよな。
+こう言ってくれているし、俺も便乗しようか……
+なにせ、もう俺はこの国でやり残したことがない）
+> CONTEXT: Map083/events/5/pages/1/109/Dialogue
+\\N[12]. (These four are going to go to other countries.
+This is saying and I also want to piggyback ... ...
+Anything, I have not done it in this country anymore)#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「どうする？
+本当に来るんなら、ボスはあんたになるわけだし
+あたしらの名乗りは\\N[12]傭兵団ってことになるね」
+> CONTEXT: Map083/events/5/pages/1/114/Dialogue
+velvet. 「what will you do? If it really comes,
+the boss will be you. Their name is \\N[12] It
+will be a mercenary group」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺も興味はあるけど、本当にいいのか？
+敵だった俺が一緒になって。
+しかもボスだなんて」
+> CONTEXT: Map083/events/5/pages/1/119/Dialogue
+\\N[12]. 「I am interested, but is it really good?
+I was an enemy and I got together. Besides, it's a boss」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「かまわないさ、この三人を助けてくれたあんたなら。
+実力も申し分ないし、むしろ武道大会優勝者の
+傭兵団ってことで、ハクもつくってもんだ」
+> CONTEXT: Map083/events/5/pages/1/124/Dialogue
+velvet. 「I do not mind, if you helped these
+three people. The ability is also perfect, and
+rather the martial arts tournament winner
+It was a mercenary group, so I made a cuddle too.
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「そういうこと。
+あんたがボスになることに誰も反対なんてしないから
+やる気があるんなら堂々と入ってきなさいよ」
+> CONTEXT: Map083/events/5/pages/1/130/Dialogue
+Bandit Girl. 「Such thing. Because no one will disagree
+with you that you become a boss. If you are motivated, come
+in kind and entertaining」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……そうか。
+よし、それじゃお言葉に甘えて一緒に行くとするかな」
+> CONTEXT: Map083/events/5/pages/1/137/Dialogue
+\\N[12]. 「……Really. Well then, I wonder if I will go
+with them with my words」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「決まりだね。
+それじゃ、あたしらはこれから\\N[12]傭兵団だ」
+> CONTEXT: Map083/events/5/pages/1/141/Dialogue
+velvet. 「It's a rule. Well then, we are going to
+\\N[12] It's a mercenary group.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「もちろん、おにーさんが望めば
+みんなでエッチなこともしてあげるからね♪」
+> CONTEXT: Map083/events/5/pages/1/146/Dialogue
+bandit teen. 「Of course, if the birthday wish
+Everyone will do things that are lewd♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「ふふ、楽しみね……♪」
+> CONTEXT: Map083/events/5/pages/1/151/Dialogue
+sexy bandit. 「Hehe, I'm having fun ...♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、おう」
+> CONTEXT: Map083/events/5/pages/1/155/Dialogue
+> CONTEXT: Map147/events/2/pages/19/212/Dialogue
+\\N[12]. 「Cover」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「んじゃ、まずはリコシア王国に行くとするかねぇ。
+傭兵団の名を上げて稼ぐとしようか、
+頼んだよ、ボス！」
+> CONTEXT: Map083/events/5/pages/1/158/Dialogue
+velvet. 「Let's start with going to Kingdom of
+Licosa. Whether to earn with raising the name of
+a mercenary group, I asked, boss!」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は元盗賊団の四人に迎え入れられ
+傭兵団のリーダーとなった。
+> CONTEXT: Map083/events/5/pages/1/164/Dialogue
+In this way, \\N[12] Was welcomed by four former bandits
+It became the leader of the mercenary group.#MTLed
+> END STRING
+
+> BEGIN STRING
+その後、\\N[12]の傭兵団は
+各国を回って魔物やならず者を退治したり
+揉め事や戦争などに身を投じることもあったが――
+> CONTEXT: Map083/events/5/pages/1/167/Dialogue
+after that, \\N[12] Mercenaries of. Go around the
+country and get rid of monster and rogue
+Although I sometimes throw myself into trouble or war -#MTLed
+> END STRING
+
+> BEGIN STRING
+メンバー全員が納得しなければ、
+決して力を貸すことはなかったという。
+> CONTEXT: Map083/events/5/pages/1/171/Dialogue
+Unless all members are convinced, He never lent his power.#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、レストンから旅立った少年剣士は
+傭兵として大きく名を上げてゆくこととなるのだった。
+> CONTEXT: Map083/events/5/pages/1/174/Dialogue
+Thus, the boy swordsman who departed from Reston
+It was to raise the name as a mercenary greatly.#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット　グッドエンド：\\N[12]傭兵団
+> CONTEXT: Map083/events/5/pages/1/177/Dialogue
+Velvet Good End: \\N[12] Mercenaries#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「そうかい、あたしもあんたとの勝負は楽しかった。
+また一戦交えたいもんだが……
+今日は、どうやらそういう用事じゃなさそうだね」
+> CONTEXT: Map083/events/5/pages/3/21/Dialogue
+velvet. 「Okay, I also enjoyed the game against
+you. I want to get one fight again ... ...
+Today, apparently it is not such an errand」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「察しがいいな。
+じつは、困っているんだが……
+相談に乗ってくれないか？」
+> CONTEXT: Map083/events/5/pages/3/26/Dialogue
+\\N[12]. 「You guessed it. The truth is, I am in trouble
+... ... Will you take a consultation?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ふうん、
+まあ話ぐらいは聞いてやろうじゃないか」
+> CONTEXT: Map083/events/5/pages/3/31/Dialogue
+velvet. 「Well, Well let's hear about the story,
+is not it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は、女王の試練について説明した――
+> CONTEXT: Map083/events/5/pages/3/35/Dialogue
+> CONTEXT: Map042/events/2/pages/10/58/Dialogue
+\\N[12] He explained about the Queen's test -#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「女王の試練、ねぇ。
+ま、平民をいきなり王族として迎え入れるってのは
+確かにリスクのあることだ、理にかなってはいる」
+> CONTEXT: Map083/events/5/pages/3/37/Dialogue
+velvet. 「The Queen's trial, hey.
+Well, to pick up commoners suddenly as royalty
+It certainly is risky, makes sense」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺はそれを乗り越えて、
+あの姫様の相手としてふさわしい男だと
+女王陛下に示さなけりゃならないんだ」
+> CONTEXT: Map083/events/5/pages/3/42/Dialogue
+\\N[12]. 「I got over it, As a worthy man for that
+princess. I have to show it to my Queen」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「あんたなら乗り越えられるだろうさ。
+あのクソ強い姫様だって倒すことができたんだ、
+女王様にだってきっと勝てるだろう」
+> CONTEXT: Map083/events/5/pages/3/47/Dialogue
+velvet. 「You can get over it. That fucking
+strong princess was able to beat him,
+Even the Queen will surely be able to win」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「勝負に負ける気はない。
+問題は、どうやって城に入るかだ。
+あんたは盗賊だった人だ、専門家として知恵を貸して欲しいんだ」
+> CONTEXT: Map083/events/5/pages/3/52/Dialogue
+\\N[12]. 「I do not feel like losing the game.
+The problem is how to enter the castle. You are a bandit,
+you want me to lend your wisdom as an expert」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ふむ、そういう話か。
+そうだねぇ……
+まず、あんたはどういった方法を考えてる？」
+> CONTEXT: Map083/events/5/pages/3/57/Dialogue
+velvet. 「Hmm, is that story? That's right ...
+First of all, what kind of method are you
+thinking about?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、まあ正面突破は論外として、
+警備の薄い場所から城壁を乗り越えたり、
+秘密の抜け道を探したり、とか」
+> CONTEXT: Map083/events/5/pages/3/62/Dialogue
+\\N[12]. 「Oh, well breaking the front is out of the
+question, Overcome the wall from a thin place of security,
+Look for a secret loophole, or」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「城壁を乗り越えるってのは悪くない発想だ。
+あたしも試みたことはあるしな」
+> CONTEXT: Map083/events/5/pages/3/67/Dialogue
+velvet. 「To overcome the wall is not a bad idea.
+I have tried it, too」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、マジか。
+じゃあ……」
+> CONTEXT: Map083/events/5/pages/3/71/Dialogue
+\\N[12]. 「Well, are they serious? Well then ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ダメだよ、試みたことがあるだけなんだ。
+あの城は南側以外の三方が湖に面しているから、
+侵入可能な場所が南側の城壁しかない。
+> CONTEXT: Map083/events/5/pages/3/75/Dialogue
+velvet. 「No, I just have tried.
+That castle faces the lake on three sides other
+than the south side, There are only walls on the
+south where invasion is possible.#MTLed
+> END STRING
+
+> BEGIN STRING
+まず間違いなく、
+南側にだけ兵士を固めて配置してるだろうさ。
+そうなると人目を盗んで入るなんて無理だ」
+> CONTEXT: Map083/events/5/pages/3/80/Dialogue
+First of all, You will be arranging soldiers only
+on the south side. Then you can not steal the eye
+and enter」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「次に、秘密の抜け道だが――
+非常時に王族が脱出するための地下道は
+間違いなく存在するだろう。けど、これもダメだ。
+> CONTEXT: Map083/events/5/pages/3/87/Dialogue
+velvet. 「Next, it is a secret loophole -
+The underpass for the royal family to escape in
+emergency. It will definitely exist. But this is
+no good.#MTLed
+> END STRING
+
+> BEGIN STRING
+まず王族以外には発見すらできないように
+巧妙に隠されているし、
+よしんば発見できたとしても、多分開かないだろう。
+あたしなら専用の鍵を作るね、それも魔法じかけの」
+> CONTEXT: Map083/events/5/pages/3/92/Dialogue
+First of all, beyond royalties
+It is cleverly hidden, Even if I can say
+good-bye, it probably will not open.
+I will make a special key for you, too, it's
+magic」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うーん、さすがベルベットは専門家だなあ。
+俺が考えつくことぐらいは、もう検討済みか」
+> CONTEXT: Map083/events/5/pages/3/97/Dialogue
+\\N[12]. 「Well, as expected, velvet is an expert.
+Have you already considered about what I think?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「結局のところ
+正規でない道を探さなきゃならないだろう。
+侵入できそうな経路を考えてみることだよ」
+> CONTEXT: Map083/events/5/pages/3/101/Dialogue
+velvet. 「After all. You will have to find a way
+that is not legitimate. Think about the route
+that you can break into」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「経路……うーん……」
+> CONTEXT: Map083/events/5/pages/3/106/Dialogue
+\\N[12]. 「Route ... Well ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（あの城、北側に舟の発着場があった……
+あそこから侵入とか、できないかな……）
+> CONTEXT: Map083/events/5/pages/3/109/Dialogue
+\\N[12]. There was a boat landing on the north side of
+that castle ...... I wonder if it can penetrate from there
+... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「……ひとつ、心当たりがないでもない」
+> CONTEXT: Map083/events/5/pages/3/113/Dialogue
+velvet. 「...... One thing, I do not recognize it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「えっ？
+そ、それはいったいどんな道なんだ？」
+> CONTEXT: Map083/events/5/pages/3/116/Dialogue
+\\N[12]. 「eh? What kind of road is it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「王都には地下水道が張り巡らされている、
+このことは知っているかい？」
+> CONTEXT: Map083/events/5/pages/3/120/Dialogue
+velvet. 「There is a groundwater supply to the
+kingdom, Do you know this thing?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、一度ギルドの依頼で
+入ったことがあるから知ってるが……
+まさか、あれを伝って城に入れるのか？」
+> CONTEXT: Map083/events/5/pages/3/125/Dialogue
+\\N[12]. 「Oh, once at the request of the guild
+I know because I've entered it ... ... No way, would you go
+through that and put it in the castle?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「地下水道自体が城まで繋がってるかは分からない。
+だが、地下からなら、何らかの方法で
+城の真下に潜り込めるかもしれないと思わないかい？」
+> CONTEXT: Map083/events/5/pages/3/130/Dialogue
+velvet. 「I do not know if the underground water
+service itself is connected to the castle.
+However, if from underground, in some way
+Do not you think you might be able to get in
+beneath the castle?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「確かに……なるほど、
+闇雲に地上で道を探すよりは可能性がありそうだ」
+> CONTEXT: Map083/events/5/pages/3/135/Dialogue
+\\N[12]. 「Surely ... ... I see, It seems more likely
+than to find a way on the ground in a blatant way」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ギルドの依頼で入ったってことは、
+侵入口を知ってるのかい？」
+> CONTEXT: Map083/events/5/pages/3/139/Dialogue
+velvet. 「What I got in at the request of a guild,
+Do you know the intruding entrance?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「依頼者の家から入ることができたんだよ。
+東地区の北側住宅街の家だったかな」
+> CONTEXT: Map083/events/5/pages/3/143/Dialogue
+\\N[12]. 「I was able to enter from the client 's house.
+I wonder if it was a house in the northern residential area
+of ​​the east area」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「なら、そこから入ってみるのもいいかもね」
+> CONTEXT: Map083/events/5/pages/3/147/Dialogue
+velvet. 「Then, it might be nice to try entering
+from there」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まだ地下水道には未知の場所がありそうだし
+調べてみる価値はある、と思うけど……」
+> CONTEXT: Map083/events/5/pages/3/150/Dialogue
+\\N[12]. 「There are still unknown places in the
+underground water supply. I think that it is worth
+investigating ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「けど？」
+> CONTEXT: Map083/events/5/pages/3/154/Dialogue
+velvet. 「but?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あの入口からは、城に続く経路があるかどうか
+分からないな……
+途中で行き止まりだったんだ」
+> CONTEXT: Map083/events/5/pages/3/157/Dialogue
+\\N[12]. 「From that entrance, whether or not there is a
+path following the castle. I do not know ...
+It was a dead end on the way.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「なら、念のために
+あたしが知ってるもうひとつの入口も
+開けておくとしようかね」
+> CONTEXT: Map083/events/5/pages/3/162/Dialogue
+velvet. 「Then, just in case. Another entrance I
+know is also. Let's keep it open」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「もうひとつの入口？」
+> CONTEXT: Map083/events/5/pages/3/167/Dialogue
+\\N[12]. 「Another entrance?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「あたしはモルデリア洞窟の地下空間――
+あんたと戦ったあの部屋に住んでいたわけだが、
+じつは、あそこから王都の地下水道に侵入できる」
+> CONTEXT: Map083/events/5/pages/3/170/Dialogue
+velvet. 「I am the underground space of the
+Morderia cave -. I lived in that room I fought
+with you, You can invade the underground water
+service of the Kingdom from there」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へえ、そうなのか」
+> CONTEXT: Map083/events/5/pages/3/175/Dialogue
+> CONTEXT: Map083/events/5/pages/3/218/Dialogue
+\\N[12]. 「Oh, is that so?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「繋がってるのを偶然見つけたんだけどね。
+あの部屋の西側に川が流れていたろう？
+あれを渡って洞窟を進むと、地下水道まで行ける」
+> CONTEXT: Map083/events/5/pages/3/178/Dialogue
+velvet. 「I happened to find out that we are
+connected. Was the river flowing in the west side
+of that room? You can cross the cave and go to
+the underground water supply」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか、それなら以前入った場所とは違うエリアを
+探索できるかもしれないし、
+是非開けておいてもらいたいな」
+> CONTEXT: Map083/events/5/pages/3/183/Dialogue
+\\N[12]. 「Ok, then, we will have an area different from
+the one we entered earlier. You may be able to explore,
+I would like to have it open」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「そうかい？
+じゃ、あたしは先にモルデリア洞窟の地下に行って、
+川を渡れるように橋をかけておくよ」
+> CONTEXT: Map083/events/5/pages/3/188/Dialogue
+velvet. 「Is it so? Well, I went to the basement
+of the Morderia cave first, I will put a bridge
+across the river」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「悪いな、何から何まで」
+> CONTEXT: Map083/events/5/pages/3/193/Dialogue
+> CONTEXT: Map083/events/5/pages/3/246/Dialogue
+\\N[12]. 「Sorry, for anything」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「いいさ。
+あんたがどこまで行くのか、あたしは楽しみなんだ。
+こんなところで挫折されてもつまらないからね」
+> CONTEXT: Map083/events/5/pages/3/196/Dialogue
+> CONTEXT: Map083/events/5/pages/3/249/Dialogue
+velvet. 「Good. I am looking forward to where you
+will go. Even if we are frustrated in such a
+place it's boring」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、よく知らないけど……」
+> CONTEXT: Map083/events/5/pages/3/203/Dialogue
+\\N[12]. 「No, I do not know it well ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「あたしたちはモルデリア洞窟を占拠して
+しばらく暮らしていただろう？」
+> CONTEXT: Map083/events/5/pages/3/206/Dialogue
+velvet. 「We occupy the Morderia cave
+Did you live for a while?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ」
+> CONTEXT: Map083/events/5/pages/3/210/Dialogue
+\\N[12]. 「Oh」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「あたしは、あの洞窟の地下空間――
+あんたと戦ったあの部屋に住んでいたわけだが、
+じつは、あそこから王都の地下水道に侵入できる」
+> CONTEXT: Map083/events/5/pages/3/213/Dialogue
+velvet. 「I found the underground space of that
+cave -. I lived in that room I fought with you,
+You can invade the underground water service of
+the Kingdom from there」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「繋がってるのを偶然見つけたんだけどね。
+あの部屋の西側に川が流れていたろう？
+あれを渡って洞窟を進むと、地下水道に行ける」
+> CONTEXT: Map083/events/5/pages/3/221/Dialogue
+velvet. 「I happened to find out that we are
+connected. Was the river flowing in the west side
+of that room? If you cross the one and go through
+the cave, you can go to the underground water
+service」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「地下水道か。
+あ、もしかすると、地下水道をたどって行けば
+城に地下から侵入できるかもしれない……？」
+> CONTEXT: Map083/events/5/pages/3/226/Dialogue
+\\N[12]. 「Is it a groundwater? Oh, maybe if I go down
+the underground water supply. You might be able to invade
+the castle from underground ... ....?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「そう、地下から城に侵入する方法を探るんだ。
+地下水道自体は城までは繋がってないけど、
+何らかの方法で城の真下に潜り込めるかもしれない」
+> CONTEXT: Map083/events/5/pages/3/231/Dialogue
+velvet. 「Yes, I will explore ways to invade the
+castle from underground. The groundwater itself
+is not connected to the castle,
+It might be able to get in under the castle in
+some way」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど。
+闇雲に地上で道を探すよりは可能性がありそうだ、
+よし、その線で行ってみよう！」
+> CONTEXT: Map083/events/5/pages/3/236/Dialogue
+\\N[12]. 「I see. There seems to be more possibility
+than to find a way on the ground in a blatant way,
+OK, let's go with that line!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「やるかい？
+じゃ、あたしは先にモルデリア洞窟の地下に行って、
+川を渡れるように橋をかけておくよ」
+> CONTEXT: Map083/events/5/pages/3/241/Dialogue
+velvet. 「Would you do it? Well, I went to the
+basement of the Morderia cave first,
+I will put a bridge across the river」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「それじゃ行くよ、お前たち！
+モルデリア洞窟に一時帰宅と洒落込もうか」
+> CONTEXT: Map083/events/5/pages/3/257/Dialogue
+velvet. 「Well then, you guys! Would you like to
+go back to the Morderia cave temporarily home?」#MTLed
+> END STRING
+
+> BEGIN STRING
+三人
+「わっかりましたー！」
+> CONTEXT: Map083/events/5/pages/3/261/Dialogue
+Three people. 「I was disappointed!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「温泉って気持ちがいいわよねぇ、
+ずっとここで暮らしたくなってきちゃった♪」
+> CONTEXT: Map083/events/6/pages/0/0/Dialogue
+sexy bandit. 「I feel like having a hot spring,
+I want to live here forever♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「少しここにとどまって、
+今後どうするか決めることにしたんだよ」
+> CONTEXT: Map083/events/7/pages/0/0/Dialogue
+Bandit Girl. 「Staying here for a while, I decided to
+decide what to do in the future」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「あ、おにーさん！
+こないだは助けてくれてありがとね！」
+> CONTEXT: Map083/events/8/pages/0/0/Dialogue
+bandit teen. 「Oh, my older brother! Thank you for your
+help last time!」#MTLed
+> END STRING

@@ -1,0 +1,319 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ジェーンが武道大会で活躍したことにより、
+レストン自警団の評判は高まることとなった。
+> CONTEXT: Map120/events/17/pages/0/1/Dialogue
+Because Jane played an active part in martial arts
+tournament, The reputation of the Reston vigilante group
+was increased.#MTLed
+> END STRING
+
+> BEGIN STRING
+しかし、ジェーンに引っ張られるようにして
+意気上がる女性メンバー達に対し、
+\\N[12]がジェーンに敗れたこともあって
+男性メンバー達は気圧され気味になっていた。
+> CONTEXT: Map120/events/17/pages/0/4/Dialogue
+But as I was pulled by Jane. To female members who are
+cheerful, \\N[12] Jane was also defeated by Jane
+The male members were getting pressured.#MTLed
+> END STRING
+
+> BEGIN STRING
+村長の娘
+「さあ、今日も稽古の仕上げ、
+男女対抗試合を始めるよー！
+あたしが監督してるから、みんな存分に頑張ってねー」
+> CONTEXT: Map120/events/17/pages/0/11/Dialogue
+village head daughter. 「Come today, finish training,
+I will start a game against men and women!
+I'm the director, so everyone is doing my best」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ロック
+「ぐふっ……」
+> CONTEXT: Map120/events/17/pages/0/64/Dialogue
+militia member Rock. 「Huh ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員トーマス
+「ま、負けた……」
+> CONTEXT: Map120/events/17/pages/0/68/Dialogue
+militia member Thomas. 「Well, I lost ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員コーデリア
+「ちょっとぉ、それでも男なの？
+手応えなさすぎてつまんないわよ？」
+> CONTEXT: Map120/events/17/pages/0/72/Dialogue
+militia member Cordelia. 「A little, is he still a man?
+It is boring too much to respond?」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員デュア
+「楽勝すぎて試合やる意味がないよねー。
+ま、\\N[12]はまだマシみたいだけど……」
+> CONTEXT: Map120/events/17/pages/0/77/Dialogue
+militia member Dyre. 「It's too easy to play and there is
+no point in playing. Well, \\N[12] I still seem to be
+okay ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員メリーナ
+「でも、ジェーンが相手じゃね……」
+> CONTEXT: Map120/events/17/pages/0/90/Dialogue
+militia member Melina. 「But Jane is your opponent ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「その程度？
+じゃあ、これでとどめっ！」
+> CONTEXT: Map120/events/17/pages/0/108/Dialogue
+Jane. 「To that extent? Well, that's it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長の娘
+「そこまで！」
+> CONTEXT: Map120/events/17/pages/0/120/Dialogue
+village head daughter. 「To that extent!」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員デュア
+「きゃーっ！　ジェーン、すごーい！
+これで男の子相手の試合は20連勝ぐらいしてない？」
+> CONTEXT: Map120/events/17/pages/0/124/Dialogue
+militia member Dyre. 「Kyat! Jane, great!
+Does not the boy 's opponent' s match have been won 20
+consecutive victories?」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ファナ
+「あの\\N[12]も、ジェーンには全然かなわなく
+なっちゃったね」
+> CONTEXT: Map120/events/17/pages/0/128/Dialogue
+militia member Fhana. 「that \\N[12] Even Jane does not
+hurt at all. You must have done it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……く、くそっ……」
+> CONTEXT: Map120/events/17/pages/0/133/Dialogue
+> CONTEXT: Map019/events/19/pages/0/200/Dialogue
+> CONTEXT: Map019/events/19/pages/0/237/Dialogue
+> CONTEXT: Map019/events/26/pages/0/256/Dialogue
+> CONTEXT: Map019/events/26/pages/0/292/Dialogue
+\\N[12]. 「uugh ... ... Damn it ... damn」#MTLed
+> CONTEXT: Commonevents/224/31/Dialogue
+> CONTEXT: Commonevents/224/67/Dialogue
+\\N[12]. 「uugh ... ... Damn it ... damn」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長の娘
+「まったく、うちの村の男どもは
+ここんとこ女の子に負けてばかりで、なっさけない……
+これは待遇を考える必要があるわね」
+> CONTEXT: Map120/events/17/pages/0/137/Dialogue
+village head daughter. 「Indeed, the villagers in our
+village. I'm just losing to a girl here, I will not stop
+... ... This is necessary to think about treatment」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員コーデリア
+「今日のリーグ戦も女子が圧倒的だったね♪」
+> CONTEXT: Map120/events/17/pages/0/146/Dialogue
+militia member Cordelia. 「Girls were also overwhelming for
+today's league game♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員メリーナ
+「ちょっと力が強いからって
+ずっと男の子が自警団をリードしてたけど、
+もう女の子だけで全部やってもいいぐらいだよね」
+> CONTEXT: Map120/events/17/pages/0/152/Dialogue
+militia member Melina. 「It is because the power is a bit
+strong. The boy has been leading the vigilant group for a
+long time, You can do it with only girls already」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「来年はウチの自警団の上位５人ぐらいで
+大会に乗り込んでみる？
+結構いいとこまで行けるかもしれないし」
+> CONTEXT: Map120/events/17/pages/0/159/Dialogue
+Jane. 「Next year is the top five of the vigilante of Uchi
+Why do not you get in the tournament? It may be quite nice
+to go」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ファナ
+「ウチでやってるリーグ戦で選抜するってこと？」
+> CONTEXT: Map120/events/17/pages/0/168/Dialogue
+militia member Fhana. 「Does it mean I will choose in the
+league game we are doing?」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員コーデリア
+「今なら５人全員女の子になりそうだねー
+ウチの男たちって全然強くないしぃ」
+> CONTEXT: Map120/events/17/pages/0/172/Dialogue
+militia member Cordelia. 「Now all five girls are going to
+be girls. My men are not strong at all.」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員デュア
+「あはは、言えてるー！」
+> CONTEXT: Map120/events/17/pages/0/177/Dialogue
+militia member Dyre. 「Haha, I can say it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くっ、言われたい放題だけど……
+俺がジェーンに全然勝てなくなっちまったのは
+事実だし、仕方ない……）
+> CONTEXT: Map120/events/17/pages/0/180/Dialogue
+\\N[12]. (Come on, it's all you want to be said ....
+I was not able to win Jane at all. It is a fact, it can not
+be helped ... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ファナ
+「んじゃ、今日も試合に負けた人は
+雑用とか掃除をしっかり頼むわね。
+あたしたちはパトロールに行ってくるから」
+> CONTEXT: Map120/events/17/pages/0/188/Dialogue
+militia member Fhana. 「Then, who lost the game today as
+well. I will depend on you for chores and cleaning.
+Because we are going to patrol」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員デュア
+「まあ、負けた人って、要するに男どものことなんだけどね。
+あははははっ！」
+> CONTEXT: Map120/events/17/pages/0/202/Dialogue
+militia member Dyre. 「Well, the person losing is, in
+short, what about men. Hahahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員メリーナ
+「毎日負けてるから大変だねー
+頑張ってねー、奴隷君たちー♪」
+> CONTEXT: Map120/events/17/pages/0/207/Dialogue
+militia member Melina. 「Because I lose every day, it is
+hard work. Good luck, your slave you guys♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性団員たちは、笑顔を交わし合いながら
+黄色い声をはずませて、鍛錬場を出ていった……
+> CONTEXT: Map120/events/17/pages/0/212/Dialogue
+Women's members, while intertwining each other
+I got a yellow voice and left the training ground ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+後には、むなしく倒れたままの男性団員たちが残された。
+> CONTEXT: Map120/events/17/pages/0/215/Dialogue
+Later, male members who fell vainly fell were left.#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ザイン
+「ううっ、俺たち、
+これからずっとこんなミジメな境遇が続くのかなあ」
+> CONTEXT: Map120/events/17/pages/0/230/Dialogue
+militia member Zhein. 「OHh, we, I wonder if this kind of
+minor circumstances will continue for the rest of my life」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「女ども、ジェーンに鍛えられて
+みんな飛躍的に上達したからな……
+情けないが、もう俺たちは彼女たちにかなわん……」
+> CONTEXT: Map120/events/17/pages/0/234/Dialogue
+Captain Albert. 「Women, trained in Jane. Everyone improved
+dramatically ... Merciful but we can not match them .....」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員トーマス
+「くそう、でもこのまま虐げられるままの立場に
+甘んじているわけにはいかないですよ！
+俺たちも特訓して、意地を見せましょう団長！」
+> CONTEXT: Map120/events/17/pages/0/239/Dialogue
+militia member Thomas. 「Okay, but as it is to be oppressed
+as it is. I can not afford it! Let us specialize, also
+let's show our obsessing!」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「あ、ああ。
+そうだな、俺たちも頑張ろう。
+\\N[12]、俺たちを鍛えてくれるか？」
+> CONTEXT: Map120/events/17/pages/0/244/Dialogue
+Captain Albert. 「Oh, oh. Yeah, we will do our best too.
+\\N[12] Will you train us?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「は、はい」
+> CONTEXT: Map120/events/17/pages/0/249/Dialogue
+> CONTEXT: Map041/events/56/pages/0/383/Dialogue
+> CONTEXT: Map041/events/5/pages/5/729/Dialogue
+\\N[12]. 「Yes」#MTLed
+> CONTEXT: Commonevents/242/371/Dialogue
+\\N[12]. 「Yes」#MTLed
+> END STRING
+
+> BEGIN STRING
+しかし――
+その後も男たちは女に対してまったくかなわない状況は
+ずっと続き、ついには団長もその座を追われ、
+ジェーンが新団長に就任することとなる。
+> CONTEXT: Map120/events/17/pages/0/253/Dialogue
+However--. The situation that men do not quite match
+against women after that. It lasted long, finally the
+headmaster was also chased after the seat,
+Jane will be appointed as the new head coach.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]がシェリーに敗北したことをきっかけとし、
+さらに武道大会という大舞台でジェーンに敗れたことが
+起爆剤となって――
+レストン自警団は、女性上位の組織へと変貌するのであった。
+> CONTEXT: Map120/events/17/pages/0/258/Dialogue
+\\N[12] Was triggered by Sherry's defeat,
+In addition, Jane lost to a big stage called martial arts
+tournament. As an initiator -. The Reston vigilante group
+was transformed into a female superior organization.#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン バッドエンド１：女性上位となった故郷
+> CONTEXT: Map120/events/17/pages/0/263/Dialogue
+Jane Bad End 1: Hometown of being the top woman#MTLed
+> END STRING

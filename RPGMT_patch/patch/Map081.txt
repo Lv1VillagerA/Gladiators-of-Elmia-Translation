@@ -1,0 +1,34 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+女性
+「そろそろ、ユキミタケっていう
+おいしいキノコがとれる季節になりそうで、楽しみだわ。
+村長の家の裏によく生えているのよ」
+> CONTEXT: Map081/events/1/pages/0/0/Dialogue
+Woman. 「It's about time, snowy mushroom. It is going to be
+a season when delicious mushrooms can get off, I'm looking
+forward to it. It grows well behind the house of village
+head」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「この村はよいところですが、
+たまには、南のレストンのような温暖な土地で
+海水浴でも楽しみたくなりますな」
+> CONTEXT: Map081/events/2/pages/0/0/Dialogue
+old man. 「This village is a nice place, Once in a
+temperate land like Reston in the south. I would like to
+have fun even at sea bathing」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「ユキミタケですか、
+あれはシチューに入れると味が深まっておいしいですな。
+高原によく生えておりますが、少々見つけにくいのが難点です」
+> CONTEXT: Map081/events/2/pages/1/0/Dialogue
+old man. 「snowy mushroom? That taste deepens and it tastes
+good when put in a stew. It grows well in the plateau, but
+it is a difficult point to find it a bit」#MTLed
+> END STRING

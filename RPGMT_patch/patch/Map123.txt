@@ -1,0 +1,27 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+妖艶のクリスタルを破壊した！
+> CONTEXT: Map123/events/1/pages/0/19/Dialogue
+I destroyed a crystal of fascination!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、またこんな幻影を見せてくるとは……
+あのバニーガールに誘われるのはキツいぜ、
+気を抜いたら飛びついてしまいそうだった……」
+> CONTEXT: Map123/events/1/pages/0/25/Dialogue
+\\N[12]. 「Cut, and also to show such an illusion ... ...
+Why are you invited to that bunny girl why,
+It seemed like I jumped when I took a break ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+あのバニーガールの幻影を利用してくるとは
+なかなか、厄介な罠だったぜ……
+あの体はエロすぎて、気を抜くと誘われちまいそうになる……」
+> CONTEXT: Map123/events/1/pages/0/36/Dialogue
+To use that ghost of that bunny girl. It was quite a
+nuisance trap ... ... That body is too erotic, and it gets
+invited to be caught out ....」#MTLed
+> END STRING

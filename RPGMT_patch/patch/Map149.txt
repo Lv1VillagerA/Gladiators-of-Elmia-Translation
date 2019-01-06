@@ -1,0 +1,1322 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+フリーバトル部屋
+> CONTEXT: Map149/display_name/
+Free battle room#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「ここは回想モードエリアです。
+好きな女の子との対戦回想が楽しめます！
+ご自由にご堪能くださいね」
+> CONTEXT: Map149/events/1/pages/0/0/Dialogue
+Maid. 「This is the reminiscence mode area.
+You can enjoy recollections with your favorite girls!
+Please feel free to enjoy it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+フリーバトルについて
+> CONTEXT: Map149/events/1/pages/0/5/Choice/0
+About free battle#MTLed
+> END STRING
+
+> BEGIN STRING
+モンスター等について
+> CONTEXT: Map149/events/1/pages/0/5/Choice/1
+About monsters etc.#MTLed
+> END STRING
+
+> BEGIN STRING
+右下のカウンターについて
+> CONTEXT: Map149/events/1/pages/0/5/Choice/2
+About the lower right counter#MTLed
+> END STRING
+
+> BEGIN STRING
+階段について
+> CONTEXT: Map149/events/1/pages/0/5/Choice/3
+About the stairs#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「女性キャラクターとのフリーバトルが楽しめます！
+本編で対戦できる、エッチシーンのある対戦シチュエーションが
+すべて楽しめるようになっていますよ。
+> CONTEXT: Map149/events/1/pages/0/7/Dialogue
+Maid. 「You can enjoy free battle with female characters!
+A battle situation with lewd scene that you can play
+against in this volume. It has become possible to enjoy it
+all.#MTLed
+> END STRING
+
+> BEGIN STRING
+普通に戦うだけでなく、
+特定の技しか使ってこない状態の相手と戦うことも可能です！
+好きな技で嫐られたいときにオススメですよ！」
+> CONTEXT: Map149/events/1/pages/0/12/Dialogue
+In addition to normal fight, It is also possible to fight
+opponents who only use specific skills! It is recommended
+when you want to be caught in a favorite technique!」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「対戦後にエッチシーンのない相手や、
+モンスター、モブキャラクター等が相手のバトルは
+回想モードには収録されておりません、ご了承ください。
+> CONTEXT: Map149/events/1/pages/0/18/Dialogue
+Maid. 「An opponent without lewd scene after the match,
+Monsters, mob characters and so on are the opponent's
+battle. It is not included in reminiscence mode, please
+understand.#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリーとアルミナの出会い時のバトルについては、
+エッチシーンではありませんが、
+イベントCGが存在するため例外的に収録してあります」
+> CONTEXT: Map149/events/1/pages/0/23/Dialogue
+Regarding battle when Sherry and alumina met,
+It is not a lewd scene, Because there is an event CG, it is
+recorded exceptionally」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「カウンターにいるメイドは、それぞれ
+左はエンディングリストと攻略法の確認ができ、
+右は戦闘敗北時以外のときに発生するHシーンの鑑賞ができます」
+> CONTEXT: None < UNUSED
+Maid. 「Maids at the counter are. On the left you can check
+the ending list and the strategy, The right can appreciate
+the H scene that occurs when battle is not defeated」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「地下はCG閲覧モードのフロアとなっております。
+CGだけを見たい場合にご利用くださいね」
+> CONTEXT: Map149/events/1/pages/0/41/Dialogue
+Maid. 「Underground is the floor of CG viewing mode.
+Please use it when you want to see only CG」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「こちらは\\N[12]さんのレベルや体力などを
+自由に変更できるコーナーです！！
+回復もできますよー」
+> CONTEXT: Map149/events/2/pages/0/0/Dialogue
+> CONTEXT: Map023/events/87/pages/0/0/Dialogue
+Maid. 「This is \\N[12] Ms.'s level and physical fitness
+It is a freely changeable corner! ! You can also recover」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]のレベルを変更
+> CONTEXT: Map149/events/2/pages/0/5/Choice/0
+> CONTEXT: Map023/events/87/pages/0/5/Choice/0
+\\N[12] Change the level of#MTLed
+> END STRING
+
+> BEGIN STRING
+体力を操作
+> CONTEXT: Map149/events/2/pages/0/5/Choice/1
+> CONTEXT: Map023/events/87/pages/0/5/Choice/1
+Manipulate physical strength#MTLed
+> END STRING
+
+> BEGIN STRING
+精神を操作
+> CONTEXT: Map149/events/2/pages/0/5/Choice/2
+> CONTEXT: Map023/events/87/pages/0/5/Choice/2
+Manipulate the spirit#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「レベルは50が最大値となっておりますので、
+51以上の数値を入力しても50になります、ご了承ください」
+> CONTEXT: Map149/events/2/pages/0/7/Dialogue
+> CONTEXT: Map023/events/87/pages/0/7/Dialogue
+Maid. 「As the level is 50 as the maximum value,
+Even if you enter a number of 51 or more it will be 50,
+please understand」#MTLed
+> END STRING
+
+> BEGIN STRING
+1にする
+> CONTEXT: Map149/events/2/pages/0/25/Choice/0
+> CONTEXT: Map023/events/87/pages/0/25/Choice/0
+Make 1#MTLed
+> END STRING
+
+> BEGIN STRING
+最大値にする
+> CONTEXT: Map149/events/2/pages/0/25/Choice/1
+> CONTEXT: Map023/events/87/pages/0/25/Choice/1
+Make it the maximum value#MTLed
+> END STRING
+
+> BEGIN STRING
+数値入力
+> CONTEXT: Map149/events/2/pages/0/25/Choice/2
+> CONTEXT: Map023/events/87/pages/0/25/Choice/2
+Numerical input#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「精神は100が最大値となっておりまーす！」
+> CONTEXT: Map149/events/2/pages/0/44/Dialogue
+> CONTEXT: Map023/events/87/pages/0/44/Dialogue
+Maid. 「The spirit is the maximum value of 100!」#MTLed
+> END STRING
+
+> BEGIN STRING
+性感度を操作
+> CONTEXT: Map149/events/2/pages/0/60/Choice/0
+> CONTEXT: Map023/events/87/pages/0/60/Choice/0
+Manipulate sex sensitivity#MTLed
+> END STRING
+
+> BEGIN STRING
+全回復
+> CONTEXT: Map149/events/2/pages/0/60/Choice/1
+> CONTEXT: Map023/events/87/pages/0/60/Choice/1
+Full Recovery#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「性感度の最大値は30となっておりまーす！」
+> CONTEXT: Map149/events/2/pages/0/62/Dialogue
+> CONTEXT: Map023/events/87/pages/0/62/Dialogue
+Maid. 「The maximum value of sexuality is 30!」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「道具屋ですよー」
+> CONTEXT: Map149/events/3/pages/0/0/Dialogue
+Maid. 「It's a tool store.」#MTLed
+> END STRING
+
+> BEGIN STRING
+普通に戦う
+> CONTEXT: Map149/events/4/pages/0/2/Choice/0
+> CONTEXT: Map149/events/5/pages/0/2/Choice/0
+> CONTEXT: Map149/events/6/pages/0/2/Choice/0
+> CONTEXT: Map149/events/7/pages/0/5/Choice/0
+> CONTEXT: Map149/events/14/pages/0/1/Choice/0
+> CONTEXT: Map149/events/18/pages/0/7/Choice/0
+> CONTEXT: Map149/events/19/pages/0/8/Choice/0
+> CONTEXT: Map149/events/20/pages/0/7/Choice/0
+> CONTEXT: Map149/events/21/pages/0/8/Choice/0
+> CONTEXT: Map149/events/22/pages/0/9/Choice/0
+> CONTEXT: Map149/events/23/pages/0/8/Choice/0
+> CONTEXT: Map149/events/28/pages/0/8/Choice/0
+> CONTEXT: Map149/events/31/pages/0/8/Choice/0
+> CONTEXT: Map149/events/32/pages/0/9/Choice/0
+> CONTEXT: Map152/events/97/pages/1/0/Choice/0
+> CONTEXT: Map152/events/97/pages/3/0/Choice/0
+> CONTEXT: Map152/events/97/pages/4/0/Choice/0
+> CONTEXT: Map152/events/97/pages/7/0/Choice/0
+> CONTEXT: Map149/events/30/pages/0/13/Choice/0
+> CONTEXT: Map149/events/30/pages/0/13/Choice/0
+> CONTEXT: Map149/events/41/pages/0/0/Choice/0
+> CONTEXT: Map149/events/41/pages/0/0/Choice/0
+> CONTEXT: Map152/events/97/pages/2/2/Choice/0
+> CONTEXT: Map152/events/97/pages/2/2/Choice/0
+> CONTEXT: Map152/events/97/pages/9/0/Choice/0
+> CONTEXT: Map152/events/97/pages/9/0/Choice/0
+normal fight#MTLed
+> END STRING
+
+> BEGIN STRING
+パンチラキック　のみ
+> CONTEXT: Map149/events/4/pages/0/2/Choice/1
+panty shot kick only#MTLed
+> END STRING
+
+> BEGIN STRING
+金的蹴り　のみ
+> CONTEXT: Map149/events/4/pages/0/2/Choice/2
+Only money kick#MTLed
+> END STRING
+
+> BEGIN STRING
+※金的攻撃は、主人公が勃起状態の場合に
+命中率が大幅に上昇します。
+通常状態では命中しにくいので、ご注意ください。
+> CONTEXT: Map149/events/4/pages/0/33/Dialogue
+> CONTEXT: Map149/events/5/pages/0/35/Dialogue
+* Gold attacks, when the hero is in an erect state
+The hit rate will rise significantly. It is difficult to
+hit in the normal state, so please be careful.#MTLed
+> END STRING
+
+> BEGIN STRING
+ヒップアタック　のみ
+> CONTEXT: Map149/events/5/pages/0/2/Choice/1
+Hip Attack only#MTLed
+> END STRING
+
+> BEGIN STRING
+ヒップアタック（股間）　のみ
+> CONTEXT: Map149/events/5/pages/0/2/Choice/2
+Hip Attack (groin) only#MTLed
+> END STRING
+
+> BEGIN STRING
+投げキッス　のみ
+> CONTEXT: Map149/events/6/pages/0/2/Choice/1
+Throwing kiss only only#MTLed
+> END STRING
+
+> BEGIN STRING
+胸押し付け　のみ
+> CONTEXT: Map149/events/6/pages/0/2/Choice/2
+Chest thrust only#MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱい押し付け　のみ
+> CONTEXT: Map149/events/7/pages/0/5/Choice/1
+Breast push only only#MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱいアタック　のみ
+> CONTEXT: Map149/events/7/pages/0/5/Choice/2
+> CONTEXT: Map152/events/97/pages/4/0/Choice/1
+Breast attack only only#MTLed
+> END STRING
+
+> BEGIN STRING
+※この戦いは絶対に勝てません。
+> CONTEXT: Map149/events/12/pages/0/2/Dialogue
+> CONTEXT: Map149/events/13/pages/0/2/Dialogue
+※ I can not win this fight absolutely.#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「このバトルについては、
+あたしたち三人の誰に話しかけても
+バトルの内容は同じだから、安心していいわよ」
+> CONTEXT: Map149/events/18/pages/0/2/Dialogue
+> CONTEXT: Map149/events/23/pages/0/1/Dialogue
+Bandit Girl. 「Regarding this battle, Whatever we speak to
+The content of the battle is the same, so you can rest
+assured」#MTLed
+> END STRING
+
+> BEGIN STRING
+コンビネーション　のみ
+> CONTEXT: Map149/events/18/pages/0/7/Choice/1
+> CONTEXT: Map149/events/19/pages/0/8/Choice/1
+> CONTEXT: Map149/events/20/pages/0/7/Choice/1
+> CONTEXT: Map149/events/21/pages/0/8/Choice/1
+> CONTEXT: Map149/events/22/pages/0/9/Choice/1
+> CONTEXT: Map149/events/23/pages/0/8/Choice/1
+Combination only#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「このバトルについては、
+わたしたち三人の誰に話しかけても
+バトルの内容は同じだから、安心してね」
+> CONTEXT: Map149/events/19/pages/0/1/Dialogue
+> CONTEXT: Map149/events/22/pages/0/2/Dialogue
+bandit teen. 「Regarding this battle, Whatever we speak to
+The content of the battle is the same, so be at ease」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「このバトルについては、
+私たち三人の誰に話しかけても
+内容は同じだから、安心してね」
+> CONTEXT: Map149/events/20/pages/0/0/Dialogue
+sexy bandit. 「Regarding this battle, Whatever we talk to
+The contents are the same, so please be relieved」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「このバトルについては、
+私たち三人の誰に話しかけても
+バトルの内容は同じだから、安心してね」
+> CONTEXT: Map149/events/21/pages/0/1/Dialogue
+sexy bandit. 「Regarding this battle, Whatever we talk to
+The content of the battle is the same, so be at ease」#MTLed
+> END STRING
+
+> BEGIN STRING
+普通の兵士
+> CONTEXT: Map149/events/24/pages/0/2/Choice/0
+Ordinary soldier#MTLed
+> END STRING
+
+> BEGIN STRING
+槍兵士
+> CONTEXT: Map149/events/24/pages/0/2/Choice/1
+Spear soldier#MTLed
+> END STRING
+
+> BEGIN STRING
+パンチラ兵士
+> CONTEXT: Map149/events/24/pages/0/2/Choice/2
+panty shot soldier#MTLed
+> END STRING
+
+> BEGIN STRING
+パンチラ兵士（パンチラのみ使用）
+> CONTEXT: Map149/events/24/pages/0/2/Choice/3
+panty shot soldier (used only for panty shot)#MTLed
+> END STRING
+
+> BEGIN STRING
+パンチラ兵士（金的のみ使用）
+> CONTEXT: Map149/events/24/pages/0/56/Choice/0
+panty shot soldier (only using money)#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「このバトルに関しては、
+あたしたち三人の誰に話しかけても
+同じ内容だから、安心していいわよ」
+> CONTEXT: Map149/events/25/pages/0/2/Dialogue
+Rana. 「Regarding this battle, Whatever we speak to
+Because it is the same content, you can rest assured」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「このバトルに関しては、
+私たち三人の誰に話しかけても
+同じ内容だから、安心してね」
+> CONTEXT: Map149/events/26/pages/0/3/Dialogue
+Rana. 「Regarding this battle, Whatever we talk to
+Because it is the same content, please feel at ease」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「このバトルに関しては、
+わたしたち三人の誰に話しかけても
+同じ内容だから、安心してね～♪」
+> CONTEXT: Map149/events/27/pages/0/2/Dialogue
+Clair. 「Regarding this battle, Whatever we speak to
+Because it is the same content, please feel at ease ~♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+※「普通に戦う」「再挑戦」バージョンのサキュバスは
+装飾品『紳士のネックレス』を装備した状態で戦うと
+誘惑技を使ってこなくなるので、ご注意ください。
+> CONTEXT: Map149/events/28/pages/0/2/Dialogue
+※「normal fight」「challenge again」The version of Succubus
+If you fight with the decorative item "gentleman's
+necklace" equipped. Please note that it will not use
+temptation techniques.#MTLed
+> END STRING
+
+> BEGIN STRING
+普通に戦う（敗北後再挑戦）
+> CONTEXT: Map149/events/28/pages/0/8/Choice/1
+normal fight (re-challenge after defeat)#MTLed
+> END STRING
+
+> BEGIN STRING
+チャーム　のみ
+> CONTEXT: Map149/events/28/pages/0/8/Choice/2
+Charm only#MTLed
+> END STRING
+
+> BEGIN STRING
+キス　のみ
+> CONTEXT: Map149/events/28/pages/0/8/Choice/3
+Kiss only#MTLed
+> END STRING
+
+> BEGIN STRING
+キスホールド　のみ
+> CONTEXT: Map149/events/28/pages/0/58/Choice/0
+Kiss hold only#MTLed
+> END STRING
+
+> BEGIN STRING
+※このバトルでは『デスソード』を装備して戦うと
+ルフティナの体力が50％以下になった時に立ち絵が裸になります。
+が、そのかわり敗北時のHシーンが
+お尻ペンペンで固定されてしまいますので、ご注意ください。
+> CONTEXT: None < UNUSED
+* In this battle, if you fight with equipping "Deathode"
+The standing picture becomes naked when Luftina's physical
+strength becomes 50% or less. However, the H scene at the
+time of defeat instead. Please be careful as it will be
+fixed with your butt.#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「わたしとディアーナちゃんのどっちに話しかけても
+この地下水道バトルの対戦内容は同じだから安心してね！
+BGMは変わるけどね」
+> CONTEXT: Map149/events/31/pages/0/3/Dialogue
+Purim. 「Whichever you speak to me or Diana - chan
+Contents of this ground water battle battle are the same,
+so be assured! BGM will change, but」#MTLed
+> END STRING
+
+> BEGIN STRING
+パンチラ　のみ
+> CONTEXT: Map149/events/31/pages/0/8/Choice/1
+> CONTEXT: Map149/events/32/pages/0/9/Choice/1
+panty shot only#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「この地下水道バトル、私とプリムのどちらに話しかけても
+対戦の内容は同じだから安心なさい。
+まあ、BGMが違うけどね」
+> CONTEXT: Map149/events/32/pages/0/2/Dialogue
+Diana. 「Whatever you talk to me or Purim, this underground
+water battle. The content of the match is the same, so be
+safe. Well, although BGM is different」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「こちらではエンディングリストを紹介しています。
+また、各エンディングの到達方法もご覧いただけますよ。
+グッドエンドに関しては、Hシーンの有無も記載してあります」
+> CONTEXT: Map149/events/33/pages/0/0/Dialogue
+Maid. 「Here we are introducing the ending list.
+You can also see how to reach each ending.
+Regarding Good End, the presence or absence of the H scene
+is also indicated.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリーグッドエンド
+> CONTEXT: Map149/events/33/pages/0/5/Choice/0
+Sherry Good End#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリーバッドエンド
+> CONTEXT: Map149/events/33/pages/0/5/Choice/1
+Sherry bud end#MTLed
+> END STRING
+
+> BEGIN STRING
+王家エンド
+> CONTEXT: Map149/events/33/pages/0/5/Choice/2
+King's house#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナバッドエンド１
+> CONTEXT: Map149/events/33/pages/0/5/Choice/3
+Alumina bad end 1#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会表彰式にて、褒美を選択する際に
+「お金をもらう」を選ぶ。
+その後、王都中央区の宿屋１Fにいるシェリーに話しかける。
+（Hシーンあり）
+> CONTEXT: Map149/events/33/pages/0/7/Dialogue
+At martial arts tournament awards ceremony, when choosing a
+reward. 「To get money」. After that, we talk to Shelley in
+1st floor inn in Chuo-ku of the capital.
+(H scene available)#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会準決勝のシェリー戦に敗北する。
+> CONTEXT: Map149/events/33/pages/0/14/Dialogue
+Defeat Shelley against martial arts tournament semi -
+final.#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会優勝後の表彰式にて褒美を選択する際に
+「アルミナと結婚する」を選ぶ。
+その後、王城のアルミナに話しかけると最終章に突入するので
+それをクリアする。
+> CONTEXT: Map149/events/33/pages/0/18/Dialogue
+When choosing a prize at the award ceremony after winning
+the martial arts tournament victory. 「To marry alumina」.
+After that, when you talk to alumina of King, you enter the
+final chapter. It clears it.#MTLed
+> END STRING
+
+> BEGIN STRING
+優勝後にアルミナに話しかけた際にHシーンあり。
+最終章のラスボスについては、敗北Hシーンはありますが
+勝利後にHシーンはありません。
+> CONTEXT: Map149/events/33/pages/0/23/Dialogue
+There is H scene when talking to alumina after victory.
+Regarding Las Boss of the final chapter, there is a defeat
+H scene. There is no H scene after victory.#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会決勝のアルミナ戦にて、
+アルミナのドレスを破かずに敗北する。
+（ドレスはスキル「エッジストーム」を多用していると破れる）
+> CONTEXT: Map149/events/33/pages/0/29/Dialogue
+In alumna match of the martial arts tournament final,
+Defeat alumina without breaking the dress.
+(Dress skills「Edge Storm」It breaks if you heavily use it)#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナバッドエンド２
+> CONTEXT: Map149/events/33/pages/0/35/Choice/0
+Alumina bad end 2#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベットグッドエンド
+> CONTEXT: Map149/events/33/pages/0/35/Choice/1
+Velvet Good End#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベットノーマルエンド
+> CONTEXT: Map149/events/33/pages/0/35/Choice/2
+Velvet normal end#MTLed
+> END STRING
+
+> BEGIN STRING
+盗賊団バッドエンド
+> CONTEXT: Map149/events/33/pages/0/35/Choice/3
+Thieves team bad end#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会決勝のアルミナ戦にて、
+アルミナのドレスを破いた上で敗北する。
+（ドレスはスキル「エッジストーム」を多用していると破れる）
+> CONTEXT: Map149/events/33/pages/0/37/Dialogue
+In alumna match of the martial arts tournament final,
+Defeat the alumina dress after breaking.
+(Dress skills「Edge Storm」It breaks if you heavily use it)#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会４回戦にてベルベットに勝利したのち、
+決勝戦勝利までの間に、
+王城の地下牢に捕まっている盗賊三人組を釈放させる。
+> CONTEXT: Map149/events/33/pages/0/43/Dialogue
+After winning velvet in the fourth round of martial arts
+tournament, Until the final victory, Let freedom of thieves
+caught in the dungeon of the King.#MTLed
+> END STRING
+
+> BEGIN STRING
+さらに、武道大会表彰式にて、褒美を選択する際に
+「お金をもらう」を選ぶ。
+その後、ウィギスの村の宿屋２Fにいるベルベットに話しかける。
+（Hシーンなし）
+> CONTEXT: Map149/events/33/pages/0/47/Dialogue
+Furthermore, when choosing a reward in the martial arts
+tournament awards ceremony. 「To get money」.
+Then talk to velvet in 2nd floor inn in Wigheis village.
+(No H-scene)#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会４回戦のベルベット戦に敗北する。
+> CONTEXT: Map149/events/33/pages/0/54/Dialogue
+To defeat the veteran fight against the fourth round of the
+martial arts tournament.#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会４回戦・試合前に控室で襲いかかってくる
+盗賊娘三人組に敗北する。
+> CONTEXT: Map149/events/33/pages/0/58/Dialogue
+Martial arts tournament 4th round · It comes to attack in
+the waiting room before the game. Defeat the thief daughter
+threesome.#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムグッドエンド
+> CONTEXT: Map149/events/33/pages/0/63/Choice/0
+Purim Good End#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムバッドエンド
+> CONTEXT: Map149/events/33/pages/0/63/Choice/1
+Purim bad end#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナグッドエンド
+> CONTEXT: Map149/events/33/pages/0/63/Choice/2
+Diana Good End#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナバッドエンド
+> CONTEXT: Map149/events/33/pages/0/63/Choice/3
+Diana bad end#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会開会前日までに、
+プリムの武者修行クエストを受け、
+プリムのレベルを８以上にした上でクリアする。
+その後、武道大会の２回戦でプリムに勝利する。
+> CONTEXT: Map149/events/33/pages/0/65/Dialogue
+By the day before the opening of the martial arts
+tournament, Following Purim's martial arts quest,
+Clear Purim after setting the level to 8 or higher.
+Then win the Purim in the second round of the martial arts
+tournament.#MTLed
+> END STRING
+
+> BEGIN STRING
+さらに、冒険者ギルドでグランレルム伯爵の
+養子クエストを受注した上で、
+決勝前日までに、伯爵から養子の条件を聞いておく。
+> CONTEXT: Map149/events/33/pages/0/70/Dialogue
+In addition, in the adventurer guild Earl Grandrealm's
+After accepting an adopted quest, I will listen to the
+condition of adoption from Earl by the day before the race.#MTLed
+> END STRING
+
+> BEGIN STRING
+さらに、武道大会表彰式にて、褒美を選択する際に
+「お金をもらう」を選ぶ。
+大会終了後、自宅前にいるプリムに話しかけたのち
+グランレルム伯爵に話しかける（Hシーンなし）。
+> CONTEXT: Map149/events/33/pages/0/74/Dialogue
+Furthermore, when choosing a reward in the martial arts
+tournament awards ceremony. 「To get money」.
+After tournament, after talking to Purim in front of home
+Talk to Earl Grandrealm (no H-scene).#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会開会前日までに、
+プリムの武者修行クエストを受け、
+プリムのレベルを８以上にした上でクリアする。
+> CONTEXT: Map149/events/33/pages/0/81/Dialogue
+By the day before the opening of the martial arts
+tournament, Following Purim's martial arts quest,
+Clear Purim after setting the level to 8 or higher.#MTLed
+> END STRING
+
+> BEGIN STRING
+そうすると武道大会２回戦の相手がプリムになるので、
+これに敗北する。
+> CONTEXT: Map149/events/33/pages/0/85/Dialogue
+Then the opponent of the martial arts tournament second
+round will be Purim, I will defeat this.#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会２回戦の相手がプリムになる条件を満たさずにいれば
+２回戦の相手がディアーナになるので、
+これに勝利する。
+> CONTEXT: Map149/events/33/pages/0/90/Dialogue
+Martial arts tournament if the opponent of the second round
+is not satisfying the condition to become Purim
+Because the opponent in the second round becomes Diana,
+I will win this.#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会表彰式にて、褒美を選択する際に
+「お金をもらう」を選ぶ。
+その後、ベックフォード邸２Fにいるディアーナに話しかける。
+（Hシーンあり）
+> CONTEXT: Map149/events/33/pages/0/94/Dialogue
+At martial arts tournament awards ceremony, when choosing a
+reward. 「To get money」. Then talk to Diana at Beckford
+House 2F. (H scene available)#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会２回戦の相手がプリムになる条件を満たさずにいれば
+２回戦の相手がディアーナになるので、
+これに敗北する。
+> CONTEXT: Map149/events/33/pages/0/101/Dialogue
+Martial arts tournament if the opponent of the second round
+is not satisfying the condition to become Purim
+Because the opponent in the second round becomes Diana,
+I will defeat this.#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナグッドエンド
+> CONTEXT: Map149/events/33/pages/0/107/Choice/0
+Mileena Good End#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナバッドエンド
+> CONTEXT: Map149/events/33/pages/0/107/Choice/1
+Mileena bad end#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーングッドエンド
+> CONTEXT: Map149/events/33/pages/0/107/Choice/2
+Jane Good end#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンバッドエンド１
+> CONTEXT: Map149/events/33/pages/0/107/Choice/3
+Jane bad end 1#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会１回戦でミリーナに勝利した後、
+武道大会終了前に中央区の武具店に行き、
+ミリーナと一緒に鉱石を探すクエストをクリアする。
+> CONTEXT: Map149/events/33/pages/0/109/Dialogue
+After winning Mileena in the first round of martial arts
+tournament, Before the end of the martial arts tournament
+we went to the arms shop in Chuo Ward, Complete quest to
+find ore with Mileena.#MTLed
+> END STRING
+
+> BEGIN STRING
+クエストのクリア後、ミリーナに話しかけると
+セックスすることができるので、このイベントを見る。
+> CONTEXT: Map149/events/33/pages/0/113/Dialogue
+After clearing the quest, when talking to Mileena
+You can have sex, so watch this event.#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会表彰式にて、褒美を選択する際に
+「お金をもらう」を選ぶ。
+その後、中央区武具店にいるミリーナに話しかける。
+（Hシーンなし）
+> CONTEXT: Map149/events/33/pages/0/116/Dialogue
+At martial arts tournament awards ceremony, when choosing a
+reward. 「To get money」. Then talk to Mileena in the Chuo
+Ward Armor shop. (No H-scene)#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会１回戦のミリーナ戦に敗北する。
+> CONTEXT: Map149/events/33/pages/0/123/Dialogue
+To defeat Mileena match of the first round of martial arts
+tournament.#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会の選手登録を済ませる前までに
+レストンの村にいるジェーンと３回戦い、
+さらに話しかけて特技「なぎ払い」を教えてもらう。
+> CONTEXT: Map149/events/33/pages/0/127/Dialogue
+Before completing the martial arts tournament player
+registration. Fight three times with Jane in the village of
+Reston, Talk to the special skill「Nagashiro」I will tell
+you.#MTLed
+> END STRING
+
+> BEGIN STRING
+すると、武道大会の選手登録をした後に、
+王都中央区にてアルミナに敗北するイベントが発生するが、
+その直後に
+ジェーンの実家を武道大会中の拠点とするイベントが発生する。
+> CONTEXT: Map149/events/33/pages/0/131/Dialogue
+Then, after registering the martial arts tournament player,
+Events that will be defeated by alumina occur in the city
+of Chuo Ward, Immediately thereafter. An event occurs that
+makes Jane 's parents home based in martial arts
+tournament.#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会決勝戦前日、ジェーンの家２Fに宿泊すると
+ジェーンと語り合うイベントが発生するので、これを見る。
+> CONTEXT: Map149/events/33/pages/0/136/Dialogue
+Martial arts tournament Final day before the war, when
+staying at Jane's house 2F. Since an event to talk with
+Jane will occur, we will see this.#MTLed
+> END STRING
+
+> BEGIN STRING
+その上で、武道大会優勝後の表彰式において、
+褒美を選択する際に「お金をもらう」を選ぶ。
+その後、ジェーンの実家１Fにいるジェーンに話しかける。
+> CONTEXT: Map149/events/33/pages/0/139/Dialogue
+On that, in the awards ceremony after winning the martial
+arts tournament, When choosing a reward「To get money」.
+After that, we talk to Jane in Jane's parents home 1F.#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会予選決勝のジェーン戦にて
+ジェーンの服を破かずに敗北する。
+（ジェーンの服はスキル「エッジストーム」を
+多用していると破れる）
+> CONTEXT: Map149/events/33/pages/0/145/Dialogue
+Martial arts tournament in qualifying final against Jane
+Defeat without breaking Jane 's clothes.
+(Jane's clothes are skills「Edge Storm」To
+It is torn if it is heavily used)#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンバッドエンド２
+> CONTEXT: Map149/events/33/pages/0/152/Choice/0
+Jane bad end 2#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールエンド
+> CONTEXT: Map149/events/33/pages/0/152/Choice/1
+bunny girl end#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会予選決勝のジェーン戦にて
+ジェーンの服を破いた上で敗北する。
+（ジェーンの服はスキル「エッジストーム」を
+多用していると破れる）
+> CONTEXT: Map149/events/33/pages/0/154/Dialogue
+Martial arts tournament in qualifying final against Jane
+Defeat Jane 's clothes after defeating it.
+(Jane's clothes are skills「Edge Storm」To
+It is torn if it is heavily used)#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会３回戦のバニーガール戦に敗北する。
+（なお、バニーガールにグッドエンドはありません）
+> CONTEXT: Map149/events/33/pages/0/161/Dialogue
+Defeat the battle of bunny girl in the third round.
+(There is no good end in bunny girl)#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「こちらでは、戦闘敗北時以外のエッチシーンを
+鑑賞することができます。
+見たいシーンを選択してくださいね」
+> CONTEXT: Map149/events/34/pages/0/0/Dialogue
+Maid. 「Here, lewd scene other than battle defeat when
+You can appreciate it. Please select the scene you want to
+see」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール　試合前（セックス）
+> CONTEXT: Map149/events/34/pages/0/5/Choice/0
+bunny girl Before the game (sex)#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ　クエスト後（セックス）
+> CONTEXT: Map149/events/34/pages/0/5/Choice/1
+After Mileena quest (sex)#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ　エンディング（69）
+> CONTEXT: Map149/events/34/pages/0/5/Choice/2
+Diana Ending (69)#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー　エンディング（セックス）
+> CONTEXT: Map149/events/34/pages/0/5/Choice/3
+Sherry ending (sex)#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ　大会後（セックス）
+> CONTEXT: Map149/events/34/pages/0/67/Choice/0
+After alumina tournament (sex)#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「ようこそ、おまけモードの部屋へ！
+ここでは、本編に登場した女の子との自由戦闘や
+CG鑑賞などが楽しめます！
+> CONTEXT: Map149/events/39/pages/0/2/Dialogue
+Maid. 「Welcome to the extra mode room! Here, free battle
+with girls that appeared in this volume. You can enjoy CG
+appreciation etc!#MTLed
+> END STRING
+
+> BEGIN STRING
+ちなみに、ここから通常マップに戻ることはできませんので、
+重要なセーブデータに上書きしてしまうのは
+オススメできません。注意してくださいね。
+> CONTEXT: None < UNUSED
+By the way, we can not return to the normal map from here,
+Why overwrite important save data. I can not recommend it.
+Please be careful.#MTLed
+> END STRING
+
+> BEGIN STRING
+それでは、ごゆっくりお楽しみください！」
+> CONTEXT: Map149/events/39/pages/0/12/Dialogue
+Then, please enjoy it slowly!」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「カウンターにいるメイドは、それぞれ
+左はエンディングリストと攻略法の確認ができ、
+右は戦闘敗北時以外のときに発生するHシーンの鑑賞ができます。
+> CONTEXT: Map149/events/1/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、バニーガールに話しかければ
+回想バトルのキャラクターのフラグを一部操作したり
+現在の状態を引き継いでニューゲームを始めたりできます。
+気が向いたらご利用くださいね」
+> CONTEXT: Map149/events/1/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お金を0にする
+> CONTEXT: Map149/events/2/pages/0/60/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お金を100万にする
+> CONTEXT: Map149/events/2/pages/0/60/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お金を100にする
+> CONTEXT: Map149/events/2/pages/0/81/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+※このバトルでは『デスソード』を装備して戦うと
+ルフティナの体力が50％以下になった時に立ち絵が裸になります。
+が、その場合、敗北時のHシーンが
+お尻ペンペンで固定されてしまいますので、ご注意ください。
+> CONTEXT: Map149/events/30/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぱふぱふ　のみ
+> CONTEXT: Map149/events/30/pages/0/13/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「あっ、てめえっ！」
+> CONTEXT: Map149/events/38/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「こないだはよくもやってくれたな！
+今日はきっちり借りを返してやる！」
+> CONTEXT: Map149/events/38/pages/2/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まだ懲りないのか？
+ったく、どうしてもやるってんなら仕方ないが……」
+> CONTEXT: Map149/events/38/pages/2/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「そのキンタマ、蹴り潰してやるぜっ！」
+> CONTEXT: Map149/events/38/pages/2/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうやら反省してないようだし、今度こそ兵士の詰め所にでも
+行ってもらうぜっ」
+> CONTEXT: Map149/events/38/pages/2/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「くそっ、誰が捕まってやるかっつーの！
+覚えてな、次こそキンタマ潰してやる！」
+> CONTEXT: Map149/events/38/pages/2/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、なんて逃げ足の速い……
+こりゃ、俺の足じゃ捕まえるのは無理か」
+> CONTEXT: Map149/events/38/pages/2/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「おらおらっ、どうした！
+こないだのはマグレかよ、ええ？」
+> CONTEXT: Map149/events/38/pages/2/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「おらっ、トドメだ！
+キンタマ蹴られて無様に悲鳴でも上げなっ！」
+> CONTEXT: Map149/events/38/pages/2/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「ふん、女にボコボコにされて踏みつけられて、ミジメだねえ。
+こないだの借りはこれで返したよ」
+> CONTEXT: Map149/events/38/pages/2/94/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「はっ、やっぱこないだのはマグレだったみたいだね。
+ま、ちょっと本気でやりゃあ
+あんたみたいな弱っちい男に負けるわけないわ」
+> CONTEXT: Map149/events/38/pages/2/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「さあて、前回あんたに殴られた怪我の治療代も含めて、
+金は1000Gぐらい貰っといてやるよ」
+> CONTEXT: Map149/events/38/pages/2/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「ま、あんまりにも哀れだし、今回は見逃してやるよ。
+あんたに借りを返せたってだけでも、悪い気分じゃないしね」
+> CONTEXT: Map149/events/38/pages/2/133/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「さて、金は……
+なんだい、これっぽっちしか持ってないのか。
+それじゃ、全部貰っといてやるよ」
+> CONTEXT: Map149/events/38/pages/2/139/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「それじゃね、坊や。
+またここに足を踏み入れたら、容赦なくボコってやるよ。
+覚悟しときな」
+> CONTEXT: Map149/events/38/pages/2/152/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女にリベンジを挑まれた結果
+見事ボコボコにされてしまい、
+お金を巻き上げられてしまった……
+> CONTEXT: Map149/events/38/pages/2/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/267/pages/2/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちなみに、ここから引き継ぎ新規プレイを始めることは
+可能ですが、
+元のプレイに復帰することはできませんので、
+セーブをする際には注意してくださいね。
+> CONTEXT: Map149/events/39/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一人で戦う
+> CONTEXT: Map149/events/42/pages/0/0/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリムと一緒に戦う
+> CONTEXT: Map149/events/42/pages/0/0/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「こちらでは、各種フラグの操作ができまーす」
+> CONTEXT: Map149/events/45/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリムとの手合わせ勝敗数を変える
+> CONTEXT: Map149/events/45/pages/0/3/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーンとの手合わせ勝敗数を変える
+> CONTEXT: Map149/events/45/pages/0/3/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+3以上負け越した状態にすると
+大会での敗戦時、相手の反応が変わります。
+> CONTEXT: Map149/events/45/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map149/events/45/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+初期化する
+> CONTEXT: Map149/events/45/pages/0/8/Choice/0 < UNTRANSLATED
+> CONTEXT: Map149/events/45/pages/0/21/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+3以上負け越した状態にする
+> CONTEXT: Map149/events/45/pages/0/8/Choice/1 < UNTRANSLATED
+> CONTEXT: Map149/events/45/pages/0/21/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不良少女のフラグ初期化
+> CONTEXT: Map149/events/45/pages/0/31/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルゼットのフラグ初期化
+> CONTEXT: Map149/events/45/pages/0/31/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リネッタのフラグ操作
+> CONTEXT: Map149/events/45/pages/0/31/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全フラグ初期化
+> CONTEXT: Map149/events/45/pages/0/31/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リネッタに技を教えてもらった設定にする
+> CONTEXT: Map149/events/45/pages/0/43/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リネッタに技を教えてもらっていない設定にする
+> CONTEXT: Map149/events/45/pages/0/43/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「ゲーム中の全フラグを初期化します。
+よろしいですか？」
+> CONTEXT: Map149/events/45/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「こちらからは、引き継ぎプレイを開始することができます。
+アイテムや所持金、\\N[12]さんのレベル、
+ステータスを引き継いだ状態で、ゲームを最初からプレイできます。
+> CONTEXT: Map149/events/46/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なお、ストーリー上のキーアイテムは引き継げません。
+では、引き継ぎプレイを開始しますか？」
+> CONTEXT: Map149/events/46/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「こちらでは、現在の強さを引き継いで
+新たにゲームを最初から始めることができます！
+どうしますか？」
+> CONTEXT: Map149/events/47/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+引き継ぎプレイを始める
+> CONTEXT: Map149/events/47/pages/0/5/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「ストーリー上のキーアイテムを除き、
+全アイテムとパラメータを引き継いで新規ゲームを始めます。
+本当によろしいですか？」
+> CONTEXT: Map149/events/47/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING

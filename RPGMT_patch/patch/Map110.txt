@@ -1,0 +1,1275 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「これは……？
+なんか、すげえ綺麗な鱗だな」
+> CONTEXT: Map110/events/1/pages/0/0/Dialogue
+\\N[12]. 「this is……? Something, it's a beautiful scales」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「売ればお金になるかもしれない。
+持って帰るとしようかな」
+> CONTEXT: Map110/events/1/pages/0/4/Dialogue
+\\N[12]. 「If you sell it might be money.
+I suppose I should take it home.」#MTLed
+> END STRING
+
+> BEGIN STRING
+虹色の鱗?　を手に入れた。
+> CONTEXT: Map110/events/1/pages/0/9/Dialogue
+Rainbow-colored scales?I got it.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「あ、おにーさん、これ見て！
+すっごい綺麗な鱗があるよ！」
+> CONTEXT: Map110/events/1/pages/1/0/Dialogue
+\\N[15]. 「Oh, my older, look at this!
+There is a very beautiful scales!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おお、たしかにこりゃ綺麗だな。
+これが、\\N[15]のおじさんが言ってた人魚の鱗かな」
+> CONTEXT: Map110/events/1/pages/1/4/Dialogue
+\\N[12]. 「Oh, surely this is beautiful. This is,
+\\N[15] The man of mermaid what the old man said」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「きっとそうだよ、こんなに綺麗なんだもん。
+さっそく持って帰って、おじさんに見せてみようよ！」
+> CONTEXT: Map110/events/1/pages/1/8/Dialogue
+\\N[15]. 「Surely it is, it is so beautiful.
+Let's take it home and show it to old man right
+away!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな、よし」
+> CONTEXT: Map110/events/1/pages/1/12/Dialogue
+\\N[12]. 「Oh yeah, good.」#MTLed
+> END STRING
+
+> BEGIN STRING
+人魚の鱗を手に入れた！
+> CONTEXT: Map110/events/1/pages/1/16/Dialogue
+I got mermaid scales!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それにしても\\N[15]、正直ここまでやるとは思わなかったぜ。
+その歳で魔物に対しても怯まないなんて、たいしたもんだ」
+> CONTEXT: Map110/events/1/pages/1/19/Dialogue
+\\N[12]. 「Even so \\N[15] I did not think that I
+would do it to the point of being honest.
+It's a big deal to be frightened against monster at that
+age」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「ううん、ひとりじゃこんなところまで来られなかったよ。
+おにーさんがいてくれたから、怖がらずに戦えたの」
+> CONTEXT: Map110/events/1/pages/1/23/Dialogue
+\\N[15]. 「No, I could not come to such a
+place by myself. Because he was an obstacle, I
+could fight without fear」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それでもさ。
+今回のことは誇りに思っていいと思うぜ、
+これなら武道大会でもきっと勝てるさ」
+> CONTEXT: Map110/events/1/pages/1/27/Dialogue
+\\N[12]. 「Still. I think that I am proud of this time,
+In this case you can definitely win even in martial arts
+tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「そっかぁ、えへへ……
+うれしいなー」
+> CONTEXT: Map110/events/1/pages/1/32/Dialogue
+\\N[15]. 「I see ... I see ... I am happy.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、
+目的も達成したことだし、帰ろう」
+> CONTEXT: Map110/events/1/pages/1/38/Dialogue
+\\N[12]. 「Alright, It is that we have achieved our
+objectives and we will return.」#MTLed
+> END STRING
+
+> BEGIN STRING
+2000\\G 手に入れた！
+> CONTEXT: Map110/events/3/pages/0/9/Dialogue
+2000 \\G I got!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……く、くそっ、
+なんてタフな魔物なんだ……」
+> CONTEXT: Map110/events/4/pages/0/16/Dialogue
+> CONTEXT: Map106/events/7/pages/0/16/Dialogue
+> CONTEXT: Map103/events/9/pages/0/17/Dialogue
+\\N[12]. 「Dammit ... damn, damn, What a tough monster
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケン
+「うふふ……その程度なのかしらぁ？
+じゃ、捕まえてあげる♪」
+> CONTEXT: Map110/events/4/pages/0/30/Dialogue
+> CONTEXT: Map106/events/7/pages/0/30/Dialogue
+> CONTEXT: Map103/events/9/pages/0/31/Dialogue
+Kraken. 「Uhufu ... Is that the degree? Well, I'll catch it.
+♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はクラーケンの脚に
+両手両足を絡め取られてしまった！
+> CONTEXT: Map110/events/4/pages/0/36/Dialogue
+> CONTEXT: Map106/events/7/pages/0/36/Dialogue
+> CONTEXT: Map103/events/9/pages/0/37/Dialogue
+\\N[12] On the legs of Kraken. I was caught in both
+feet!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ！
+は、放せっ！」
+> CONTEXT: Map110/events/4/pages/0/39/Dialogue
+> CONTEXT: Map106/events/7/pages/0/39/Dialogue
+> CONTEXT: Map103/events/9/pages/0/40/Dialogue
+\\N[12]. 「Wow! Let go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケン
+「ダメよぉ、
+せっかく珍しく人間の男の子を捕まえられたんだもの。
+こんなごちそうを手放すなんて考えられないわ」
+> CONTEXT: Map110/events/4/pages/0/43/Dialogue
+> CONTEXT: Map106/events/7/pages/0/43/Dialogue
+> CONTEXT: Map103/events/9/pages/0/44/Dialogue
+Kraken. 「No, It was unusual to catch a human boy.
+I can not think of letting go of such a feast」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「く、食う気か……！」
+> CONTEXT: Map110/events/4/pages/0/48/Dialogue
+> CONTEXT: Map106/events/7/pages/0/48/Dialogue
+> CONTEXT: Map103/events/9/pages/0/49/Dialogue
+\\N[12]. 「Would you like to eat?」#MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケン
+「それはそうよ。
+あなたたちだって、よくイカを食べてるでしょ？
+> CONTEXT: Map110/events/4/pages/0/51/Dialogue
+> CONTEXT: Map106/events/7/pages/0/51/Dialogue
+> CONTEXT: Map103/events/9/pages/0/52/Dialogue
+Kraken. 「That's right. Even you, you often eat squid?#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、食べる前に、
+少しだけいい思い出をプレゼントしてあげる」
+> CONTEXT: Map110/events/4/pages/0/55/Dialogue
+> CONTEXT: Map106/events/7/pages/0/55/Dialogue
+> CONTEXT: Map103/events/9/pages/0/56/Dialogue
+But before eating, I will give you a little good memories」#MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケンは、脚を\\N[12]の肌に這わせる！
+> CONTEXT: Map110/events/4/pages/0/59/Dialogue
+> CONTEXT: Map106/events/7/pages/0/59/Dialogue
+> CONTEXT: Map103/events/9/pages/0/60/Dialogue
+Kraken, legs \\N[12] Make it crawl on your skin!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ！
+全身が、ぬるぬるしてくる……！」
+> CONTEXT: Map110/events/4/pages/0/61/Dialogue
+> CONTEXT: Map106/events/7/pages/0/61/Dialogue
+> CONTEXT: Map103/events/9/pages/0/62/Dialogue
+\\N[12]. 「Uh, OHh! The whole body, will come ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケン
+「ただぬるぬるするだけじゃないわよ？
+だんだん、気持ちよくなってきたでしょ？」
+> CONTEXT: Map110/events/4/pages/0/65/Dialogue
+> CONTEXT: Map106/events/7/pages/0/65/Dialogue
+> CONTEXT: Map103/events/9/pages/0/66/Dialogue
+Kraken. 「It is not only to do it. You have become
+comfortable, do not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そういえば……
+肌が、ジンジンするように気持ちいい……」
+> CONTEXT: Map110/events/4/pages/0/69/Dialogue
+> CONTEXT: Map106/events/7/pages/0/69/Dialogue
+> CONTEXT: Map103/events/9/pages/0/70/Dialogue
+\\N[12]. 「That's right. ... The skin feels good to do
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケン
+「これを続けると、天国みたいな快楽が味わえるわよ？
+それにしても、若い男の子の肌は触り心地がいいわね。
+もっともっとぬるぬるさせてあげる」
+> CONTEXT: Map110/events/4/pages/0/73/Dialogue
+> CONTEXT: Map106/events/7/pages/0/73/Dialogue
+> CONTEXT: Map103/events/9/pages/0/74/Dialogue
+Kraken. 「Continuing this, you can enjoy the pleasures like
+heaven? Even so, the skin of a young boy is comfortable to
+the touch.   I will let you」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、\\N[12]はクラーケンの脚で、
+しばらくの間愛撫され続ける……
+> CONTEXT: Map110/events/4/pages/0/78/Dialogue
+> CONTEXT: Map106/events/7/pages/0/78/Dialogue
+> CONTEXT: Map103/events/9/pages/0/79/Dialogue
+Then, \\N[12] Is the legs of Kraken, Keep caressed for a
+while ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああっ……
+だ、ダメだ、そんなにされたら、
+体が感じてきて……も、もうっ……！」
+> CONTEXT: Map110/events/4/pages/0/81/Dialogue
+> CONTEXT: Map106/events/7/pages/0/81/Dialogue
+> CONTEXT: Map103/events/9/pages/0/82/Dialogue
+\\N[12]. 「Oh, AAh ... ... Do not do that, if you do so,
+My body is feeling ... ... well, it's already ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあ、ああぁ……」
+> CONTEXT: Map110/events/4/pages/0/90/Dialogue
+> CONTEXT: Map106/events/7/pages/0/90/Dialogue
+> CONTEXT: Map103/events/9/pages/0/91/Dialogue
+\\N[12]. 「Well, ah ... ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケン
+「あはっ、びくびく痙攣しちゃってる。
+よっぽど気持ちよかったみたいねえ、
+愛撫だけで射精しちゃうだなんて」
+> CONTEXT: Map110/events/4/pages/0/93/Dialogue
+> CONTEXT: Map106/events/7/pages/0/93/Dialogue
+> CONTEXT: Map103/events/9/pages/0/94/Dialogue
+Kraken. 「Hahah, I am cramping. He seemed to be very
+comfortable, hey, Why do not you just ejaculate with caress
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こ、こんな、全身がとろけるみたいに
+気持ちがいいなんて……
+抵抗できるわけがない……」
+> CONTEXT: Map110/events/4/pages/0/98/Dialogue
+> CONTEXT: Map106/events/7/pages/0/98/Dialogue
+> CONTEXT: Map103/events/9/pages/0/99/Dialogue
+\\N[12]. 「Here, like a whole body melts. I feel
+comfortable ...... There is no way I can resist ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケン
+「ま、本当にとろけていってるんだけどね……」
+> CONTEXT: Map110/events/4/pages/0/103/Dialogue
+> CONTEXT: Map106/events/7/pages/0/103/Dialogue
+> CONTEXT: Map103/events/9/pages/0/104/Dialogue
+Kraken. 「Well, I'm really melting ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケン
+「それじゃ、柔らかくなったところで――
+いただきま～す♪」
+> CONTEXT: Map110/events/4/pages/0/109/Dialogue
+> CONTEXT: Map106/events/7/pages/0/109/Dialogue
+> CONTEXT: Map103/events/9/pages/0/110/Dialogue
+Kraken. 「Well then, where it got soft -. Let us eat♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ……」
+> CONTEXT: Map110/events/4/pages/0/113/Dialogue
+> CONTEXT: Map106/events/7/pages/0/113/Dialogue
+> CONTEXT: Map103/events/9/pages/0/114/Dialogue
+\\N[12]. 「Ah……」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、\\N[12]は甘美な快楽に浸ったまま
+クラーケンに捕食され、人知れず生を終えた……
+> CONTEXT: Map110/events/4/pages/0/117/Dialogue
+> CONTEXT: Map106/events/7/pages/0/117/Dialogue
+> CONTEXT: Map103/events/9/pages/0/118/Dialogue
+Then, \\N[12] While being immersed in luscious pleasures
+It was predatory by Kraken, I was unknowingly finished life
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物
+「ほう、こんなところに人間か」
+> CONTEXT: Map110/events/5/pages/0/4/Dialogue
+> CONTEXT: Map110/events/5/pages/1/5/Dialogue
+monster. 「Human, are you human like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、魔物か。
+しかし、これは……人魚……じゃないのか？」
+> CONTEXT: Map110/events/5/pages/0/7/Dialogue
+> CONTEXT: Map110/events/5/pages/1/8/Dialogue
+\\N[12]. 「Ugh, monster? But this ... ... mermaid ... is
+not it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物
+「ふっ、わらわは人魚などではない。
+シープリンセス、とでも名乗ろうか。
+この近海の魔物たちを統べておる」
+> CONTEXT: Map110/events/5/pages/0/11/Dialogue
+> CONTEXT: Map110/events/5/pages/1/12/Dialogue
+monster. 「Wow, the straw is not a mermaid.
+Shall I call on Sea Princess, too? I am in charge of these
+nearby monsters」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「シープリンセスだと？
+察するに、この洞窟にサハギンやクラーケンが
+徘徊しているのは、あんたのせいなのか」
+> CONTEXT: Map110/events/5/pages/0/16/Dialogue
+\\N[12]. 「What is Sea Princess? To be aware, Sahuagin
+and Kraken are in this cave. Is it your fault that they are
+wandering around?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「いかにも。
+人の立ち寄らぬ洞窟ゆえ、
+棲家として都合がよくてのう。
+> CONTEXT: Map110/events/5/pages/0/21/Dialogue
+> CONTEXT: Map110/events/5/pages/1/26/Dialogue
+Sea Princess. 「Especially. Because of a cave not visited
+by people, It is convenient as a living place.#MTLed
+> END STRING
+
+> BEGIN STRING
+じゃが、人に見られたとあっては
+安息の場所とはならなくなってしまう。
+おぬしを帰すわけにはゆかぬな」
+> CONTEXT: Map110/events/5/pages/0/26/Dialogue
+Potato, as if it was seen by people. It will not be a place
+to rest. I can not go wrong to get it off」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、襲いかかってくるか」
+> CONTEXT: Map110/events/5/pages/0/30/Dialogue
+> CONTEXT: Map110/events/5/pages/1/35/Dialogue
+\\N[12]. 「Cut, will you attack us?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「見たところ、若くみずみずしい男……
+わらわが直々に食ろうてくれようぞ。
+光栄に思うがよい！」
+> CONTEXT: Map110/events/5/pages/0/33/Dialogue
+Sea Princess. 「Apparently, a young man ...
+Let 's eat straight from us. Think of it as an honor!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「ぬうっ、ただの人間ではないのか……
+わらわが退けるほどの力を持つとは」
+> CONTEXT: Map110/events/5/pages/0/41/Dialogue
+> CONTEXT: Map110/events/5/pages/1/46/Dialogue
+Sea Princess. 「Wow, he is not just a human ... ...
+It is said that I have the power to turn back on me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はぁ、はぁ……
+可愛い顔して、なんて力と魔力だ……」
+> CONTEXT: Map110/events/5/pages/0/45/Dialogue
+> CONTEXT: Map110/events/5/pages/1/50/Dialogue
+\\N[12]. 「Ah, Ah ... It's cute face, how powerful and
+magical ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「この洞窟に入って、生きてここまで
+たどり着いただけのことはある。
+これは、わらわも命を賭けて戦わねばならぬかのう」
+> CONTEXT: Map110/events/5/pages/0/49/Dialogue
+> CONTEXT: Map110/events/5/pages/1/57/Dialogue
+Sea Princess. 「Enter this cave, live here until here
+There is only thing that I got there. This means that we
+must also fight by betting our lives」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ま、まずいな……まだこの魔物は余力を残している。
+これ以上戦うのはまずい。
+ここは……）
+> CONTEXT: Map110/events/5/pages/0/54/Dialogue
+> CONTEXT: Map110/events/5/pages/1/66/Dialogue
+\\N[12]. (Well, bad ... ... still this monster has left
+available. It is bad to fight any further.
+here……)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ま、待て。
+これ以上やれば、そっちもただじゃ済まんぞ
+ここは、これで手打ちにしないか？」
+> CONTEXT: Map110/events/5/pages/0/59/Dialogue
+\\N[12]. 「Wait a moment. If you do it any more, just do
+not worry about it again. Would you like to make a hand in
+this place?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「ほう、わらわに引けと申すか。
+じゃが……」
+> CONTEXT: Map110/events/5/pages/0/64/Dialogue
+> CONTEXT: Map110/events/5/pages/1/84/Dialogue
+Sea Princess. 「How are you going to say to the straw?
+A potato」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この洞窟のことを知られたからには
+生かして返せないっていうんだろう？
+約束する、俺はこの洞窟のことを人には漏らさない」
+> CONTEXT: Map110/events/5/pages/0/68/Dialogue
+\\N[12]. 「Because I knew about this cave
+I guess you can not return it alive? Promise me, I will not
+let people know about this cave」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「……ふむ。
+じゃが、それでよいのか？
+人間は魔物を見つけたら、放置してはおかぬものじゃろう」
+> CONTEXT: Map110/events/5/pages/0/73/Dialogue
+> CONTEXT: Map110/events/5/pages/1/93/Dialogue
+Sea Princess. 「……HM. Potato, is that okay?
+If a human finds monster, it will not be left unattended」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「このあたりで、海の魔物に人が襲われたという話は
+最近あまり聞かない。
+あんたたちは凶暴な魔物ではなさそうだし、問題ないだろう」
+> CONTEXT: Map110/events/5/pages/0/78/Dialogue
+> CONTEXT: Map110/events/5/pages/1/98/Dialogue
+\\N[12]. 「In this area, the story that people were
+attacked by the sea monster. Recently I do not ask much.
+You seem to be not a ferocious monster, it will not be a
+problem」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「そうかのう、わらわたちもそれなりに凶悪なつもりじゃが。
+……まあ、確かにわらわもできれば命を賭けたくはない。
+おぬしらの言い分を聞くがよさそうじゃ」
+> CONTEXT: Map110/events/5/pages/0/83/Dialogue
+> CONTEXT: Map110/events/5/pages/1/103/Dialogue
+Sea Princess. 「Oh yeah, we're gonna do as hell as it is.
+...... Well, certainly I do not want to bet my life if I
+can do it. Listen to the naked words but it looks good」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それじゃあ……」
+> CONTEXT: Map110/events/5/pages/0/88/Dialogue
+> CONTEXT: Map110/events/5/pages/1/108/Dialogue
+\\N[12]. 「Well then……」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「くれぐれも、この洞窟のことは内密に頼むぞよ。
+そうしてくれれば、わらわたちも
+洞窟の外で人を襲うようなことはせぬと約束しよう」
+> CONTEXT: Map110/events/5/pages/0/91/Dialogue
+> CONTEXT: Map110/events/5/pages/1/111/Dialogue
+Sea Princess. 「Even so, I will ask confidential about this
+cave. If you do so, Let's promise that we will not attack
+people outside the cave」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうか。
+助かるぜ、受け入れてくれて……」
+> CONTEXT: Map110/events/5/pages/0/96/Dialogue
+\\N[12]. 「Is that so? Saved, accepting me ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……がはっ……」
+> CONTEXT: Map110/events/5/pages/0/106/Dialogue
+> CONTEXT: Map110/events/5/pages/1/127/Dialogue
+> CONTEXT: Commonevents/272/3/Dialogue
+> CONTEXT: Commonevents/272/200/Dialogue
+\\N[12]. 「Ha ha ... ... hahaha ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「ふっ。
+その程度の腕前で
+わらわに立ち向かおうなどとは片腹痛いわ。
+> CONTEXT: Map110/events/5/pages/0/113/Dialogue
+> CONTEXT: Map110/events/5/pages/1/137/Dialogue
+> CONTEXT: Commonevents/272/23/Dialogue
+> CONTEXT: Commonevents/272/217/Dialogue
+Sea Princess. 「Bukkake. With the skill of that extent
+It seems to me to have a stomachache trying to confront
+Irawa.#MTLed
+> END STRING
+
+> BEGIN STRING
+どのようなつもりで洞窟に立ち入ってきたかは知らぬが
+好奇心が仇となったのう、ほほほ……」
+> CONTEXT: Map110/events/5/pages/0/118/Dialogue
+> CONTEXT: Map110/events/5/pages/1/142/Dialogue
+> CONTEXT: Commonevents/272/28/Dialogue
+> CONTEXT: Commonevents/272/222/Dialogue
+I do not know what kind of intention it came into the cave
+Curiosity became enemy, hohoho ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんてこった……
+こんなところで魔物にやられるなんて……」
+> CONTEXT: Map110/events/5/pages/0/121/Dialogue
+> CONTEXT: Commonevents/272/225/Dialogue
+\\N[12]. 「What is it ...... In monsters like this in
+such a place ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「あきらめて、わらわの餌となるがよい。
+それ、取り込んでくれよう」
+> CONTEXT: Map110/events/5/pages/0/125/Dialogue
+> CONTEXT: Commonevents/272/229/Dialogue
+Sea Princess. 「Give up and become a bait for straw.
+It will take in」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は、シープリンセスの下半身に取り込まれた！
+> CONTEXT: Map110/events/5/pages/0/139/Dialogue
+> CONTEXT: Map110/events/5/pages/1/180/Dialogue
+> CONTEXT: Commonevents/272/66/Dialogue
+> CONTEXT: Commonevents/272/243/Dialogue
+\\N[12] Was taken in the lower body of Sea Princess!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「く、くそっ、出せっ！」
+> CONTEXT: Map110/events/5/pages/0/141/Dialogue
+> CONTEXT: Map110/events/5/pages/1/182/Dialogue
+> CONTEXT: Commonevents/272/68/Dialogue
+> CONTEXT: Commonevents/272/245/Dialogue
+\\N[12]. 「Damn, get out!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「ふふふ、男にとっては甘美じゃぞ。
+わらわの下半身はお主の体中に吸い付いて
+痺れさせてしまうのじゃ」
+> CONTEXT: Map110/events/5/pages/0/144/Dialogue
+> CONTEXT: Commonevents/272/248/Dialogue
+Sea Princess. 「Hehe he is sweet for men.
+The lower part of the world is sucking into your body
+You will get numb.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……！
+な、なんだっ、体中がジンジンしてくる……！」
+> CONTEXT: Map110/events/5/pages/0/150/Dialogue
+> CONTEXT: Map110/events/5/pages/1/191/Dialogue
+> CONTEXT: Commonevents/272/77/Dialogue
+> CONTEXT: Commonevents/272/254/Dialogue
+\\N[12]. 「uugh ... ...! How, the body comes in ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の肌に触手の吸盤が吸い付き、
+体中を刺激してくる！
+> CONTEXT: Map110/events/5/pages/0/155/Dialogue
+> CONTEXT: Map110/events/5/pages/1/196/Dialogue
+> CONTEXT: Commonevents/272/82/Dialogue
+> CONTEXT: Commonevents/272/259/Dialogue
+\\N[12] The sucker of the tentacle sucks on the skin of,
+It stimulates the body!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、あっ、くっ……」
+> CONTEXT: Map110/events/5/pages/0/158/Dialogue
+> CONTEXT: Map110/events/5/pages/1/199/Dialogue
+> CONTEXT: Commonevents/272/85/Dialogue
+> CONTEXT: Commonevents/272/262/Dialogue
+\\N[12]. 「Wait, there, ku ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「いい声で鳴くではないか。
+これは、ぜひとも精を吐かせてやりたいのう。
+ほれほれ、こうしたらどうじゃ？」
+> CONTEXT: Map110/events/5/pages/0/161/Dialogue
+> CONTEXT: Map110/events/5/pages/1/202/Dialogue
+> CONTEXT: Commonevents/272/88/Dialogue
+> CONTEXT: Commonevents/272/265/Dialogue
+Sea Princess. 「Does not it sound with a good voice?
+I definitely want to let her vomit. , How about doing this?
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセスの触手が
+\\N[12]の全身をまさぐり、
+ペニスにも吸い付いてくる！
+> CONTEXT: Map110/events/5/pages/0/166/Dialogue
+> CONTEXT: Map110/events/5/pages/1/207/Dialogue
+> CONTEXT: Commonevents/272/93/Dialogue
+> CONTEXT: Commonevents/272/270/Dialogue
+The tentacles of Sea Princess. \\N[12] Taking a whole
+body of it, The dick also comes sucking!#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「ほほほ、体を反らせて喘ぐとは
+ここを責められると男は弱いのう」
+> CONTEXT: Map110/events/5/pages/0/174/Dialogue
+> CONTEXT: Map110/events/5/pages/1/215/Dialogue
+> CONTEXT: Commonevents/272/101/Dialogue
+> CONTEXT: Commonevents/272/278/Dialogue
+Sea Princess. 「hohoho, saying that bowing your body and
+panting. A man is weak when blamed here」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「や、やめ……う、うあっ！」
+> CONTEXT: Map110/events/5/pages/0/178/Dialogue
+> CONTEXT: Map110/events/5/pages/1/219/Dialogue
+> CONTEXT: Commonevents/272/105/Dialogue
+> CONTEXT: Commonevents/272/282/Dialogue
+\\N[12]. 「Or ... stop ... ... ... uh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「では、トドメをさしてくれよう。
+わらわの吸盤で男性器を包み込んでやるぞよ」
+> CONTEXT: Map110/events/5/pages/0/181/Dialogue
+> CONTEXT: Map110/events/5/pages/1/222/Dialogue
+> CONTEXT: Commonevents/272/108/Dialogue
+> CONTEXT: Commonevents/272/285/Dialogue
+Sea Princess. 「Then, let me point the finisher.
+I'll envelop male instruments with a sucker in the straw」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセスの触手がペニスを包み、
+さらに吸盤でちゅうちゅうと刺激してくる！
+> CONTEXT: Map110/events/5/pages/0/185/Dialogue
+> CONTEXT: Map110/events/5/pages/1/226/Dialogue
+> CONTEXT: Commonevents/272/112/Dialogue
+> CONTEXT: Commonevents/272/289/Dialogue
+Sea Princess's tentacle wraps around the penis,
+I will further stimulate kiss with a sucker!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あああああぁぁぁっ！
+こ、こんなの、刺激が強すぎ……で、出るううぅっ！」
+> CONTEXT: Map110/events/5/pages/0/191/Dialogue
+> CONTEXT: Map110/events/5/pages/1/232/Dialogue
+> CONTEXT: Commonevents/272/118/Dialogue
+> CONTEXT: Commonevents/272/295/Dialogue
+\\N[12]. 「Aaaaaahhhh! This, stimulation is too strong
+......, it will come out!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あがっ、あっ、あひ……」
+> CONTEXT: Map110/events/5/pages/0/198/Dialogue
+> CONTEXT: Map110/events/5/pages/1/239/Dialogue
+> CONTEXT: Commonevents/272/125/Dialogue
+> CONTEXT: Commonevents/272/302/Dialogue
+\\N[12]. 「Oh, I have ah ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「ふっ、たわいもない男じゃ。
+こんな簡単に達してしまうとは。
+じゃが、お主の精、なかなかに濃くて美味じゃのう」
+> CONTEXT: Map110/events/5/pages/0/201/Dialogue
+> CONTEXT: Map110/events/5/pages/1/242/Dialogue
+> CONTEXT: Commonevents/272/128/Dialogue
+> CONTEXT: Commonevents/272/305/Dialogue
+Sea Princess. 「It is a man who is not afraid.
+It is not easy to reach this. Potato, the savoryness of
+your lord, it's quite dark and delicious」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あうぅ……き、きもち、よすぎるぅ……」
+> CONTEXT: Map110/events/5/pages/0/206/Dialogue
+> CONTEXT: Map110/events/5/pages/1/247/Dialogue
+> CONTEXT: Commonevents/272/133/Dialogue
+> CONTEXT: Commonevents/272/310/Dialogue
+\\N[12]. 「Oh, oh ......, Kimomachi, Yoshi Ruu ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「一度出しただけで、もう快楽に堕ちてしもうたか。
+まあ、無理もない。わらわの手にかかれば
+人間の男など即座に狂ってしまうのが当然」
+> CONTEXT: Map110/events/5/pages/0/209/Dialogue
+> CONTEXT: Map110/events/5/pages/1/250/Dialogue
+> CONTEXT: Commonevents/272/136/Dialogue
+> CONTEXT: Commonevents/272/313/Dialogue
+Sea Princess. 「I just went out once and it fell down to
+pleasure anymore. Well, not too much. If you put it in the
+hands of a stew. Of course it is natural that men instantly
+become crazy」#MTLed
+> END STRING
+
+> BEGIN STRING
+ちゅうっ、ちゅっ……にゅるっ、ぎちゅっ……
+> CONTEXT: Map110/events/5/pages/0/215/Dialogue
+> CONTEXT: Map110/events/5/pages/1/256/Dialogue
+> CONTEXT: Commonevents/272/142/Dialogue
+> CONTEXT: Commonevents/272/319/Dialogue
+Wait a minute ... ... followed by a crocodile ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「さあ、もっと精を吐くがよい」
+> CONTEXT: Map110/events/5/pages/0/217/Dialogue
+> CONTEXT: Map110/events/5/pages/1/258/Dialogue
+> CONTEXT: Commonevents/272/144/Dialogue
+> CONTEXT: Commonevents/272/321/Dialogue
+Sea Princess. 「Now spit out more」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あああああぁっ！
+や、やめて、今そんなにされたらぁっ！」
+> CONTEXT: Map110/events/5/pages/0/220/Dialogue
+> CONTEXT: Map110/events/5/pages/1/261/Dialogue
+> CONTEXT: Commonevents/272/147/Dialogue
+> CONTEXT: Commonevents/272/324/Dialogue
+\\N[12]. 「Oh, aaaaahh! Or stop, I can do it so much now!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あひいいいぃ……」
+> CONTEXT: Map110/events/5/pages/0/228/Dialogue
+> CONTEXT: Map110/events/5/pages/1/269/Dialogue
+> CONTEXT: Commonevents/272/155/Dialogue
+> CONTEXT: Commonevents/272/332/Dialogue
+\\N[12]. 「Extreme ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「ほほほ……気持ちよさそうじゃのう、
+喘ぐ男の痴態を肴に
+人の精を喰らうというのも乙なものじゃ。
+> CONTEXT: Map110/events/5/pages/0/231/Dialogue
+> CONTEXT: Map110/events/5/pages/1/272/Dialogue
+> CONTEXT: Commonevents/272/158/Dialogue
+> CONTEXT: Commonevents/272/335/Dialogue
+Sea Princess. 「hohoho ... ... I feel comfortable,
+Relishing the sexuality of a man panting
+It is the second thing to eat people's precision.#MTLed
+> END STRING
+
+> BEGIN STRING
+さあ、もっと快楽に狂うてみせるがよい。
+精が枯れるまでは、極上の快楽に酔わせてやるぞよ。
+ほれ、今度は体中を愛撫してくれよう」
+> CONTEXT: Map110/events/5/pages/0/236/Dialogue
+> CONTEXT: Map110/events/5/pages/1/277/Dialogue
+> CONTEXT: Commonevents/272/163/Dialogue
+> CONTEXT: Commonevents/272/340/Dialogue
+Go ahead and go crazier more. Until the sperm withers, I
+will get drunk with the best pleasure. Well, now caress
+your body」#MTLed
+> END STRING
+
+> BEGIN STRING
+触手が\\N[12]の全身を撫でるようにしてくると、
+\\N[12]は甘美な快感に全身を包まれる。
+> CONTEXT: Map110/events/5/pages/0/241/Dialogue
+> CONTEXT: Map110/events/5/pages/1/282/Dialogue
+> CONTEXT: Commonevents/272/168/Dialogue
+> CONTEXT: Commonevents/272/345/Dialogue
+Tentacles \\N[12] As you try to stroke your whole body,
+\\N[12] She is full of sweet pleasant sensation.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（あ、あぁ……
+だ、ダメだ、こんなの抵抗できない……）
+> CONTEXT: Map110/events/5/pages/0/244/Dialogue
+> CONTEXT: Map110/events/5/pages/1/285/Dialogue
+> CONTEXT: Commonevents/272/171/Dialogue
+> CONTEXT: Commonevents/272/348/Dialogue
+\\N[12]. (Oh, ah ... .... It is useless, I can not
+resist such a thing ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「精が枯れたら、お主の体を体内に取り込んで
+餌とすることになるが……
+ふふふ、もはや食われるとなっても抵抗はできまい。
+> CONTEXT: Map110/events/5/pages/0/248/Dialogue
+> CONTEXT: Commonevents/272/352/Dialogue
+Sea Princess. 「When sperm withers, take your body into the
+body. It will be bait ... ... Huhuu, even if it is no
+longer able to resist, resistance is impossible.#MTLed
+> END STRING
+
+> BEGIN STRING
+この高貴なる海の姫に
+その身を捧げることができたのじゃ。
+光栄に思いながら死んでゆくがよい、人間の男よ」
+> CONTEXT: Map110/events/5/pages/0/253/Dialogue
+> CONTEXT: Commonevents/272/357/Dialogue
+To this noble sea princess. You could devote yourself to
+it. Let's be honored dead while you die, a human man」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、う……」
+> CONTEXT: Map110/events/5/pages/0/257/Dialogue
+> CONTEXT: Map110/events/5/pages/1/298/Dialogue
+> CONTEXT: Commonevents/272/184/Dialogue
+> CONTEXT: Commonevents/272/361/Dialogue
+\\N[12]. 「meet……」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして\\N[12]はシープリンセスの餌食となり、
+甘美な快楽に包まれながら彼女に捕食され
+人知れず一生を終えたのだった……
+> CONTEXT: Map110/events/5/pages/0/265/Dialogue
+> CONTEXT: Map110/events/5/pages/1/306/Dialogue
+> CONTEXT: Commonevents/272/192/Dialogue
+> CONTEXT: Commonevents/272/369/Dialogue
+In this way \\N[12] It became a prey of Sea Princess,
+She was eaten by her sweet pleasures. He was uninformed and
+he had finished his life ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「シープリンセス？
+海のお姫様ってこと？」
+> CONTEXT: Map110/events/5/pages/1/18/Dialogue
+\\N[15]. 「Sea Princess? You mean a sea
+princess?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「察するに、この洞窟にサハギンやクラーケンが
+徘徊しているのは、あんたのせいなのか」
+> CONTEXT: Map110/events/5/pages/1/22/Dialogue
+\\N[12]. 「To be aware, Sahuagin and Kraken are in this
+cave. Is it your fault that they are wandering around?」#MTLed
+> END STRING
+
+> BEGIN STRING
+じゃが、人に見られたとあっては
+安息の場所とはならなくなってしまう。
+おぬしらを帰すわけにはゆかぬな」
+> CONTEXT: Map110/events/5/pages/1/31/Dialogue
+Potato, as if it was seen by people. It will not be a place
+to rest. It is ugly to return home」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「見たところ、若くみずみずしい男女……
+わらわが直々に食ろうてくれようぞ。
+光栄に思うがよい！」
+> CONTEXT: Map110/events/5/pages/1/38/Dialogue
+Sea Princess. 「Apparently, young men and women ......
+Let 's eat straight from us. Think of it as an honor!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「つ、強いね……」
+> CONTEXT: Map110/events/5/pages/1/54/Dialogue
+\\N[15]. 「It is strong, is not it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「ど、どうするの、おにいさん。
+まだ戦うつもりみたいだよ、あの魔物」
+> CONTEXT: Map110/events/5/pages/1/62/Dialogue
+\\N[15]. 「Well, what are you doing, Oka.
+I still want to fight, that monster」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ま、待て。
+これ以上やれば、
+そっちもただじゃ済まないんじゃないのか」
+> CONTEXT: Map110/events/5/pages/1/71/Dialogue
+\\N[12]. 「Wait a moment. If you do it any more,
+I guess you just can not finish it either」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「む……」
+> CONTEXT: Map110/events/5/pages/1/76/Dialogue
+Sea Princess. 「Nothing」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「取引をしよう。
+俺たちはそもそも探し物をしに来ただけだ。
+このへんで手打ちにしないか？」
+> CONTEXT: Map110/events/5/pages/1/79/Dialogue
+\\N[12]. 「Let's make a deal. We just came to find
+something. Would you like to make a hand in this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この洞窟のことを知られたからには
+生かして返せないっていうんだろう？
+約束する、俺たちはこの洞窟のことを人には漏らさない」
+> CONTEXT: Map110/events/5/pages/1/88/Dialogue
+\\N[12]. 「Because I knew about this cave
+I guess you can not return it alive? Promise, we will not
+disclose this cave to people」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「あ、ありがとう、おねえさん！」
+> CONTEXT: Map110/events/5/pages/1/116/Dialogue
+\\N[15]. 「Oh, thank you, sister!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんてこった……
+こんなところで魔物にやられるなんて……
+くっ、せめてプリムだけでもっ！」
+> CONTEXT: Map110/events/5/pages/1/145/Dialogue
+> CONTEXT: Commonevents/272/31/Dialogue
+\\N[12]. 「What is it ...... In monsters like this in
+such a place ... ... Cut, at least with Purim alone!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は
+神々の羽をプリムに向かって放り投げる！
+> CONTEXT: Map110/events/5/pages/1/150/Dialogue
+> CONTEXT: Commonevents/272/36/Dialogue
+\\N[12] Is. Throw the wings of the gods toward Purim!#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「ぬっ、小娘を脱出させおったか。
+おのれ、面倒なことを……」
+> CONTEXT: Map110/events/5/pages/1/157/Dialogue
+> CONTEXT: Commonevents/272/43/Dialogue
+Sea Princess. 「Well, did you let her little girl escape?
+Himself, troublesome ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こ、これで、
+あいつだけは助かったはず……」
+> CONTEXT: Map110/events/5/pages/1/161/Dialogue
+> CONTEXT: Commonevents/272/47/Dialogue
+\\N[12]. 「Here, He only had to be saved ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「まあよいわ、こうなればお主だけでも
+わらわの餌となるがよい。
+それ、取り込んでくれよう」
+> CONTEXT: Map110/events/5/pages/1/165/Dialogue
+> CONTEXT: Commonevents/272/51/Dialogue
+Sea Princess. 「Oh well, this way, even your lord alone
+It will be a bait for me. It will take in」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「ふふふ、男にとっては甘美じゃぞ。
+わらわの下半身の触手は、は
+お主の体中に吸い付いて痺れさせてしまうのじゃ」
+> CONTEXT: Map110/events/5/pages/1/185/Dialogue
+> CONTEXT: Commonevents/272/71/Dialogue
+Sea Princess. 「Hehe he is sweet for men.
+The tentacles of the lower body of the girl are
+You will suck in your body and make you numb.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「精が枯れたら、お主の体そのものを
+喰ろうてやることになるが……
+ふふふ、もはやそう聞かされたところで抵抗はできまい。
+> CONTEXT: Map110/events/5/pages/1/289/Dialogue
+> CONTEXT: Commonevents/272/175/Dialogue
+Sea Princess. 「When sperm withers, your body itself
+I will try to eat it ... .... Huhuu, I can not resist
+resistance where I heard so much.#MTLed
+> END STRING
+
+> BEGIN STRING
+この高貴なる海の姫に
+その身を捧げることができるのじゃ。
+光栄に思いながら死んでゆくがよい、人間の男よ」
+> CONTEXT: Map110/events/5/pages/1/294/Dialogue
+> CONTEXT: Commonevents/272/180/Dialogue
+To this noble sea princess. You can devote yourself to it.
+Let's be honored dead while you die, a human man」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「わらわたち海の魔物も、人を襲い食ろうていたことはある。
+じゃが、人との争いが続いて数が減りすぎたし、
+わらわもいささか疲れたのじゃ」
+> CONTEXT: Map110/events/6/pages/0/0/Dialogue
+> CONTEXT: Map110/events/6/pages/2/0/Dialogue
+Sea Princess. 「Even the monsters of the sea have been
+striking and eating people. Potatoes, the number has
+decreased too much following the conflict with people,
+I got tired a bit young」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それで、こんなところで暮らしているってわけか」
+> CONTEXT: Map110/events/6/pages/0/5/Dialogue
+> CONTEXT: Map110/events/6/pages/2/16/Dialogue
+\\N[12]. 「So, why are you living in such a place」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「うむ。
+今は人目に触れず、穏やかに暮らしていければ
+それでいいと思うておる」
+> CONTEXT: Map110/events/6/pages/0/8/Dialogue
+> CONTEXT: Map110/events/6/pages/2/9/Dialogue
+> CONTEXT: Map110/events/6/pages/2/19/Dialogue
+Sea Princess. 「Yes. Now that I do not touch the eyes, if I
+can live calmly. I think that's fine.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あんた、海の魔物のお姫様っていうことは
+人魚も従えているのかい？」
+> CONTEXT: Map110/events/6/pages/1/0/Dialogue
+\\N[12]. 「You mean the ocean monster princess
+Are you also following mermaids?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「人魚はわらわたち魔物とは少し違う種族じゃ。
+なので配下でもないし、交流もあまりない。
+なぜそのようなことを聞く？」
+> CONTEXT: Map110/events/6/pages/1/4/Dialogue
+Sea Princess. 「Mermaids are somewhat different races from
+monster. So it is not under his control and there is not
+much exchange. Why do you ask such a thing?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「じつは俺たちは、人魚の鱗を探しに来たんだが……」
+> CONTEXT: Map110/events/6/pages/1/9/Dialogue
+\\N[12]. 「Well, we came to look for mermaid scales ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「ほう、それなら……ん？
+なんじゃ、おぬし持っているではないか。
+それ、その虹色の鱗が人魚の鱗よ」
+> CONTEXT: Map110/events/6/pages/1/13/Dialogue
+Sea Princess. 「Well, in that case ...? How come you have a
+nuisance? That rainbow scaly is mermaid scale」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え？　あ、ああ、これがそうだったのか。
+以前ここに来たときに手に入れてたんだよな……」
+> CONTEXT: Map110/events/6/pages/1/18/Dialogue
+\\N[12]. 「Huh? Oh, Oh, was this so? I got it when I
+came here before ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「すでに手に入れておったというわけじゃな。
+わざわざもう一度ここに来るとは、
+お主も無駄足を運んだものじゃのう、ふふふ」
+> CONTEXT: Map110/events/6/pages/1/22/Dialogue
+Sea Princess. 「You already got it. Expressly to come here
+again, Your lord also carried uselessness, hehehe」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わ、悪かったな、知らなかったんだよ」
+> CONTEXT: Map110/events/6/pages/1/27/Dialogue
+\\N[12]. 「I was bad, I did not know that」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「なあんだ、じゃあもう依頼は達成だね。
+まさか、おにいさんが持ってただなんて」
+> CONTEXT: Map110/events/6/pages/1/30/Dialogue
+Purim. 「Anyway, then the request has already
+been achieved. No way, just a lot of people have
+it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「すまんな、わざわざこんなトコまで来たのに。
+じゃあ、帰ってダレットさんに報告するとするか」
+> CONTEXT: Map110/events/6/pages/1/34/Dialogue
+\\N[12]. 「Sorry, expressly I came all this way.
+Well then, I should return home and report to Dalet-san」#MTLed
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+「ほう。そうじゃったか。人魚は夜などに姿を現すことはある。
+そのへんに置き土産があるかもしれぬぞ。
+よく探してみるがよい」
+> CONTEXT: Map110/events/6/pages/1/43/Dialogue
+Sea Princess. 「How. That's right. Mermaids are sometimes
+revealed at night etc. There may be souvenirs placed in
+that place. Try to find it well.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「それで、こんなところで暮らしているんだね」
+> CONTEXT: Map110/events/6/pages/2/6/Dialogue
+\\N[15]. 「So, you live in such a place」#MTLed
+> END STRING
+
+> BEGIN STRING
+サハギンの鱗を手に入れた！
+> CONTEXT: Map110/events/8/pages/0/9/Dialogue
+I got the scales of Sahuagin!#MTLed
+> END STRING

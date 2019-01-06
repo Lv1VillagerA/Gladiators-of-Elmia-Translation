@@ -1,0 +1,726 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ベルベット
+「おや、また来たのかい？
+あれだけ叩きのめしてやったのに、懲りない坊やだ」
+> CONTEXT: Map022/events/2/pages/0/4/Dialogue
+velvet. 「Oh, have you come again?
+I tried hitting that much, but he was a little
+disciple」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あいにくだが、あんなことであきらめるほど
+やわな根性はしていないんでね。
+今度は絶対に負けないぞ、ベルベット！」
+> CONTEXT: Map022/events/2/pages/0/13/Dialogue
+\\N[12]. 「Unfortunately, as I give up on such a thing
+I do not have any intricate guts. I will never lose this
+time, Velvet!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「あははっ、よく言うよ！
+あれだけ、あたしの魅力にメロメロになって
+気持ちよくてヒイヒイ言ってたくせにさぁ」
+> CONTEXT: Map022/events/2/pages/0/18/Dialogue
+velvet. 「Hahahah, I say something!
+That way, I became in love with my charm
+I feel good and I said that」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……
+俺は、もうあんな醜態を晒しはしないっ！
+今度こそお前を倒して、この洞窟を通させてもらうぞっ！」
+> CONTEXT: Map022/events/2/pages/0/23/Dialogue
+\\N[12]. 「Damn. I will not expose such abomination any
+more! I will have you defeat you this time and get through
+this cave!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ふっ、面白い！
+また前回と同じように、女に負けて嫐られる屈辱を
+たっぷりと味わわせてやるよ！　来な、坊や！」
+> CONTEXT: Map022/events/2/pages/0/28/Dialogue
+velvet. 「Fu, interesting! Also like the last
+time, the humiliation that is lost to the woman
+I will taste plenty! Come, boy!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「おや、誰だい？」
+> CONTEXT: Map022/events/2/pages/0/35/Dialogue
+Woman. 「Who are you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あんたが盗賊団の頭目か？」
+> CONTEXT: Map022/events/2/pages/0/38/Dialogue
+\\N[12]. 「Are you in the head of a bandit?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「ああ、そうさ。
+あたしは女盗賊ベルベット、女だけの盗賊団を作って
+金持ちを襲ったりして暴れてるんだ」
+> CONTEXT: Map022/events/2/pages/0/41/Dialogue
+Woman. 「Oh, that's right. I am a female thief
+velvet, making only a woman's bandits
+It attacks the rich and it is rampaging」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「で？　あんたは誰だい？」
+> CONTEXT: Map022/events/2/pages/0/46/Dialogue
+velvet. 「so? Who are you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺は\\N[12]、レストンの村で自警団員をやっていた男だ。
+理由あって王都に向かわなきゃならない身だが――
+> CONTEXT: Map022/events/2/pages/0/49/Dialogue
+\\N[12]. 「I am \\N[12] , The man who was doing the
+militia member in the village of Reston.
+I have to head to the kingdom for a reason -#MTLed
+> END STRING
+
+> BEGIN STRING
+おまえたちが洞窟を塞いでいて通れない。
+だから、わざわざこうして退治しに来たんだ」
+> CONTEXT: Map022/events/2/pages/0/53/Dialogue
+You can not pass because you are blocking the cave.
+So, expressly, I came here to get rid of」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「へぇ……」
+> CONTEXT: Map022/events/2/pages/0/56/Dialogue
+velvet. 「Wow ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベットは、じろじろと\\N[12]の全身を
+舐めるように見つめてきた。
+> CONTEXT: Map022/events/2/pages/0/59/Dialogue
+Velvet, with \\N[12] The whole body of. I gazed to lick
+it.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだよ……」
+> CONTEXT: Map022/events/2/pages/0/62/Dialogue
+\\N[12]. 「What is it ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「いやいや、悪くない男だと思ってね。
+あたしのところまでひとりでたどり着くなんて、
+なかなかたいしたもんじゃないか。
+> CONTEXT: Map022/events/2/pages/0/65/Dialogue
+velvet. 「Please think that it is not bad guy.
+To get alone to me, It is quite a big deal.#MTLed
+> END STRING
+
+> BEGIN STRING
+まさかウチの子分どもの守りを突破してくるような男が
+レストンみたいな小さな村にいただなんてね」
+> CONTEXT: Map022/events/2/pages/0/70/Dialogue
+There is no guy who will surely break through the
+defenses of our children. I was in a small
+village like Reston」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……少しは認めてくれるんだな、光栄だね。
+で、どうする？
+俺としては、ふたつの条件――」
+> CONTEXT: Map022/events/2/pages/0/73/Dialogue
+\\N[12]. 「...... You acknowledge a little, I am honored.
+So, what do you do? As me, the two conditions -」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「レストンの村に手を出さないことと、
+俺が王都に行けるよう出口を開放してくれること、
+これを飲んでくれれば、荒っぽいことはしないつもりなんだが」
+> CONTEXT: Map022/events/2/pages/0/78/Dialogue
+\\N[12]. 「Do not put your hands on the village of
+Reston, It opens the exit so I can go to the kingdom,
+If I drink this, I will not do rough things」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「悪いが、それは飲めないね。
+こちとら武闘派の盗賊団として鳴らしているんだ。
+> CONTEXT: Map022/events/2/pages/0/85/Dialogue
+velvet. 「It's bad, but I can not drink it.
+It is ringing as a gangster fighter bandit group.#MTLed
+> END STRING
+
+> BEGIN STRING
+あんたの要求を飲んで素直に引き下がったりしたら、
+それこそ名折れってもんさね。
+> CONTEXT: Map022/events/2/pages/0/89/Dialogue
+If you drank your demand and honestly withdraw,
+That is the way it is.#MTLed
+> END STRING
+
+> BEGIN STRING
+どうしても洞窟を通りたきゃ、
+このあたしを倒してみせな！」
+> CONTEXT: Map022/events/2/pages/0/92/Dialogue
+I definitely had to go through the cave,
+Show me this knockdown!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「やっぱり、そうきたか。
+こうなるんじゃないかとは思ってたぜ……」
+> CONTEXT: Map022/events/2/pages/0/96/Dialogue
+\\N[12]. 「After all, is that so? I thought that it
+would be like this ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ふふ……いいねぇ、ゾクゾクしてきたよ」
+> CONTEXT: Map022/events/2/pages/0/105/Dialogue
+velvet. 「Hehe ... ... nice, I've been tremble」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「あたしは、あんたみたいな夢を見てるような目をした
+若い男をボコボコにして、やる気を打ち砕いた上で
+逆レイプして屈辱の中に沈めてやるのが大好きでねぇ……\\I[122]」
+> CONTEXT: Map022/events/2/pages/0/109/Dialogue
+velvet. 「I looked like you were dreaming like a
+dream. Make a young man and smash the motivation
+I love stopping rape and submerging into
+humiliation ... ... \\I[122]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「い、いい趣味してやがるぜ……」
+> CONTEXT: Map022/events/2/pages/0/115/Dialogue
+\\N[12]. 「Good, I'm going to have a good hobby ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「こんなところで、あんたみたいな面白そうなオモチャに
+巡り会えるとは思わなかったよ。
+> CONTEXT: Map022/events/2/pages/0/118/Dialogue
+velvet. 「In such a place, it seems like you seem
+like an interesting toy. I did not think we could
+meet.#MTLed
+> END STRING
+
+> BEGIN STRING
+せいぜい可愛い泣き顔を晒してみせな、坊や♪」
+> CONTEXT: Map022/events/2/pages/0/122/Dialogue
+Please show me at least a cute tearful face, boy♪
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうはいくか……お前を倒して王都への足がかりを作り、
+そして村にとっての脅威も取り除いてみせるっ！
+いくぞ、女盗賊ベルベット！」
+> CONTEXT: Map022/events/2/pages/0/124/Dialogue
+\\N[12]. 「That's right ... ... Defeat you, make a
+foothold to the kingdom, And I will remove the threat to
+the village! Let's go, the female thief velvet!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「うっ……」
+> CONTEXT: Map022/events/2/pages/0/142/Dialogue
+velvet. 「Wow ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうだ……？」
+> CONTEXT: Map022/events/2/pages/0/145/Dialogue
+\\N[12]. 「How is it ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「くっ……や、やるじゃないか。
+このあたしにヒザをつかせるだなんてさ」
+> CONTEXT: Map022/events/2/pages/0/149/Dialogue
+velvet. 「Cut ... ... and will not do it.
+I made a knee for this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「観念しろ、盗賊ベルベット！
+大人しく洞窟を解放すると約束すれば、
+これ以上痛めつけることはしない」
+> CONTEXT: Map022/events/2/pages/0/153/Dialogue
+\\N[12]. 「Ideas, thieves velvet! If you promise to free
+the cave adultly, I will not hurt any more」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ちっ、負けちまった以上は仕方ないね……
+わかったよ、洞窟は開放するし、
+あたしらは出ていくとするさ」
+> CONTEXT: Map022/events/2/pages/0/158/Dialogue
+velvet. 「Well, I can not help but beat more than
+losing ... ... Okay, I will open the cave,
+We are going to leave.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「意外と素直に聞いてくれるんだな」
+> CONTEXT: Map022/events/2/pages/0/163/Dialogue
+\\N[12]. 「You listen unexpectedly obediently」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「武闘派の盗賊団なんだって言ったろ？
+勝負に負けたのに未練たらしくするのは
+流儀に反するってもんさ。
+> CONTEXT: Map022/events/2/pages/0/166/Dialogue
+velvet. 「Did you say it was a militant bandit
+group? It seems that it seems that they seemed to
+be refused though they lost the game
+It does not go against tradition.#MTLed
+> END STRING
+
+> BEGIN STRING
+あんた\\N[12]って言ったかい？
+ただの若造だと思っていたが、できる奴だね。
+よく見りゃ顔もなかなか可愛いし、気に入ったよ」
+> CONTEXT: Map022/events/2/pages/0/171/Dialogue
+You \\N[12] Did you say that? I thought that
+it was just a young man, but he can do it.
+I often liked the face and it was pretty cute and
+I liked it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そいつはどうも……」
+> CONTEXT: Map022/events/2/pages/0/175/Dialogue
+\\N[12]. 「Well, thanks ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「なんだい、照れてんのかい？」
+> CONTEXT: Map022/events/2/pages/0/178/Dialogue
+velvet. 「How do you feel shy?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「だ、誰がっ！」
+> CONTEXT: Map022/events/2/pages/0/181/Dialogue
+\\N[12]. 「Who are you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「まあいい。
+それじゃ、敗者は大人しく退散するかねぇ。
+> CONTEXT: Map022/events/2/pages/0/184/Dialogue
+velvet. 「Oh well. Well then, will the losers
+detach adults well?#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、あんたとは不思議と、また会うような気がするよ。
+今度やるときは、借りは返させてもらうよ」
+> CONTEXT: Map022/events/2/pages/0/188/Dialogue
+But, as you wonder, I feel like to see you again.
+When I do it next time, I will let you return the
+borrowed」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……まだ、盗賊を続けるつもりなのか？
+あんたの腕前なら、何だってできるだろうし
+俺は、もったいないと思うけどな」
+> CONTEXT: Map022/events/2/pages/0/191/Dialogue
+\\N[12]. 「... ... Are you still going to keep the
+bandits? If you can do it, whatever you can do
+I think that it is a wasteful though」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ふっ、厚意だってのは分かるけど、生憎だね。
+行き場のないはみ出し者ってのは、いつの世にも
+いるもんだし、子分の居場所は作ってやらなきゃいけない。
+> CONTEXT: Map022/events/2/pages/0/196/Dialogue
+velvet. 「Fu, I know that I am kind, but I am
+unfortunate. A runaway person who does not have a
+visit, I have something to do and I need to make
+a location for my child.#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、ここを根城にするとカタギの人間にも迷惑なようだし、
+もっと適当な根城を探すさ。
+> CONTEXT: Map022/events/2/pages/0/201/Dialogue
+Well, it seems annoying to the people of the
+Ragusa if you make it here, I will search for a
+more suitable root foundation.#MTLed
+> END STRING
+
+> BEGIN STRING
+もともと、ウチらは悪徳商人や同業者を襲うのが本分だ。
+今後はあんたの村には迷惑はかけないから安心しな」
+> CONTEXT: Map022/events/2/pages/0/204/Dialogue
+, Uchira attacks vicious merchants and peers, it
+is in the real situation. From now on you will
+not be troubled by your village so do not worry」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか、分かった。
+俺も武道大会に出たいだけだし、王都にさえ行ければ
+あんたらが何をしようが文句はないさ」
+> CONTEXT: Map022/events/2/pages/0/207/Dialogue
+\\N[12]. 「I see, I understand. I just want to go out to
+martial arts tournament, even go to the kingdom
+Whatever you do is not complaining」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ふうん、武道大会にね……
+まあいいや、それじゃあたしらはこれで失礼するよ」
+> CONTEXT: Map022/events/2/pages/0/212/Dialogue
+velvet. 「Huh, to martial arts tournament ...
+Oh well, then we'll be rude with this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ、行ったか。
+目のやり場に困る胸しやがって、戦いにくかったぜ。
+女だけの盗賊団ってのも、厄介なもんだったな……
+> CONTEXT: Map022/events/2/pages/0/217/Dialogue
+\\N[12]. 「Did you go well? I was badly fighting because
+I was in trouble with my eye. It was a troublesome thing
+about a woman's bandit group ......#MTLed
+> END STRING
+
+> BEGIN STRING
+……実際、エロい目にもあっちまったけど……
+とにかく、これで洞窟は突破したんだ。
+王都に行って、武道大会に出場するぞ！」
+> CONTEXT: Map022/events/2/pages/0/223/Dialogue
+...... Indeed, even though it was erotic ... ...
+Anyway, this cave broke through. I will go to the kingdom
+and play martial arts tournament!」#MTLed
+> END STRING
+
+> BEGIN STRING
+とにかく、これで王都に行ける。
+武道大会に出場して、あのシェリーって奴に
+リベンジマッチを挑むぞ！」
+> CONTEXT: Map022/events/2/pages/0/229/Dialogue
+Anyway, I can go to the kingdom with this.
+I participated in the martial arts tournament, and that
+sherry was he. I will challenge the revenge match!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベル盗賊団が退去したことにより、
+洞窟が通行可能になった！
+> CONTEXT: Map022/events/2/pages/0/237/Dialogue
+As the Bell Rogue team exited, The cave can pass through!#MTLed
+> END STRING
+
+> BEGIN STRING
+盗賊団に奪われていたお金を取り戻した！
+（洞窟の外の女性モンスターに奪われたお金は
+含まれません）
+> CONTEXT: Map022/events/3/pages/0/9/Dialogue
+I got back the money I was robbing of the bandits!
+(The money deprived of female monsters outside the cave is
+It is not included)#MTLed
+> END STRING
+
+> BEGIN STRING
+※体験版はここまでとなります、お疲れ様でした！
+続きは製品版をお待ちください。
+> CONTEXT: Map022/events/4/pages/0/0/Dialogue
+※ The trial version will be here so far, thanks for your
+hard work! Wait for the product version for the rest.#MTLed
+> END STRING
+
+> BEGIN STRING
+洞窟南にて、盗賊団メンバーとの自由戦闘ができます。
+体力や精神を自由に減らしたり、
+全回復して戦ったりできますので、
+また彼女たちと戦いたい場合はご利用ください。
+> CONTEXT: Map022/events/4/pages/0/3/Dialogue
+In the south of the cave, you can play free battle with
+members of the bandits. Reduce physical strength and spirit
+freely, Because you can recover and fight in full,
+Also please use if you want to fight with them.#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「こんなに早く、
+あんたに借りを返せる機会が来るとはね。
+ベル傭兵団の腕前、しっかり見せてやるよ」
+> CONTEXT: Map022/events/8/pages/0/0/Dialogue
+Bandit Girl. 「So fast, I do not see the opportunity to
+come back to you. I will show you the skill of the Bell
+mercenary team firmly」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「うふふ、
+坊やの味方として動くは初めてねぇ。
+期待してくれていいわよぉ」
+> CONTEXT: Map022/events/9/pages/0/0/Dialogue
+sexy bandit. 「Planning is. It is not the first time to
+move as a friend of a boy. You can expect me」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「なんか、この洞窟もなつかしいなー
+まあ、かびくさいし暑いしで
+そんなに住み心地はよくなかったけどねー」
+> CONTEXT: Map022/events/10/pages/0/0/Dialogue
+bandit teen. 「Something is wrong with this cave
+Well, it's frosty and hot. I did not feel comfortable
+living so much though」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「来たね、\\N[12]。
+橋はかけておいたよ、
+ここを行けば王都の地下水道にたどり着ける」
+> CONTEXT: Map022/events/11/pages/0/0/Dialogue
+velvet. 「You came. \\N[12] . I bought a
+bridge, If you go here you can reach the
+underground water service of the kingdom」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こんなところから王都まで繋がっているのか……
+もしかして、これ自体が非常用の脱出路だったりするかな」
+> CONTEXT: Map022/events/11/pages/0/5/Dialogue
+\\N[12]. 「Is it connected from this place to the
+kingdom ...? Maybe, perhaps this is itself an emergency
+escape route」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「かもしれないけど、今はありがたく
+利用させてもらえばいいさ。
+幸運を祈ってるよ」
+> CONTEXT: Map022/events/11/pages/0/9/Dialogue
+velvet. 「Maybe, but thankfully now
+You can use it. I wish good luck」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、サンキュ」
+> CONTEXT: Map022/events/11/pages/0/14/Dialogue
+\\N[12]. 「Oh, thanks」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「さて、そんじゃあたしらも動くかね。
+お前たち、話は聞いてただろうね」
+> CONTEXT: Map022/events/11/pages/0/18/Dialogue
+velvet. 「Well then, will we also move?
+You guys, you probably heard the story」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「はーい！」
+> CONTEXT: Map022/events/11/pages/0/22/Dialogue
+bandit teen. 「Yes!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「あたしらは\\N[12]に協力する！
+先に地下水道に侵入して道中の魔物を狩って、
+\\N[12]の露払いをしてやるんだ。いいね！」
+> CONTEXT: Map022/events/11/pages/0/25/Dialogue
+velvet. 「We are \\N[12] Cooperate with!
+We first entered the underground water supply,
+hunted the monster in the road,
+\\N[12] I'm going to do the death penalty for.
+How nice!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「お頭が言うんなら、もちろん了解よぉ」
+> CONTEXT: Map022/events/11/pages/0/30/Dialogue
+sexy bandit. 「If your head says, of course I understand.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「\\N[12]には借りがあるしね。
+せいぜい派手に暴れてやるわよ」
+> CONTEXT: Map022/events/11/pages/0/33/Dialogue
+Bandit Girl. 「\\N[12] I have borrowed. I'm at the most
+gaudyly loud」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「よし、行くよ！
+ベル傭兵団の初仕事だ！」
+> CONTEXT: Map022/events/11/pages/0/37/Dialogue
+velvet. 「OK, I will go! It is the first job of
+Bell Mercenary Group!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「味方となると、あの三人も頼もしいな。
+よし、俺も行くとするか！」
+> CONTEXT: Map022/events/11/pages/0/44/Dialogue
+\\N[12]. 「Three of them are dependable as they are on
+the side. OK, I suppose I should go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ここからはオマケだ、
+あたしは先に行って、
+道中の魔物を少し露払いしてやるよ」
+> CONTEXT: Map022/events/11/pages/0/50/Dialogue
+velvet. 「From here it is a bonus,
+I went ahead, I'm going to take a couple of
+casualty on the way monster」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そいつはありがたいな、
+少しでも体力は温存したいところだし」
+> CONTEXT: Map022/events/11/pages/0/55/Dialogue
+\\N[12]. 「Thanks for that, It is a place I want to
+preserve physical fitness even a little」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ところで\\N[12]、
+見返りに……と言っちゃなんだが、
+ひとつ頼まれてくれないかい？」
+> CONTEXT: Map022/events/11/pages/0/59/Dialogue
+velvet. 「by the way \\N[12] , In exchange,
+saying ... ... but, Will you be asked one by one?
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え？　なんだ、改まって」
+> CONTEXT: Map022/events/11/pages/0/64/Dialogue
+\\N[12]. 「Huh? What is it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「あんたも覚えているだろう、
+あたしの手下の三人が勝手なことをして
+とっ捕まって、まだ城の牢屋に入れられてる」
+> CONTEXT: Map022/events/11/pages/0/67/Dialogue
+velvet. 「You will remember, too,
+Three of my followers did something selfish
+I was caught and still in the prison of the
+castle」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、そんなこともあったな……」
+> CONTEXT: Map022/events/11/pages/0/72/Dialogue
+\\N[12]. 「Oh, there was such a thing ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「あいつらを助けてやってくれないかい？
+あんなんでも、あたしにとっては大切な身内だ。
+もう迷惑なことはさせないように教育するからさ」
+> CONTEXT: Map022/events/11/pages/0/75/Dialogue
+velvet. 「Could you please help them?
+Even so, I am an important person for me.
+Because I educate not to let things be annoying
+anymore」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、わかった。
+あんたのおかげで道が見えてきたんだ、
+俺としてもお返しはしたいからな」
+> CONTEXT: Map022/events/11/pages/0/80/Dialogue
+\\N[12]. 「Oh I see. I got to see the way thanks to you,
+Because I want to give back as even I」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「悪いね、大切な試練の最中に
+手間をかけさせちまうことになるが」
+> CONTEXT: Map022/events/11/pages/0/85/Dialogue
+velvet. 「Sorry, during an important trial
+It will take time and effort」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「任せとけ、城に侵入できたら
+必ずあいつらを牢から出すよ」
+> CONTEXT: Map022/events/11/pages/0/89/Dialogue
+\\N[12]. 「Leave it to me, if I can break into the castle
+Be sure to give them out of prison」#MTLed
+> END STRING

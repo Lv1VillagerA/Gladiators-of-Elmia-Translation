@@ -1,0 +1,15 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+レヴァスティ封印区画２
+> CONTEXT: Map116/display_name/
+Levasty Sealed Area 2#MTLed
+> END STRING
+
+> BEGIN STRING
+ダークウィッチ
+「この私を苦戦させるだなんて、頑張りましたわね。
+まあ、最後に勝つのは私なのですけれどね♪」
+> CONTEXT: Map116/events/12/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/26/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING

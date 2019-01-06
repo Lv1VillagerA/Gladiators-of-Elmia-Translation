@@ -1,0 +1,102 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+頭上にフタがある。開けますか？
+> CONTEXT: Map097/events/4/pages/0/0/Dialogue
+There is a lid on the head. Can you open it?#MTLed
+> END STRING
+
+> BEGIN STRING
+非常口の鍵を使ってフタを開けた。
+> CONTEXT: Map097/events/4/pages/0/6/Dialogue
+I opened the lid with an emergency exit key.#MTLed
+> END STRING
+
+> BEGIN STRING
+鍵がかかっていて開かない。
+> CONTEXT: Map097/events/4/pages/0/16/Dialogue
+I am locked and it will not open.#MTLed
+> END STRING
+
+> BEGIN STRING
+フタに文字が刻印されている……
+『下水道非常口
+要：下水道非常口の鍵』
+> CONTEXT: Map097/events/4/pages/0/18/Dialogue
+Characters are engraved on the lid ......
+"Sewer emergency exit. KEEP: Key to sewer emergency exit "#MTLed
+> END STRING
+
+> BEGIN STRING
+スイッチがある。動かしますか？
+> CONTEXT: Map097/events/5/pages/0/0/Dialogue
+> CONTEXT: Map075/events/4/pages/0/0/Dialogue
+There is a switch. Do you move it?#MTLed
+> END STRING
+
+> BEGIN STRING
+上から排水されているようだ。
+> CONTEXT: Map097/events/7/pages/0/0/Dialogue
+> CONTEXT: Map097/events/9/pages/0/0/Dialogue
+It seems to be drained from above.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ちょっと澱んでるような気がするな……」
+> CONTEXT: Map097/events/7/pages/0/2/Dialogue
+\\N[12]. 「I feel like I am a bit stagnant ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+『この上　エルミア魔法学院
+支柱にイタズラをしないように』
+> CONTEXT: Map097/events/8/pages/0/0/Dialogue
+"On this Elmia Magic College. Do not prank on the pillar. "#MTLed
+> END STRING
+
+> BEGIN STRING
+精神薬を手に入れた！
+> CONTEXT: Map097/events/10/pages/0/9/Dialogue
+> CONTEXT: Map109/events/13/pages/0/9/Dialogue
+> CONTEXT: Map071/events/45/pages/0/9/Dialogue
+> CONTEXT: Map019/events/38/pages/0/9/Dialogue
+I got psychoactive medicine!#MTLed
+> END STRING
+
+> BEGIN STRING
+水路の鍵 を手に入れた！
+> CONTEXT: Map097/events/11/pages/0/9/Dialogue
+I got the key of the waterway!#MTLed
+> END STRING
+
+> BEGIN STRING
+水路の鍵で扉が開いた。
+> CONTEXT: Map097/events/13/pages/0/2/Dialogue
+The door opened with the key of the waterway.#MTLed
+> END STRING
+
+> BEGIN STRING
+鍵がかかっている。
+> CONTEXT: Map097/events/13/pages/0/8/Dialogue
+> CONTEXT: Map025/events/259/pages/1/1/Dialogue
+It is locked.#MTLed
+> END STRING
+
+> BEGIN STRING
+『地下水道管理局休憩室』
+と書いてある。
+> CONTEXT: Map097/events/16/pages/0/0/Dialogue
+"Groundwater service station rest room". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ……
+この地下水道、なんでこんな蛇が女に化けたような魔物が
+徘徊しているんだ……？　なにか理由がありそうだな」
+> CONTEXT: Map097/events/17/pages/0/4/Dialogue
+\\N[12]. 「Fuu ...... This underground waterway, why
+such a monster as this snake turned into a woman
+I'm wandering around ... ....? There seems to be any reason
+」#MTLed
+> END STRING

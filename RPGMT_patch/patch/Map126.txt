@@ -1,0 +1,7 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印されている……
+> CONTEXT: Map126/events/9/pages/0/0/Dialogue
+> CONTEXT: Map113/events/12/pages/1/0/Dialogue
+It is sealed ...#MTLed
+> END STRING

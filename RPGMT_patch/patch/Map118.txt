@@ -1,0 +1,389 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「うぐっ！」
+> CONTEXT: Map118/events/1/pages/0/3/Dialogue
+> CONTEXT: Map057/events/25/pages/0/233/Dialogue
+> CONTEXT: Map021/events/96/pages/0/285/Dialogue
+\\N[12]. 「Ug!」#MTLed
+> CONTEXT: Commonevents/225/106/Dialogue
+\\N[12]. 「Ug!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ど、どうなったんだ……雪煙で周りが見えない。
+あの雪女は……？」
+> CONTEXT: Map118/events/1/pages/0/6/Dialogue
+\\N[12]. 「Well, what happened...... I can not see
+around with snow smoke. Is that Yuki Onna ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こ、ここは……氷の中の空洞か。
+くっ、あのつららで地面に穴が空いて、
+その中に落とされたんだ」
+> CONTEXT: Map118/events/1/pages/0/15/Dialogue
+\\N[12]. 「Here, here...is the hollow in the ice?
+Cut the hole in the ground with that icicle,
+It was dropped in it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うーん、どうも脱出口はなさそうだ。
+しかし、上に登るのも難しそうだな、
+周りは氷壁だし……こいつはまずいぞ」
+> CONTEXT: Map118/events/1/pages/0/28/Dialogue
+\\N[12]. 「Well, it seems that there is no escape.
+However, it seems to be difficult to climb up,
+The surroundings are ice walls...... this is bad」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふう、もう2時間は経ったかな……
+探しても、特に抜け穴とかは見つからないな。
+> CONTEXT: Map118/events/1/pages/0/36/Dialogue
+\\N[12]. 「Wonder, it took another two hours ......
+Even if I look for it, I can not find any loopholes.#MTLed
+> END STRING
+
+> BEGIN STRING
+ううっ、体が冷えてきた……
+このままじゃ凍え死んじまうぜ、
+氷壁のどっかをぶち割って脱出口を探すか？」
+> CONTEXT: Map118/events/1/pages/0/41/Dialogue
+OHh, the body is getting cold...It will be frozen and
+dead in this way, Will you spot the ice wall and find the
+escape mouth?」#MTLed
+> END STRING
+
+> BEGIN STRING
+？
+「きゃーっ！！！」
+> CONTEXT: Map118/events/1/pages/0/45/Dialogue
+? 「Kyat!!!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ん？　う、うわっ！」
+> CONTEXT: Map118/events/1/pages/0/50/Dialogue
+\\N[12]. 「Hmm? Wow, that's it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+？
+「あいたたた……」
+> CONTEXT: Map118/events/1/pages/0/57/Dialogue
+? 「Aitatan ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「げほっ、ごほっ！
+な、なにが起こったんだ……
+また雪煙が舞って、何も見えない」
+> CONTEXT: Map118/events/1/pages/0/60/Dialogue
+\\N[12]. 「Hey, hey! What happened ......
+Snow smoked again, I can not see anything」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あれ、こんなところに空洞が？」
+> CONTEXT: Map118/events/1/pages/0/74/Dialogue
+Sherry. 「Cave a cavity in such a place?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、お前っ！
+シェリーじゃないか！」
+> CONTEXT: Map118/events/1/pages/0/81/Dialogue
+\\N[12]. 「Oh, you! It's Sherry!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あ、\\N[12]君じゃない。
+こんなところで何してるの？」
+> CONTEXT: Map118/events/1/pages/0/89/Dialogue
+Sherry. 「Ah, \\N[12] You are not.
+What are you doing in such places?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「雪女に落とされたんだよ。
+お前はいったいどうして落ちてきたんだ」
+> CONTEXT: Map118/events/1/pages/0/93/Dialogue
+\\N[12]. 「It was dropped by Yuki Onna. Why on earth
+have you fallen down」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「一緒だよ、なんか地面に穴が空いてて
+戦闘のはずみで、そこに突き落とされちゃって。
+早く戻らなきゃ」
+> CONTEXT: Map118/events/1/pages/0/97/Dialogue
+Sherry. 「Together, there are holes in the ground
+somewhat. It was a battle of battle, it was
+pushed down there. I have to get back soon」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「つっても、こんなつるつるした壁を登るのか？
+ちょっと難しいだろ」
+> CONTEXT: Map118/events/1/pages/0/102/Dialogue
+\\N[12]. 「Would you climb a wall like this even if you
+do? It will be a bit difficult」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あ……う、うーん……
+どうしよう、ここって閉鎖空間っぽいね」
+> CONTEXT: Map118/events/1/pages/0/106/Dialogue
+Sherry. 「Ah...no, well...What to do, this
+place is like a closed space」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺は何時間か前からここにいるが、
+抜け道らしきものは見つからないな……」
+> CONTEXT: Map118/events/1/pages/0/110/Dialogue
+\\N[12]. 「I have been here for several hours,
+I can not find anything that seems like a loophole ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「そっかぁ、困ったなー
+どうやって脱出するか、
+しばらく体を休ませながら考えないと」
+> CONTEXT: Map118/events/1/pages/0/114/Dialogue
+Sherry. 「I see. I was in trouble.
+How to escape, I have to think while resting my
+body for a while」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「怪我したのか、お前が？」
+> CONTEXT: Map118/events/1/pages/0/119/Dialogue
+\\N[12]. 「Did you get hurt, you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「雪女が強くてさ……
+まあ、軽傷だからすぐよくなるよ」
+> CONTEXT: Map118/events/1/pages/0/122/Dialogue
+Sherry. 「Yuki Onna is strong ......
+Well, it's a slight injury so I'll get better
+soon.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お前、俺と同じ依頼受けてたんだな」
+> CONTEXT: Map118/events/1/pages/0/135/Dialogue
+\\N[12]. 「You were the same asking me as you did」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「そうみたいだね。
+まあ、この依頼はかなりヤバい内容だし、
+依頼主もいくらでも人数が欲しいところでしょ」
+> CONTEXT: Map118/events/1/pages/0/138/Dialogue
+Sherry. 「It seems like that. Well, this request
+is pretty dangerous content, The client wants as
+many people as you want」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな、この依頼に関しては
+何人被ってもおかしくはないだろうな」
+> CONTEXT: Map118/events/1/pages/0/143/Dialogue
+\\N[12]. 「That's right, regarding this request
+I wonder how many people can get it」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「今回ばかりは共同作戦といこうよ。
+ここから脱出するのはもちろん、
+あの雪女は魔力が強すぎて一人じゃきついし」
+> CONTEXT: Map118/events/1/pages/0/149/Dialogue
+Sherry. 「It will not be a joint operation this
+time. Of course to escape from here,
+That Yuki Onna has too strong magical power and
+it is hard by one person」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……そうだな、こんな非常時だし
+一時休戦だな。
+まずは、脱出の方法を探すとするか」
+> CONTEXT: Map118/events/1/pages/0/156/Dialogue
+\\N[12]. 「...... That's right, it's such an emergency.
+It's a temporary cease fight. First of all, I want to find
+a way to escape」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリーがパーティに加わった！
+> CONTEXT: Map118/events/1/pages/0/162/Dialogue
+Sherry joined the party!#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「この氷壁も、厚い部分ばかりじゃないと思うんだ。
+どこか破れそうな場所を探そうよ」
+> CONTEXT: Map118/events/1/pages/0/169/Dialogue
+Sherry. 「I think that this ice wall is not only
+thick. Let's find a place that is likely to break
+somewhere」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、あきらめずに調べてみるか」
+> CONTEXT: Map118/events/1/pages/0/173/Dialogue
+\\N[12]. 「OK, do you want to investigate without giving
+up?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ん？　ここ、なんか壁の中が妙に明るいように見えるな」
+> CONTEXT: Map118/events/4/pages/0/0/Dialogue
+\\N[12]. 「Hmm? Here, something in the wall seems to be
+strangely bright」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「え、そう？
+それって、向こう側から光が来てるってことじゃない？」
+> CONTEXT: Map118/events/4/pages/0/3/Dialogue
+Sherry. 「Oh, is that so? Is not that light
+coming from the other side?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、そうか。
+それじゃ、この向こうに空洞があるかもしれないな。
+そうと決まれば、ここをブチ割ってみるか！」
+> CONTEXT: Map118/events/4/pages/0/7/Dialogue
+\\N[12]. 「Oh, I see. Then, there may be a cavity beyond
+this. If you decide to do so, why do not you break it here!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「じゃ、息を合わせて突撃しよう。
+いくよ……」
+> CONTEXT: Map118/events/4/pages/0/12/Dialogue
+Sherry. 「Let's breath and assault you.
+To come」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「せーのっ！」
+> CONTEXT: Map118/events/4/pages/0/21/Dialogue
+Sherry. 「Sue!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おっ、やったぜ！
+ここより広い空洞があるぞ！」
+> CONTEXT: Map118/events/4/pages/0/38/Dialogue
+\\N[12]. 「Hey, why! There is a wider cavity here!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「まだ脱出できるかはわからないけど、
+希望が見えてきたね。
+じゃあ、さっそく広い空間のほうを調べようよ！」
+> CONTEXT: Map118/events/4/pages/0/42/Dialogue
+Sherry. 「I do not know if I can escape yet,
+Hope comes to see. Well then, let's investigate
+the wider space!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（なんか、こいつが来たとたん道が開けたなあ。
+少ししゃくだが、頼りになる奴なんだな）
+> CONTEXT: Map118/events/4/pages/0/47/Dialogue
+\\N[12]. (Something, I just opened the way as soon as
+this one came. It is a bit tricky, but he is a reliable
+person)#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「つるつるした氷壁だね。
+これを登るには特殊な道具が要るだろうし、
+ちょっと無理かなあ」
+> CONTEXT: Map118/events/5/pages/0/0/Dialogue
+Sherry. 「It's an ice wall. It will take a
+special tool to climb this, I wonder if
+impossible」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そもそも、ここを登って
+落ちてきたところから戻ったら、
+あの雪女に待ち伏せされてそうなんだよな……」
+> CONTEXT: Map118/events/5/pages/0/5/Dialogue
+\\N[12]. 「, Climb here. When I return from where I fell,
+It seems that Yuki Onna is being ambushed ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「できれば、別の脱出路を見つけたいよね」
+> CONTEXT: Map118/events/5/pages/0/10/Dialogue
+Sherry. 「If you can, I'd like to find another
+escape route」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うーん、このくぼみの先に
+何かあるかなーって思ったけど……
+何もなさそうかなあ」
+> CONTEXT: Map118/events/6/pages/0/0/Dialogue
+Sherry. 「Well, beyond this dent
+I thought there was something ....
+I wonder if there seems to be nothing」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こっちには分厚い氷壁がずっと続いてるみたいだ。
+このまま脱出できないと、
+俺たちもこの氷の中に閉じ込められちまうんだろうか……」
+> CONTEXT: Map118/events/8/pages/0/0/Dialogue
+\\N[12]. 「It seems that thick ice walls have continued
+all along. If we can not escape as it is,
+I wonder if we are trapped in this ice ......」#MTLed
+> END STRING

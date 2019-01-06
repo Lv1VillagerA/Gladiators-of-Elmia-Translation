@@ -1,0 +1,1196 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ハンドアクス
+> CONTEXT: Weapons/1/name/
+Hand Ax#lvl1
+> END STRING
+
+> BEGIN STRING
+小型の斧。
+攻撃力は高いが命中率が下がる。
+> CONTEXT: Weapons/1/description/
+A small ax. The attack power is high, but the hit rate
+drops.#MTLed
+> END STRING
+
+> BEGIN STRING
+バトルアクス
+> CONTEXT: Weapons/2/name/
+Battle Axe#lvl1
+> END STRING
+
+> BEGIN STRING
+戦闘用に作られた斧。
+攻撃力は高いが命中率が下がる。
+> CONTEXT: Weapons/2/description/
+Double-sided axe made for combat.#lvl1
+> END STRING
+
+> BEGIN STRING
+バルディッシュ
+> CONTEXT: Weapons/3/name/
+> CONTEXT: Weapons/73/name/
+Bardiche#lvl1
+> END STRING
+
+> BEGIN STRING
+三日月型の刃をもつ戦斧。
+攻撃力は高いが命中率が下がる。
+> CONTEXT: Weapons/3/description/
+> CONTEXT: Weapons/73/description/
+Three crescent blades on this axe.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルアクス
+> CONTEXT: Weapons/4/name/
+Mithril Axe#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた斧。
+> CONTEXT: Weapons/4/description/
+Mithril axe made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+クリムゾンアクス
+> CONTEXT: Weapons/5/name/
+Crimson Axe#lvl1
+> END STRING
+
+> BEGIN STRING
+真紅に染め上げられた戦斧。
+> CONTEXT: Weapons/5/description/
+Crimson soaked battle axe.#lvl1
+> END STRING
+
+> BEGIN STRING
+魔斧ギガンテス
+> CONTEXT: Weapons/6/name/
+Gigantes Axe#lvl1
+> END STRING
+
+> BEGIN STRING
+巨人族の英雄が使ったとされる重斧。
+> CONTEXT: Weapons/6/description/
+Heavy axe used by giants.#lvl1
+> END STRING
+
+> BEGIN STRING
+セスタス
+> CONTEXT: Weapons/7/name/
+Cestus#lvl1
+> END STRING
+
+> BEGIN STRING
+拳頭にトゲがついたグローブ。
+> CONTEXT: Weapons/7/description/
+Spikes appear on the head of this glove.#lvl1
+> END STRING
+
+> BEGIN STRING
+バグナウ
+> CONTEXT: Weapons/8/name/
+Bagna#lvl1
+> END STRING
+
+> BEGIN STRING
+短い４本の爪が取りつけられた格闘武器。
+> CONTEXT: Weapons/8/description/
+Fighting weapon with four short nails.#lvl1
+> END STRING
+
+> BEGIN STRING
+アイアンクロウ
+> CONTEXT: Weapons/9/name/
+Iron Claw#lvl1
+> END STRING
+
+> BEGIN STRING
+鋼鉄のかぎ爪が仕込まれた手甲。
+> CONTEXT: Weapons/9/description/
+Its claws are made of steel.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルクロウ
+> CONTEXT: Weapons/10/name/
+Mithril Claw#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルのかぎ爪が仕込まれた手甲。
+> CONTEXT: Weapons/10/description/
+Mithril claw made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+ドラゴンファング
+> CONTEXT: Weapons/11/name/
+Dragon Fang#lvl1
+> END STRING
+
+> BEGIN STRING
+竜牙の拳頭をもつ手甲。
+> CONTEXT: Weapons/11/description/
+The claw head is made of dragon fangs.#lvl1
+> END STRING
+
+> BEGIN STRING
+魔爪ゼファー
+> CONTEXT: Weapons/12/name/
+Zephyrus Claw#lvl1
+> END STRING
+
+> BEGIN STRING
+西風の名を冠する魔法の爪。
+> CONTEXT: Weapons/12/description/
+Four winds empower this claw.#lvl1
+> END STRING
+
+> BEGIN STRING
+スピア
+> CONTEXT: Weapons/13/name/
+Spear#lvl1
+> END STRING
+
+> BEGIN STRING
+突きに特化させた短めの槍。
+> CONTEXT: Weapons/13/description/
+A short spear.#lvl1
+> END STRING
+
+> BEGIN STRING
+パルチザン
+> CONTEXT: Weapons/14/name/
+Partisan#lvl1
+> END STRING
+
+> BEGIN STRING
+幅広の刃をもった鋼鉄製の長槍。
+> CONTEXT: Weapons/14/description/
+A long spear with a long blade.#lvl1
+> END STRING
+
+> BEGIN STRING
+ハルバード
+> CONTEXT: Weapons/15/name/
+Halberd#lvl1
+> END STRING
+
+> BEGIN STRING
+穂先に斧頭の取りつけられた槍。
+> CONTEXT: Weapons/15/description/
+An axe is mounted on this spear.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルスピア
+> CONTEXT: Weapons/16/name/
+Mithril Spear#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた長槍。
+> CONTEXT: Weapons/16/description/
+Mithril spear made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+ホーリーランス
+> CONTEXT: Weapons/17/name/
+Holy Lance#lvl1
+> END STRING
+
+> BEGIN STRING
+白き神の祝福を受けた聖なる槍。
+> CONTEXT: Weapons/17/description/
+A white spirit blessed this holy spear.#lvl1
+> END STRING
+
+> BEGIN STRING
+魔槍ゲイボルグ
+> CONTEXT: Weapons/18/name/
+Gaebulg Spear#lvl1
+> END STRING
+
+> BEGIN STRING
+影の国に伝わる魔力を帯びた槍。
+> CONTEXT: Weapons/18/description/
+Contains deeply engraved shadow magic.#lvl1
+> END STRING
+
+> BEGIN STRING
+ショートソード
+> CONTEXT: Weapons/19/name/
+Short Sword#lvl1
+> END STRING
+
+> BEGIN STRING
+軽くて扱いやすい刀身の短い剣。
+> CONTEXT: Weapons/19/description/
+Light and easy-to-use short sword.#lvl1
+> END STRING
+
+> BEGIN STRING
+ロングソード
+> CONTEXT: Weapons/20/name/
+Long Sword#lvl1
+> END STRING
+
+> BEGIN STRING
+戦闘用の長剣。
+> CONTEXT: Weapons/20/description/
+A long sword for battle.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ファルシオン
+> CONTEXT: Weapons/21/name/
+Falcion#lvl1
+> END STRING
+
+> BEGIN STRING
+反りのある刀身をもつ幅広の剣。
+> CONTEXT: Weapons/21/description/
+A broad sword with a crescent blade.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルソード
+> CONTEXT: Weapons/22/name/
+Mithril Sword#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた長剣。
+> CONTEXT: Weapons/22/description/
+Mithril sword made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+ルーンブレード
+> CONTEXT: Weapons/23/name/
+Rune Blade#lvl1
+> END STRING
+
+> BEGIN STRING
+刀身にルーン文字の刻まれた剣。
+> CONTEXT: Weapons/23/description/
+Engraved with magical runes.#lvl1
+> END STRING
+
+> BEGIN STRING
+魔剣ティルヴィング
+> CONTEXT: Weapons/24/name/
+Tyrfing Sword#lvl1
+> END STRING
+
+> BEGIN STRING
+勝利と災厄をもたらす魔剣。
+> CONTEXT: Weapons/24/description/
+The magic sword that brings triumph over evil.#lvl1
+> END STRING
+
+> BEGIN STRING
+無銘の刀
+> CONTEXT: Weapons/25/name/
+Katana#lvl1
+> END STRING
+
+> BEGIN STRING
+銘をもたない細身の刀。
+> CONTEXT: Weapons/25/description/
+Has a slender sword inscription.#lvl1
+> END STRING
+
+> BEGIN STRING
+斬馬刀
+> CONTEXT: Weapons/26/name/
+Zanbatou#lvl1
+> END STRING
+
+> BEGIN STRING
+破壊力に優れた太刀。
+> CONTEXT: Weapons/26/description/
+Excellent sword with destructive power.#lvl1
+> END STRING
+
+> BEGIN STRING
+虎徹
+> CONTEXT: Weapons/27/name/
+Toratouru#lvl1
+> END STRING
+
+> BEGIN STRING
+名のある刀匠に鍛えられた業物の刀。
+> CONTEXT: Weapons/27/description/
+A short sword tempered with frost.#lvl1
+> END STRING
+
+> BEGIN STRING
+霊銀の太刀
+> CONTEXT: Weapons/28/name/
+Reigin no Tachi#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属で作られた太刀。
+> CONTEXT: Weapons/28/description/
+Magic katana made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+七支刀
+> CONTEXT: Weapons/29/name/
+Shichishitou#lvl1
+> END STRING
+
+> BEGIN STRING
+破邪の力を秘めた古代刀。
+> CONTEXT: Weapons/29/description/
+An ancient sword with hidden power.#lvl1
+> END STRING
+
+> BEGIN STRING
+妖刀ムラマサ
+> CONTEXT: Weapons/30/name/
+Muramasa Katana#lvl1
+> END STRING
+
+> BEGIN STRING
+剣士たちの生き血を吸ってきた魔性の刀。
+> CONTEXT: Weapons/30/description/
+A demonic sword that sucks the life of the wielder.#lvl1
+> END STRING
+
+> BEGIN STRING
+ショートボウ
+> CONTEXT: Weapons/31/name/
+Shortbow#lvl1
+> END STRING
+
+> BEGIN STRING
+狩猟用に作られた短めの弓。
+> CONTEXT: Weapons/31/description/
+A shortbow made for hunting.#lvl1
+> END STRING
+
+> BEGIN STRING
+ロングボウ
+> CONTEXT: Weapons/32/name/
+Longbow#lvl1
+> END STRING
+
+> BEGIN STRING
+威力を高めた戦闘用の長弓。
+> CONTEXT: Weapons/32/description/
+The circular shape grants it strength.#lvl1
+> END STRING
+
+> BEGIN STRING
+クロスボウ
+> CONTEXT: Weapons/33/name/
+Crossbow#lvl1
+> END STRING
+
+> BEGIN STRING
+強力なバネで矢を射出する石弓。
+> CONTEXT: Weapons/33/description/
+Shoots a crossbow arrow from a strong string.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルボウ
+> CONTEXT: Weapons/34/name/
+Mithril Bow#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた弓。
+> CONTEXT: Weapons/34/description/
+Mithril bow made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+エルブンボウ
+> CONTEXT: Weapons/35/name/
+Ebon Bow#lvl1
+> END STRING
+
+> BEGIN STRING
+妖精の森に生える霊木から作られた弓。
+> CONTEXT: Weapons/35/description/
+A bow made from the earth spirits.#lvl1
+> END STRING
+
+> BEGIN STRING
+魔弓アルテミス
+> CONTEXT: Weapons/36/name/
+Artemis Bow#lvl1
+> END STRING
+
+> BEGIN STRING
+月の女神の名を冠する白銀の弓。
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#lvl1
+> END STRING
+
+> BEGIN STRING
+ナイフ
+> CONTEXT: Weapons/37/name/
+Knife#lvl1
+> END STRING
+
+> BEGIN STRING
+日常生活にも使えるナイフ。
+> CONTEXT: Weapons/37/description/
+Your run-of-the-mill knife.#lvl1
+> END STRING
+
+> BEGIN STRING
+ダガー
+> CONTEXT: Weapons/38/name/
+Dagger#lvl1
+> END STRING
+
+> BEGIN STRING
+幅広の刀身をもつ戦闘用の短刀。
+> CONTEXT: Weapons/38/description/
+A dagger with a large blade made for combat.#lvl1
+> END STRING
+
+> BEGIN STRING
+マインゴーシュ
+> CONTEXT: Weapons/39/name/
+Main Gauche#lvl1
+> END STRING
+
+> BEGIN STRING
+攻撃を受け流すこともできる短剣。
+> CONTEXT: Weapons/39/description/
+Knife used for fending off attacks.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルナイフ
+> CONTEXT: Weapons/40/name/
+Mithril Knife#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られたナイフ。
+> CONTEXT: Weapons/40/description/
+Mithril knife made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+アサシンダガー
+> CONTEXT: Weapons/41/name/
+Assassin's Dagger#lvl1
+> END STRING
+
+> BEGIN STRING
+暗殺者が好んで使う漆黒の短刀。
+> CONTEXT: Weapons/41/description/
+Used for assassinations.#lvl1
+> END STRING
+
+> BEGIN STRING
+魔刃ヴォーテクス
+> CONTEXT: Weapons/42/name/
+Vortex Blade#lvl1
+> END STRING
+
+> BEGIN STRING
+竜巻の名を冠する魔法の短剣。
+> CONTEXT: Weapons/42/description/
+Bears the name of an intense maelstrom.#lvl1
+> END STRING
+
+> BEGIN STRING
+メイス
+> CONTEXT: Weapons/43/name/
+Mace#lvl1
+> END STRING
+
+> BEGIN STRING
+打撃力を高めた金属製の棍棒。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#lvl1
+> END STRING
+
+> BEGIN STRING
+フレイル
+> CONTEXT: Weapons/44/name/
+Flail#lvl1
+> END STRING
+
+> BEGIN STRING
+柄の先に鎖で鉄球をつないだ打撃武器。
+> CONTEXT: Weapons/44/description/
+An iron ball dangling from a chain.#lvl1
+> END STRING
+
+> BEGIN STRING
+ウォーハンマー
+> CONTEXT: Weapons/45/name/
+War Hammer#lvl1
+> END STRING
+
+> BEGIN STRING
+戦闘用に作られた鋼鉄のハンマー。
+> CONTEXT: Weapons/45/description/
+A steel hammer made for battle.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルメイス
+> CONTEXT: Weapons/46/name/
+Mithril Mace#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた戦槌。
+> CONTEXT: Weapons/46/description/
+Mithril mace made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+アースブレイカー
+> CONTEXT: Weapons/47/name/
+Ground Breaker#lvl1
+> END STRING
+
+> BEGIN STRING
+大地の力を秘めた魔法のハンマー。
+> CONTEXT: Weapons/47/description/
+The earth can crack from this magical hammer.#lvl1
+> END STRING
+
+> BEGIN STRING
+魔槌ミョルニル
+> CONTEXT: Weapons/48/name/
+Mourner Hammer #lvl1
+> END STRING
+
+> BEGIN STRING
+“打ち砕くもの”の異名をもつ戦神の槌。
+> CONTEXT: Weapons/48/description/
+The "Crusher" is what the God of War nicknamed this.#lvl1
+> END STRING
+
+> BEGIN STRING
+ウッドスタッフ
+> CONTEXT: Weapons/49/name/
+Wood Staff#lvl1
+> END STRING
+
+> BEGIN STRING
+樫の木で作られた堅い杖。
+> CONTEXT: Weapons/49/description/
+Sturdy staff made of oak.#lvl1
+> END STRING
+
+> BEGIN STRING
+魔道士の杖
+> CONTEXT: Weapons/50/name/
+Magic Staff#lvl1
+> END STRING
+
+> BEGIN STRING
+精神集中を助ける宝珠のついた杖。
+> CONTEXT: Weapons/50/description/
+An orb attached to this staff helps with casting magic.#lvl1
+> END STRING
+
+> BEGIN STRING
+フォースワンド
+> CONTEXT: Weapons/51/name/
+Force Wand#lvl1
+> END STRING
+
+> BEGIN STRING
+術者の魔力を増幅させる銀製の杖。
+> CONTEXT: Weapons/51/description/
+Silver amplifies the magic cast from this wand.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルロッド
+> CONTEXT: Weapons/52/name/
+Mithril Rod#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた杖。
+> CONTEXT: Weapons/52/description/
+Mithril rod made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+霊木の杖
+> CONTEXT: Weapons/53/name/
+Spirit Staff#lvl1
+> END STRING
+
+> BEGIN STRING
+ヤドリギの老木から作られた杖。
+> CONTEXT: Weapons/53/description/
+A cane made from an old tree of mistletoe.#lvl1
+> END STRING
+
+> BEGIN STRING
+魔杖アゾット
+> CONTEXT: Weapons/54/name/
+Magic Wand Azert#lvl1
+> END STRING
+
+> BEGIN STRING
+賢者の石が埋め込まれた魔杖。
+> CONTEXT: Weapons/54/description/
+A magic wand embedded with the Philosopher's Stone.#lvl1
+> END STRING
+
+> BEGIN STRING
+フリントロック
+> CONTEXT: Weapons/55/name/
+Flint Lock#lvl1
+> END STRING
+
+> BEGIN STRING
+火打ち式の旧式拳銃。
+> CONTEXT: Weapons/55/description/
+Antique pistol with a funky brace.#lvl1
+> END STRING
+
+> BEGIN STRING
+マスケット
+> CONTEXT: Weapons/56/name/
+Musket#lvl1
+> END STRING
+
+> BEGIN STRING
+銃士に支給される歩兵銃。
+> CONTEXT: Weapons/56/description/
+A gun used by musketeers.#lvl1
+> END STRING
+
+> BEGIN STRING
+ドラグーン
+> CONTEXT: Weapons/57/name/
+Dragoon#lvl1
+> END STRING
+
+> BEGIN STRING
+騎兵が使用するカービン銃。
+> CONTEXT: Weapons/57/description/
+Used by the cavalry.#lvl1
+> END STRING
+
+> BEGIN STRING
+霊銀銃
+> CONTEXT: Weapons/58/name/
+Mithril Gun#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルの銃身をもつ銃。
+> CONTEXT: Weapons/58/description/
+Mithril gun made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+ピースメイカー
+> CONTEXT: Weapons/59/name/
+Peacemaker#lvl1
+> END STRING
+
+> BEGIN STRING
+黒色火薬を用いたリボルバー式拳銃。
+> CONTEXT: Weapons/59/description/
+Revolving pistol that uses black powder.#lvl1
+> END STRING
+
+> BEGIN STRING
+魔銃エーテルブラスト
+> CONTEXT: Weapons/60/name/
+Etherblast Gun#lvl1
+> END STRING
+
+> BEGIN STRING
+霊子を弾丸に換えて撃ち出す魔銃。
+> CONTEXT: Weapons/60/description/
+A magical gun that shoots bullets from nothing.#lvl1
+> END STRING
+
+> BEGIN STRING
+アマゾネスアックス
+> CONTEXT: Weapons/62/name/
+Amazon Ax#MTLed
+> END STRING
+
+> BEGIN STRING
+アマゾネスが持つ斧。普通の斧よりは軽い。
+ドロップ専用アイテム。
+> CONTEXT: Weapons/62/description/
+The ax that amazon holds. It is lighter than ordinary ax. 
+Drop only item.#MTLed
+> END STRING
+
+> BEGIN STRING
+レディソード
+> CONTEXT: Weapons/63/name/
+Lady sword#MTLed
+> END STRING
+
+> BEGIN STRING
+ソードシーフが使う、女性用に作られた軽量の剣。
+ドロップ専用アイテム。
+> CONTEXT: Weapons/63/description/
+A lightweight sword made for women used by sword thief. 
+Drop only item.#MTLed
+> END STRING
+
+> BEGIN STRING
+シャムシール
+> CONTEXT: Weapons/64/name/
+Siamseal#MTLed
+> END STRING
+
+> BEGIN STRING
+普通の曲刀。
+> CONTEXT: Weapons/64/description/
+A normal sword.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+カットラス
+> CONTEXT: Weapons/65/name/
+Cutlass#MTLed
+> END STRING
+
+> BEGIN STRING
+船乗りが使う曲刀。
+エルミア王都では漁師の標準的な護身武器。
+> CONTEXT: Weapons/65/description/
+A sword used by a sailor. In the city of Elmia King's
+fisherman's standard defensive weapon.#MTLed
+> END STRING
+
+> BEGIN STRING
+タルワール
+> CONTEXT: Weapons/66/name/
+Tarwar#MTLed
+> END STRING
+
+> BEGIN STRING
+硬度の高い鋼を使って作られた曲刀。
+> CONTEXT: Weapons/66/description/
+A sword made with high hardness steel.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+アマゾネスブレイド
+> CONTEXT: Weapons/67/name/
+Amazon Blade#MTLed
+> END STRING
+
+> BEGIN STRING
+アマゾネス用に作られた軽量の剣。
+ドロップ専用アイテム。
+> CONTEXT: Weapons/67/description/
+Lightweight sword made for amazon. Drop only item.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ヴァルキリーソード
+> CONTEXT: Weapons/68/name/
+Valkyrie sword#MTLed
+> END STRING
+
+> BEGIN STRING
+天界の女戦士が使っていたと伝わる伝説の軽剣。
+神聖属性。
+> CONTEXT: Weapons/68/description/
+A legendary light sword that is said to have been using
+heavenly women fighters. Sacred attributes.#MTLed
+> END STRING
+
+> BEGIN STRING
+ザウメルカットラス
+> CONTEXT: Weapons/69/name/
+Saumure cutlass#MTLed
+> END STRING
+
+> BEGIN STRING
+ザウメル鉱石で作られた曲刀。軽量で扱いやすく高威力。
+ストレイン武具店入魂の逸品。
+> CONTEXT: Weapons/69/description/
+A sword made with Saumure ore. Lightweight, easy to handle
+and powerful. Strein Armor Shop The entrance gem.#MTLed
+> END STRING
+
+> BEGIN STRING
+バスタードソード
+> CONTEXT: Weapons/71/name/
+Bastard sword#MTLed
+> END STRING
+
+> BEGIN STRING
+大型の両手剣。
+攻撃力は高いが命中率が下がる。
+> CONTEXT: Weapons/71/description/
+> CONTEXT: Weapons/72/description/
+A large handed sword. The attack power is high, but the hit
+rate drops.#MTLed
+> END STRING
+
+> BEGIN STRING
+グレートソード
+> CONTEXT: Weapons/72/name/
+Great sword#MTLed
+> END STRING
+
+> BEGIN STRING
+ナイトソード
+> CONTEXT: Weapons/74/name/
+Night Sword#MTLed
+> END STRING
+
+> BEGIN STRING
+騎馬武者用の刀身の長い剣。
+> CONTEXT: Weapons/74/description/
+A long sword sword for the cavalry armor.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+シルバーカットラス
+> CONTEXT: Weapons/75/name/
+Silver cutlass#MTLed
+> END STRING
+
+> BEGIN STRING
+銀製の曲刀。
+> CONTEXT: Weapons/75/description/
+A silver sword.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリンの棍棒
+> CONTEXT: Weapons/76/name/
+Goblin's club#MTLed
+> END STRING
+
+> BEGIN STRING
+普通の棍棒。
+命中率が低い。
+> CONTEXT: Weapons/76/description/
+An ordinary club. The hit rate is low.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+サハギンの槍
+> CONTEXT: Weapons/77/name/
+Spear of Sahuagin#MTLed
+> END STRING
+
+> BEGIN STRING
+サハギンが使う槍。
+刀身・刃先ともにサンゴでできているため軽い。
+> CONTEXT: Weapons/77/description/
+A spear used by Sahuagin. It is light because both the
+blade and the cutting edge are made of coral.#MTLed
+> END STRING
+
+> BEGIN STRING
+氷晶剣エルブメルク
+> CONTEXT: Weapons/78/name/
+Ice-crest Erbummerk#MTLed
+> END STRING
+
+> BEGIN STRING
+氷の魔力を封じ込めた、青い刀身を持つ剣。
+エルミア建国の王が愛用していたと伝わる。
+> CONTEXT: Weapons/78/description/
+\\}A sword with a blue blade that confines the magical power of ice.
+It is reported that the King of Elmia's founder used it.#MTLed
+> END STRING
+
+> BEGIN STRING
+ザウメルダガー
+> CONTEXT: Weapons/80/name/
+Saumure dagger#MTLed
+> END STRING
+
+> BEGIN STRING
+ザウメル鉱石で作られた短刀。軽量で扱いやすく高威力。
+ストレイン武具店の新たな看板商品。
+> CONTEXT: Weapons/80/description/
+\\}A short sword made of Saumure ore. Lightweight, easy to handle and powerful.
+Strein Armor Shop A new signboard product of the store.#MTLed
+> END STRING
+
+> BEGIN STRING
+フレイムソード
+> CONTEXT: Weapons/81/name/
+Flame sword#MTLed
+> CONTEXT: Map064/events/17/pages/0/6/Choice/1
+Flame sword#MTLed
+> END STRING
+
+> BEGIN STRING
+炎の魔力を付与された剣。
+> CONTEXT: Weapons/81/description/
+A sword that was given the magical power of fire.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+アイスソード
+> CONTEXT: Weapons/82/name/
+Ice Sword#MTLed
+> CONTEXT: Map064/events/17/pages/0/6/Choice/2
+Ice Sword#MTLed
+> END STRING
+
+> BEGIN STRING
+氷の魔力を付与された剣。
+> CONTEXT: Weapons/82/description/
+A sword that was given the magical power of ice.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ヘビーアックス
+> CONTEXT: Weapons/83/name/
+Heavy Ax#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノタウロスが使っている重量感のある大斧。
+人間には扱いにくい。命中率と敏捷性が下がる。
+> CONTEXT: Weapons/83/description/
+\\}A heavy ax with a heavy feeling used by minotaur. It is hard for human
+beings to handle. Accuracy and agility deteriorate.#MTLed
+> END STRING
+
+> BEGIN STRING
+デスサイス
+> CONTEXT: Weapons/84/name/
+Deathis#MTLed
+> END STRING
+
+> BEGIN STRING
+デスが持っていた大鎌。
+相手の生命力を奪い取る魔術が付与されている。
+> CONTEXT: Weapons/84/description/
+Death had a big sickle. Magic that deprives the opponent's
+vitality is given.#MTLed
+> END STRING
+
+> BEGIN STRING
+ロングソード+1
+> CONTEXT: Weapons/85/name/
+Long sword 1#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘用の長剣。
+魔力を付与され、威力が上がっている。
+> CONTEXT: Weapons/85/description/
+> CONTEXT: Weapons/86/description/
+> CONTEXT: Weapons/87/description/
+> CONTEXT: Weapons/88/description/
+A long sword for battle. Magical power is given, the power
+is rising.#MTLed
+> END STRING
+
+> BEGIN STRING
+ロングソード+2
+> CONTEXT: Weapons/86/name/
+Longsword 2#MTLed
+> END STRING
+
+> BEGIN STRING
+ロングソード+3
+> CONTEXT: Weapons/87/name/
+Longsword 3#MTLed
+> END STRING
+
+> BEGIN STRING
+ロングソード+4
+> CONTEXT: Weapons/88/name/
+Longsword 4#MTLed
+> END STRING
+
+> BEGIN STRING
+シルバーソード
+> CONTEXT: Weapons/89/name/
+Silver Sword#MTLed
+> CONTEXT: Map064/events/17/pages/0/151/Choice/2
+Silver Sword#MTLed
+> END STRING
+
+> BEGIN STRING
+魔力を付与された銀製の長剣。
+装備すると魔力と魔法防御が上がる。
+> CONTEXT: Weapons/89/description/
+Magical powered long silver sword. Magic power and magic
+defense rise when equipped.#MTLed
+> END STRING
+
+> BEGIN STRING
+レディソード+1
+> CONTEXT: Weapons/90/name/
+Lady Sword 1#MTLed
+> END STRING
+
+> BEGIN STRING
+女性用に作られた軽量の剣。
+ドロップ専用アイテム。
+> CONTEXT: Weapons/90/description/
+A lightweight sword made for women. Drop only item.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+スライムスレイヤー
+> CONTEXT: Weapons/91/name/
+Slime Slayer#MTLed
+> CONTEXT: Map064/events/17/pages/0/137/Choice/1
+Slime Slayer#MTLed
+> END STRING
+
+> BEGIN STRING
+スライムなどの軟体の魔物を倒すのに適した剣。
+> CONTEXT: Weapons/91/description/
+A sword suitable for defeating soft body monster such as
+slime.#MTLed
+> END STRING
+
+> BEGIN STRING
+フェアリーソード
+> CONTEXT: Weapons/92/name/
+Fairy Sword#MTLed
+> CONTEXT: Map064/events/17/pages/0/137/Choice/0
+Fairy Sword#MTLed
+> END STRING
+
+> BEGIN STRING
+羽のように軽い剣。
+2回攻撃できる。
+> CONTEXT: Weapons/92/description/
+A light sword like a feather. You can attack twice.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+デモンスレイヤー
+> CONTEXT: Weapons/93/name/
+Demon Slayer#MTLed
+> CONTEXT: Map064/events/17/pages/0/137/Choice/2
+Demon Slayer#MTLed
+> END STRING
+
+> BEGIN STRING
+神聖な力を秘めた剣。
+魔族や死霊に対して有効。
+> CONTEXT: Weapons/93/description/
+A sword that has a sacred power. Effective against demons
+and ghosts.#MTLed
+> END STRING
+
+> BEGIN STRING
+レッシェラン
+> CONTEXT: Weapons/94/name/
+Lechelan#MTLed
+> CONTEXT: Map064/events/17/pages/0/6/Choice/3
+Lechelan#MTLed
+> END STRING
+
+> BEGIN STRING
+大地の力が込められた剣。
+相手の体力を吸収する力を持つ。
+> CONTEXT: Weapons/94/description/
+A sword filled with the power of the earth. Have the power
+to absorb the opponent's physical strength.#MTLed
+> END STRING
+
+> BEGIN STRING
+聖剣サフェリア
+> CONTEXT: Weapons/95/name/
+Holy Sword Safaria#MTLed
+> END STRING
+
+> BEGIN STRING
+神聖な力を秘めた古の聖剣。
+魔族や死霊に対して有効だが、人間相手には不向き。
+> CONTEXT: Weapons/95/description/
+\\}An old holy sword with sacred power. It is effective against demons
+and ghosts, but it is unsuitable for human opponents.#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナの剣
+> CONTEXT: Weapons/97/name/
+Mileena's sword#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナが使っていた大剣。
+装備するとミリーナクラッシュが使える。
+> CONTEXT: Weapons/97/description/
+The big sword that Mileena used. You can use Mileena crash
+when equipped.#MTLed
+> END STRING
+
+> BEGIN STRING
+グランドソード
+> CONTEXT: Weapons/98/name/
+Grand Sword#MTLed
+> END STRING
+
+> BEGIN STRING
+特別な合金を使用した最高級の大剣。
+マルワイク武具店でも最上級のグレードを誇る武器。
+> CONTEXT: Weapons/98/description/
+The finest big sword using a special alloy. A weapon
+boasting the highest grade in Marvaick armor store.#MTLed
+> END STRING
+
+> BEGIN STRING
+デスソード
+> CONTEXT: Weapons/99/name/
+Death#MTLed
+> END STRING
+
+> BEGIN STRING
+デスマスターの力が込められた剣。
+聖属性の相手に有効。
+> CONTEXT: Weapons/99/description/
+A sword with the power of Deathmaster. Effective for
+opponents with holy attributes.#MTLed
+> END STRING
+
+> BEGIN STRING
+大なた
+> CONTEXT: Weapons/101/name/
+Mostly#MTLed
+> END STRING
+
+> BEGIN STRING
+オークが持っていた大なた。
+威力はあるが命中率が低い。
+> CONTEXT: Weapons/101/description/
+Owaru who they had. Although it is powerful, it has low hit
+rate.#MTLed
+> END STRING

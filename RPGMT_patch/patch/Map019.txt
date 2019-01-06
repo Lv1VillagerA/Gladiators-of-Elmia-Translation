@@ -1,0 +1,468 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+向こう側から鍵がかかっているようだ。
+> CONTEXT: Map019/events/1/pages/0/8/Dialogue
+> CONTEXT: Map019/events/28/pages/0/8/Dialogue
+It seems locked from the other side.#MTLed
+> END STRING
+
+> BEGIN STRING
+200\\G 手に入れた！
+> CONTEXT: Map019/events/3/pages/0/9/Dialogue
+200 \\G I got!#MTLed
+> END STRING
+
+> BEGIN STRING
+女盗賊の下着を手に入れた！
+> CONTEXT: Map019/events/8/pages/0/9/Dialogue
+I got a woman thief's underwear!#MTLed
+> END STRING
+
+> BEGIN STRING
+瓦礫で視界が塞がれているようだ……
+> CONTEXT: Map019/events/16/pages/1/0/Dialogue
+> CONTEXT: Map019/events/17/pages/1/0/Dialogue
+The debris seems to be occupied by rubble......#MTLed
+> END STRING
+
+> BEGIN STRING
+？
+「待ちなっ！」
+> CONTEXT: Map019/events/19/pages/0/7/Dialogue
+? 「Wait!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「しまった……こっちは盗賊の溜まり場だったのか」
+> CONTEXT: Map019/events/19/pages/0/63/Dialogue
+\\N[12]. 「I got...... Was it a burglary haunt here?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あんた誰、どこから入ってきたの！
+こっちはあたしたちのお頭の部屋だよ！」
+> CONTEXT: Map019/events/19/pages/0/67/Dialogue
+Bandit Girl. 「Who and where did you come in from!
+This is our head room!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「おにーさん、考えが甘いなぁ～
+あたしたちを無視してお頭のところに行こうだなんて、
+そんなのダメダメ♪」
+> CONTEXT: Map019/events/19/pages/0/72/Dialogue
+bandit teen. 「Ooi, my thought is sweet ~
+Ignoring us and go head to head, such a ♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「そうねぇ、まず私たちと遊んでもらわなきゃね」
+> CONTEXT: Map019/events/19/pages/0/78/Dialogue
+sexy bandit. 「Oh yeah, you must first play with us」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……仕方ない、こいつらを打ち破らねば。
+この先に頭目がいるってんなら、かえって好都合だ。
+いくぞっ！」
+> CONTEXT: Map019/events/19/pages/0/81/Dialogue
+\\N[12]. 「Ku ...... It can not be helped, I must break
+these guys. It would be more convenient if you had anything
+to do with it. here I go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「きゃっ！
+な、なにこいつ、強すぎ！」
+> CONTEXT: Map019/events/19/pages/0/98/Dialogue
+> CONTEXT: Map019/events/26/pages/0/142/Dialogue
+Bandit Girl. 「kyaa! What, this guy is too strong!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「もーっ、いたいじゃなーい！
+もうやだー！」
+> CONTEXT: Map019/events/19/pages/0/102/Dialogue
+> CONTEXT: Map019/events/26/pages/0/146/Dialogue
+bandit teen. 「Well, I do not care! Already!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「私たち3人を相手にしてここまでやるなんて、
+たいした腕前ねぇ。
+ま、これなら通してあげてもいいかもね」
+> CONTEXT: Map019/events/19/pages/0/119/Dialogue
+> CONTEXT: Map019/events/26/pages/0/166/Dialogue
+sexy bandit. 「To do with us against the three of us,
+I do not get much work. Well, maybe I can pass this through
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ちょ、ちょっとちょっと！
+通すわけにはいかないでしょ、二人とも！」
+> CONTEXT: Map019/events/19/pages/0/136/Dialogue
+> CONTEXT: Map019/events/26/pages/0/190/Dialogue
+Bandit Girl. 「Wait a minute! I can not let you through,
+both of us!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それで、どうするんだ？
+お前一人で続きをやる気か？」
+> CONTEXT: Map019/events/19/pages/0/140/Dialogue
+> CONTEXT: Map019/events/26/pages/0/194/Dialogue
+\\N[12]. 「So what are you gonna do? Do you feel like
+continuing alone by you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「う、ううっ……
+お、おぼえてなさいよっ！
+あんたなんてお頭にメタメタにやられちゃえ！」
+> CONTEXT: Map019/events/19/pages/0/144/Dialogue
+> CONTEXT: Map019/events/26/pages/0/200/Dialogue
+Bandit Girl. 「Uu...... Please remember!
+Do not bother you in your mind!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ、なんとか撃退できたか……
+もう邪魔はいないようだし、これで頭目とご対面できるな」
+> CONTEXT: Map019/events/19/pages/0/163/Dialogue
+> CONTEXT: Map019/events/26/pages/0/219/Dialogue
+\\N[12]. 「How was it able to repel anyhow ...?
+I do not seem to be disturbing anymore, so I can face my
+head with this」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ふふん、あたしたちの美貌の前じゃ
+どんな男でも骨抜きになって負ける運命なのよ」
+> CONTEXT: Map019/events/19/pages/0/184/Dialogue
+> CONTEXT: Map019/events/26/pages/0/240/Dialogue
+Bandit Girl. 「Fufan, in front of our beautiful face
+Every man is destined to be watered and lost」#MTLed
+> CONTEXT: Commonevents/224/15/Dialogue
+Bandit Girl. 「Fufan, in front of our beautiful
+face. Every man is destined to be watered and
+lost」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「みんなで男の人をゆーわくして倒すのも
+結構楽しいね♪
+おにーさん、残念だったねぇ。あははっ！」
+> CONTEXT: Map019/events/19/pages/0/189/Dialogue
+> CONTEXT: Map019/events/26/pages/0/245/Dialogue
+bandit teen. 「Everyone else knocks down and defeats a man
+It's pretty fun♪. He was sorry, my dear brother.Hahahah!」#MTLed
+> CONTEXT: Commonevents/224/20/Dialogue
+bandit teen. 「Everyone else knocks down and
+defeats a man. It's pretty fun♪
+He was sorry, my dear brother.Hahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「意気揚々と乗り込んできておいて、
+女の子の魅力に屈しちゃうなんて、
+さすがに恥ずかしいわねぇ。うふふっ♪」
+> CONTEXT: Map019/events/19/pages/0/195/Dialogue
+> CONTEXT: Map019/events/26/pages/0/251/Dialogue
+sexy bandit. 「I got on board as quickly as possible,
+To give in to the charm of the girls, I'm ashamed to be
+truly truly. Reshuffle♪」#MTLed
+> CONTEXT: Commonevents/224/26/Dialogue
+sexy bandit. 「I got on board as quickly as
+possible, To give in to the charm of the girls,
+I'm ashamed to be truly truly. Reshuffle♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ふふん、女の子によってたかってボコボコにされて
+無様なもんだね。
+その程度の腕前であたしたちに勝てると思ったの？」
+> CONTEXT: Map019/events/19/pages/0/221/Dialogue
+> CONTEXT: Map019/events/26/pages/0/276/Dialogue
+Bandit Girl. 「Fuwa, being asked by a girl
+It is unsightly. Did you think that we could win with that
+skill?」#MTLed
+> CONTEXT: Commonevents/224/51/Dialogue
+Bandit Girl. 「Fuwa, being asked by a girl
+It is unsightly. Did you think that we could win
+with that skill?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「みんなで男の人をぼっこぼこにするのも
+結構楽しいね♪
+おにーさん、残念だったねぇ。あははっ！」
+> CONTEXT: Map019/events/19/pages/0/227/Dialogue
+> CONTEXT: Map019/events/26/pages/0/282/Dialogue
+bandit teen. 「It is also a good idea to shoot a boy's guy
+together. It's pretty fun♪. He was sorry, my dear
+brother.Hahahah!」#MTLed
+> CONTEXT: Commonevents/224/57/Dialogue
+bandit teen. 「It is also a good idea to shoot a
+boy's guy together. It's pretty fun♪
+He was sorry, my dear brother.Hahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「少しは腕に自信があるようだったけれど、
+さすがに無謀だったわねぇ」
+> CONTEXT: Map019/events/19/pages/0/233/Dialogue
+> CONTEXT: Map019/events/26/pages/0/288/Dialogue
+sexy bandit. 「Although I seemed confident in my arm a
+little, It was truly reckless.」#MTLed
+> CONTEXT: Commonevents/224/63/Dialogue
+sexy bandit. 「Although I seemed confident in my
+arm a little, It was truly reckless.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「さぁて、それじゃ侵入者にふさわしい罰として……
+みんなで嫐ってあげようかな♪
+そんじゃ、縛らせてもらうねー」
+> CONTEXT: Map019/events/19/pages/0/256/Dialogue
+> CONTEXT: Map019/events/26/pages/0/312/Dialogue
+Bandit Girl. 「Well then, as a punishment appropriate for
+an intruder...I wonder if everyone will do it♪
+Then, I will tie you up.」#MTLed
+> CONTEXT: Commonevents/224/85/Dialogue
+Bandit Girl. 「Well then, as a punishment
+appropriate for an intruder ...
+I wonder if everyone will do it♪
+Then, I will tie you up.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……な、なにをっ……！」
+> CONTEXT: Map019/events/19/pages/0/261/Dialogue
+> CONTEXT: Map019/events/26/pages/0/317/Dialogue
+\\N[12]. 「Oooh...what ..., what ...!」#MTLed
+> CONTEXT: Commonevents/224/90/Dialogue
+\\N[12]. 「Oooh...what ..., what ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「い、いててっ！
+お、おいっ、なんでこんな格好をさせるんだっ！」
+> CONTEXT: Map019/events/19/pages/0/271/Dialogue
+> CONTEXT: Map019/events/26/pages/0/327/Dialogue
+\\N[12]. 「Oh, well! Hey, why, why do you look like this!
+」#MTLed
+> CONTEXT: Commonevents/224/100/Dialogue
+\\N[12]. 「Oh, well! Hey, why, why do you look
+like this!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「そりゃもう、できるだけ無様な格好をさせて
+屈辱的な目にあわせてあげるためだよ。
+さ、できたっと」
+> CONTEXT: Map019/events/19/pages/0/275/Dialogue
+> CONTEXT: Map019/events/26/pages/0/331/Dialogue
+Bandit Girl. 「Okay, let's make it as unsuitable as possible
+It's to give it a humiliating eye. Well, I can do it.」#MTLed
+> CONTEXT: Commonevents/224/104/Dialogue
+Bandit Girl. 「Okay, let's make it as unsuitable
+as possible. It's to give it a humiliating eye.
+Well, I can do it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ここには盗賊団が三人いる。
+三人同時に相手にして勝つのは難しいバランスとなる。
+強行突破してボスに勝つことも当然可能だが、
+かなりのレベルアップが必要。
+> CONTEXT: Map019/events/20/pages/0/0/Dialogue
+There are three bandits here. It is a difficult balance to
+win three people at the same time. Naturally it is possible
+to break through to force and win the boss,
+It needs a considerable level up.#MTLed
+> END STRING
+
+> BEGIN STRING
+『この先、ベル盗賊団アジト』
+と書いてある。
+> CONTEXT: Map019/events/21/pages/0/0/Dialogue
+> CONTEXT: Map019/events/21/pages/1/0/Dialogue
+"Before, the Bell Rogue team hid". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この先がアジトか……
+もしかすると盗賊どもが大勢いるかもしれないし、
+正面から乗り込むのはリスクがあるな」
+> CONTEXT: Map019/events/21/pages/0/6/Dialogue
+\\N[12]. 「Is the future hid?...Perhaps there are many
+thieves, There is a risk of getting in from the front」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この先に進むかどうかは、よく考えて決めるべきだな」
+> CONTEXT: Map019/events/21/pages/0/11/Dialogue
+\\N[12]. 「You ought to think carefully as to whether to
+proceed further」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「また来たの？
+あれだけボコボコにされておいて、懲りない男ねぇ」
+> CONTEXT: Map019/events/26/pages/0/55/Dialogue
+Bandit Girl. 「Did you come again? A man who does not
+understand it, being done for only that one」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「ふふっ……♪
+またエッチなおしおきをされに来たのかしら？
+とんだ変態さんね」
+> CONTEXT: Map019/events/26/pages/0/60/Dialogue
+sexy bandit. 「Hehu ......♪. I wonder if you came to have a
+lewd punishment? Temple perversion」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……今度は前回のようにはいかないぜ！
+お前たちを倒して、ボスのところに行かせてもらう！」
+> CONTEXT: Map019/events/26/pages/0/66/Dialogue
+\\N[12]. 「Ku...... this time it will not be like the
+last time! Defeat you and have them go to the boss!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（3人か……やばいな、不用意すぎたか……？）
+> CONTEXT: Map019/events/26/pages/0/72/Dialogue
+\\N[12]. (Three people...... was awful, was it too
+careless ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「誰？　ここがあたしらのアジトだって
+知ってて入ってきたわけ？」
+> CONTEXT: Map019/events/26/pages/0/75/Dialogue
+Bandit Girl. 「Who? This is our hid. Did you know that you
+came in?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「あはっ、飛んで火に入る夏の虫ってやつだねっ！」
+> CONTEXT: Map019/events/26/pages/0/79/Dialogue
+bandit teen. 「Hahah, it's a summer insect who fly and
+enters the fire!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「見れば、なかなか可愛い顔をした男の子ねぇ。
+ふふっ、みんなでたっぷり遊んであげましょうか♪」
+> CONTEXT: Map019/events/26/pages/0/82/Dialogue
+sexy bandit. 「If you look it is a boy who pretty looks
+cute. Huh, I will play with plenty of people♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……3対1だからって、好き勝手言いやがる……
+おいっ、アジトっていうことは
+この先にお前たちのボスがいるのか！？」
+> CONTEXT: Map019/events/26/pages/0/87/Dialogue
+\\N[12]. 「Cut...... because it is 3 to 1, I like what
+you want to do...... Oi, hid is what. Is there your boss
+before this! ?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「お頭なら奥にいるけど、それがどうかしたっての？
+まさか、お頭に会いたいってわけ？」
+> CONTEXT: Map019/events/26/pages/0/92/Dialogue
+Bandit Girl. 「If your head is in the back, is it wrong?
+No way, do you want to see your head?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「あたしたちがここにいるんだから、
+そんなのむりむり～♪」
+> CONTEXT: Map019/events/26/pages/0/96/Dialogue
+bandit teen. 「Because we are here, Such a thing♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか……
+なら、お前たちを倒して、ここを通らせてもらうぜっ！」
+> CONTEXT: Map019/events/26/pages/0/101/Dialogue
+\\N[12]. 「Really……. Then, defeat you and let them pass
+through here!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「あらあら、鼻息の荒い坊やねぇ。
+ふふ、ちょっとは腕が立ちそうだけど、
+3人相手に勝てるつもりなのかしら？」
+> CONTEXT: Map019/events/26/pages/0/111/Dialogue
+sexy bandit. 「oh no, a rough boy nose. Huhu, he seems to
+have a little arm, I wonder if they are going to win
+against three people?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「なまいき～！
+こんなおにーちゃん、みんなでボコボコにしてから
+なぶりものにしちゃおー！」
+> CONTEXT: Map019/events/26/pages/0/116/Dialogue
+bandit teen. 「Damn it! Such a boy, everyone after
+Let's do something like that!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「自分の考えの甘さを、たっぷり後悔させてやるよ！
+さあ、二人ともいくよっ！」
+> CONTEXT: Map019/events/26/pages/0/121/Dialogue
+Bandit Girl. 「I will regret plenty of sweetness of my
+thoughts! Now, we both go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（来るっ！）
+> CONTEXT: Map019/events/26/pages/0/125/Dialogue
+\\N[12]. (Come on!#MTLed
+> END STRING

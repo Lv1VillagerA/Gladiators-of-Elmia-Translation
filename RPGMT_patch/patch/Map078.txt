@@ -1,0 +1,129 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+みやげ物屋
+> CONTEXT: Map078/display_name/
+Souvenir shop#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「いらっしゃい。
+ウィギスのおみやげはいかがかな？
+名物のディラント高原ミルクもあるよ」
+> CONTEXT: Map078/events/2/pages/0/1/Dialogue
+> CONTEXT: Map078/events/2/pages/1/1/Dialogue
+old man. 「welcome. How about some Wigheis souvenirs?
+There is also a famous Dirant plateau milk」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「またどうぞ」
+> CONTEXT: Map078/events/2/pages/0/11/Dialogue
+> CONTEXT: Map078/events/2/pages/1/11/Dialogue
+old man. 「Please also」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「面白い防具を入荷したから、見て行っておくれ。
+王都では防具といえば鎧だと思うけど、
+ここの民芸品の服も、それに劣らず優秀なのさ」
+> CONTEXT: Map078/events/3/pages/0/1/Dialogue
+Aunt. 「I arrived at interesting armor, so please go look.
+In the kingdom I think armor is armor, Clothing of folk
+craft here is no less expensive than that」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「防寒具が必要じゃないかい？
+いくらか用意してあるから、遠慮なく見ていっておくれ。
+役に立つ装身具もあるよ」
+> CONTEXT: Map078/events/3/pages/0/8/Dialogue
+Aunt. 「You need a warming fixture? There are some
+preparations, so do not hesitate to go looking.
+There are also useful jewelry items」#MTLed
+> END STRING
+
+> BEGIN STRING
+道具を見る
+> CONTEXT: Map078/events/3/pages/0/15/Choice/0
+Watch tools#MTLed
+> END STRING
+
+> BEGIN STRING
+防具を見る
+> CONTEXT: Map078/events/3/pages/0/15/Choice/1
+> CONTEXT: Map035/events/4/pages/5/12/Choice/1
+> CONTEXT: Map035/events/4/pages/7/4/Choice/1
+> CONTEXT: Map035/events/4/pages/8/6/Choice/1
+Watch armor#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「寒さ対策は重要だよ、高原に出るなら特にね」
+> CONTEXT: Map078/events/3/pages/0/51/Dialogue
+Aunt. 「Countermeasure against cold is important,
+especially if you go out to the plateau」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「小物類もセンスいいわね、ここ」
+> CONTEXT: Map078/events/5/pages/0/0/Dialogue
+girl. 「Also good sense of small items, here」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「こちらのお店のおみやげは、
+ウィギスの女性たちの手作りなんですよ。
+よかったらお手にとってみてくださいね」
+> CONTEXT: Map078/events/6/pages/0/0/Dialogue
+Woman. 「The souvenir of this shop, It is handmade by the
+women of Wigheis. If you do not mind, please take it in
+your hand」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「ほほう、これはなかなか……
+王都の家族に買っていってやろうかな」
+> CONTEXT: Map078/events/7/pages/0/0/Dialogue
+male. 「hohoh, this is pretty ...... I will buy it for the
+family of the kingdom」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「ミルクを買いにきたが、
+今年は天候不順もあって生産量が落ち込んでいるらしい。
+思っていたより値段が高くて厳しいぜ」
+> CONTEXT: Map078/events/8/pages/0/0/Dialogue
+Youth. 「I came to buy milk, It seems that the production
+volume is depressed due to unseasonable weather this year.
+It is more expensive and tougher than I thought」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「ミルクが安くなったな、
+天候の問題が解決したおかげみたいだ。
+これで、家族にたくさん買って帰れるぜ」
+> CONTEXT: Map078/events/8/pages/1/0/Dialogue
+Youth. 「Milk has become cheap, It seems that weather
+problems have been solved. With this, I can buy a lot for
+my family and leave home」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「あら、かわいいわね。
+ぬいぐるみはおみやげにぴったりだし、
+買っていこうかなぁ」
+> CONTEXT: Map078/events/9/pages/0/0/Dialogue
+Woman. 「Oh, it is cute. The stuffed toy is perfect for
+souvenirs, I wonder if I should buy it」#MTLed
+> END STRING

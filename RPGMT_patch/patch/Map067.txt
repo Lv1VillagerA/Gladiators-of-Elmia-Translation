@@ -1,0 +1,173 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+老戦士
+「この部屋は、ちと狭いのう。
+安い部屋なので文句は言えんが」
+> CONTEXT: Map067/events/1/pages/0/0/Dialogue
+Old warrior. 「This room is a bit narrow.
+I can not complain because it is a cheap room」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「このエコノミールームは狭い分だけ格安なんだけど、
+それでも中央区の宿よりは割高なのよ。
+闘技場に近いから、そういう商売も成り立つのよね」
+> CONTEXT: Map067/events/2/pages/0/0/Dialogue
+Woman. 「This economy room is cheap for only a small amount,
+Still it is expensive than the inn in Chuo-ku.
+Because it is close to the stadium, that kind of business
+also holds」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「いらっしゃいませー
+当ホテルはスイートからエコノミーまで、
+様々なクラスのお部屋を用意しておりまーす」
+> CONTEXT: Map067/events/3/pages/0/0/Dialogue
+A maid. 「welcome. From the suite to the economy,
+We prepare rooms of various classes」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「王都に来るときは、いつもこのホテルを使うんだ。
+もっと質素なところでもいいんだが、
+やはり娘には快適に過ごしてもらいたくてね」
+> CONTEXT: Map067/events/6/pages/0/0/Dialogue
+village head. 「Whenever I come to the kingdom, I always
+use this hotel. Even a more plain place can be better,
+After all I want my daughter to stay comfortable」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長の娘
+「あら、\\N[12]じゃない。
+今日の試合、まあまあ頑張ってたんじゃない？
+明日もせいぜい頑張ることね」
+> CONTEXT: Map067/events/7/pages/0/0/Dialogue
+village head daughter. 「Oh, \\N[12] not.
+You played today 's game, were not you? You should do your
+best at the most tomorrow」#MTLed
+> END STRING
+
+> BEGIN STRING
+執事
+「これは\\N[12]様、本日はお疲れ様でした。
+レストン自警団の若者が武道大会で奮闘していること、
+ご主人様やお嬢様も喜んでおられましたぞ」
+> CONTEXT: Map067/events/8/pages/0/0/Dialogue
+Butler. 「this is \\N[12] Dear Mr. Today, thanks for
+your hard work. Reston The vigilant group's young people
+struggle with martial arts tournament, Your master and your
+daughter were happy too」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「この大会のために西の王国から毎年来るのじゃが、
+今年もいい試合が見られるかのう。
+楽しみじゃて」
+> CONTEXT: Map067/events/9/pages/0/0/Dialogue
+old man. 「For this tournament you come every year from the
+West Kingdom, I wonder if I can see a good game this year.
+Look forward to it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「年甲斐もなく熱狂してしまったわい。
+さてさて、名残惜しいが国に帰るとするかのう」
+> CONTEXT: Map067/events/9/pages/1/0/Dialogue
+old man. 「I got crazy without years worrying.
+, I regret that it will return to the country」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「やれやれ、このホテルの部屋が取れてよかった」
+> CONTEXT: Map067/events/10/pages/0/0/Dialogue
+male. 「dear me, it was nice to have this room in this hotel
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「武道大会を見るのも楽しみだけど、
+エルミアを見てまわるのがもっと楽しみー！」
+> CONTEXT: Map067/events/11/pages/0/0/Dialogue
+girl. 「I am looking forward to see the martial arts
+tournament, It is more fun to watch Elmia!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「あ、\\N[12]選手だー！
+優勝おめでとー、すごかったよー！」
+> CONTEXT: Map067/events/11/pages/1/0/Dialogue
+girl. 「Ah, \\N[12] It's a player! Happy first win, it
+was amazing!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「このホテルさえ取っちまえば
+武道大会も観光にしても快適だからな。
+高い料金を出す価値はある」
+> CONTEXT: Map067/events/12/pages/0/0/Dialogue
+male. 「Even taking this hotel. Martial arts tournament is
+also comfortable for sightseeing. It is worth giving a high
+fee」#MTLed
+> END STRING
+
+> BEGIN STRING
+女騎士
+「このホテルが私の拠点だ。
+万全の準備をして、優勝を狙いに行くぞ！」
+> CONTEXT: Map067/events/13/pages/0/0/Dialogue
+Woman knight. 「This hotel is my base. I will prepare
+thoroughly and I will go for the win!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女騎士マリーカ
+「おお、\\N[12]選手ではないか。
+お互い、できるだけ上まで勝ち残りたいものだ。
+決勝トーナメントでまた会おう」
+> CONTEXT: Map067/events/13/pages/1/0/Dialogue
+Female knight Mallik. 「Oh, \\N[12] Is not it a player?
+We want to win each other as far as possible.
+Let's meet again in the finals tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「なかなかのホテルね。
+田舎の国にしては街もセンスいいし
+見どころは意外とありそうね」
+> CONTEXT: Map067/events/14/pages/0/0/Dialogue
+girl. 「It is quite a hotel. For the country of country
+country the town has a good sense. It seems surprising that
+the highlight is」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「私たちは西の王国から来たんだよ。
+この国は観光地としてはなかなかのものだね」
+> CONTEXT: Map067/events/15/pages/0/0/Dialogue
+old man. 「We are from the West kingdom. This country is
+quite a sightseeing spot」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「この街だと湖と川しか楽しめないのねえ。
+せっかくエルミアに来たのだから
+海も楽しみたいわ」
+> CONTEXT: Map067/events/16/pages/0/0/Dialogue
+Aunt. 「You can only enjoy lakes and rivers in this town.
+Because I came to El Mia. I also want to have fun in the
+ocean」#MTLed
+> END STRING

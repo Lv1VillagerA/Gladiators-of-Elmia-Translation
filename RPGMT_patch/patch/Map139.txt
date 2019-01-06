@@ -1,0 +1,147 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「これに乗っていけば、湖から王城に直接乗り込める。
+そうディアーナは言っていたな。
+しかし、ちゃんと動いてくれるのか？」
+> CONTEXT: Map139/events/1/pages/0/0/Dialogue
+\\N[12]. 「If you ride this, you can board the king
+castle directly from the lake. Yes Diana was saying.
+But will it move properly?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「動くみたいだな。
+よし、このまま舟で王城の北側に回って侵入するぜ！」
+> CONTEXT: Map139/events/1/pages/0/15/Dialogue
+\\N[12]. 「It seems to move. Alright, I will go to the
+north side of the castle in this boat and invade it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ついに王城にたどり着いたな……
+> CONTEXT: Map139/events/1/pages/0/144/Dialogue
+\\N[12]. 「I finally reached Oujou ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガードの口ぶりからするに、
+女王陛下は相当手強いようだが……
+とにかく、謁見の間を目指すぜ！」
+> CONTEXT: Map139/events/1/pages/0/147/Dialogue
+From the royal guard's mouth, Her Majesty looks quite tough
+... ... Anyway, I will aim for the audience!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「これは王族専用の移動艇だ。
+王家以外の人間が乗ることはまかりならん！」
+> CONTEXT: Map139/events/2/pages/0/18/Dialogue
+> CONTEXT: Map041/events/27/pages/0/18/Dialogue
+royal guard. 「This is a royal dedicated mobile boat.
+Humans other than the royal family are on hand!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「悪いが、この舟を奪わないことには
+城に侵入できないんでね。
+無理にでもいただいていくぜ！」
+> CONTEXT: Map139/events/2/pages/0/22/Dialogue
+> CONTEXT: Map041/events/27/pages/0/22/Dialogue
+\\N[12]. 「It is bad, but not to take away this boat
+I can not break into the castle. I will get it though!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「そうか、ならば是非もないな。
+女王の試練のため、我々ロイヤルガードも
+そなたを妨害するよう命令されている。
+> CONTEXT: Map139/events/2/pages/0/27/Dialogue
+> CONTEXT: Map041/events/27/pages/0/27/Dialogue
+royal guard. 「If so, then certainly not.
+Because of the Queen's trial, we also royal guard
+I am ordered to disturb you.#MTLed
+> END STRING
+
+> BEGIN STRING
+王国軍ロイヤルガードの力、
+その身で思い知るがいい！」
+> CONTEXT: Map139/events/2/pages/0/32/Dialogue
+> CONTEXT: Map041/events/27/pages/0/32/Dialogue
+Kingdom troops royal guard power, You should be conscious
+of yourself!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ど、どうだ？
+これ以上は、殺し合いになっちまうぜ」
+> CONTEXT: Map139/events/2/pages/0/46/Dialogue
+> CONTEXT: Map041/events/27/pages/0/46/Dialogue
+\\N[12]. 「How is it? More than that, I will kill each
+other」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「確かにな……
+お前の勝ちだ、剣士\\N[12]。
+ここは通してやろう」
+> CONTEXT: Map139/events/2/pages/0/51/Dialogue
+> CONTEXT: Map041/events/27/pages/0/51/Dialogue
+royal guard. 「Certainly ... You win, Swordsman \\N[12] .
+Let's pass through here」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし……！
+これで城に行けるぜっ！」
+> CONTEXT: Map139/events/2/pages/0/56/Dialogue
+> CONTEXT: Map041/events/27/pages/0/56/Dialogue
+\\N[12]. 「Alright ......! I can go to the castle with
+this!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「浮かれるのは早いぞ。
+城に入って、やすやすと陛下のもとに
+たどり着けるとは思わぬことだ。
+> CONTEXT: Map139/events/2/pages/0/60/Dialogue
+royal guard. 「You can get out early. Enter the castle, and
+to your majesty. It is unexpected that we can get there.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに何より、我らロイヤルガードに勝てたところで
+女王陛下に勝てるかどうか……
+> CONTEXT: Map139/events/2/pages/0/65/Dialogue
+> CONTEXT: Map041/events/27/pages/0/65/Dialogue
+And more than anything, where we could win the royal guard
+Whether you can win the Queen ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+いや、これは野暮だったな。
+陛下の力は、その身を持って知るがいい」
+> CONTEXT: Map139/events/2/pages/0/68/Dialogue
+> CONTEXT: Map041/events/27/pages/0/68/Dialogue
+No, this was rude. Know your Majesty's power with its body」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「ロイヤルガードに勝てる実力を持つ者など、
+歴代の武道大会優勝者にもそうはいない。
+見事、と言っておこう」
+> CONTEXT: Map139/events/5/pages/0/0/Dialogue
+royal guard. 「Some who have the ability to win the royal
+guard, There are not so in winners of successive martial
+arts tournament. Let's say brilliant」#MTLed
+> END STRING

@@ -1,0 +1,5055 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+攻撃
+> CONTEXT: Skills/1/name/
+> CONTEXT: System/terms/commands/2/
+Attack#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体にダメージを与える。
+> CONTEXT: Skills/1/description/
+> CONTEXT: Skills/162/description/
+> CONTEXT: Skills/185/description/
+> CONTEXT: Skills/186/description/
+> CONTEXT: Skills/187/description/
+> CONTEXT: Skills/188/description/
+> CONTEXT: Skills/190/description/
+> CONTEXT: Skills/191/description/
+> CONTEXT: Skills/192/description/
+> CONTEXT: Skills/193/description/
+> CONTEXT: Skills/235/description/
+> CONTEXT: Skills/277/description/
+> CONTEXT: Skills/278/description/
+> CONTEXT: Skills/354/description/
+Damages the enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+の攻撃！
+> CONTEXT: Skills/1/message1/
+> CONTEXT: Skills/4/message1/
+> CONTEXT: Skills/5/message1/
+> CONTEXT: Skills/133/message1/
+> CONTEXT: Skills/162/message1/
+> CONTEXT: Skills/165/message1/
+> CONTEXT: Skills/185/message1/
+> CONTEXT: Skills/186/message1/
+> CONTEXT: Skills/187/message1/
+> CONTEXT: Skills/188/message1/
+> CONTEXT: Skills/189/message1/
+> CONTEXT: Skills/190/message1/
+> CONTEXT: Skills/192/message1/
+> CONTEXT: Skills/193/message1/
+> CONTEXT: Skills/297/message1/
+> CONTEXT: Skills/354/message1/
+ attacks!#lvl1
+> END STRING
+
+> BEGIN STRING
+防御
+> CONTEXT: Skills/2/name/
+> CONTEXT: System/terms/commands/3/
+> CONTEXT: States/9/name/
+Guard#lvl1
+> END STRING
+
+> BEGIN STRING
+身を守ることに専念し、受けるダメージを抑える。
+> CONTEXT: Skills/2/description/
+Protects user and reduces damage taken.#lvl1
+> END STRING
+
+> BEGIN STRING
+は身を守っている。
+> CONTEXT: Skills/2/message1/
+ guards.#lvl1
+> END STRING
+
+> BEGIN STRING
+連続攻撃
+> CONTEXT: Skills/3/name/
+> CONTEXT: Skills/139/name/
+> CONTEXT: Skills/165/name/
+Dual Attack#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体に対して２回攻撃を行う。
+> CONTEXT: Skills/3/description/
+> CONTEXT: Skills/165/description/
+Hits an enemy twice!#lvl1
+> END STRING
+
+> BEGIN STRING
+の連続攻撃！
+> CONTEXT: Skills/3/message1/
+> CONTEXT: Skills/139/message1/
+Continuous attack!#MTLed
+> END STRING
+
+> BEGIN STRING
+２回攻撃
+> CONTEXT: Skills/4/name/
+Double Attack#lvl1
+> END STRING
+
+> BEGIN STRING
+敵２体にダメージを与える。
+> CONTEXT: Skills/4/description/
+Attacks two random enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+３回攻撃
+> CONTEXT: Skills/5/name/
+Triple Attack#lvl1
+> END STRING
+
+> BEGIN STRING
+敵３体にダメージを与える。
+> CONTEXT: Skills/5/description/
+Attacks three random enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+逃げる
+> CONTEXT: Skills/6/name/
+> CONTEXT: System/terms/commands/1/
+Escape#lvl1
+> END STRING
+
+> BEGIN STRING
+敵キャラの行動用。使用者が戦闘から離脱する。
+> CONTEXT: Skills/6/description/
+Enemy action. Causes enemy to flee from battle.#lvl1
+> END STRING
+
+> BEGIN STRING
+は逃げてしまった。
+> CONTEXT: Skills/6/message1/
+ flees.#lvl1
+> END STRING
+
+> BEGIN STRING
+様子を見る
+> CONTEXT: Skills/7/name/
+Wait#lvl1
+> END STRING
+
+> BEGIN STRING
+何もしない。
+> CONTEXT: Skills/7/description/
+Does nothing.#lvl1
+> END STRING
+
+> BEGIN STRING
+は様子を見ている。
+> CONTEXT: Skills/7/message1/
+ waits.#lvl1
+> END STRING
+
+> BEGIN STRING
+炎の息
+> CONTEXT: Skills/8/name/
+Fire Breath#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に炎属性のダメージを与える。
+> CONTEXT: Skills/8/description/
+> CONTEXT: Skills/53/description/
+> CONTEXT: Skills/54/description/
+Deals fire damage to all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+は炎の息を吐いた！
+> CONTEXT: Skills/8/message1/
+ uses Fire Breath!#lvl1
+> END STRING
+
+> BEGIN STRING
+吹雪の息
+> CONTEXT: Skills/9/name/
+Ice Breath#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に冷気属性のダメージを与える。
+> CONTEXT: Skills/9/description/
+Deals ice damage to all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+は吹雪の息を吐いた！
+> CONTEXT: Skills/9/message1/
+ uses Ice Breath!#lvl1
+> END STRING
+
+> BEGIN STRING
+電撃
+> CONTEXT: Skills/10/name/
+Shock#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に雷属性のダメージを与える。
+> CONTEXT: Skills/10/description/
+> CONTEXT: Skills/61/description/
+> CONTEXT: Skills/62/description/
+Deals lightning damage to all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+は電撃を放った！
+> CONTEXT: Skills/10/message1/
+ uses Shock!#lvl1
+> END STRING
+
+> BEGIN STRING
+猛毒の霧
+> CONTEXT: Skills/11/name/
+Poison Cloud#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体を毒状態にする。
+> CONTEXT: Skills/11/description/
+> CONTEXT: Skills/35/description/
+Poison all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+は猛毒の霧を放った！
+> CONTEXT: Skills/11/message1/
+ uses Poison Cloud!#lvl1
+> END STRING
+
+> BEGIN STRING
+眩しい光
+> CONTEXT: Skills/12/name/
+Dark Cloud#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体を暗闇状態にする。
+> CONTEXT: Skills/12/description/
+> CONTEXT: Skills/36/description/
+> CONTEXT: Skills/111/description/
+Blinds all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+は眩しい光を放った！
+> CONTEXT: Skills/12/message1/
+ uses Dark Cloud!#lvl1
+> END STRING
+
+> BEGIN STRING
+妖しい霧
+> CONTEXT: Skills/13/name/
+Forget Cloud#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体を沈黙状態にする。
+> CONTEXT: Skills/13/description/
+> CONTEXT: Skills/37/description/
+Silences all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+は妖しい霧を放った！
+> CONTEXT: Skills/13/message1/
+ uses Forget Cloud!#lvl1
+> END STRING
+
+> BEGIN STRING
+超音波
+> CONTEXT: Skills/14/name/
+Sonic Wave#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体を混乱状態にする。
+> CONTEXT: Skills/14/description/
+> CONTEXT: Skills/15/description/
+> CONTEXT: Skills/38/description/
+Confuses all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+は超音波を放った！
+> CONTEXT: Skills/14/message1/
+ uses Sonic Wave#lvl1
+> END STRING
+
+> BEGIN STRING
+誘惑の歌
+> CONTEXT: Skills/15/name/
+> CONTEXT: Skills/169/name/
+> CONTEXT: Skills/245/name/
+Confusion Song#lvl1
+> END STRING
+
+> BEGIN STRING
+は誘惑の歌を歌った！
+> CONTEXT: Skills/15/message1/
+> CONTEXT: Skills/169/message1/
+> CONTEXT: Skills/245/message1/
+ sings Confusion Song!#lvl1
+> END STRING
+
+> BEGIN STRING
+甘い息
+> CONTEXT: Skills/16/name/
+Sleep Breath#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体を睡眠状態にする。
+> CONTEXT: Skills/16/description/
+> CONTEXT: Skills/17/description/
+> CONTEXT: Skills/39/description/
+Puts all enemies to sleep.#lvl1
+> END STRING
+
+> BEGIN STRING
+は甘い息を吐いた！
+> CONTEXT: Skills/16/message1/
+ uses Sleep Breath!#lvl1
+> END STRING
+
+> BEGIN STRING
+眠りの花粉
+> CONTEXT: Skills/17/name/
+Sleep Pollen#lvl1
+> END STRING
+
+> BEGIN STRING
+は眠りの花粉を放った！
+> CONTEXT: Skills/17/message1/
+ uses Sleep Pollen.#lvl1
+> END STRING
+
+> BEGIN STRING
+痺れる息
+> CONTEXT: Skills/18/name/
+Paralyze Breath#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体を麻痺状態にする。
+> CONTEXT: Skills/18/description/
+Paralyzes all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+は痺れる息を吐いた！
+> CONTEXT: Skills/18/message1/
+ uses Paralyze Breath!#lvl1
+> END STRING
+
+> BEGIN STRING
+麻痺にらみ
+> CONTEXT: Skills/19/name/
+Paralyze Stare#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体を麻痺状態にする。
+> CONTEXT: Skills/19/description/
+> CONTEXT: Skills/40/description/
+Paralyzes a single enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+は鋭い目でにらみつけた！
+> CONTEXT: Skills/19/message1/
+ uses Paralyze Stare!#lvl1
+> END STRING
+
+> BEGIN STRING
+足払い
+> CONTEXT: Skills/20/name/
+Sweep Kick#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体のバランスを崩させる。
+> CONTEXT: Skills/20/description/
+Attempt to stun an enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+は足払いを仕掛けた！
+> CONTEXT: Skills/20/message1/
+ uses Sweep Kick!#lvl1
+> END STRING
+
+> BEGIN STRING
+体当たり
+> CONTEXT: Skills/21/name/
+Bodyslam#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体にダメージを与え、バランスを崩させる。
+> CONTEXT: Skills/21/description/
+Damages enemy and attempt to stun enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+は体当たりをした！
+> CONTEXT: Skills/21/message1/
+ uses Bodyslam!#lvl1
+> END STRING
+
+> BEGIN STRING
+雄たけび
+> CONTEXT: Skills/22/name/
+Shout#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体のバランスを崩させる。
+> CONTEXT: Skills/22/description/
+Stuns all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+は雄たけびを上げた！
+> CONTEXT: Skills/22/message1/
+ uses Shout!#lvl1
+> END STRING
+
+> BEGIN STRING
+吸血
+> CONTEXT: Skills/23/name/
+Blood sucking#MTLed
+> END STRING
+
+> BEGIN STRING
+敵単体のＨＰを吸収する。
+> CONTEXT: Skills/23/description/
+> CONTEXT: Skills/49/description/
+> CONTEXT: Skills/234/description/
+> CONTEXT: Skills/236/description/
+Absorbs enemy's HP.#lvl1
+> END STRING
+
+> BEGIN STRING
+の吸血攻撃！
+> CONTEXT: Skills/23/message1/
+ uses Vampire!#lvl1
+> END STRING
+
+> BEGIN STRING
+瞑想
+> CONTEXT: Skills/24/name/
+Meditate#lvl1
+> END STRING
+
+> BEGIN STRING
+使用者のＨＰを回復する。
+> CONTEXT: Skills/24/description/
+Recovers user's HP.#lvl1
+> END STRING
+
+> BEGIN STRING
+は瞑想を始めた。
+> CONTEXT: Skills/24/message1/
+ uses Meditate!#lvl1
+> END STRING
+
+> BEGIN STRING
+--------------------
+> CONTEXT: Skills/25/name/
+> CONTEXT: Skills/75/name/
+> CONTEXT: Skills/79/name/
+--------------------#lvl1
+> END STRING
+
+> BEGIN STRING
+ヒール
+> CONTEXT: Skills/26/name/
+Heal#lvl1
+> END STRING
+
+> BEGIN STRING
+味方単体のＨＰを回復する。
+> CONTEXT: Skills/26/description/
+> CONTEXT: Skills/27/description/
+> CONTEXT: Skills/28/description/
+Restores HP to one ally.#lvl1
+> END STRING
+
+> BEGIN STRING
+はヒールを唱えた！
+> CONTEXT: Skills/26/message1/
+ casts Heal!#lvl1
+> END STRING
+
+> BEGIN STRING
+ヒールⅡ
+> CONTEXT: Skills/27/name/
+Heal II#lvl1
+> END STRING
+
+> BEGIN STRING
+はヒールⅡを唱えた！
+> CONTEXT: Skills/27/message1/
+ casts Heal II!#lvl1
+> END STRING
+
+> BEGIN STRING
+ヒールⅢ
+> CONTEXT: Skills/28/name/
+Heal III#lvl1
+> END STRING
+
+> BEGIN STRING
+はヒールⅢを唱えた！
+> CONTEXT: Skills/28/message1/
+ casts Heal III!#lvl1
+> END STRING
+
+> BEGIN STRING
+リカバー
+> CONTEXT: Skills/29/name/
+Recovery#lvl1
+> END STRING
+
+> BEGIN STRING
+味方全体のＨＰを回復する。
+> CONTEXT: Skills/29/description/
+> CONTEXT: Skills/30/description/
+Restores HP to all allies.#lvl1
+> END STRING
+
+> BEGIN STRING
+はリカバーを唱えた！
+> CONTEXT: Skills/29/message1/
+ casts Recovery!#lvl1
+> END STRING
+
+> BEGIN STRING
+リカバーⅡ
+> CONTEXT: Skills/30/name/
+Recovery II#lvl1
+> END STRING
+
+> BEGIN STRING
+はリカバーⅡを唱えた！
+> CONTEXT: Skills/30/message1/
+ casts Recovery II!#lvl1
+> END STRING
+
+> BEGIN STRING
+キュア
+> CONTEXT: Skills/31/name/
+Cure#lvl1
+> END STRING
+
+> BEGIN STRING
+毒状態および麻痺状態を治療する。
+> CONTEXT: Skills/31/description/
+Cures poison and paralsys.#lvl1
+> END STRING
+
+> BEGIN STRING
+はキュアを唱えた！
+> CONTEXT: Skills/31/message1/
+ casts Cure!#lvl1
+> END STRING
+
+> BEGIN STRING
+キュアⅡ
+> CONTEXT: Skills/32/name/
+Cure II#lvl1
+> END STRING
+
+> BEGIN STRING
+戦闘不能以外の状態異常を治療する。
+> CONTEXT: Skills/32/description/
+> CONTEXT: Items/7/description/
+Cures many status ailments.#lvl1
+> END STRING
+
+> BEGIN STRING
+はキュアⅡを唱えた！
+> CONTEXT: Skills/32/message1/
+ casts Cure II!#lvl1
+> END STRING
+
+> BEGIN STRING
+レイズ
+> CONTEXT: Skills/33/name/
+Raise#lvl1
+> END STRING
+
+> BEGIN STRING
+戦闘不能から復活させる。
+> CONTEXT: Skills/33/description/
+> CONTEXT: Skills/225/description/
+> CONTEXT: Items/5/description/
+Revives a fallen ally.#lvl1
+> END STRING
+
+> BEGIN STRING
+はレイズを唱えた！
+> CONTEXT: Skills/33/message1/
+ casts Raise!#lvl1
+> END STRING
+
+> BEGIN STRING
+レイズⅡ
+> CONTEXT: Skills/34/name/
+Raise II#lvl1
+> END STRING
+
+> BEGIN STRING
+戦闘不能から復活させ、ＨＰを大きく回復する。
+> CONTEXT: Skills/34/description/
+Revives a fallen ally with a lot of HP.#lvl1
+> END STRING
+
+> BEGIN STRING
+はレイズⅡを唱えた！
+> CONTEXT: Skills/34/message1/
+ casts Raise II!#lvl1
+> END STRING
+
+> BEGIN STRING
+ポイズン
+> CONTEXT: Skills/35/name/
+Poison#MTLed
+> END STRING
+
+> BEGIN STRING
+はポイズンを唱えた！
+> CONTEXT: Skills/35/message1/
+ casts Poison!#lvl1
+> END STRING
+
+> BEGIN STRING
+ブラインド
+> CONTEXT: Skills/36/name/
+Blind#MTLed
+> END STRING
+
+> BEGIN STRING
+はブラインドを唱えた！
+> CONTEXT: Skills/36/message1/
+ casts Blind!#lvl1
+> END STRING
+
+> BEGIN STRING
+サイレンス
+> CONTEXT: Skills/37/name/
+Silence#MTLed
+> END STRING
+
+> BEGIN STRING
+はサイレンスを唱えた！
+> CONTEXT: Skills/37/message1/
+ casts Silence!#lvl1
+> END STRING
+
+> BEGIN STRING
+コンフューズ
+> CONTEXT: Skills/38/name/
+Confuse#lvl1
+> END STRING
+
+> BEGIN STRING
+はコンフューズを唱えた！
+> CONTEXT: Skills/38/message1/
+ casts Confuse!#lvl1
+> END STRING
+
+> BEGIN STRING
+スリープ
+> CONTEXT: Skills/39/name/
+Sleep#MTLed
+> END STRING
+
+> BEGIN STRING
+はスリープを唱えた！
+> CONTEXT: Skills/39/message1/
+ casts Sleep!#lvl1
+> END STRING
+
+> BEGIN STRING
+パラライズ
+> CONTEXT: Skills/40/name/
+Paralyze#lvl1
+> END STRING
+
+> BEGIN STRING
+はパラライズを唱えた！
+> CONTEXT: Skills/40/message1/
+ casts Paralyze!#lvl1
+> END STRING
+
+> BEGIN STRING
+ウェポンブレス
+> CONTEXT: Skills/41/name/
+Breath Weapon#lvl1
+> END STRING
+
+> BEGIN STRING
+味方単体の攻撃力を上げる。
+> CONTEXT: Skills/41/description/
+Increase one ally's ATK.#lvl1
+> END STRING
+
+> BEGIN STRING
+はウェポンブレスを唱えた！
+> CONTEXT: Skills/41/message1/
+ casts Breath Weapon!#lvl1
+> END STRING
+
+> BEGIN STRING
+アーマーブレス
+> CONTEXT: Skills/42/name/
+Breath Armour#lvl1
+> END STRING
+
+> BEGIN STRING
+味方単体の防御力を上げる。
+> CONTEXT: Skills/42/description/
+Increase one ally's DEF.#lvl1
+> END STRING
+
+> BEGIN STRING
+はアーマーブレスを唱えた！
+> CONTEXT: Skills/42/message1/
+ casts Breath Armour!#lvl1
+> END STRING
+
+> BEGIN STRING
+ディバインブレス
+> CONTEXT: Skills/43/name/
+Divine Breath#lvl1
+> END STRING
+
+> BEGIN STRING
+味方単体の魔法防御を上げる。
+> CONTEXT: Skills/43/description/
+Increase one ally's MDF.#lvl1
+> END STRING
+
+> BEGIN STRING
+はディバインブレスを唱えた！
+> CONTEXT: Skills/43/message1/
+ casts Divine Breath!#lvl1
+> END STRING
+
+> BEGIN STRING
+クイックムーブ
+> CONTEXT: Skills/44/name/
+Quick Move#lvl1
+> END STRING
+
+> BEGIN STRING
+味方単体の敏捷性を上げる。
+> CONTEXT: Skills/44/description/
+Increase one ally's AGI.#lvl1
+> END STRING
+
+> BEGIN STRING
+はクイックムーブを唱えた！
+> CONTEXT: Skills/44/message1/
+ casts Quick Move!#lvl1
+> END STRING
+
+> BEGIN STRING
+ウェポンカース
+> CONTEXT: Skills/45/name/
+Curse Weapon#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体の攻撃力を下げる。
+> CONTEXT: Skills/45/description/
+Lower all enemies' ATK.#lvl1
+> END STRING
+
+> BEGIN STRING
+はウェポンカースを唱えた！
+> CONTEXT: Skills/45/message1/
+ casts Curse Weapon!#lvl1
+> END STRING
+
+> BEGIN STRING
+アーマーカース
+> CONTEXT: Skills/46/name/
+Curse Armour#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体の防御力を下げる。
+> CONTEXT: Skills/46/description/
+Lower all enemies' DEF.#lvl1
+> END STRING
+
+> BEGIN STRING
+はアーマーカースを唱えた！
+> CONTEXT: Skills/46/message1/
+ casts Curse Armour#lvl1
+> END STRING
+
+> BEGIN STRING
+ディバインカース
+> CONTEXT: Skills/47/name/
+Divine Curse#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体の魔法防御を下げる。
+> CONTEXT: Skills/47/description/
+Lower all enemies' MDF.#lvl1
+> END STRING
+
+> BEGIN STRING
+はディバインカースを唱えた！
+> CONTEXT: Skills/47/message1/
+ casts Divine Curse!#lvl1
+> END STRING
+
+> BEGIN STRING
+スロームーブ
+> CONTEXT: Skills/48/name/
+Slow Move#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体の敏捷性を下げる。
+> CONTEXT: Skills/48/description/
+Lower all enemies' AGI.#lvl1
+> END STRING
+
+> BEGIN STRING
+はスロームーブを唱えた！
+> CONTEXT: Skills/48/message1/
+ casts Slow Move!#lvl1
+> END STRING
+
+> BEGIN STRING
+ライフドレイン
+> CONTEXT: Skills/49/name/
+> CONTEXT: Skills/384/name/
+Life Drain#lvl1
+> END STRING
+
+> BEGIN STRING
+はライフドレインを唱えた！
+> CONTEXT: Skills/49/message1/
+> CONTEXT: Skills/384/message1/
+ casts Life Drain!#lvl1
+> END STRING
+
+> BEGIN STRING
+マナドレイン
+> CONTEXT: Skills/50/name/
+Mana Drain#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体のＭＰを吸収する。
+> CONTEXT: Skills/50/description/
+Drains MP from one enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+はマナドレインを唱えた！
+> CONTEXT: Skills/50/message1/
+ casts Mana Drain!#lvl1
+> END STRING
+
+> BEGIN STRING
+ファイア
+> CONTEXT: Skills/51/name/
+> CONTEXT: Skills/183/name/
+> CONTEXT: Skills/184/name/
+Fire#MTLed
+> END STRING
+
+> BEGIN STRING
+敵単体に炎属性のダメージを与える。
+> CONTEXT: Skills/51/description/
+> CONTEXT: Skills/52/description/
+> CONTEXT: Skills/183/description/
+> CONTEXT: Skills/184/description/
+> CONTEXT: Skills/250/description/
+Deals fire damage to one enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+はファイアを唱えた！
+> CONTEXT: Skills/51/message1/
+> CONTEXT: Skills/183/message1/
+> CONTEXT: Skills/184/message1/
+ casts Fire!#lvl1
+> END STRING
+
+> BEGIN STRING
+ファイアⅡ
+> CONTEXT: Skills/52/name/
+Fire II#lvl1
+> END STRING
+
+> BEGIN STRING
+はファイアⅡを唱えた！
+> CONTEXT: Skills/52/message1/
+ casts Fire II!#lvl1
+> END STRING
+
+> BEGIN STRING
+フレイム
+> CONTEXT: Skills/53/name/
+> CONTEXT: Skills/250/name/
+Flame#lvl1
+> END STRING
+
+> BEGIN STRING
+はフレイムを唱えた！
+> CONTEXT: Skills/53/message1/
+> CONTEXT: Skills/250/message1/
+ casts Flame!#lvl1
+> END STRING
+
+> BEGIN STRING
+フレイムⅡ
+> CONTEXT: Skills/54/name/
+Flame II#lvl1
+> END STRING
+
+> BEGIN STRING
+はフレイムⅡを唱えた！
+> CONTEXT: Skills/54/message1/
+ casts Flame II!#lvl1
+> END STRING
+
+> BEGIN STRING
+アイス
+> CONTEXT: Skills/55/name/
+> CONTEXT: Skills/201/name/
+Ice#MTLed
+> END STRING
+
+> BEGIN STRING
+敵単体に氷属性のダメージを与える。
+> CONTEXT: Skills/55/description/
+> CONTEXT: Skills/56/description/
+> CONTEXT: Skills/201/description/
+> CONTEXT: Skills/202/description/
+Deals ice damage to one enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+はアイスを唱えた！
+> CONTEXT: Skills/55/message1/
+> CONTEXT: Skills/201/message1/
+ casts Ice!#lvl1
+> END STRING
+
+> BEGIN STRING
+アイスⅡ
+> CONTEXT: Skills/56/name/
+Ice II#lvl1
+> END STRING
+
+> BEGIN STRING
+はアイスⅡを唱えた！
+> CONTEXT: Skills/56/message1/
+ casts Ice II!#lvl1
+> END STRING
+
+> BEGIN STRING
+ブリザード
+> CONTEXT: Skills/57/name/
+Blizzard#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に氷属性のダメージを与える。
+> CONTEXT: Skills/57/description/
+> CONTEXT: Skills/58/description/
+Deals ice attribute damage to all enemies.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+はブリザードを唱えた！
+> CONTEXT: Skills/57/message1/
+ casts Blizzard!#lvl1
+> END STRING
+
+> BEGIN STRING
+ブリザードⅡ
+> CONTEXT: Skills/58/name/
+Blizzard II#lvl1
+> END STRING
+
+> BEGIN STRING
+はブリザードⅡを唱えた！
+> CONTEXT: Skills/58/message1/
+ casts Blizzard II!#lvl1
+> END STRING
+
+> BEGIN STRING
+サンダー
+> CONTEXT: Skills/59/name/
+> CONTEXT: Skills/210/name/
+Thunder#MTLed
+> END STRING
+
+> BEGIN STRING
+敵単体に雷属性のダメージを与える。
+> CONTEXT: Skills/59/description/
+> CONTEXT: Skills/60/description/
+> CONTEXT: Skills/168/description/
+> CONTEXT: Skills/210/description/
+> CONTEXT: Skills/212/description/
+Deals lightning damage to one enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+はサンダーを唱えた！
+> CONTEXT: Skills/59/message1/
+> CONTEXT: Skills/210/message1/
+ casts Thunder!#lvl1
+> END STRING
+
+> BEGIN STRING
+サンダーⅡ
+> CONTEXT: Skills/60/name/
+Thunder II#lvl1
+> END STRING
+
+> BEGIN STRING
+はサンダーⅡを唱えた！
+> CONTEXT: Skills/60/message1/
+ casts Thunder II!#lvl1
+> END STRING
+
+> BEGIN STRING
+スパーク
+> CONTEXT: Skills/61/name/
+Spark#lvl1
+> END STRING
+
+> BEGIN STRING
+はスパークを唱えた！
+> CONTEXT: Skills/61/message1/
+ casts Spark!#lvl1
+> END STRING
+
+> BEGIN STRING
+スパークⅡ
+> CONTEXT: Skills/62/name/
+Spark II#lvl1
+> END STRING
+
+> BEGIN STRING
+はスパークⅡを唱えた！
+> CONTEXT: Skills/62/message1/
+ casts Spark II!#lvl1
+> END STRING
+
+> BEGIN STRING
+ウォーター
+> CONTEXT: Skills/63/name/
+> CONTEXT: Skills/208/name/
+Water#MTLed
+> END STRING
+
+> BEGIN STRING
+敵単体に水属性のダメージを与える。
+> CONTEXT: Skills/63/description/
+> CONTEXT: Skills/208/description/
+Deals water damage to one enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+はウォーターを唱えた！
+> CONTEXT: Skills/63/message1/
+> CONTEXT: Skills/208/message1/
+ casts Water!#lvl1
+> END STRING
+
+> BEGIN STRING
+ウェーブ
+> CONTEXT: Skills/64/name/
+> CONTEXT: Skills/209/name/
+Wave#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に水属性のダメージを与える。
+> CONTEXT: Skills/64/description/
+> CONTEXT: Skills/207/description/
+> CONTEXT: Skills/209/description/
+Deals water damage to all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+はウェーブを唱えた！
+> CONTEXT: Skills/64/message1/
+> CONTEXT: Skills/209/message1/
+ casts Wave!#lvl1
+> END STRING
+
+> BEGIN STRING
+ストーン
+> CONTEXT: Skills/65/name/
+Stone#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体に大地属性のダメージを与える。
+> CONTEXT: Skills/65/description/
+Deals earth damage to one enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+はストーンを唱えた！
+> CONTEXT: Skills/65/message1/
+ casts Stone!#lvl1
+> END STRING
+
+> BEGIN STRING
+クェイク
+> CONTEXT: Skills/66/name/
+Quake#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に大地属性のダメージを与える。
+> CONTEXT: Skills/66/description/
+Deals earth damage to all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+はクェイクを唱えた！
+> CONTEXT: Skills/66/message1/
+ casts Quake!#lvl1
+> END STRING
+
+> BEGIN STRING
+ウィンド
+> CONTEXT: Skills/67/name/
+Wind#MTLed
+> END STRING
+
+> BEGIN STRING
+敵単体に風属性のダメージを与える。
+> CONTEXT: Skills/67/description/
+Deals wind damage to one enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+はウィンドを唱えた！
+> CONTEXT: Skills/67/message1/
+ casts Wind!#lvl1
+> END STRING
+
+> BEGIN STRING
+トルネード
+> CONTEXT: Skills/68/name/
+> CONTEXT: Skills/256/name/
+Tornado#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に風属性のダメージを与える。
+> CONTEXT: Skills/68/description/
+Deals wind damage to all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+はトルネードを唱えた！
+> CONTEXT: Skills/68/message1/
+ casts Tornado!#lvl1
+> END STRING
+
+> BEGIN STRING
+セイント
+> CONTEXT: Skills/69/name/
+> CONTEXT: Skills/262/name/
+Saint#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体に神聖属性のダメージを与える。
+> CONTEXT: Skills/69/description/
+> CONTEXT: Skills/262/description/
+Deals holy damage to one enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+はセイントを唱えた！
+> CONTEXT: Skills/69/message1/
+> CONTEXT: Skills/262/message1/
+ casts Saint!#lvl1
+> END STRING
+
+> BEGIN STRING
+スターライト
+> CONTEXT: Skills/70/name/
+Starlight#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に神聖属性のダメージを与える。
+> CONTEXT: Skills/70/description/
+Deals holy damage to all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+はスターライトを唱えた！
+> CONTEXT: Skills/70/message1/
+He cast a starlight!#MTLed
+> END STRING
+
+> BEGIN STRING
+シェイド
+> CONTEXT: Skills/71/name/
+Shade#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体に暗黒属性のダメージを与える。
+> CONTEXT: Skills/71/description/
+Deals dark damage to one enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+はシェイドを唱えた！
+> CONTEXT: Skills/71/message1/
+ casts Shade!#lvl1
+> END STRING
+
+> BEGIN STRING
+ダークネス
+> CONTEXT: Skills/72/name/
+Darkness#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に暗黒属性のダメージを与える。
+> CONTEXT: Skills/72/description/
+Deals dark damage to all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+はダークネスを唱えた！
+> CONTEXT: Skills/72/message1/
+ casts Darkness!#lvl1
+> END STRING
+
+> BEGIN STRING
+バースト
+> CONTEXT: Skills/73/name/
+Burst#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体に防御無視のダメージを与える。
+> CONTEXT: Skills/73/description/
+Deals defense ignoring damage to one enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+はバーストを唱えた！
+> CONTEXT: Skills/73/message1/
+ casts Burst!#lvl1
+> END STRING
+
+> BEGIN STRING
+ニュークリア
+> CONTEXT: Skills/74/name/
+Nuclear#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に防御無視のダメージを与える。
+> CONTEXT: Skills/74/description/
+Deals defense ignoring damage to all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+はニュークリアを唱えた！
+> CONTEXT: Skills/74/message1/
+ casts Nuclear!#lvl1
+> END STRING
+
+> BEGIN STRING
+ファイアウェポン
+> CONTEXT: Skills/76/name/
+Fire Weapon#lvl1
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者に炎属性を付与する。
+> CONTEXT: Skills/76/description/
+For 5 turns, user gains fire attribute.#lvl1
+> END STRING
+
+> BEGIN STRING
+はファイアウェポンを唱えた！
+> CONTEXT: Skills/76/message1/
+ uses Fire Weapon!#lvl1
+> END STRING
+
+> BEGIN STRING
+アイスウェポン
+> CONTEXT: Skills/77/name/
+Ice Weapon#lvl1
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者に氷属性を付与する。
+> CONTEXT: Skills/77/description/
+Give ice attributes to the user for 5 turns.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+はアイスウェポンを唱えた！
+> CONTEXT: Skills/77/message1/
+ uses Ice Weapon!#lvl1
+> END STRING
+
+> BEGIN STRING
+サンダーウェポン
+> CONTEXT: Skills/78/name/
+Thunder Weapon#lvl1
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者に雷属性を付与する。
+> CONTEXT: Skills/78/description/
+For 5 turns, user gains lightning attribute.#lvl1
+> END STRING
+
+> BEGIN STRING
+はサンダーウェポンを唱えた！
+> CONTEXT: Skills/78/message1/
+ uses Thunder Weapon!#lvl1
+> END STRING
+
+> BEGIN STRING
+強撃
+> CONTEXT: Skills/80/name/
+Strong Attack#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体に対して強力な攻撃を行う。
+> CONTEXT: Skills/80/description/
+A strong attack against one enemy.#lvl1
+> END STRING
+
+> BEGIN STRING
+は強撃を放った！
+> CONTEXT: Skills/80/message1/
+ uses Strong Attack!#lvl1
+> END STRING
+
+> BEGIN STRING
+薙ぎ払い
+> CONTEXT: Skills/81/name/
+> CONTEXT: Skills/138/name/
+> CONTEXT: Skills/308/name/
+Cleave#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に対して攻撃を行う。
+> CONTEXT: Skills/81/description/
+An attack against all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+は薙ぎ払った！
+> CONTEXT: Skills/81/message1/
+> CONTEXT: Skills/138/message1/
+> CONTEXT: Skills/308/message1/
+ uses Cleave!#lvl1
+> END STRING
+
+> BEGIN STRING
+狂戦士の咆哮
+> CONTEXT: Skills/82/name/
+Berserker's Roar#lvl1
+> END STRING
+
+> BEGIN STRING
+５ターンの間、味方全体の攻撃力を少し上げる。
+> CONTEXT: Skills/82/description/
+For 5 turns, increase ATK of party.#lvl1
+> END STRING
+
+> BEGIN STRING
+は狂戦士の咆哮を使った！
+> CONTEXT: Skills/82/message1/
+ uses Berserker's Roar!#lvl1
+> END STRING
+
+> BEGIN STRING
+バーサーカーダンス
+> CONTEXT: Skills/83/name/
+Berserker's Dance#lvl1
+> END STRING
+
+> BEGIN STRING
+斧技。敵３体に対して強力な攻撃を行う。
+> CONTEXT: Skills/83/description/
+Axe skill. Powerful attack against 3 random enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+はバーサーカーダンスを放った！
+> CONTEXT: Skills/83/message1/
+ uses Berserker's Dance!#lvl1
+> END STRING
+
+> BEGIN STRING
+ギガスランページ
+> CONTEXT: Skills/84/name/
+Giant's Rampage#lvl1
+> END STRING
+
+> BEGIN STRING
+斧技。敵全体に対して強力な攻撃を行う。
+> CONTEXT: Skills/84/description/
+Axe Skill. A strong attack against all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+はギガスランページを放った！
+> CONTEXT: Skills/84/message1/
+ uses Giant's Rampage!#lvl1
+> END STRING
+
+> BEGIN STRING
+タックル
+> CONTEXT: Skills/85/name/
+Tackle#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体に対して攻撃を行ない、バランスを崩させる。
+ダメージは使用者の攻撃力と防御力に依存する。
+> CONTEXT: Skills/85/description/
+Attack that may offset an enemy's balance.
+Damage is based on user's ATK and DEF.#lvl1
+> END STRING
+
+> BEGIN STRING
+はタックルを放った！
+> CONTEXT: Skills/85/message1/
+ uses Tackle!#lvl1
+> END STRING
+
+> BEGIN STRING
+チャクラ
+> CONTEXT: Skills/86/name/
+Chakra#lvl1
+> END STRING
+
+> BEGIN STRING
+使用者の状態異常をすべて治す。
+> CONTEXT: Skills/86/description/
+User cures all status ailments.#lvl1
+> END STRING
+
+> BEGIN STRING
+はチャクラを使った！
+> CONTEXT: Skills/86/message1/
+ uses Chakra!#lvl1
+> END STRING
+
+> BEGIN STRING
+虎伏の構え
+> CONTEXT: Skills/87/name/
+Tiger Stance#lvl1
+> END STRING
+
+> BEGIN STRING
+３ターンの間、敵の攻撃をキャンセルして反撃を行う。
+> CONTEXT: Skills/87/description/
+For 3 turns, counterattack and cancel enemy attacks.#lvl1
+> END STRING
+
+> BEGIN STRING
+は虎伏の構えを使った！
+> CONTEXT: Skills/87/message1/
+ uses Tiger Stance!#lvl1
+> END STRING
+
+> BEGIN STRING
+無影脚
+> CONTEXT: Skills/88/name/
+No Shadow Kick#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に対して、防御力無視の強力な攻撃を行う。
+通常よりも素早く行動できる。
+> CONTEXT: Skills/88/description/
+Deal defense ignoring damage to all enemies.
+Skill triggers quicker than usual.#lvl1
+> END STRING
+
+> BEGIN STRING
+は無影脚を放った！
+> CONTEXT: Skills/88/message1/
+ uses No Shadow Kick!#lvl1
+> END STRING
+
+> BEGIN STRING
+破龍爪円舞
+> CONTEXT: Skills/89/name/
+Claw Dance#lvl1
+> END STRING
+
+> BEGIN STRING
+爪技。敵単体に対して、防御力無視の強力な２回攻撃を行う。
+> CONTEXT: Skills/89/description/
+Claw Skill. Deals damage to one enemy twice.
+Ignores defense.#lvl1
+> END STRING
+
+> BEGIN STRING
+は破龍爪円舞を放った！
+> CONTEXT: Skills/89/message1/
+ uses Claw Dance!#lvl1
+> END STRING
+
+> BEGIN STRING
+１ターンの間、ＨＰの少ない味方を自動的にかばう。
+> CONTEXT: Skills/90/description/
+For 1 turn, protect allies with low HP.#lvl1
+> END STRING
+
+> BEGIN STRING
+は仲間をかばっている。
+> CONTEXT: Skills/90/message1/
+ uses Cover!#lvl1
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の狙われやすさを上げる。
+> CONTEXT: Skills/91/description/
+For 5 turns, user is more likely to be attacked.#lvl1
+> END STRING
+
+> BEGIN STRING
+は敵の注意を引きつけた！
+> CONTEXT: Skills/91/message1/
+ uses Provoke!#lvl1
+> END STRING
+
+> BEGIN STRING
+鉄壁の守り
+> CONTEXT: Skills/92/name/
+Super Guard#lvl1
+> END STRING
+
+> BEGIN STRING
+３ターンの間、使用者への物理攻撃をほぼ完全に防ぐ。
+> CONTEXT: Skills/92/description/
+For 3 turns, heavily reduce physical damage taken.#lvl1
+> END STRING
+
+> BEGIN STRING
+は鉄壁の守りを使った！
+> CONTEXT: Skills/92/message1/
+ uses Super Guard!#lvl1
+> END STRING
+
+> BEGIN STRING
+リッターシルト
+> CONTEXT: Skills/93/name/
+Restrengthen#lvl1
+> END STRING
+
+> BEGIN STRING
+５ターンの間、味方全体の防御力を大幅に上げる。
+> CONTEXT: Skills/93/description/
+For 5 turns, greatly boost DEF for party.#lvl1
+> END STRING
+
+> BEGIN STRING
+はリッターシルトを使った！
+> CONTEXT: Skills/93/message1/
+ uses Restrengthen!#lvl1
+> END STRING
+
+> BEGIN STRING
+ゼクスシュツルム
+> CONTEXT: Skills/94/name/
+Zero Storm#lvl1
+> END STRING
+
+> BEGIN STRING
+槍技。敵３体に対して強力な２回攻撃を行う。
+> CONTEXT: Skills/94/description/
+Spear Skill. Strong attack to 3 random enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+はゼクスシュツルムを放った！
+> CONTEXT: Skills/94/message1/
+ uses Zero Storm!#lvl1
+> END STRING
+
+> BEGIN STRING
+オーラブレード
+> CONTEXT: Skills/95/name/
+Aura Blade#lvl1
+> END STRING
+
+> BEGIN STRING
+剣技。敵単体に対して強力な攻撃を行ない、沈黙させる。
+ダメージは使用者の攻撃力と魔法力に依存する。
+> CONTEXT: Skills/95/description/
+Sword Skill. Attacked enemy may be silenced.
+Damage is based off user's ATK and MAT.#lvl1
+> END STRING
+
+> BEGIN STRING
+はオーラブレードを放った！
+> CONTEXT: Skills/95/message1/
+ uses Aura Blade!#lvl1
+> END STRING
+
+> BEGIN STRING
+ディスペル
+> CONTEXT: Skills/96/name/
+Dispel#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体の強化魔法を解除する。
+> CONTEXT: Skills/96/description/
+Cancels enemy enchantments.#lvl1
+> END STRING
+
+> BEGIN STRING
+はディスペルを使った！
+> CONTEXT: Skills/96/message1/
+ uses Dispel!#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法バリア
+> CONTEXT: Skills/97/name/
+Magic Barrier#lvl1
+> END STRING
+
+> BEGIN STRING
+３ターンの間、使用者の魔法防御を大幅に上げる。
+> CONTEXT: Skills/97/description/
+Increase your magical defense greatly for 3 turns.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+は魔法バリアを使った！
+> CONTEXT: Skills/97/message1/
+ casts Magic Barrier!#lvl1
+> END STRING
+
+> BEGIN STRING
+リインフォーサー
+> CONTEXT: Skills/98/name/
+Reinforcer#MTLed
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者に炎・氷・雷の属性を付与する。
+> CONTEXT: Skills/98/description/
+For 5 turns, grants user fire, ice, and lightning
+attributes.#lvl1
+> END STRING
+
+> BEGIN STRING
+はリインフォーサーを使った！
+> CONTEXT: Skills/98/message1/
+ uses Reinforce!#lvl1
+> END STRING
+
+> BEGIN STRING
+レディアントブレード
+> CONTEXT: Skills/99/name/
+Radiant Blade#lvl1
+> END STRING
+
+> BEGIN STRING
+剣技。敵全体に対して強力な神聖属性の攻撃を行う。
+ダメージは使用者の攻撃力と魔法力に依存する。
+> CONTEXT: Skills/99/description/
+Sword Skill. Strong magical attack to all enemies.
+Damage is based on user's ATK and MAT.#lvl1
+> END STRING
+
+> BEGIN STRING
+はレディアントブレードを放った！
+> CONTEXT: Skills/99/message1/
+ uses Radiant Blade!#lvl1
+> END STRING
+
+> BEGIN STRING
+鎧通し
+> CONTEXT: Skills/100/name/
+> CONTEXT: Skills/309/name/
+Yoroidoshi#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体に防御力無視の攻撃を行なう。
+> CONTEXT: Skills/100/description/
+Attempts to defeat the enemy alone with defensive power.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+は鎧通しを放った！
+> CONTEXT: Skills/100/message1/
+ uses Yoroidoshi!#lvl1
+> END STRING
+
+> BEGIN STRING
+心頭滅却
+> CONTEXT: Skills/101/name/
+Shintou Mekkyaku#lvl1
+> END STRING
+
+> BEGIN STRING
+使用者のＴＰを少し増やす。
+> CONTEXT: Skills/101/description/
+Increases a little bit of TP.#lvl1
+> END STRING
+
+> BEGIN STRING
+は心頭滅却を使った！
+> CONTEXT: Skills/101/message1/
+ uses Shintou Mekkyaku!#lvl1
+> END STRING
+
+> BEGIN STRING
+八相
+> CONTEXT: Skills/102/name/
+Hassou#lvl1
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の攻撃力と防御力を少し上げる。
+> CONTEXT: Skills/102/description/
+For 5 turns, increase user's ATK and DEF.#lvl1
+> END STRING
+
+> BEGIN STRING
+は八相を使った！
+> CONTEXT: Skills/102/message1/
+ uses Hassou!#lvl1
+> END STRING
+
+> BEGIN STRING
+ツバメ返し
+> CONTEXT: Skills/103/name/
+Tsubamekaeshi#lvl1
+> END STRING
+
+> BEGIN STRING
+刀技。敵全体に対して２回攻撃を行う。
+> CONTEXT: Skills/103/description/
+Katana Skill. All out attack against all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+はツバメ返しを放った！
+> CONTEXT: Skills/103/message1/
+ uses Tsubamekaeshi!#lvl1
+> END STRING
+
+> BEGIN STRING
+桜花夢幻刃
+> CONTEXT: Skills/104/name/
+Ouka Mugen jin#lvl1
+> END STRING
+
+> BEGIN STRING
+刀技。敵全体に対して４回攻撃を行う。
+> CONTEXT: Skills/104/description/
+Katana Skill. Attacks all enemies 4 times.#lvl1
+> END STRING
+
+> BEGIN STRING
+は桜花夢幻刃を放った！
+> CONTEXT: Skills/104/message1/
+ uses Ouka Mugen Ha!#lvl1
+> END STRING
+
+> BEGIN STRING
+ウェポンブレイク
+> CONTEXT: Skills/105/name/
+Weapon Break#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体に必中攻撃を行い、攻撃力を少し下げる。
+> CONTEXT: Skills/105/description/
+Attacks enemy and lowers ATK.#lvl1
+> END STRING
+
+> BEGIN STRING
+はウェポンブレイクを放った！
+> CONTEXT: Skills/105/message1/
+ uses Weapon Break!#lvl1
+> END STRING
+
+> BEGIN STRING
+アーマーブレイク
+> CONTEXT: Skills/106/name/
+Armour Break#lvl1
+> END STRING
+
+> BEGIN STRING
+敵単体に必中攻撃を行い、防御力を少し下げる。
+> CONTEXT: Skills/106/description/
+Attacks enemy and lowers DEF.#lvl1
+> END STRING
+
+> BEGIN STRING
+はアーマーブレイクを放った！
+> CONTEXT: Skills/106/message1/
+ uses Armour Break!#lvl1
+> END STRING
+
+> BEGIN STRING
+絶影
+> CONTEXT: Skills/107/name/
+Zero Shadow#lvl1
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の敏捷性を大幅に上げる。
+> CONTEXT: Skills/107/description/
+For 5 turns, greatly boost AGI for user.#lvl1
+> END STRING
+
+> BEGIN STRING
+は絶影を使った！
+> CONTEXT: Skills/107/message1/
+ uses Zero Shadow!#lvl1
+> END STRING
+
+> BEGIN STRING
+トリプルショット
+> CONTEXT: Skills/108/name/
+Triple Shot#lvl1
+> END STRING
+
+> BEGIN STRING
+弓技。敵３体に対して強力な攻撃を行う。
+ダメージは使用者の攻撃力と敏捷性に依存する。
+> CONTEXT: Skills/108/description/
+Bow Skill. Strong attack against 3 random enemies.
+Damage is based on user's ATK and AGI.#lvl1
+> END STRING
+
+> BEGIN STRING
+はトリプルショットを放った！
+> CONTEXT: Skills/108/message1/
+ uses Triple Shot!#lvl1
+> END STRING
+
+> BEGIN STRING
+サウザンドアロー
+> CONTEXT: Skills/109/name/
+Thousand Arrows#lvl1
+> END STRING
+
+> BEGIN STRING
+弓技。敵全体に対して３回攻撃を行う。
+ダメージは使用者の攻撃力と敏捷性に依存する。
+> CONTEXT: Skills/109/description/
+Bow Skill. Strong attack against all enemies 3 times.
+Damage is based on user's ATK and AGI.#lvl1
+> END STRING
+
+> BEGIN STRING
+はサウザンドアローを放った！
+> CONTEXT: Skills/109/message1/
+ uses Thousand Arrows!#lvl1
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の狙われやすさを下げる。
+> CONTEXT: Skills/110/description/
+For 5 turns, user is less likely to be attacked.#lvl1
+> END STRING
+
+> BEGIN STRING
+は気配を消した！
+> CONTEXT: Skills/110/message1/
+ uses Vanish!#lvl1
+> END STRING
+
+> BEGIN STRING
+閃光玉
+> CONTEXT: Skills/111/name/
+Flare#lvl1
+> END STRING
+
+> BEGIN STRING
+は閃光玉を使った！
+> CONTEXT: Skills/111/message1/
+ uses Flare!#lvl1
+> END STRING
+
+> BEGIN STRING
+盗賊の悪運
+> CONTEXT: Skills/112/name/
+Thief's Luck#lvl1
+> END STRING
+
+> BEGIN STRING
+８ターンの間、使用者の運を大幅に上げる。
+> CONTEXT: Skills/112/description/
+For 8 turns, greatly boost LUK for user.#lvl1
+> END STRING
+
+> BEGIN STRING
+は盗賊の悪運を使った！
+> CONTEXT: Skills/112/message1/
+ uses Thief's Luck!#lvl1
+> END STRING
+
+> BEGIN STRING
+アサシンエッジ
+> CONTEXT: Skills/113/name/
+Assassin's Edge#lvl1
+> END STRING
+
+> BEGIN STRING
+短剣技。敵単体に対して強力な２回攻撃を行う。
+ダメージは使用者の攻撃力と運に依存する。
+> CONTEXT: Skills/113/description/
+Dagger Skill. Strong attack hits one enemy twice.
+Damage is based on user's ATK and LUK.#lvl1
+> END STRING
+
+> BEGIN STRING
+はアサシンエッジを放った！
+> CONTEXT: Skills/113/message1/
+ uses Assassin's Edge#lvl1
+> END STRING
+
+> BEGIN STRING
+ヴァリアントエッジ
+> CONTEXT: Skills/114/name/
+Valiant Edge#lvl1
+> END STRING
+
+> BEGIN STRING
+短剣技。敵４体に対して強力な攻撃を行う。
+ダメージは使用者の攻撃力と運に依存する。
+> CONTEXT: Skills/114/description/
+Dagger Skill. Strong attack hits 4 random enemies.
+Damage is based on user's ATK and LUK.#lvl1
+> END STRING
+
+> BEGIN STRING
+はヴァリアントエッジを放った！
+> CONTEXT: Skills/114/message1/
+ uses Valiant Edge!#lvl1
+> END STRING
+
+> BEGIN STRING
+聖霊の祝福
+> CONTEXT: Skills/115/name/
+Blessing of the Holy Spirit#MTLed
+> END STRING
+
+> BEGIN STRING
+３ターンの間、味方全体の防御力を少し上げる。
+> CONTEXT: Skills/115/description/
+Spirit's Blessing#lvl1
+> END STRING
+
+> BEGIN STRING
+は聖霊の祝福を使った！
+> CONTEXT: Skills/115/message1/
+ uses Holy Blessing!#lvl1
+> END STRING
+
+> BEGIN STRING
+妖精の息吹
+> CONTEXT: Skills/116/name/
+Fairy's Breath#lvl1
+> END STRING
+
+> BEGIN STRING
+４ターンの間、味方全体をＨＰ自動回復状態にする。
+> CONTEXT: Skills/116/description/
+For 4 turns, regenerate party's HP.#lvl1
+> END STRING
+
+> BEGIN STRING
+は妖精の息吹を使った！
+> CONTEXT: Skills/116/message1/
+ uses Fairy's Breath!#lvl1
+> END STRING
+
+> BEGIN STRING
+神罰
+> CONTEXT: Skills/117/name/
+God's Will#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体に対して、魔法力依存の神聖属性攻撃を行う。
+> CONTEXT: Skills/117/description/
+Holy damage against all enemies.#lvl1
+> END STRING
+
+> BEGIN STRING
+は神罰を放った！
+> CONTEXT: Skills/117/message1/
+ uses God's Will!#lvl1
+> END STRING
+
+> BEGIN STRING
+女神の加護
+> CONTEXT: Skills/118/name/
+Goddess' Embrace#lvl1
+> END STRING
+
+> BEGIN STRING
+７ターンの間、味方全体の防御力と魔法防御を大幅に上げる。
+> CONTEXT: Skills/118/description/
+For 7 turns, greatly increase DEF and MDF for party.#lvl1
+> END STRING
+
+> BEGIN STRING
+は女神の加護を使った！
+> CONTEXT: Skills/118/message1/
+ uses Goddess' Embrace!#lvl1
+> END STRING
+
+> BEGIN STRING
+１ターンの間、敵の魔法攻撃を跳ね返す。
+> CONTEXT: Skills/119/description/
+For 1 turn, reflect enemy magic attacks.#lvl1
+> END STRING
+
+> BEGIN STRING
+は敵の魔法攻撃に備えている。
+> CONTEXT: Skills/119/message1/
+ uses Magic Reflect!#lvl1
+> END STRING
+
+> BEGIN STRING
+スペルエンハンス
+> CONTEXT: Skills/120/name/
+Enhance Spell#lvl1
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の魔法力を大幅に上げる。
+> CONTEXT: Skills/120/description/
+For 5 turns, greatly increase user's MAT.#lvl1
+> END STRING
+
+> BEGIN STRING
+はスペルエンハンスを使った！
+> CONTEXT: Skills/120/message1/
+ uses Enhance Spell!#lvl1
+> END STRING
+
+> BEGIN STRING
+ナイトメア
+> CONTEXT: Skills/121/name/
+Nightmare#lvl1
+> END STRING
+
+> BEGIN STRING
+敵全体を睡眠状態にし、魔法防御を大幅に下げる。
+> CONTEXT: Skills/121/description/
+Puts all enemies to sleep and greatly lower their MDF.#lvl1
+> END STRING
+
+> BEGIN STRING
+はナイトメアを放った！
+> CONTEXT: Skills/121/message1/
+ uses Nightmare!#lvl1
+> END STRING
+
+> BEGIN STRING
+魔力の奔流
+> CONTEXT: Skills/122/name/
+Magic Torrent#lvl1
+> END STRING
+
+> BEGIN STRING
+使用者のＭＰを最大値の50％回復する。
+> CONTEXT: Skills/122/description/
+Recovers 50% of MaxMP.#lvl1
+> END STRING
+
+> BEGIN STRING
+は魔力の奔流を使った！
+> CONTEXT: Skills/122/message1/
+ uses Magic Torrent!#lvl1
+> END STRING
+
+> BEGIN STRING
+魔脈のオーラ
+> CONTEXT: Skills/123/name/
+Magic Pulse#lvl1
+> END STRING
+
+> BEGIN STRING
+４ターンの間、使用者をＭＰ自動回復状態にする。
+> CONTEXT: Skills/123/description/
+For 4 turns, user has MP regen.#lvl1
+> END STRING
+
+> BEGIN STRING
+は魔脈のオーラを使った！
+> CONTEXT: Skills/123/message1/
+ uses Magic Pulse!#lvl1
+> END STRING
+
+> BEGIN STRING
+絶対魔法防御
+> CONTEXT: Skills/124/name/
+Spell Resistance#lvl1
+> END STRING
+
+> BEGIN STRING
+３ターンの間、使用者への魔法攻撃を打ち消す。
+> CONTEXT: Skills/124/description/
+For 3 turns, user evades all magic attacks.#lvl1
+> END STRING
+
+> BEGIN STRING
+は絶対魔法防御を使った！
+> CONTEXT: Skills/124/message1/
+ uses Spell Resistance!#lvl1
+> END STRING
+
+> BEGIN STRING
+マナの光輝
+> CONTEXT: Skills/125/name/
+Mana Barrier#lvl1
+> END STRING
+
+> BEGIN STRING
+５ターンの間、味方全体の状態異常を防止する。
+> CONTEXT: Skills/125/description/
+For 5 turns, party is immune to status ailments.#lvl1
+> END STRING
+
+> BEGIN STRING
+はマナの光輝を使った！
+> CONTEXT: Skills/125/message1/
+ uses Mana Barrier!#lvl1
+> END STRING
+
+> BEGIN STRING
+魔道の秘儀
+> CONTEXT: Skills/126/name/
+Mystic Spell#lvl1
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の消費ＭＰを大幅に減らす。
+> CONTEXT: Skills/126/description/
+For 5 turns, reduce the MP cost of spells for user.#lvl1
+> END STRING
+
+> BEGIN STRING
+は魔道の秘儀を使った！
+> CONTEXT: Skills/126/message1/
+ uses Mystic Spell!#lvl1
+> END STRING
+
+> BEGIN STRING
+パワースラッシュ
+> CONTEXT: Skills/129/name/
+> CONTEXT: Skills/182/name/
+Power slash#MTLed
+> END STRING
+
+> BEGIN STRING
+気力を消費してダメージの高い斬撃を繰り出す。
+> CONTEXT: Skills/129/description/
+Consume power and pull out high damage damage.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+のパワースラッシュ！
+> CONTEXT: Skills/129/message1/
+> CONTEXT: Skills/182/message1/
+> CONTEXT: Skills/372/message1/
+Power slash!#MTLed
+> END STRING
+
+> BEGIN STRING
+クイックスラッシュ
+> CONTEXT: Skills/130/name/
+> CONTEXT: Skills/140/name/
+Quick slash#MTLed
+> END STRING
+
+> BEGIN STRING
+気力を消費して先制攻撃を行う。
+> CONTEXT: None < UNUSED
+Consume power and preempt first strike.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+のクイックスラッシュ！
+> CONTEXT: Skills/130/message1/
+> CONTEXT: Skills/140/message1/
+Quick slash of!#MTLed
+> END STRING
+
+> BEGIN STRING
+マッシュブースト
+> CONTEXT: Skills/131/name/
+Mash boost#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃力、防御力、魔法防御、敏捷性を
+１０ターンの間上昇させる。
+> CONTEXT: Skills/131/description/
+Attack power, defense power, magic defense, agility. Raise
+for 10 turns.#MTLed
+> END STRING
+
+> BEGIN STRING
+はキノコの力でパワーアップ！
+> CONTEXT: Skills/131/message1/
+Power up with the power of mushrooms!#MTLed
+> END STRING
+
+> BEGIN STRING
+精神統一
+> CONTEXT: Skills/132/name/
+Spiritual unity#MTLed
+> END STRING
+
+> BEGIN STRING
+勃起状態を治療し、性感度を10下げる。
+> CONTEXT: Skills/132/description/
+Treat erectile condition and lower sex sensitivity by 10.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+は呼吸を整えた！
+> CONTEXT: Skills/132/message1/
+He prepared the breath!#MTLed
+> END STRING
+
+> BEGIN STRING
+OPシェリー通常攻撃
+> CONTEXT: Skills/133/name/
+OP Shelley regular attack#MTLed
+> END STRING
+
+> BEGIN STRING
+OPトリプルスラスト
+> CONTEXT: Skills/134/name/
+OP triple thrust#MTLed
+> END STRING
+
+> BEGIN STRING
+三連突き
+> CONTEXT: Skills/134/description/
+> CONTEXT: Skills/204/description/
+> CONTEXT: Skills/303/description/
+Triple thrust
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+の必殺技、トリプルスラスト！
+> CONTEXT: Skills/134/message1/
+> CONTEXT: Skills/204/message1/
+> CONTEXT: Skills/229/message1/
+> CONTEXT: Skills/303/message1/
+Its Special Moves, Triple Thrust!#MTLed
+> END STRING
+
+> BEGIN STRING
+三連撃が\\N[12]を襲う！
+> CONTEXT: Skills/134/message2/
+> CONTEXT: Skills/204/message2/
+> CONTEXT: Skills/303/message2/
+Three consecutive shots \\N[12] Attack!#MTLed
+> END STRING
+
+> BEGIN STRING
+OPシェリークラッシュ
+> CONTEXT: Skills/135/name/
+OP Sherry crash#MTLed
+> END STRING
+
+> BEGIN STRING
+の必殺技、クロスクラッシュ！
+> CONTEXT: Skills/135/message1/
+> CONTEXT: Skills/205/message1/
+> CONTEXT: Skills/230/message1/
+> CONTEXT: Skills/304/message1/
+> CONTEXT: Skills/330/message1/
+Its Special Moves, Cross Crash!#MTLed
+> END STRING
+
+> BEGIN STRING
+OP力溜め
+> CONTEXT: Skills/136/name/
+OP power pool#MTLed
+> END STRING
+
+> BEGIN STRING
+は構えを取った。
+> CONTEXT: Skills/136/message1/
+> CONTEXT: Skills/206/message1/
+He took a stand.#MTLed
+> END STRING
+
+> BEGIN STRING
+【汎用】エロ攻撃MP吸収用
+> CONTEXT: Skills/137/name/
+[General purpose] Erotic attack MP absorption#MTLed
+> END STRING
+
+> BEGIN STRING
+20
+> CONTEXT: Skills/137/description/
+20
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+敵全体に対して攻撃を行う。
+威力は通常攻撃の80%。
+> CONTEXT: Skills/138/description/
+> CONTEXT: Skills/308/description/
+Attack against the entire enemy. The power is 80% of normal
+attack.#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン専用
+> CONTEXT: Skills/139/description/
+Only for Jane
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+気力を消費して先制攻撃を行う。ジェーン専用
+> CONTEXT: Skills/140/description/
+Consume power and preempt first strike. Only for Jane
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+気合
+> CONTEXT: Skills/141/name/
+Fired up#MTLed
+> END STRING
+
+> BEGIN STRING
+気合を入れて体力を回復する。
+技力ではなく精神を消費して発動するため、注意が必要。
+> CONTEXT: Skills/141/description/
+\\}Restore your physical strength with spirit. Attention is necessary
+because it activates by consuming spirit rather than skill.#MTLed
+> END STRING
+
+> BEGIN STRING
+は気合を入れた！
+> CONTEXT: Skills/141/message1/
+I was fired up!#MTLed
+> END STRING
+
+> BEGIN STRING
+エッジストーム
+> CONTEXT: Skills/142/name/
+> CONTEXT: Skills/312/name/
+Edge Storm#MTLed
+> END STRING
+
+> BEGIN STRING
+嵐のように斬撃を見舞って敵を切り裂く、手数重視の剣技。
+単体の敵に対し４回連続で攻撃する。
+> CONTEXT: Skills/142/description/
+\\}Swinging enemies by hitting slash like a storm, sword skill with a hand weight.
+It attacks a single enemy four times in a row.#MTLed
+> END STRING
+
+> BEGIN STRING
+は素早く連続で敵を斬りつける！
+> CONTEXT: Skills/142/message1/
+> CONTEXT: Skills/312/message1/
+Quickly slash enemies in a row!#MTLed
+> END STRING
+
+> BEGIN STRING
+マジックバリア
+> CONTEXT: Skills/143/name/
+Magic Barrier#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法ダメージを軽減するフィールドを展開する。
+持続５ターン。
+> CONTEXT: Skills/143/description/
+Expand the field to magic damage reduction. Sustained 5
+turns.#MTLed
+> END STRING
+
+> BEGIN STRING
+はマジックバリアを展開した！
+> CONTEXT: Skills/143/message1/
+Developed Magic Barrier!#MTLed
+> END STRING
+
+> BEGIN STRING
+エレメンタルボム
+> CONTEXT: Skills/144/name/
+Elemental Bomb#MTLed
+> END STRING
+
+> BEGIN STRING
+精霊の力を借り、魔力の塊を作り出して相手にぶつける。
+技力ではなく精神力を消費する。
+> CONTEXT: Skills/144/description/
+\\}I borrow the power of a spirit, create a chunk of magical
+power and strike the opponent. It consumes mental power, not technical ability.#MTLed
+> END STRING
+
+> BEGIN STRING
+はエレメンタルボムを放った！
+> CONTEXT: Skills/144/message1/
+He released Elemental Bomb!#MTLed
+> END STRING
+
+> BEGIN STRING
+【汎用】エロ攻撃MPダメージ用
+> CONTEXT: Skills/145/name/
+> CONTEXT: Skills/146/name/
+> CONTEXT: Skills/147/name/
+> CONTEXT: Skills/148/name/
+> CONTEXT: Skills/326/name/
+[General purpose] For erotic attack MP damage#MTLed
+> END STRING
+
+> BEGIN STRING
+18
+> CONTEXT: Skills/145/description/
+> CONTEXT: Skills/326/description/
+18
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+12
+> CONTEXT: Skills/146/description/
+12
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+8
+> CONTEXT: Skills/147/description/
+8
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+5
+> CONTEXT: Skills/148/description/
+Five
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ベルおっぱい押し付け
+> CONTEXT: Skills/149/name/
+Bell breast pressed#MTLed
+> END STRING
+
+> BEGIN STRING
+はおっぱいを\\N[12]の顔に
+> CONTEXT: Skills/149/message1/
+> CONTEXT: Skills/167/message1/
+Have a tits \\N[12] On the face of#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐりぐりと押し付けてきた！
+> CONTEXT: Skills/149/message2/
+> CONTEXT: Skills/167/message2/
+* rub with * rub!#MTLed
+> END STRING
+
+> BEGIN STRING
+胸チラ
+> CONTEXT: Skills/150/name/
+Chest chilla#MTLed
+> END STRING
+
+> BEGIN STRING
+胸押し付け三連に変更する？
+> CONTEXT: Skills/150/description/
+Change to thrust thrust triplets?
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+は胸の谷間を見せつけてきた！
+> CONTEXT: Skills/150/message1/
+> CONTEXT: Skills/157/message1/
+He showed a cleavage in my chest!#MTLed
+> END STRING
+
+> BEGIN STRING
+パンチラ
+> CONTEXT: Skills/151/name/
+> CONTEXT: Skills/195/name/
+> CONTEXT: Skills/198/name/
+Panty shot#MTLed
+> END STRING
+
+> BEGIN STRING
+はスカートをめくり、
+> CONTEXT: Skills/151/message1/
+> CONTEXT: Skills/195/message1/
+> CONTEXT: Skills/198/message1/
+> CONTEXT: Skills/338/message1/
+> CONTEXT: Skills/352/message1/
+He turned the skirt,#MTLed
+> END STRING
+
+> BEGIN STRING
+パンツを見せつけてきた！
+> CONTEXT: Skills/151/message2/
+> CONTEXT: Skills/195/message2/
+> CONTEXT: Skills/198/message2/
+I showed panties!#MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱいアタック
+> CONTEXT: Skills/152/name/
+> CONTEXT: Skills/178/name/
+> CONTEXT: Skills/323/name/
+Breast Attack#MTLed
+> END STRING
+
+> BEGIN STRING
+は胸を突き出し、\\N[12]の顔に
+> CONTEXT: Skills/152/message1/
+> CONTEXT: Skills/178/message1/
+> CONTEXT: Skills/323/message1/
+He thrusts his chest, \\N[12] On the face of#MTLed
+> END STRING
+
+> BEGIN STRING
+ぶつけてきた！
+> CONTEXT: Skills/152/message2/
+> CONTEXT: Skills/178/message2/
+> CONTEXT: Skills/323/message2/
+I hit it!#MTLed
+> END STRING
+
+> BEGIN STRING
+のパンチラキック！
+> CONTEXT: Skills/153/message1/
+> CONTEXT: Skills/171/message1/
+> CONTEXT: Skills/196/message1/
+> CONTEXT: Skills/199/message1/
+> CONTEXT: Skills/320/message1/
+Panty shot kick!#MTLed
+> END STRING
+
+> BEGIN STRING
+デスキッス
+> CONTEXT: Skills/154/name/
+Deskiss#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]に顔を近づけ、
+> CONTEXT: Skills/154/message1/
+> CONTEXT: Skills/281/message1/
+> CONTEXT: Skills/347/message1/
+Is \\N[12] Keep your face close,#MTLed
+> END STRING
+
+> BEGIN STRING
+キスをしてきた！
+> CONTEXT: Skills/154/message2/
+> CONTEXT: Skills/281/message2/
+> CONTEXT: Skills/283/message2/
+> CONTEXT: Skills/347/message2/
+> CONTEXT: Skills/349/message2/
+I have kissed you!#MTLed
+> END STRING
+
+> BEGIN STRING
+キス
+> CONTEXT: Skills/155/name/
+> CONTEXT: Skills/281/name/
+Kiss#MTLed
+> CONTEXT: Map153/events/18/pages/0/31/Choice/2
+> CONTEXT: Map152/events/97/pages/7/0/Choice/3
+kiss#MTLed
+> CONTEXT: Map153/events/18/pages/0/46/Dialogue
+kiss#MTLed
+> END STRING
+
+> BEGIN STRING
+投げキッス
+> CONTEXT: Skills/156/name/
+> CONTEXT: Skills/173/name/
+> CONTEXT: Skills/194/name/
+> CONTEXT: Skills/197/name/
+> CONTEXT: Skills/321/name/
+Throw kiss#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディットの魅了攻撃
+> CONTEXT: Skills/156/description/
+> CONTEXT: Skills/173/description/
+> CONTEXT: Skills/194/description/
+> CONTEXT: Skills/197/description/
+> CONTEXT: Skills/321/description/
+Fascination attack of sexy bandit
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+の投げキッス！
+> CONTEXT: Skills/156/message1/
+> CONTEXT: Skills/173/message1/
+> CONTEXT: Skills/194/message1/
+> CONTEXT: Skills/197/message1/
+> CONTEXT: Skills/321/message1/
+Throwing Kiss!#MTLed
+> END STRING
+
+> BEGIN STRING
+ちらり
+> CONTEXT: Skills/157/name/
+Glance#MTLed
+> END STRING
+
+> BEGIN STRING
+スリットからのぞく太ももをちらりと見せる
+> CONTEXT: Skills/157/description/
+Gently glance thighs peeping through the slit
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ヒップアタック
+> CONTEXT: Skills/158/name/
+> CONTEXT: Skills/175/name/
+> CONTEXT: Skills/318/name/
+Hip Attack#MTLed
+> CONTEXT: Map152/events/97/pages/7/0/Choice/2
+Hip Attack#MTLed
+> END STRING
+
+> BEGIN STRING
+のヒップアタック！
+> CONTEXT: Skills/158/message1/
+> CONTEXT: Skills/159/message1/
+> CONTEXT: Skills/175/message1/
+> CONTEXT: Skills/280/message1/
+> CONTEXT: Skills/292/message1/
+> CONTEXT: Skills/293/message1/
+> CONTEXT: Skills/318/message1/
+> CONTEXT: Skills/319/message1/
+> CONTEXT: Skills/345/message1/
+Hip Attack!#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータのお尻が\\N[12]の顔面を打つ！
+> CONTEXT: Skills/158/message2/
+> CONTEXT: Skills/175/message2/
+> CONTEXT: Skills/318/message2/
+Lolita's ass \\N[12] Hit the face of!#MTLed
+> END STRING
+
+> BEGIN STRING
+ヒップアタック（金的）
+> CONTEXT: Skills/159/name/
+> CONTEXT: Skills/319/name/
+Hip Attack (Kim)#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータのお尻が\\N[12]の股間を打つ！
+> CONTEXT: Skills/159/message2/
+> CONTEXT: Skills/319/message2/
+Lolita's ass \\N[12] Hit the groin of!#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリ再変身
+> CONTEXT: Skills/160/name/
+Loli transformer again#MTLed
+> END STRING
+
+> BEGIN STRING
+はスカートを戻した。
+> CONTEXT: Skills/160/message1/
+He put back the skirt.#MTLed
+> END STRING
+
+> BEGIN STRING
+金的蹴り
+> CONTEXT: Skills/161/name/
+> CONTEXT: Skills/172/name/
+> CONTEXT: Skills/357/name/
+> CONTEXT: Skills/365/name/
+Money kick#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]の股間を蹴り上げてきた！
+> CONTEXT: Skills/161/message1/
+> CONTEXT: Skills/172/message1/
+> CONTEXT: Skills/276/message1/
+> CONTEXT: Skills/357/message1/
+> CONTEXT: Skills/365/message1/
+Is \\N[12] I kicked up my groin!#MTLed
+> END STRING
+
+> BEGIN STRING
+ガール攻撃
+> CONTEXT: Skills/162/name/
+Girl attack#MTLed
+> END STRING
+
+> BEGIN STRING
+フレイムウィップ
+> CONTEXT: Skills/163/name/
+> CONTEXT: Skills/174/name/
+> CONTEXT: Skills/359/name/
+Flame Whip#MTLed
+> END STRING
+
+> BEGIN STRING
+の必殺技、フレイムウィップ！
+> CONTEXT: Skills/163/message1/
+> CONTEXT: Skills/174/message1/
+> CONTEXT: Skills/359/message1/
+Its Special Moves, Flame Whip!#MTLed
+> END STRING
+
+> BEGIN STRING
+グラップルラッシュ
+> CONTEXT: Skills/164/name/
+> CONTEXT: Skills/166/name/
+Grapple rush#MTLed
+> END STRING
+
+> BEGIN STRING
+の必殺技、ラピッドラッシュ！
+> CONTEXT: Skills/164/message1/
+> CONTEXT: Skills/166/message1/
+Its Special Moves, Rapid Rush!#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーおっぱい押し付け
+> CONTEXT: Skills/167/name/
+Sexy boobs pushing#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディットバージョン
+> CONTEXT: Skills/167/description/
+sexy bandit version
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+スパークボルト
+> CONTEXT: Skills/168/name/
+Spark bolt#MTLed
+> END STRING
+
+> BEGIN STRING
+はスパークボルトを唱えた！
+> CONTEXT: Skills/168/message1/
+He spoke a spark bolt!#MTLed
+> END STRING
+
+> BEGIN STRING
+敵全体を魅了状態にする。
+> CONTEXT: Skills/169/description/
+> CONTEXT: Skills/245/description/
+Attract enemies as a whole.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+笑い
+> CONTEXT: Skills/170/name/
+> CONTEXT: Skills/316/name/
+A laugh#MTLed
+> END STRING
+
+> BEGIN STRING
+はくすくす笑っている！
+> CONTEXT: Skills/170/message1/
+I am laughing!#MTLed
+> END STRING
+
+> BEGIN STRING
+MP死亡時
+> CONTEXT: Skills/171/description/
+> CONTEXT: Skills/172/description/
+MP death
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱいエンド
+> CONTEXT: Skills/176/name/
+Breast end#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシー
+> CONTEXT: Skills/176/description/
+sexy
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]の顔を強く抱きしめ、
+> CONTEXT: Skills/176/message1/
+> CONTEXT: Skills/177/message1/
+Is \\N[12] Hold your face strongly,#MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱいに埋もれさせてくる――
+> CONTEXT: Skills/176/message2/
+> CONTEXT: Skills/177/message2/
+I will make you buried in boobs -#MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱいエンド２
+> CONTEXT: Skills/177/name/
+Breast end 2#MTLed
+> END STRING
+
+> BEGIN STRING
+ベル
+> CONTEXT: Skills/177/description/
+bell
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+精気吸収
+> CONTEXT: Skills/179/name/
+> CONTEXT: Skills/180/name/
+> CONTEXT: Skills/181/name/
+> CONTEXT: Skills/275/name/
+Mentality absorption#MTLed
+> END STRING
+
+> BEGIN STRING
+敵単体のＨＰを吸収する。負け用
+> CONTEXT: Skills/179/description/
+Absorb an enemy unit HP. For defeat
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]の肌に吸い付き、
+> CONTEXT: Skills/179/message1/
+> CONTEXT: Skills/181/message1/
+Is \\N[12] It sucks on your skin,#MTLed
+> END STRING
+
+> BEGIN STRING
+精気を吸い取ろうとしてくる！
+> CONTEXT: Skills/179/message2/
+> CONTEXT: Skills/181/message2/
+I will try to suck the mind!#MTLed
+> END STRING
+
+> BEGIN STRING
+フェアリーの吸収攻撃
+> CONTEXT: Skills/180/description/
+Faerie's Absorption Attack
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+は精気を吸収しようとしてくる！
+> CONTEXT: Skills/180/message1/
+He will try to absorb the mind!#MTLed
+> END STRING
+
+> BEGIN STRING
+敵単体のＨＰを吸収する。トドメ
+> CONTEXT: Skills/181/description/
+Absorb an enemy unit HP. finisher
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ソードシーフ用
+> CONTEXT: Skills/182/description/
+For sword thief
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃（鞭）
+> CONTEXT: Skills/185/name/
+Attack (whip)#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃(刺突)
+> CONTEXT: Skills/186/name/
+> CONTEXT: Skills/189/name/
+Attack (piercing)#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃（斬撃）
+> CONTEXT: Skills/187/name/
+> CONTEXT: Skills/277/name/
+Attack (slash)#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃（氷）
+> CONTEXT: Skills/188/name/
+Attack (ice)#MTLed
+> END STRING
+
+> BEGIN STRING
+敵単体にダメージを与える。必中Ver
+> CONTEXT: Skills/189/description/
+It gives the damage to a single enemy. Mandatory Ver
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃（棍棒）
+> CONTEXT: Skills/190/name/
+Attack (club)#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃（棍棒会心あり）
+> CONTEXT: Skills/191/name/
+Attack (with club membership)#MTLed
+> END STRING
+
+> BEGIN STRING
+は棍棒を振り回してきた！
+> CONTEXT: Skills/191/message1/
+He has swayed the club stick!#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃(爪)
+> CONTEXT: Skills/192/name/
+Attack (nail)#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃（氷斬撃）
+> CONTEXT: Skills/193/name/
+Attack (ice slashing)#MTLed
+> END STRING
+
+> BEGIN STRING
+三人用
+> CONTEXT: Skills/195/description/
+> CONTEXT: Skills/196/description/
+> CONTEXT: Skills/198/description/
+> CONTEXT: Skills/199/description/
+For three people
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+アイスランス
+> CONTEXT: Skills/202/name/
+Iceland#MTLed
+> END STRING
+
+> BEGIN STRING
+の氷結魔法、アイスランス！
+> CONTEXT: Skills/202/message1/
+Ice magic, ice rance!#MTLed
+> END STRING
+
+> BEGIN STRING
+アイスクラッシュ
+> CONTEXT: Skills/203/name/
+Ice crash#MTLed
+> END STRING
+
+> BEGIN STRING
+の氷結魔法、アイスクラッシュ！
+> CONTEXT: Skills/203/message1/
+Ice magic, ice crush!#MTLed
+> END STRING
+
+> BEGIN STRING
+トリプルスラスト
+> CONTEXT: Skills/204/name/
+> CONTEXT: Skills/229/name/
+> CONTEXT: Skills/303/name/
+Triple Thrust#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリークラッシュ
+> CONTEXT: Skills/205/name/
+Sherry crash#MTLed
+> END STRING
+
+> BEGIN STRING
+力溜め
+> CONTEXT: Skills/206/name/
+Force reservoir#MTLed
+> END STRING
+
+> BEGIN STRING
+タイダル
+> CONTEXT: Skills/207/name/
+Tidal#MTLed
+> END STRING
+
+> BEGIN STRING
+はタイダルウェーブを唱えた！
+> CONTEXT: Skills/207/message1/
+He spoke Tidal Wave!#MTLed
+> END STRING
+
+> BEGIN STRING
+催淫の胞子
+> CONTEXT: Skills/211/name/
+Aphrodisiac spore#MTLed
+> END STRING
+
+> BEGIN STRING
+は催淫胞子を撒き散らした！
+> CONTEXT: Skills/211/message1/
+I scattered aphrodisiac spores!#MTLed
+> END STRING
+
+> BEGIN STRING
+サンダーボルト
+> CONTEXT: Skills/212/name/
+Thunder bolt#MTLed
+> END STRING
+
+> BEGIN STRING
+はサンダーボルトを唱えた！
+> CONTEXT: Skills/212/message1/
+I cast Thunderbolt!#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミアしっぽで拘束
+> CONTEXT: Skills/213/name/
+Restrained by lamia tail#MTLed
+> END STRING
+
+> BEGIN STRING
+は尾で\\N[12]に巻き付いてくる！
+> CONTEXT: Skills/213/message1/
+> CONTEXT: Skills/217/message1/
+With the tail \\N[12] It comes around!#MTLed
+> END STRING
+
+> BEGIN STRING
+締め上げ
+> CONTEXT: Skills/214/name/
+Tighten up#MTLed
+> END STRING
+
+> BEGIN STRING
+の締めつけ攻撃！
+> CONTEXT: Skills/214/message1/
+Tightening attack!#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミア拘束
+> CONTEXT: Skills/215/name/
+Lamia restraint#MTLed
+> END STRING
+
+> BEGIN STRING
+の尾が\\N[12]の体に巻き付く！
+> CONTEXT: Skills/215/message1/
+The tail of \\N[12] Winding around the body!#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ触手攻撃
+> CONTEXT: Skills/216/name/
+Alraune tentacle attack#MTLed
+> END STRING
+
+> BEGIN STRING
+はツタで連続攻撃してきた！
+> CONTEXT: Skills/216/message1/
+I have been attacking continuously with ivy!#MTLed
+> END STRING
+
+> BEGIN STRING
+メイジラミアしっぽで拘束
+> CONTEXT: Skills/217/name/
+Restrained by lamia mage tail#MTLed
+> END STRING
+
+> BEGIN STRING
+人喰い草触手
+> CONTEXT: Skills/218/name/
+Human eating grass tentacles#MTLed
+> END STRING
+
+> BEGIN STRING
+の触手が\\N[12]を襲う！
+> CONTEXT: Skills/218/message1/
+The tentacle of \\N[12] Attack!#MTLed
+> END STRING
+
+> BEGIN STRING
+バインドボルト
+> CONTEXT: Skills/219/name/
+Bind bolt#MTLed
+> END STRING
+
+> BEGIN STRING
+の魔法、バインドボルト！
+> CONTEXT: Skills/219/message1/
+Magic, bind bolt!#MTLed
+> END STRING
+
+> BEGIN STRING
+メイジラミア締め上げ
+> CONTEXT: Skills/220/name/
+Tighten up lamia mage#MTLed
+> END STRING
+
+> BEGIN STRING
+の電撃締めつけ！
+> CONTEXT: Skills/220/message1/
+Tighten the electric shock!#MTLed
+> END STRING
+
+> BEGIN STRING
+ダミー電撃
+> CONTEXT: Skills/221/name/
+Dummy electric shock#MTLed
+> END STRING
+
+> BEGIN STRING
+は、\\N[12]に電撃を浴びせながら
+> CONTEXT: Skills/221/message1/
+Is \\N[12] While shooting electric shocks#MTLed
+> END STRING
+
+> BEGIN STRING
+尾で締め上げてくる！
+> CONTEXT: Skills/221/message2/
+I will tighten up with a tail!#MTLed
+> END STRING
+
+> BEGIN STRING
+は剣に電撃をまとわせた！
+> CONTEXT: Skills/222/message1/
+> CONTEXT: Skills/241/message1/
+He set the sword to lightning shock!#MTLed
+> END STRING
+
+> BEGIN STRING
+サンダースラッシュ
+> CONTEXT: Skills/223/name/
+Thunder slash#MTLed
+> END STRING
+
+> BEGIN STRING
+のサンダースラッシュ！
+> CONTEXT: Skills/223/message1/
+Thunder slash!#MTLed
+> END STRING
+
+> BEGIN STRING
+気付け
+> CONTEXT: Skills/225/name/
+Care#MTLed
+> END STRING
+
+> BEGIN STRING
+は気付けをした！
+> CONTEXT: Skills/225/message1/
+I noticed!#MTLed
+> END STRING
+
+> BEGIN STRING
+氷結の吐息
+> CONTEXT: Skills/227/name/
+Ice breath#MTLed
+> END STRING
+
+> BEGIN STRING
+は氷結の吐息を放った！
+> CONTEXT: Skills/227/message1/
+I breathed a sigh of freeze!#MTLed
+> END STRING
+
+> BEGIN STRING
+三連突き。
+> CONTEXT: Skills/229/description/
+Three row thrust.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+クロスクラッシュ
+> CONTEXT: Skills/230/name/
+> CONTEXT: Skills/304/name/
+> CONTEXT: Skills/330/name/
+Cross crash#MTLed
+> END STRING
+
+> BEGIN STRING
+強烈な二段攻撃。シェリーの必殺技。
+> CONTEXT: Skills/230/description/
+> CONTEXT: Skills/304/description/
+> CONTEXT: Skills/330/description/
+Strong two-step attack. Sherry's Special Move.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+癒しの呼吸
+> CONTEXT: Skills/231/name/
+Healing breathing#MTLed
+> END STRING
+
+> BEGIN STRING
+特殊な呼吸法で、体の奥底から体力を湧き上がらせる。
+技力ではなく精神を消費して発動するため、注意が必要。
+> CONTEXT: Skills/231/description/
+\\}With a special breathing method, I raise my physical
+strength from the bottom of my body. Attention is necessary because it#MTLed
+> END STRING
+
+> BEGIN STRING
+は癒しの呼吸を使った！
+> CONTEXT: Skills/231/message1/
+He used healing breathing!#MTLed
+> END STRING
+
+> BEGIN STRING
+フレイムスラッシュ
+> CONTEXT: Skills/232/name/
+> CONTEXT: Skills/311/name/
+Flame slash#MTLed
+> END STRING
+
+> BEGIN STRING
+フレイムソードの潜在能力。
+剣に炎をまとわせて斬りつける。
+> CONTEXT: Skills/232/description/
+Potential of Flame Sword. Put the sword in the flame and
+slash it.#MTLed
+> END STRING
+
+> BEGIN STRING
+のフレイムスラッシュ！
+> CONTEXT: Skills/232/message1/
+> CONTEXT: Skills/311/message1/
+Flame slash!#MTLed
+> END STRING
+
+> BEGIN STRING
+コールドスラッシュ
+> CONTEXT: Skills/233/name/
+Cold slash#MTLed
+> END STRING
+
+> BEGIN STRING
+アイスソードの潜在能力。
+剣に冷気をまとわせて斬りつける。
+> CONTEXT: Skills/233/description/
+Potential of ice sword. Put the sword in cool air and slash
+it.#MTLed
+> END STRING
+
+> BEGIN STRING
+のコールドスラッシュ！
+> CONTEXT: Skills/233/message1/
+Cold slash!#MTLed
+> END STRING
+
+> BEGIN STRING
+生気吸収
+> CONTEXT: Skills/234/name/
+> CONTEXT: Skills/236/name/
+Animal absorption#MTLed
+> END STRING
+
+> BEGIN STRING
+の生気吸収！
+> CONTEXT: Skills/234/message1/
+> CONTEXT: Skills/236/message1/
+Animation absorption!#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃（斬撃会心あり）
+> CONTEXT: Skills/235/name/
+Attack (with a slash fighting heart)#MTLed
+> END STRING
+
+> BEGIN STRING
+の重い攻撃！
+> CONTEXT: Skills/235/message1/
+Heavy attack!#MTLed
+> END STRING
+
+> BEGIN STRING
+アブソーブスラッシュ
+> CONTEXT: Skills/237/name/
+Absolute slash#MTLed
+> END STRING
+
+> BEGIN STRING
+吸収属性を持つ武器の潜在能力。
+斬りつけると同時に相手の生命力を吸収する。
+> CONTEXT: Skills/237/description/
+Potential of weapons with absorption attributes. As soon as
+you cut it you absorb the life force of the opponent.#MTLed
+> END STRING
+
+> BEGIN STRING
+のアブソーブスラッシュ！
+> CONTEXT: Skills/237/message1/
+Absolute slash of!#MTLed
+> END STRING
+
+> BEGIN STRING
+気合溜め
+> CONTEXT: Skills/238/name/
+Fighting squirrel#MTLed
+> END STRING
+
+> BEGIN STRING
+技力を溜め、さらに自分の攻撃力を少しの間増加させる。
+> CONTEXT: Skills/238/description/
+It accumulates skills, and further increases your attack
+power for a while.#MTLed
+> END STRING
+
+> BEGIN STRING
+は力を溜めている。
+> CONTEXT: Skills/238/message1/
+He is gaining power.#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナクラッシュ
+> CONTEXT: Skills/239/name/
+Mileena crash#MTLed
+> END STRING
+
+> BEGIN STRING
+渾身の力を込めた一撃。
+ミリーナの必殺技。
+> CONTEXT: Skills/239/description/
+A blow with the power of whole body. Mileena's Special
+Move.#MTLed
+> END STRING
+
+> BEGIN STRING
+は渾身の力を込めて大剣を振り下ろす！
+> CONTEXT: Skills/239/message1/
+Roll up the big sword with the power of whole body!#MTLed
+> END STRING
+
+> BEGIN STRING
+迅雷突き
+> CONTEXT: Skills/240/name/
+Thunder thrust#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナの必殺技
+> CONTEXT: Skills/240/description/
+Diana's Special Move
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+の迅雷三段突き！
+> CONTEXT: Skills/240/message1/
+> CONTEXT: Skills/364/message1/
+Thunder thunder thunder!#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバスキス
+> CONTEXT: Skills/243/name/
+Lesser succubus kiss#MTLed
+> END STRING
+
+> BEGIN STRING
+はキスをしてきた！
+> CONTEXT: Skills/243/message1/
+He has kissed!#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバスの柔らかな唇の感触が伝わる……
+> CONTEXT: Skills/243/message2/
+The soft lip feel of lesser succubus is conveyed ...#MTLed
+> END STRING
+
+> BEGIN STRING
+拘束キス
+> CONTEXT: Skills/244/name/
+Restraint kiss#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]を抱きしめてキスをする！
+> CONTEXT: Skills/244/message1/
+Is \\N[12] Hug you and kiss you!#MTLed
+> END STRING
+
+> BEGIN STRING
+安息の歌
+> CONTEXT: Skills/246/name/
+Sang Song#MTLed
+> END STRING
+
+> BEGIN STRING
+は安息に導く歌を歌った！
+> CONTEXT: Skills/246/message1/
+> CONTEXT: Skills/247/message1/
+He sang a song that leads to the rest!#MTLed
+> END STRING
+
+> BEGIN STRING
+セイレーンの歌声が\\N[12]の戦意を奪ってゆく……
+> CONTEXT: Skills/246/message2/
+> CONTEXT: Skills/247/message2/
+Siren's singing voice \\N[12] I will deprive the warfare of ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+痺れる歌
+> CONTEXT: Skills/247/name/
+A singing song#MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケン触手アタック
+> CONTEXT: Skills/248/name/
+Kraken tentacle attack#MTLed
+> END STRING
+
+> BEGIN STRING
+のイカ足による連続攻撃！
+> CONTEXT: Skills/248/message1/
+Continuous attack by squid foot!#MTLed
+> END STRING
+
+> BEGIN STRING
+クラゲマヒ攻撃
+> CONTEXT: Skills/249/name/
+Kragametmatism Attack#MTLed
+> END STRING
+
+> BEGIN STRING
+クラゲ用
+> CONTEXT: Skills/249/description/
+For jellyfish
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+の麻痺攻撃！
+> CONTEXT: Skills/249/message1/
+Paralysis Attack!#MTLed
+> END STRING
+
+> BEGIN STRING
+ヒップチャーム
+> CONTEXT: Skills/251/name/
+Hip charm#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]にお尻を見せつけながら
+> CONTEXT: Skills/251/message1/
+Is \\N[12] While showing your ass to#MTLed
+> END STRING
+
+> BEGIN STRING
+チャームを唱えた！
+> CONTEXT: Skills/251/message2/
+I called a charm!#MTLed
+> END STRING
+
+> BEGIN STRING
+ホーリースラッシュ
+> CONTEXT: Skills/252/name/
+> CONTEXT: Skills/327/name/
+Holy slash#MTLed
+> END STRING
+
+> BEGIN STRING
+のホーリースラッシュ！
+> CONTEXT: Skills/252/message1/
+> CONTEXT: Skills/327/message1/
+Holey slash!#MTLed
+> END STRING
+
+> BEGIN STRING
+ホーリーバースト
+> CONTEXT: Skills/253/name/
+> CONTEXT: Skills/296/name/
+Holy Burst#MTLed
+> END STRING
+
+> BEGIN STRING
+の神聖魔法、ホーリーバースト！
+> CONTEXT: Skills/253/message1/
+> CONTEXT: Skills/296/message1/
+Holy Magic of the Holy Burst!#MTLed
+> END STRING
+
+> BEGIN STRING
+フレイムウォール
+> CONTEXT: Skills/254/name/
+Flame Wall#MTLed
+> END STRING
+
+> BEGIN STRING
+「いっけー、ファイアーウォール！」
+> CONTEXT: Skills/254/message1/
+「It's a firewall!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サンダーバースト
+> CONTEXT: Skills/255/name/
+Thunderburst#MTLed
+> END STRING
+
+> BEGIN STRING
+「吼えろ稲妻！
+> CONTEXT: Skills/255/message1/
+「Definitely the lightning bolt!#MTLed
+> END STRING
+
+> BEGIN STRING
+サンダーバーストっ！」
+> CONTEXT: Skills/255/message2/
+Thunder burst!」#MTLed
+> END STRING
+
+> BEGIN STRING
+「いっくよー！
+> CONTEXT: Skills/256/message1/
+「Always!#MTLed
+> END STRING
+
+> BEGIN STRING
+風精呪・シルフィントルネード！」
+> CONTEXT: Skills/256/message2/
+Wind simulator · Sylfin tornado!」#MTLed
+> END STRING
+
+> BEGIN STRING
+脳天割
+> CONTEXT: Skills/257/name/
+Cerebral cortex#MTLed
+> END STRING
+
+> BEGIN STRING
+の脳天割り！
+> CONTEXT: Skills/257/message1/
+Brain division!#MTLed
+> END STRING
+
+> BEGIN STRING
+ウィンドシールド
+> CONTEXT: Skills/258/name/
+Wind shield#MTLed
+> END STRING
+
+> BEGIN STRING
+精霊の力を借り、風の盾を展開する。
+風属性ダメージを大きく防ぎ、炎属性ダメージをやや軽減。
+> CONTEXT: Skills/258/description/
+\\}Borrow the power of the spirit, develop the shield of the wind.
+Prevent wind damage greatly, reduce fire attribute damage somewhat.#MTLed
+> END STRING
+
+> BEGIN STRING
+は精霊の力を借り、
+> CONTEXT: Skills/258/message1/
+> CONTEXT: Skills/259/message1/
+I borrowed the power of the spirit,#MTLed
+> END STRING
+
+> BEGIN STRING
+ウィンドシールドを展開した！
+> CONTEXT: Skills/258/message2/
+I deployed the wind shield!#MTLed
+> END STRING
+
+> BEGIN STRING
+精霊の力を借り、
+５ターンの間、最大体力の１０％を自動的に回復する。
+> CONTEXT: Skills/259/description/
+With the power of a spirit, Automatically restore 10% of
+the maximum physical strength for 5 turns.#MTLed
+> END STRING
+
+> BEGIN STRING
+回復フィールドを展開した！
+> CONTEXT: Skills/259/message2/
+I expanded the recovery field!#MTLed
+> END STRING
+
+> BEGIN STRING
+練気回復法
+> CONTEXT: Skills/260/name/
+Breath recovery method#MTLed
+> END STRING
+
+> BEGIN STRING
+呼吸法により気を練り上げ、体力を回復する。
+技力ではなく精神を消費して発動するため、注意が必要。
+> CONTEXT: Skills/260/description/
+\\}Refine yourself with breathing and restore your physical strength.
+Attention is necessary because it activates by consuming spirit rather than skill.#MTLed
+> END STRING
+
+> BEGIN STRING
+は呼吸を整え、気を練り上げる！
+> CONTEXT: Skills/260/message1/
+I arrange my breathing and refine my mind!#MTLed
+> END STRING
+
+> BEGIN STRING
+火炎脚
+> CONTEXT: Skills/261/name/
+Flame legs#MTLed
+> END STRING
+
+> BEGIN STRING
+「えいっ、火炎脚っ！」
+> CONTEXT: Skills/261/message1/
+「Eh, flame legs!」#MTLed
+> END STRING
+
+> BEGIN STRING
+コンビネーション
+> CONTEXT: Skills/263/name/
+Combination#MTLed
+> END STRING
+
+> BEGIN STRING
+「受けてみなさいっ！
+> CONTEXT: Skills/263/message1/
+「Please accept it!#MTLed
+> END STRING
+
+> BEGIN STRING
+必殺、シスターアサルトっ！」
+> CONTEXT: Skills/263/message2/
+Hissatsushi, Sister Assault!」#MTLed
+> END STRING
+
+> BEGIN STRING
+収束法
+> CONTEXT: Skills/264/name/
+Convergence method#MTLed
+> END STRING
+
+> BEGIN STRING
+は気を収束させている。
+> CONTEXT: Skills/264/message1/
+He makes his mind converge.#MTLed
+> END STRING
+
+> BEGIN STRING
+槍振り回し
+> CONTEXT: Skills/266/name/
+Spear swing#MTLed
+> END STRING
+
+> BEGIN STRING
+は槍を大きく振り回した！
+> CONTEXT: Skills/266/message1/
+He swung the spear a lot!#MTLed
+> END STRING
+
+> BEGIN STRING
+二段突き
+> CONTEXT: Skills/267/name/
+Two step thrust#MTLed
+> END STRING
+
+> BEGIN STRING
+の二段突き！
+> CONTEXT: Skills/267/message1/
+Two-step thrust!#MTLed
+> END STRING
+
+> BEGIN STRING
+セイクリッドスラッシュ
+> CONTEXT: Skills/268/name/
+Sacred slash#MTLed
+> END STRING
+
+> BEGIN STRING
+のセイクリッドスラッシュ！
+> CONTEXT: Skills/268/message1/
+Sacred Slash!#MTLed
+> END STRING
+
+> BEGIN STRING
+二段斬り
+> CONTEXT: Skills/269/name/
+> CONTEXT: Skills/334/name/
+Two-step slash#MTLed
+> END STRING
+
+> BEGIN STRING
+の二段斬り！
+> CONTEXT: Skills/269/message1/
+> CONTEXT: Skills/334/message1/
+Two slash cuts!#MTLed
+> END STRING
+
+> BEGIN STRING
+打ち下ろし
+> CONTEXT: Skills/270/name/
+Downhill#MTLed
+> END STRING
+
+> BEGIN STRING
+コールドスティンガー
+> CONTEXT: Skills/271/name/
+Cold Stinger#MTLed
+> END STRING
+
+> BEGIN STRING
+のコールドスティンガー！
+> CONTEXT: Skills/271/message1/
+Cold Stinger!#MTLed
+> END STRING
+
+> BEGIN STRING
+フレイムスピア
+> CONTEXT: Skills/272/name/
+Flame Spear#MTLed
+> END STRING
+
+> BEGIN STRING
+のフレイムスピア！
+> CONTEXT: Skills/272/message1/
+Flame Spear!#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ拘束攻撃
+> CONTEXT: Skills/273/name/
+Alraune restraint attack#MTLed
+> END STRING
+
+> BEGIN STRING
+はツタを伸ばし、
+> CONTEXT: Skills/273/message1/
+He stretched the ivy,#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]に巻き付けようとしてくる！
+> CONTEXT: Skills/273/message2/
+\\N[12] I'm about to wrap around!#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ拘束
+> CONTEXT: Skills/274/name/
+Alraune constraint#MTLed
+> END STRING
+
+> BEGIN STRING
+のツタが\\N[12]の手足に巻き付く！
+> CONTEXT: Skills/274/message1/
+The ivy \\N[12] Wrapped around the limbs!#MTLed
+> END STRING
+
+> BEGIN STRING
+のツタが妖しく光り、
+> CONTEXT: Skills/275/message1/
+The ivy shone fancyly,#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の精気が吸い取られる――！
+> CONTEXT: Skills/275/message2/
+\\N[12] The sickness is sucked -!#MTLed
+> END STRING
+
+> BEGIN STRING
+不良少女の金的蹴り
+> CONTEXT: Skills/276/description/
+deliquent girl's golden kick
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+はナイフで斬りつけてきた！
+> CONTEXT: Skills/277/message1/
+He has slashed with a knife!#MTLed
+> END STRING
+
+> BEGIN STRING
+攻撃（殴打）
+> CONTEXT: Skills/278/name/
+Attack (beating)#MTLed
+> END STRING
+
+> BEGIN STRING
+は殴りかかってきた！
+> CONTEXT: Skills/278/message1/
+He hit me down!#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーヒップアタック
+> CONTEXT: Skills/280/name/
+> CONTEXT: Skills/292/name/
+Bunny hip attack#MTLed
+> END STRING
+
+> BEGIN STRING
+キスホールド攻撃
+> CONTEXT: Skills/282/name/
+> CONTEXT: Skills/348/name/
+Kiss hold attack#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]に抱きついてきた！
+> CONTEXT: Skills/282/message1/
+> CONTEXT: Skills/348/message1/
+Is \\N[12] I hugged!#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]を抱きしめて
+> CONTEXT: Skills/283/message1/
+> CONTEXT: Skills/349/message1/
+Is \\N[12] Hug me#MTLed
+> END STRING
+
+> BEGIN STRING
+ディープキス
+> CONTEXT: Skills/284/name/
+Deep kiss#MTLed
+> END STRING
+
+> BEGIN STRING
+の柔らかな唇の感触が
+> CONTEXT: Skills/284/message1/
+Soft lip feeling#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の意識をとろけさせてゆく……
+> CONTEXT: Skills/284/message2/
+\\N[12] I will melt my consciousness ...#MTLed
+> END STRING
+
+> BEGIN STRING
+太もも仕掛け技
+> CONTEXT: Skills/285/name/
+Thigh gimmick technique#MTLed
+> END STRING
+
+> BEGIN STRING
+「いくわよ～！
+> CONTEXT: Skills/285/message1/
+「Novelty ~!#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールは腰を低くして身構えている！
+> CONTEXT: Skills/285/message2/
+bunny girl is waiting lowered to stand!#MTLed
+> END STRING
+
+> BEGIN STRING
+太ももで挟む
+> CONTEXT: Skills/286/name/
+To pinch with thighs#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]の顔を太ももで挟み込み、
+> CONTEXT: Skills/286/message1/
+Is \\N[12] I pinched my face with thighs,#MTLed
+> END STRING
+
+> BEGIN STRING
+寝技に引き込んだ！
+> CONTEXT: Skills/286/message2/
+I pulled in to sleeping!#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーキック
+> CONTEXT: Skills/287/name/
+Bunny kick#MTLed
+> END STRING
+
+> BEGIN STRING
+のハイキック！
+> CONTEXT: Skills/287/message1/
+High Kick!#MTLed
+> END STRING
+
+> BEGIN STRING
+太もも絞めつけ
+> CONTEXT: Skills/288/name/
+Thigh sticking#MTLed
+> END STRING
+
+> BEGIN STRING
+の柔らかですべすべとした太ももが
+> CONTEXT: Skills/288/message1/
+Soft and thin thighs#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の顔を強烈に絞めつける！
+> CONTEXT: Skills/288/message2/
+\\N[12] Strongly squeeze your face!#MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱいホールド攻撃
+> CONTEXT: Skills/289/name/
+Breast Hold Attack#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]を抱き寄せようとしてくる！
+> CONTEXT: Skills/289/message1/
+Is \\N[12] I will try to hug you!#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]の頭を胸元に抱き寄せた！
+> CONTEXT: Skills/290/message1/
+Is \\N[12] I hugged my head to the chest!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の顔がバニーガールの胸の谷間にうずもれる！
+> CONTEXT: Skills/290/message2/
+\\N[12] The face of a bunny girl will be buried in the cleavage of her breast!#MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱいホールド中
+> CONTEXT: Skills/291/name/
+Breasts are holding#MTLed
+> END STRING
+
+> BEGIN STRING
+のおっぱいの柔らかな感触が
+> CONTEXT: Skills/291/message1/
+The tender feel of boobs#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]をドキドキさせる！
+> CONTEXT: Skills/291/message2/
+\\N[12] Let's do!#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルヒップアタック
+> CONTEXT: Skills/293/name/
+Bell Hip Attack#MTLed
+> END STRING
+
+> BEGIN STRING
+サフェルティ
+> CONTEXT: Skills/295/name/
+Safel Te#MTLed
+> END STRING
+
+> BEGIN STRING
+は神聖魔法・サフェルティを唱えた！
+> CONTEXT: Skills/295/message1/
+> CONTEXT: Skills/396/message1/
+I sacred magical magic · Safel Te!#MTLed
+> END STRING
+
+> BEGIN STRING
+女王版
+> CONTEXT: Skills/296/description/
+Queen Version
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ホーリーアタック
+> CONTEXT: Skills/297/name/
+Holey Attack#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ連続突き大会用
+> CONTEXT: Skills/299/name/
+For alumina continuous thrust tournament#MTLed
+> END STRING
+
+> BEGIN STRING
+「華麗に決めてさしあげますわ！
+> CONTEXT: Skills/299/message1/
+> CONTEXT: Skills/300/message1/
+「I will decide it brilliantly!#MTLed
+> END STRING
+
+> BEGIN STRING
+必殺、フラッシングレティアー！」
+> CONTEXT: Skills/299/message2/
+> CONTEXT: Skills/300/message2/
+Deathblow, flushing retia!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ連続突き
+> CONTEXT: Skills/300/name/
+Alumina continuous punch#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナフィニッシュ
+> CONTEXT: Skills/301/name/
+Alumina finish#MTLed
+> END STRING
+
+> BEGIN STRING
+「これで倒れなさい！
+> CONTEXT: Skills/301/message1/
+> CONTEXT: Skills/302/message1/
+「Fall in this!#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア王宮剣術奥義・サフィスティセイバー！」
+> CONTEXT: Skills/301/message2/
+> CONTEXT: Skills/302/message2/
+Elmia Royal Palace Swordsman Mysticism · Safty Stay Saber!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サフィスティセイバー
+> CONTEXT: Skills/302/name/
+Safestastic#MTLed
+> END STRING
+
+> BEGIN STRING
+ウォーターバリア
+> CONTEXT: Skills/305/name/
+Water barrier#MTLed
+> END STRING
+
+> BEGIN STRING
+水の障壁を作り出す。
+水属性の攻撃を大きく、氷属性の攻撃を少し軽減。
+> CONTEXT: Skills/305/description/
+Produce water barriers. Large water attribute attacks,
+slightly less ice attribute attacks.#MTLed
+> END STRING
+
+> BEGIN STRING
+はウォーターバリアを張った！
+> CONTEXT: Skills/305/message1/
+He set up a water barrier!#MTLed
+> END STRING
+
+> BEGIN STRING
+ポイズンウェイブ
+> CONTEXT: Skills/306/name/
+Poison Wave#MTLed
+> END STRING
+
+> BEGIN STRING
+のトキソウェイブ！
+> CONTEXT: Skills/306/message1/
+The Toxo Wave of!#MTLed
+> END STRING
+
+> BEGIN STRING
+アシッドウェイブ
+> CONTEXT: Skills/307/name/
+Acid Wave#MTLed
+> END STRING
+
+> BEGIN STRING
+のアシッドウェイブ！
+> CONTEXT: Skills/307/message1/
+Acid Wave!#MTLed
+> END STRING
+
+> BEGIN STRING
+の鎧通し！
+> CONTEXT: Skills/309/message1/
+Armor of!#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナおっぱい見せつけ
+> CONTEXT: Skills/310/name/
+Diana Show Boobs#MTLed
+> END STRING
+
+> BEGIN STRING
+は胸を見せつけてくる！
+> CONTEXT: Skills/310/message1/
+I will show my chest!#MTLed
+> END STRING
+
+> BEGIN STRING
+嵐のように斬撃を見舞って敵を切り裂く、
+手数重視の剣技。
+> CONTEXT: Skills/312/description/
+As a storm slashing enemies by visiting slashing, Sword
+technique that focuses on hands.#MTLed
+> END STRING
+
+> BEGIN STRING
+ダークブラスト
+> CONTEXT: Skills/313/name/
+Dark blast#MTLed
+> END STRING
+
+> BEGIN STRING
+はダークブラストを唱えた！
+> CONTEXT: Skills/313/message1/
+I cast a dark blast!#MTLed
+> END STRING
+
+> BEGIN STRING
+ハサミダブルアタック
+> CONTEXT: Skills/314/name/
+Scissors double attack#MTLed
+> END STRING
+
+> BEGIN STRING
+はハサミで激しく殴りつけてきた！
+> CONTEXT: Skills/314/message1/
+I was hit hard with scissors!#MTLed
+> END STRING
+
+> BEGIN STRING
+ダークストーム
+> CONTEXT: Skills/315/name/
+Dark storm#MTLed
+> END STRING
+
+> BEGIN STRING
+はダークストームを唱えた！
+> CONTEXT: Skills/315/message1/
+He spoke Dark Storm!#MTLed
+> END STRING
+
+> BEGIN STRING
+はくすくす笑っている……
+> CONTEXT: Skills/316/message1/
+I am laughing ......#MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱい見せつけ
+> CONTEXT: Skills/317/name/
+Showing breasts#MTLed
+> END STRING
+
+> BEGIN STRING
+はおっぱいを突き出し、
+> CONTEXT: Skills/317/message1/
+He thrust out boobs,#MTLed
+> END STRING
+
+> BEGIN STRING
+見せつけてきた！
+> CONTEXT: Skills/317/message2/
+I showed you!#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会用
+> CONTEXT: Skills/318/description/
+> CONTEXT: Skills/319/description/
+> CONTEXT: Skills/320/description/
+For martial arts tournament
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ベル武道大会用
+> CONTEXT: Skills/323/description/
+> CONTEXT: Skills/324/description/
+For bell martial arts tournament
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+お尻押し付け
+> CONTEXT: Skills/324/name/
+Pushing the butt#MTLed
+> END STRING
+
+> BEGIN STRING
+はお尻を\\N[12]の顔に
+> CONTEXT: Skills/324/message1/
+Have an ass \\N[12] On the face of#MTLed
+> END STRING
+
+> BEGIN STRING
+押し付けてくる！
+> CONTEXT: Skills/324/message2/
+I will push it!#MTLed
+> END STRING
+
+> BEGIN STRING
+お尻ノックアウト
+> CONTEXT: Skills/325/name/
+Ass knockout#MTLed
+> END STRING
+
+> BEGIN STRING
+はお尻を\\N[12]の顔にぶつけてきた！
+> CONTEXT: Skills/325/message1/
+Have an ass \\N[12] I struck my face!#MTLed
+> END STRING
+
+> BEGIN STRING
+聖属性の剣に秘められた潜在能力。
+聖なる力を剣にまとわせ、斬りつける。
+> CONTEXT: Skills/327/description/
+Potential hidden in the sword of holy attributes. Put the
+holy power in the sword and slash it.#MTLed
+> END STRING
+
+> BEGIN STRING
+ダークスラッシュ
+> CONTEXT: Skills/328/name/
+Dark slash#MTLed
+> END STRING
+
+> BEGIN STRING
+闇属性の剣に秘められた潜在能力。
+暗黒の力を剣にまとわせ、斬りつける。
+> CONTEXT: Skills/328/description/
+Potential hidden in the sword of dark attribute. Put the
+power of darkness in a sword and slash it.#MTLed
+> END STRING
+
+> BEGIN STRING
+のダークスラッシュ！
+> CONTEXT: Skills/328/message1/
+The dark slash of!#MTLed
+> END STRING
+
+> BEGIN STRING
+アイスエッジ
+> CONTEXT: Skills/329/name/
+Ice edge#MTLed
+> END STRING
+
+> BEGIN STRING
+はアイスエッジを放った！
+> CONTEXT: Skills/329/message1/
+He released the ice edge!#MTLed
+> END STRING
+
+> BEGIN STRING
+ヘルフレイム
+> CONTEXT: Skills/331/name/
+Hell Flame#MTLed
+> END STRING
+
+> BEGIN STRING
+地獄の劫火で敵を焼き尽くす。
+> CONTEXT: Skills/331/description/
+Burn enemies by burning hell.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+はヘルフレイムを唱えた！
+> CONTEXT: Skills/331/message1/
+He spoke Hell Flame!#MTLed
+> END STRING
+
+> BEGIN STRING
+チャーム
+> CONTEXT: Skills/332/name/
+Charm#MTLed
+> END STRING
+
+> BEGIN STRING
+はチャームを唱えた！
+> CONTEXT: Skills/332/message1/
+I called a charm!#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]にキスをしてきた！
+> CONTEXT: Skills/333/message1/
+Is \\N[12] I have kissed you!#MTLed
+> END STRING
+
+> BEGIN STRING
+グロウスティンガー
+> CONTEXT: Skills/335/name/
+Growstinger#MTLed
+> END STRING
+
+> BEGIN STRING
+の必殺技、グロウスティンガー！
+> CONTEXT: Skills/335/message1/
+Its Special Moves, Grow Stinger!#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムパンチラ
+> CONTEXT: Skills/336/name/
+Purim panty shot#MTLed
+> END STRING
+
+> BEGIN STRING
+によって、\\N[12]は
+> CONTEXT: Skills/336/message1/
+By \\N[12] Is#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムのショーツを見せつけられる！
+> CONTEXT: Skills/336/message2/
+You can show off Purim's shorts!#MTLed
+> END STRING
+
+> BEGIN STRING
+まごまご
+> CONTEXT: Skills/337/name/
+Mistake#MTLed
+> END STRING
+
+> BEGIN STRING
+はもじもじしている！
+> CONTEXT: Skills/337/message1/
+I am doing it!#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士パンチラ
+> CONTEXT: Skills/338/name/
+> CONTEXT: Skills/352/name/
+Soldier panty shot#MTLed
+> END STRING
+
+> BEGIN STRING
+ショーツを見せつけてきた！
+> CONTEXT: Skills/338/message2/
+> CONTEXT: Skills/352/message2/
+I showed my shorts!#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士パンチラ負けトドメ
+> CONTEXT: Skills/339/name/
+Soldier panty shot losing finisher#MTLed
+> END STRING
+
+> BEGIN STRING
+によるパンチラ斬り！
+> CONTEXT: Skills/339/message1/
+By panty shot slash by!#MTLed
+> END STRING
+
+> BEGIN STRING
+サフィスの加護
+> CONTEXT: Skills/341/name/
+Safety of the Safi#MTLed
+> END STRING
+
+> BEGIN STRING
+は水神サフィスティラに祈りを捧げた！
+> CONTEXT: Skills/341/message1/
+He devoted prayers to the water god Safistira!#MTLed
+> END STRING
+
+> BEGIN STRING
+ルフティナの神聖魔法力が上昇し、毎ターン体力回復！
+> CONTEXT: Skills/341/message2/
+The sacred magical power of Luftina rises, recovering physical strength every turn!#MTLed
+> END STRING
+
+> BEGIN STRING
+永久強化
+> CONTEXT: Skills/342/name/
+> CONTEXT: Skills/362/name/
+Permanent strengthening#MTLed
+> END STRING
+
+> BEGIN STRING
+幻影バニーヒップアタック
+> CONTEXT: Skills/345/name/
+Phantom Bunny hip attack#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバスチャーム
+> CONTEXT: Skills/346/name/
+Succubus charm#MTLed
+> END STRING
+
+> BEGIN STRING
+は、自らの体を\\N[12]に見せつけながら
+> CONTEXT: Skills/346/message1/
+The body of yourself \\N[12] While showing it#MTLed
+> END STRING
+
+> BEGIN STRING
+チャームの魔法を唱えた！
+> CONTEXT: Skills/346/message2/
+I cast a charm magic!#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバスキス
+> CONTEXT: Skills/347/name/
+Succubus kiss#MTLed
+> END STRING
+
+> BEGIN STRING
+ドレインキス
+> CONTEXT: Skills/350/name/
+Drain kiss#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]といやらしく舌を絡め、
+> CONTEXT: Skills/350/message1/
+Is \\N[12] And with a nuisance tongue,#MTLed
+> END STRING
+
+> BEGIN STRING
+ディープキスをしてくる……
+> CONTEXT: Skills/350/message2/
+I'm going to have a deep kiss ...#MTLed
+> END STRING
+
+> BEGIN STRING
+叩き潰し
+> CONTEXT: Skills/353/name/
+Beating down#MTLed
+> END STRING
+
+> BEGIN STRING
+の叩き潰し攻撃！
+> CONTEXT: Skills/353/message1/
+Knocking Attack!#MTLed
+> END STRING
+
+> BEGIN STRING
+アマゾネス攻撃
+> CONTEXT: Skills/354/name/
+Amazon Attack#MTLed
+> END STRING
+
+> BEGIN STRING
+アブソーブ
+> CONTEXT: Skills/355/name/
+Absorb#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]の体力を吸い取ってくる！
+> CONTEXT: Skills/355/message1/
+Is \\N[12] I will smoke the physical strength of you!#MTLed
+> END STRING
+
+> BEGIN STRING
+ウィンドシェイバー
+> CONTEXT: Skills/356/name/
+Windshaper#MTLed
+> END STRING
+
+> BEGIN STRING
+はウィンドシェイバーを唱えた！
+> CONTEXT: Skills/356/message1/
+He spoke windshaper!#MTLed
+> END STRING
+
+> BEGIN STRING
+イエロースライムアタック
+> CONTEXT: Skills/358/name/
+Yellow slime attack#MTLed
+> END STRING
+
+> BEGIN STRING
+は酸の液体で鎧を溶かそうとしてくる！
+> CONTEXT: Skills/358/message1/
+He is trying to dissolve armor with liquid of acid!#MTLed
+> END STRING
+
+> BEGIN STRING
+跳び上がり斬り
+> CONTEXT: Skills/361/name/
+> CONTEXT: Skills/363/name/
+Jumping slashing#MTLed
+> END STRING
+
+> BEGIN STRING
+は跳び上がって剣を振り下ろしてくる！
+> CONTEXT: Skills/361/message1/
+> CONTEXT: Skills/363/message1/
+He jumps up and sweeps down the sword!#MTLed
+> END STRING
+
+> BEGIN STRING
+跳んだ拍子に\\N[15]のスカートがめくれ上がる！
+> CONTEXT: Skills/361/message2/
+> CONTEXT: Skills/363/message2/
+To the jumping meter \\N[15] The skirt turns up and rises!#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの能力強化
+> CONTEXT: Skills/362/description/
+Enhancement of Purim's ability
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+は怒った！
+> CONTEXT: Skills/362/message1/
+> CONTEXT: Skills/375/message1/
+I got mad!#MTLed
+> END STRING
+
+> BEGIN STRING
+トドメ
+> CONTEXT: Skills/363/description/
+> CONTEXT: Skills/365/description/
+finisher
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+迅雷三段突き
+> CONTEXT: Skills/364/name/
+Thunder thrust of thunder#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ誘惑負けイベント用トドメ技
+> CONTEXT: Skills/364/description/
+Diana finisher technique for temptation losing event
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+プリム罵り
+> CONTEXT: Skills/366/name/
+Purim swearing#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム、勃起した主人公を罵る。
+> CONTEXT: Skills/366/description/
+Purim abuses the hero who erected.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+「おにいさん、ヘンタイだったんですね。
+> CONTEXT: Skills/366/message1/
+「He was a pervert, did not he?#MTLed
+> END STRING
+
+> BEGIN STRING
+わたしのパンツを見て興奮しちゃうなんて……」
+> CONTEXT: Skills/366/message2/
+I'm excited to see my panties ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+体力ドレイン
+> CONTEXT: Skills/367/name/
+Physical fitness drain#MTLed
+> END STRING
+
+> BEGIN STRING
+は体力吸収の魔術を使った！
+> CONTEXT: Skills/367/message1/
+He used physical strength absorption magic!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の体力が、イビルウィッチに吸い取られる！
+> CONTEXT: Skills/367/message2/
+\\N[12] The physical strength of you is sucked up by evil witch!#MTLed
+> END STRING
+
+> BEGIN STRING
+胸見せつけ
+> CONTEXT: Skills/368/name/
+Show your chest#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナが胸を見せつけてくる
+> CONTEXT: Skills/368/description/
+Diana is showing her breast
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+は発展途上の胸を突き出し、
+> CONTEXT: Skills/368/message1/
+He stuck out the developing chest,#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]に見せつけてくる！
+> CONTEXT: Skills/368/message2/
+\\N[12] I will show off to you!#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗ホールド攻撃
+> CONTEXT: Skills/369/name/
+Facesitting hold attack#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]に足払いを仕掛けてきた！
+> CONTEXT: Skills/369/message1/
+Is \\N[12] We have set aside feet!#MTLed
+> END STRING
+
+> BEGIN STRING
+ヒップドロップ
+> CONTEXT: Skills/370/name/
+Hip Drop#MTLed
+> END STRING
+
+> BEGIN STRING
+は、倒れた\\N[12]の顔に
+> CONTEXT: Skills/370/message1/
+Was collapsed \\N[12] On the face of#MTLed
+> END STRING
+
+> BEGIN STRING
+ヒップドロップを敢行する！
+> CONTEXT: Skills/370/message2/
+I will do hip-drop!#MTLed
+> END STRING
+
+> BEGIN STRING
+お尻ぐりぐり
+> CONTEXT: Skills/371/name/
+Butt * rub *#MTLed
+> END STRING
+
+> BEGIN STRING
+は\\N[12]の顔を
+> CONTEXT: Skills/371/message1/
+> CONTEXT: Skills/380/message1/
+> CONTEXT: Skills/394/message1/
+Is \\N[12] The face of#MTLed
+> END STRING
+
+> BEGIN STRING
+お尻でぐりぐりと蹂躙する！
+> CONTEXT: Skills/371/message2/
+Tremy with * rub * in the butt!#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンフィニッシュ
+> CONTEXT: Skills/372/name/
+Jane Finish#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン用のパワースラッシュ
+> CONTEXT: Skills/372/description/
+Power slash for Jane
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン罵倒１
+> CONTEXT: Skills/373/name/
+Jane abuses 1#MTLed
+> END STRING
+
+> BEGIN STRING
+「この変態っ！ 絶対許さないから！」
+> CONTEXT: Skills/373/message1/
+「This pervert! I will never forgive you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンに罵倒された！
+> CONTEXT: Skills/373/message2/
+> CONTEXT: Skills/374/message2/
+I was abused by Jane!#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン罵倒２
+> CONTEXT: Skills/374/name/
+Jane abusive 2#MTLed
+> END STRING
+
+> BEGIN STRING
+「覚悟しなさい、女の敵っ！」
+> CONTEXT: Skills/374/message1/
+「Prepare, enemy of a woman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+スピードアップ
+> CONTEXT: Skills/375/name/
+> CONTEXT: Items/15/name/
+Speed Up#lvl1
+> END STRING
+
+> BEGIN STRING
+気力を消費して先制攻撃を行う。
+この特技は、重い武器を装備していると使えない。
+> CONTEXT: Skills/130/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不良娘足払い
+> CONTEXT: Skills/376/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は足払いを仕掛けてきた！
+> CONTEXT: Skills/376/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確定誘惑ディアーナ
+> CONTEXT: Skills/377/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確定誘惑
+> CONTEXT: Skills/377/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は自らの魅力を誇示するかのように
+> CONTEXT: Skills/377/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+体を見せつけてくる！
+> CONTEXT: Skills/377/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女兵士おっぱいホールド攻撃
+> CONTEXT: Skills/378/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たちは\\N[12]を拘束しようとしてくる！
+> CONTEXT: Skills/378/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トリプルおっぱいホールド
+> CONTEXT: Skills/379/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たちは、\\N[12]の顔を
+> CONTEXT: Skills/379/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっぱいで挟み込んで拘束した！
+> CONTEXT: Skills/379/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トリプルおっぱい責め
+> CONTEXT: Skills/380/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっぱいでぐりぐりと弄ぶ！
+> CONTEXT: Skills/380/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダークエッジ
+> CONTEXT: Skills/382/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のダークエッジ！
+> CONTEXT: Skills/382/message1/ < UNTRANSLATED
+> CONTEXT: Skills/400/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヘアチャーム
+> CONTEXT: Skills/383/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は長い髪から甘い香りを漂わせた！
+> CONTEXT: Skills/383/message1/ < UNTRANSLATED
+> CONTEXT: Skills/398/message1/ < UNTRANSLATED
+> CONTEXT: Skills/399/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]の体力が見習い魔法使いに吸収される！
+> CONTEXT: Skills/384/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイキック
+> CONTEXT: Skills/385/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はハイキックを放ってきた！
+> CONTEXT: Skills/385/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+膝蹴り
+> CONTEXT: Skills/386/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は膝蹴りを放ってきた！
+> CONTEXT: Skills/386/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダークフレイム
+> CONTEXT: Skills/387/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はダークフレイムを唱えた！
+> CONTEXT: Skills/387/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダークブレイズ
+> CONTEXT: Skills/388/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はダークブレイズを唱えた！
+> CONTEXT: Skills/388/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ツインテールラッシュ
+> CONTEXT: Skills/389/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のツインテールが硬質化し
+> CONTEXT: Skills/389/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+生き物のように斬りかかってくる！
+> CONTEXT: Skills/389/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャーム・ザ・マリオネット
+> CONTEXT: Skills/390/name/ < UNTRANSLATED
+> CONTEXT: Skills/391/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はチャーム・ザ・マリオネットを唱えた！
+> CONTEXT: Skills/390/message1/ < UNTRANSLATED
+> CONTEXT: Skills/391/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+様子見
+> CONTEXT: Skills/392/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何もせず様子見をする。
+> CONTEXT: Skills/392/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は相手の様子をうかがっている。
+> CONTEXT: Skills/392/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女王おっぱいホールド
+> CONTEXT: Skills/393/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[12]を自らの胸に抱き寄せた！
+> CONTEXT: Skills/393/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女王おっぱい責め
+> CONTEXT: Skills/394/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強く抱きしめる！
+> CONTEXT: Skills/394/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女王ホールド攻撃
+> CONTEXT: Skills/395/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[12]を抱きしめようとしてくる！
+> CONTEXT: Skills/395/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トドメサフェルティ
+> CONTEXT: Skills/396/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヘアチャーム闇闘技場
+> CONTEXT: Skills/398/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヘアチャーム演出
+> CONTEXT: Skills/399/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダークエッジトドメ
+> CONTEXT: Skills/400/name/ < UNTRANSLATED
+
+> END STRING

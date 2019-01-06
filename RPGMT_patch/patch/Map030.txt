@@ -1,0 +1,165 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+自警団長アルバート
+「両者とも、準備はできたか？」
+> CONTEXT: Map030/events/1/pages/0/1/Dialogue
+Self police captain albert. 「Were you ready for both?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、その前に……
+なんでこんなにギャラリーがいるんすか、
+しかもウチの自警団の連中ばっかり」
+> CONTEXT: Map030/events/1/pages/0/10/Dialogue
+\\N[12]. 「No, before that .... Why do you have a
+gallery so much? Besides, all the vigilante groups in my
+house」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員の女の子
+「\\N[12]が旅の女の子と手合わせするって聞いて来ちゃった♪
+面白そうじゃない、自警団でもトップレベルの\\N[12]相手に
+その子がどれだけやれるのか、見てみたくってさー」
+> CONTEXT: Map030/events/1/pages/0/18/Dialogue
+Young Militiawoman. 「\\N[12] He asked me to go with a
+traveling girl♪. It does not seem interesting, even
+vigilante groups are top level \\N[12] To the other
+party. I want to see how the child can do it」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員の女の子
+「さっき団長を負かしたぐらいだし、すっごい強いんだよ、
+そのシェリーって子。
+\\N[12]にだって、もしかしたら勝てちゃうかも！」
+> CONTEXT: Map030/events/1/pages/0/26/Dialogue
+Young Militiawoman. 「It was about the time I beat the head
+coach, it was so strong, That Sherry is child.
+\\N[12] Because, perhaps it will win!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、団長こいつに負けたんですか？」
+> CONTEXT: Map030/events/1/pages/0/33/Dialogue
+\\N[12]. 「Eh, did he lose to the team leader?」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団長アルバート
+「い、いやそれは……俺は怪我明けだし、
+ちょっと体がナマっていたからであってだな……」
+> CONTEXT: Map030/events/1/pages/0/37/Dialogue
+Self police captain albert. 「No, that is ... I am injured,
+It was because the body was a bit nervous ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（まあ、団長は責任感があるから団長に選ばれてるだけで
+実のところ、腕前はイマイチな人だけど……
+それでも、男に勝てるのか、こいつ）
+> CONTEXT: Map030/events/1/pages/0/44/Dialogue
+\\N[12]. (Well, the headmaster has a sense of
+responsibility so it is only chosen as the headmaster
+To tell the truth, I am a very disappointed person ... ...
+Still, you can win the guy, this guy)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（だけど、俺も同じようにいくと思ったら大間違いだぜ。
+自分の腕を勘違いをして、どっかで痛い目を見る前に、
+女が男に勝てるわけないってことを、ちゃんと教えてやらないとな！）
+> CONTEXT: Map030/events/1/pages/0/49/Dialogue
+\\N[12]. (But it's a big mistake if I think I will go
+the same way. Before I misunderstand my arm and see painful
+eyes somewhere, I have to teach things properly that a
+woman can not win a man! )#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「それじゃ、始めましょ！」
+> CONTEXT: Map030/events/1/pages/0/54/Dialogue
+Sherry. 「Let's get started!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、怪我しても恨むなよ」
+> CONTEXT: Map030/events/1/pages/0/57/Dialogue
+\\N[12]. 「Oh, do not hate even if you get hurt」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団長アルバート
+「よし、では二人とも、準備はいいな？
+それでは、始めっ！」
+> CONTEXT: Map030/events/1/pages/0/62/Dialogue
+Self police captain albert. 「OK. Well, are you ready for
+both of us? Well then, start!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ、ううぅっ……」
+> CONTEXT: Map030/events/1/pages/0/110/Dialogue
+\\N[12]. 「Huh, uh huh ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ふうっ、どうやら私の勝ちみたいね。
+ごめんなさい、ちょっとやりすぎちゃったかな」
+> CONTEXT: Map030/events/1/pages/0/114/Dialogue
+Sherry. 「Fuu, apparently I like to win.
+I'm sorry, I guess I've done too little」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「でも、これで分かったでしょ？
+女だからって甘く見てると、こういうことになるんだから。
+これからは女の子相手でも油断しないことだね、ふふっ♪」
+> CONTEXT: Map030/events/1/pages/0/118/Dialogue
+Sherry. 「But, did you understand this?
+Because it is this kind of thing when looking
+sweetly because it is a woman.
+From now on it is also not to be a girl opponent,
+heh heh♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員の女の子
+「すっごーい、本当に女の子が\\N[12]に勝っちゃった！」
+> CONTEXT: Map030/events/1/pages/0/124/Dialogue
+Young Militiawoman. 「Awesome, really girls \\N[12] I
+won!」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団長アルバート
+「し、信じられん、まさか\\N[12]まで負けるとは……」
+> CONTEXT: Map030/events/1/pages/0/127/Dialogue
+Self police captain albert. 「And you can not believe it,
+no way \\N[12] To lose to ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……ま、負けた……
+女の子相手に、ここまで完敗しちまうなんて……」
+> CONTEXT: Map030/events/1/pages/0/130/Dialogue
+\\N[12]. 「Uugh ... ... well, I lost ... ...
+To a girl opponent, I will not be defeated so far ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして\\N[12]は、旅の女剣士に敗北した……
+> CONTEXT: Map030/events/1/pages/0/136/Dialogue
+In this way \\N[12] He was defeated by the swordswoman
+of the trip ... ...#MTLed
+> END STRING

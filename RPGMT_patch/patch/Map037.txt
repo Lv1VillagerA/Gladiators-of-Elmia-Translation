@@ -1,0 +1,1434 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+受付
+「ごめんなさいね、
+身分の不確かな人にお仕事を斡旋することはできないのよ」
+> CONTEXT: Map037/events/3/pages/0/0/Dialogue
+Receptionist
+「Sorry,
+You can not arrange your work for people whose identity is uncertain」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「いらっしゃい。
+ここはエルミア冒険者ギルドよ」
+> CONTEXT: Map037/events/3/pages/1/0/Dialogue
+Receptionist
+「welcome.
+This is the Elmia Adventurer Guild.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ここはどういった施設なんですか？」
+> CONTEXT: Map037/events/3/pages/1/4/Dialogue
+\\N[12]
+「What facility is this place?」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「街の住民が持ち込んでくる依頼を解決する、
+それがこのギルドの仕事よ」
+> CONTEXT: Map037/events/3/pages/1/7/Dialogue
+Receptionist
+「Resolve the requests brought by residents of the city,
+That's the job of this guild」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「基本的には街に困ったことが起こったら対処するのは兵士。
+だけど、国や兵士には頼みにくいこともあるじゃない？
+そういうとき、このギルドが役に立つというわけ」
+> CONTEXT: Map037/events/3/pages/1/11/Dialogue
+Receptionist
+「Basically it is a soldier to deal with something troubled in the city.
+But, there are things that countries and soldiers can not afford to ask?
+At that time, this guild is useful」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど。
+そういうことなら、今の俺には用のないところかな。
+現状では人に頼みたいことはないし」
+> CONTEXT: Map037/events/3/pages/1/16/Dialogue
+\\N[12]
+「I see.
+If that is the case, it seems that there is no use for me now.
+At present there is nothing I would like to ask a person」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「あら、そうでもないかもしれないわよ？
+ここでは仕事を依頼するだけじゃなく、
+請け負う側になることもできるんだから」
+> CONTEXT: Map037/events/3/pages/1/21/Dialogue
+Receptionist
+「Oh, maybe not it?
+In addition to asking for work here,
+You can also become a contractor」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「シェリーちゃんとの会話、聞いてたわよ。
+お兄さん、武道大会に参加するんでしょ？」
+> CONTEXT: Map037/events/3/pages/1/27/Dialogue
+Receptionist
+「I was listening to a conversation with Sherry.
+Older brother, you participate in martial arts tournament, do not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、ええ……
+もう出場登録も済ませました」
+> CONTEXT: Map037/events/3/pages/1/31/Dialogue
+\\N[12]
+「Well, yeah ....
+I already registered my participation」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「なら、試合のあるとき以外で時間があったら、
+ここの仕事を請け負ってみるのも面白いと思うわよ？
+思わぬお宝が手に入ったり、鍛錬になるかもしれないし」
+> CONTEXT: Map037/events/3/pages/1/35/Dialogue
+Receptionist
+「Then, if there is time other than when there is a match,
+I think it's fun to take over the job here?
+You may get unexpected treasures or be forged」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「ウチは慢性的に人材が足りていないから、
+所属冒険者じゃなくても、信用に足る人であれば大歓迎！
+武道大会に出るような腕自慢の人には、ぜひ参加して欲しいのよ」
+> CONTEXT: Map037/events/3/pages/1/40/Dialogue
+Receptionist
+「Because my job is chronically insufficient,
+Even if you are not an adventurer, if you are a trustworthy person, you are welcome!
+People who are proud of arms like going out to martial arts tournament, I really want them to join us」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「というわけで、どう？
+参加してみる？」
+> CONTEXT: Map037/events/3/pages/1/45/Dialogue
+Receptionist
+「So what?
+Why do not you join us?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「興味深いですし、参加してみようと思います」
+> CONTEXT: Map037/events/3/pages/1/51/Dialogue
+> CONTEXT: Map037/events/3/pages/2/5/Dialogue
+\\N[12]
+「It is interesting, I think I will participate」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「やったぁ、人手が足りないから助かるわー♪
+じゃ、出場選手証を見せてもらえる？」
+> CONTEXT: Map037/events/3/pages/1/54/Dialogue
+> CONTEXT: Map037/events/3/pages/2/8/Dialogue
+Receptionist
+「I did it, because it is not enough manpower♪
+Well, can you show me the players' cards?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は選手証を見せた。
+> CONTEXT: Map037/events/3/pages/1/58/Dialogue
+> CONTEXT: Map037/events/3/pages/2/12/Dialogue
+\\N[12] He showed the player 's card.#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「……うん、なるほど、レストン出身なのね。
+わかったわ、これなら最初からちゃんとしたお仕事を
+任せちゃってもよさそうね」
+> CONTEXT: Map037/events/3/pages/1/60/Dialogue
+> CONTEXT: Map037/events/3/pages/2/14/Dialogue
+Receptionist
+「... Well, yeah, I heard you are from Reston.
+I understand, if this is the case, I decided to do a proper job from the beginning
+It seems good to leave it」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「じゃ、これがギルドのメンバーズカード。
+これを持っていれば仕事を受けることができるからね」
+> CONTEXT: Map037/events/3/pages/1/65/Dialogue
+> CONTEXT: Map037/events/3/pages/2/19/Dialogue
+Receptionist
+「Well, this is a guild member's card.
+You can get a job if you have this」#MTLed
+> END STRING
+
+> BEGIN STRING
+メンバーズカードを受け取った！
+> CONTEXT: Map037/events/3/pages/1/70/Dialogue
+> CONTEXT: Map037/events/3/pages/2/24/Dialogue
+I received a members card!#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「仕事の受け方は、壁に貼ってある依頼票を見て
+やりたいと思ったら『請け負う』を選択してね。
+そうしたら依頼主のところに行って、仕事を遂行してちょうだい」
+> CONTEXT: Map037/events/3/pages/1/73/Dialogue
+> CONTEXT: Map037/events/3/pages/2/27/Dialogue
+Receptionist
+「How to receive work, look at the request slip on the wall
+If you want to do it, please select 'undertake'.
+Then go to the client and carry out the work」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「無事に依頼を完遂したら、私のところに来てくれれば
+依頼主から預かった報酬を渡すから。
+仕事の流れはそんな感じね」
+> CONTEXT: Map037/events/3/pages/1/78/Dialogue
+> CONTEXT: Map037/events/3/pages/2/32/Dialogue
+Receptionist
+「If you successfully complete the request, if you come to me
+I will hand rewards from the client.
+The flow of work is such a feeling」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「分からないことがあったら、また聞きに来てちょうだい。
+いろいろ仕事をこなしてくれることを期待しているわ」
+> CONTEXT: Map037/events/3/pages/1/83/Dialogue
+> CONTEXT: Map037/events/3/pages/2/37/Dialogue
+Receptionist
+「If there is something you do not understand, please come and listen again.
+I expect you to do the job.」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「あら残念。
+気が変わったらいつでも言ってね」
+> CONTEXT: Map037/events/3/pages/1/90/Dialogue
+> CONTEXT: Map037/events/3/pages/2/45/Dialogue
+Receptionist
+「Oh regret.
+When you change your mind, please say it anytime」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「あら、参加する気になったかしら？」
+> CONTEXT: Map037/events/3/pages/2/0/Dialogue
+Receptionist
+「Oh, have you come to join us?」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「あら\\N[12]君、どうしたの？」
+> CONTEXT: Map037/events/3/pages/3/0/Dialogue
+Receptionist
+「Oh \\N[12] What have you done?」#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼達成報告
+> CONTEXT: Map037/events/3/pages/3/3/Choice/0
+Request achievement report#MTLed
+> END STRING
+
+> BEGIN STRING
+質問したい
+> CONTEXT: Map037/events/3/pages/3/3/Choice/1
+I have a question#MTLed
+> END STRING
+
+> BEGIN STRING
+特に用はない
+> CONTEXT: Map037/events/3/pages/3/3/Choice/2
+> CONTEXT: Map035/events/4/pages/3/8/Choice/3
+There is no particular use#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「どの依頼を達成したの？」
+> CONTEXT: Map037/events/3/pages/3/5/Dialogue
+Receptionist
+「What kind of request did you achieve?」#MTLed
+> END STRING
+
+> BEGIN STRING
+特別な魚if(s[112])
+> CONTEXT: Map037/events/3/pages/3/8/Choice/0
+Special fishif(s[112])#MTLed
+> END STRING
+
+> BEGIN STRING
+三種のキノコ収集　if(s[111])
+> CONTEXT: Map037/events/3/pages/3/8/Choice/1
+Three mushroom collectionsif(s[111])#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物退治：街道if(s[158])
+> CONTEXT: Map037/events/3/pages/3/8/Choice/2
+monster extermination: highwayif(s[158])#MTLed
+> END STRING
+
+> BEGIN STRING
+ミルクが欲しいif(s[115])
+> CONTEXT: Map037/events/3/pages/3/8/Choice/3
+I want some milk.if(s[115])#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「ごくろうさま、依頼を達成できたみたいね。
+それじゃ、報酬を渡すわね」
+> CONTEXT: Map037/events/3/pages/3/11/Dialogue
+> CONTEXT: Map037/events/3/pages/3/36/Dialogue
+> CONTEXT: Map037/events/3/pages/3/61/Dialogue
+> CONTEXT: Map037/events/3/pages/3/86/Dialogue
+> CONTEXT: Map037/events/3/pages/3/112/Dialogue
+> CONTEXT: Map037/events/3/pages/3/138/Dialogue
+> CONTEXT: Map037/events/3/pages/3/164/Dialogue
+> CONTEXT: Map037/events/3/pages/3/189/Dialogue
+> CONTEXT: Map037/events/3/pages/3/216/Dialogue
+> CONTEXT: Map037/events/3/pages/3/254/Dialogue
+> CONTEXT: Map037/events/3/pages/3/282/Dialogue
+Receptionist
+「I heard that you have achieved your request.
+Well then, I will give you my reward」#MTLed
+> END STRING
+
+> BEGIN STRING
+200G 手に入れた！
+> CONTEXT: Map037/events/3/pages/3/16/Dialogue
+I got 200G!#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「この調子で、今後も頑張ってね」
+> CONTEXT: Map037/events/3/pages/3/19/Dialogue
+> CONTEXT: Map037/events/3/pages/3/44/Dialogue
+> CONTEXT: Map037/events/3/pages/3/69/Dialogue
+> CONTEXT: Map037/events/3/pages/3/94/Dialogue
+> CONTEXT: Map037/events/3/pages/3/120/Dialogue
+> CONTEXT: Map037/events/3/pages/3/146/Dialogue
+> CONTEXT: Map037/events/3/pages/3/172/Dialogue
+> CONTEXT: Map037/events/3/pages/3/197/Dialogue
+> CONTEXT: Map037/events/3/pages/3/225/Dialogue
+Receptionist
+「Good luck with this condition as well.」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「その依頼は、まだ途中みたいね。
+達成できるように、しっかり頑張ってね」
+> CONTEXT: Map037/events/3/pages/3/27/Dialogue
+> CONTEXT: Map037/events/3/pages/3/52/Dialogue
+> CONTEXT: Map037/events/3/pages/3/77/Dialogue
+> CONTEXT: Map037/events/3/pages/3/101/Dialogue
+> CONTEXT: Map037/events/3/pages/3/129/Dialogue
+> CONTEXT: Map037/events/3/pages/3/155/Dialogue
+> CONTEXT: Map037/events/3/pages/3/180/Dialogue
+> CONTEXT: Map037/events/3/pages/3/205/Dialogue
+> CONTEXT: Map037/events/3/pages/3/245/Dialogue
+> CONTEXT: Map037/events/3/pages/3/272/Dialogue
+> CONTEXT: Map037/events/3/pages/3/299/Dialogue
+Receptionist
+「The request is still on the way.
+Good luck with yourself so you can achieve it」#MTLed
+> END STRING
+
+> BEGIN STRING
+300G 手に入れた！
+> CONTEXT: Map037/events/3/pages/3/41/Dialogue
+> CONTEXT: Map037/events/3/pages/3/222/Dialogue
+I got 300 g!#MTLed
+> END STRING
+
+> BEGIN STRING
+500G 手に入れた！
+> CONTEXT: Map037/events/3/pages/3/66/Dialogue
+> CONTEXT: Map037/events/3/pages/3/91/Dialogue
+> CONTEXT: Map037/events/3/pages/3/117/Dialogue
+I got 500 g!#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物の体の一部を……if(s[114])
+> CONTEXT: Map037/events/3/pages/3/109/Choice/0
+A part of the monster's body ......if(s[114])#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物の体の一部を……２if(s[215])
+> CONTEXT: Map037/events/3/pages/3/109/Choice/1
+A part of the monster's body ...... 2if(s[215])#MTLed
+> END STRING
+
+> BEGIN STRING
+地下水道の調査if(s[209])
+> CONTEXT: Map037/events/3/pages/3/109/Choice/2
+Investigation of underground water supplyif(s[209])#MTLed
+> END STRING
+
+> BEGIN STRING
+娘の稽古相手if(s[120])
+> CONTEXT: Map037/events/3/pages/3/109/Choice/3
+Daughter's lessonif(s[120])#MTLed
+> END STRING
+
+> BEGIN STRING
+1000G 手に入れた！
+> CONTEXT: Map037/events/3/pages/3/169/Dialogue
+> CONTEXT: Map037/events/3/pages/3/194/Dialogue
+I got 1000 g!#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士の練習相手if(s[119])
+> CONTEXT: Map037/events/3/pages/3/213/Choice/0
+Soldier practice partnerif(s[119])#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物退治：高原if(s[117])
+> CONTEXT: Map037/events/3/pages/3/213/Choice/1
+monster extermination: plateauif(s[117])#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物退治：森if(s[118])
+> CONTEXT: Map037/events/3/pages/3/213/Choice/2
+monster extermination: forestif(s[118])#MTLed
+> END STRING
+
+> BEGIN STRING
+カバンの盗難if(s[160])
+> CONTEXT: Map037/events/3/pages/3/213/Choice/3
+Bag theftif(s[160])#MTLed
+> END STRING
+
+> BEGIN STRING
+20G　手に入れた！
+> CONTEXT: Map037/events/3/pages/3/231/Dialogue
+I got 20G!#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「今回は、先方の期待を裏切ってしまったみたいね。
+次はもうちょっと頑張ってね」
+> CONTEXT: Map037/events/3/pages/3/234/Dialogue
+Receptionist
+「This time I seem to have betrayed expectations from the other side.
+Good luck with a little bit next time」#MTLed
+> END STRING
+
+> BEGIN STRING
+800G 手に入れた！
+> CONTEXT: Map037/events/3/pages/3/259/Dialogue
+I got 800 G!#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「今回はシェリーと共同で依頼をこなしたみたいだから、
+報酬は折半だけど、充分な額のはずよ。
+この調子で、今後も頑張ってね」
+> CONTEXT: Map037/events/3/pages/3/262/Dialogue
+Receptionist
+「Because she seems to have done a request in collaboration with Sherry this time,
+The reward is a half, but it should be a sufficient amount.
+Good luck with this condition as well.」#MTLed
+> END STRING
+
+> BEGIN STRING
+10000G 手に入れた！
+> CONTEXT: Map037/events/3/pages/3/287/Dialogue
+I got 10000 G!#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「この依頼を達成しちゃうなんて、キミって凄いのね。
+これ以上難しい魔物退治の依頼は、もうないわよ」
+> CONTEXT: Map037/events/3/pages/3/290/Dialogue
+Receptionist
+「It is amazing how you will achieve this request.
+There is no longer a request for a more difficult monster extermination」#MTLed
+> END STRING
+
+> BEGIN STRING
+養子候補を探しているif(s[116])
+> CONTEXT: Map037/events/3/pages/3/309/Choice/0
+I am looking for an adopted candidateif(s[116])#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「その依頼は……そうそう達成はできなさそうね。
+おそらく達成できるとしたら大会終了後でしょうね」
+> CONTEXT: Map037/events/3/pages/3/311/Dialogue
+Receptionist
+「That request...... I can not do so.
+Probably if it can be achieved it will be after the end of tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「あら、報告したいことはないのね」
+> CONTEXT: Map037/events/3/pages/3/317/Dialogue
+Receptionist
+「Oh, there is nothing I want to report」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「何を聞きたいのかしら？」
+> CONTEXT: Map037/events/3/pages/3/324/Dialogue
+Receptionist
+「What do you want to ask?」#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼の受け方について
+> CONTEXT: Map037/events/3/pages/3/327/Choice/0
+About how to receive requests#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼を受けたら/依頼内容を忘れてしまったら
+> CONTEXT: Map037/events/3/pages/3/327/Choice/1
+If you receive a request / if you forget the content of the request#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼を完了したら
+> CONTEXT: Map037/events/3/pages/3/327/Choice/2
+After completing the request#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼を途中でやめることはできるの？
+> CONTEXT: Map037/events/3/pages/3/327/Choice/3
+Can I cancel the request halfway?#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「依頼を受けたい場合、ギルドの壁に貼ってある
+掲示板を見てみてね。
+請負可能な依頼は光っているから判別がつくわよ。
+> CONTEXT: Map037/events/3/pages/3/329/Dialogue
+Receptionist
+「If you want to receive a request, it is stuck on the wall of the guild
+Look at the bulletin board.
+Since contractable requests are shining, discrimination is made.#MTLed
+> END STRING
+
+> BEGIN STRING
+内容を見て依頼を受けたいと思ったら、
+『請け負う』を選択してね。
+それで依頼開始になるから」
+> CONTEXT: Map037/events/3/pages/3/334/Dialogue
+If you want to see requests and receive requests,
+Please select "undertake".
+So it will start requesting」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「依頼を請け負ったら、基本的には依頼主のところに行って
+詳細を聞いて、ミッションを遂行してね。
+完了したら依頼主に報告ののち、ギルドにも報告をお願いね。
+> CONTEXT: Map037/events/3/pages/3/340/Dialogue
+Receptionist
+「When you undertake the request, basically go to the client
+Listen to the details and fulfill the mission.
+Please report it to the guild after reporting to the client if done.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちなみに、途中で依頼の内容を忘れたりしちゃったときは、
+依頼票をアイテムとして使用することで
+依頼内容や途中経過を思い出すことができるわよ」
+> CONTEXT: Map037/events/3/pages/3/345/Dialogue
+By the way, when I forgot the content of the request on the way,
+By using the request form as an item
+You can recall the details of the request and the progress」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「依頼主に報告してミッションを完遂したら、
+必ず私のところにも来て、報告をしてね。
+依頼主は報酬をギルドに前払いしているから――
+> CONTEXT: Map037/events/3/pages/3/351/Dialogue
+Receptionist
+「After reporting to the client and completing the mission,
+Be sure to come and report to me as well.
+The client pre-pays the compensation for the guild -#MTLed
+> END STRING
+
+> BEGIN STRING
+私に報告してくれないと、報酬を受け取れないわよ？
+それに、私に完遂報告をすると冒険者としての評価が上がるから
+高度な依頼を任せることもできるようになるわ」
+> CONTEXT: Map037/events/3/pages/3/356/Dialogue
+If you do not report it to me, you can not receive the reward?
+Also, when I report completion to me, my evaluation as an adventurer rises
+I will be able to give you an advanced request」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「途中放棄はできないわ。
+ただ、同じ依頼を別の人も請け負っていたり、
+依頼自体にも時間制限があることが多いから――
+> CONTEXT: Map037/events/3/pages/3/362/Dialogue
+Receptionist
+「I can not give up on the way.
+However, the same request is undertaken by another person,
+Because there are often time limitations on the request itself -#MTLed
+> END STRING
+
+> BEGIN STRING
+時期が過ぎれば自然と失敗扱いになって、
+依頼は消滅するわ。
+ただ、できるだけ完遂することをお勧めするけどね」
+> CONTEXT: Map037/events/3/pages/3/367/Dialogue
+Once the timing has passed, it will be handled as nature and failure,
+The request will disappear.
+However, I recommend you to complete as much as possible」#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼は増えないの？
+> CONTEXT: Map037/events/3/pages/3/373/Choice/0
+Does not the request increase?#MTLed
+> END STRING
+
+> BEGIN STRING
+同じ依頼を受けている人がいた場合
+> CONTEXT: Map037/events/3/pages/3/373/Choice/1
+When there was a person receiving the same request#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「最初は簡単な依頼しか受けることができないけれど、
+依頼をいくつかこなしていけば、新たな依頼が出現するわよ。
+それ以外にも、時期が来たら請負可能になる依頼もあるわ」
+> CONTEXT: Map037/events/3/pages/3/375/Dialogue
+Receptionist
+「At the beginning you can only receive simple requests,
+If you do some request, a new request will emerge.
+Besides that, there is a request to become contractable when the time comes」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「ギルド内でも、当然だけど競争はあるわ。
+同じ依頼を受けている人がいた場合、報酬を巡って
+争いになってしまうこともあるかもね。
+> CONTEXT: Map037/events/3/pages/3/382/Dialogue
+Receptionist
+「Even within the guild, there is a competition though naturally.
+If there is a person receiving the same request, around the reward
+It may be a battle.#MTLed
+> END STRING
+
+> BEGIN STRING
+その場合は、仕方ないけれど
+先に依頼を達成できた人だけが報酬を受け取れることになるわ。
+ライバルに負けないよう、頑張ってね」
+> CONTEXT: Map037/events/3/pages/3/387/Dialogue
+In that case, it can not be helped though
+Only those who can achieve the request earlier will receive the reward.
+Do your best, so that you will not lose to rivals」#MTLed
+> END STRING
+
+> BEGIN STRING
+●特別な魚（難度：1）
+依頼者：アーロン　　　期間：武道大会開催前日まで
+王都周辺に生息していない魚を獲ってきてもらいたい。
+詳しくは東区・レストラン店主のアーロンまで。
+> CONTEXT: Map037/events/4/pages/0/1/Dialogue
+●Special fish(Difficulty: 1)
+Client:AaronTime Limit：
+Martial arts tournament until the day before holding
+tournament. I would like you to catch fish not inhabiting
+the kingdom. For details, please east to Akira restaurant
+shop owner Aaron.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この依頼は請負中だな」
+> CONTEXT: Map037/events/4/pages/0/9/Dialogue
+> CONTEXT: Map037/events/5/pages/0/8/Dialogue
+> CONTEXT: Map037/events/6/pages/0/7/Dialogue
+> CONTEXT: Map037/events/15/pages/0/8/Dialogue
+> CONTEXT: Map037/events/16/pages/0/7/Dialogue
+> CONTEXT: Map037/events/17/pages/0/7/Dialogue
+> CONTEXT: Map037/events/18/pages/0/9/Dialogue
+> CONTEXT: Map037/events/19/pages/0/7/Dialogue
+> CONTEXT: Map037/events/20/pages/0/8/Dialogue
+> CONTEXT: Map037/events/22/pages/0/9/Dialogue
+> CONTEXT: Map037/events/23/pages/0/6/Dialogue
+> CONTEXT: Map037/events/24/pages/0/7/Dialogue
+> CONTEXT: Map037/events/25/pages/0/7/Dialogue
+\\N[12]
+「This request is under contract.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この依頼を請け負うか？」
+> CONTEXT: Map037/events/4/pages/0/14/Dialogue
+> CONTEXT: Map037/events/5/pages/0/13/Dialogue
+> CONTEXT: Map037/events/6/pages/0/12/Dialogue
+> CONTEXT: Map037/events/15/pages/0/13/Dialogue
+> CONTEXT: Map037/events/16/pages/0/12/Dialogue
+> CONTEXT: Map037/events/17/pages/0/12/Dialogue
+> CONTEXT: Map037/events/18/pages/0/14/Dialogue
+> CONTEXT: Map037/events/19/pages/0/12/Dialogue
+> CONTEXT: Map037/events/20/pages/0/13/Dialogue
+> CONTEXT: Map037/events/22/pages/0/14/Dialogue
+> CONTEXT: Map037/events/23/pages/0/11/Dialogue
+> CONTEXT: Map037/events/24/pages/0/12/Dialogue
+> CONTEXT: Map037/events/25/pages/0/12/Dialogue
+\\N[12]
+「Do you undertake this request?」#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『特別な魚』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/4/pages/0/20/Dialogue
+Request "Special fish"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+●特別な魚（難度：1）
+依頼者：アーロン
+王都周辺に生息していない魚を獲ってきてもらいたい。
+詳しくは東区・レストラン店主のアーロンまで。
+> CONTEXT: Map037/events/4/pages/2/1/Dialogue
+●Special fish(Difficulty: 1)
+Client:Aaron
+I would like you to catch fish not inhabiting the kingdom.
+For details, please east to Akira restaurant shop owner
+Aaron.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この依頼は達成済みだが、まだ報酬を受け取っていないな。
+受付のお姉さんに達成報告をしよう」
+> CONTEXT: Map037/events/4/pages/2/7/Dialogue
+> CONTEXT: Map037/events/5/pages/2/7/Dialogue
+> CONTEXT: Map037/events/6/pages/2/7/Dialogue
+> CONTEXT: Map037/events/15/pages/2/7/Dialogue
+> CONTEXT: Map037/events/16/pages/2/7/Dialogue
+> CONTEXT: Map037/events/17/pages/1/7/Dialogue
+> CONTEXT: Map037/events/18/pages/2/7/Dialogue
+> CONTEXT: Map037/events/19/pages/1/7/Dialogue
+> CONTEXT: Map037/events/20/pages/1/7/Dialogue
+> CONTEXT: Map037/events/24/pages/2/7/Dialogue
+> CONTEXT: Map037/events/25/pages/1/7/Dialogue
+\\N[12]
+「I have already reached this request, but still received a reward.
+Let's report achievement to reception sister」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この依頼は達成済みだな」
+> CONTEXT: Map037/events/4/pages/2/13/Dialogue
+> CONTEXT: Map037/events/5/pages/2/13/Dialogue
+> CONTEXT: Map037/events/6/pages/2/13/Dialogue
+> CONTEXT: Map037/events/15/pages/2/13/Dialogue
+> CONTEXT: Map037/events/16/pages/2/13/Dialogue
+> CONTEXT: Map037/events/17/pages/1/13/Dialogue
+> CONTEXT: Map037/events/18/pages/2/13/Dialogue
+> CONTEXT: Map037/events/19/pages/1/13/Dialogue
+> CONTEXT: Map037/events/20/pages/1/13/Dialogue
+> CONTEXT: Map037/events/24/pages/2/13/Dialogue
+> CONTEXT: Map037/events/25/pages/1/13/Dialogue
+\\N[12]
+「This request has already been achieved」#MTLed
+> END STRING
+
+> BEGIN STRING
+●三種のキノコ収集（難度：2）
+依頼者：バロア　　　期間：武道大会開催前日まで
+魔法の実験に使う三種類のキノコを5本ずつ集めてください。
+詳しくは東区・エルミア王立学院のバロアまで。
+> CONTEXT: Map037/events/5/pages/0/1/Dialogue
+●Three mushroom collections(Difficulty: 2)
+Client:Baroa
+Time Limit：Martial arts tournament until the day before
+holding tournament. Please collect 5 mushrooms to use for
+magical experiments. For details, please contact Baroa of
+Higashi-ku · Elmia Royal College.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『三種のキノコ収集』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/5/pages/0/19/Dialogue
+Request "Three kinds of mushroom collection"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+●三種のキノコ収集（難度：2）
+依頼者：バロア
+魔法の実験に使う三種類のキノコを5本ずつ集めてください。
+詳しくは東区・エルミア王立学院のバロアまで。
+> CONTEXT: Map037/events/5/pages/2/1/Dialogue
+●Three mushroom collections(Difficulty: 2)
+Client:Baroa
+Please collect 5 mushrooms to use for magical experiments.
+For details, please contact Baroa of Higashi-ku · Elmia
+Royal College.#MTLed
+> END STRING
+
+> BEGIN STRING
+●地下水道の調査（難度：2）
+依頼者：ティシア　　　期間：武道大会準決勝前日まで
+地下水道から不気味なうなり声が聞こえることがあります。
+調査してくれる人を募集します。詳細は東区・北側住宅街ティシアまで。
+> CONTEXT: Map037/events/6/pages/0/1/Dialogue
+●Investigation of underground water supply(Difficulty: 2
+)
+Client:TitiaTime Limit：Martial arts tournament until the
+day before the semifinals. You may hear an eerie groan from
+underground water supply. We are looking for people to
+investigate. For details, please contact Titia, Higashi-ku
+and north side residential area.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『地下水道の調査』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/6/pages/0/18/Dialogue
+Request "Investigation of underground water supply"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+●地下水道の調査（難度：2）
+依頼者：ティシア
+地下水道から不気味なうなり声が聞こえることがあります。
+調査してくれる人を募集します。詳細は東区・北側住宅街ティシアまで。
+> CONTEXT: Map037/events/6/pages/2/1/Dialogue
+●Investigation of underground water supply(Difficulty: 2
+)
+Client:Titia. You may hear an eerie groan from
+underground water supply. We are looking for people to
+investigate. For details, please contact Titia, Higashi-ku
+and north side residential area.#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「依頼にもいろいろある。
+じっくりと進められるものもあれば、
+期間限定のものもあるから気をつけてな」
+> CONTEXT: Map037/events/7/pages/0/0/Dialogue
+Fighter
+「There is also a request.
+Some can be thoroughly advanced,
+Please be careful as it has a limited time.」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法使い
+「依頼は一度受けたら中断はできないけれど、
+時期を過ぎると失敗扱いになってしまうわ。
+できれば、時間経過させずに完遂したほうがいいわね」
+> CONTEXT: Map037/events/8/pages/0/0/Dialogue
+Witch
+「Once you receive the request, you can not interrupt it,
+It will be treated as a failure when the time passes.
+If possible, you'd better complete it without passing over time」#MTLed
+> END STRING
+
+> BEGIN STRING
+老戦士
+「依頼内容は魔物退治のような定番から
+雑用のようなものまで様々じゃ。
+だが、報酬は確実に出るから、やって損はないぞ」
+> CONTEXT: Map037/events/9/pages/0/0/Dialogue
+Old warrior
+「Contents of request are like classic like monster extermination
+There are various things like chores.
+But, since the reward will surely come out, you will not lose it」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「王都は人が多い分、こういう依頼の数も多いのね。
+武道大会が始まるまでの腕試しにはちょうどいいし
+いろいろやろうかな」
+> CONTEXT: Map037/events/10/pages/0/0/Dialogue
+Woman
+「As there are many people in the capital city, there are many such requests.
+It is just right to test the martial arts until the beginning of tournament
+Let's do it」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「騎士団なんかもギルドに依頼をしに来ることがあるんだよ。
+公僕の立場からだと対処しづらい案件もあるんでね」
+> CONTEXT: Map037/events/11/pages/0/0/Dialogue
+A soldier
+「Some of the Order may come to ask the guild.
+Because there are also difficult cases to deal with if it is from public position」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「報酬は依頼達成後に受付で受け取れるが、
+例外的に依頼者から直接受け取れることもある。
+アイテムでなくスキルが報酬の場合などはそうなるんだ」
+> CONTEXT: Map037/events/12/pages/0/0/Dialogue
+Youth
+「Remuneration can be received at the reception after the achievement of the request,
+Sometimes it is possible to receive it directly from the client.
+It will be the case if the skill is reward rather than item」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ん……？
+あ、あれは……！」
+> CONTEXT: Map037/events/13/pages/0/3/Dialogue
+\\N[12]
+「Hmm……?
+Oh, that is ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「間違いない、あのときのっ！」
+> CONTEXT: Map037/events/13/pages/0/9/Dialogue
+\\N[12]
+「There is no doubt, that time!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「シェリーっ！」
+> CONTEXT: Map037/events/13/pages/0/22/Dialogue
+\\N[12]
+「Sherry!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「え？　えっと、キミは……」
+> CONTEXT: Map037/events/13/pages/0/29/Dialogue
+Sherry. 「Huh? Er, you are ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「忘れたとは言わせないぜ、シェリー！
+レストンの村でお前にやられた、
+自警団の\\N[12]だ！」
+> CONTEXT: Map037/events/13/pages/0/32/Dialogue
+\\N[12]
+「I will not say that I forgot, Sherry!
+You were knocked down in the village of Reston,
+Vigilante's \\N[12] It is!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「そうそう、そんな名前だったね。もちろん覚えてるよ。
+こんなところで会うなんて思わなかったから
+ビックリしちゃった」
+> CONTEXT: Map037/events/13/pages/0/37/Dialogue
+Sherry. 「Oh yeah, it was such a name. Of course
+I remember. Because I never thought of meeting in
+such a place. I was surprised」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「やっぱり王都に来ていたんだな」
+> CONTEXT: Map037/events/13/pages/0/42/Dialogue
+\\N[12]
+「After all it was coming to the Kingdom」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「そりゃね、そろそろ武道大会が始まっちゃうし。
+キミはどうしてここに？」
+> CONTEXT: Map037/events/13/pages/0/45/Dialogue
+Sherry. 「Well, it's time for martial arts
+tournament to begin. Why are you here?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺も武道大会に出場するために来た。
+この前は負けたが、今度はああはいかないぜ。
+大舞台で、あのときの借りを返してやるからなっ！」
+> CONTEXT: Map037/events/13/pages/0/49/Dialogue
+\\N[12]
+「I also came to participate in martial arts tournament.
+I lost before this but ah will not go this time.
+I will return the debt at that time on the big stage!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「お、いいねぇ。そういう熱いのは嫌いじゃないよ。
+そういうことなら武道大会での対戦、
+楽しみにしてるね。私も負けないよー」
+> CONTEXT: Map037/events/13/pages/0/54/Dialogue
+Sherry. 「Oh, no. I hate that kind of hot thing.
+In such a case the battle in martial arts
+tournament, I'm looking forward. I will not lose
+either」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、余裕かましやがって……」
+> CONTEXT: Map037/events/13/pages/0/59/Dialogue
+\\N[12]
+「Ku 」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「それはそうと、キミもギルドに仕事を受けにきたの？」
+> CONTEXT: Map037/events/13/pages/0/62/Dialogue
+Sherry. 「That's right, did you come to work for
+the guild?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へ？」
+> CONTEXT: Map037/events/13/pages/0/65/Dialogue
+\\N[12]
+「?」#MTLed
+> CONTEXT: Map036/events/14/pages/0/323/Dialogue
+\\N[12]. 「?」#MTLed
+> CONTEXT: Commonevents/262/225/Dialogue
+\\N[12]. 「?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ここで依頼を請け負って魔物退治とかするんじゃないの？
+私も、武道大会前に少しでも腕を磨きたくて
+今も面白そうなのを見つくろってたところだったんだよ」
+> CONTEXT: Map037/events/13/pages/0/68/Dialogue
+Sherry. 「Will you undertake requests here and do
+not do monster extermination? I also want to
+refine my arms a little before martial arts
+tournament. I was about to find out that it seems
+to be interesting now」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「もしかすると、お互い依頼をこなしているうちに
+どこかで競争になっちゃうこともあるかもね。
+んじゃ、キミも頑張ってねっ！」
+> CONTEXT: Map037/events/13/pages/0/73/Dialogue
+Sherry. 「Perhaps, while we are doing each
+other's request. Sometimes it will be competing
+somewhere. Hey, do your best, too!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……なんだか、やることなすこと先を行かれているような感じだ。
+いや、弱気になっていちゃダメだ、
+あいつに負けないよう、大会までに腕を磨かなくちゃな」
+> CONTEXT: Map037/events/13/pages/0/100/Dialogue
+\\N[12]
+「......It seems that somehow it is going ahead to do things to do.
+No, do not be bearish,
+I have to brush my arm before tournament so as not to be defeated by him」#MTLed
+> END STRING
+
+> BEGIN STRING
+●兵士の練習相手（難度：3）
+依頼者：王国兵士ラナ＝クレストル　期間：武道大会終了まで
+外部の人と手合わせをしたいと思っています。腕の立つ方募集。
+詳しくは中央区・兵士独身寮のラナまでお願いいたします。
+> CONTEXT: Map037/events/15/pages/0/2/Dialogue
+●Soldier practice partner(Difficulty: 3)
+Client:Kingdom
+soldier Rana = CrestolTime Limit：Martial arts tournament
+until the end. I'd like to make an appointment with an
+outside person. Wanted people looking for arms.
+For details, please ask Rana in Chuo-ku and soldier single
+dormitories.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『兵士の練習相手』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/15/pages/0/19/Dialogue
+Request "Partner of a soldier's practice"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+●兵士の練習相手（難度：3）
+依頼者：王国兵士ラナ＝クレストル　　期間：無制限
+外部の人と手合わせをしたいと思っています。腕の立つ方募集。
+詳しくは中央区・兵士独身寮のラナまでお願いいたします。
+> CONTEXT: Map037/events/15/pages/2/1/Dialogue
+●Soldier practice partner(Difficulty: 3)
+Client:Kingdom
+soldier Rana = CrestolTime Limit：Unlimited
+I'd like to make an appointment with an outside person.
+Wanted people looking for arms. For details, please ask
+Rana in Chuo-ku and soldier single dormitories.#MTLed
+> END STRING
+
+> BEGIN STRING
+●ミルクが欲しい（難度：1）
+依頼者：ルゼット＝メルグ　　　期間：武道大会開催前日まで
+赤ちゃんのためのミルクを北の村で買ってきてほしいのです。
+詳しくは東区・東側住宅街ルゼット＝メルグまで。
+> CONTEXT: Map037/events/16/pages/0/1/Dialogue
+●I want some milk.(Difficulty: 1)
+Client:Lzet = MergTime
+Limit：Martial arts tournament until the day before holding
+tournament. I would like you to buy milk for the baby in
+the village in the north. For details, please see East
+District / East side residential area Lzet = Merg.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『ミルクが欲しい』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/16/pages/0/18/Dialogue
+Request "I want a milk"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+●ミルクが欲しい（難度：1）
+依頼者：ルゼット＝メルグ
+赤ちゃんのためのミルクを北の村で買ってきてほしいのです。
+詳しくは東区・東側住宅街ルゼット＝メルグまで。
+> CONTEXT: Map037/events/16/pages/2/1/Dialogue
+●I want some milk.(Difficulty: 1)
+Client:Lzet = Merg
+I would like you to buy milk for the baby in the village in
+the north. For details, please see East District / East
+side residential area Lzet = Merg.#MTLed
+> END STRING
+
+> BEGIN STRING
+●魔物退治：森（難度：5）
+依頼者：エルミア王宮　　　期間：無期限
+王都南西に広がるレヴァスティの森に危険な魔物が出現しました。
+現在、軍は手が回らないのでギルドで退治をお願いしたく思います。
+> CONTEXT: Map037/events/17/pages/0/1/Dialogue
+> CONTEXT: Map037/events/17/pages/1/1/Dialogue
+●monster extermination: forest(Difficulty: Five)
+Client:
+Royal Palace of ElmiaTime Limit：Indefinite period
+A dangerous monster appeared in the forest of Lavasti
+spreading southwest of the capital. Currently, since the
+army does not turn, I want to ask you to exterminate with
+the guild.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『魔物退治：森』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/17/pages/0/18/Dialogue
+Request "monster extermination: forest"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]※この依頼は依頼主に確認を取る必要はありません。
+直接目的地に赴き、任務を遂行してください。
+> CONTEXT: Map037/events/17/pages/0/24/Dialogue
+> CONTEXT: Map037/events/25/pages/0/24/Dialogue
+\\C[2]※ This request does not require confirmation to the client.
+Please go directly to your destination and carry out your duties.#MTLed
+> END STRING
+
+> BEGIN STRING
+●魔物退治：高原（難度：4）
+依頼者：ウィギス村長　　　期間：武道大会準決勝前日まで
+ウィギスの村の北に広がる高原の様子が最近おかしい。
+雪の魔物が現れ、吹雪を激化させているようだ。退治してほしい。
+> CONTEXT: Map037/events/18/pages/0/3/Dialogue
+> CONTEXT: Map037/events/18/pages/2/1/Dialogue
+●monster extermination: plateau(Difficulty: Four)
+Client:
+Wigheis village headTime Limit：Martial arts tournament
+until the day before the semifinals. The state of the
+plateau extending north of the village of Wigheis is
+strange recently. A snow monster appears, and it seems that
+the snowstorm is intensifying. I want you to get rid of it.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『魔物退治：高原』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/18/pages/0/20/Dialogue
+Request "monster extermination: plateau"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+●魔物の体の一部を集めてきてほしい（難度：2）
+依頼者：中央区道具屋　　　期間：無期限
+魔物の体の一部を採取してきてもらいたい。
+詳しくは中央区道具屋まで。
+> CONTEXT: Map037/events/19/pages/0/1/Dialogue
+●I would like you to collect some of the monster's body
+(Difficulty: 2)
+Client:Chuo Ward tool storeTime Limit：
+Indefinite period. I would like you to collect a part of
+the monster's body. For details, go to Chuuu-ku tool store.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『魔物の体の一部を集めてきてほしい』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/19/pages/0/18/Dialogue
+Request "I want you to collect a part of the body of monster"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+●魔物の体の一部を集めてきてほしい（難度：2）
+依頼者：中央区道具屋
+魔物の体の一部を採取してきてもらいたい。
+詳しくは中央区道具屋まで。
+> CONTEXT: Map037/events/19/pages/1/1/Dialogue
+●I would like you to collect some of the monster's body
+(Difficulty: 2)
+Client:Chuo Ward tool store
+I would like you to collect a part of the monster's body.
+For details, go to Chuuu-ku tool store.#MTLed
+> END STRING
+
+> BEGIN STRING
+●魔物の体の一部を集めてきてほしい２（難度：4）
+依頼者：中央区道具屋　　　期間：無制限
+魔物の体の一部を、また採取してきてもらいたい。
+詳しくは中央区道具屋まで。
+> CONTEXT: Map037/events/20/pages/0/2/Dialogue
+> CONTEXT: Map037/events/20/pages/1/1/Dialogue
+●I want you to gather some of the body of monster 2
+(Difficulty: Four)
+Client:Chuo Ward tool storeTime Limit：
+Unlimited. I would like you to collect some of the body of
+monster again. For details, go to Chuuu-ku tool store.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『魔物の体の一部を集めてきてほしい２』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/20/pages/0/19/Dialogue
+Request "I want you to collect some of the body of monster 2"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+『依頼を受ける方は、
+各掲示板に備え付けの依頼票を取り、
+依頼主のもとに出向いてください』
+と書いてある。
+> CONTEXT: Map037/events/21/pages/0/0/Dialogue
+"If you receive a request,
+Taking request form attached to each bulletin board,
+Please go to the client. "
+It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+●養子候補を探している（難度：?）
+依頼者：グランレルム伯爵　　　期間：無期限
+グランレルム家の跡取りにふさわしい養子の候補を探している。
+詳しくは私の家で。日中は留守なので、武道大会の試合後に来てくれ。
+> CONTEXT: Map037/events/22/pages/0/3/Dialogue
+●I am looking for an adopted candidate(Difficulty: ?
+)
+Client:Earl GrandrealmTime Limit：Indefinite period
+I am looking for a candidate for adoption appropriate for
+the Grandrealm family's trace. For details, at my house. As
+I am out during the day, come after the game of martial
+arts tournament.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『養子候補を探している』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/22/pages/0/20/Dialogue
+Request "I am looking for an adopted candidate"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+●カバンの盗難（難度：3）
+依頼者：ヴィオラ　　　期間：武道大会決勝戦前日まで
+盗まれたカバンを探して欲しい。
+詳しくはホテル・リバーリーフ２階にて。
+> CONTEXT: Map037/events/23/pages/0/0/Dialogue
+●Bag theft(Difficulty: 3)
+Client:ViolaTime Limit：Martial
+arts tournament until the day before the final match
+I would like you to look for a stolen bag.
+For more information on Hotel River Leaf 2nd floor.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『カバンの盗難』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/23/pages/0/17/Dialogue
+Request "Theft of bags"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+●娘の練習相手（難度：1）
+依頼者：ベックフォード侯爵　　　期間：武道大会開催前日まで
+我が娘の剣術の稽古相手を探している。
+我こそはと思う者は中央区南東のベックフォード邸へ来られたし。
+> CONTEXT: Map037/events/24/pages/0/1/Dialogue
+> CONTEXT: Map037/events/24/pages/2/1/Dialogue
+●My daughter's practice partner(Difficulty: 1)
+Client:
+Beckford MarquisTime Limit：Martial arts tournament until
+the day before holding tournament. I am looking for my
+daughter's swordsmanship lesson. Those who I think are
+coming to Beckford House in southeast Chuo - ku.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『娘の練習相手』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/24/pages/0/18/Dialogue
+Request "Practice partner of daughter"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+●魔物退治：街道（難度：1）
+依頼者：エルミア商工組合　　　期間：無期限
+王都西～北西の街道にて凶暴な魔物が多数発生しています。
+軍だけでは手が回らないようなので、退治にご協力をお願いします。
+> CONTEXT: Map037/events/25/pages/0/1/Dialogue
+●monster extermination: highway(Difficulty: 1)
+Client:
+Elmere Commerce and Industry AssociationTime Limit：
+Indefinite period. Many ferocious monsters have occurred in
+the roads of the king-nishi-northwest. It seems that hands
+do not turn around with the army alone, so please cooperate
+in getting rid of it.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼『魔物退治：街道』の
+依頼票を手に入れた。
+> CONTEXT: Map037/events/25/pages/0/18/Dialogue
+Request "monster extermination: highway"
+I got a request form.#MTLed
+> END STRING
+
+> BEGIN STRING
+●魔物退治：街道（難度：1）
+依頼者：エルミア商工組合
+王都西～北西の街道にて凶暴な魔物が多数発生しています。
+軍だけでは手が回らないようなので、退治にご協力をお願いします。
+> CONTEXT: Map037/events/25/pages/1/1/Dialogue
+●monster extermination: highway(Difficulty: 1)
+Client:
+Elmere Commerce and Industry Association
+Many ferocious monsters have occurred in the roads of the
+king-nishi-northwest. It seems that hands do not turn
+around with the army alone, so please cooperate in getting
+rid of it.#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「最初は難度１の依頼しか受けることができないけれど、
+いろいろ依頼をこなしていけば、
+より難度の高い依頼に挑戦できるようになるわよ。
+> CONTEXT: Map037/events/26/pages/0/0/Dialogue
+Woman
+「Although we can only accept requests for difficulty 1 at the beginning,
+If you do the request,
+You will be able to challenge more difficult requests.#MTLed
+> END STRING
+
+> BEGIN STRING
+あとは、時間がたてば出現する依頼もあるわ。
+\\C[2]武道大会が始まったら\\C[0]
+改めてチェックしに来てみるといいかもね」
+> CONTEXT: Map037/events/26/pages/0/5/Dialogue
+After that, there is a request to appear in time.
+\\C[2]When martial arts tournament begins\\C[0]
+You might as well come and check it out」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「時期によって新たに出現する依頼や
+依頼をこなした数によって出現する依頼は、危険なものが多いです。
+そういうものは上位依頼になるので、当然ですが……」
+> CONTEXT: None < UNUSED
+A maid
+「Requests that newly appear depending on the timing
+Requests that appear due to the number of requests made are often dangerous.
+Because such things become top requests, it is natural, but ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「同じ依頼を受けた冒険者同士での争いは黙認されておりますが、
+あまりに無法、あるいは卑劣なことをすれば制裁を受けます。
+なので、他の冒険者に殺されるような心配はまずありませんよ」
+> CONTEXT: Map037/events/28/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

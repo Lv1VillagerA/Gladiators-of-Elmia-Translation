@@ -1,0 +1,2337 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+アナウンス
+『まずは西側、エルミア王国南部に位置するレストンの村出身、
+剣士\\N[12]！　若き新鋭です！』
+> CONTEXT: Map043/events/24/pages/6/7/Dialogue
+announcement. "First of all, from the village of Reston
+located in the south of Elmia kingdom in the West,
+Swordsman \\N[12] ! It is young and fresh! "#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『ダークホースともいえるこの二人のぶつかり合い！
+どのような結末になるのでしょうか！』
+> CONTEXT: Map043/events/24/pages/6/33/Dialogue
+announcement. "Battle between these two people can also be
+called dark horse! What will be the ending! "#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『果たしてミリーナ選手は応援に応えることができるのか、
+それともレストンの剣士が男の意地を見せるのか！
+大注目の１回戦第２試合、いよいよ開始です！』
+> CONTEXT: Map043/events/24/pages/6/87/Dialogue
+announcement. "Will Mileena players be able to respond to
+support, Or are the Reston swordsmers showing the man's
+nominal! The 2nd game of the hottest attention, it is the
+start!"#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『決まったぁ！　ミリーナ選手の大剣をしのぎきり、
+\\N[12]選手が１回戦突破ですっ！』
+> CONTEXT: Map043/events/24/pages/6/101/Dialogue
+announcement. "We have decided! I will beat the big sword
+of Mileena, \\N[12] The athlete has passed through the
+first round! "#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]君、キミも一度は\\C[2]うちの武具店に来てみて\\C[0]ね！
+損はさせないよ～」
+> CONTEXT: Map043/events/24/pages/6/246/Dialogue
+\\N[12] Kimi, you too\\C[2] Come to our armor shop\\C[0]
+Right! I will not let you lose ~」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は年下の少女に敗れたあげく、
+この後、足繁くプリムの家に通い、
+彼女に剣で叩きのめされた後に射精させられるという
+日々を送ることになる。
+> CONTEXT: Map043/events/24/pages/7/179/Dialogue
+\\N[12] He was defeated by a younger girl,
+After this, I went to Purim 's house where my legs were
+busy, She is made to be ejaculated after being beaten by a
+sword with a sword. I will send my days.#MTLed
+> END STRING
+
+> BEGIN STRING
+小さな女の子に剣で圧倒的な才能の差を見せつけられた上、
+性的にも手玉に取られてしまうことになった\\N[12]。
+もはや男のプライドは粉々になってしまった。
+> CONTEXT: Map043/events/24/pages/7/184/Dialogue
+> CONTEXT: Map005/events/3/pages/0/245/Dialogue
+He showed the overwhelming talent difference with a small
+girl with a sword, I was sexually taken over by hand
+\\N[12] . The man's pride is no longer shattered.#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム バッドエンド：年下の女の子に……
+> CONTEXT: Map043/events/24/pages/7/188/Dialogue
+> CONTEXT: Map005/events/3/pages/0/262/Dialogue
+Purim bad end: To younger girls ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は自分よりも年下の
+貴族の少女に、圧倒的な才能の差を見せつけられた上
+性的な恥辱まで味わわされ、完全敗北を喫した。
+> CONTEXT: Map043/events/24/pages/8/392/Dialogue
+> CONTEXT: Map043/events/24/pages/9/269/Dialogue
+> CONTEXT: Map043/events/121/pages/0/314/Dialogue
+> CONTEXT: Map043/events/121/pages/1/392/Dialogue
+\\N[12] He is younger than me. A nobleman girl showed
+overwhelming talent difference. I was tasted until sexual
+shame, and I lost a complete defeat.#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]はベルベットに敗れ、
+かつての勝負のリベンジをされてしまった。
+> CONTEXT: Map043/events/24/pages/12/175/Dialogue
+In this way, \\N[12] He lost to velvet, It has been a
+revenge of the past match.#MTLed
+> CONTEXT: Commonevents/152/226/Dialogue
+> CONTEXT: Commonevents/228/633/Dialogue
+In this way, \\N[12] He lost to velvet,
+It has been a revenge of the past match.#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+「\\N[12]選手、よくぞ頂点へ登りつめました。
+あなたが今大会における最強の戦士であることを
+女王ルフティナの名において認めましょう」
+> CONTEXT: Map043/events/28/pages/2/7/Dialogue
+Queen Luftina. 「\\N[12] The athletes climbed
+to the top at best. You are now the strongest
+warrior in tournament. Let's admit in the name of
+Queen Luftina」#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+「レストン出身者が優勝したのは、とても久しぶりのこと。
+王都ばかりでなく、地方にも強者がいるということを
+示してくれたことを、とても嬉しく思いますわ。
+> CONTEXT: Map043/events/28/pages/2/15/Dialogue
+Queen Luftina. 「It was the first time in a long
+time that people from Reston won the
+championship. Not only the kingdom but also the
+rural people are strong. I am very pleased that I
+showed you.#MTLed
+> END STRING
+
+> BEGIN STRING
+まあ、少々冴えない顔をしていますし、
+田舎くささが拭えないところはありますけれど、
+わたくしと共にいれば、
+いずれ品というものが身につくでしょう」
+> CONTEXT: Map043/events/28/pages/2/139/Dialogue
+Well, I have a slightly dull face,
+There is a place where rural hospitality can not
+be wiped out, With me, You will learn anything」#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+「ふふ、遠慮はいりませんよ。
+最強の座を掴むため、あなたは相応の努力をしたはず。
+その報いとして、過大であるとはわたくしは思いません」
+> CONTEXT: Map043/events/28/pages/2/192/Dialogue
+Queen Luftina. 「Huh, you do not need to hold
+back. In order to grasp the strongest seat, you
+should have made a reasonable effort.
+As a reward, I do not think that it is excessive」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、あんたはマリーカさん……だったよな」
+> CONTEXT: Map043/events/30/pages/1/3/Dialogue
+\\N[12]. 「Oh, you were Mallik......」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「大会を始める前に、わたくしからひとつ
+宣言をさせていただきたく思いますわ」
+> CONTEXT: Map043/events/31/pages/0/110/Dialogue
+blond haired girl. 「Before starting tournament,
+one from me. I would like to declare it」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「このわたくし、アルミナに勝った者には――
+わたくしと結婚できる権利を与えてさしあげますわ！」
+> CONTEXT: Map043/events/31/pages/0/177/Dialogue
+alumina. 「For me who won Alumina -
+I will give you the right to marry me!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「もちろん、結婚以外のことでも――わたくしを
+好きに犯したり、命令してもよろしくてよ。
+要は、わたくしを好きにできる権利を勝者に与えます」
+> CONTEXT: Map043/events/31/pages/0/207/Dialogue
+alumina. 「Of course, even things other than
+marriage - me. Do whatever you like, or even
+order me. In essence, give the winner the right
+to love me」#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+「アルミナ、この大会の勝者の権利は
+人権を縛るような内容のものは不可なのよ。
+それを忘れたというのかしら？」
+> CONTEXT: Map043/events/31/pages/0/257/Dialogue
+Queen Luftina. 「Alumina, the right of this
+tournament's winner. Something like binding human
+rights is impossible. I wonder if you forgot it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「あら、そんなこと――
+それは、わたくしに限って撤廃ということにすれば
+それでよろしいかと……」
+> CONTEXT: Map043/events/31/pages/0/262/Dialogue
+alumina. 「Oh, such a thing -. If I decide to
+abolish it only for me. Well then ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+「………………」
+> CONTEXT: Map043/events/31/pages/0/267/Dialogue
+Queen Luftina. 「..................」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルフティナ
+「不遜なことね。
+まあ、あなたの戦いぶり自体は、
+楽しみにさせてもらいます」
+> CONTEXT: Map043/events/31/pages/0/295/Dialogue
+Luftina. 「It is irreverent. Well, your fighting
+itself, I will look forward to it」#MTLed
+> END STRING
+
+> BEGIN STRING
+選手の方は、それぞれ3試合を戦っていただきます。
+3連勝または2勝1敗ならば2日目に進出となります。
+武器、魔法ともに使用は自由ですが、相手を殺害してはいけません。
+以上が基本のルールとなります」
+> CONTEXT: Map043/events/31/pages/0/345/Dialogue
+Players will fight three games each. If you win three
+consecutive wins or two wins and one loss you will be on
+the second day. Usage is free for both weapons and magic,
+but you should not kill your opponent. This is the basic
+rule」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「ようやく貴賓席も埋まって、
+いよいよ大会も大詰めって感じだな！」
+> CONTEXT: Map043/events/72/pages/2/0/Dialogue
+male. 「Finally the Ryori seats were buried,
+I feel like tournament is over!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ん？　なんだか盛り上がっているなあ」
+> CONTEXT: Map043/events/97/pages/0/1/Dialogue
+\\N[12]. 「Hmm? I wonder how excited it is」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『ただ今より、決勝トーナメント1回戦
+最終試合を行います！』
+> CONTEXT: Map043/events/97/pages/0/4/Dialogue
+announcement. "From now on, the first round of the finals
+tournament. I will play the final game! "#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、今から今日の最後の試合をやるのか。
+確か、この試合の勝者が明日、俺の対戦相手になるはずだし
+せっかくだから観戦していくとするか」
+> CONTEXT: Map043/events/97/pages/0/8/Dialogue
+\\N[12]. 「Oh, are you playing the last game of the day
+from now? Certainly, the winner of this game should be my
+opponent tomorrow. I wonder if you are going to watch it
+because it's so hard」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『西、王都の少女剣士・プリム！』
+> CONTEXT: Map043/events/97/pages/0/14/Dialogue
+announcement. "West, the little city swordswoman · Purim! "#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『東、ディアーナ・ベックフォード！
+王国侯爵ベックフォード卿のご息女です！』
+> CONTEXT: Map043/events/97/pages/0/22/Dialogue
+announcement. "East, Diana Beckford! Marquis of the Kingdom
+It is the son of Lord Beckford! "#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふっ。
+プリム、あなたが決勝トーナメントに残ってくるなんて
+よほど組み合わせに恵まれたようね」
+> CONTEXT: Map043/events/97/pages/0/31/Dialogue
+Diana. 「Heh. Purim, you do not have to stay in
+the final tournament. You seem to have been
+blessed a lot」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「そんなことないもん！
+いっぱい稽古してきたし、
+今ならディアーナちゃんにだって負けないんだから！」
+> CONTEXT: Map043/events/97/pages/0/36/Dialogue
+Purim. 「That's not it! I have practiced a lot,
+Now I will not lose to Diana - chan!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふっ、あれだけ連戦連敗だったくせに、
+まだ身の程をわきまえないとは呆れたものね。
+これだから庶民は……」
+> CONTEXT: Map043/events/97/pages/0/41/Dialogue
+Diana. 「Although it was a losing streak for that
+much, I was amazed at not being able to
+understand the position yet. This is why ordinary
+people......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『二人は普段からライバル同士であるとのこと！
+激しい闘志をぶつけ合っております！』
+> CONTEXT: Map043/events/97/pages/0/46/Dialogue
+announcement. "They said that they are rivals from usual!
+We are fighting hard fighting spirits! "#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おお、まさか知ってる人間の試合だとは……」
+> CONTEXT: Map043/events/97/pages/0/52/Dialogue
+> CONTEXT: Map043/events/97/pages/0/58/Dialogue
+\\N[12]. 「Oh, that's a human game you know no way ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へえ、どっちも俺より年下の女の子か……
+よくここまで勝ち残ってきたもんだぜ」
+> CONTEXT: Map043/events/97/pages/0/63/Dialogue
+\\N[12]. 「Well, which girls are younger than me ......
+Well it has survived to this point」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どういう試合をするのか、とくと見せてもらうとするか」
+> CONTEXT: Map043/events/97/pages/0/72/Dialogue
+\\N[12]. 「I wonder what kind of game to play, and to
+show them」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『今大会注目の若手選手同士が、ここでぶつかり合います！
+果たして、勝つのはどちらなのか！』
+> CONTEXT: Map043/events/97/pages/0/77/Dialogue
+announcement. "Young players of attention now tournament
+will collide with each other here! Well, who is the winner?
+"#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「すげえっ、若いのにどっちもレベル高いなあ」
+> CONTEXT: Map043/events/97/pages/0/130/Dialogue
+audience. 「Well, whatever you are young you are both high
+level」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード侯爵
+「うむうむ、ディアーナも強くなったものだ」
+> CONTEXT: Map043/events/97/pages/0/133/Dialogue
+Beckford Marquis. 「, Diana is also strengthened」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「ちょっとディアーナ選手が有利かしらね。
+でも、どっちも頑張ってー！」
+> CONTEXT: Map043/events/97/pages/0/136/Dialogue
+audience. 「I guess Diana players are a bit advantageous.
+But either way do your best!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「なかなか頑張るわね、プリム。
+でも、これで終わりよっ！」
+> CONTEXT: Map043/events/97/pages/0/168/Dialogue
+Diana. 「I will do my best, Purim.
+But this is the end!」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「うっ、あの子、自分にサンダーを落としたぞ！」
+> CONTEXT: Map043/events/97/pages/0/173/Dialogue
+audience. 「Uh, that girl, I dropped Thunder for myself!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+「自分にサンダーの魔法を撃って
+剣に電撃をまとわせるとは……
+かなりの戦闘センスを持っているようですね」
+> CONTEXT: Map043/events/97/pages/0/176/Dialogue
+Queen Luftina. 「Shoot yourself against Thunder's
+magic. To make a sword a lightning shock ...
+It seems to have considerable battle sense」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「必殺、迅雷三段突き！」
+> CONTEXT: Map043/events/97/pages/0/181/Dialogue
+Diana. 「Deathblow, Thunderbolt Thunderstorm!」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「か、かわしたっ！」
+> CONTEXT: Map043/events/97/pages/0/196/Dialogue
+audience. 「Or, I dodged!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ま、まさかっ！
+私の決め技を……！」
+> CONTEXT: Map043/events/97/pages/0/201/Dialogue
+Diana. 「Well, no way! My deciding skill ......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「いくよっ、ディアーナちゃん！」
+> CONTEXT: Map043/events/97/pages/0/205/Dialogue
+Purim. 「Wow, Diana-chan!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「きゃああああぁぁっ！」
+> CONTEXT: Map043/events/97/pages/0/213/Dialogue
+Diana. 「EIIIIiii!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『決まったぁっ！
+勝者はプリム選手っ！』
+> CONTEXT: Map043/events/97/pages/0/227/Dialogue
+announcement. "It's decided! The winner is Purim! "#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「や、やったぁっ！
+ディアーナちゃんに初めて勝ったー！」
+> CONTEXT: Map043/events/97/pages/0/232/Dialogue
+Purim. 「And he did it! I first won Diana-chan -!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「そ、そんなっ、
+ありえないわ、この私がこんな庶民に負けるなんて……」
+> CONTEXT: Map043/events/97/pages/0/236/Dialogue
+Diana. 「Sounds like that, It is impossible, I
+can not lose to such an ordinary people ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あのディアーナを破るほとになったか、
+プリム、成長したなあ。
+> CONTEXT: Map043/events/97/pages/0/242/Dialogue
+\\N[12]. 「Did you decide to break that Diana,
+Purim, I grew up.#MTLed
+> END STRING
+
+> BEGIN STRING
+明日は俺がプリムと対戦か……
+武者修行をした頃よりもさらに強くなっているようだし、
+心してかからないといけないな」
+> CONTEXT: Map043/events/97/pages/0/246/Dialogue
+I will fight against Purim tomorrow ......
+It seems that it is getting stronger than when I was
+practicing martial arts, I have to take it mind」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「武者修行の成果が出たな、
+たいしたもんだぜ、プリム。
+> CONTEXT: Map043/events/97/pages/0/252/Dialogue
+\\N[12]. 「The result of martial arts training came out,
+It's a big deal, Purim.#MTLed
+> END STRING
+
+> BEGIN STRING
+だが、これで明日は俺とプリムが対戦するのか……
+見た感じ、俺との武者修行のときよりも
+さらに技術が向上している。
+油断していると危ないかもしれないし、心してかかろう」
+> CONTEXT: Map043/events/97/pages/0/256/Dialogue
+But, is it that I and Purim will fight against me tomorrow
+...? Feelings I saw, than when I was warrior training with
+me. Further technology is improving. It may be dangerous if
+you are out of hand, so let's have it」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「きゃあっ！」
+> CONTEXT: Map043/events/97/pages/0/273/Dialogue
+Purim. 「Care!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『き、決まったあぁっ！
+華麗な剣技が炸裂！
+勝ったのはディアーナ・ベックフォード選手ですっ！』
+> CONTEXT: Map043/events/97/pages/0/285/Dialogue
+announcement. "Well, it has been decided!
+A brilliant sword technique explodes! It was Diana Beckford
+player who won! "#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ううぅ……」
+> CONTEXT: Map043/events/97/pages/0/293/Dialogue
+Purim. 「Uooh ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふっ、当然の結果ねっ！
+これがあなたとわたくしの格の違いというもの。
+あなたのような庶民が、どれだけ努力しても無駄なことだわ」
+> CONTEXT: Map043/events/97/pages/0/296/Dialogue
+Diana. 「Huh, it is a natural result!
+This is the difference between you and me.
+It is useless for ordinary people like you, no
+matter how hard you try.」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「く、くやしい……」
+> CONTEXT: Map043/events/97/pages/0/301/Dialogue
+Purim. 「Worse, ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「プリム、勝てなかったか、残念だな。
+やはり、あのディアーナって子は強い。
+明日の試合、心してかからないといけないな」
+> CONTEXT: Map043/events/97/pages/0/310/Dialogue
+\\N[12]. 「Purim, I regret that I could not win.
+After all, that Diana has a strong child.
+Tomorrow's game, I have to try it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「プリム、勝てなかったか、残念だな。
+あのディアーナって子はかなり強いが、
+明日は必ず勝って、プリムの仇討ちをしてやらなきゃな」
+> CONTEXT: Map043/events/97/pages/0/317/Dialogue
+\\N[12]. 「Purim, I regret that I could not win.
+That Diana is pretty strong, Always beat tomorrow, you have
+to do Purim's villain」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うーん……
+やはり、あのディアーナって子は強い。
+明日の試合、心してかからないといけないな」
+> CONTEXT: Map043/events/97/pages/0/327/Dialogue
+\\N[12]. 「Well...After all, that Diana has a strong
+child. Tomorrow's game, I have to try it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「勝者はあのディアーナって子か。
+年下だが、なかなか鋭い剣筋をしている……
+一筋縄ではいかなそうだぞ」
+> CONTEXT: Map043/events/97/pages/0/334/Dialogue
+\\N[12]. 「The winner is that Diana child?
+Although younger, he has a sharp sword muscle......
+It will not be easy on a regular basis」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『お集まりの皆様、たいへんお待たせいたしました。
+ただ今より、決勝戦を戦う選手の入場です！』
+> CONTEXT: Map043/events/99/pages/0/2/Dialogue
+announcement. "Everyone at the gathering, I kept you
+waiting very much. Just now it is admission of players who
+fight the final game! "#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『いよいよ、今年の武道大会も大詰めを迎えました。
+決勝戦に残った最強の選手二名は
+いったいどのような戦いを見せてくれるでしょうかっ！』
+> CONTEXT: Map043/events/99/pages/0/7/Dialogue
+announcement. ", This year's martial arts tournament has
+also reached its final stage. The two strongest players
+remaining in the final game. What kind of fight will you
+show us? "#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『まず西側、レストンの村からやってきた若き剣士！
+\\N[12]！』
+> CONTEXT: Map043/events/99/pages/0/12/Dialogue
+announcement. "First, the young swordsman who came from the
+village of Reston on the west side! \\N[12] ! "#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『そして東側、エルミア王国第1王女・アルミナ殿下！』
+> CONTEXT: Map043/events/99/pages/0/29/Dialogue
+announcement. "And to the east, Her Highness Prince Almunia
+1st Princess of Elmia! "#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『さあ、これからこの年における最強の座を賭けて
+最後の試合が始まろうとしております。が――
+その前に、まずは女王陛下からお言葉をいただきます！』
+> CONTEXT: Map043/events/99/pages/0/45/Dialogue
+announcement. "Now, now betting on the strongest seat in
+this year. The last game is about to start. But--
+Before that, I will have a message from your Queen! "#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+「\\N[12]選手、そしてアルミナ。
+二人とも、よくぞここまで勝ち残りました。
+この国の女王として、祝福いたしますわ。
+> CONTEXT: Map043/events/99/pages/0/57/Dialogue
+Queen Luftina. 「\\N[12] Players, and alumina.
+Both of you have often won this game.
+I will bless you as a queen in this country.#MTLed
+> END STRING
+
+> BEGIN STRING
+しかし、最強の座を掴むのはただ一人のみ。
+願わくば、決勝戦の舞台にふさわしい戦いを
+見せてくれることを期待しております」
+> CONTEXT: Map043/events/99/pages/0/62/Dialogue
+However, only one person seizes the strongest
+seat. Hopefully, the battle appropriate for the
+stage of the finals. I hope to show you」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『陛下、ありがとうございました！』
+> CONTEXT: Map043/events/99/pages/0/66/Dialogue
+announcement. "Your Majesty, thank you! "#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「あら？　あなた……
+どこかで会ったかしら、よく思い出せないけれど」
+> CONTEXT: Map043/events/99/pages/0/78/Dialogue
+alumina. 「Oh? you……. I wonder if I met
+somewhere, I can not remember it well」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、会ったぜ。
+街中であんたに踏みつけられたこと、
+こっちは一日たりとも忘れたことはなかったぜ」
+> CONTEXT: Map043/events/99/pages/0/82/Dialogue
+\\N[12]. 「Oh, I met him. What was trampled on you in
+the city, I never forgotten this one day」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ああ、あのときの男でしたのね。
+あまりに手応えがなさすぎて、
+印象に残っていませんでしたわ」
+> CONTEXT: Map043/events/99/pages/0/87/Dialogue
+alumina. 「Oh, it was a man at that time.
+Too much tolerated, I had not left in the
+impression」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あのときの俺と同じと思って、甘く見てると怪我をするぜ。
+この大会で優勝すべく、俺はあれから腕を磨き続けてきたからな」
+> CONTEXT: Map043/events/99/pages/0/92/Dialogue
+\\N[12]. 「I thought that I was the same as that time,
+and when I look sweet I got hurt. I wish to win this
+tournament, I've been brushing my arms from that」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふっ……全くセンスの感じられない腕前でしたし
+この大会の決勝まで来るまでには、
+よほどの努力が必要だったでしょう。お察しいたしますわ」
+> CONTEXT: Map043/events/99/pages/0/96/Dialogue
+alumina. 「Fu ...... It was a skill I could not
+feel at all at all. By the time this tournament
+finals comes, You probably needed a lot of
+effort. I will assume you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くっ、嫌味な女だな……
+才能が違うと言いたいんだろうが……）
+> CONTEXT: Map043/events/99/pages/0/102/Dialogue
+\\N[12]. (Come, I'm a nasty woman.......
+I wish to say that talent is different......)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「とにかく、あのときのお返しをさせてもらうぜ。
+その驕り高ぶった顔を屈辱に歪めてやるから
+覚悟しておくんだな！」
+> CONTEXT: Map043/events/99/pages/0/106/Dialogue
+\\N[12]. 「Anyhow, let me return in that time.
+Because I will distort her arrogant face to humiliation
+Prepare yourself!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふっ、身の程を知らない男……
+まさか、あのときのわたくしが
+本気を出していたとでも思っていますの？」
+> CONTEXT: Map043/events/99/pages/0/111/Dialogue
+alumina. 「Fu, man who does not know the figure
+...... No way, I was the one. Do you even think
+that I was serious?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「そこまで言うからには、負けたときは覚悟なさい。
+再びわたくしの前に這いつくばって、
+格の違いというものを思い知るがよろしいですわ！」
+> CONTEXT: Map043/events/99/pages/0/119/Dialogue
+alumina. 「To say so, be prepared when you lose.
+Crawl in front of me again, Think about the
+difference in the case, but it is OK!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『さあ、いよいよ始まります！
+果たして、姫様が下馬評通り優勝を果たされるのか！
+それとも、レストンの剣士の下剋上が成るのかっ！』
+> CONTEXT: Map043/events/99/pages/0/124/Dialogue
+announcement. "Now, it will start! Will the Princess win
+the championship as expected? Or will Reston's sword
+fighter stand down? "#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「くうっ……！
+こ、このわたくしが
+このような辱めを受けるなど……！」
+> CONTEXT: Map043/events/99/pages/0/147/Dialogue
+alumina. 「Wow ...! Here, this. Such as getting
+humiliated......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ……
+どうだ、女としての屈辱を味わった気分は。
+大勢の前で、ずいぶんあられもない姿を晒しちまったな」
+> CONTEXT: Map043/events/99/pages/0/152/Dialogue
+\\N[12]. 「Fuu ...... How do you feel the humiliation as
+a woman? I've exposed the figure that there is not much
+hail in front of a lot of people」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『た、大変な激戦でしたが……
+\\N[12]選手、姫様をくだしましたっ！』
+> CONTEXT: Map043/events/99/pages/0/157/Dialogue
+> CONTEXT: Map043/events/99/pages/0/171/Dialogue
+announcement. "Well, it was a terrible fierce battle ...
+... \\N[12] I gave the players, the princess! "#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「くっ……！
+ま、まさか、このわたくしが
+こんな男に……！」
+> CONTEXT: Map043/events/99/pages/0/163/Dialogue
+alumina. 「Cut ...! Well, no doubt, this is me
+Such a man......!!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「や、やった、のか……」
+> CONTEXT: Map043/events/99/pages/0/168/Dialogue
+\\N[12]. 「Or did you do it ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+「見事な戦いぶりだったわ、\\N[12]選手。
+アルミナも、上には上がいるのだということを
+思い知ったことでしょう」
+> CONTEXT: Map043/events/99/pages/0/179/Dialogue
+Queen Luftina. 「It was a fantastic fight,
+\\N[12] player. Alumina also says that there
+is a top on top. You must have known」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「くっ……この私が、
+敗北の屈辱を味わわされるだなんて……
+> CONTEXT: Map043/events/99/pages/0/184/Dialogue
+alumina. 「Cut ...... This I, It seems that you
+will be tasted the humiliation of defeat......#MTLed
+> END STRING
+
+> BEGIN STRING
+とはいえ、敗北したのは確かですわ。
+\\N[12]と言いましたわね。
+あなたのような男がいるだなんて、驚かされました」
+> CONTEXT: Map043/events/99/pages/0/188/Dialogue
+However, it is certain that he was defeated.
+\\N[12] I said that. I was surprised that
+there is a man like you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「姫様、あんた……」
+> CONTEXT: Map043/events/99/pages/0/194/Dialogue
+\\N[12]. 「Princess, you ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「わたくしは、この大会を無風で優勝することになると
+確信しておりましたのよ。
+そのくらいの腕はあると自負しておりますの」
+> CONTEXT: Map043/events/99/pages/0/197/Dialogue
+alumina. 「If I will win this tournament without
+wind. I was convinced. I pridefully have that
+arm.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ……確かに、あんたは強かった。
+だけど、俺も、いろいろな人に助けてもらいながら
+修行を続けてここまで勝ち上がってきたんだ」
+> CONTEXT: Map043/events/99/pages/0/202/Dialogue
+\\N[12]. 「Oh...indeed, you were strong.
+But, while I am helped by someone. I continued my training
+and won so far」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ええ、街でやり合ったときと比べて
+あなたは別人のように強くなっていましたわ。
+この国の王女として、あなたの強さを認めましょう」
+> CONTEXT: Map043/events/99/pages/0/207/Dialogue
+alumina. 「Yeah, compared to when I met in the
+city. You were strong like a different person.
+Let's admit your strength as the princess of this
+country」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ふう……どうやら、俺の腕を認めさせることができたようだ。
+これで、シェリーに続いて、
+こいつにも借りを返すことができたぜ）
+> CONTEXT: Map043/events/99/pages/0/212/Dialogue
+\\N[12]. (Fu...... apparently, I seemed to be able to
+recognize my arm. Now, following Sherry,
+I was able to return the borrow to this one too)#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『大会の最後を飾るにふさわしい、大熱戦でしたっ！
+両選手に盛大な拍手をお願いいたします！』
+> CONTEXT: Map043/events/99/pages/0/217/Dialogue
+announcement. "It was a great battle worthy to decorate the
+end of tournament! I wish both players a big applause! "#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『それでは、表彰式に移りたいと思います！』
+> CONTEXT: Map043/events/99/pages/0/234/Dialogue
+announcement. "Then, I would like to move on to the awards
+ceremony! "#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『まずは３位！
+西の王国出身の剣士・シェリー選手と、
+王都の魔法使い・リネッタ選手！』
+> CONTEXT: Map043/events/99/pages/0/237/Dialogue
+announcement. "First place third! Sister who is a Swordsman
+from the West Kingdom, Witchcraft wizard · Linetta player!
+"#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+「惜しくも準決勝で敗れたとはいえ、
+両選手とも見事な戦いぶりでした。
+> CONTEXT: Map043/events/99/pages/0/254/Dialogue
+Queen Luftina. 「Despite being lucky in defeat in
+the semifinals, Both players had a fantastic
+fight.#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー選手の鋭く勇猛な剣さばきは
+見る者を興奮させるものがありましたし、
+魔法使いとして唯一、上位に進出したリネッタ選手も
+お見事でしたわ」
+> CONTEXT: Map043/events/99/pages/0/258/Dialogue
+Sherry's sharp and brave sword judgment
+There was something that excited the viewer,
+Linetta players who advanced to the top are also
+the only wizards. It was brilliant」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ありがとうございます！」
+> CONTEXT: Map043/events/99/pages/0/263/Dialogue
+Sherry. 「Thank you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「光栄です、女王陛下。
+今後とも、王都の魔法文化の発展に貢献できるよう、
+精進いたします」
+> CONTEXT: Map043/events/99/pages/0/266/Dialogue
+Linetta. 「I am honored, your majesty. From now on, in
+order to contribute to the development of King's Magical
+Culture, I will devise」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『続いて、準優勝！
+我らが王女殿下、アルミナ選手ですっ！』
+> CONTEXT: Map043/events/99/pages/0/282/Dialogue
+announcement. "Next, second prize! Ours is Alumna,
+Honorable Princess! "#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+「アルミナ、結果的には
+あなたの言葉は大言壮語となってしまったわね」
+> CONTEXT: Map043/events/99/pages/0/292/Dialogue
+Queen Luftina. 「Alumina, as a result
+Your words have become big boasts」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「返す言葉もございませんわ」
+> CONTEXT: Map043/events/99/pages/0/296/Dialogue
+alumina. 「There is no word to return」#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+「とはいえ、あなたの実力は万民の認めるところです。
+戦いぶりも、我が国の後継者として
+恥ずかしくないものでした。
+> CONTEXT: Map043/events/99/pages/0/299/Dialogue
+Queen Luftina. 「Nonetheless, your ability is a
+place for all people to recognize.
+As a successor to our country. It was not
+embarrassing.#MTLed
+> END STRING
+
+> BEGIN STRING
+今回の敗北を悔しいと思うならば、唯一の弱点である
+その驕りを捨て、心を入れ替えて頑張りなさい」
+> CONTEXT: Map043/events/99/pages/0/304/Dialogue
+If you think defeat of this time is frustrating,
+it is the only weak point. Take that arrogance
+and change your mind and do your best」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「わかっておりますわ、母上。
+確かに、わたくしには驕りがありました。
+自分以上の人間など、この大会には存在しない、と……
+> CONTEXT: Map043/events/99/pages/0/307/Dialogue
+alumina. 「I know, my mother. Indeed, I had an
+idiot. It is not present in this tournament such
+as more than myself,.......#MTLed
+> END STRING
+
+> BEGIN STRING
+今後は心に隙を生まぬよう、精進いたしますわ。
+誰にも負けない女王となれるように」
+> CONTEXT: Map043/events/99/pages/0/312/Dialogue
+I will devote myself to not create a gap in my
+mind in the future. To be a queen who can not
+lose to anyone」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『そして、優勝は\\N[12]選手！
+どうぞ、女王陛下の前へとお進みくださいっ！』
+> CONTEXT: Map043/events/99/pages/0/322/Dialogue
+announcement. "And the victory is \\N[12] player!
+Please, go ahead of the Queen! "#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『ただ今の試合、
+ご覧いただきました通り、
+アルミナ姫の勝利です！』
+> CONTEXT: Map043/events/99/pages/0/344/Dialogue
+announcement. "Just for now, As you can see,
+Princess alumina is the victory! "#MTLed
+> CONTEXT: Commonevents/241/11/Dialogue
+announcement. "Just for now, As you can see,
+Princess alumina is the victory! "#MTLed
+> END STRING
+
+> BEGIN STRING
+そして――
+\\N[12]は、激しい苦痛とともに射精の快感を
+味わわされたせいで、
+普通の刺激では絶頂できない体になってしまった。
+> CONTEXT: Map043/events/99/pages/0/359/Dialogue
+And -. \\N[12] Have a pleasure of ejaculation with
+intense pain. Because it was tasted, With ordinary
+stimulation it became a body that can not be culled.#MTLed
+> CONTEXT: Commonevents/154/390/Dialogue
+And -. \\N[12] Have a pleasure of ejaculation
+with intense pain. Because it was tasted,
+With ordinary stimulation it became a body that
+can not be culled.#MTLed
+> END STRING
+
+> BEGIN STRING
+村に帰ってほどなく、\\N[12]は再び王都に赴き、
+王女アルミナの奴隷に志願した。
+> CONTEXT: Map043/events/99/pages/0/364/Dialogue
+Soon after I came back to the village, \\N[12] He went
+to the kingdom again, Volunteered to be a slave to the
+princess alumina.#MTLed
+> CONTEXT: Commonevents/154/395/Dialogue
+Soon after I came back to the village, \\N[12]
+He went to the kingdom again, Volunteered to be a
+slave to the princess alumina.#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、大望を抱いて村を出た少年は、
+お姫様に敗れ、その奴隷に堕ちてしまったのである――
+> CONTEXT: Map043/events/99/pages/0/367/Dialogue
+Thus, the boy who left the village with ambition,
+It was defeated by the princess and it fell into that slave
+-#MTLed
+> CONTEXT: Commonevents/154/398/Dialogue
+Thus, the boy who left the village with ambition,
+It was defeated by the princess and it fell into
+that slave -#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ バッドエンド２：お姫様の椅子
+> CONTEXT: Map043/events/99/pages/0/370/Dialogue
+Alumina bad end 2: Princess's chair#MTLed
+> CONTEXT: Commonevents/154/401/Dialogue
+Alumina bad end 2: Princess's chair#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「この痴れ者！
+よくも、このわたくしにこのような辱めをっ！」
+> CONTEXT: Map043/events/99/pages/0/384/Dialogue
+> CONTEXT: Commonevents/241/34/Dialogue
+alumina. 「This slut! Well, this is how I
+humiliated this!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、ぐっ……」
+> CONTEXT: Map043/events/99/pages/0/394/Dialogue
+\\N[12]. 「Wow, heh ....」#MTLed
+> CONTEXT: Commonevents/241/44/Dialogue
+\\N[12]. 「Wow, heh ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふうっ、まったく……
+この程度の腕前で、このわたくしを負かそうと
+息巻いていただなんて、お笑いですわね」
+> CONTEXT: Map043/events/99/pages/0/397/Dialogue
+> CONTEXT: Commonevents/241/47/Dialogue
+alumina. 「Fuu, absolutely...To the extent of
+this skill, to defeat me. It is a comedian to say
+that I was surrounded」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「おおっ、姫様のあられもない姿が……
+なんと神々しい……」
+> CONTEXT: Map043/events/99/pages/0/402/Dialogue
+audience. 「Oh, the figure that there is no hail of the
+princess...... How awesome.......」#MTLed
+> CONTEXT: Commonevents/241/52/Dialogue
+audience. 「Oh, the figure that there is no hail
+of the princess...... How awesome.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「さすがにスタイル抜群でいらっしゃるわねぇ、
+同性から見ても非の打ち所のない体だわ……」
+> CONTEXT: Map043/events/99/pages/0/406/Dialogue
+audience. 「As expected it is preeminent in style,
+It is a body without inconvenience even from the same sex
+... ...」#MTLed
+> CONTEXT: Commonevents/241/56/Dialogue
+audience. 「As expected it is preeminent in style,
+It is a body without inconvenience even from the
+same sex......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「くっ、このわたくしが、このような姿を
+衆目に晒してしまうだなんて……
+この恥辱は油断の代償というところかしら。
+> CONTEXT: Map043/events/99/pages/0/410/Dialogue
+> CONTEXT: Commonevents/241/60/Dialogue
+alumina. 「Cut, this is how I looked like this
+It's like exposing it to the public ...
+I wonder if this shame is the price of
+carelessness.#MTLed
+> END STRING
+
+> BEGIN STRING
+ともあれ、\\N[12]と言いましたわね、
+お前はわたくしに負けたのです。
+これで格の違いというものを少しは理解できたかしら？」
+> CONTEXT: Map043/events/99/pages/0/415/Dialogue
+> CONTEXT: Commonevents/241/65/Dialogue
+Anyway, \\N[12] I said, You have lost to me.
+Could you understand a little about the
+difference in the case by this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は勝ち誇るアルミナに頭を踏みにじられ、
+屈辱を味わわされながら、敗北の惨めさを
+受け入れざるを得なかった――
+> CONTEXT: Map043/events/99/pages/0/423/Dialogue
+\\N[12] He was trampled on his head against the
+victorious alumina, While humiliation is being tasted, the
+misery of defeat. I had no choice but to accept -#MTLed
+> CONTEXT: Commonevents/241/73/Dialogue
+\\N[12] He was trampled on his head against
+the victorious alumina, While humiliation is
+being tasted, the misery of defeat
+I had no choice but to accept -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は王女アルミナに敗北し、
+男の象徴を蹂躙されて射精させられるという屈辱まで味わわされ
+完膚なきまでに屈服させられてしまった。
+> CONTEXT: Map043/events/99/pages/0/446/Dialogue
+\\N[12] He was defeated by Princess Alumina,
+It was tasted until humiliation that a man's symbol can be
+overruled and ejaculated. I was bowed to death by missing
+the perfection.#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふっ、思い知ったかしら？
+これが格の違いというものですわ」
+> CONTEXT: Map043/events/99/pages/0/464/Dialogue
+> CONTEXT: Commonevents/241/86/Dialogue
+alumina. 「Huh, did you think that?
+This is the difference of the case」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「この程度の腕前で、わたくしに対して
+ああも息巻いていたとは笑止千万ですわね。
+みじめに返り討ちにあった気分はどうかしら？」
+> CONTEXT: Map043/events/99/pages/0/471/Dialogue
+> CONTEXT: Commonevents/241/93/Dialogue
+alumina. 「With the skill of this degree, against
+me. It's ridiculous that I was surprised ah.
+How do you feel about being miserable?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「く、くそっ……
+ここまで来たのに、この女にリベンジもできず
+優勝も逃しちまうなんて……」
+> CONTEXT: Map043/events/99/pages/0/476/Dialogue
+\\N[12]. 「Damn it...damn. Even though I came this
+far, I can not even revenge for this woman
+I do not miss the victory.......」#MTLed
+> CONTEXT: Commonevents/241/98/Dialogue
+\\N[12]. 「Damn it...damn. Even though I
+came this far, I can not even revenge for this
+woman. I do not miss the victory.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「あら、まだ生意気な口をきく気力がありますのね。
+完膚なきまでに敗北しておきながら、
+なかなかの根性ですわ。でも……
+> CONTEXT: Map043/events/99/pages/0/481/Dialogue
+> CONTEXT: Commonevents/241/103/Dialogue
+alumina. 「Oh, you still have the power to speak
+cheeky. While defeating by lack of perfection,
+It is quite guts. But ...#MTLed
+> END STRING
+
+> BEGIN STRING
+まずは土下座なさい。
+このわたくしに対して、敗北したことを
+その口で認めるがよろしいですわ」
+> CONTEXT: Map043/events/99/pages/0/486/Dialogue
+> CONTEXT: Commonevents/241/108/Dialogue
+First of all, Takayori. For me, what I have
+defeated. You can admit it in its mouth」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ど、土下座だって……？」
+> CONTEXT: Map043/events/99/pages/0/490/Dialogue
+\\N[12]. 「Well, maybe Dogeza ...?」#MTLed
+> CONTEXT: Commonevents/241/112/Dialogue
+\\N[12]. 「Well, maybe Dogeza ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「まさか、できないとでも？
+負けたからには、わたくしの言葉には
+すべて従っていただきますわよ」
+> CONTEXT: Map043/events/99/pages/0/493/Dialogue
+> CONTEXT: Commonevents/241/115/Dialogue
+alumina. 「No way, can not you?
+Because I lost, in my words. I will follow all of
+you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……仕方ない……」
+> CONTEXT: Map043/events/99/pages/0/498/Dialogue
+\\N[12]. 「Cut ...... It can not be helped ......」#MTLed
+> CONTEXT: Commonevents/241/120/Dialogue
+\\N[12]. 「Cut ...... It can not be helped
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はその場にひざまずき、
+頭を地面にこすりつける。
+> CONTEXT: Map043/events/99/pages/0/504/Dialogue
+\\N[12] I kneel down on the spot, I rub the head against
+the ground.#MTLed
+> CONTEXT: Commonevents/241/126/Dialogue
+\\N[12] I kneel down on the spot,
+I rub the head against the ground.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ま、負けました、姫様……」
+> CONTEXT: Map043/events/99/pages/0/507/Dialogue
+\\N[12]. 「Well, I lost, Princess ......」#MTLed
+> CONTEXT: Commonevents/241/129/Dialogue
+\\N[12]. 「Well, I lost, Princess ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ずいぶん生意気な口をきいてくれましたけれど
+これでもう、自らがわたくしよりも劣ることを
+素直に認める気になったのではなくて？
+> CONTEXT: Map043/events/99/pages/0/515/Dialogue
+alumina. 「Although he spoke quite a cheeky mouth
+Now that I am inferior to myself. Was not it fascinating to
+admit it?#MTLed
+> CONTEXT: Commonevents/241/137/Dialogue
+alumina. 「Although he spoke quite a cheeky mouth
+Now that I am inferior to myself
+Was not it fascinating to admit it?#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、しょせん男など、この程度ですわよね。
+少しは骨のある男がいるかと期待して参加しましたけど
+結局、やはりわたくしにかなう選手は皆無でしたわね。
+> CONTEXT: Map043/events/99/pages/0/520/Dialogue
+Well, it is about this degree, such as a guy shop guy.
+Although I participated with expectation that there was a
+man with a bone a little. After all, there were not any
+athletes to meet me.#MTLed
+> CONTEXT: Commonevents/241/142/Dialogue
+Well, it is about this degree, such as a guy shop
+guy. Although I participated with expectation
+that there was a man with a bone a little
+After all, there were not any athletes to meet
+me.#MTLed
+> END STRING
+
+> BEGIN STRING
+このわたくしこそがエルミア最強の剣士。
+皆にも、この国の次期女王として
+恥ずかしくない戦いを見せることができたと
+自負しておりますわ」
+> CONTEXT: Map043/events/99/pages/0/524/Dialogue
+This is I am the strongest swordsman of Elmia.
+Everyone, as the next queen in this country
+He was able to show a fight not shy. I am proud of you.」#MTLed
+> CONTEXT: Commonevents/241/146/Dialogue
+This is I am the strongest swordsman of Elmia.
+Everyone, as the next queen in this country
+He was able to show a fight not shy
+I am proud of you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「きゃーっ、姫様最高ですーっ！」
+> CONTEXT: Map043/events/99/pages/0/530/Dialogue
+audience. 「Kya, Princess is the best!」#MTLed
+> CONTEXT: Commonevents/241/152/Dialogue
+audience. 「Kya, Princess is the best!」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「姫様がいらっしゃれば、この国も安泰だわ！」
+> CONTEXT: Map043/events/99/pages/0/533/Dialogue
+audience. 「If the princess comes, this country is safe too!
+」#MTLed
+> CONTEXT: Commonevents/241/155/Dialogue
+audience. 「If the princess comes, this country
+is safe too!」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「さすが偉大なる女王陛下の血を引く姫様！
+他の選手なんて相手にならないわねっ！」
+> CONTEXT: Map043/events/99/pages/0/536/Dialogue
+audience. 「Truly the Princess who draws the blood of His
+Majesty the Great Queen! I will not be the other
+competitor!」#MTLed
+> CONTEXT: Commonevents/241/158/Dialogue
+audience. 「Truly the Princess who draws the
+blood of His Majesty the Great Queen!
+I will not be the other competitor!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふっ、もっと褒め称えるがよろしいですわ！
+おーっほっほっほっ！」
+> CONTEXT: Map043/events/99/pages/0/541/Dialogue
+alumina. 「Huh, I will give you more praise!
+Oooh!」#MTLed
+> CONTEXT: Commonevents/241/163/Dialogue
+alumina. 「Huh, I will give you more praise!
+Oooh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の頭をぐりぐりと踏みにじりながら
+アルミナは誇らしげに高笑いをする。
+> CONTEXT: Map043/events/99/pages/0/545/Dialogue
+\\N[12] While stepping on the head of * rub *
+Alumina proudly makes a laugh.#MTLed
+> CONTEXT: Commonevents/241/167/Dialogue
+\\N[12] While stepping on the head of * rub *
+Alumina proudly makes a laugh.#MTLed
+> END STRING
+
+> BEGIN STRING
+彼女の清らかな高笑いの声が会場に響き、
+観客席からは圧倒的な内容で優勝を手にした王女に
+称賛の歓声が上がる――
+> CONTEXT: Map043/events/99/pages/0/548/Dialogue
+Her pleasant laughter echoes in the venue,
+From the audience seat to the princess who won the
+championship with overwhelming content. Celebrity cheers go
+up -#MTLed
+> CONTEXT: Commonevents/241/170/Dialogue
+Her pleasant laughter echoes in the venue,
+From the audience seat to the princess who won
+the championship with overwhelming content
+Celebrity cheers go up -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はひとり、みじめな敗北者として
+アルミナに蹂躙されながら
+悔しさに震えるのだった。
+> CONTEXT: Map043/events/99/pages/0/552/Dialogue
+\\N[12] As one, as a miserable loser. While being
+overrun by alumina. It was trembling with regret.#MTLed
+> CONTEXT: Commonevents/241/174/Dialogue
+\\N[12] As one, as a miserable loser
+While being overrun by alumina
+It was trembling with regret.#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あ、もう始まっちゃってる！」
+> CONTEXT: Map043/events/100/pages/0/2/Dialogue
+Sherry. 「Oh, it has already begun!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どれどれ？」
+> CONTEXT: Map043/events/100/pages/0/5/Dialogue
+\\N[12]. 「?」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「はぁ、はぁ……」
+> CONTEXT: Map043/events/100/pages/0/9/Dialogue
+Linetta. 「Ah, Ah ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、リネッタさんじゃないか。
+俺が予選リーグで戦った魔法使いの人だ」
+> CONTEXT: Map043/events/100/pages/0/12/Dialogue
+\\N[12]. 「Wow, it is Linetta-san. It is a man of a mage
+who I fought in the preliminary rounds」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふっ、なかなかの魔法力ですけれど……
+その程度では、わたくしの動きを止めることはできませんわ。
+準決勝まで来ても、この程度のレベルとは残念ですわね」
+> CONTEXT: Map043/events/100/pages/0/16/Dialogue
+alumina. 「It's quite a magical power, but ......
+To that extent, I can not stop my movement.
+Even if I come to the semifinals, I'm sorry to
+the extent of this level」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「まったくもう、年下の娘にこうも翻弄されちゃうと
+さすがに悔しいわね……
+でも、まだまだ私も負ける気はないわよ！」
+> CONTEXT: Map043/events/100/pages/0/21/Dialogue
+Linetta. 「Altogether, my younger daughter will be tossed
+as well. It is frustrating indeed...But I will not be
+beaten too!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「多少はマシになりましたわね。でも……」
+> CONTEXT: Map043/events/100/pages/0/32/Dialogue
+alumina. 「It became a little better. But ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「このおっ！
+必殺、シルフィントルネード！」
+> CONTEXT: Map043/events/100/pages/0/36/Dialogue
+Linetta. 「This! Hissatsushi, a sylfin tornado!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「これがあなたの奥の手なのですわね。
+この程度の魔法など、こうですわ！」
+> CONTEXT: Map043/events/100/pages/0/41/Dialogue
+alumina. 「This is your best deal.
+This is such a magic, this is it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「えぇっ、剣で竜巻を割っちゃった、って……
+このっ、もう一度っ！」
+> CONTEXT: Map043/events/100/pages/0/48/Dialogue
+Linetta. 「Well, I took a tornado with a sword......
+Well, this one again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「あっ
+魔法力が……」
+> CONTEXT: Map043/events/100/pages/0/53/Dialogue
+Linetta. 「Ah. Magical power is.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「そこまでのようですわね。
+せいっ！」
+> CONTEXT: Map043/events/100/pages/0/58/Dialogue
+alumina. 「It seems like that. Huh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「い、いたたっ……！
+う、う～ん……私の負けだね……
+降参するよ」
+> CONTEXT: Map043/events/100/pages/0/82/Dialogue
+Linetta. 「Good,......! Well,...I'm defeated ...
+I am going to give in.」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふっ、ざっとこんなものですわ」
+> CONTEXT: Map043/events/100/pages/0/89/Dialogue
+alumina. 「Wow, this is roughly like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客たち
+「きゃーっ、姫様ーっ！」
+「う、美しい……舞うような剣さばきだ……」
+> CONTEXT: Map043/events/100/pages/0/93/Dialogue
+The audience. 「Kya, Princess!」. 「Beautiful...... It's a
+dancing sword......」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「これは誰も勝てないわね！
+優勝は姫様で決まりよ！」
+> CONTEXT: Map043/events/100/pages/0/97/Dialogue
+audience. 「Nobody can win this! The winner is decided by
+the princess!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『さすが姫様ですっ！
+当然のごとく決勝進出！
+ここまでの試合、苦戦する姿すら見せておりません！
+> CONTEXT: Map043/events/100/pages/0/101/Dialogue
+announcement. "Truly like the princess! Naturally advance
+to the finals! We have not shown games so far, not even
+struggling!#MTLed
+> END STRING
+
+> BEGIN STRING
+果たして、先んじて決勝進出を決めた\\N[12]選手は
+姫様と渡り合うことができるでしょうか！
+明日の決勝戦、目が離せません！』
+> CONTEXT: Map043/events/100/pages/0/106/Dialogue
+I definitely decided to advance to the finals ahead of time
+\\N[12] Players. Can you talk with the princess!
+I can not take my eyes off tomorrow's finals! "#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あのリネッタさんが一方的に敗れるなんて……
+やっぱり、あの姫様は半端じゃないな」
+> CONTEXT: Map043/events/100/pages/0/113/Dialogue
+\\N[12]. 「That Linetta-san is unilaterally defeated ...
+... As expected, that princess is not hesitant」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「すごいね、私から見ても隙が見当たらないよ。
+流麗で優雅で、戦う姿が美しいっていうか……
+それでいて、あの剣技のキレ……本物の天才ってやつだね」
+> CONTEXT: Map043/events/100/pages/0/117/Dialogue
+Sherry. 「It is amazing, I can not see any gap
+from my perspective. She is elegant and elegant,
+is she fighting beautiful.......
+Yet, it's a cure of that sword skill...It's a
+genuine genius」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「どう？
+あのお姫様が決勝の相手になったわけだけど、
+勝てると思う？」
+> CONTEXT: Map043/events/100/pages/0/124/Dialogue
+Sherry. 「How? That princess became the opponent
+of the final, Do you think you can win?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかんねえ……けど、戦う前から負ける気はない。
+なにより、あの姫様には絶対に負けたくないからな。
+全力で食らいついてやるぜ」
+> CONTEXT: Map043/events/100/pages/0/130/Dialogue
+\\N[12]. 「I do not know...but, I do not feel like
+losing before fighting. Anyway, I do not want that princess
+absolutely to lose. I'm starting to get rid of with full
+power」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ふーん、姫様となんかあったの？」
+> CONTEXT: Map043/events/100/pages/0/135/Dialogue
+Sherry. 「Hmm, did you do something with the
+princess?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ちょっとな……」
+> CONTEXT: Map043/events/100/pages/0/138/Dialogue
+\\N[12]. 「A little」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「まあいいや、私に勝ったんだから決勝も頑張ってよね。
+あのお姫様、ちょっとお高く止まってる感じがして
+好きになれないし、痛い目にあわせちゃいなよ」
+> CONTEXT: Map043/events/100/pages/0/141/Dialogue
+Sherry. 「Oh well, I won over me, so I'm doing my
+best in the final. That princess, feeling a
+little high stopped. I can not like it, I will
+not let it hurt」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「言われるまでもないぜ。
+平民でも王族に食らいつけるって、証明してやるさ」
+> CONTEXT: Map043/events/100/pages/0/146/Dialogue
+\\N[12]. 「There is no need to say. I will prove to eat
+royalty even a commoner」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ふふっ。
+さっきは少し気が抜けたような顔してたけど、
+姫様の試合を見て気合が入ったみたいだね」
+> CONTEXT: Map043/events/100/pages/0/150/Dialogue
+Sherry. 「Heh. I had a face that seemed to be
+somewhat disappointing a while ago,
+It seems that you saw the princess fight looking
+at the game」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「確かに……お前に勝った達成感が大きくて
+気が抜けてたところはあったかもしれないな。
+おかげで、少し身が引き締まったぜ」
+> CONTEXT: Map043/events/100/pages/0/157/Dialogue
+\\N[12]. 「Surely...... I feel that the sense of
+accomplishment I have won over you. There might have been a
+missing place. Thanks to that, I was a little tightened.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「意地で這い上がるような感じ、
+そこがキミの強さだと思うし、姫様にもきっと通じるよ。
+決勝、楽しみに見させてもらうからね」
+> CONTEXT: Map043/events/100/pages/0/162/Dialogue
+Sherry. 「Feeling like crawling up with a meaning,
+I think that there is your strength and I can
+surely communicate with the princess.
+I will make you look forward to the finals」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（そうだ、ここで満足してる場合じゃない。
+俺の戦いはまだ終わっていないんだ、
+明日負けたらすべてが終わり、ぐらいの気持ちでいかないと）
+> CONTEXT: Map043/events/100/pages/0/175/Dialogue
+\\N[12]. (Yes, this is not the case when you are
+satisfied here. My battle is not over yet,
+If I lose tomorrow, everything is over and I do not feel
+like it)#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「おっ、\\N[12]選手じゃないか」
+> CONTEXT: Map043/events/100/pages/0/184/Dialogue
+old man. 「Oh, \\N[12] Is not it a player?」#MTLed
+> END STRING
+
+> BEGIN STRING
+騎士
+「おっ、本当に\\N[12]選手だ。
+決勝の相手をチェックしていたのかい？」
+> CONTEXT: Map043/events/100/pages/0/198/Dialogue
+Knight. 「Whoa, really. \\N[12] It is a player.
+Did you check the final partner?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「えっ？　あ、はい。
+どんな相手が来るのかなって……」
+> CONTEXT: Map043/events/100/pages/0/202/Dialogue
+\\N[12]. 「eh? Oh, yes. What kind of opponent will come
+...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+騎士
+「決勝戦、期待しているよ。
+姫様相手は厳しいかもしれないけど、
+せめて互角の試合をして見せてくれ」
+> CONTEXT: Map043/events/100/pages/0/206/Dialogue
+Knight. 「I'm expecting the final game. Princess partner
+may be severe but, At least let me have a match and play」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「\\N[12]選手の試合、あたしは好きだなー
+やっぱりこういう大会では男の力強さも見たいもの」
+> CONTEXT: Map043/events/100/pages/0/212/Dialogue
+Woman. 「\\N[12] Player's game, I like it.
+After all this kind of tournament also want to see the
+strength of a man」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「いずれにせよ、良い試合が見たいものじゃのう。
+\\N[12]選手ならば、今まで姫様が倒した相手よりも
+期待はできるじゃろう」
+> CONTEXT: Map043/events/100/pages/0/221/Dialogue
+old man. 「Either way, I would like to see a good game.
+\\N[12] If it is a player, than the opponent the
+princess has ever killed. Let's expect it」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「頑張ってね、\\N[12]選手！」
+> CONTEXT: Map043/events/100/pages/0/226/Dialogue
+audience. 「Good luck with, \\N[12] player!」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「男の意地ってやつを見せてくれよな！」
+> CONTEXT: Map043/events/100/pages/0/229/Dialogue
+audience. 「Show me the man 's meaning!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ありがとう、頑張ります」
+> CONTEXT: Map043/events/100/pages/0/237/Dialogue
+\\N[12]. 「Oh, thank you, I will do my best」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（観客にも顔を覚えられているとは……
+これは、恥ずかしくない試合をしなきゃな）
+> CONTEXT: Map043/events/100/pages/0/240/Dialogue
+\\N[12]. (It is said that the audience can remember his
+face ...... This must be an embarrassing match)#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「どうぞ、女王陛下の前へ！」
+> CONTEXT: Map043/events/104/pages/0/0/Dialogue
+> CONTEXT: Map043/events/105/pages/0/0/Dialogue
+royal guard. 「Please, before the Queen's Majesty!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「おめでとう、\\N[12]君。
+悔しいけど、キミが優勝にふさわしかったよ。
+さ、女王様が待ってるよ！」
+> CONTEXT: Map043/events/107/pages/0/0/Dialogue
+Sherry. 「Congrats, \\N[12] You. It is regrettable, but
+you were fit for victory. Here, the Queen is waiting!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「いやー、キミがここまで登りつめるだなんて
+お姉さんびっくりだー。
+こんな凄い子に技を教えたなんて、私も鼻が高いよ」
+> CONTEXT: Map043/events/108/pages/0/1/Dialogue
+Linetta. 「Well, I guess you are climbing up to here
+Sister surprised me. I also have a high nose to teach a
+skill to such a wonderful child」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「リネッタさんの教えを受けてなければ、
+俺はここに立てていなかったかもしれません。
+ありがとうございました！」
+> CONTEXT: Map043/events/108/pages/0/6/Dialogue
+\\N[12]. 「Without receiving the teachings of
+Linetta-san, I might not have stood here.
+Thank you very much!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「いやいや、私の力なんて微々たるもんだよ。
+できれば、決勝でキミと再戦してみたかったなぁ」
+> CONTEXT: Map043/events/108/pages/0/11/Dialogue
+Linetta. 「, My power is insignificant. If possible, I
+wanted to rematch again with you in the final」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「予選で戦ったときも筋がいいとは思ったけど、
+まさかキミが優勝しちゃうだなんてね。
+たいしたもんだよ、この国の男の子も捨てたもんじゃないなぁ」
+> CONTEXT: Map043/events/108/pages/0/18/Dialogue
+Linetta. 「I thought that the streak was good when I fought
+in qualifying, No way No you have won the championship.
+It's a big deal, I did not throw away the boys in this
+country, too」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「ほらほら、女王陛下がお待ちだよ。
+さてさて、キミはどんなご褒美を希望するのか、
+楽しみにしてるね」
+> CONTEXT: Map043/events/108/pages/1/0/Dialogue
+Linetta. 「Oh no, Your Queen is waiting. What kind of
+reward would you like, Kim? I'm looking forward」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「このわたくしが、あなたのような男に遅れを取るなんて……
+いえ、こうした驕りが敗北を招いたのでしょうね。
+わたくしの完敗ですわ、\\N[12]とやら」
+> CONTEXT: Map043/events/109/pages/0/0/Dialogue
+alumina. 「I am late for a man like you ...
+No, it was probably caused by such an arrogance.
+It is my perfect defeat, \\N[12] Atonement」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「私、\\N[12]とこういう場で対戦するのが
+ずっと楽しみだったの。
+正々堂々とした、いい試合にしましょう！」
+> CONTEXT: Map043/events/24/pages/5/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ジェーン、出場してたのか。
+ここでお前とやり合うことになるなんてな」
+> CONTEXT: Map043/events/24/pages/5/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「自警団メンバー同士で対戦って、
+ちょっと不思議な気分だよね。
+でも、私は手加減する気はないからね。
+> CONTEXT: Map043/events/24/pages/5/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+観客に自警団の実力を見せつけられるような、
+正々堂々とした試合をしようね、\\N[12]！」
+> CONTEXT: Map043/events/24/pages/5/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、俺も負けないぜっ！」
+> CONTEXT: Map043/events/24/pages/5/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「くうっ、負けちゃった……
+こんな格好させられて、しかも負けるなんて
+悔しいなあ」
+> CONTEXT: Map043/events/24/pages/5/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「す、すまん……
+俺の技のはずみで、恥ずかしい格好させちまって」
+> CONTEXT: Map043/events/24/pages/5/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ふうん、その様子だと、わざとじゃなさそうだね。
+まあいいや、許してあげる。
+それにしても……」
+> CONTEXT: Map043/events/24/pages/5/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「手合わせじゃ情けないところを見せたけど
+やっぱり男として、意地は見せたかったからな。
+しかし、できれば二人で決勝トーナメント行きたかったな」
+> CONTEXT: Map043/events/24/pages/5/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……な、なんてこった、
+こんな舞台まで来て、
+いつも手合わせしてる相手に不覚を取るなんて……」
+> CONTEXT: Map043/events/24/pages/5/487/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「\\N[12]もこの程度だったっていうのは、残念だけど……
+ここから先は、私がレストンの代表として頑張るわね」
+> CONTEXT: Map043/events/24/pages/5/508/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ふふん、でもやっぱり\\N[12]って私より弱いんだ。
+最近の手合わせでも私が勝ち越してたし、
+もしかしてとは思ってたけど」
+> CONTEXT: Map043/events/24/pages/5/514/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/256/357/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「あのシェリーって子に情けない負け方をしたのを見て
+もしかして、って思ったけど
+やっぱり\\N[12]も、この程度だったんだね」
+> CONTEXT: Map043/events/24/pages/5/522/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさん、わたし、ここまで勝ち抜いてきましたっ！
+手合わせの感じじゃ、わたしが有利かもしれないけど……
+でも、容赦はしませんっ！」
+> CONTEXT: Map043/events/24/pages/7/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「手合わせのときのようにはいかないぜ、プリム！
+悪いが、今回ばかりは勝たせてもらうっ！」
+> CONTEXT: Map043/events/24/pages/7/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「うーん、勝ちたかったなあ……
+わたしのパンツを見てえっちなことを考えちゃうような
+おにいさんに負けるのは、悔しいかも……」」
+> CONTEXT: Map043/events/24/pages/7/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、それについては、すまん……
+ホントに、出来心としか言いようがなくてだな……」
+> CONTEXT: Map043/events/24/pages/7/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「なんてね、そんなに怖がらなくてもいいよ、おにいさん。
+わたしなんかを、女として魅力的に
+感じてくれたってことでしょ？　よく考えると嬉しいかも」
+> CONTEXT: Map043/events/24/pages/7/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「でも、試合中に変なこと考えてちゃダメだよ？
+わたし相手にそんな風になってたら、
+大人の女の人が相手だと、すごい隙ができちゃうかも」
+> CONTEXT: Map043/events/24/pages/7/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、確かに命取りになりかねないな……
+すまなかったな、心しておくよ」
+> CONTEXT: Map043/events/24/pages/7/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「わたしの勝ちですね、おにいさん！
+手合わせでもわたしが勝ち越してたし、
+やっぱり、わたしのほうが強くなってたんだね」
+> CONTEXT: Map043/events/24/pages/7/198/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/222/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……
+や、やっぱり、プリムの伸びはすさまじい……
+この大舞台でも、負けちまうなんて……」
+> CONTEXT: Map043/events/24/pages/7/203/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/222/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「負けちゃって残念だったね、おにいさん♪
+試合中に女の子のぱんつなんかに見とれてるから
+そういう目にあうんだよ？」
+> CONTEXT: Map043/events/24/pages/7/233/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/222/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「おあいにくさま。
+私はこの日まで、みっちり研鑽を重ねてきたのよ。
+あなたに味わわされた屈辱を晴らすためにね」
+> CONTEXT: Map043/events/24/pages/8/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/121/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか……」
+> CONTEXT: Map043/events/24/pages/8/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/121/pages/1/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「今度こそ思い知らせてあげる。
+高貴な人間と庶民との間には、
+埋めることのできない絶対的な差があることをねっ！」
+> CONTEXT: Map043/events/24/pages/8/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/24/pages/9/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「おあいにくさま。
+あなたの弱点はもう分かっているのよ。
+以前のようにいくと思わないことね」
+> CONTEXT: Map043/events/24/pages/9/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「じゃ、弱点だと？」
+> CONTEXT: Map043/events/24/pages/9/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、そうはいくか！
+今回も俺が勝たせてもらうぜ、いくぞっ！」
+> CONTEXT: Map043/events/24/pages/9/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ……まったく、
+わざわざ色仕掛けみたいなことをする必要はないだろうに」
+> CONTEXT: Map043/events/24/pages/9/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「だって、あなたってこういうのに弱そうだし。
+私の美貌を持ってすれば、あなたなんて
+簡単に誘惑できると思ったのよ」
+> CONTEXT: Map043/events/24/pages/9/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そういうことじゃなくてな。
+お前はかなりのセンスを持ってるんだから
+普通に腕を磨くだけで、絶対に強くなれると思うんだが……」
+> CONTEXT: Map043/events/24/pages/9/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふんっ、おだてても何も出ないわよ。
+ま、私に二度も勝った実力は認めてあげるわ。
+まさか色仕掛けまで跳ねのけるだなんて……」
+> CONTEXT: Map043/events/24/pages/9/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（まさかディアーナに色仕掛けをされるなんてなあ……
+とにかく、勝ったのは俺だ。
+なにか命令できるわけだが、どうしようか？）
+> CONTEXT: Map043/events/24/pages/9/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふっ、どう？
+この私の天才的な剣術に、女の武器まで組み合わせれば
+男が私に勝てるわけないわよねっ」
+> CONTEXT: Map043/events/24/pages/9/223/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/320/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……まさか、ディアーナが
+こんな色仕掛けをしてくるだなんて……」
+> CONTEXT: Map043/events/24/pages/9/228/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/320/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「自分よりずっと年下の小娘の誘惑に屈して
+無様に負けてしまった気分はどうかしら？
+恥ずかしい男ねっ、あはははっ！」
+> CONTEXT: Map043/events/24/pages/9/232/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/320/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「さて、勝者は私……だけど、
+あなたのような庶民から奪いたいものなどないのよね。
+ここは、さらなる醜態でも晒してみせてもらおうかしら」
+> CONTEXT: Map043/events/24/pages/9/288/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/320/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふ……
+大勢の観客の前で小娘に嫐られる恥ずかしさを
+さらに味わわせてあげるわ♪」
+> CONTEXT: Map043/events/24/pages/9/298/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/320/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『おおっと、ディアーナ選手
+\\N[12]選手をさらに性的に嫐るつもりのようです！』
+> CONTEXT: Map043/events/24/pages/9/304/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/24/pages/9/608/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/320/98/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/320/402/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「この高貴な私のお尻を顔で味わえるなんて、
+あなたは幸運よ。
+ま、このお尻で負けたんだし、屈辱だろうけど」
+> CONTEXT: Map043/events/24/pages/9/339/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/320/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「やっぱり私のお尻で興奮しちゃうのね、
+あなたってロリコンのヘンタイよねぇ」
+> CONTEXT: Map043/events/24/pages/9/355/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/320/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+観客
+「信じられないわ、
+あんな子に色香を感じているってことよね。
+完全に変態だわ」
+> CONTEXT: Map043/events/24/pages/9/363/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/320/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は自分よりも年下の
+貴族の少女に、誘惑と剣技を織り交ぜた戦い方で翻弄され
+屈辱的な敗北を喫し、
+さらに性的恥辱まで味わわされた。
+> CONTEXT: Map043/events/24/pages/9/586/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/320/380/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐうぅっ……や、やられたっ……」
+> CONTEXT: Map043/events/24/pages/12/210/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/228/34/Dialogue < UNTRANSLATED
+
+> END STRING

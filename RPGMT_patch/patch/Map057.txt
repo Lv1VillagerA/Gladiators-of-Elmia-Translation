@@ -1,0 +1,3542 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+おじさん
+「ふふふ、緊張しているのかね若者よ。
+こういう場では、経験豊富な私のような戦士が強いということを
+思い知らせてあげよう」
+> CONTEXT: Map057/events/3/pages/0/0/Dialogue
+old man. 「Huhuu, are you nervous, are young people.
+In such a place, it is said that experienced warriors like
+me are strong. Let me know」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士
+「……話しかけるな」
+> CONTEXT: Map057/events/4/pages/0/0/Dialogue
+Swordsman. 「......Do not talk to me.」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士
+「……もう敗退決定してしまったぜ。
+俺は小心者だからこんな壁際にいるだけなんだ」
+> CONTEXT: Map057/events/4/pages/1/0/Dialogue
+Swordsman. 「......I've already decided to lose.
+Because I am a caster, I am just at the wall」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士
+「控室は男女別に分けられてはいるが、
+対戦カードは、普通に同性同士でも組まれているぜ。
+当たり前だけどな」
+> CONTEXT: Map057/events/5/pages/0/0/Dialogue
+Swordsman. 「Although the waiting room is divided by gender,
+Fighting cards are usually made up of homosexuals.
+Of course it is natural.」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士
+「あまり控室の人数に偏りが出ると
+男女混ぜられることになりそうだな」
+> CONTEXT: Map057/events/5/pages/1/0/Dialogue
+Swordsman. 「When the number of people in the waiting room
+is biased. It seems to be mixed with men and women」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法使い
+「魔法職でも一対一の勝負で戦えるということを、
+私がお見せいたしましょう」
+> CONTEXT: Map057/events/6/pages/0/0/Dialogue
+Witch. 「You can fight with a one-on-one game even in a
+magical position, Let me show you」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「私はこの大会のため、はるばる北のリコシア王国から来たんだ。
+故郷で待っている家族のためにも、
+ひとつでも多く勝って賞金を得て帰らねば」
+> CONTEXT: Map057/events/7/pages/0/0/Dialogue
+Warrior. 「Because of this tournament, I came all the way
+from the Licosa kingdom of the north. For the family
+waiting at home, You have to win more and win prizes and
+return」#MTLed
+> END STRING
+
+> BEGIN STRING
+デュバール
+「今回は私の勝ちだったな、だがいい試合だった。
+まだ予選は残っているが、
+お互い突破できるよう頑張ろう」
+> CONTEXT: Map057/events/7/pages/1/0/Dialogue
+Duval. 「I was the winner this time, but it was a good game.
+Although qualifying still remains, Let's keep on trying to
+break through each other」#MTLed
+> END STRING
+
+> BEGIN STRING
+デュバール
+「お手合わせありがとう。完敗だよ。
+敗退は悔しいが、内容には納得している。
+できればまた来年、この大会で会おう」
+> CONTEXT: Map057/events/7/pages/2/0/Dialogue
+Duval. 「Thank you for agreeing. It is a perfect defeat.
+I am regretful about losing, but I am satisfied with the
+content. I hope to see you again next year in this
+tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「そろそろ開会式だよな？
+女王陛下、すっげぇ綺麗な人なんだよなぁ、
+開会のお言葉、早く聞きたいぜ」
+> CONTEXT: Map057/events/8/pages/0/0/Dialogue
+Fighter. 「It is almost time for the opening ceremony?
+Her Majesty the Queen, it 's a pretty beautiful person,
+Opening words, I want to hear soon」#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「女王様、本当にお綺麗だったなぁ。
+あの人の前で優勝したいぜ」
+> CONTEXT: Map057/events/8/pages/1/0/Dialogue
+Fighter. 「Queen, it was really beautiful.
+I want to win the championship in front of him」#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「予選1日目だけで、ずいぶん人が減ったなあ」
+> CONTEXT: Map057/events/8/pages/2/0/Dialogue
+Fighter. 「I only got quite a few people on qualifying day
+one only」#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「予選最終戦で負けちまったぜ。
+悔しいなあ、来年は絶対にトーナメントに残るぞ」
+> CONTEXT: Map057/events/8/pages/3/0/Dialogue
+Fighter. 「I lost in qualifying final round.
+Regrettable, next year will definitely remain in the
+tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「俺、西の王国から来たんだ。
+こういう大きな大会なんて故郷にはないからなぁ、
+毎年、腕試しに来てるのさ」
+> CONTEXT: Map057/events/9/pages/0/0/Dialogue
+Youth. 「I came from the West Kingdom. I do not have such a
+big tournament in my hometown, Every year, I am trying my
+best」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「やあ、お互いなんとか勝ち残っているようだな。
+控室もだいぶ広くなったが、今後とも頑張ろう」
+> CONTEXT: Map057/events/9/pages/1/0/Dialogue
+Youth. 「Hi, it seems that each other managed to win.
+The waiting room has become quite wide, but I will try hard
+in future」#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「ふーっ、いよいよ大会だと思うと緊張してたまらんぜ。
+優勝すれば、どんな望みでも思うがままだっていうが、
+そんなことより俺は自分の実力を証明したいんだ」
+> CONTEXT: Map057/events/10/pages/0/0/Dialogue
+Fighter. 「I was nervous when I thought it was tournament.
+If you win, I do not care whatever hope you are thinking,
+Besides such a thing I want to prove my skill」#MTLed
+> END STRING
+
+> BEGIN STRING
+アデット
+「いい勝負だった、今回はたまたま俺の勝ちだっただけだぜ。
+あんたも残りの試合で勝ち抜けるように頑張れよ」
+> CONTEXT: Map057/events/10/pages/1/0/Dialogue
+Adette. 「It was a good game, this occasionally I just won.
+You must go as well to win the rest of the game」#MTLed
+> END STRING
+
+> BEGIN STRING
+アデット
+「いやー、あんたつえぇなぁ。
+第1試合からこんな強い相手と当たっちまうとは運がなかったぜ」
+> CONTEXT: Map057/events/10/pages/2/0/Dialogue
+Adette. 「Wow, you know what? There was no luck in hitting
+such a strong opponent from the first match」#MTLed
+> END STRING
+
+> BEGIN STRING
+アデット
+「1次予選敗退になっちまった、悔しいぜ。
+あんたは勝ち残ったのかい？
+俺の分も、明日以降頑張ってくれよな」
+> CONTEXT: Map057/events/10/pages/3/0/Dialogue
+Adette. 「It is frustrating that I lost my first
+preliminary contest. Have you survived? Please do my best
+for tomorrow even afterwards」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「大会期間中は、
+ステージへの無許可での立ち入りは禁止させていただいております」
+> CONTEXT: Map057/events/11/pages/0/0/Dialogue
+A soldier. 「During the tournament period,
+We are prohibited from entering the stage without
+permission」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「間もなく女王陛下から開会の言葉がございます。
+投影の魔法によって闘技場の全フロアに流れますので、
+こちらの控室にてお聞きくださいますよう」
+> CONTEXT: Map057/events/11/pages/1/0/Dialogue
+A soldier. 「There will be a word of opening from the Queen
+soon. Because it flows to all floors of the stadium by the
+magic of projection, Please listen at this waiting room」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「本日は1次予選を戦っていただきます。
+\\N[12]選手、そろそろ出番ですが
+準備はできましたか？」
+> CONTEXT: Map057/events/11/pages/2/0/Dialogue
+Attendant. 「Today I will fight the first round
+qualification. \\N[12] Players, it is time to come
+are you ready?」#MTLed
+> END STRING
+
+> BEGIN STRING
+はい（試合開始）
+> CONTEXT: Map057/events/11/pages/2/5/Choice/0
+> CONTEXT: Map057/events/11/pages/3/4/Choice/0
+> CONTEXT: Map057/events/11/pages/4/4/Choice/0
+> CONTEXT: Map057/events/11/pages/5/29/Choice/0
+> CONTEXT: Map057/events/11/pages/6/4/Choice/0
+Yes (game start)#MTLed
+> END STRING
+
+> BEGIN STRING
+他の選手の試合中――
+> CONTEXT: Map057/events/11/pages/2/15/Dialogue
+> CONTEXT: Map057/events/11/pages/3/12/Dialogue
+> CONTEXT: Map057/events/11/pages/4/12/Dialogue
+> CONTEXT: Map057/events/11/pages/5/37/Dialogue
+> CONTEXT: Map057/events/11/pages/6/12/Dialogue
+While playing other players -#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「\\N[12]選手、闘技場にお進みください。
+1次予選リーグ第1試合となります」
+> CONTEXT: Map057/events/11/pages/2/22/Dialogue
+Attendant. 「\\N[12] Please proceed to the athletes and
+stadium. It will be the first match of the first prelimand
+league」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]※武道大会の試合は、敗北すると
+ゲームオーバーあるいはバッドエンドとなることがあります。
+試合前にセーブしておくことを強くオススメします。
+> CONTEXT: Map057/events/11/pages/2/27/Dialogue
+> CONTEXT: Map057/events/11/pages/5/49/Dialogue
+> CONTEXT: Map057/events/11/pages/6/24/Dialogue
+\\C[2]※ The game of martial arts tournament, when defeated
+It may be game over or bad end. I strongly recommend saving
+it before the game.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ついに、最初の試合か。
+初戦ぐらいは幸先よくサクッと勝ちたいもんだぜ。
+よしっ、行くぞ！）
+> CONTEXT: Map057/events/11/pages/2/31/Dialogue
+\\N[12]. (Finally, is it the first game?
+I'd like to win the first time in the first match.
+Alright, let's go! )#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「\\N[12]選手の試合はしばらく後となります
+こちらの控室で、試合開始時間まで待機しますか？」
+> CONTEXT: Map057/events/11/pages/3/0/Dialogue
+> CONTEXT: Map057/events/11/pages/4/0/Dialogue
+> CONTEXT: Map057/events/11/pages/6/0/Dialogue
+A soldier. 「\\N[12] Players' match will be after a while
+Would you like to wait until the game start time in this
+waiting room?」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「\\N[12]選手、闘技場にお進みください。
+1次予選リーグ第2試合となります」
+> CONTEXT: Map057/events/11/pages/3/19/Dialogue
+Attendant. 「\\N[12] Please proceed to the athletes and
+stadium. It will be the first match in the first round
+preliminary league」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「\\N[12]選手、闘技場にお進みください。
+1次予選リーグ第3試合となります。
+ちなみに、これが本日最後の試合であります」
+> CONTEXT: Map057/events/11/pages/4/19/Dialogue
+Attendant. 「\\N[12] Please proceed to the athletes and
+stadium. It will be the first match in the first round
+preliminary league. By the way, this is the last game
+today.」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「おはようございます、\\N[12]選手。
+本日の2次予選は、
+最大で2試合を戦っていただくことになります。
+> CONTEXT: Map057/events/11/pages/5/3/Dialogue
+Attendant. 「Good morning, \\N[12] player.
+Today's second qualifying session, You will be fighting two
+games at maximum.#MTLed
+> END STRING
+
+> BEGIN STRING
+昨日の1次予選と違い、
+本日は1敗した時点で
+即敗退が決定いたします。ご注意ください。
+> CONTEXT: Map057/events/11/pages/5/8/Dialogue
+Unlike yesterday's first round qualifying,
+Today when I lost 1. I will decide immediately to be
+eliminated. Please be careful.#MTLed
+> END STRING
+
+> BEGIN STRING
+なお、この試合からは特別ルールが適用され、
+勝者は敗者を好きにしてよい、ということになります。
+ただし、相手を殺害することは認められませんので、
+その点はご留意のほど、よろしくお願いいたします」
+> CONTEXT: Map057/events/11/pages/5/12/Dialogue
+Special rules are applied from this game,
+The winner is that you may like the losers.
+However, because it is not allowed to kill the other party,
+Thank you for your attention to that point」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（いよいよ今日からは特別ルール適用か……
+しかし、好きにしていいと言われてもなあ、
+女を好きにするなんて、こんな舞台でやっていいものか？）
+> CONTEXT: Map057/events/11/pages/5/17/Dialogue
+\\N[12]. (From today on special rules apply ......
+However, even if it is said that you may like it,
+To make love for a woman, can you do on such a stage? )#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「\\N[12]選手の試合はしばらく後となります
+こちらの控室で、試合開始時間まで待機しますか？」
+> CONTEXT: Map057/events/11/pages/5/25/Dialogue
+Attendant. 「\\N[12] Players' match will be after a while
+Would you like to wait until the game start time in this
+waiting room?」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「\\N[12]選手、闘技場にお進みください。
+2次予選第1試合となります」
+> CONTEXT: Map057/events/11/pages/5/44/Dialogue
+Attendant. 「\\N[12] Please proceed to the athletes and
+stadium. It will be the 2nd round preliminary match 1」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「\\N[12]選手、闘技場にお進みください。
+決勝トーナメント進出決定戦となります」
+> CONTEXT: Map057/events/11/pages/6/19/Dialogue
+Attendant. 「\\N[12] Please proceed to the athletes and
+stadium. It will be a decided battle to advance to the
+finals tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「本日の試合はこれで終了となります。
+明日は予選リーグ2日目となりますので、
+遅刻せぬように受付にお越しください」
+> CONTEXT: Map057/events/11/pages/7/0/Dialogue
+A soldier. 「Today's game is over now. Since it will be the
+second day of prelimacy league tomorrow,
+Please come to the reception so as not to be late」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「本日の試合はこれで終了となります。
+明日は決勝トーナメント1回戦となりますので、
+遅刻せぬように受付にお越しください」
+> CONTEXT: Map057/events/11/pages/8/0/Dialogue
+A soldier. 「Today's game is over now. Since it will be the
+first round of the final tournament tomorrow,
+Please come to the reception so as not to be late」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「おはようございます、\\N[12]選手。
+本日からは決勝トーナメントとなります」
+> CONTEXT: Map057/events/11/pages/9/0/Dialogue
+A soldier. 「Good morning, \\N[12] player.
+From today it will be the final tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+「決勝トーナメントについての詳細なルール等は、
+控室左下の係員にお聞きください。
+では、\\N[12]選手は第1試合なので、
+準備ができ次第ご入場ください」
+> CONTEXT: Map057/events/11/pages/9/4/Dialogue
+> CONTEXT: Map057/events/11/pages/12/4/Dialogue
+「Detailed rules on the finals tournament, etc.,
+Please ask the staff at the bottom left of the waiting
+room. Then, \\N[12] As the athlete is the first match,
+Please get in as soon as you are ready」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「本日の試合はこれで終了となります。
+明日は決勝トーナメント2回戦となりますので、
+遅刻せぬように受付にお越しください」
+> CONTEXT: Map057/events/11/pages/10/0/Dialogue
+> CONTEXT: Map057/events/11/pages/11/0/Dialogue
+A soldier. 「Today's game is over now. Because it will be
+the second round of the final tournament tomorrow,
+Please come to the reception so as not to be late」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「おはようございます、\\N[12]選手。
+本日は決勝トーナメント2回戦を戦っていただきます」
+> CONTEXT: Map057/events/11/pages/12/0/Dialogue
+A soldier. 「Good morning, \\N[12] player.
+Today I will fight the second round of the finals
+tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「本日の試合はこれで終了となります。
+明日は決勝トーナメント3回戦となりますので、
+遅刻せぬように受付にお越しください」
+> CONTEXT: Map057/events/11/pages/13/0/Dialogue
+A soldier. 「Today's game is over now. Because it will be
+the third round of the final tournament tomorrow,
+Please come to the reception so as not to be late」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「だ、大丈夫ですか？」
+> CONTEXT: Map057/events/11/pages/14/1/Dialogue
+\\N[12]. 「Is that okay?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は係員を助け起こした。
+> CONTEXT: Map057/events/11/pages/14/4/Dialogue
+\\N[12] He rescued the agent.#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「あ、ありがとうございます。
+うう、まだ頭がぼうっとする……」
+> CONTEXT: Map057/events/11/pages/14/10/Dialogue
+Attendant. 「Oh, thank you. Wow, my head still fogs ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いったい、なにがあったんです？
+見たところ怪我とかは無いようですけど」
+> CONTEXT: Map057/events/11/pages/14/14/Dialogue
+\\N[12]. 「What on earth is there? Although it seems
+that there are no injuries as seen」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「いや、その……言いにくいことなんですが、
+どこから入ってきたのか、バニーガールが現れまして」
+> CONTEXT: Map057/events/11/pages/14/18/Dialogue
+Attendant. 「No, that...... It is hard to say,
+Bunny girl appeared from where you came in」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「ずいぶん綺麗な女でしてね。お恥ずかしながら、
+思わず見とれていたら、いきなり性的な行為をされて
+抵抗もできずに、そのまま気絶するまで搾られてしまい……」
+> CONTEXT: Map057/events/11/pages/14/25/Dialogue
+Attendant. 「It is quite a beautiful woman. Shamefully,
+If you were able to see it unintentionally, suddenly sexual
+acts. I could not resist, it was squeezed as it was faint
+... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「ううっ……
+今思い出しても、股間がうずいてしまう……」
+> CONTEXT: Map057/events/11/pages/14/31/Dialogue
+Attendant. 「uugh...... Even though I remember it now, my
+crotch awakens......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（さっきのバニーガールがやったのか？
+まさか……そうだとしても、いったい何のために……）
+> CONTEXT: Map057/events/11/pages/14/35/Dialogue
+\\N[12]. (Did bunny girl do it just now?
+No way .... Even so, for whatever......)#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「と、とにかく、
+おはようございます、\\N[12]選手。
+本日は決勝トーナメント3回戦を戦っていただきます」
+> CONTEXT: Map057/events/11/pages/14/39/Dialogue
+Attendant. 「Anyway, Good morning, \\N[12] player.
+Today I will fight the third round of the finals tournament
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、はいっ」
+> CONTEXT: Map057/events/11/pages/14/44/Dialogue
+\\N[12]. 「Oops!」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「準備ができ次第、
+試合場にお進みください」
+> CONTEXT: Map057/events/11/pages/14/47/Dialogue
+Attendant. 「Upon preparation, Please proceed to the game
+area」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「おはようございます、\\N[12]選手。
+本日は決勝トーナメント3回戦を戦っていただきます」
+> CONTEXT: Map057/events/11/pages/15/0/Dialogue
+A soldier. 「Good morning, \\N[12] player.
+Today I will fight the third round of the finals tournament
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「時間がありませんので、すみやかに試合場にお入りください」
+> CONTEXT: Map057/events/11/pages/15/4/Dialogue
+A soldier. 「We do not have time, so please enter the match
+area promptly」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「本日の試合はこれで終了となります。
+明日は4回戦・準々決勝となりますので、
+遅刻せぬように受付にお越しください」
+> CONTEXT: Map057/events/11/pages/16/0/Dialogue
+A soldier. 「Today's game is over now. Because it will be
+the fourth round and quarter-finals tomorrow,
+Please come to the reception so as not to be late」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「眠り薬の後遺症で頭がぼうっとする……
+おっと、失礼しました。明日は準決勝となりますので、
+遅刻せぬように受付にお越しください」
+> CONTEXT: Map057/events/11/pages/18/0/Dialogue
+A soldier. 「My head begins to blur by the after effects of
+sleeping medicine ...... Oops, I'm sorry. Because it will
+be semi-finals tomorrow, Please come to the reception so as
+not to be late」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「おはようございます、\\N[12]選手。
+本日は準決勝となっております」
+> CONTEXT: Map057/events/11/pages/19/0/Dialogue
+A soldier. 「Good morning, \\N[12] player.
+Today is the semi-finals」#MTLed
+> END STRING
+
+> BEGIN STRING
+「では、\\N[12]選手は第1試合なので、
+準備ができ次第ご入場ください」
+> CONTEXT: Map057/events/11/pages/19/4/Dialogue
+「Then, \\N[12] As the athlete is the first match,
+Please get in as soon as you are ready」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「本日の試合はこれで終了となります。
+明日の決勝戦はお昼からとなりますので、
+ゆっくりコンディションを整えてお越しください」
+> CONTEXT: Map057/events/11/pages/20/0/Dialogue
+A soldier. 「Today's game is over now. Since the final game
+tomorrow will be from noon, Please slowly prepare the
+condition and come」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「こんにちは、\\N[12]選手。
+本日は決勝戦となっております。
+> CONTEXT: Map057/events/11/pages/21/0/Dialogue
+A soldier. 「Hello, \\N[12] player. Today is the final
+game.#MTLed
+> END STRING
+
+> BEGIN STRING
+準備ができしだい、ご入場ください。
+なお、本日は入場すると女王陛下のお言葉ののち
+即、試合が始まります。ご注意ください」
+> CONTEXT: Map057/events/11/pages/21/4/Dialogue
+Please admission as soon as you are ready.
+Today, after entering the entrance of the words of His
+Majesty the Queen. The game starts immediately. Please be
+careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「この大会、ひとつ勝つたびに賞金額が上がる。
+鍛えた体で稼ぐいい機会だ、決勝トーナメントまで
+絶対に残ってやるぜ」
+> CONTEXT: Map057/events/12/pages/0/0/Dialogue
+Fighter. 「This tournament, when you win one prize amount
+will rise. It is a good opportunity to earn with a trained
+body, until the final tournament. I will absolutely remain」#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「この控室もだいぶ寂しくなったもんだな。
+もしかして、今回って女の選手のほうが優勢なのか……？」
+> CONTEXT: Map057/events/12/pages/1/0/Dialogue
+Fighter. 「This waiting room has become quite sad.
+Perhaps, this time the women's players are dominant ......?
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「参加者が多いから、この大会の予選リーグは厳しい。
+負けが許されるのはせいぜい1回までだろう
+2敗したらその時点で敗退決定だ」
+> CONTEXT: Map057/events/13/pages/0/0/Dialogue
+Warrior. 「Because there are many participants, the
+tournament's prelimary league is tough. It will be forgiven
+for not more than once at most. If you lose 2 losses you
+decided at that time」#MTLed
+> END STRING
+
+> BEGIN STRING
+サムライ
+「右隣の寡黙な男、ただ者ではないと見た。
+隙のないたたずまい、放たれる殺気……
+何より、部屋の隅に陣取って襲いかかられるリスクを避けている」
+> CONTEXT: Map057/events/15/pages/0/0/Dialogue
+> CONTEXT: Map057/events/15/pages/1/0/Dialogue
+Samurai. 「I saw that the silent man next to the right, not
+a mere person. Nothing has a gap, the emancipating murder
+......More than anything, it avoids the risk of being
+caught in the corner of the room and attacking it」#MTLed
+> END STRING
+
+> BEGIN STRING
+サムライ
+「あの寡黙な男、どこへ行ってしまったのだ？
+是非一度、お手合わせ願いたかったのだが……」
+> CONTEXT: Map057/events/15/pages/2/0/Dialogue
+Samurai. 「That silent man, where have you gone?
+I wanted to ask you to go there once ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+老戦士
+「予選リーグは1位の選手しか抜けることができない。
+1敗すれば、その時点で望みはほぼ無いと言ってよいじゃろう。
+かなり厳しいルールじゃよ」
+> CONTEXT: Map057/events/16/pages/0/0/Dialogue
+Old warrior. 「In the preliminary rounds, only the
+first-ranked player can escape. If you lose 1 loss, you can
+say that there is almost no hope at that point.
+It's a pretty tough rule」#MTLed
+> END STRING
+
+> BEGIN STRING
+老戦士
+「まだ予選リーグだというのに、
+さっそく野戦病院めいてきたのう」
+> CONTEXT: Map057/events/16/pages/1/0/Dialogue
+Old warrior. 「Although it is still a preliminary league,
+The field hospital has been followed immediately」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士
+「控室が男女別に分けられているということは、
+男性と女性の参加者が同数程度ということなんだろう」
+> CONTEXT: Map057/events/17/pages/0/0/Dialogue
+Swordsman. 「The fact that the waiting room is divided by
+gender, It seems that the number of male and female
+participants is about the same number」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法使い
+「うう……ま、魔法職でも、戦える……」
+> CONTEXT: Map057/events/18/pages/0/0/Dialogue
+Witch. 「Uu ..... Well, even in a magical position, I can
+fight ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「ふ、不覚なり……」
+> CONTEXT: Map057/events/19/pages/0/0/Dialogue
+Warrior. 「Well, it is awkward ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「中に進むと引き返せませんので、ご注意を。
+もし準備があるならば、済ませてからお進みください」
+> CONTEXT: Map057/events/20/pages/0/0/Dialogue
+A soldier. 「Please do not be afraid to go back while you
+can not turn back. If you are prepared, please proceed now」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「私は大会のルールを説明する係の者です。
+なんなりとお聞きください」
+> CONTEXT: Map057/events/21/pages/0/0/Dialogue
+Attendant. 「I am a clerk who explains the rules of
+tournament. Please ask me why」#MTLed
+> END STRING
+
+> BEGIN STRING
+予選の仕組みについて
+> CONTEXT: Map057/events/21/pages/0/4/Choice/0
+About the mechanism of qualifying#MTLed
+> END STRING
+
+> BEGIN STRING
+決勝トーナメントについて
+> CONTEXT: Map057/events/21/pages/0/4/Choice/1
+About the final tournament#MTLed
+> END STRING
+
+> BEGIN STRING
+日程について
+> CONTEXT: Map057/events/21/pages/0/4/Choice/2
+About schedule#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「初日の1次予選は、各選手が3試合を行います。
+その結果、3連勝または2勝1敗の選手の方々が
+2日目に進出となるルールになっております。
+> CONTEXT: Map057/events/21/pages/0/6/Dialogue
+Attendant. 「In the first preliminary round of the first
+day, each player will play three games. As a result,
+players with 3 consecutive wins or 2 wins and 1 loss
+It becomes a rule to advance to the second day.#MTLed
+> END STRING
+
+> BEGIN STRING
+2敗した時点で敗退が決定し、ゲームオーバーとなりますので
+くれぐれもご注意ください。
+> CONTEXT: Map057/events/21/pages/0/11/Dialogue
+Since it is decided to be eliminated at the time of 2
+losses, the game will be over. Please note earnestly.#MTLed
+> END STRING
+
+> BEGIN STRING
+2日目の2次予選は決勝トーナメント進出決定戦です。
+ここでは、2連勝した選手のみが決勝トーナメントに進出する、
+というルールです。
+当然、1敗した時点でゲームオーバーとなります。
+> CONTEXT: Map057/events/21/pages/0/14/Dialogue
+The second qualifying on the second day is the final match
+against the final round of the tournament.
+Here, only the two consecutive victories are advanced to
+the finals tournament, That is the rule.
+Naturally, the game will be over when you lose one.#MTLed
+> END STRING
+
+> BEGIN STRING
+なお、この2日目の最終戦から、
+特別ルールとして、勝者は敗者を好きにしてよい、
+ということになっております。
+ご注意ください」
+> CONTEXT: Map057/events/21/pages/0/19/Dialogue
+From this final day of the second day, As a special rule,
+the winner may like the losers, It is supposed to be.
+Please be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「予選を勝ち抜いた選手たちによるトーナメント戦です。
+当然ながら、負けた時点で敗退決定となります」
+> CONTEXT: Map057/events/21/pages/0/26/Dialogue
+Attendant. 「It is a tournament game by players who won
+qualifying. Of course, it will be determined to be lost at
+the time of losing」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「また、敗北した際は
+勝者の命令を聞かなくてはならない
+というルールになっております。
+> CONTEXT: Map057/events/21/pages/0/31/Dialogue
+Attendant. 「Also, when defeated. I have to ask the order
+of the winner. It is the rule that it is.#MTLed
+> END STRING
+
+> BEGIN STRING
+女性キャラクターに負けた場合、Ｈイベント等もございますが、
+当然そこでエンディングを迎えることになってしまいますので、
+試合前にはデータをセーブしておくことを
+強くオススメいたします」
+> CONTEXT: Map057/events/21/pages/0/36/Dialogue
+If you lose to a female character, there are H events etc.,
+Of course it will end up in the ending there,
+Before you play you can save the data. I strongly recommend
+it」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「予選の試合日程は1日目が3試合、2日目に2試合していただきます。
+1試合ごとにインターバルがありますので、その間に
+次の試合への準備をととのいておいてください」
+> CONTEXT: Map057/events/21/pages/0/47/Dialogue
+Attendant. 「For the qualifying game schedule, we will have
+three matches on the first day and two matches on the
+second day. Since there is an interval for every game,
+during that time. Please prepare for the preparation for
+the next game」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「なお、決勝トーナメントからは1日1試合となります」
+> CONTEXT: Map057/events/21/pages/0/52/Dialogue
+Attendant. 「From the final tournament will be a game a day」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「だ、誰もいねぇ。
+もしかして、俺以外の男性選手って2回戦で全滅したのか？
+> CONTEXT: Map057/events/22/pages/0/10/Dialogue
+\\N[12]. 「No, no one. Perhaps, were male players other
+than me annihilated in the second round?#MTLed
+> END STRING
+
+> BEGIN STRING
+あれ、係員が倒れてる……？
+なにかあったんだろうか」
+> CONTEXT: Map057/events/22/pages/0/14/Dialogue
+Oh, the clerk is down.......? I wonder what happened」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「はぁい、坊や」
+> CONTEXT: Map057/events/22/pages/0/23/Dialogue
+bunny girl. 「Ha ha, boy」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うわっ！」
+> CONTEXT: Map057/events/22/pages/0/30/Dialogue
+\\N[12]. 「Wow!」#MTLed
+> CONTEXT: Commonevents/6/126/Dialogue
+> CONTEXT: Commonevents/216/127/Dialogue
+\\N[12]. 「Wow!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「うふふっ、油断しすぎよ。
+そんなに驚かなくてもいいじゃない」
+> CONTEXT: Map057/events/22/pages/0/36/Dialogue
+bunny girl. 「Uh, it's too careless. You do not have to be
+so surprised」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いきなり後ろから来るから……
+な、なんなんだあんた。
+こっちは男の控室だぞ？」
+> CONTEXT: Map057/events/22/pages/0/40/Dialogue
+\\N[12]. 「Suddenly coming from behind......
+You are gradually. This is the man's waiting room?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「ごめんなさい、誰もいないようだったから
+つい入ってきちゃった。
+実は私、キミの試合を見てファンになっちゃったの」
+> CONTEXT: Map057/events/22/pages/0/45/Dialogue
+bunny girl. 「I am sorry, because there seemed to be no one
+I came in following. Actually, I became a fan when I saw
+your game」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、俺の？」
+> CONTEXT: Map057/events/22/pages/0/50/Dialogue
+\\N[12]. 「Oh, my?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「ええ。
+戦っているときの顔がりりしくて格好良かったし、
+まっすぐで一生懸命な戦いぶり、とっても素敵だったわ。」
+> CONTEXT: Map057/events/22/pages/0/53/Dialogue
+bunny girl. 「Yes. The face when I was fighting was funny
+and I was cool, It was very nice for a straight and hard
+fight.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そっか、そりゃ嬉しいな……
+ありがとう」
+> CONTEXT: Map057/events/22/pages/0/58/Dialogue
+\\N[12]. 「Well, that is, I'm glad that......
+Thank you」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「うふふ、照れている顔もカワイイ\\I[122]
+もしよかったら、握手していただけるかしら？」
+> CONTEXT: Map057/events/22/pages/0/62/Dialogue
+bunny girl. 「Uhufu, the embarrassed face is also cute \\I[122]
+Will you be able to shake hands if it is okay?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、お安いご用だぜ」
+> CONTEXT: Map057/events/22/pages/0/66/Dialogue
+\\N[12]. 「Oh, it's cheap.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールは少し前傾姿勢を取り
+胸を見せつけるようにしながら
+\\N[12]の手を握ってきた――
+> CONTEXT: Map057/events/22/pages/0/72/Dialogue
+bunny girl takes a little leaning posture
+While trying to show your chest. \\N[12] I caught my
+hand -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（うっ……柔らかくてすべすべしてて
+なんて握り心地がいい手をしてるんだ……）
+> CONTEXT: Map057/events/22/pages/0/76/Dialogue
+\\N[12]. (Uh ...... please be soft. How comfortable you
+hold hands......)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（それに、あの胸……
+あんな大きいのは見たことがないぞ。
+あの谷間、すげえ柔らかそうだ……）
+> CONTEXT: Map057/events/22/pages/0/82/Dialogue
+\\N[12]. (And that breast ...... I have never seen such
+a big one. In that valley, it looks soft, seems......)#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「うふふっ……
+そんなにおっぱいをじっくり見られると、
+ちょっと照れちゃうわ」
+> CONTEXT: Map057/events/22/pages/0/88/Dialogue
+bunny girl. 「Uhufu...When you look so much over your
+boobs, I'll be shy for a moment.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、す、すみませんっ」
+> CONTEXT: Map057/events/22/pages/0/93/Dialogue
+\\N[12]. 「Oh, I'm sorry」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「ああ、謝らなくてもいいのよ、むしろ嬉しいわ。
+キミみたいなステキな男の子が
+私の体を魅力的に感じてくれているだなんて、ね。
+> CONTEXT: Map057/events/22/pages/0/96/Dialogue
+bunny girl. 「Oh, you do not have to apologize, I'd rather
+be happy. A wonderful and beautiful boy like you
+I feel that my body is attractive.#MTLed
+> END STRING
+
+> BEGIN STRING
+……ねぇ、\\N[12]君。
+どうせなら、私の体、実際に味わってみたいって思わない？」
+> CONTEXT: Map057/events/22/pages/0/101/Dialogue
+..., hey, \\N[12] You. Why do not you think that I
+really want to taste my body?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、えぇっ！？
+ど、どういう意味だ……？」
+> CONTEXT: Map057/events/22/pages/0/104/Dialogue
+\\N[12]. 「Well, yeah! ? Well, what do you mean ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「うふふ……
+ほら、この控室は誰もいなくて、係員も寝ているみたいだし、
+そこのベッドでエッチなことをしてみない？」
+> CONTEXT: Map057/events/22/pages/0/108/Dialogue
+bunny girl. 「Ufufu...Look, there is no one in this
+waiting room, the staff seems to be asleep,
+Why do not you try lewd things in bed there?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ま、マジで？」
+> CONTEXT: Map057/events/22/pages/0/114/Dialogue
+\\N[12]. 「Well, seriously?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「私、キミならなにをされてもいいなぁって思ってるの。
+セックスでもなんでも、好きにしてくれていいのよ？」
+> CONTEXT: Map057/events/22/pages/0/117/Dialogue
+bunny girl. 「I, I do not care what you do.
+You can do whatever sex you like?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ど、どうする？　試合前だけど、
+こんなエッチなお姉さんとセックスができるなんて
+こんなチャンス、そうそうないかもしれないぞ！）
+> CONTEXT: Map057/events/22/pages/0/121/Dialogue
+\\N[12]. (What do you do, before the game,
+Such a lewd still be able to have sex with her sister
+Such a chance, maybe not! )#MTLed
+> END STRING
+
+> BEGIN STRING
+やる
+> CONTEXT: Map057/events/22/pages/0/126/Choice/0
+do#MTLed
+> END STRING
+
+> BEGIN STRING
+やらない
+> CONTEXT: Map057/events/22/pages/0/126/Choice/1
+I will not do it#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よ、よしっ、本当にセックスさせてくれるんだな！
+今から嘘だと言っても聞かないぞ！」
+> CONTEXT: Map057/events/22/pages/0/129/Dialogue
+\\N[12]. 「Okay, I can make you really have sex!
+I will not ask even if I say that it is a lie from now!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「もちろん本当よ。
+ふふっ、そんなに興奮してくれると私も嬉しいわ、
+二人でいっぱい気持ちよくなりましょ♪」
+> CONTEXT: Map057/events/22/pages/0/133/Dialogue
+bunny girl. 「Of course it is true. I will be glad if he
+gets excited so much, Let's feel good with two people♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「それじゃ、私が上になるわね。
+そうすればキミは動かなくても大丈夫だものね」
+> CONTEXT: Map057/events/22/pages/0/148/Dialogue
+bunny girl. 「Well then, I will be on the top.
+If you do that, you do not have to move, is not it」#MTLed
+> CONTEXT: Commonevents/260/1/Dialogue
+bunny girl. 「Well then, I will be on the top.
+If you do that, you do not have to move, is not
+it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よ、よろしくお願いしますっ！」
+> CONTEXT: Map057/events/22/pages/0/152/Dialogue
+\\N[12]. 「Oh, thank you!」#MTLed
+> CONTEXT: Commonevents/260/5/Dialogue
+\\N[12]. 「Oh, thank you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「そんなに緊張しなくても大丈夫よ、
+気を楽にして、身を任せてくれればいいから」
+> CONTEXT: Map057/events/22/pages/0/155/Dialogue
+bunny girl. 「You do not have to be so tense,
+Easy to relax and leave yourself up」#MTLed
+> CONTEXT: Commonevents/260/8/Dialogue
+bunny girl. 「You do not have to be so tense,
+Easy to relax and leave yourself up」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールは、ベッドに横たわった\\N[12]の上にのしかかり、
+女性器をペニスにあてがい、ゆっくりと腰を落としてくる。
+> CONTEXT: Map057/events/22/pages/0/159/Dialogue
+bunny girl lay on the bed \\N[12] On top of it,
+I put a female instrument on my penis and slowly fall down.#MTLed
+> CONTEXT: Commonevents/260/12/Dialogue
+bunny girl lay on the bed \\N[12] On top of
+it, I put a female instrument on my penis and
+slowly fall down.#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅうううぅっ……！
+> CONTEXT: Map057/events/22/pages/0/165/Dialogue
+A crowd...#MTLed
+> CONTEXT: Commonevents/128/70/Dialogue
+> CONTEXT: Commonevents/260/18/Dialogue
+A crowd...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、あっ……くうぅっ！」
+> CONTEXT: Map057/events/22/pages/0/167/Dialogue
+\\N[12]. 「Wow, there.......」#MTLed
+> CONTEXT: Commonevents/260/20/Dialogue
+\\N[12]. 「Wow, there.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「うふふ、どう？
+私の中、とろけるみたいに気持ちいいでしょう」
+> CONTEXT: Map057/events/22/pages/0/170/Dialogue
+bunny girl. 「How about you, U? It seems like it melts
+inside of me」#MTLed
+> CONTEXT: Commonevents/260/23/Dialogue
+bunny girl. 「How about you, U?
+It seems like it melts inside of me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「す、すごいっ……中で、柔らかで温かいものに
+包み込まれて……本当に、溶けちまいそうだ……」
+> CONTEXT: Map057/events/22/pages/0/174/Dialogue
+\\N[12]. 「Wow, that's amazing ...... in a soft and warm
+one. Wrapped around...... It really seems to melt......
+」#MTLed
+> CONTEXT: Commonevents/260/27/Dialogue
+\\N[12]. 「Wow, that's amazing ...... in a
+soft and warm one. Wrapped around...... It
+really seems to melt......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「それじゃ動くけど、キミも私の体を
+好きなように触っていいんだからね」
+> CONTEXT: Map057/events/22/pages/0/178/Dialogue
+bunny girl. 「It moves in that case, but you also have my
+body. You can touch it as you please」#MTLed
+> CONTEXT: Commonevents/260/31/Dialogue
+bunny girl. 「It moves in that case, but you also
+have my body. You can touch it as you please」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「は、はいっ」
+> CONTEXT: Map057/events/22/pages/0/182/Dialogue
+\\N[12]. 「Enter」#MTLed
+> CONTEXT: Commonevents/260/35/Dialogue
+\\N[12]. 「Enter」#MTLed
+> END STRING
+
+> BEGIN STRING
+むにいっ……
+> CONTEXT: Map057/events/22/pages/0/186/Dialogue
+> CONTEXT: Map057/events/25/pages/0/251/Dialogue
+Muay ...#MTLed
+> CONTEXT: Commonevents/260/39/Dialogue
+> CONTEXT: Commonevents/225/124/Dialogue
+Muay ...#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「ふふっ、やっぱりおっぱいが好きなのね。
+さっきも私の胸の谷間に
+視線が釘付けだったものね」
+> CONTEXT: Map057/events/22/pages/0/188/Dialogue
+bunny girl. 「Huh, you liked boobs after all.
+In the valley of my chest a little while ago
+It was something that the line of sight was nailed」#MTLed
+> CONTEXT: Commonevents/260/41/Dialogue
+bunny girl. 「Huh, you liked boobs after all.
+In the valley of my chest a little while ago
+It was something that the line of sight was
+nailed」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「だ、だって、こんな大きな胸、
+初めて見たから……」
+> CONTEXT: Map057/events/22/pages/0/193/Dialogue
+\\N[12]. 「But, this big breasts, Because I saw it for
+the first time ......」#MTLed
+> CONTEXT: Commonevents/260/46/Dialogue
+\\N[12]. 「But, this big breasts,
+Because I saw it for the first time ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「それで、どう？
+触り心地は」
+> CONTEXT: Map057/events/22/pages/0/197/Dialogue
+bunny girl. 「How is it? The touch」#MTLed
+> CONTEXT: Commonevents/260/50/Dialogue
+bunny girl. 「How is it? The touch」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「柔らかくて、手が吸い込まれるかのようで……
+さ、最高ですっ！」
+> CONTEXT: Map057/events/22/pages/0/201/Dialogue
+\\N[12]. 「It's soft, as if hand inhaled......
+Well, it's the best!」#MTLed
+> CONTEXT: Commonevents/260/54/Dialogue
+\\N[12]. 「It's soft, as if hand inhaled ...
+... Well, it's the best!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「そう、よかった。
+じゃあ、おっぱいは好きに揉んでいいからね。
+私はキミのおちんちんを味わわせてもらうから♪」
+> CONTEXT: Map057/events/22/pages/0/205/Dialogue
+bunny girl. 「That's right. Well then, you can massage your
+boobs if you like. Because I have you taste you♪」#MTLed
+> CONTEXT: Commonevents/260/58/Dialogue
+bunny girl. 「That's right. Well then, you can
+massage your boobs if you like.
+Because I have you taste you♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、バニーガールは腰を上下に動かし始める。
+> CONTEXT: Map057/events/22/pages/0/210/Dialogue
+And bunny girl starts to move his waist up and down.#MTLed
+> CONTEXT: Commonevents/260/63/Dialogue
+And bunny girl starts to move his waist up and
+down.#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「んっ、あんっ、んうっ……
+大きくてカタくて、とっても気持ちいいわ。
+奥がきゅんきゅんしちゃう」
+> CONTEXT: Map057/events/22/pages/0/213/Dialogue
+bunny girl. 「Huh, huh, uh ...... It's big and it's very
+good, it feels so good. I'm back」#MTLed
+> CONTEXT: Commonevents/260/66/Dialogue
+bunny girl. 「Huh, huh, uh ......
+It's big and it's very good, it feels so good.
+I'm back」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅっ、ずっ、ずぷっ……！
+> CONTEXT: Map057/events/22/pages/0/218/Dialogue
+A couple of times ...#MTLed
+> CONTEXT: Commonevents/260/71/Dialogue
+A couple of times ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、くっ……
+は、激しいっ……！」
+> CONTEXT: Map057/events/22/pages/0/220/Dialogue
+\\N[12]. 「Ugh, huh....... He is intensely ...!」#MTLed
+> CONTEXT: Commonevents/260/73/Dialogue
+\\N[12]. 「Ugh, huh....... He is intensely
+...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「ちなみに、私は好きに気持ちよくならせてもらうから、
+キミも遠慮せずに中に出しちゃっていいからね♪」
+> CONTEXT: Map057/events/22/pages/0/224/Dialogue
+bunny girl. 「By the way, I will make you feel better as
+you like, You can withdraw yourself without reserve♪」#MTLed
+> CONTEXT: Commonevents/260/77/Dialogue
+bunny girl. 「By the way, I will make you feel
+better as you like, You can withdraw yourself
+without reserve♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、うっ……あ、あうぅっ！」
+> CONTEXT: Map057/events/22/pages/0/230/Dialogue
+\\N[12]. 「Oooh, oh...oh, oh no!」#MTLed
+> CONTEXT: Commonevents/260/83/Dialogue
+\\N[12]. 「Oooh, oh...oh, oh no!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「縦ばかりでも芸がないから、次は横方向に動くわね。
+そぉれ♪」
+> CONTEXT: Map057/events/22/pages/0/233/Dialogue
+bunny girl. 「Even if only vertical, there is no trick, so
+next will move in the horizontal direction.
+Oh yeah♪」#MTLed
+> CONTEXT: Commonevents/260/86/Dialogue
+bunny girl. 「Even if only vertical, there is no
+trick, so next will move in the horizontal
+direction. Oh yeah♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールの腰が横方向にグラインドし、
+今までとは違う刺激がペニスに走る！
+> CONTEXT: Map057/events/22/pages/0/237/Dialogue
+The waist of bunny girl grinds in the horizontal direction,
+A different stimulus runs to the penis than ever!#MTLed
+> CONTEXT: Commonevents/260/90/Dialogue
+The waist of bunny girl grinds in the horizontal
+direction, A different stimulus runs to the penis
+than ever!#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐちゅうううぅっ！
+> CONTEXT: Map057/events/22/pages/0/242/Dialogue
+Goucuuuuuoo!#MTLed
+> CONTEXT: Commonevents/260/95/Dialogue
+Goucuuuuuoo!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、ううっ……」
+> CONTEXT: Map057/events/22/pages/0/256/Dialogue
+> CONTEXT: Map043/events/99/pages/0/419/Dialogue
+\\N[12]. 「Cut, uugh......」#MTLed
+> CONTEXT: Commonevents/260/109/Dialogue
+> CONTEXT: Map147/events/2/pages/15/125/Dialogue
+> CONTEXT: Map147/events/2/pages/15/182/Dialogue
+> CONTEXT: Map147/events/2/pages/19/532/Dialogue
+> CONTEXT: Map147/events/17/pages/0/289/Dialogue
+> CONTEXT: Map147/events/17/pages/0/346/Dialogue
+> CONTEXT: Commonevents/241/69/Dialogue
+\\N[12]. 「Cut, uugh......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「あらあら、もうイっちゃったの？
+ふふっ、よっぽど私の膣内が気持ちよかったのね。
+あんまりセックスの経験がないのかしら」
+> CONTEXT: Map057/events/22/pages/0/259/Dialogue
+bunny girl. 「oh no, have you already been there?
+Huh, I was feeling well inside my vagina.
+I do not have much sex experience」#MTLed
+> CONTEXT: Commonevents/260/112/Dialogue
+bunny girl. 「oh no, have you already been there?
+Huh, I was feeling well inside my vagina.
+I do not have much sex experience」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「バニーさんの中が気持ちよすぎて、
+こんなの、長く耐えられるわけがないですよ……」
+> CONTEXT: Map057/events/22/pages/0/264/Dialogue
+\\N[12]. 「Inside of Bunny-san is comfortable,
+There is no way I can endure such a long time ......」#MTLed
+> CONTEXT: Commonevents/260/117/Dialogue
+\\N[12]. 「Inside of Bunny-san is comfortable,
+There is no way I can endure such a long time
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「そう、気持ちよくなってくれて嬉しいわ。
+でも、まだまだセックスはこれから。
+もっともっと、痺れるような快楽を味わわせてあげる」
+> CONTEXT: Map057/events/22/pages/0/268/Dialogue
+bunny girl. 「Yes, I'm glad that you feel comfortable.
+But sex is coming. , I will taste the pleasant pleasure」#MTLed
+> CONTEXT: Commonevents/260/121/Dialogue
+bunny girl. 「Yes, I'm glad that you feel
+comfortable. But sex is coming.
+, I will taste the pleasant pleasure」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずっ、ずっ、ぐちゅっ、ぐちゅっ……
+> CONTEXT: Map057/events/22/pages/0/274/Dialogue
+Huh, Hot, Chubby, Gutsu ......#MTLed
+> CONTEXT: Commonevents/260/127/Dialogue
+Huh, Hot, Chubby, Gutsu ......#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールは腰を小刻みに動かし、
+ペニスにリズムよく刺激を与えてくる！
+> CONTEXT: Map057/events/22/pages/0/276/Dialogue
+bunny girl moved the waist in small increments,
+It gives rhythmic stimulation to the penis!#MTLed
+> CONTEXT: Commonevents/260/129/Dialogue
+bunny girl moved the waist in small increments,
+It gives rhythmic stimulation to the penis!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あぐっ、あっ、ああっ！
+い、今動かれたらっ……！」
+> CONTEXT: Map057/events/22/pages/0/279/Dialogue
+\\N[12]. 「Thanks, ah! Well, now you can move ...!」#MTLed
+> CONTEXT: Commonevents/260/132/Dialogue
+\\N[12]. 「Thanks, ah! Well, now you can move
+...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「敏感になっているから、すっごく感じちゃうでしょ？
+いいのよ、そのまま気持ちよくなっちゃえ♪」
+> CONTEXT: Map057/events/22/pages/0/283/Dialogue
+bunny girl. 「Because I am sensitive, you feel soooooooo
+hard, do not you? Okay, you will feel better as it is♪」#MTLed
+> CONTEXT: Commonevents/260/136/Dialogue
+bunny girl. 「Because I am sensitive, you feel
+soooooooo hard, do not you? Okay, you will feel
+better as it is♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅっ、ずぷっ……ずっ、ずちゅっ！
+> CONTEXT: Map057/events/22/pages/0/287/Dialogue
+Hurry, stop ...... Heck, cheap!#MTLed
+> CONTEXT: Commonevents/260/140/Dialogue
+Hurry, stop ...... Heck, cheap!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああああぁぁぁっ！」
+> CONTEXT: Map057/events/22/pages/0/289/Dialogue
+\\N[12]. 「AHHHhhhh!」#MTLed
+> CONTEXT: Commonevents/260/142/Dialogue
+\\N[12]. 「AHHHhhhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あひいいぃぃっ……」
+> CONTEXT: Map057/events/22/pages/0/300/Dialogue
+\\N[12]. 「Oh, it's awful...」#MTLed
+> CONTEXT: Commonevents/260/153/Dialogue
+\\N[12]. 「Oh, it's awful...」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「ふふっ、とろけたような顔をしちゃって……♪
+連続射精の快楽、たまらないでしょう。
+じゃ、今度はちょっとキツくしながら動いてあげる」
+> CONTEXT: Map057/events/22/pages/0/303/Dialogue
+bunny girl. 「Huh, I look like a melancholy face......♪
+Pleasure of continuous ejaculation, it will be
+irresistible. Well, this time I will move a little while
+ticking」#MTLed
+> CONTEXT: Commonevents/260/156/Dialogue
+bunny girl. 「Huh, I look like a melancholy face
+... ...♪. Pleasure of continuous ejaculation, it
+will be irresistible. Well, this time I will move
+a little while ticking」#MTLed
+> END STRING
+
+> BEGIN STRING
+きゅうううぅっ……
+> CONTEXT: Map057/events/22/pages/0/309/Dialogue
+Couple ...#MTLed
+> CONTEXT: Commonevents/260/162/Dialogue
+Couple ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ……！
+そ、そんなに締め付けたらっ……！」
+> CONTEXT: Map057/events/22/pages/0/311/Dialogue
+\\N[12]. 「Well ...! Well, if you tighten so much ...!」#MTLed
+> CONTEXT: Commonevents/260/164/Dialogue
+\\N[12]. 「Well ...! Well, if you tighten so
+much ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「こんなに狭くしちゃったら、
+お漏らしが止まらなくなっちゃうかしら？
+ふふっ、楽しみね。もっと気持ちいい顔、私に見せて♪」
+> CONTEXT: Map057/events/22/pages/0/315/Dialogue
+bunny girl. 「If you make it so narrow, I wonder if the
+leak will stop stopping? Huh, I'm looking forward to it.
+More comfortable face, show me♪」#MTLed
+> CONTEXT: Commonevents/260/168/Dialogue
+bunny girl. 「If you make it so narrow,
+I wonder if the leak will stop stopping?
+Huh, I'm looking forward to it. More comfortable
+face, show me♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐちゅっ、ずっ、ずじゅううぅっ！
+> CONTEXT: Map057/events/22/pages/0/321/Dialogue
+Gouch, that 's all along!#MTLed
+> CONTEXT: Commonevents/260/174/Dialogue
+Gouch, that 's all along!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あがっ、あっ、ひぎいいぃっ！」
+> CONTEXT: Map057/events/22/pages/0/323/Dialogue
+\\N[12]. 「Well, there, there, hiking!」#MTLed
+> CONTEXT: Commonevents/260/176/Dialogue
+\\N[12]. 「Well, there, there, hiking!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「あはっ、すっごい悲鳴ね。
+そうやって苦痛と快楽に悶えている顔を見ると、
+たまらなくドキドキしちゃう」
+> CONTEXT: Map057/events/22/pages/0/326/Dialogue
+bunny girl. 「Hahah, that sounds awful. If you look at the
+face that is suffering in pain and pleasure like that,
+I will make it unbearable」#MTLed
+> CONTEXT: Commonevents/260/179/Dialogue
+bunny girl. 「Hahah, that sounds awful.
+If you look at the face that is suffering in pain
+and pleasure like that, I will make it unbearable
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ううっ、こ、この人とのセックス、
+気持ちよすぎて気がおかしくなっちまいそうだっ……
+> CONTEXT: Map057/events/22/pages/0/331/Dialogue
+\\N[12]. (OHh, this, sex with this person,
+It seems that it is too pleasant to be crazy......#MTLed
+> CONTEXT: Commonevents/260/184/Dialogue
+\\N[12]. (OHh, this, sex with this person,
+It seems that it is too pleasant to be crazy ...
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+そ、それにしても、
+なんだか最初よりも顔が怖くなっているような……）
+> CONTEXT: Map057/events/22/pages/0/335/Dialogue
+Well, even so, It looks kind of afraid of my face somehow
+... ...)#MTLed
+> CONTEXT: Commonevents/260/188/Dialogue
+Well, even so, It looks kind of afraid of my face
+somehow......)#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「それそれっ、もっと強くしちゃうわよぉ♪」
+> CONTEXT: Map057/events/22/pages/0/338/Dialogue
+bunny girl. 「I will come on, I will make it stronger♪」#MTLed
+> CONTEXT: Commonevents/260/191/Dialogue
+bunny girl. 「I will come on, I will make it
+stronger♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールは腰を激しくグラインドさせてくる！
+> CONTEXT: Map057/events/22/pages/0/341/Dialogue
+bunny girl will make her waist violently grind!#MTLed
+> CONTEXT: Commonevents/260/194/Dialogue
+bunny girl will make her waist violently grind!#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅううううぅっ！
+> CONTEXT: Map057/events/22/pages/0/343/Dialogue
+Crazy!#MTLed
+> CONTEXT: Commonevents/260/196/Dialogue
+Crazy!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あひいいいいぃいっ！」
+> CONTEXT: Map057/events/22/pages/0/345/Dialogue
+\\N[12]. 「Is it overwhelming!」#MTLed
+> CONTEXT: Commonevents/260/198/Dialogue
+\\N[12]. 「Is it overwhelming!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「今度は縦よ」
+> CONTEXT: Map057/events/22/pages/0/355/Dialogue
+bunny girl. 「This time」#MTLed
+> CONTEXT: Commonevents/260/208/Dialogue
+bunny girl. 「This time」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐちゅううううぅっ！
+> CONTEXT: Map057/events/22/pages/0/359/Dialogue
+Chronoing!#MTLed
+> CONTEXT: Commonevents/200/496/Dialogue
+> CONTEXT: Commonevents/205/460/Dialogue
+> CONTEXT: Commonevents/248/492/Dialogue
+> CONTEXT: Commonevents/260/212/Dialogue
+Chronoing!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ひぐううううううぅぅっ！」
+> CONTEXT: Map057/events/22/pages/0/361/Dialogue
+\\N[12]. 「Higuruuuuuuou ぅ ぅ ぅ!」#MTLed
+> CONTEXT: Commonevents/260/214/Dialogue
+\\N[12]. 「Higuruuuuuuou ぅ ぅ ぅ!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「あははっ、キミってすっごい早漏クンなのね。
+女の責めに気持ちよくされて抵抗できずに
+一方的にイかされている顔、とっても可愛いわ」
+> CONTEXT: Map057/events/22/pages/0/373/Dialogue
+bunny girl. 「Hahahah, you are such a premature leak-proof
+kun. Being pleasant to the woman's blame and not being able
+to resist. A face being weaned unilaterally, it is very
+cute」#MTLed
+> CONTEXT: Commonevents/260/226/Dialogue
+bunny girl. 「Hahahah, you are such a premature
+leak-proof kun. Being pleasant to the woman's
+blame and not being able to resist
+A face being weaned unilaterally, it is very cute
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「は、はひいぃっ……
+も、もう、そろそろ、終わりに……
+じゅ、充分、気持ちよくなったから……」
+> CONTEXT: Map057/events/22/pages/0/378/Dialogue
+\\N[12]. 「Ha ha ha....... Also, it is almost time for
+the end...Ju, enough, I feel comfortable......」#MTLed
+> CONTEXT: Commonevents/260/231/Dialogue
+\\N[12]. 「Ha ha ha....... Also, it is
+almost time for the end...Ju, enough, I feel
+comfortable......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「あら、ダメよ。
+肝心なことがまだ済んでいないんだから」
+> CONTEXT: Map057/events/22/pages/0/383/Dialogue
+bunny girl. 「Oh no. The important thing is not done yet」#MTLed
+> CONTEXT: Commonevents/260/236/Dialogue
+bunny girl. 「Oh no. The important thing is not
+done yet」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「私もちゃんと気持ちよくなりたいもの。
+ラストスパートとして、思いっきりキミのおちんちんを
+激しく犯してあげるわ」
+> CONTEXT: Map057/events/22/pages/0/390/Dialogue
+bunny girl. 「I also want to feel comfortable.
+As a last resort, I hope you can do your best
+I'm going to fuck you hard」#MTLed
+> CONTEXT: Commonevents/260/243/Dialogue
+bunny girl. 「I also want to feel comfortable.
+As a last resort, I hope you can do your best
+I'm going to fuck you hard」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールはぺろりと舌なめずりをすると、
+今までで一番の締め付けをしながら
+体を激しく上下させて\\N[12]を犯す！
+> CONTEXT: Map057/events/22/pages/0/395/Dialogue
+When bunny girl licks her lick and her tongue,
+While doing the most tightening so far. Bring your body up
+and down \\N[12] I commit!#MTLed
+> CONTEXT: Commonevents/260/248/Dialogue
+When bunny girl licks her lick and her tongue,
+While doing the most tightening so far
+Bring your body up and down \\N[12] I commit!#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅっ、ずちゅっ、ぐちゅっ、ぐちゅううぅっ！
+> CONTEXT: Map057/events/22/pages/0/400/Dialogue
+After a while, a cramp, a crush, a cramping!#MTLed
+> CONTEXT: Commonevents/260/253/Dialogue
+After a while, a cramp, a crush, a cramping!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あううっ、はぁ、はぁっ！
+お、お姉さんの中、最高すぎるううぅっ！」
+> CONTEXT: Map057/events/22/pages/0/402/Dialogue
+\\N[12]. 「Oh, OHh, huh, ha! Oh, sister, it is too high!」#MTLed
+> CONTEXT: Commonevents/260/255/Dialogue
+\\N[12]. 「Oh, OHh, huh, ha! Oh, sister, it is
+too high!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「ふふっ、もう並大抵の性感じゃあ
+イけない体になってしまったかもしれないわねっ。
+> CONTEXT: Map057/events/22/pages/0/406/Dialogue
+bunny girl. 「Huh, it is already a plain sort of sexual
+impression. I guess it might have become a silent body.#MTLed
+> CONTEXT: Commonevents/260/259/Dialogue
+bunny girl. 「Huh, it is already a plain sort of
+sexual impression. I guess it might have become a
+silent body.#MTLed
+> END STRING
+
+> BEGIN STRING
+私も気持ちいいわ、
+そろそろイっちゃいそう」
+> CONTEXT: Map057/events/22/pages/0/411/Dialogue
+I feel good too, It is almost time for it」#MTLed
+> CONTEXT: Commonevents/260/264/Dialogue
+I feel good too, It is almost time for it」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずっ、ずっ、ずぷっ、ぐちゅっ、ずちゅうぅっ！
+> CONTEXT: Map057/events/22/pages/0/414/Dialogue
+Huh, always, forever!#MTLed
+> CONTEXT: Commonevents/260/267/Dialogue
+Huh, always, forever!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あひっ、あっ、あがっ……
+も、もう、ダメ……」
+> CONTEXT: Map057/events/22/pages/0/416/Dialogue
+\\N[12]. 「Oh, there, ah ...... No, no more ......」#MTLed
+> CONTEXT: Commonevents/260/269/Dialogue
+\\N[12]. 「Oh, there, ah ......
+No, no more ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「さあ、最後は最高の快楽を与えてあげるわ。
+えぇいっ！」
+> CONTEXT: Map057/events/22/pages/0/420/Dialogue
+bunny girl. 「Now, at the end I will give you the best
+pleasure. Eh!」#MTLed
+> CONTEXT: Commonevents/260/273/Dialogue
+bunny girl. 「Now, at the end I will give you the
+best pleasure. Eh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールの膣肉が激しく締まり、
+柔らかな膣壁が\\N[12]のペニスをもみくちゃにする！
+> CONTEXT: Map057/events/22/pages/0/424/Dialogue
+Vaginal meat of bunny girl got tightened,
+Soft vaginal wall \\N[12] Make a dick on your penis!#MTLed
+> CONTEXT: Commonevents/260/277/Dialogue
+Vaginal meat of bunny girl got tightened,
+Soft vaginal wall \\N[12] Make a dick on your
+penis!#MTLed
+> END STRING
+
+> BEGIN STRING
+ぎちゅううううぅぅっ！
+> CONTEXT: Map057/events/22/pages/0/429/Dialogue
+Congratulations!#MTLed
+> CONTEXT: Commonevents/260/282/Dialogue
+Congratulations!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ひぎあああああぁぁぁっ！」
+> CONTEXT: Map057/events/22/pages/0/431/Dialogue
+\\N[12]. 「Hiki Aaaaaahhhh!」#MTLed
+> CONTEXT: Commonevents/260/284/Dialogue
+\\N[12]. 「Hiki Aaaaaahhhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「ふふ……いっぱい出たわね。
+これで、精液が根こそぎ私の中に注ぎ込まれたかしら？」
+> CONTEXT: Map057/events/22/pages/0/442/Dialogue
+bunny girl. 「Huh...... a lot of it came out.
+Could this have semen poured up in me?」#MTLed
+> CONTEXT: Commonevents/260/295/Dialogue
+bunny girl. 「Huh...... a lot of it came out.
+Could this have semen poured up in me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あひ……」
+> CONTEXT: Map057/events/22/pages/0/446/Dialogue
+\\N[12]. 「Ah, ...」#MTLed
+> CONTEXT: Commonevents/260/299/Dialogue
+> CONTEXT: Map147/events/2/pages/19/729/Dialogue
+\\N[12]. 「Ah, ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「あーあ、よだれと涙で顔がぐしゃぐしゃね。
+試合前にこんなに気持ちよくなっちゃったら、
+もうまともに戦えないかもね」
+> CONTEXT: Map057/events/22/pages/0/449/Dialogue
+bunny girl. 「Oh, the face with a drool and tears.
+If you feel so comfortable before the game,
+You may not be able to fight any more」#MTLed
+> CONTEXT: Commonevents/260/302/Dialogue
+bunny girl. 「Oh, the face with a drool and tears.
+If you feel so comfortable before the game,
+You may not be able to fight any more」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「でも、私も気持ちよくなれたし……
+それに、ふふっ……目的は果たせたから、大満足♪
+最後にもうひとつ、サービスしてあげるわね」
+> CONTEXT: Map057/events/22/pages/0/457/Dialogue
+bunny girl. 「But, I also became pleasant......
+Besides, heh...Because I was able to fulfill the purpose,
+I am very happy♪. Finally, I will serve another one」#MTLed
+> CONTEXT: Commonevents/260/310/Dialogue
+bunny girl. 「But, I also became pleasant......
+Besides, heh...Because I was able to fulfill
+the purpose, I am very happy♪. Finally, I will
+serve another one」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールは、\\N[12]に覆いかぶさるようにして
+大きな胸で彼の頭を押しつぶす！
+> CONTEXT: Map057/events/22/pages/0/462/Dialogue
+bunny girl, \\N[12] So that it covers. Crush his head
+with big breasts!#MTLed
+> CONTEXT: Commonevents/260/315/Dialogue
+bunny girl, \\N[12] So that it covers
+Crush his head with big breasts!#MTLed
+> END STRING
+
+> BEGIN STRING
+むにゅううううぅんっ！
+> CONTEXT: Map057/events/22/pages/0/467/Dialogue
+Muuuuuuuuuuuu!#MTLed
+> CONTEXT: Commonevents/260/320/Dialogue
+Muuuuuuuuuuuu!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「むぐうううぅぅっ……」
+> CONTEXT: Map057/events/22/pages/0/469/Dialogue
+\\N[12]. 「Whew umuu ...」#MTLed
+> CONTEXT: Commonevents/260/322/Dialogue
+\\N[12]. 「Whew umuu ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「キミの大好きなおっぱいで、お顔を包み込んであげる。
+この状態でおちんちんをきゅっと締めてあげたら、
+どうなっちゃうかしら？」
+> CONTEXT: Map057/events/22/pages/0/472/Dialogue
+bunny girl. 「With your favorite boobs, wrap your face.
+If you tightly tighten in this condition,
+What will happen?」#MTLed
+> CONTEXT: Commonevents/260/325/Dialogue
+bunny girl. 「With your favorite boobs, wrap your
+face. If you tightly tighten in this condition,
+What will happen?」#MTLed
+> END STRING
+
+> BEGIN STRING
+きゅううううぅっ！
+> CONTEXT: Map057/events/22/pages/0/477/Dialogue
+Kyuuuuuuu っ ぅ!#MTLed
+> CONTEXT: Commonevents/260/330/Dialogue
+Kyuuuuuuu っ ぅ!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ、うっ、むぐっ、ううううぅぅ……！」
+> CONTEXT: Map057/events/22/pages/0/479/Dialogue
+\\N[12]. 「Huh, uh, pooh, uuuuuuuuuu ...!」#MTLed
+> CONTEXT: Commonevents/260/332/Dialogue
+\\N[12]. 「Huh, uh, pooh, uuuuuuuuuu ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+びくっ、びくんっ……！
+> CONTEXT: Map057/events/22/pages/0/484/Dialogue
+Bursting, burning......!#MTLed
+> CONTEXT: Commonevents/260/337/Dialogue
+Bursting, burning......!#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「あはっ、気持ちよすぎてびくびく震えちゃってる。
+ふふっ、とっても心地いいでしょう？
+よかったわねぇ、おっぱいを味わいながらイけて」
+> CONTEXT: Map057/events/22/pages/0/486/Dialogue
+bunny girl. 「Hahah, it feels too good to tremble.
+Huh, is not it very comfortable? I'm glad you got it while
+you taste the boobs」#MTLed
+> CONTEXT: Commonevents/260/339/Dialogue
+bunny girl. 「Hahah, it feels too good to tremble.
+Huh, is not it very comfortable?
+I'm glad you got it while you taste the boobs」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あうぅっ……」
+> CONTEXT: Map057/events/22/pages/0/491/Dialogue
+\\N[12]. 「Oh, oh no ......」#MTLed
+> CONTEXT: Commonevents/260/344/Dialogue
+\\N[12]. 「Oh, oh no ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「それじゃ、そろそろ私は行くわね。
+セックスしてくれてありがとう、\\N[12]君。
+> CONTEXT: Map057/events/22/pages/0/494/Dialogue
+bunny girl. 「Well then, I will go. Thank you for having
+sex, \\N[12] You.#MTLed
+> CONTEXT: Commonevents/260/347/Dialogue
+bunny girl. 「Well then, I will go.
+Thank you for having sex, \\N[12] You.#MTLed
+> END STRING
+
+> BEGIN STRING
+この後の試合でどんな戦いぶりを見せてくれるか、
+楽しみにしてるわね」
+> CONTEXT: Map057/events/22/pages/0/498/Dialogue
+What kind of fighting will you show in the matches after
+this, I'm looking forward to it」#MTLed
+> CONTEXT: Commonevents/260/351/Dialogue
+What kind of fighting will you show in the
+matches after this, I'm looking forward to it」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、強烈な快楽に苛まれて弛緩したままの\\N[12]を残し
+バニーガールは立ち去っていった……
+> CONTEXT: Map057/events/22/pages/0/503/Dialogue
+And as she was tormented by intense pleasure and relaxed
+\\N[12] Leave. bunny girl went away......#MTLed
+> CONTEXT: Commonevents/260/356/Dialogue
+And as she was tormented by intense pleasure and
+relaxed \\N[12] Leave. bunny girl went away
+... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………………
+> CONTEXT: Map057/events/22/pages/0/506/Dialogue
+........................#MTLed
+> CONTEXT: Commonevents/260/359/Dialogue
+........................#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「\\N[12]選手、そろそろ時間です。
+起きてください、\\N[12]選手」
+> CONTEXT: Map057/events/22/pages/0/518/Dialogue
+Attendant. 「\\N[12] Athlete, it is almost time.
+Please wake up. \\N[12] player」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……
+少し眠っちまったのか……」
+> CONTEXT: Map057/events/22/pages/0/522/Dialogue
+\\N[12]. 「Uu...... Did you fall asleep a bit ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「大丈夫ですか？
+ずいぶん衰弱している様子ですが……」
+> CONTEXT: Map057/events/22/pages/0/534/Dialogue
+Attendant. 「Are you okay? It looks pretty debilitating,
+but ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「は、はい……
+大丈夫です、スッキリしているはずなので……」
+> CONTEXT: Map057/events/22/pages/0/538/Dialogue
+\\N[12]. 「Is that...Yes. It's okay, it should be
+refreshing......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだか体がだるいな、
+力がうまく入らないような……
+いや、気のせいだろう。
+> CONTEXT: Map057/events/22/pages/0/565/Dialogue
+\\N[12]. 「I do not feel like having a bad body somehow,
+I do not get power well...No, it is probably due to mind.#MTLed
+> END STRING
+
+> BEGIN STRING
+あんな美人に相手してもらって、
+気持ちのいい思いができるなんてラッキーだったなあ。
+選手として頑張ってきて
+本当によかった……」
+> CONTEXT: Map057/events/22/pages/0/570/Dialogue
+Having that opponent opponent like that,
+I was lucky to have a pleasant feeling. Good luck as a
+player. It is very nice……」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぶ、武器がない！
+い、いったいどうして……どこで落としたんだ？
+や、やばい、そろそろ試合が始まるっていうのに」
+> CONTEXT: Map057/events/22/pages/0/585/Dialogue
+\\N[12]. 「B, There is no weapon! Why on earth ....
+Where did you drop it? Oh yeah, I guess it's time for the
+game to begin」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（だ、ダメだ、この体を好きにできるなんて魅力的すぎるけど……
+今、体力を消耗しちまうわけにはいかないぞ）
+> CONTEXT: Map057/events/22/pages/0/595/Dialogue
+\\N[12]. (It's useless, it's too attractive to be able
+to like this body...... I can not let you consume your
+strength right now)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「すまない、試合前に体力を使うわけにはいかないんだ。
+申し出はすごく嬉しいけど、またの機会に……」
+> CONTEXT: Map057/events/22/pages/0/599/Dialogue
+\\N[12]. 「Sorry, I can not use my physical strength
+before the game. I am very glad about the offer, but on
+occasion ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「あら、それなら私が奉仕するから、
+キミは動かなくても大丈夫よ。
+体力を使うことなんて全然ないから、任せてくれていいのよ？」
+> CONTEXT: Map057/events/22/pages/0/603/Dialogue
+bunny girl. 「Oh, then I will serve you, You do not have to
+move. There is no use of physical strength, so can you
+leave it to me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、それでもダメなんだ。
+俺は絶対にこの大会を勝ち抜かなくちゃいけないし、
+少しでも試合に差し支えそうな行動は避けたいんだ」
+> CONTEXT: Map057/events/22/pages/0/608/Dialogue
+\\N[12]. 「Well, it still does not work. I definitely
+have to win this tournament, I want to avoid actions that
+might seem to hurt even a bit」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「……そう、分かったわ。
+残念だけど、私に女としての魅力が足りなかったのね」
+> CONTEXT: Map057/events/22/pages/0/615/Dialogue
+bunny girl. 「... Yes, I understand. I'm sorry, I did not
+have enough charm as a woman」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、そういうわけじゃないけど」
+> CONTEXT: Map057/events/22/pages/0/619/Dialogue
+\\N[12]. 「No, that's not it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「それじゃ、これ以上集中の邪魔をしても悪いし、
+私はそろそろ失礼するわね。
+\\N[12]君、この後の試合、頑張ってね♪」
+> CONTEXT: Map057/events/22/pages/0/622/Dialogue
+bunny girl. 「Well then it's bad to get in the way of
+concentrating more, I will be disappointed soon.
+\\N[12] Good luck with you, good luck with you♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、はい。ありがとう」
+> CONTEXT: Map057/events/22/pages/0/627/Dialogue
+\\N[12]. 「Oh, yes. Thank you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うう……もったいないことをした気がするなぁ。
+あんなエロい体の女、もう二度と俺の前に現れないかもしれないし。
+> CONTEXT: Map057/events/22/pages/0/638/Dialogue
+\\N[12]. 「Uu...I feel that I did a wasteful thing.
+A woman with such an erotic body, it may not appear before
+me again.#MTLed
+> END STRING
+
+> BEGIN STRING
+まあ仕方ない、今は女のことを考えている場合じゃない。
+あのバニーさんの応援に応えるためにも、
+絶対に試合に勝ってみせなきゃな」
+> CONTEXT: Map057/events/22/pages/0/642/Dialogue
+Well it can not be helped, now is not the time to think
+about a woman. To respond to that Bunny-san's support,
+I definitely have to win the game」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……な、なんだ、また係員が倒れている！
+まさか、また変なのが侵入してきているのか？」
+> CONTEXT: Map057/events/25/pages/0/8/Dialogue
+\\N[12]. 「Oooh...what the hell are you, the agent is
+down! No wonder what the strange thing is invading?」#MTLed
+> END STRING
+
+> BEGIN STRING
+？
+「変なのとはずいぶんな言い草じゃん」
+> CONTEXT: Map057/events/25/pages/0/12/Dialogue
+? 「What a funny thing is a lot of compliments」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、お前らは
+あの洞窟の……ベル盗賊団か！」
+> CONTEXT: Map057/events/25/pages/0/32/Dialogue
+\\N[12]. 「You guys. In that cave...Bell bandits!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「はーい、おにいさん。元気そうじゃん」
+> CONTEXT: Map057/events/25/pages/0/36/Dialogue
+bandit teen. 「Hello, Oka. You seem energetic.」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「うふふっ、久しぶりねぇ。
+ちなみに係員には眠り薬を嗅がせただけだから、
+彼の心配はしなくて大丈夫よぉ」
+> CONTEXT: Map057/events/25/pages/0/39/Dialogue
+sexy bandit. 「Uhufu, it's been a long time ago.
+By the way, because the staff only smelled sleeping
+medicine, I do not have to worry about him.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、お前ら
+今になって俺の前に現れるとは
+いったいどういうつもりなんだ」
+> CONTEXT: Map057/events/25/pages/0/44/Dialogue
+\\N[12]. 「You guys. Now that it appears before me
+What on earth are you going to do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「ふふん、おにーさんにはここで
+わたしたちの相手をしてもらうよ」
+> CONTEXT: Map057/events/25/pages/0/49/Dialogue
+bandit teen. 「Fuwa, to the older brother here
+I will have our partner done」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あんたの今日の対戦相手はお頭なのよ」
+> CONTEXT: Map057/events/25/pages/0/53/Dialogue
+Bandit Girl. 「Your opponent today is your head」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なにっ……
+お頭というと、ベルベットか」
+> CONTEXT: Map057/events/25/pages/0/56/Dialogue
+\\N[12]. 「What is it .... If you say your head, velvet」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「お頭が二度もあんたに負けるとは思わないけど……
+でも、あんたが一度お頭を負かしているのは事実。
+万全の状態で戦わせるわけにはいかないんだよ」
+> CONTEXT: Map057/events/25/pages/0/60/Dialogue
+Bandit Girl. 「I do not think your head will lose to you
+twice .... But it is fact that you are defeated your head
+once. I can not let you fight in perfect condition」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「私たち三人でかかれば、
+少しぐらいは疲労やダメージを負わせられるでしょうし
+こうして襲撃させてもらったというわけ♪」
+> CONTEXT: Map057/events/25/pages/0/65/Dialogue
+sexy bandit. 「With us three people, I will be able to
+cause fatigue and damage a little. That's why they were
+attacked♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「わたしたちはお頭の優勝賞金で豪遊して暮らすんだから。
+そのためには、おにいさんは邪魔なんだよね」
+> CONTEXT: Map057/events/25/pages/0/70/Dialogue
+bandit teen. 「Because we are going to wrestle with the
+winning prize of your head and live. To do that, the old
+man is disturbing」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そういうことか……私利私欲のために、この卑劣な行為
+どうやら改心はしていないと見えるな。
+この場で改めてお前たちを叩きのめしてやるぜ」
+> CONTEXT: Map057/events/25/pages/0/74/Dialogue
+\\N[12]. 「That sort of thing...... Because of my
+personal interests, this sneaky act. Apparently it does not
+seem to be converted. I will reclaim you again at this
+place」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ふん、やれるもんならやってみなっ！
+いっそ、ここであたしたちがあんたをボコって
+あたしたちの奴隷にしてやるよ！」
+> CONTEXT: Map057/events/25/pages/0/79/Dialogue
+Bandit Girl. 「Hmm, if you can do it you can do it!
+Better yet, here we are. We will slave to you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ、まったく……
+試合前だってのに手間を取らせてくれるぜ」
+> CONTEXT: Map057/events/25/pages/0/98/Dialogue
+\\N[12]. 「Fuu, absolutely...Even though it's a game
+it will let you take time and effort」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「くっそぉ……あたしらじゃ相手にならないか……」
+> CONTEXT: Map057/events/25/pages/0/103/Dialogue
+Bandit Girl. 「Kana...... Will not you become a partner
+... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「ふんっ。
+でも、少しは疲れちゃったでしょ
+それだけでも充分だよ」
+> CONTEXT: Map057/events/25/pages/0/107/Dialogue
+bandit teen. 「Honda. But, you got tired a bit
+That alone is enough」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「そうねぇ、万全の状態じゃなくなれば
+お頭にはそうそう勝てないはずだものね。
+私たちの役目はこれで充分よね」
+> CONTEXT: Map057/events/25/pages/0/113/Dialogue
+sexy bandit. 「Oh yeah, it is not a perfect state
+You ought to be able to win so hard on your head.
+This is enough for us」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『それでは、決勝トーナメント準々決勝を開始いたします！
+第1試合に出場の両選手、ご入場くださいっ！』
+> CONTEXT: Map057/events/25/pages/0/121/Dialogue
+announcement. "Well then, we will start the quarter-finals
+of the finals tournament! Both players participating in the
+first match, please get in! "#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「やべえっ、もう試合の時間なのか！
+できれば回復する時間が欲しかったが……
+仕方ない、このまま出るしかないか」
+> CONTEXT: Map057/events/25/pages/0/129/Dialogue
+\\N[12]. 「Oh, it is already time for the game!
+I wanted time to recover if possible, but ...
+There is no choice but to leave as it is」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あははっ！
+今さらあたしたちの魅力に骨抜きにされちゃって、
+情けない男だねー」
+> CONTEXT: Map057/events/25/pages/0/151/Dialogue
+Bandit Girl. 「Hahahah! We are getting watered down to our
+charm right now, He is a miserable guy.」#MTLed
+> CONTEXT: Commonevents/225/24/Dialogue
+Bandit Girl. 「Hahahah! We are getting watered
+down to our charm right now, He is a miserable
+guy.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……そんなっ、
+こいつらの色気に惑わされちまうなんて……」
+> CONTEXT: Map057/events/25/pages/0/156/Dialogue
+\\N[12]. 「Uugh, uugh...... Such a thing,
+It is impossible to get misled by their sex appeal ......」#MTLed
+> CONTEXT: Commonevents/225/29/Dialogue
+\\N[12]. 「Uugh, uugh...... Such a thing,
+It is impossible to get misled by their sex
+appeal ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「ふふっ、
+あたしたちの連携攻撃、華麗に決まったねっ！」
+> CONTEXT: Map057/events/25/pages/0/160/Dialogue
+bandit teen. 「Hehe. Our cooperative attack, it was decided
+splendidly!」#MTLed
+> CONTEXT: Commonevents/225/33/Dialogue
+bandit teen. 「Hehe. Our cooperative attack, it
+was decided splendidly!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「残念だったわねぇ、うふふ……
+それじゃ、みんなで坊やを運び出しちゃいましょ」
+> CONTEXT: Map057/events/25/pages/0/164/Dialogue
+> CONTEXT: Map057/events/25/pages/0/190/Dialogue
+sexy bandit. 「I was sorry, hehehe......
+Well then, let's all take out the baby」#MTLed
+> CONTEXT: Commonevents/225/37/Dialogue
+> CONTEXT: Commonevents/225/63/Dialogue
+sexy bandit. 「I was sorry, hehehe......
+Well then, let's all take out the baby」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……ど、どこに連れて行く気だ、
+俺は今から試合がっ」
+> CONTEXT: Map057/events/25/pages/0/168/Dialogue
+> CONTEXT: Map057/events/25/pages/0/194/Dialogue
+\\N[12]. 「uugh...... Where are you going to take me?
+I got a game from now」#MTLed
+> CONTEXT: Commonevents/225/41/Dialogue
+> CONTEXT: Commonevents/225/67/Dialogue
+\\N[12]. 「uugh...... Where are you going to
+take me? I got a game from now」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「試合はあんたの不戦敗だよ。
+お頭の邪魔になるあんたは、
+あたしたちと遊んでてもらうからね」
+> CONTEXT: Map057/events/25/pages/0/172/Dialogue
+> CONTEXT: Map057/events/25/pages/0/198/Dialogue
+Bandit Girl. 「The game is your unbelief.
+You get in the way of your head, We will have you play with
+us」#MTLed
+> CONTEXT: Commonevents/225/45/Dialogue
+> CONTEXT: Commonevents/225/71/Dialogue
+Bandit Girl. 「The game is your unbelief.
+You get in the way of your head,
+We will have you play with us」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よせっ……は、放せっ！」
+> CONTEXT: Map057/events/25/pages/0/177/Dialogue
+> CONTEXT: Map057/events/25/pages/0/203/Dialogue
+\\N[12]. 「Well...let's go!」#MTLed
+> CONTEXT: Commonevents/225/50/Dialogue
+> CONTEXT: Commonevents/225/76/Dialogue
+\\N[12]. 「Well...let's go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「はっ、さすがのあんたも
+三人が相手じゃどうにもならなかったね」
+> CONTEXT: Map057/events/25/pages/0/182/Dialogue
+Bandit Girl. 「Ha ha, as expected. Three people could not
+do anything against you」#MTLed
+> CONTEXT: Commonevents/225/55/Dialogue
+Bandit Girl. 「Ha ha, as expected
+Three people could not do anything against you」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「やったぁ、おにいさんを倒しちゃった。
+これでおにいさんはわたしたちの奴隷決定～♪」
+> CONTEXT: Map057/events/25/pages/0/186/Dialogue
+bandit teen. 「I did it, I defeated the big brother.
+This is how much our slave decision ~♪」#MTLed
+> CONTEXT: Commonevents/225/59/Dialogue
+bandit teen. 「I did it, I defeated the big
+brother. This is how much our slave decision ~♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「さあて、それじゃ負け犬には
+たっぷりとしつけをしてやらないとね」
+> CONTEXT: Map057/events/25/pages/0/212/Dialogue
+Bandit Girl. 「Now, then it's a loser. I have to do a lot
+of discipline training」#MTLed
+> CONTEXT: Commonevents/225/85/Dialogue
+Bandit Girl. 「Now, then it's a loser
+I have to do a lot of discipline training」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なにをする気なんだ……」
+> CONTEXT: Map057/events/25/pages/0/216/Dialogue
+\\N[12]. 「What are you going to do ......」#MTLed
+> CONTEXT: Commonevents/225/89/Dialogue
+\\N[12]. 「What are you going to do ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「もちろん、三人でおにいさんを
+めちゃくちゃに犯してあげるんだよ。
+自分から降参するまでイジメてあげるからね♪」
+> CONTEXT: Map057/events/25/pages/0/219/Dialogue
+bandit teen. 「Of course, three people with a big brother
+I'm getting fucked up. I will bully until I surrender from
+myself♪」#MTLed
+> CONTEXT: Commonevents/225/92/Dialogue
+bandit teen. 「Of course, three people with a big
+brother. I'm getting fucked up.
+I will bully until I surrender from myself♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「とはいえ、あたしはあんたとエロいことをするなんて
+まっぴらごめんだし、
+こうやって踏んづけててやるけど」
+> CONTEXT: Map057/events/25/pages/0/224/Dialogue
+Bandit Girl. 「Nonetheless, I do not want to do something
+erotic with you. I'm sorry, I'm going to steer this way」#MTLed
+> CONTEXT: Commonevents/225/97/Dialogue
+Bandit Girl. 「Nonetheless, I do not want to do
+something erotic with you. I'm sorry,
+I'm going to steer this way」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガールは、\\N[12]の腹を踏みつける！
+> CONTEXT: Map057/events/25/pages/0/231/Dialogue
+Bandit Girl \\N[12] Step on your belly!#MTLed
+> CONTEXT: Commonevents/225/104/Dialogue
+Bandit Girl \\N[12] Step on your belly!#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ふふん、どう？
+自分より弱いはずの女に逆らえずに
+踏みつけられている気分は。さぞ屈辱でしょ？」
+> CONTEXT: Map057/events/25/pages/0/236/Dialogue
+Bandit Girl. 「How is that? Beyond the woman who should be
+weaker than herself. I feel trampled. Is not it
+humiliation?」#MTLed
+> CONTEXT: Commonevents/225/109/Dialogue
+Bandit Girl. 「How is that? Beyond the woman who
+should be weaker than herself. I feel trampled.
+Is not it humiliation?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、くそっ……
+一対一なら、お前なんか……」
+> CONTEXT: Map057/events/25/pages/0/241/Dialogue
+\\N[12]. 「Come, damn ...... If you are one-one, you ...
+something ...」#MTLed
+> CONTEXT: Commonevents/225/114/Dialogue
+\\N[12]. 「Come, damn ...... If you are
+one-one, you...something ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「んじゃ、あたしはおにいさんの顔に
+お尻で座っておいてあげる」
+> CONTEXT: Map057/events/25/pages/0/245/Dialogue
+bandit teen. 「Okay, I'm on a big brother's face
+I'll sit down in the butt」#MTLed
+> CONTEXT: Commonevents/225/118/Dialogue
+bandit teen. 「Okay, I'm on a big brother's face
+I'll sit down in the butt」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「あははっ、おにいさんの顔をお尻で押しつぶしちゃった♪
+気分いいなぁ～
+ほらほら、わたしのお尻、柔らかくて気持ちいいでしょ？」
+> CONTEXT: Map057/events/25/pages/0/256/Dialogue
+bandit teen. 「Hahahah, I crushed my big face with my butt♪
+Feeling good ~. oh no, my butt, it's soft and comfortable,
+huh?」#MTLed
+> CONTEXT: Commonevents/225/129/Dialogue
+bandit teen. 「Hahahah, I crushed my big face
+with my butt♪. Feeling good ~. oh no, my butt,
+it's soft and comfortable, huh?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディットは腰を動かし、
+\\N[12]の顔に乗せたお尻を
+ぐりぐりと押し付けてくる！
+> CONTEXT: Map057/events/25/pages/0/261/Dialogue
+bandit teen moved her waist, \\N[12] His ass on the face
+of. * rub * and pressed!#MTLed
+> CONTEXT: Commonevents/225/134/Dialogue
+bandit teen moved her waist, \\N[12] His ass
+on the face of. * rub * and pressed!#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐりっ、むにむにっ……！
+> CONTEXT: Map057/events/25/pages/0/268/Dialogue
+Guru...um!#MTLed
+> CONTEXT: Commonevents/225/141/Dialogue
+Guru...um!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ううっ……こ、こいつの尻、
+すべすべしてて柔らかくて、
+最高の感触だ……）
+> CONTEXT: Map057/events/25/pages/0/270/Dialogue
+\\N[12]. (Uugh...... this guy's ass, Please do it
+soft, It's the best feel......)#MTLed
+> CONTEXT: Commonevents/225/143/Dialogue
+\\N[12]. (Uugh...... this guy's ass,
+Please do it soft, It's the best feel......)#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あ、こいつ勃起してきたよ」
+> CONTEXT: Map057/events/25/pages/0/275/Dialogue
+Bandit Girl. 「Oh, this guy's been erecting」#MTLed
+> CONTEXT: Commonevents/225/148/Dialogue
+Bandit Girl. 「Oh, this guy's been erecting」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「え？　あ、ホントだー」
+> CONTEXT: Map057/events/25/pages/0/278/Dialogue
+bandit teen. 「Huh? Oh, really.」#MTLed
+> CONTEXT: Commonevents/225/151/Dialogue
+bandit teen. 「Huh? Oh, really.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「くすっ、この子のお尻に興奮して勃起するとか
+とんだロリコンじゃん」
+> CONTEXT: Map057/events/25/pages/0/281/Dialogue
+Bandit Girl. 「Kusuto, get excited about this butt's ass,
+erection. Tonadora Lolicon」#MTLed
+> CONTEXT: Commonevents/225/154/Dialogue
+Bandit Girl. 「Kusuto, get excited about this
+butt's ass, erection. Tonadora Lolicon」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「しかも、おにーさんてば
+わたしのお尻で叩きのめされたばかりなのにねー。
+自分を負かしたお尻で勃起しちゃうなんて、ヘンタイだね♪」
+> CONTEXT: Map057/events/25/pages/0/286/Dialogue
+bandit teen. 「Moreover, as for my older brother
+I was just beaten up by my butt. It's pervert to get an
+erection in your ass that you defeated♪」#MTLed
+> CONTEXT: Commonevents/225/159/Dialogue
+bandit teen. 「Moreover, as for my older brother
+I was just beaten up by my butt.
+It's pervert to get an erection in your ass that
+you defeated♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くうぅっ……ち、ちくしょう
+こいつの尻で興奮してちゃいけないのにっ……
+で、でも……）
+> CONTEXT: Map057/events/25/pages/0/295/Dialogue
+\\N[12]. (Kuuuuuu ......, Damn it. I do not get excited
+by his ass....But,......)#MTLed
+> CONTEXT: Commonevents/225/168/Dialogue
+\\N[12]. (Kuuuuuu ......, Damn it
+I do not get excited by his ass. ...
+But,......)#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「女の子のお尻で顔を潰されるのが好きなら、
+このままいっぱいぐりぐりしてあげるね♪」
+> CONTEXT: Map057/events/25/pages/0/300/Dialogue
+bandit teen. 「If you like to be smashed face with a girl's
+ass, I will give you * rub * as it is♪」#MTLed
+> CONTEXT: Commonevents/225/173/Dialogue
+bandit teen. 「If you like to be smashed face
+with a girl's ass, I will give you * rub * as it
+is♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「むぐっ、うっ、ううぅっ……」
+> CONTEXT: Map057/events/25/pages/0/309/Dialogue
+\\N[12]. 「Pounding out, Uoo, huh ...」#MTLed
+> CONTEXT: Commonevents/225/182/Dialogue
+\\N[12]. 「Pounding out, Uoo, huh ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あーあ、フル勃起になっちゃった。
+お頭を負かした男が、こんな変態ロリコン野郎だったとはね。
+ま、確かにこの子のお尻は形も感触も最高なんだけどさ」
+> CONTEXT: Map057/events/25/pages/0/312/Dialogue
+Bandit Girl. 「Oh, I got a full erection.
+It is said that the man who beheed your head was such a
+perverted lolicon fellow. Well, surely this butt's butt has
+the best shape and feel」#MTLed
+> CONTEXT: Commonevents/225/185/Dialogue
+Bandit Girl. 「Oh, I got a full erection.
+It is said that the man who beheed your head was
+such a perverted lolicon fellow.
+Well, surely this butt's butt has the best shape
+and feel」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「うふふっ、勃起してくれたのなら話が早いわね。
+それじゃあ、私がこのおちんちんを
+アソコで飲み込んであげるわね」
+> CONTEXT: Map057/events/25/pages/0/317/Dialogue
+sexy bandit. 「Uhufu, if you erect me, you talk fast.
+Well then, I hope this. I'll swallow up with dick」#MTLed
+> CONTEXT: Commonevents/225/190/Dialogue
+sexy bandit. 「Uhufu, if you erect me, you talk
+fast. Well then, I hope this. I'll swallow up
+with dick」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディットは\\N[12]のペニスの上に
+自らの女性器をあてがうと、
+そのままゆっくりと腰を落としてくる！
+> CONTEXT: Map057/events/25/pages/0/322/Dialogue
+sexy bandit \\N[12] On the penis. When you apply your
+own female genitalia, I will slowly sit down as it is!#MTLed
+> CONTEXT: Commonevents/225/195/Dialogue
+sexy bandit \\N[12] On the penis
+When you apply your own female genitalia,
+I will slowly sit down as it is!#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅううううぅっ……！
+> CONTEXT: Map057/events/25/pages/0/328/Dialogue
+A crowd ...!#MTLed
+> CONTEXT: Commonevents/225/201/Dialogue
+A crowd ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、うああああぁぁっ……！」
+> CONTEXT: Map057/events/25/pages/0/331/Dialogue
+\\N[12]. 「Ugh, No Aaaahhh......!」#MTLed
+> CONTEXT: Commonevents/225/204/Dialogue
+\\N[12]. 「Ugh, No Aaaahhh......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「んっ……奥まで入っちゃったわ。
+これでもう、本格的に逃げられなくなったわねぇ」
+> CONTEXT: Map057/events/25/pages/0/334/Dialogue
+sexy bandit. 「Hmm...I got in to the end.
+With this I can no longer escape in earnest」#MTLed
+> CONTEXT: Commonevents/225/207/Dialogue
+sexy bandit. 「Hmm...I got in to the end.
+With this I can no longer escape in earnest」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「どう？
+姉御のおまんこって、何人もの男をイキ狂わせてきた
+名器なんだよ。あったかくて気持ちいいでしょ？」
+> CONTEXT: Map057/events/25/pages/0/338/Dialogue
+Bandit Girl. 「How? My older son, I'm getting crazy for
+many men. It is a famous instrument. It is warm and
+comfortable, is not it?」#MTLed
+> CONTEXT: Commonevents/225/211/Dialogue
+Bandit Girl. 「How? My older son, I'm getting
+crazy for many men. It is a famous instrument. It
+is warm and comfortable, is not it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（う、ううっ……
+見えないけど、チンコがすげえ心地いい感触に
+包まれているのが分かる……こ、これはヤバいっ……！）
+> CONTEXT: Map057/events/25/pages/0/343/Dialogue
+\\N[12]. (U, uugh...... I can not see it, but the
+dicks are comfortable feeling. I understand that it is
+wrapped....... This is a stupid thing ...! )#MTLed
+> CONTEXT: Commonevents/225/216/Dialogue
+\\N[12]. (U, uugh...... I can not see it,
+but the dicks are comfortable feeling
+I understand that it is wrapped....... This is
+a stupid thing ...! )#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「あなたのおちんちん、大きくていい形してるわねぇ。
+でも、私のおまんこにかかれば……えいっ♪」
+> CONTEXT: Map057/events/25/pages/0/348/Dialogue
+sexy bandit. 「You, your big and nice shape.
+But, if I apply to my sexual orientation...... Ei♪」#MTLed
+> CONTEXT: Commonevents/225/221/Dialogue
+sexy bandit. 「You, your big and nice shape.
+But, if I apply to my sexual orientation......
+Ei♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+きゅうっ……
+> CONTEXT: Map057/events/25/pages/0/352/Dialogue
+Hey, ...#MTLed
+> CONTEXT: Commonevents/225/225/Dialogue
+Hey, ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……！　あ、あああぁぁっ！」
+> CONTEXT: Map057/events/25/pages/0/354/Dialogue
+\\N[12]. 「Wow ...!Oh, Aaahhh!」#MTLed
+> CONTEXT: Commonevents/225/227/Dialogue
+\\N[12]. 「Wow ...!Oh, Aaahhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あぐっ、あっ、ああっ……」
+> CONTEXT: Map057/events/25/pages/0/362/Dialogue
+\\N[12]. 「Thanks, Ah, AAh......」#MTLed
+> CONTEXT: Map032/events/50/pages/1/217/Dialogue
+> CONTEXT: Commonevents/263/142/Dialogue
+> CONTEXT: Commonevents/225/235/Dialogue
+\\N[12]. 「Thanks, Ah, AAh......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あはっ、もうイっちゃったの？
+いくらなんでも早漏すぎでしょ」
+> CONTEXT: Map057/events/25/pages/0/365/Dialogue
+Bandit Girl. 「Hahah, have you tried it again?
+How much do you have premature ejaculation anyhow?」#MTLed
+> CONTEXT: Commonevents/225/238/Dialogue
+Bandit Girl. 「Hahah, have you tried it again?
+How much do you have premature ejaculation
+anyhow?」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「腕前は結構なものみたいだけど、
+こっちのほうは全然なのねぇ。
+挿れてすぐ出しちゃうんじゃ、一方的になりそうね」
+> CONTEXT: Map057/events/25/pages/0/369/Dialogue
+sexy bandit. 「It seems pretty good skill,
+This one is not at all. It will be unilateral if you insert
+it and put it out soon」#MTLed
+> CONTEXT: Commonevents/225/242/Dialogue
+sexy bandit. 「It seems pretty good skill,
+This one is not at all. It will be unilateral if
+you insert it and put it out soon」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（き、気持ちよすぎる……
+こ、こんな、顔にお尻の感触を味わわされながら
+セックスなんてしたら、我慢できるわけがっ……）
+> CONTEXT: Map057/events/25/pages/0/374/Dialogue
+\\N[12]. (I feel comfortable....... This, while being
+tasted the feel of butt in the face. If I make sex, I can
+endure......)#MTLed
+> CONTEXT: Commonevents/225/247/Dialogue
+\\N[12]. (I feel comfortable.......
+This, while being tasted the feel of butt in the
+face. If I make sex, I can endure......)#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「それじゃあ、自分から奴隷になるって言うまで
+いっぱい犯してあげましょうか。
+ふふ、どこまで耐えられるか、楽しみねぇ」
+> CONTEXT: Map057/events/25/pages/0/379/Dialogue
+sexy bandit. 「Well then, until I say I will become a slave
+from myself. Shall I make a lot of mistakes?
+Hehe, I can not wait to see how far I can endure」#MTLed
+> CONTEXT: Commonevents/225/252/Dialogue
+sexy bandit. 「Well then, until I say I will
+become a slave from myself. Shall I make a lot of
+mistakes? Hehe, I can not wait to see how far I
+can endure」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずっ、ずちゅっ、ぐちゅっ……
+> CONTEXT: Map057/events/25/pages/0/385/Dialogue
+A lot, a lot, ...#MTLed
+> CONTEXT: Commonevents/225/258/Dialogue
+A lot, a lot, ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あぐっ！」
+> CONTEXT: Map057/events/25/pages/0/387/Dialogue
+\\N[12]. 「Oh, it is!」#MTLed
+> CONTEXT: Commonevents/225/260/Dialogue
+\\N[12]. 「Oh, it is!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「ほらほら、おにーさんにはお尻の感触も
+しっかり味わわせてあげるんだからね」
+> CONTEXT: Map057/events/25/pages/0/390/Dialogue
+bandit teen. 「oh no, the elderly also feel the buttocks
+I will taste it well」#MTLed
+> CONTEXT: Commonevents/225/263/Dialogue
+bandit teen. 「oh no, the elderly also feel the
+buttocks. I will taste it well」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は、
+ロリータバンディットのお尻に顔を蹂躙されながら
+セクシーバンディットの騎乗位によって責め立てられる！
+> CONTEXT: Map057/events/25/pages/0/399/Dialogue
+\\N[12] Is. While the face of the bandit teen's ass is
+overrun. It is accused by the woman on top of sexy bandit!#MTLed
+> CONTEXT: Commonevents/225/272/Dialogue
+\\N[12] Is. While the face of the bandit
+teen's ass is overrun. It is accused by the woman
+on top of sexy bandit!#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐちゅっ、ぐちゅっ、ずっ、ずぷっ……！
+> CONTEXT: Map057/events/25/pages/0/403/Dialogue
+Gouchutsu, southern, swift......!#MTLed
+> CONTEXT: Commonevents/225/276/Dialogue
+Gouchutsu, southern, swift......!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ、あっ、あううぅっ！」
+> CONTEXT: Map057/events/25/pages/0/405/Dialogue
+\\N[12]. 「Huh, there, Ah Hey!」#MTLed
+> CONTEXT: Commonevents/225/278/Dialogue
+\\N[12]. 「Huh, there, Ah Hey!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あーあ、いいように喘がされちゃって。
+ま、あたしたちの合わせ技にかかって
+耐えられる男なんているわけがないけどね」
+> CONTEXT: Map057/events/25/pages/0/408/Dialogue
+Bandit Girl. 「Oh, I got astray like being nice.
+Well, depending on our matching technique
+There is no guy who can bear that, but」#MTLed
+> CONTEXT: Commonevents/225/281/Dialogue
+Bandit Girl. 「Oh, I got astray like being nice.
+Well, depending on our matching technique
+There is no guy who can bear that, but」#MTLed
+> END STRING
+
+> BEGIN STRING
+身をよじって逃げようと思っても、
+バンディットガールによって腹を踏みつけられており
+\\N[12]は動くことができない！
+> CONTEXT: Map057/events/25/pages/0/413/Dialogue
+Even though you try to run away by twisting yourself,
+I am stepped on my belly by Bandit Girl. \\N[12] Can not
+move!#MTLed
+> CONTEXT: Commonevents/225/286/Dialogue
+Even though you try to run away by twisting
+yourself, I am stepped on my belly by Bandit Girl
+\\N[12] Can not move!#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ふふっ、負かした男を踏みつけるのって
+何度やってもゾクゾクするなぁ」
+> CONTEXT: Map057/events/25/pages/0/417/Dialogue
+Bandit Girl. 「Fuhu, stepping on the man who defeated
+I do tremble no matter how many times I do it」#MTLed
+> CONTEXT: Commonevents/225/290/Dialogue
+Bandit Girl. 「Fuhu, stepping on the man who
+defeated. I do tremble no matter how many times I
+do it」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガールは容赦なく脚を踏み込み
+\\N[12]の腹を踏みにじる！
+> CONTEXT: Map057/events/25/pages/0/422/Dialogue
+Bandit girl stepped on his legs without mercy
+\\N[12] I trampled on my belly!#MTLed
+> CONTEXT: Commonevents/225/295/Dialogue
+Bandit girl stepped on his legs without mercy
+\\N[12] I trampled on my belly!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐあっ、あっ……！」
+> CONTEXT: Map057/events/25/pages/0/425/Dialogue
+\\N[12]. 「Gee, there ...!」#MTLed
+> CONTEXT: Commonevents/225/298/Dialogue
+\\N[12]. 「Gee, there ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「あはっ、お姉ちゃんホントにサドだよね。
+ま、このおにいさんはいじめたくなっちゃうのは
+気持ち分かるけどねー」
+> CONTEXT: Map057/events/25/pages/0/428/Dialogue
+bandit teen. 「Hahah, your sister is really Sado.
+Well, this girlfriend wants to bully her
+I know how I feel.」#MTLed
+> CONTEXT: Commonevents/225/301/Dialogue
+bandit teen. 「Hahah, your sister is really Sado.
+Well, this girlfriend wants to bully her
+I know how I feel.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディットは、
+\\N[12]の顔にねじ込むようにして
+お尻を強く押し付けてくる！
+> CONTEXT: Map057/events/25/pages/0/433/Dialogue
+bandit teen, \\N[12] Screw it in the face of
+I will press your ass strongly!#MTLed
+> CONTEXT: Commonevents/225/306/Dialogue
+bandit teen, \\N[12] Screw it in the face of
+I will press your ass strongly!#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐにいいいぃぃっ！
+> CONTEXT: Map057/events/25/pages/0/439/Dialogue
+Too bad!#MTLed
+> CONTEXT: Commonevents/225/312/Dialogue
+Too bad!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「むぐ……う、うぅ……！」
+> CONTEXT: Map057/events/25/pages/0/441/Dialogue
+\\N[12]. 「Mu...Uu,......!」#MTLed
+> CONTEXT: Commonevents/225/314/Dialogue
+\\N[12]. 「Mu...Uu,......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「きゃっ、この子イっちゃったわよ。
+お尻を押し付けられて射精しちゃうだなんて……」
+> CONTEXT: Map057/events/25/pages/0/450/Dialogue
+sexy bandit. 「kyaa, I got this kid. I was pushing my ass
+and cumming......」#MTLed
+> CONTEXT: Commonevents/225/323/Dialogue
+sexy bandit. 「kyaa, I got this kid.
+I was pushing my ass and cumming......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「あはっ、おにいさんったら
+わたしのお尻の感触がそんなに気持ちよかったんだぁ。
+普通なら顔に座られてるなんて悔しいだけのはずなのにねー♪」
+> CONTEXT: Map057/events/25/pages/0/454/Dialogue
+bandit teen. 「Hahah, a lot of people. The touch of my butt
+was so pleasant. Even though I suppose I should not be
+disappointed that sitting on my face normally♪」#MTLed
+> CONTEXT: Commonevents/225/327/Dialogue
+bandit teen. 「Hahah, a lot of people
+The touch of my butt was so pleasant.
+Even though I suppose I should not be
+disappointed that sitting on my face normally♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（く、くそおおぉっ……！
+こんな、屈辱的なのに、興奮を抑えられないっ……！）
+> CONTEXT: Map057/events/25/pages/0/459/Dialogue
+\\N[12]. (Damn you, oh ...! Although I am humiliating
+like this, I can not suppress my excitement ...! )#MTLed
+> CONTEXT: Commonevents/225/332/Dialogue
+\\N[12]. (Damn you, oh ...! Although I am
+humiliating like this, I can not suppress my
+excitement ...! )#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「それじゃ、今度は私が仕上げをしてあげるわね。
+このまま激しく動いて、精液をいっぱい搾り取ってあげる」
+> CONTEXT: Map057/events/25/pages/0/464/Dialogue
+sexy bandit. 「Well then, I will finish up this time.
+I will violently move like this and squeeze out the semen
+altogether」#MTLed
+> CONTEXT: Commonevents/225/337/Dialogue
+sexy bandit. 「Well then, I will finish up this
+time. I will violently move like this and squeeze
+out the semen altogether」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、セクシーバンディットは
+腰を上下に激しく動かしてペニスを刺激してくる！
+> CONTEXT: Map057/events/25/pages/0/468/Dialogue
+And sexy bandit is. Move the waist up and down violently
+and stimulate the penis!#MTLed
+> CONTEXT: Commonevents/225/341/Dialogue
+And sexy bandit is. Move the waist up and down
+violently and stimulate the penis!#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐちゅっ、ぐちゅっ、
+ずっ、ずちゅっ、ずちゅううぅっ！
+> CONTEXT: Map057/events/25/pages/0/472/Dialogue
+Gouchut, A lot, a couple of times!#MTLed
+> CONTEXT: Commonevents/225/345/Dialogue
+Gouchut, A lot, a couple of times!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あうっ、ぐっ……
+あ、ああぁ……！」
+> CONTEXT: Map057/events/25/pages/0/475/Dialogue
+\\N[12]. 「Huh, ugly .... Oh, ah ...!」#MTLed
+> CONTEXT: Commonevents/225/348/Dialogue
+\\N[12]. 「Huh, ugly .... Oh, ah ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「この分じゃ、またすぐに出ちゃいそうねぇ。
+ま、私の中でイけることを幸せに思って欲しいものね、
+本来、無料でこんなことは絶対しないんだから」
+> CONTEXT: Map057/events/25/pages/0/479/Dialogue
+sexy bandit. 「It seems I will get out soon again this time.
+Well, I want you to feel happy to be inside of me,
+Originally, I will never do such a thing for free」#MTLed
+> CONTEXT: Commonevents/225/352/Dialogue
+sexy bandit. 「It seems I will get out soon again
+this time. Well, I want you to feel happy to be
+inside of me, Originally, I will never do such a
+thing for free」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「とか言って、楽しんじゃってるんでしょ？
+こいつ、チンコだけは立派なもんだからね」
+> CONTEXT: Map057/events/25/pages/0/484/Dialogue
+Bandit Girl. 「You said you are having fun, do not you?
+This guy, only dick is a good one」#MTLed
+> CONTEXT: Commonevents/225/357/Dialogue
+Bandit Girl. 「You said you are having fun, do
+not you? This guy, only dick is a good one」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「うふふっ、まあね♪
+さあ、ラストスパートよ。
+私の中で精液を思いっきりぶちまけちゃいなさい」
+> CONTEXT: Map057/events/25/pages/0/488/Dialogue
+sexy bandit. 「Uhhh, well.♪. Now, last spare.
+Please jerk my semen plenty in me」#MTLed
+> CONTEXT: Commonevents/225/361/Dialogue
+sexy bandit. 「Uhhh, well.♪. Now, last spare.
+Please jerk my semen plenty in me」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「わたしたち全員に乗っかられて、
+無様にイっちゃえ、おにいさん♪」
+> CONTEXT: Map057/events/25/pages/0/493/Dialogue
+bandit teen. 「By riding by all of us, I got it unsightly,
+my older brother♪」#MTLed
+> CONTEXT: Commonevents/225/366/Dialogue
+bandit teen. 「By riding by all of us,
+I got it unsightly, my older brother♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、\\N[12]は三人の盗賊少女たちに
+蹂躙されるまま、またも絶頂を迎える――
+> CONTEXT: Map057/events/25/pages/0/497/Dialogue
+Then, \\N[12] To Three Thieves Girls. It will be caught
+again with being overruled -#MTLed
+> CONTEXT: Commonevents/225/370/Dialogue
+Then, \\N[12] To Three Thieves Girls
+It will be caught again with being overruled -#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「はい、トドメよ。
+イきなさい、坊や♪」
+> CONTEXT: Map057/events/25/pages/0/500/Dialogue
+sexy bandit. 「Yes, finisher. Stay, my boy♪」#MTLed
+> CONTEXT: Commonevents/225/373/Dialogue
+sexy bandit. 「Yes, finisher. Stay, my boy♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅっ、ずちゅっ……
+ぐちゅううううぅっ！
+> CONTEXT: Map057/events/25/pages/0/506/Dialogue
+Arranging a lot,...Chronoing!#MTLed
+> CONTEXT: Commonevents/225/379/Dialogue
+Arranging a lot,...Chronoing!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「むぐうううぅぅっ！」
+> CONTEXT: Map057/events/25/pages/0/509/Dialogue
+\\N[12]. 「Pursuingly um!」#MTLed
+> CONTEXT: Commonevents/134/25/Dialogue
+> CONTEXT: Commonevents/286/25/Dialogue
+> CONTEXT: Commonevents/225/382/Dialogue
+> CONTEXT: Commonevents/313/25/Dialogue
+\\N[12]. 「Pursuingly um!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あひいぃ……」
+> CONTEXT: Map057/events/25/pages/0/518/Dialogue
+\\N[12]. 「Oh, it's too bad ...」#MTLed
+> CONTEXT: Commonevents/225/391/Dialogue
+\\N[12]. 「Oh, it's too bad ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「あ、体がびくんびくんしてる。
+すっごい気持ちよさそうだねぇ、おにいさん」
+> CONTEXT: Map057/events/25/pages/0/521/Dialogue
+bandit teen. 「Ah, the body is doing. He looks soooo nice,
+hey」#MTLed
+> CONTEXT: Commonevents/225/394/Dialogue
+bandit teen. 「Ah, the body is doing.
+He looks soooo nice, hey」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「うふふっ……
+中で熱いものがいっぱい出ているのが分かるわ。
+でも、まだまだこの程度じゃ済まさないわよ」
+> CONTEXT: Map057/events/25/pages/0/525/Dialogue
+sexy bandit. 「Uhufu...I see a lot of hot things in there.
+But I will not finish this degree」#MTLed
+> CONTEXT: Commonevents/225/398/Dialogue
+sexy bandit. 「Uhufu...I see a lot of hot
+things in there. But I will not finish this
+degree」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「そうそう。
+自分の口で降参するって言うまで、
+この責めは続くからね」
+> CONTEXT: Map057/events/25/pages/0/530/Dialogue
+Bandit Girl. 「Yes Yes. Until I say that I am going to give
+in my mouth, This blame will continue」#MTLed
+> CONTEXT: Commonevents/225/403/Dialogue
+Bandit Girl. 「Yes Yes. Until I say that I am
+going to give in my mouth, This blame will
+continue」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（そ、そんな……
+あ、ああ……こんなの、もう耐えるのは
+無理だ……）
+> CONTEXT: Map057/events/25/pages/0/535/Dialogue
+\\N[12]. (Sounds like that....... Oh, ah ...... This
+is what I endure. It impossible……)#MTLed
+> CONTEXT: Commonevents/225/408/Dialogue
+\\N[12]. (Sounds like that.......
+Oh, ah ...... This is what I endure
+It impossible……)#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、それから\\N[12]は
+数えきれないくらい
+三人の少女たちによって絶頂させられた。
+> CONTEXT: Map057/events/25/pages/0/542/Dialogue
+And then \\N[12] Is. About to count. It was caught by
+three girls.#MTLed
+> CONTEXT: Commonevents/225/415/Dialogue
+And then \\N[12] Is. About to count
+It was caught by three girls.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「も……もう、ゆるし、て……」
+> CONTEXT: Map057/events/25/pages/0/547/Dialogue
+\\N[12]. 「Even...... Already forgive me......」#MTLed
+> CONTEXT: Commonevents/225/420/Dialogue
+\\N[12]. 「Even...... Already forgive me ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「え？　なに、聞こえないわよ」
+> CONTEXT: Map057/events/25/pages/0/550/Dialogue
+Bandit Girl. 「Huh? I can not hear it.」#MTLed
+> CONTEXT: Commonevents/225/423/Dialogue
+Bandit Girl. 「Huh? I can not hear it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ど、奴隷にでも、なんでもなるから……
+もう、許して、くれ……」
+> CONTEXT: Map057/events/25/pages/0/553/Dialogue
+\\N[12]. 「Whatever, even in slavery, ...
+Already, forgive me ......」#MTLed
+> CONTEXT: Commonevents/225/426/Dialogue
+\\N[12]. 「Whatever, even in slavery, ...
+Already, forgive me ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ぷっ……あはははっ！
+聞いた？　二人とも」
+> CONTEXT: Map057/events/25/pages/0/558/Dialogue
+Bandit Girl. 「Pu ...... Hahahah! heard? Both of them」#MTLed
+> CONTEXT: Commonevents/225/431/Dialogue
+Bandit Girl. 「Pu ...... Hahahah!
+heard? Both of them」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「うん、ばっちり！」
+> CONTEXT: Map057/events/25/pages/0/562/Dialogue
+bandit teen. 「Yes, perfectly!」#MTLed
+> CONTEXT: Commonevents/225/435/Dialogue
+bandit teen. 「Yes, perfectly!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「ついに屈服しちゃったわねぇ。
+ま、私たち三人に責められ続けていたんだし、
+よく我慢した方じゃない？　無駄な努力だったけどね」
+> CONTEXT: Map057/events/25/pages/0/565/Dialogue
+sexy bandit. 「I think I finally succumbed.
+Well, three of us kept being blamed, You better tolerated?
+It was a wasteful effort though」#MTLed
+> CONTEXT: Commonevents/225/438/Dialogue
+sexy bandit. 「I think I finally succumbed.
+Well, three of us kept being blamed,
+You better tolerated? It was a wasteful effort
+though」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「これであんたは、あたしたちベル盗賊団の奴隷に決定！
+これからはあたしたちのために、
+その鍛え上げた剣技を使うんだよ」
+> CONTEXT: Map057/events/25/pages/0/570/Dialogue
+Bandit Girl. 「With that, you decide to be a slave of us
+Belle Thieves! From now on for us, Use that trained sword
+technique」#MTLed
+> CONTEXT: Commonevents/225/443/Dialogue
+Bandit Girl. 「With that, you decide to be a
+slave of us Belle Thieves! From now on for us,
+Use that trained sword technique」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「きゃはははっ！
+みじめだねー、おにいさん♪」
+> CONTEXT: Map057/events/25/pages/0/575/Dialogue
+bandit teen. 「Hahaha! Miserable, old man♪」#MTLed
+> CONTEXT: Commonevents/225/448/Dialogue
+bandit teen. 「Hahaha! Miserable, old man♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は三人の盗賊少女たちに屈服し、
+彼女たちの奴隷として、その後の人生を送ることになるのであった。
+> CONTEXT: Map057/events/25/pages/0/580/Dialogue
+In this way, \\N[12] I succumb to three thieves girls,
+As a slave to their lives, they will have a life after
+that.#MTLed
+> CONTEXT: Commonevents/225/453/Dialogue
+In this way, \\N[12] I succumb to three
+thieves girls, As a slave to their lives, they
+will have a life after that.#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ま、頑張ってあたしたちに尽くしたら
+ご褒美に少しはエッチなことしてあげるからさ。
+せいぜい励むことだね」
+> CONTEXT: Map057/events/25/pages/0/583/Dialogue
+Bandit Girl. 「Well, if you do your best and do our best
+Because I will do a little lewd for reward.
+It's best to encourage them.」#MTLed
+> CONTEXT: Commonevents/225/456/Dialogue
+Bandit Girl. 「Well, if you do your best and do
+our best. Because I will do a little lewd for
+reward. It's best to encourage them.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バッドエンド：盗賊団の奴隷
+> CONTEXT: Map057/events/25/pages/0/589/Dialogue
+Bad end: slave of the bandits#MTLed
+> CONTEXT: Commonevents/225/462/Dialogue
+Bad end: slave of the bandits#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「自由に使用できるショートソードか……
+武器は自分のを使えばいいし、
+これのお世話になることはなさそうだ」
+> CONTEXT: Map057/events/26/pages/0/0/Dialogue
+\\N[12]. 「Is it a freely available short sword ...?
+You can use your own weapons, I do not think that I will
+take care of this」#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴロツキ
+「うへへ……
+予選決勝まで残って女と当たれば、犯せるんだろ？
+俺はそれを目当てに出場したんだ、楽しみだぜ」
+> CONTEXT: Map057/events/31/pages/0/0/Dialogue
+Roughness. 「Hi...If you remain a preliminary final and
+hit a woman, you can make it, do not you?
+I played for it, I'm looking forward to it」#MTLed
+> END STRING

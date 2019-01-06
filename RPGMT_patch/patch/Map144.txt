@@ -1,0 +1,77 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「ぬおおおおぉっ！」
+> CONTEXT: Map144/events/3/pages/0/0/Dialogue
+\\N[12]. 「Snow ooooooooooo!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふーっ、なんとか上がれたな」
+> CONTEXT: Map144/events/3/pages/0/9/Dialogue
+\\N[12]. 「Well, I managed to go up somehow.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ありがとね、\\N[12]。
+キミのおかげで脱出できたよ。
+まさか、キミに助けられるなんて思わなかったなあ」
+> CONTEXT: Map144/events/3/pages/0/12/Dialogue
+Sherry. 「Thanks dear, \\N[12] .
+I could escape thanks to you. No way, I did not
+expect you to be saved by you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「い、いや……まあ、こんな時だし
+そりゃ助けもするさ。
+これから雪女と戦うし、戦力は必要だしな！」
+> CONTEXT: Map144/events/3/pages/0/17/Dialogue
+\\N[12]. 「No, well ... this is the time. That's right.
+From now on I will fight against the snowy girl and I need
+strength!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ふふっ、そうだね。
+じゃ、雪女を倒しに行こうか！
+どうやら、そこから出られるみたいだし」
+> CONTEXT: Map144/events/3/pages/0/22/Dialogue
+Sherry. 「Huh, that's right. Well, let 's go to
+defeat the snow girl! Apparently, it seems like I
+can get out there」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「さっきのお返しをしてやらなきゃ気が済まないぜ。
+この部屋で準備を整えたら、
+倒しに行くぞ！」
+> CONTEXT: Map144/events/3/pages/0/27/Dialogue
+\\N[12]. 「I have to give up in returning earlier and I
+will not be mindful. After preparing in this room,
+I will go for defeating!」#MTLed
+> END STRING
+
+> BEGIN STRING
+全回復した！
+> CONTEXT: Map144/events/4/pages/0/2/Dialogue
+Full recovery!#MTLed
+> END STRING
+
+> BEGIN STRING
+2000G 手に入れた！
+> CONTEXT: Map144/events/5/pages/0/9/Dialogue
+> CONTEXT: Map037/events/3/pages/3/143/Dialogue
+I got 2000G!#MTLed
+> END STRING
+
+> BEGIN STRING
+雪花のお守りを手に入れた！
+> CONTEXT: Map144/events/5/pages/0/15/Dialogue
+I got a snow flower amulet!#MTLed
+> END STRING

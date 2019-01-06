@@ -1,0 +1,1883 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+レストラン・アーロンハウス
+> CONTEXT: Map026/display_name/
+Restaurant · Aaron House#MTLed
+> END STRING
+
+> BEGIN STRING
+ウェイトレス
+「いらっしゃいませ～」
+> CONTEXT: Map026/events/1/pages/0/0/Dialogue
+waitress. 「Welcome」#MTLed
+> END STRING
+
+> BEGIN STRING
+料理人アーロン
+「この街の漁師がとってくる魚はいつも最高に活きがいいんだ。
+最高の料理に仕上げてやるのが料理人の使命ってもんさ」
+> CONTEXT: Map026/events/3/pages/0/0/Dialogue
+Cook Aaron. 「The fish that fishermen in this city pick up
+always has the best living. It is the cook's mission to
+finish the best dish」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「すみません、俺は\\N[12]っていいます。
+ギルドの張り紙を見て来たんですが……」
+> CONTEXT: Map026/events/3/pages/1/0/Dialogue
+\\N[12]. 「I am sorry, I \\N[12] I say. I saw the
+guild's poster......」#MTLed
+> END STRING
+
+> BEGIN STRING
+料理人アーロン
+「おう、来てくれたか、わざわざすまんな。
+俺がこのレストランの主人、アーロンだ。
+さっそくだが、依頼の内容について説明するぜ」
+> CONTEXT: Map026/events/3/pages/1/4/Dialogue
+Cook Aaron. 「Oh, did you come, expressly sorry.
+I am Aaron, the owner of this restaurant.
+Right now, I will explain the content of the request」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お願いします」
+> CONTEXT: Map026/events/3/pages/1/9/Dialogue
+\\N[12]. 「Please」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ウチは普段から質の高い料理を提供している自信があるが、
+武道大会の開催に合わせ、もっと特別な料理をメニューに加えたい」
+> CONTEXT: Map026/events/3/pages/1/12/Dialogue
+Aaron. 「I'm confident that I usually serve high-quality
+dishes, In accordance with the holding of martial arts
+tournament, I would like to add more special dishes to the
+menu」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「普段は王都の漁師たちが近場で捕ってきた魚を
+料理しているが、せっかくなら王都周辺だけじゃなく
+国内の他の場所で捕れる魚も使いたいと思ってな」
+> CONTEXT: Map026/events/3/pages/1/16/Dialogue
+Aaron. 「Usually, fishes caught in the nearby by the
+fishermen of the kingdom. I am cooking, but it's not only
+around the kingdom. I want to use fish caught elsewhere in
+the country」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「盗賊団のせいで来てくれなくなっちまったが、
+以前は南のレストンでダイントラウトを釣って
+送ってくれる人がいたんだ。またあれを料理してぇなあ」
+> CONTEXT: Map026/events/3/pages/1/21/Dialogue
+Aaron. 「Thieves did not come down to come, but,
+Previously caught dyne trout with Reston in the South
+There was a person who sent me. Please cook that again」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へぇ、そうなんですか。
+俺はレストン出身ですから、行ってみましょうか」
+> CONTEXT: Map026/events/3/pages/1/26/Dialogue
+\\N[12]. 「Well, is that so? I'm from Reston, so let's go
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ほう、そうなのか、そりゃ都合がいい。
+できれば、まとまった数を確保できる漁師か釣り人に
+話を通してくれれば助かる」
+> CONTEXT: Map026/events/3/pages/1/30/Dialogue
+Aaron. 「Well, it is convenient for that.
+If possible, to a fisherman or angler who can secure a
+cohesive number. It will be saved if you go through the
+story」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「あとは、海魚も欲しいんだよな。
+レストンの海なんかで、いい魚が捕れるっていうし
+サンプルに何か一匹捕ってきてくれんか？」
+> CONTEXT: Map026/events/3/pages/1/35/Dialogue
+Aaron. 「After that, I also want sea fish.
+In the sea of Reston, I heard that good fish can be caught
+Could you catch something in the sample?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「海魚……わかりました、
+なんとか探してみます」
+> CONTEXT: Map026/events/3/pages/1/40/Dialogue
+\\N[12]. 「Sea fish ...... Okay, I will find it somehow.」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「よろしく頼むぜ。報酬ははずむからな。
+あんた、出で立ちからして武道大会に出るんだろ？
+精のつく料理を振る舞ってやろう」
+> CONTEXT: Map026/events/3/pages/1/44/Dialogue
+Aaron. 「I'm counting on you. I will pay the reward.
+You're going out for a martial arts tournament, do not you?
+Let's act on delicious dishes」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（川魚のダイントラウトを確保できる人を探すこと、
+そして海魚のサンプルを捕ってくること……か。
+よし、頑張ろう）
+> CONTEXT: Map026/events/3/pages/1/49/Dialogue
+\\N[12]. (Searching for people who can secure river fish
+'s dyne trout, And catch sea fish samples.......?
+OK, good luck)#MTLed
+> END STRING
+
+> BEGIN STRING
+料理人アーロン
+「おう、あんたか。ご苦労さん。
+魚は武道大会開催の日までに調達を頼むぜ」
+> CONTEXT: Map026/events/3/pages/2/2/Dialogue
+Cook Aaron. 「Oh, you? Good job. The fish will ask for
+procurement by the day of holding the martial arts
+tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+川魚についての報告
+> CONTEXT: Map026/events/3/pages/2/6/Choice/0
+Report on river fish#MTLed
+> END STRING
+
+> BEGIN STRING
+海魚についての報告
+> CONTEXT: Map026/events/3/pages/2/6/Choice/1
+Report on sea fish#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ありがとな、川魚については依頼完了だぜ」
+> CONTEXT: Map026/events/3/pages/2/10/Dialogue
+Aaron. 「Thanks for the river fish, the request has been
+completed」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こんちわっす。
+川魚のダイントラウトを届けてもらうように話をつけてきましたが、
+届いてますか？」
+> CONTEXT: Map026/events/3/pages/2/15/Dialogue
+\\N[12]. 「Hello. I've been talking about delivering
+river fish 's dyne trout, Have you received it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「おう、あんたか！
+そりゃもう、イキのいいトラウトがたくさん届いたぜ！」
+> CONTEXT: Map026/events/3/pages/2/20/Dialogue
+Aaron. 「Oh, you! Well, I already got plenty of nice trout!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「あんたのおかげで届けられたってことも行商人から聞いてる。
+本当に助かったぜ、ありゃいい料理になるぜぇ」
+> CONTEXT: Map026/events/3/pages/2/24/Dialogue
+Aaron. 「I heard from peddlers that you got delivered
+thanks to you. I was really saved, it will be an excellent
+dish.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そりゃよかった、これで川魚については完了っすね」
+> CONTEXT: Map026/events/3/pages/2/28/Dialogue
+\\N[12]. 「That's good, this is all about river fish」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そんじゃ、これで依頼は終了ですかね？」
+> CONTEXT: Map026/events/3/pages/2/36/Dialogue
+> CONTEXT: Map026/events/3/pages/2/300/Dialogue
+\\N[12]. 「Then, is this the end of the request?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「おう！　いやー、本当に助かったぜ。
+海魚、川魚ともに俺の注文通りの成果を出してくれた。
+あんたが依頼を受けてくれて本当に良かったぜ！」
+> CONTEXT: Map026/events/3/pages/2/39/Dialogue
+> CONTEXT: Map026/events/3/pages/2/303/Dialogue
+Aaron. 「Oh! Well, I was really saved. Both the sea fish
+and the river fish gave out the results I ordered.
+It was really nice that you received a request!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「そこで報酬だが……
+ギルドに預けた金とは別に、特別に大会期間終了まで
+俺の料理を1日1食、無料で食える権利をやるぜ！」
+> CONTEXT: Map026/events/3/pages/2/44/Dialogue
+> CONTEXT: Map026/events/3/pages/2/308/Dialogue
+Aaron. 「It's a reward there...... Apart from the money
+deposited in the guild, specially until the end of the
+tournament period. I have one food per day, I have the
+right to eat free!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おおっ！　やったぜ！」
+> CONTEXT: Map026/events/3/pages/2/49/Dialogue
+> CONTEXT: Map026/events/3/pages/2/313/Dialogue
+\\N[12]. 「Huh! I did it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロンハウス無料パスポート を貰った！
+> CONTEXT: Map026/events/3/pages/2/53/Dialogue
+> CONTEXT: Map026/events/3/pages/2/317/Dialogue
+Aaron House I got a free passport!#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「これで材料は万全、あとは俺の腕次第ってわけだ。
+外国からの客をビックリさせられるような、
+最高の料理を作ってやるぜ！」
+> CONTEXT: Map026/events/3/pages/2/56/Dialogue
+> CONTEXT: Map026/events/3/pages/2/320/Dialogue
+Aaron. 「With this, everything is perfect, and the rest is
+up to my arm. Such as being able to surprise guests from
+foreign countries, I will make the best dish!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「\\N[12]さんよ、あんた武道大会に出るんだろ？
+応援させてもらうから、あんたも頑張りなよ」
+> CONTEXT: Map026/events/3/pages/2/61/Dialogue
+> CONTEXT: Map026/events/3/pages/2/325/Dialogue
+Aaron. 「\\N[12] You, you go out to martial arts
+tournament, do not you? Because you will be cheering, you
+do your best too」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おうっ、アーロンさんの料理のおかげで力も湧いてきたし、
+本気で優勝を狙いに行くぜ！」
+> CONTEXT: Map026/events/3/pages/2/65/Dialogue
+> CONTEXT: Map026/events/3/pages/2/329/Dialogue
+\\N[12]. 「Oh, thanks to the cooking of Aaron - san, the
+power has gotten up, I will go seriously to win the
+championship!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ははは、若いモンはそうでなくっちゃな！
+ちなみに、まだほかにも海で獲物をゲットしたようなら、
+いつでも受け取るからよろしくな！」
+> CONTEXT: Map026/events/3/pages/2/69/Dialogue
+> CONTEXT: Map026/events/3/pages/2/333/Dialogue
+Aaron. 「Hahaha, young Mong needs to be like that!
+By the way, if you seem to have already got prey in the
+ocean, I will receive it anytime so please!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（川魚は調達することができていない。
+報告できることはまだないな）
+> CONTEXT: Map026/events/3/pages/2/88/Dialogue
+\\N[12]. (River fish can not be procured.
+There is no way I can report it yet)#MTLed
+> END STRING
+
+> BEGIN STRING
+パルムフィッシュを渡すif(s[73])
+> CONTEXT: Map026/events/3/pages/2/96/Choice/0
+> CONTEXT: Map026/events/3/pages/5/200/Choice/0
+> CONTEXT: Map026/events/3/pages/5/200/Choice/0
+Pass palm fishif(s[73])#MTLed
+> END STRING
+
+> BEGIN STRING
+マディンフィッシュを渡すif(s[71])
+> CONTEXT: Map026/events/3/pages/2/96/Choice/1
+Pass maduin fishif(s[71])#MTLed
+> END STRING
+
+> BEGIN STRING
+レストニアオクトパスを渡すif(s[72])
+> CONTEXT: Map026/events/3/pages/2/96/Choice/2
+> CONTEXT: Map026/events/3/pages/5/200/Choice/1
+> CONTEXT: Map026/events/3/pages/5/200/Choice/1
+Pass restonian octopusif(s[72])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「アーロンさん、海で魚を捕ってきたぜ」
+> CONTEXT: Map026/events/3/pages/2/98/Dialogue
+> CONTEXT: Map026/events/3/pages/2/227/Dialogue
+> CONTEXT: Map026/events/3/pages/2/350/Dialogue
+> CONTEXT: Map026/events/3/pages/5/202/Dialogue
+\\N[12]. 「Aaron-san, I caught a fish at the sea」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「おう、ご苦労さん。
+どれ、見せてくれるか？」
+> CONTEXT: Map026/events/3/pages/2/101/Dialogue
+> CONTEXT: Map026/events/3/pages/2/230/Dialogue
+> CONTEXT: Map026/events/3/pages/2/353/Dialogue
+> CONTEXT: Map026/events/3/pages/5/205/Dialogue
+Aaron. 「Oh, my good hard work. Which, will you show me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はパルムフィッシュを渡した。
+> CONTEXT: Map026/events/3/pages/2/105/Dialogue
+> CONTEXT: Map026/events/3/pages/5/209/Dialogue
+\\N[12] He handed palm fish.#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「んー……これはパルムフィッシュだな。
+この近くでも捕れる淡水魚だぜ」
+> CONTEXT: Map026/events/3/pages/2/108/Dialogue
+> CONTEXT: Map026/events/3/pages/5/212/Dialogue
+Aaron. 「Hmm...this is palm fish. It's a freshwater fish
+that can catch even near here」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、そうだったのか。
+でも、レストンの海岸で釣ったんだけどなぁ」
+> CONTEXT: Map026/events/3/pages/2/112/Dialogue
+> CONTEXT: Map026/events/3/pages/5/216/Dialogue
+\\N[12]. 「Well, was that so? But I caught on Reston's
+coast」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「たぶん、汽水域で釣ったんじゃないか？
+この魚は環境に適応する力が強くて、
+多少の塩分は平気みたいだからな」
+> CONTEXT: Map026/events/3/pages/2/116/Dialogue
+> CONTEXT: Map026/events/3/pages/5/220/Dialogue
+Aaron. 「Probably, you did catch it in the brackish water
+area? This fish has a strong ability to adapt to the
+environment, Some salinity seems like normal」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、確かに汽水域で釣ったかも……
+そっか、こいつはダメか」
+> CONTEXT: Map026/events/3/pages/2/121/Dialogue
+> CONTEXT: Map026/events/3/pages/5/225/Dialogue
+\\N[12]. 「Oh, maybe I caught it in the brackish water
+area...Well, that's no good」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「いや、これはこれでいい魚さ。
+料理してやるから、ちょっと待ってな」
+> CONTEXT: Map026/events/3/pages/2/125/Dialogue
+Aaron. 「No, this is a nice fish. I will cook, so please
+wait a moment.」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「パルムフィッシュのムニエルだ。
+ウチの看板メニューのひとつでもある。
+食ってみな」
+> CONTEXT: Map026/events/3/pages/2/144/Dialogue
+Aaron. 「It is meunière of palm fish. It is also one of my
+favorite signboard menus. Try it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おおっ！　す、すげえ香ばしくて美味そうな匂いだ。
+いいんスか、いただいちゃっても」
+> CONTEXT: Map026/events/3/pages/2/149/Dialogue
+\\N[12]. 「Huh! It smells fragrant and tasty.
+No matter what, even if you get it」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「もちろんだぜ、あんたは頑張ってくれてるしな。
+こいつを食って体力つけて、残りの魚集めを頼むぜ」
+> CONTEXT: Map026/events/3/pages/2/153/Dialogue
+Aaron. 「Of course, you are doing my best.
+Eat this guy, put on your strength and ask for the
+remaining fish collection」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとうございまっす！
+そんじゃ、いただきます！」
+> CONTEXT: Map026/events/3/pages/2/157/Dialogue
+\\N[12]. 「Thank you very much! Then, let's have it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、うまいっ！　すげえ香ばしさだ！
+カリカリとした皮の内側にジューシーでほっくりとした身、という
+最高の食感もさることながら――
+> CONTEXT: Map026/events/3/pages/2/165/Dialogue
+\\N[12]. 「Uma! It's awesome! Juicy and exquisite inside
+the skin. While noticing the best texture -#MTLed
+> END STRING
+
+> BEGIN STRING
+驚異的なのは魚の旨味が完璧に閉じ込められていることだ！
+焼き加減も最高だが、それだけじゃこの食感は実現できない……
+そ、そうか！　これはコーティングの小麦粉が特別なのか！
+バターとオイルのバランスもよく、最高の食感が実現されている！」
+> CONTEXT: Map026/events/3/pages/2/170/Dialogue
+The phenomenal thing is that the umami of the fish is
+trapped perfectly! The baking is also the best, but it can
+not be realized just that...... I see. Is this the
+special flour of the coating! The balance of butter and oil
+is good, the best texture is realized!」#MTLed
+> END STRING
+
+> BEGIN STRING
+客
+「な、なあマスター、俺にもパルムフィッシュのムニエルを
+作ってくれないか？」
+> CONTEXT: Map026/events/3/pages/2/188/Dialogue
+A customer. 「? Master, I also took palm fish meunière
+Can you make it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+客
+「こっちも追加で、その料理を頼む！」
+> CONTEXT: Map026/events/3/pages/2/192/Dialogue
+A customer. 「Again, I will ask for that dish!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「なあ\\N[12]さんよ、
+あんた、定期的にウチの店に食いに来てくれねぇか？」
+> CONTEXT: Map026/events/3/pages/2/196/Dialogue
+Aaron. 「Hey \\N[12] Mr. Would you like to visit our
+store regularly?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へ？　いいけど、なんで？」
+> CONTEXT: Map026/events/3/pages/2/200/Dialogue
+\\N[12]. 「? It's good, but why?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「あんたみたいな人がいると、
+いい客引きになるからさ。
+わははははっ！」
+> CONTEXT: Map026/events/3/pages/2/203/Dialogue
+Aaron. 「When someone like you is there, It will be a good
+customer deal. Waahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よ、よくわからんけど……
+こんな美味い料理が食えるなら、毎日でも通うぜ！」
+> CONTEXT: Map026/events/3/pages/2/208/Dialogue
+\\N[12]. 「Okay, I do not understand well ....
+If you can eat such delicious food, you can go on a daily
+basis!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はマディンフィッシュを渡した。
+> CONTEXT: Map026/events/3/pages/2/234/Dialogue
+\\N[12] I handed maduin fish.#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ほほう、青魚か。
+なかなか肉厚だし、いい魚じゃないか」
+> CONTEXT: Map026/events/3/pages/2/237/Dialogue
+Aaron. 「hohoh, blue fish? It's quite thick and it's a nice
+fish.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「マディンフィッシュっていうらしい。
+海釣りに詳しい人から教えてもらって釣ったんだ。
+身がプリプリしてておいしいんだってさ」
+> CONTEXT: Map026/events/3/pages/2/241/Dialogue
+\\N[12]. 「It seems to be maduin fish. I got taught from
+people familiar with sea fishing and caught it.
+It is delicious to be oneself」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ふむ、そいつは楽しみだ。
+とりあえず塩焼きにしてみよう、
+まず食べごたえを確かめてみないとなあ」
+> CONTEXT: Map026/events/3/pages/2/246/Dialogue
+Aaron. 「Hmm, I'm looking forward to it. Let's try
+salt-baking for the time being, I hope to see how good you
+eat」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「よし、できた。
+そんじゃ\\N[12]よ、一緒に食ってみるとしよう」
+> CONTEXT: Map026/events/3/pages/2/256/Dialogue
+Aaron. 「OK, I made it. Then \\N[12] Let's try eating
+together」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺も食っていいんスか？
+やったぜ、そんじゃいただきまーす」
+> CONTEXT: Map026/events/3/pages/2/260/Dialogue
+\\N[12]. 「Am I supposed to eat too? I did it, you gotta
+do it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、おお……！　こりゃうまい！
+いい魚だ、本当に身が肉厚で、しかもジューシー！
+甘みがあってコクのある味わいが素晴らしいなあ」
+> CONTEXT: Map026/events/3/pages/2/272/Dialogue
+\\N[12]. 「Oh, oh ...! This is good! It's a nice fish,
+it's really thick and juicy! I have a sweet taste and a
+rich taste is wonderful」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ううむ……これは本当にいい魚だ。これがレストンの海魚か。
+旨味が詰まっているような味わいで自己主張が強いから、
+シンプルな調理法以外を試そうとすると難しい魚かもしれんが……」
+> CONTEXT: Map026/events/3/pages/2/277/Dialogue
+Aaron. 「No...this is a really nice fish. Is this a
+Reston sea fish? Since self-assertiveness is strong with
+the taste that the taste is full, It might be a difficult
+fish to try other than simple recipes ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「だが、こういう魚だからこそ料理人の腕が試されるってもんだ。
+こいつは面白い、いい魚を見つけてきてくれたぜ！
+ありがとうよ、\\N[12]！」
+> CONTEXT: Map026/events/3/pages/2/282/Dialogue
+Aaron. 「However, it is because these fish are trying out
+the chef's arm. This guy has found an interesting, nice
+fish! Thank you, \\N[12] !」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おお、それじゃあ、この魚で依頼はＯＫってことかい？」
+> CONTEXT: Map026/events/3/pages/2/287/Dialogue
+\\N[12]. 「Oh, then is this fish a request OK?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「もちろんだ！
+こいつで最高の魚料理を作ってみせるぜ！」
+> CONTEXT: Map026/events/3/pages/2/290/Dialogue
+Aaron. 「of course! Let's make the best fish dishes with
+this guy!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はレストニアオクトパスを渡した。
+> CONTEXT: Map026/events/3/pages/2/357/Dialogue
+> CONTEXT: Map026/events/3/pages/5/254/Dialogue
+\\N[12] I handed the restonian octopus.#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ほう、タコか。なかなか大きくて身もしっかりしている。
+ただ、魚というには少し違うなあ」
+> CONTEXT: Map026/events/3/pages/2/360/Dialogue
+Aaron. 「Huh, octopus. I am quite big and I am firm.
+Just a bit different to say fish」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、やっぱり？
+俺もこれはちょっと違うなって思ってたんだよ」
+> CONTEXT: Map026/events/3/pages/2/364/Dialogue
+\\N[12]. 「Oh, after all? I thought this was a bit
+different」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「とはいえ、これはこれで面白い！
+タコは海でしか捕れないからな、これも料理に使ってみよう。
+今すぐ試作品を作ってみるから、あんた食ってみるかい？」
+> CONTEXT: Map026/events/3/pages/2/368/Dialogue
+Aaron. 「However, this is interesting with this!
+Octopus can only be caught in the sea, let's try using it
+for cooking as well. I will try making a prototype now, so
+why do not you try eating?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、いいのかい？
+それじゃ遠慮なく」
+> CONTEXT: Map026/events/3/pages/2/373/Dialogue
+> CONTEXT: Map026/events/3/pages/5/270/Dialogue
+\\N[12]. 「Will you do it? Then do not hesitate」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「タコや貝類、それに川魚などの魚介を野菜と混ぜ、
+シンプルに塩やバジルなどの調味料で炒めた料理さ」
+> CONTEXT: Map026/events/3/pages/2/392/Dialogue
+Aaron. 「Mix octopus and shellfish, and fish such as river
+fish with vegetables, Simply cooked with seasoning such as
+salt and basil」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おおっ、いい香りだ。それに、ボリュームがすごい！
+これだけあれば大の男でも腹いっぱいだぜ！」
+> CONTEXT: Map026/events/3/pages/2/396/Dialogue
+> CONTEXT: Map026/events/3/pages/5/294/Dialogue
+\\N[12]. 「It is a good smell. Also, the volume is
+amazing! Even a big guy is full of belly if this is enough!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「んじゃ、いただきまーす」
+> CONTEXT: Map026/events/3/pages/2/400/Dialogue
+> CONTEXT: Map026/events/3/pages/5/298/Dialogue
+\\N[12]. 「Hey, you get it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、うめえぇっ！　タコはもちろん、貝や白身魚などの
+魚介が織りなす弾力に満ちた食感のハーモニーが素晴らしい！
+その上、この絶妙な塩加減――
+> CONTEXT: Map026/events/3/pages/2/407/Dialogue
+> CONTEXT: Map026/events/3/pages/5/305/Dialogue
+\\N[12]. 「Well, yeah yeah! Octopus as well as shellfish
+and white fish. The harmony of the texture full of
+resilience that seafood weaves is wonderful!
+Besides, this exquisite salty -#MTLed
+> END STRING
+
+> BEGIN STRING
+なるほど、海鮮には塩が最も相性のいい調味料だ。
+最小限の調味に抑えつつ、素材の旨味をとことん引き出している！
+しかもこの、適度に焦げ目のついた焼き加減、なんて香ばしさだ！
+これほどの量なのに食っていて全然飽きが来ない！」
+> CONTEXT: Map026/events/3/pages/2/412/Dialogue
+> CONTEXT: Map026/events/3/pages/5/310/Dialogue
+Indeed, salt is the most compatible seasoning for seafood.
+While restraining to the minimum seasoning, we fully
+withdraw the taste of the material! Besides, this grilled
+seasoning with moderately browned seaweed, it is fragrant!
+Even though it is such an amount, I do not get tired at
+all!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「そうかそうか、うまいか！
+タコの食感が特にいいアクセントになっているだろう、
+川の魚介にはない強い弾力があるからな」
+> CONTEXT: Map026/events/3/pages/2/417/Dialogue
+Aaron. 「I heard that it is OK or good! The octopus texture
+would be a particularly good accent, Because there is a
+strong elasticity not on the river's fish」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、まったくもって美味いぜ。
+ただ――」
+> CONTEXT: Map026/events/3/pages/2/422/Dialogue
+\\N[12]. 「Oh, it's delicious at all. However--」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ん？　どうした」
+> CONTEXT: Map026/events/3/pages/2/426/Dialogue
+Aaron. 「Hmm? What happened」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「タコは海、それ以外の具は川の幸だ。
+そこに少々の野菜を加えて調和を取ろうとしている、それは分かる。
+だが、実際は川魚のさっぱりした味わいが先立ち――
+> CONTEXT: Map026/events/3/pages/2/429/Dialogue
+\\N[12]. 「Octopus is the sea, and the rest are the
+fortune of the river. I am trying to get harmony by adding
+a few vegetables there, I know. However, in fact the
+refreshing taste of river fish preceded -#MTLed
+> END STRING
+
+> BEGIN STRING
+料理としては淡白さがやや感じられてしまう仕上がりなんだ。
+たぶんこれはタコだけが海の幸であるせいだ。
+海魚が混じっていれば、もっとバランスが取れて
+双方の特徴がより引き立った味わいになっていたかもしれない」
+> CONTEXT: Map026/events/3/pages/2/434/Dialogue
+As a dish it is a finish that felt slightly felt.
+Perhaps this is because octopus is the only octopus.
+If the sea fish are mixed, it is more balanced
+The characteristics of both sides may have been more
+appealing to the taste」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ほほう、お前さん、意外にいい舌をしているな。
+この料理の問題点に気づくとは、
+ただの腕自慢じゃあねぇようだ」
+> CONTEXT: Map026/events/3/pages/2/439/Dialogue
+Aaron. 「hohoh, you have a surprisingly good tongue.
+To notice the problems of this dish means that,
+It seems that he is not just proud of his arm.」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「お察しの通り、この料理はまだまだ未完成だ。
+だが、海魚をお前さんが持ってきてくれれば――」
+> CONTEXT: Map026/events/3/pages/2/444/Dialogue
+Aaron. 「As you can imagine, this dish is incomplete.
+But if you bring me a seafood -」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうかっ！
+完璧な海鮮炒めへと変貌するってわけだな！」
+> CONTEXT: Map026/events/3/pages/2/448/Dialogue
+\\N[12]. 「That's right! It turns into a perfect seafood
+stir-fry!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「そういうこった。
+この料理の完成版を食いたきゃあ、
+いい海魚を捕ってきてくれよな」
+> CONTEXT: Map026/events/3/pages/2/452/Dialogue
+Aaron. 「That's it. After eating the finished version of
+this dish, Please catch good sea fish」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おう、任せてくれ！」
+> CONTEXT: Map026/events/3/pages/2/457/Dialogue
+\\N[12]. 「Oh, leave it to me!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サンゴを渡すif(s[70])
+> CONTEXT: Map026/events/3/pages/2/467/Choice/0
+> CONTEXT: Map026/events/3/pages/5/200/Choice/2
+> CONTEXT: Map026/events/3/pages/5/200/Choice/2
+Pass coralsif(s[70])#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「……おい。
+これを俺にどうしろっていうんだ」
+> CONTEXT: Map026/events/3/pages/2/470/Dialogue
+> CONTEXT: Map026/events/3/pages/5/353/Dialogue
+Aaron. 「……Hey. What do you want me to do with this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「やっぱダメっすかね。
+海で釣ったんですけど」
+> CONTEXT: Map026/events/3/pages/2/474/Dialogue
+> CONTEXT: Map026/events/3/pages/5/357/Dialogue
+\\N[12]. 「I guess you can not do it. I caught it in the
+sea though」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「いやー、さすがにこれは料理できないだろう。
+これは俺のところじゃなく、マルワイク武具店の
+鍛冶コーナーにでも持っていったほうがいいんじゃないか？」
+> CONTEXT: Map026/events/3/pages/2/478/Dialogue
+> CONTEXT: Map026/events/3/pages/5/361/Dialogue
+Aaron. 「Well, you can not cook this indeed.
+This is not me, Marvaick a weapons shop. Is not it better
+to take it to the smith corner?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、そうか。
+装備品に加工してくれるかもしれないな。
+サンキュ、そうしてみるよ」
+> CONTEXT: Map026/events/3/pages/2/483/Dialogue
+> CONTEXT: Map026/events/3/pages/5/366/Dialogue
+\\N[12]. 「Oh, is that so? It may be processed into
+equipment. thanks, I will try that.」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「なんだい、報告できることはないのか？」
+> CONTEXT: Map026/events/3/pages/2/491/Dialogue
+Aaron. 「How can I report it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+料理人アーロン
+「やはり武道大会期間は各国から人が大勢来るなあ。
+料理人として、腕の見せどころだぜ！」
+> CONTEXT: Map026/events/3/pages/3/0/Dialogue
+Cook Aaron. 「After all, I wonder how many people come from
+different countries during the martial arts tournament
+period. As a chef, you can see the arms!」#MTLed
+> END STRING
+
+> BEGIN STRING
+料理人アーロン
+「すまんが、期限が過ぎちまったことだし
+依頼は取り下げさせてもらうぜ」
+> CONTEXT: Map026/events/3/pages/4/0/Dialogue
+Cook Aaron. 「Sorry, but the deadline has passed.
+I will have my request to withdraw my request」#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼：『特別な魚』は
+期限が過ぎたため失敗となります。
+依頼票は所持品から消滅します。
+> CONTEXT: Map026/events/3/pages/4/4/Dialogue
+Request: "Special fish". It will fail because the deadline
+has expired. The request form vanishes from belongings.#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「おう、あんたか。
+料理食ってくか？」
+> CONTEXT: Map026/events/3/pages/5/1/Dialogue
+Aaron. 「Oh, you? Shall I cook?」#MTLed
+> END STRING
+
+> BEGIN STRING
+料理を作ってもらう
+> CONTEXT: Map026/events/3/pages/5/5/Choice/0
+Have cooking made#MTLed
+> END STRING
+
+> BEGIN STRING
+魚を渡す
+> CONTEXT: Map026/events/3/pages/5/5/Choice/1
+Pass fish#MTLed
+> END STRING
+
+> BEGIN STRING
+雑談をする
+> CONTEXT: Map026/events/3/pages/5/5/Choice/2
+To chat#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「今日は無料券でのメニューはもう提供済みだぜ。
+すまないが、注文はまた明日だな」
+> CONTEXT: Map026/events/3/pages/5/8/Dialogue
+> CONTEXT: Map026/events/3/pages/5/379/Dialogue
+Aaron. 「Today I already have a menu with a free ticket.
+Sorry, but the order is tomorrow again」#MTLed
+> END STRING
+
+> BEGIN STRING
+ブイヤベース（攻撃力上昇）
+> CONTEXT: Map026/events/3/pages/5/14/Choice/0
+Bouilla base (Increased attack power)#MTLed
+> END STRING
+
+> BEGIN STRING
+パルムフィッシュのムニエル（防御と魔法防御上昇）
+> CONTEXT: Map026/events/3/pages/5/14/Choice/1
+palm fish meunière (defense and magic defense rise)#MTLed
+> END STRING
+
+> BEGIN STRING
+海鮮炒めif(s[79])（最大体力上昇）
+> CONTEXT: Map026/events/3/pages/5/14/Choice/2
+Stir-fried seafoodif(s[79])(Maximum physical strength increase)#MTLed
+> END STRING
+
+> BEGIN STRING
+マディンフィッシュのフリットサンド（持ち帰り品）
+> CONTEXT: Map026/events/3/pages/5/14/Choice/3
+maduin fish's frit sand (take-back items)#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「おしきた！
+海鮮の旨味が溶け出したスープと、香味野菜の旨味が絡んだ魚介、
+このハーモニーは最高だぜぇ？」
+> CONTEXT: Map026/events/3/pages/5/16/Dialogue
+Aaron. 「Hot pizza! Soup which seaweed's umami melts and
+seafood which involves the flavor of flavored vegetables,
+Why is this harmony the best?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いっただっきまーす！」
+> CONTEXT: Map026/events/3/pages/5/21/Dialogue
+> CONTEXT: Map026/events/3/pages/5/47/Dialogue
+> CONTEXT: Map026/events/3/pages/5/74/Dialogue
+> CONTEXT: Map026/events/3/pages/5/117/Dialogue
+> CONTEXT: Map026/events/3/pages/5/143/Dialogue
+> CONTEXT: Map026/events/3/pages/5/169/Dialogue
+\\N[12]. 「This is it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こいつは最高の汁物だぜ！
+力が体の奥底から湧いてくるようだ！
+うまああぁぁーいッッッ！！！」
+> CONTEXT: Map026/events/3/pages/5/27/Dialogue
+\\N[12]. 「This guy is the best soup! The power seems to
+come from the bottom of the body! Uma Ahhhhhhhhh!!!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の攻撃力が10上がった！
+（上昇は次の宿泊までの間となります）
+> CONTEXT: Map026/events/3/pages/5/33/Dialogue
+\\N[12] The attack power of 10 went up! (The effect will
+last until the next rest)#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「よしきた！
+パルムフィッシュを丸ごとオリーブオイルとバターで焼いた
+自慢の川魚料理だ、こいつは食うと体が強くなるぜぇ！」
+> CONTEXT: Map026/events/3/pages/5/42/Dialogue
+Aaron. 「Alright! I baked whole palm fish with olive oil
+and butter. Boasting river fish dish, this guy will get
+stronger when you eat!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「素晴らしい焼き加減だ！　ほっくりした食感！
+おまけに旨味が完璧に閉じ込められているッ！
+うまああぁぁーいッッッ！！！」
+> CONTEXT: Map026/events/3/pages/5/53/Dialogue
+\\N[12]. 「It's a wonderful grill! A sense of ecstasy!
+Besides, the umami is confined perfectly!
+Uma Ahhhhhhhhh!!!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の防御力と魔法防御力が5が上がった！
+（上昇は次の宿泊までの間となります）
+> CONTEXT: Map026/events/3/pages/5/59/Dialogue
+\\N[12] Defense power and magic defense power have
+increased by 5! (The effect will last until the next rest)#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「タコやマディンフィッシュを中心とした海鮮と、
+貝類や川魚、香味野菜なんかを混ぜて炒めた料理だぜ！
+スタミナをつけるには最適だ！」
+> CONTEXT: Map026/events/3/pages/5/69/Dialogue
+Aaron. 「Sea fish, mainly octopus and maduin fish,
+It's a cooked dish that mixes shellfish, river fish,
+flavored vegetables or something! Ideal for wearing
+stamina!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「香ばしく炒められたタコや魚の食感が最高だ！
+しかもボリューム満点！
+うまああぁぁーいッッッ！！！」
+> CONTEXT: Map026/events/3/pages/5/80/Dialogue
+\\N[12]. 「Feeling of octopus and fish which are
+fragrantly fried is the best! Moreover, the volume full
+point! Uma Ahhhhhhhhh!!!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の最大体力が200が上がった！
+（上昇は次の宿泊までの間となります）
+> CONTEXT: Map026/events/3/pages/5/86/Dialogue
+> CONTEXT: Map026/events/3/pages/5/341/Dialogue
+\\N[12] The maximum physical strength of 200 has risen!
+(The effect will last until the next rest)#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「マディンフィッシュの揚げ物をサンドイッチにしたものさ。
+持ち帰り品だから、好きなタイミングで食ってくれ」
+> CONTEXT: Map026/events/3/pages/5/95/Dialogue
+Aaron. 「It is a sandwich of maduin fish fried food.
+Because it is a takeaway item, please eat at your favorite
+timing」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こいつは美味そうだ！
+体力だけでなく、気力も回復しそうだな！」
+> CONTEXT: Map026/events/3/pages/5/99/Dialogue
+\\N[12]. 「This guy looks delicious! It seems that not
+only physical strength but also energy will recover!」#MTLed
+> END STRING
+
+> BEGIN STRING
+マディンフィッシュのフリットサンドを手に入れた！
+> CONTEXT: Map026/events/3/pages/5/104/Dialogue
+I got a frit sand of maduin fish!#MTLed
+> END STRING
+
+> BEGIN STRING
+ダイントラウトの塩焼き（魔法力上昇）
+> CONTEXT: Map026/events/3/pages/5/110/Choice/0
+Salt-grilling of dyne trout (rising magical power)#MTLed
+> END STRING
+
+> BEGIN STRING
+トマトベースのシーフードパスタif(s[79])（最大精神力上昇）
+> CONTEXT: Map026/events/3/pages/5/110/Choice/1
+Tomato based seafood pastaif(s[79])(Maximum mental strength increase)#MTLed
+> END STRING
+
+> BEGIN STRING
+ヘデルグレープのワイン（吸われたパラメータ回復）
+> CONTEXT: Map026/events/3/pages/5/110/Choice/2
+Hederg grape wine (sucked parameter recovery)#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ダイントラウトは強い魔力を内包した川魚だ。
+パルムフィッシュと食感が大きく違う！
+塩焼きが一番ウマい魚だぜ！」
+> CONTEXT: Map026/events/3/pages/5/112/Dialogue
+Aaron. 「dyne trout is a river fish that contains strong
+magical powers. Palm fish and texture are very different!
+Salt-grill is the most fishy fish!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「身が締まっていて歯ごたえのある食感が素晴らしい！
+青臭い香りと香ばしさが相まって、飽きのこない味わいだ！
+うまああぁぁーいッッッ！！！」
+> CONTEXT: Map026/events/3/pages/5/123/Dialogue
+\\N[12]. 「The taste and crisp texture is wonderful!
+Combined with the smell of fragrance and fragrance, it's a
+taste that does not get tired! Uma Ahhhhhhhhh!!!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の魔法力が20が上がった！
+（上昇は次の宿泊までの間となります）
+> CONTEXT: Map026/events/3/pages/5/129/Dialogue
+\\N[12] The magical power of 20 got up! (The effect will
+last until the next rest)#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「おしきた！
+海鮮をトマトソースと混ぜ合わせ、
+パスタと絡めた一品だぜ！」
+> CONTEXT: Map026/events/3/pages/5/138/Dialogue
+Aaron. 「Hot pizza! Mix seafood with tomato sauce,
+It's a dish tangled with pasta!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「海鮮のダシが溶け出したトマトソースの風味が食欲をそそる！
+パスタとの相性は抜群だぜ！
+うまああぁぁーいッッッ！！！」
+> CONTEXT: Map026/events/3/pages/5/149/Dialogue
+\\N[12]. 「The flavor of tomato sauce which seaweed duck
+melts out appetizes! Compatibility with pasta is
+outstanding! Uma Ahhhhhhhhh!!!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の最大精神力が20上がった！
+（上昇は次の宿泊までの間となります）
+> CONTEXT: Map026/events/3/pages/5/155/Dialogue
+\\N[12] The maximum mental power of 20 has risen!
+(The effect will last until the next rest)#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「こいつは南の王国にあるヘデル村特産のブドウから作った
+特別なワインだ。
+失われた能力値を取り戻す効果があるぜ」
+> CONTEXT: Map026/events/3/pages/5/164/Dialogue
+Aaron. 「This was made from grapes of Heder village
+specialty in the southern Kingdom. It is a special wine.
+It has the effect of regaining the lost ability value」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ヘデルグレープの芳醇な甘みと絶妙な酸味が混じり合った
+絶品のワインだ！
+失った力が、再び体の底から蘇ってくるのを感じるぜ……！」
+> CONTEXT: Map026/events/3/pages/5/175/Dialogue
+\\N[12]. 「The rich sweetness of Hederggrape and
+exquisite acidity were mixed. It is an exquisite wine!
+I feel that the lost power reappears from the bottom of my
+body ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の低下していたステータスが元に戻った！
+（ドレインされていた能力値が回復。
+ただし、レベルドレインは回復しません）
+> CONTEXT: Map026/events/3/pages/5/181/Dialogue
+\\N[12] The reduced status returned to original!
+(The ability value which was drained is recovered.
+However, the level drain does not recover)#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「いや、これはこれでいい魚さ。
+パルムフィッシュのムニエルはウチの看板料理の1つだし、
+無料券でも食えるから、いつでも注文してみてくれ。うまいぜ？」
+> CONTEXT: Map026/events/3/pages/5/229/Dialogue
+Aaron. 「No, this is a nice fish. palm fish meunière is one
+of my favorite signboard dishes, Even free tickets can be
+eaten, so please try ordering anytime. It's nice.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へー、そうなのか、美味い魚なんだな」
+> CONTEXT: Map026/events/3/pages/5/234/Dialogue
+\\N[12]. 「Well, I guess it's a delicious fish」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「とりあえず、このパルムフィッシュもウチで買い取るぜ。
+相場通りの値段だと、こんなもんかな」
+> CONTEXT: Map026/events/3/pages/5/237/Dialogue
+Aaron. 「I'll buy this palm fish for the time being.
+It's a price as it is, it's like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+100G 貰った。
+> CONTEXT: Map026/events/3/pages/5/241/Dialogue
+I got 100 g.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「アーロンさん、海で面白いものを捕ってきたぜ」
+> CONTEXT: Map026/events/3/pages/5/247/Dialogue
+\\N[12]. 「Aaron-san, I caught something interesting in
+the sea」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ほほう、どんなもんだ？
+見せてくれ」
+> CONTEXT: Map026/events/3/pages/5/250/Dialogue
+> CONTEXT: Map026/events/3/pages/5/431/Dialogue
+Aaron. 「hohoh, what kind? Please show me」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ほう、タコか。なかなか大きくて身もしっかりしている。
+こいつは料理のしがいがありそうだぜ。
+レストンの海はこんなものまで捕れるのか」
+> CONTEXT: Map026/events/3/pages/5/257/Dialogue
+Aaron. 「Huh, octopus. I am quite big and I am firm.
+This seems to be a dish of cooking. Is Reston's ocean
+caught like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうかな、いい料理できるんじゃないかと思ったんだけど」
+> CONTEXT: Map026/events/3/pages/5/262/Dialogue
+\\N[12]. 「I was wondering if I could do a good cuisine」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「もちろんだぜ、マディンフィッシュと組み合わせることで
+最高の料理が作れるぜ、こりゃあ！
+今すぐ試作品を作ってみるから、あんた食ってみるかい？」
+> CONTEXT: Map026/events/3/pages/5/265/Dialogue
+Aaron. 「Of course, by combining with maduin fish
+I can make the best dish, surely! I will try making a
+prototype now, so why do not you try eating?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「タコとマディンフィッシュ、
+それに貝類や川魚などの魚介を香味野菜と混ぜ、
+シンプルに塩やバジルなどの調味料で炒めた料理さ」
+> CONTEXT: Map026/events/3/pages/5/289/Dialogue
+Aaron. 「Octopus and maduin fish, Also mix seafood such as
+shellfish and river fish with flavored vegetables,
+Simply cooked with seasoning such as salt and basil」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「そうかそうか、うまいか！
+タコの食感が特にいいアクセントになっているだろう？」
+> CONTEXT: Map026/events/3/pages/5/315/Dialogue
+Aaron. 「I heard that it is OK or good! Is octopus' texture
+a particularly good accent?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、まったくもって美味いぜ。
+マディンフィッシュのまろやかな味わいとも相性が最高で、
+海の幸のコクと川の幸のさっぱり加減が絶妙に融合している！」
+> CONTEXT: Map026/events/3/pages/5/319/Dialogue
+\\N[12]. 「Oh, it's delicious at all. It is compatible
+with the mellow flavor of maduin fish, The richness of the
+seafood and the richness of the river's happiness are
+exquisitely blended!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「満足してくれたようで嬉しいぜ！
+こいつを手始めに、海の幸を使った料理を
+武道大会に向けてどんどん開発していくつもりさ！」
+> CONTEXT: Map026/events/3/pages/5/324/Dialogue
+Aaron. 「It feels good to me and I'm glad!
+To start with this, cooking with seafood fortune
+I am going to develop more and more toward martial arts
+tournament!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「すげえなあ、俺もアーロンさんのために
+頑張ってみて良かったぜ、こんな美味いものを食えるんだもんな。
+力が湧いてきて、今ならいつも以上の力が出せそうだぜ」
+> CONTEXT: Map026/events/3/pages/5/329/Dialogue
+\\N[12]. 「Oh supposed to be, for me too Aaron-san
+It was good to try hard, you can eat such a delicious
+thing. The power has gotten on, and now it seems that you
+can get more power than usual」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ちなみに、今の料理は無料券で注文できるメニューに
+追加しておくから、いつでも食いに来てくれよな！」
+> CONTEXT: Map026/events/3/pages/5/334/Dialogue
+Aaron. 「By the way, the menu of the present dishes can be
+ordered with free tickets. I will add it, so come over to
+eat anytime!」#MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケンの脚を渡すif(s[360])
+> CONTEXT: Map026/events/3/pages/5/374/Choice/0
+> CONTEXT: Map026/events/3/pages/5/374/Choice/0
+Pass Kraken's legsif(s[360])#MTLed
+> END STRING
+
+> BEGIN STRING
+渡せるものはない
+> CONTEXT: Map026/events/3/pages/5/374/Choice/1
+> CONTEXT: Map026/events/3/pages/5/374/Choice/1
+There is nothing to give#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「アーロンさん、クラーケンの脚を持ってきたぜ！
+こいつでクラーケンとムール貝の
+トマトソース煮込みを作ってくれ！」
+> CONTEXT: Map026/events/3/pages/5/385/Dialogue
+\\N[12]. 「Aaron-san, I brought Kraken's legs!
+With this fellowship of Kraken and Mussels
+Make me stew!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「おう、任せとけ！
+こいつを食えば、それこそクラーケンのように
+強靭で耐久力のある体になることだろうぜ！」
+> CONTEXT: Map026/events/3/pages/5/390/Dialogue
+Aaron. 「Oh, leave it to me! If you eat this, it is like
+Kraken. It will be tough and durable body!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「肉厚のイカ脚とトマトソース、
+それに中に詰められたライスの相性のいいことといったら！
+うまあああーーーいっ！」
+> CONTEXT: Map026/events/3/pages/5/398/Dialogue
+\\N[12]. 「Thick squid legs and tomato sauce,
+Besides, it is said that the compatibility of rice packed
+in it is good! Umaha ahーーーーーー ー!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の最大体力が100、
+防御力が5上がった！
+（上昇は次の宿泊までの間となります）
+> CONTEXT: Map026/events/3/pages/5/406/Dialogue
+> CONTEXT: Map026/events/3/pages/5/516/Dialogue
+\\N[12] Maximum physical strength of 100,
+Defense power has increased by 5! (The effect will last
+until the next rest)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（クラーケンの脚は持ってないぜ。
+クラーケン料理を作ってもらいたかったら、
+狩ってこないといけないな）
+> CONTEXT: Map026/events/3/pages/5/418/Dialogue
+\\N[12]. (I do not have the legs of Kraken.
+If you would like to make Kraken cuisine,
+I have to hunt)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「アーロンさん、珍しいものがあるぜ」
+> CONTEXT: Map026/events/3/pages/5/428/Dialogue
+\\N[12]. 「Aaron-san, there's something unusual」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はクラーケンの脚を渡した。
+> CONTEXT: Map026/events/3/pages/5/435/Dialogue
+\\N[12] He handed the legs of Kraken.#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「く、クラーケン？
+あのイカの化け物か？
+ほー、よくもまあ、あんなものを退治できたもんだなあ」
+> CONTEXT: Map026/events/3/pages/5/438/Dialogue
+Aaron. 「Kuraken? Is that a cuttlefish? Well, well, well, I
+thought you could have killed such things」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いやあ、強かったぜー
+それはそうと、これは料理になるかい？」
+> CONTEXT: Map026/events/3/pages/5/443/Dialogue
+\\N[12]. 「Well, I was strong. If that is the case, will
+this be cooking?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「そうだなあ、扱ったことはないが
+何とか料理してみよう。
+イカの要領でどうにかなるだろう」
+> CONTEXT: Map026/events/3/pages/5/447/Dialogue
+Aaron. 「That's right, I have not dealt with it
+Let's try cooking somehow. I will manage in the way of
+squid」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「待たせたな、クラーケンとムール貝の
+トマトソース煮込みだ。
+クラーケンの脚はデカイから、中にライスを詰めてみたぜ」
+> CONTEXT: Map026/events/3/pages/5/468/Dialogue
+Aaron. 「I kept you waiting, Kraken and mussels
+It 's simmered in tomato sauce. Kraken 's legs are from the
+deck, I tried packing rice inside」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おおっ、豪快なようで考えられた料理だ。
+いっただっきまーす！」
+> CONTEXT: Map026/events/3/pages/5/473/Dialogue
+\\N[12]. 「It is a cuisine thought that seems to be
+amazing. This is it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、うまいっ！
+クラーケンの脚のプリプリとした食感がたまらない！
+> CONTEXT: Map026/events/3/pages/5/481/Dialogue
+\\N[12]. 「Uma! The texture of Kraken 's legs is
+unbearable!#MTLed
+> END STRING
+
+> BEGIN STRING
+さらに、トマトソースはもちろん、ムール貝の味わいが
+ほどよくクラーケンの身になじみ、
+その風味を引き出してもいて実にうまい！
+おまけにイカの中に詰められたライス！
+> CONTEXT: Map026/events/3/pages/5/485/Dialogue
+In addition, tomato sauce as well as the taste of mussels
+Moderately familiar with Kraken, It draws its flavor and it
+is really good! Also rice packed in squid!#MTLed
+> END STRING
+
+> BEGIN STRING
+海鮮ダシの染み出したトマトスープが味付けとなって
+最高にうまいし、腹も満たされる！
+こいつはいいぜ、アーロンさん！」
+> CONTEXT: Map026/events/3/pages/5/490/Dialogue
+The tomato soup which seeped out of the seafood dish became
+seasoned. It is good to the highest, the belly is also
+satisfied! This is good, Aaron-san!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「そうかそうか、楽しんでくれて何よりだ！
+だが、こいつは材料の安定的な確保が困難だ。
+メニューに加えるのは無理だなあ……」
+> CONTEXT: Map026/events/3/pages/5/494/Dialogue
+Aaron. 「I heard that it is, thank you for having fun!
+However, it is difficult to secure the material stably.
+It is impossible to add it to the menu ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そっか、俺が持ってきた分しかないのか……
+だが、今後もこうやってクラーケンの脚を持ってきたら
+またこいつを作ってくれるのかい？」
+> CONTEXT: Map026/events/3/pages/5/499/Dialogue
+\\N[12]. 「Well, there is only the part I brought ......
+But in the future I will bring Kraken's legs
+Will you make this one again?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「ああ、そいつはいつでもＯＫさ。
+これが食いたければ、またクラーケンの脚を
+持ってきてくれよな」
+> CONTEXT: Map026/events/3/pages/5/504/Dialogue
+Aaron. 「Oh, he's OK anytime. If this wants to eat, I will
+also try Kraken 's legs. Please bring it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかったぜ！」
+> CONTEXT: Map026/events/3/pages/5/509/Dialogue
+\\N[12]. 「I understand!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「おう\\N[12]、大会優勝おめでとさん。
+これもウチの料理で栄養をつけたおかげかな？
+ガハハハ！」
+> CONTEXT: Map026/events/3/pages/5/533/Dialogue
+Aaron. 「Ou \\N[12] Tournament winning you
+congratulations. Is this thanks to nutrition with our
+cuisine? Gahahaha!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アーロン
+「今年の大会も各国から出場選手が来るみたいだな。
+俺にとっちゃ客が増えて万々歳だが、
+\\N[12]のような出場者にとっちゃ大変だよなぁ」
+> CONTEXT: Map026/events/3/pages/5/540/Dialogue
+Aaron. 「It seems that this year's tournament also comes
+from participating players from various countries.
+I have more customers and more than a million years old,
+\\N[12] It is hard for contestants like」#MTLed
+> END STRING
+
+> BEGIN STRING
+漁師
+「アーロンの料理は最高にウマい！
+こんなのを作ってくれるなら、毎日汗水流して
+魚を獲ってくる甲斐がある、ってもんだぜ！」
+> CONTEXT: Map026/events/4/pages/0/0/Dialogue
+Fisherman. 「The dishes of Aaron are the best at ease!
+If you make this, sweat away every day. It is worthwhile to
+win fish, I guess!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「王宮の料理よりウマいんだよなぁ、ここ……
+非番の日はこっちに足が向いちゃうぜ」
+> CONTEXT: Map026/events/16/pages/0/0/Dialogue
+royal guard. 「It's more horrible than the royal cuisine,
+here...... I'm going to go over here on a day off duty」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「魚料理はこの国の名物ではあるが、
+ここまで素材を活かしたものを出せる料理人は
+アーロンぐらいのものだろう」
+> CONTEXT: Map026/events/17/pages/0/0/Dialogue
+royal guard. 「Fish dishes are a specialty of this country,
+The chef who can make something that makes use of the
+material so far. It's about Aaron」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「この店は料理もいいが、正直……
+看板娘のミリーナちゃん目当てで来る客も多いんだ。
+かくいう私もその一人でね」
+> CONTEXT: Map026/events/18/pages/0/0/Dialogue
+A soldier. 「This restaurant has good food, but honest ...
+.... Many visitors come to see the signboard girl
+Mileena-chan. I alone can do it alone」#MTLed
+> END STRING
+
+> BEGIN STRING
+サムライ
+「ほほう、我が故国も魚はよく食しますが
+料理法が違っていて面白いですなあ」
+> CONTEXT: Map026/events/18/pages/1/0/Dialogue
+Samurai. 「hohoh, my home country also eats fish often
+It is interesting that the cooking method is different」#MTLed
+> END STRING
+
+> BEGIN STRING
+ウェイトレス・ミリーナ
+「いらっしゃいませ～！
+当レストランの川魚料理は
+すっごくおいしいですよ♪」
+> CONTEXT: Map026/events/19/pages/0/0/Dialogue
+Waitress · Mileena. 「Welcome ~!
+The river fish dish of this restaurant
+It's very tasty.♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ウェイトレス・ミリーナ
+「いらっしゃいませ～！
+ゆっくり食べていってくださいね！」
+> CONTEXT: Map026/events/19/pages/1/0/Dialogue
+Waitress · Mileena. 「Welcome ~!
+Please eat slowly!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ウェイトレス
+「いらっしゃいませー！」
+> CONTEXT: Map026/events/19/pages/2/0/Dialogue
+> CONTEXT: Map026/events/19/pages/3/0/Dialogue
+waitress. 「welcome!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「ほらほら、あんまり夢中になるから
+こぼしてしまっているじゃないか」
+> CONTEXT: Map026/events/23/pages/0/0/Dialogue
+male. 「oh no, because I get very crazy. You have spilled
+it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「おさかな、おいしいいぃーーッ！」
+> CONTEXT: Map026/events/24/pages/0/0/Dialogue
+girl. 「Fish, delicious!」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「こいつは最高だぜ！
+デートにここを選んで正解だったなぁ」
+> CONTEXT: Map026/events/25/pages/0/0/Dialogue
+Youth. 「This guy is the best! I chose this date and it was
+the correct answer」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「おいしぃ～！
+こんな名店を知っているだなんて、
+彼のこと見直しちゃった♪」
+> CONTEXT: Map026/events/26/pages/0/0/Dialogue
+girl. 「Delicious ~! To know such a famous store,
+I reviewed about him♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「武道大会の時期は観光客が増えるが、
+この店は町外れにあるせいか、地元民しか来ない感じだ。
+快適だが、ちょっともったいない気もするんだよね」
+> CONTEXT: Map026/events/27/pages/0/0/Dialogue
+Youth. 「Tourists will increase during the period of
+martial arts tournament, Because this shop is out of town,
+it seems that only local people come. It's comfortable, but
+I feel a little wasteable」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「今年はお客が多いなあ。
+外国の人たちにもアピールできる料理が
+増えたおかげかもしれないね」
+> CONTEXT: Map026/events/27/pages/1/0/Dialogue
+Youth. 「There are many customers this year.
+Cooking that can appeal to foreigners. It may be because of
+the increase」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「この店も、大会が終わって
+また元通りの憩いの場に戻ったね」
+> CONTEXT: Map026/events/27/pages/2/0/Dialogue
+Youth. 「Also at this store, the tournament is over
+I returned to the rest of the place for rest」#MTLed
+> END STRING
+
+> BEGIN STRING
+太った人
+「ウェイトレスのミリーナちゃんは中央区の武具店の娘なんだけど
+実家の経営が苦しいからって、この店でも働いているんだよ。
+苦しい顔ひとつ見せないのがすごいよね」
+> CONTEXT: Map026/events/28/pages/0/0/Dialogue
+A fat man. 「Waitress's Mileena-chan is the daughter of the
+arms shop in Chuo-ku. I am working at this shop because my
+parents' management is painful. It is amazing not to show
+one painful face」#MTLed
+> END STRING
+
+> BEGIN STRING
+太った人
+「おっ、ミリーナちゃん、
+またこの店にも顔を出してくれよな」
+> CONTEXT: Map026/events/28/pages/1/0/Dialogue
+A fat man. 「Oh, Mileena-chan, Please give your face to
+this shop again」#MTLed
+> END STRING
+
+> BEGIN STRING
+商人
+「これから武道大会が始まれば、我々のような者は
+一気に忙しくなります。その前に英気を養わねば」
+> CONTEXT: Map026/events/29/pages/0/0/Dialogue
+merchant. 「Now that martial arts tournament begins, people
+like us are. I will be busy at once. Before that we must
+cultivate our spirit」#MTLed
+> END STRING
+
+> BEGIN STRING
+商人
+「武道大会も終わり、私もまた他国に行商に行かねば。
+その前にここで栄養をつけているところです」
+> CONTEXT: Map026/events/29/pages/1/0/Dialogue
+merchant. 「The martial arts tournament is over and I have
+to go to another country for peddling. Before that I am
+nourishing it here」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]文字色テスト中　C1
+\\C[2]まだまだテスト中　C2赤
+\\C[3]もいっちょテスト中　C3
+\\C[4]最後　C4
+> CONTEXT: Map026/events/31/pages/0/0/Dialogue
+\\C[1]Text color Under test C1. \\C[2]Testing C2 Red
+\\C[3]It is also being tested C3. \\C[4]Last C4#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[5]　おまけ c5
+\\C[6]　おまけ c6
+\\C[7]　おまけ c7
+\\C[8]　おまけ c8
+> CONTEXT: Map026/events/31/pages/0/5/Dialogue
+> CONTEXT: Map007/events/7/pages/0/5/Dialogue
+\\C[5]Extra c5. \\C[6]Extra c6. \\C[7]Extra c 7
+\\C[8]Extra c8#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[0]元に戻る？
+> CONTEXT: Map026/events/31/pages/0/10/Dialogue
+> CONTEXT: Map007/events/7/pages/0/10/Dialogue
+\\C[0]Return to the original?#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「こいつは素晴らしいなあ、
+エルミアの魚料理、噂には聞いていたが、これほどとは」
+> CONTEXT: Map026/events/32/pages/0/0/Dialogue
+Warrior. 「This guy is wonderful, I was listening to
+Elmier's fish dishes, rumors, but with this much」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法使い
+「こんな庶民的でおいしいレストランがあるのね。
+武道大会以外のときも
+エルミアに足を運びたくなっちゃうわねぇ」
+> CONTEXT: Map026/events/35/pages/0/0/Dialogue
+Witch. 「There is such a popular and tasty restaurant.
+Even when it is not a martial arts tournament
+I do not want to go to Elmia」#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「これはスタミナがつくなあ！
+エルミアの魚料理は素晴らしい！」
+> CONTEXT: Map026/events/36/pages/0/0/Dialogue
+Fighter. 「I wish this stamina! Elmier's fish dishes are
+wonderful!」#MTLed
+> END STRING
+
+> BEGIN STRING
+老戦士
+「海魚、川魚、
+どちらにも恵まれているのがエルミアの素晴らしさじゃな」
+> CONTEXT: Map026/events/38/pages/0/0/Dialogue
+Old warrior. 「Sea fish, river fish, It is the splendor of
+Elmia that is blessed with both」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「南方とは違う魚介が楽しめて
+エルミアもなかなか悪くないわね」
+> CONTEXT: Map026/events/41/pages/0/0/Dialogue
+Woman. 「You can enjoy a different seafood from the south
+side. Elmia is not too bad, is not it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「いいわね、こういう庶民的なレストラン……
+うちの国にもほしいなあ」
+> CONTEXT: Map026/events/42/pages/0/0/Dialogue
+Woman. 「Okay, this kind of popular restaurant ......
+I want it in my country, too」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「おとーさん、
+来年もこのお店に来たい！」
+> CONTEXT: Map026/events/44/pages/0/0/Dialogue
+girl. 「Father, I want to come to this shop next year!」#MTLed
+> END STRING
+
+> BEGIN STRING
+商人
+「なんとなく入ったレストランでしたが
+これほど多彩な魚介料理が用意されているとは！
+これは故国でも宣伝したい店ですな」
+> CONTEXT: Map026/events/46/pages/0/0/Dialogue
+merchant. 「It was a restaurant that came somewhat
+What a variety of seafood dishes are prepared!
+This is a shop I would like to advertise even in my home
+country」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「魚がウリのようだけど、
+この店、肉も絶品だな」
+> CONTEXT: Map026/events/49/pages/0/0/Dialogue
+Youth. 「The fish seems to be urine, This shop, meat is
+also excellent.」#MTLed
+> END STRING

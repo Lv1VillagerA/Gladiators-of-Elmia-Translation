@@ -1,0 +1,778 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「ん……？」
+> CONTEXT: Map074/events/2/pages/0/5/Dialogue
+\\N[12]. 「Hmm……?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「な、なにこれ？
+地面が揺れてる……？」
+> CONTEXT: Map074/events/2/pages/0/10/Dialogue
+Mileena. 「What is this? The ground is shaking
+... ....?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「い、いや違う！　足元が陥没してるんだ！」
+> CONTEXT: Map074/events/2/pages/0/14/Dialogue
+\\N[12]. 「No, no! The feet are depressed!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「きゃーっ、落ちちゃうー！」
+> CONTEXT: Map074/events/2/pages/0/17/Dialogue
+Mileena. 「Kya, it will fall!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、ミリーナっ！」
+> CONTEXT: Map074/events/2/pages/0/20/Dialogue
+\\N[12]. 「Cow, Mileena!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あいたたた……あれ？
+なんともない……」
+> CONTEXT: Map074/events/2/pages/0/28/Dialogue
+Mileena. 「Aita...... that one?
+Nothing ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……うぐぐぐ……」
+> CONTEXT: Map074/events/2/pages/0/33/Dialogue
+\\N[12]. 「Ugh.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「きゃっ、\\N[12]？
+ご、ごめん、下敷きになってくれてたの？
+今どくから、ちょっと待って」
+> CONTEXT: Map074/events/2/pages/0/36/Dialogue
+Mileena. 「kyaa, \\N[12] ? Oh, sorry, did
+you become a underlay? From now, wait a moment」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、ああ……」
+（正直、お尻の感触が気持ちよかったから
+もうちょっと乗っかっててくれてもよかったけど……）
+> CONTEXT: Map074/events/2/pages/0/41/Dialogue
+\\N[12]. 「Oh, ah ......」. (To be honest, the feel of
+the butt was pleasant. I could have stayed on for a bit
+more......)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ずいぶん広い空洞だな。
+荒野の地下に、こんな場所があったとは。
+ミリーナは聞いたことあるのか？」
+> CONTEXT: Map074/events/2/pages/0/53/Dialogue
+\\N[12]. 「It is quite a wide cavity. It is said that
+there was such a place in the basement of the wilderness.
+Have you ever heard of Mileena?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ううん、私は聞いたことないなあ。
+でも、ずいぶん広そうな洞窟だね。
+せっかくだし、ちょっと探索してみる？」
+> CONTEXT: Map074/events/2/pages/0/58/Dialogue
+Mileena. 「No, I have never heard of it.
+But it is a cave that seems to be quite wide.
+Is not it wrong and you want to explore a bit?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「前向きだなあ……ま、確かにただで脱出するのもシャクだな。
+どうやらここからじゃ外に出られないようだし、
+どっちにしろ探索するしかないか」
+> CONTEXT: Map074/events/2/pages/0/63/Dialogue
+\\N[12]. 「It is positive...Well, certainly it is
+shaky to escape alone. Apparently it seems I can not get
+out from here, I have no choice but to search either way」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「決まりだね。
+んじゃ見てみよっか、
+脱出不可能な閉鎖空間じゃないといいね」
+> CONTEXT: Map074/events/2/pages/0/68/Dialogue
+Mileena. 「It's a rule. Let's see it,
+I hope it is not an escapeable closed space」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「怖いこと言うなあ……」
+> CONTEXT: Map074/events/2/pages/0/73/Dialogue
+\\N[12]. 「I say scary things ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「もしそうだったとしても、
+ヤケを起こしてあたしを襲ったりしないでよね♪」
+> CONTEXT: Map074/events/2/pages/0/76/Dialogue
+Mileena. 「Even if so, Do not bite me and attack
+me♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「す、するかっ！
+さっさと探すぞ！」
+> CONTEXT: Map074/events/2/pages/0/80/Dialogue
+\\N[12]. 「All right! I will search quickly!」#MTLed
+> END STRING
+
+> BEGIN STRING
+銅鉱石を手に入れた！
+> CONTEXT: Map074/events/3/pages/0/1/Dialogue
+> CONTEXT: Map074/events/5/pages/0/1/Dialogue
+> CONTEXT: Map074/events/7/pages/0/1/Dialogue
+> CONTEXT: Map074/events/9/pages/0/1/Dialogue
+> CONTEXT: Map074/events/10/pages/0/1/Dialogue
+> CONTEXT: Map074/events/11/pages/0/1/Dialogue
+> CONTEXT: Map074/events/12/pages/0/1/Dialogue
+> CONTEXT: Map074/events/14/pages/0/1/Dialogue
+> CONTEXT: Map074/events/15/pages/0/1/Dialogue
+> CONTEXT: Map074/events/17/pages/0/1/Dialogue
+I got a copper ore!#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチ
+「フン、人間がパワーでミノタウロスに勝てるとでも
+思ってるのか。
+無様だな、女の足元に這いつくばらされて」
+> CONTEXT: Map074/events/27/pages/0/16/Dialogue
+> CONTEXT: Map074/events/41/pages/0/90/Dialogue
+> CONTEXT: Map074/events/45/pages/0/16/Dialogue
+> CONTEXT: Map074/events/46/pages/0/16/Dialogue
+> CONTEXT: Map074/events/47/pages/0/16/Dialogue
+> CONTEXT: Map074/events/48/pages/0/16/Dialogue
+> CONTEXT: Map074/events/49/pages/0/16/Dialogue
+minotaura. 「Even if Human can win the minotaur with power
+Are you thinking? It is unsightly, it is crawling around
+the woman 's feet」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐうっ……くそっ、なんてパワーだ
+力じゃ勝負にならない……」
+> CONTEXT: Map074/events/27/pages/0/21/Dialogue
+> CONTEXT: Map074/events/41/pages/0/95/Dialogue
+> CONTEXT: Map074/events/45/pages/0/21/Dialogue
+> CONTEXT: Map074/events/46/pages/0/21/Dialogue
+> CONTEXT: Map074/events/47/pages/0/21/Dialogue
+> CONTEXT: Map074/events/48/pages/0/21/Dialogue
+> CONTEXT: Map074/events/49/pages/0/21/Dialogue
+\\N[12]. 「Damn it...damn, how powerful it is
+It will not be a game against power ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチ
+「この荒野に足を踏み入れるには力不足だな。
+その無謀さの代償は命で払うことになる」
+> CONTEXT: Map074/events/27/pages/0/25/Dialogue
+> CONTEXT: Map074/events/41/pages/0/99/Dialogue
+> CONTEXT: Map074/events/45/pages/0/25/Dialogue
+> CONTEXT: Map074/events/46/pages/0/25/Dialogue
+> CONTEXT: Map074/events/47/pages/0/25/Dialogue
+> CONTEXT: Map074/events/48/pages/0/25/Dialogue
+> CONTEXT: Map074/events/49/pages/0/25/Dialogue
+minotaura. 「It is insufficient to step in this wilderness.
+The price of that recklessness will pay with life」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチ
+「……と、思ったが、お前
+なかなか悪くない男だな。
+せっかく私が倒したんだ、巣まで連れ帰ってやる」
+> CONTEXT: Map074/events/27/pages/0/32/Dialogue
+> CONTEXT: Map074/events/41/pages/0/106/Dialogue
+> CONTEXT: Map074/events/45/pages/0/32/Dialogue
+> CONTEXT: Map074/events/46/pages/0/32/Dialogue
+> CONTEXT: Map074/events/47/pages/0/32/Dialogue
+> CONTEXT: Map074/events/48/pages/0/32/Dialogue
+> CONTEXT: Map074/events/49/pages/0/32/Dialogue
+minotaura. 「......, I thought, you. He is not a bad guy.
+I punished myself, I will bring back to the nest」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え……い、いったい俺を
+どうするつもりなんだ」
+> CONTEXT: Map074/events/27/pages/0/37/Dialogue
+> CONTEXT: Map074/events/41/pages/0/111/Dialogue
+> CONTEXT: Map074/events/45/pages/0/37/Dialogue
+> CONTEXT: Map074/events/46/pages/0/37/Dialogue
+> CONTEXT: Map074/events/47/pages/0/37/Dialogue
+> CONTEXT: Map074/events/48/pages/0/37/Dialogue
+> CONTEXT: Map074/events/49/pages/0/37/Dialogue
+\\N[12]. 「Eh...well, on Earth. What are you going to
+do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチ
+「若い男とやることなんて決まっている」
+> CONTEXT: Map074/events/27/pages/0/41/Dialogue
+> CONTEXT: Map074/events/41/pages/0/115/Dialogue
+> CONTEXT: Map074/events/45/pages/0/41/Dialogue
+> CONTEXT: Map074/events/46/pages/0/41/Dialogue
+> CONTEXT: Map074/events/47/pages/0/41/Dialogue
+> CONTEXT: Map074/events/48/pages/0/41/Dialogue
+> CONTEXT: Map074/events/49/pages/0/41/Dialogue
+minotaura. 「I have decided to do with a young man」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチは、\\N[12]を乱暴に押し倒すと
+\\N[12]のペニスを無理やり膣で犯した！
+> CONTEXT: Map074/events/27/pages/0/50/Dialogue
+> CONTEXT: Map074/events/41/pages/0/124/Dialogue
+> CONTEXT: Map074/events/45/pages/0/50/Dialogue
+> CONTEXT: Map074/events/46/pages/0/50/Dialogue
+> CONTEXT: Map074/events/47/pages/0/50/Dialogue
+> CONTEXT: Map074/events/48/pages/0/50/Dialogue
+> CONTEXT: Map074/events/49/pages/0/50/Dialogue
+minotaura, \\N[12] If you push down roughly
+\\N[12] She forced her penis with her vagina!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあああぁぁっ……！」
+> CONTEXT: Map074/events/27/pages/0/55/Dialogue
+> CONTEXT: Map074/events/41/pages/0/129/Dialogue
+> CONTEXT: Map074/events/45/pages/0/55/Dialogue
+> CONTEXT: Map074/events/46/pages/0/55/Dialogue
+> CONTEXT: Map074/events/47/pages/0/55/Dialogue
+> CONTEXT: Map074/events/48/pages/0/55/Dialogue
+> CONTEXT: Map074/events/49/pages/0/55/Dialogue
+> CONTEXT: Map041/events/56/pages/0/507/Dialogue
+> CONTEXT: Map041/events/5/pages/5/853/Dialogue
+> CONTEXT: Commonevents/306/52/Dialogue
+> CONTEXT: Commonevents/306/89/Dialogue
+\\N[12]. 「no aaahhh......!」#MTLed
+> CONTEXT: Commonevents/242/492/Dialogue
+\\N[12]. 「no aaahhh......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチ
+「フン、なかなか大きくて硬いじゃないか。
+気に入ったぞ、青二才。
+あたしがお前を性奴隷として飼ってやろう」
+> CONTEXT: Map074/events/27/pages/0/58/Dialogue
+> CONTEXT: Map074/events/41/pages/0/132/Dialogue
+> CONTEXT: Map074/events/45/pages/0/58/Dialogue
+> CONTEXT: Map074/events/46/pages/0/58/Dialogue
+> CONTEXT: Map074/events/47/pages/0/58/Dialogue
+> CONTEXT: Map074/events/48/pages/0/58/Dialogue
+> CONTEXT: Map074/events/49/pages/0/58/Dialogue
+minotaura. 「Hun, it's pretty big and hard, is not it?
+I love you, Aoi. I will keep you as a sex slave」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そんな……俺は、やらなきゃいけないことがっ」
+> CONTEXT: Map074/events/27/pages/0/63/Dialogue
+> CONTEXT: Map074/events/41/pages/0/137/Dialogue
+> CONTEXT: Map074/events/45/pages/0/63/Dialogue
+> CONTEXT: Map074/events/46/pages/0/63/Dialogue
+> CONTEXT: Map074/events/47/pages/0/63/Dialogue
+> CONTEXT: Map074/events/48/pages/0/63/Dialogue
+> CONTEXT: Map074/events/49/pages/0/63/Dialogue
+\\N[12]. 「Well...that...... I gotta do things I
+have to do」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、くうううぅっ！
+し、締めつけが強くて……は、激しすぎるっ！」
+> CONTEXT: Map074/events/27/pages/0/67/Dialogue
+> CONTEXT: Map074/events/41/pages/0/141/Dialogue
+> CONTEXT: Map074/events/45/pages/0/67/Dialogue
+> CONTEXT: Map074/events/46/pages/0/67/Dialogue
+> CONTEXT: Map074/events/47/pages/0/67/Dialogue
+> CONTEXT: Map074/events/48/pages/0/67/Dialogue
+> CONTEXT: Map074/events/49/pages/0/67/Dialogue
+\\N[12]. 「Wow, nov! Then, the tightening is strong ...
+... is too violent!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチは\\N[12]の体を半ば持ち上げるようにして
+ペニスを無理やり搾ろうとするかのように犯してくる。
+> CONTEXT: Map074/events/27/pages/0/71/Dialogue
+> CONTEXT: Map074/events/41/pages/0/145/Dialogue
+> CONTEXT: Map074/events/45/pages/0/71/Dialogue
+> CONTEXT: Map074/events/46/pages/0/71/Dialogue
+> CONTEXT: Map074/events/47/pages/0/71/Dialogue
+> CONTEXT: Map074/events/48/pages/0/71/Dialogue
+> CONTEXT: Map074/events/49/pages/0/71/Dialogue
+minotaura \\N[12] Lift your body halfway
+I will commit myself as if trying to force the penis to
+force.#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチ
+「お前の意思など聞いていない。
+もうお前はあたしのものだ。
+ここで一生、あたしがムラムラしたときに相手をしてもらう」
+> CONTEXT: Map074/events/27/pages/0/74/Dialogue
+> CONTEXT: Map074/events/41/pages/0/148/Dialogue
+> CONTEXT: Map074/events/45/pages/0/74/Dialogue
+> CONTEXT: Map074/events/46/pages/0/74/Dialogue
+> CONTEXT: Map074/events/47/pages/0/74/Dialogue
+> CONTEXT: Map074/events/48/pages/0/74/Dialogue
+> CONTEXT: Map074/events/49/pages/0/74/Dialogue
+minotaura. 「I have not heard your intention.
+You are already mine. Life here, when I lust I will have
+someone else」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、でっ、出るうううぅっ！」
+> CONTEXT: Map074/events/27/pages/0/79/Dialogue
+> CONTEXT: Map074/events/41/pages/0/153/Dialogue
+> CONTEXT: Map074/events/45/pages/0/79/Dialogue
+> CONTEXT: Map074/events/46/pages/0/79/Dialogue
+> CONTEXT: Map074/events/47/pages/0/79/Dialogue
+> CONTEXT: Map074/events/48/pages/0/79/Dialogue
+> CONTEXT: Map074/events/49/pages/0/79/Dialogue
+\\N[12]. 「Oh, wait, it will come out!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチ
+「うっ……な、なかなか熱いな、ふふっ。
+いいぞ、その調子でどんどん出せ。
+膣で精液を搾り上げる感覚、あたしは大好きだ」
+> CONTEXT: Map074/events/27/pages/0/86/Dialogue
+> CONTEXT: Map074/events/41/pages/0/160/Dialogue
+> CONTEXT: Map074/events/45/pages/0/86/Dialogue
+> CONTEXT: Map074/events/46/pages/0/86/Dialogue
+> CONTEXT: Map074/events/47/pages/0/86/Dialogue
+> CONTEXT: Map074/events/48/pages/0/86/Dialogue
+> CONTEXT: Map074/events/49/pages/0/86/Dialogue
+minotaura. 「Oooh...no, it's quite hot, heh heh.
+Ok, put more and more on that condition.
+Feeling to squeeze semen in the vagina, I love it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、ううっ……
+ま、待って、そんな連続でなんてっ」
+> CONTEXT: Map074/events/27/pages/0/91/Dialogue
+> CONTEXT: Map074/events/41/pages/0/165/Dialogue
+> CONTEXT: Map074/events/45/pages/0/91/Dialogue
+> CONTEXT: Map074/events/46/pages/0/91/Dialogue
+> CONTEXT: Map074/events/47/pages/0/91/Dialogue
+> CONTEXT: Map074/events/48/pages/0/91/Dialogue
+> CONTEXT: Map074/events/49/pages/0/91/Dialogue
+\\N[12]. 「Cut, uugh...... Wait, wait, it's like that
+in a row like that」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチ
+「何度でも射精させてやる、枯れるまでな。
+それがお前の役目だ。
+> CONTEXT: Map074/events/27/pages/0/95/Dialogue
+> CONTEXT: Map074/events/41/pages/0/169/Dialogue
+> CONTEXT: Map074/events/45/pages/0/95/Dialogue
+> CONTEXT: Map074/events/46/pages/0/95/Dialogue
+> CONTEXT: Map074/events/47/pages/0/95/Dialogue
+> CONTEXT: Map074/events/48/pages/0/95/Dialogue
+> CONTEXT: Map074/events/49/pages/0/95/Dialogue
+minotaura. 「I will ejaculate as many times as you want,
+until it dies. That is your job.#MTLed
+> END STRING
+
+> BEGIN STRING
+ほら、こうして抱きしめていると
+あたしのおっぱいの感触が伝わるだろう
+どうせお前も興奮しているんだろう？
+人間の男はおっぱいが好きだからな」
+> CONTEXT: Map074/events/27/pages/0/99/Dialogue
+> CONTEXT: Map074/events/41/pages/0/173/Dialogue
+> CONTEXT: Map074/events/45/pages/0/99/Dialogue
+> CONTEXT: Map074/events/46/pages/0/99/Dialogue
+> CONTEXT: Map074/events/47/pages/0/99/Dialogue
+> CONTEXT: Map074/events/48/pages/0/99/Dialogue
+> CONTEXT: Map074/events/49/pages/0/99/Dialogue
+Look, I'm hugging you like this. The feel of my tits will
+be conveyed. Why are you excited too? A human man likes
+boobs」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（た、確かに、こいつの胸は大きいし
+動くたびに柔らかい感触が俺の体に押し付けられるけど
+セックスが激しすぎて、喜んでる余裕なんてない……！）
+> CONTEXT: Map074/events/27/pages/0/104/Dialogue
+> CONTEXT: Map074/events/41/pages/0/178/Dialogue
+> CONTEXT: Map074/events/45/pages/0/104/Dialogue
+> CONTEXT: Map074/events/46/pages/0/104/Dialogue
+> CONTEXT: Map074/events/47/pages/0/104/Dialogue
+> CONTEXT: Map074/events/48/pages/0/104/Dialogue
+> CONTEXT: Map074/events/49/pages/0/104/Dialogue
+\\N[12]. (Yes, indeed, his breasts are big
+Every time I move it a soft touch is pressed against my
+body. Sex is too aggressive, I can not afford to be glad
+... ....! )#MTLed
+> END STRING
+
+> BEGIN STRING
+しかし、ミノッチが一方的に快楽を味わおうとする
+激しいセックスであっても、\\N[12]はしっかりと
+快楽を味わわされてしまう。
+> CONTEXT: Map074/events/27/pages/0/109/Dialogue
+> CONTEXT: Map074/events/41/pages/0/183/Dialogue
+> CONTEXT: Map074/events/45/pages/0/109/Dialogue
+> CONTEXT: Map074/events/46/pages/0/109/Dialogue
+> CONTEXT: Map074/events/47/pages/0/109/Dialogue
+> CONTEXT: Map074/events/48/pages/0/109/Dialogue
+> CONTEXT: Map074/events/49/pages/0/109/Dialogue
+However, minotaura tries to enjoy pleasure unilaterally
+Even severe sex, \\N[12] Firmly. I will be tasted
+pleasure.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、うああああぁぁっ！」
+> CONTEXT: Map074/events/27/pages/0/113/Dialogue
+> CONTEXT: Map074/events/41/pages/0/187/Dialogue
+> CONTEXT: Map074/events/45/pages/0/113/Dialogue
+> CONTEXT: Map074/events/46/pages/0/113/Dialogue
+> CONTEXT: Map074/events/47/pages/0/113/Dialogue
+> CONTEXT: Map074/events/48/pages/0/113/Dialogue
+> CONTEXT: Map074/events/49/pages/0/113/Dialogue
+\\N[12]. 「Uh, no! Aaaahhh」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、数時間後――
+> CONTEXT: Map074/events/27/pages/0/120/Dialogue
+> CONTEXT: Map074/events/41/pages/0/194/Dialogue
+> CONTEXT: Map074/events/45/pages/0/120/Dialogue
+> CONTEXT: Map074/events/46/pages/0/120/Dialogue
+> CONTEXT: Map074/events/47/pages/0/120/Dialogue
+> CONTEXT: Map074/events/48/pages/0/120/Dialogue
+> CONTEXT: Map074/events/49/pages/0/120/Dialogue
+And after hours -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（はぁ、はぁ……
+い、いつまで続くんだ、これ……
+ミノタウロス女の体力は、無尽蔵なのか……）
+> CONTEXT: Map074/events/27/pages/0/123/Dialogue
+> CONTEXT: Map074/events/41/pages/0/197/Dialogue
+> CONTEXT: Map074/events/45/pages/0/123/Dialogue
+> CONTEXT: Map074/events/46/pages/0/123/Dialogue
+> CONTEXT: Map074/events/47/pages/0/123/Dialogue
+> CONTEXT: Map074/events/48/pages/0/123/Dialogue
+> CONTEXT: Map074/events/49/pages/0/123/Dialogue
+\\N[12]. (Ah, Ah...Yes, how long will it last?
+minotaur Women's physical strength is inexhaustible ......)#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチ
+「ふっ、まだまだ終わらないぞ。
+私はまだ満足していないからな」
+> CONTEXT: Map074/events/27/pages/0/128/Dialogue
+> CONTEXT: Map074/events/41/pages/0/202/Dialogue
+> CONTEXT: Map074/events/45/pages/0/128/Dialogue
+> CONTEXT: Map074/events/46/pages/0/128/Dialogue
+> CONTEXT: Map074/events/47/pages/0/128/Dialogue
+> CONTEXT: Map074/events/48/pages/0/128/Dialogue
+> CONTEXT: Map074/events/49/pages/0/128/Dialogue
+minotaura. 「Well, it will not end. I am not satisfied yet.」#MTLed
+> END STRING
+
+> BEGIN STRING
+さらに数時間後――
+> CONTEXT: Map074/events/27/pages/0/136/Dialogue
+> CONTEXT: Map074/events/41/pages/0/210/Dialogue
+> CONTEXT: Map074/events/45/pages/0/136/Dialogue
+> CONTEXT: Map074/events/46/pages/0/136/Dialogue
+> CONTEXT: Map074/events/47/pages/0/136/Dialogue
+> CONTEXT: Map074/events/48/pages/0/136/Dialogue
+> CONTEXT: Map074/events/49/pages/0/136/Dialogue
+In a few more hours -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ……う……
+ゆ、許して……もう、勘弁してくれ……」
+> CONTEXT: Map074/events/27/pages/0/139/Dialogue
+> CONTEXT: Map074/events/41/pages/0/213/Dialogue
+> CONTEXT: Map074/events/45/pages/0/139/Dialogue
+> CONTEXT: Map074/events/46/pages/0/139/Dialogue
+> CONTEXT: Map074/events/47/pages/0/139/Dialogue
+> CONTEXT: Map074/events/48/pages/0/139/Dialogue
+> CONTEXT: Map074/events/49/pages/0/139/Dialogue
+\\N[12]. 「meet……. Yu, forgive me...... please forgive
+me ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチ
+「ふん、死んだような目になっちまったか。
+今日はここまでみたいだな、男のくせにだらしのない。
+> CONTEXT: Map074/events/27/pages/0/143/Dialogue
+> CONTEXT: Map074/events/41/pages/0/217/Dialogue
+> CONTEXT: Map074/events/45/pages/0/143/Dialogue
+> CONTEXT: Map074/events/46/pages/0/143/Dialogue
+> CONTEXT: Map074/events/47/pages/0/143/Dialogue
+> CONTEXT: Map074/events/48/pages/0/143/Dialogue
+> CONTEXT: Map074/events/49/pages/0/143/Dialogue
+minotaura. 「Hmm, has it become a dead eye?
+I do not want to be sloppy for men today.#MTLed
+> END STRING
+
+> BEGIN STRING
+まあいい、これから毎日楽しめるんだ。
+簡単に壊れちまったらつまらないし、手加減してやるか。
+明日はあたしを満足させるんだぞ、人間」
+> CONTEXT: Map074/events/27/pages/0/147/Dialogue
+> CONTEXT: Map074/events/41/pages/0/221/Dialogue
+> CONTEXT: Map074/events/45/pages/0/147/Dialogue
+> CONTEXT: Map074/events/46/pages/0/147/Dialogue
+> CONTEXT: Map074/events/47/pages/0/147/Dialogue
+> CONTEXT: Map074/events/48/pages/0/147/Dialogue
+> CONTEXT: Map074/events/49/pages/0/147/Dialogue
+Well, I can enjoy it everyday. If it breaks easily, it is
+boring, and you do not want it. Tomorrow will satisfy me,
+human beings」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は毎日枯れるまで一方的に犯され続け、
+快楽と絶望にまみれた性奴隷の日々を送る。
+> CONTEXT: Map074/events/27/pages/0/151/Dialogue
+> CONTEXT: Map074/events/41/pages/0/225/Dialogue
+> CONTEXT: Map074/events/45/pages/0/151/Dialogue
+> CONTEXT: Map074/events/46/pages/0/151/Dialogue
+> CONTEXT: Map074/events/47/pages/0/151/Dialogue
+> CONTEXT: Map074/events/48/pages/0/151/Dialogue
+> CONTEXT: Map074/events/49/pages/0/151/Dialogue
+In this way, \\N[12] Continues to be committed
+unilaterally until it dies everyday, Send the days of
+sexual slavery covered in pleasure and despair.#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、性的な蹂躙を受け続けた\\N[12]の心は
+すぐに壊れてしまうこととなる――
+> CONTEXT: Map074/events/27/pages/0/154/Dialogue
+> CONTEXT: Map074/events/41/pages/0/228/Dialogue
+> CONTEXT: Map074/events/45/pages/0/154/Dialogue
+> CONTEXT: Map074/events/46/pages/0/154/Dialogue
+> CONTEXT: Map074/events/47/pages/0/154/Dialogue
+> CONTEXT: Map074/events/48/pages/0/154/Dialogue
+> CONTEXT: Map074/events/49/pages/0/154/Dialogue
+And continued to receive sexual trampling \\N[12] The
+heart of. It will be broken soon -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「王都の向こう岸は、こんな荒れ地なんだなあ」
+> CONTEXT: Map074/events/41/pages/0/3/Dialogue
+\\N[12]. 「The other side of the kingdom is such a waste
+land」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「まあね。でも、これはこれで鉱物資源が豊かで
+いい土地なんだよ。
+ただ、最近は魔物の活動が活発で……」
+> CONTEXT: Map074/events/41/pages/0/6/Dialogue
+Mileena. 「Well. But this is rich in mineral
+resources with this. It's a nice land.
+However, monster activities are active lately ...
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「さっそく魔物か、なかなか強そうだなっ！」
+> CONTEXT: Map074/events/41/pages/0/28/Dialogue
+\\N[12]. 「As soon as monster it looks pretty strong!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そんじゃ、さっそく共同作戦だね！
+一緒にやっつけちゃおうっ！」
+> CONTEXT: Map074/events/41/pages/0/31/Dialogue
+Mileena. 「Then, it is a joint strategy!
+Let's hack it together!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「なかなかパワーのある魔物だったねー
+でも、パワーならあたしは負けないけどねー♪」
+> CONTEXT: Map074/events/41/pages/0/42/Dialogue
+Mileena. 「It was quite powerful monster
+But, if it's power I will not be beat but♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、さすがミリーナ、
+味方になると頼もしいぜ。
+しかし、ここは他では見ないような魔物が生息しているな」
+> CONTEXT: Map074/events/41/pages/0/46/Dialogue
+\\N[12]. 「Oh, as expected Mileena, It will be reliable
+if you are on the side. However, here is a monster that
+does not seem to live elsewhere」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うん、他の地域の魔物より強力なんだよね。
+だから、ここには人が寄りつけなくなって
+放棄されちゃってるんだよ」
+> CONTEXT: Map074/events/41/pages/0/51/Dialogue
+Mileena. 「Yeah, it's stronger than monster in
+other areas. That's why people can not stay here
+I am abandoned」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、サディさんが俺に依頼をした理由はこれか。
+そこらの魔物程度なら、
+ミリーナひとりでも大丈夫なはずだもんな」
+> CONTEXT: Map074/events/41/pages/0/56/Dialogue
+\\N[12]. 「Well, is this the reason Sadi-san asked me to
+do this? If it is about monster, Mileena You should be all
+alone」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そういうこと。さすがにあたしも、
+ひとりでここに乗り込むのは厳しくてね。
+頼りにしてるよ、\\N[12]」
+> CONTEXT: Map074/events/41/pages/0/61/Dialogue
+Mileena. 「Such thing. As might be expected,
+It's tough to get on here alone.
+I'm counting on you, \\N[12]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、任せとけ。
+で、ここで鉱石を採取するんだよな？」
+> CONTEXT: Map074/events/41/pages/0/66/Dialogue
+\\N[12]. 「Oh, leave it to me. So, do you collect ore
+here?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うん、鉱石が埋まってる岩が
+そこらじゅうにあると思うから、
+採取していこうよ。
+> CONTEXT: Map074/events/41/pages/0/70/Dialogue
+Mileena. 「Yeah, the rock where the ore is buried
+I think that it is throughout the year,
+Let's collect it.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]そういう岩は光って見える\\C[0]から、
+すぐ分かると思うよ」
+> CONTEXT: Map074/events/41/pages/0/75/Dialogue
+\\C[2]Such a rock looks glowing\\C[0] From
+I think you understand immediately」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、
+そうと決まれば、掘りまくるとするか！」
+> CONTEXT: Map074/events/41/pages/0/78/Dialogue
+\\N[12]. 「Alright, If so decide to dig it up!」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「王都へ戻るかい？」
+> CONTEXT: Map074/events/43/pages/0/0/Dialogue
+old man. 「Would you like to return to the Kingdom?」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「着いたぜ。
+俺は舟にいるから、戻るときは声をかけてくれ」
+> CONTEXT: Map074/events/44/pages/0/4/Dialogue
+old man. 「I arrived. Because I am in the boat, when you
+return please call out」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとうございます、
+しかしひとりで待っていて大丈夫ですか？」
+> CONTEXT: Map074/events/44/pages/0/8/Dialogue
+\\N[12]. 「Thank you, But are you alright with me
+waiting alone?」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「おう、魔物が近づいてきたら沖に避難したりして
+身は守れるからよ、安心して仕事に励んでくれ。
+兄ちゃんはミリーナちゃんをしっかり守ってやってくれよな」
+> CONTEXT: Map074/events/44/pages/0/12/Dialogue
+old man. 「Ou, evacuate off the coast as monster approaches
+Because you can protect yourself, please do your work
+quietly. My older brother keeps Mileena-chan firmly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、それは必ず」
+> CONTEXT: Map074/events/44/pages/0/17/Dialogue
+\\N[12]. 「Yes, that surely」#MTLed
+> END STRING

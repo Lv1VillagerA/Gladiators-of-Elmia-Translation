@@ -1,0 +1,407 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「こっちからなら転がせそうだな。
+おりゃっ！」
+> CONTEXT: Map016/events/1/pages/0/1/Dialogue
+\\N[12]. 「I think I will roll from here.
+take that!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、これで回り道しなくても大丈夫になったな」
+> CONTEXT: Map016/events/1/pages/0/8/Dialogue
+\\N[12]. 「OK, this is fine without having to detour」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「これじゃ先に進めないな……
+岩をどかすにしても、こっちからじゃ動かせなさそうだ」
+> CONTEXT: Map016/events/1/pages/0/14/Dialogue
+\\N[12]. 「I can not go ahead with this ...
+Even if I rock the rock, it seems impossible to move it
+from here」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こんな岩があったんじゃ通れないな。
+回り道をするしかないか……」
+> CONTEXT: Map016/events/2/pages/0/0/Dialogue
+\\N[12]. 「There is such a rock, so it will not pass.
+I have no choice but to detour ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ここを北に行けば出口か……
+どれどれ……？
+> CONTEXT: Map016/events/3/pages/0/2/Dialogue
+> CONTEXT: Map016/events/11/pages/0/2/Dialogue
+\\N[12]. 「If you go north here, is it an exit ...?
+......?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ダメだ、すげえ数の盗賊がいる。見張りかな？
+先に盗賊団のボスを倒さないとどうにもならなそうだ。
+> CONTEXT: Map016/events/3/pages/0/9/Dialogue
+> CONTEXT: Map016/events/11/pages/0/9/Dialogue
+\\N[12]. 「No, I have a lot of thieves. Watch out?
+It seems that it will be impossible unless you first knock
+down the thieves' boss.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「このまま出口に行ったら見張りに見つかっちまう。
+先に盗賊団のボスをどうにかしなきゃ。
+> CONTEXT: Map016/events/3/pages/1/1/Dialogue
+\\N[12]. 「If you go to the exit as it is, you will find
+it on the guard. I have to manage the thieves' boss first.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「丸い岩だ……
+ここは坂になっているから、ちょっとしたきっかけで
+転がせるようになっているようだ……」
+> CONTEXT: Map016/events/4/pages/0/0/Dialogue
+\\N[12]. 「It is a round rock ...... It's a slope here,
+so just a little bit. It seems to be able to roll ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+レバーがある。動かしますか？
+> CONTEXT: Map016/events/5/pages/0/0/Dialogue
+There is a lever. Do you move it?#MTLed
+> END STRING
+
+> BEGIN STRING
+……岩が何かにぶつかったようだ。
+> CONTEXT: Map016/events/5/pages/0/30/Dialogue
+... ... It seems that the rock hit something.#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「え？　後ろのスイッチ？
+こ、これは何でもないわよ！
+あんたなんて、身ぐるみ剥いで叩き出してやるわ！」
+> CONTEXT: Map016/events/6/pages/0/0/Dialogue
+Bandit Girl. 「Huh? The switch behind? Here, this is
+nothing! I'll hit you out with a wig strike!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「や、やられたぁ～……」
+> CONTEXT: Map016/events/6/pages/0/8/Dialogue
+Bandit Girl. 「Or, I was killed ~ ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+『宝物庫』
+と書いてある。
+> CONTEXT: Map016/events/7/pages/0/0/Dialogue
+"Treasure house". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こ、これはっ……まさか、はめられたのか？
+く、くそっ！　う、動けないっ！」
+> CONTEXT: Map016/events/8/pages/0/42/Dialogue
+\\N[12]. 「Well, this is ... this is not it?
+Damn it! Well, I can not move!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あははっ、見事にはまったね！
+こんなミエミエの罠にフツー引っかかるかなぁ」
+> CONTEXT: Map016/events/8/pages/0/46/Dialogue
+Bandit Girl. 「Hahahah, I got it nicely! I wonder if he
+will catch up with such a trap」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「お宝に釣られちゃったんだねー
+おにーさん、すっごいバカなんだねー」
+> CONTEXT: Map016/events/8/pages/0/50/Dialogue
+bandit teen. 「I got caught in treasure. Hey, he is such a
+fool stupid」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「考えなしに行動するから、そうなるのよ？
+うふふっ、こんなに見事に罠にかかってくれると、
+私たちも気分がいいわぁ」
+> CONTEXT: Map016/events/8/pages/0/54/Dialogue
+sexy bandit. 「Because we act without thinking, is that so?
+Uhhuh, if you trap in such a splendid manner,
+We feel good too」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ち、ちくしょう、こいつら
+好き勝手言いやがって……」
+> CONTEXT: Map016/events/8/pages/0/60/Dialogue
+\\N[12]. 「Chichu, these guys. I like to say something I
+like ... ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あはっ、悔しそうな顔しちゃって。
+もがいても無駄だよ、あんたにはこれから
+私たちのオモチャになってもらいまーす♪」
+> CONTEXT: Map016/events/8/pages/0/64/Dialogue
+Bandit Girl. 「Hahah, I'm feeling downset.
+It is useless to struggle, it's time for you
+Have them become our toy♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なっ……いったい何をする気なんだっ！」
+> CONTEXT: Map016/events/8/pages/0/71/Dialogue
+\\N[12]. 「Naku ... ... what on earth are you going to
+do!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「そんなに焦る必要はないのよ？
+お姉さんたちが、た～っぷりとキミを弄んで
+気持ちよくして　あ・げ・る♪」
+> CONTEXT: Map016/events/8/pages/0/74/Dialogue
+sexy bandit. 「You do not need to be so scared?
+My sisters played with you ~ plenty. I feel comfortable♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+三人の盗賊少女たちは、\\N[12]へと
+にじり寄ってくる！
+> CONTEXT: Map016/events/8/pages/0/79/Dialogue
+Three bandits girls, \\N[12] To. I'll come around!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よ、よせっ……
+や、やめろぉっ……！」
+> CONTEXT: Map016/events/8/pages/0/82/Dialogue
+\\N[12]. 「Okay. Or, stop it ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+しない
+> CONTEXT: Map016/events/8/pages/0/91/Choice/1
+do not do#MTLed
+> END STRING
+
+> BEGIN STRING
+『侵入者撃退用の罠！
+現状で作動させるとアジトが危険なため使用禁止！
+みだりにレバーに触らないように！』
+と書いてある。
+> CONTEXT: Map016/events/10/pages/0/0/Dialogue
+"Trap for fighting intruders! Do not use because hid is
+dangerous if it is operated under present condition!
+Do not touch the lever by mistake! ". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（盗賊団が作ったんじゃなく、
+それ以前に作られた装置であるようだ。
+文面からして盗賊団は持て余しているようだな）
+> CONTEXT: Map016/events/10/pages/0/8/Dialogue
+\\N[12]. (It was not made by bandits, It seems to be a
+device made before that. From the sentence the thieves
+seems to be rich)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こっちから通ったら見張りに見つかっちまう。
+下を抜けていかなきゃ。
+> CONTEXT: Map016/events/11/pages/1/1/Dialogue
+\\N[12]. 「If you pass from here, you will find it on
+the guard. I have to get through the bottom.#MTLed
+> END STRING
+
+> BEGIN STRING
+800\\G 手に入れた！
+> CONTEXT: Map016/events/24/pages/0/9/Dialogue
+800 \\G I got!#MTLed
+> END STRING
+
+> BEGIN STRING
+ロングソードを手に入れた！
+> CONTEXT: Map016/events/25/pages/0/9/Dialogue
+I got a long sword!#MTLed
+> END STRING
+
+> BEGIN STRING
+精神薬を3つ手に入れた！
+> CONTEXT: Map016/events/27/pages/0/9/Dialogue
+I got 3 psychoactive medicines!#MTLed
+> END STRING
+
+> BEGIN STRING
+エレメンタルコア（赤）を手に入れた！
+> CONTEXT: Map016/events/28/pages/0/9/Dialogue
+I got elemental core (red)!#MTLed
+> END STRING
+
+> BEGIN STRING
+神々の羽を5つ手に入れた！
+> CONTEXT: Map016/events/30/pages/0/9/Dialogue
+I got 5 wings of the gods!#MTLed
+> END STRING
+
+> BEGIN STRING
+回復薬を5つ手に入れた！
+> CONTEXT: Map016/events/31/pages/0/9/Dialogue
+I got 5 recovery medicines!#MTLed
+> END STRING
+
+> BEGIN STRING
+シャムシールを手に入れた！
+> CONTEXT: Map016/events/37/pages/0/9/Dialogue
+I got a sham seal.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「大きな裂け目だ。
+奥に何か\\C[2]光るようなもの\\C[0]が見えるが……
+今は手が出せないな」
+> CONTEXT: Map016/events/50/pages/0/0/Dialogue
+\\N[12]. 「It is a big rip. Something in the back\\C[2] Shiny
+things\\C[0] Can you see ...... I can not make it right now.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ここが怪しいな、
+裂け目の奥に、なにか光るものが見える。
+あれが鉱石かもしれないし、取り出してみたいな」
+> CONTEXT: Map016/events/50/pages/1/0/Dialogue
+\\N[12]. 「This is suspicious, I see something
+glittering in the depths of the rips. That may be an ore
+and I'd like to take it out」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「それじゃ、掘ってみよっか。
+マトックを持ってきたから、これで周囲を削って
+裂け目を広げちゃおう」
+> CONTEXT: Map016/events/50/pages/1/5/Dialogue
+Mileena. 「Let's dig it now. I brought steel
+pick, so I cut the surroundings with this
+Let's spread a crack」#MTLed
+> END STRING
+
+> BEGIN STRING
+二人はマトックで裂け目を掘る――
+> CONTEXT: Map016/events/50/pages/1/16/Dialogue
+They dig a crack with steel pick -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おっ、一番奥まで手が届くようになったぞ。
+よし、取り出してみよう」
+> CONTEXT: Map016/events/50/pages/1/19/Dialogue
+\\N[12]. 「Oh, you can reach the deepest part.
+OK, let's take it out」#MTLed
+> END STRING
+
+> BEGIN STRING
+ザウメル鉱石を手に入れた！
+> CONTEXT: Map016/events/50/pages/1/24/Dialogue
+Saumure got ore!#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「へー、緑色に光ってて綺麗だね。
+こんなに王都に近いところで、
+ここまで見事な鉱石が採れるもんなんだ」
+> CONTEXT: Map016/events/50/pages/1/27/Dialogue
+Mileena. 「It is beautiful shining green.
+So close to the kingdom, You can get a splendid
+ore so far」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「大きさのわりに軽いし、透き通るように美しい鉱石だ。
+サディさんが言っていたザウメル鉱石に
+間違いなさそうだな」
+> CONTEXT: Map016/events/50/pages/1/32/Dialogue
+\\N[12]. 「It's lighter than the size, it's a beautiful
+ore that is transparent. To Saumure ore Sadi-san was saying
+I do not think it's wrong.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うん、言われてた特徴そのまんまだもんね。
+こんなところに鉱脈があるなら今後も採りやすそうだよ、
+灯台下暗しってやつだね」
+> CONTEXT: Map016/events/50/pages/1/37/Dialogue
+Mileena. 「Yeah, the feature I was told, that is
+it. If there is a vein in such a place it seems
+easy to adopt in the future, It's a guy under the
+lighthouse」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「グロッセル鉱石はすでに手に入れてあるし、
+これでサディさんに依頼された２つの鉱石が揃ったな。
+じゃあ、ストレイン武具店に戻るとしようか」
+> CONTEXT: Map016/events/50/pages/1/43/Dialogue
+\\N[12]. 「The grossel ore has already been obtained,
+There are now two ores that Sadi-san was asked for.
+Well then let's go back to the Strein Armor Shop store」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うん！
+ありがとね\\N[12]、
+これできっといい武具がつくれるよ！」
+> CONTEXT: Map016/events/50/pages/1/48/Dialogue
+Mileena. 「Yup! Thanks dear \\N[12] ,
+With this you can make a good weapon!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「これであとは、グロッセル鉱石を手に入れればいいんだな」
+> CONTEXT: Map016/events/50/pages/1/56/Dialogue
+\\N[12]. 「With that, you can get a grossel ore」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うん、目的地は荒野ね。
+王都の船着場から舟で行けるから、
+準備を整えたらさっそく行ってみようよ」
+> CONTEXT: Map016/events/50/pages/1/59/Dialogue
+Mileena. 「Well, the destination is the
+wilderness. Because you can go by boat from the
+pier in the Kingdom, Let's go and get ready」#MTLed
+> END STRING

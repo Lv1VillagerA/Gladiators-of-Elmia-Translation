@@ -1,0 +1,33 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ディラント高原
+> CONTEXT: Map077/display_name/
+Dirant Plateau#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（こっちはリコシア王国への道だ……
+武道大会で優勝することが俺の目的だ。
+今、外国に行く意味はないな）
+> CONTEXT: Map077/events/1/pages/0/0/Dialogue
+\\N[12]. (This is the way to Kingdom of Licosa ... ...
+My goal is to win the martial arts tournament.
+There is no meaning to go to a foreign country now)#MTLed
+> END STRING
+
+> BEGIN STRING
+『この先　リコシア王国国境地帯』
+と書いてある。
+> CONTEXT: Map077/events/2/pages/0/0/Dialogue
+"Licosa border zone after this". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+『サフィス川　水源
+荒らさないように！』
+と書いてある。
+> CONTEXT: Map077/events/13/pages/0/0/Dialogue
+"The River of the Sashegawa. Do not rough! "
+It is written.#MTLed
+> END STRING

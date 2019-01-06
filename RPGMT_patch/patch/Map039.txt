@@ -1,0 +1,33 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+娘
+「なんか狭っ苦しいし
+欠陥住宅じゃないの、この家？」
+> CONTEXT: Map039/events/1/pages/0/0/Dialogue
+Daughter. 「Something narrow and painful
+It is not a defective house, is this house?」#MTLed
+> END STRING
+
+> BEGIN STRING
+主人
+「住宅地としては中央区のほうが高級なのは間違いない。
+が、闘技場のある東区のほうが人でにぎわうようになったので
+商業施設は向こうのほうが質が高くなってしまったよ」
+> CONTEXT: Map039/events/2/pages/0/0/Dialogue
+master. 「There is no doubt that Chuo-ku is
+higher class residential area.
+But since the eastern district where the stadium
+is located crowded with people
+The quality of the commercial facility is getting
+higher」#MTLed
+> END STRING
+
+> BEGIN STRING
+夫人
+「住宅地としても東区のほうが価値が高くなるのも
+時間の問題かもしれませんわねぇ」
+> CONTEXT: Map039/events/3/pages/0/0/Dialogue
+Mrs. 「Even as a residential area, eastern
+district will be more valuable
+I guess it may be a matter of time」#MTLed
+> END STRING

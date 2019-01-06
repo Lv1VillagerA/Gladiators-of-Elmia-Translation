@@ -1,0 +1,128 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+教会（サフィス教）
+> CONTEXT: Map059/display_name/
+Church (Sachi School)#MTLed
+> END STRING
+
+> BEGIN STRING
+神父
+「豊かな国なればこそ、神への感謝は大切です。
+今日も水の女神サフィスティラ様へ祈りを捧げましょう」
+> CONTEXT: Map059/events/2/pages/0/0/Dialogue
+Priest. 「Thankfulness to God is important only if it is a
+rich country. Let's pray to Lady Safistira of the goddess
+of water today as well」#MTLed
+> END STRING
+
+> BEGIN STRING
+シスター
+「豊かな水に恵まれたエルミア王国――
+その主神は、水の女神サフィスティラ様です。
+エルミアの民に水神のご加護のあらんことを」
+> CONTEXT: Map059/events/3/pages/0/0/Dialogue
+Sister. 「Kingdom of Elmia blessed with abundant water -
+Its main god is the goddess of water Lady Safistira.
+Permanent protection of the water god to the people of
+Elmia」#MTLed
+> END STRING
+
+> BEGIN STRING
+シスター
+「ところで、聖水はご入用ではありませんか？
+200Gの寄進につき、1本さしあげておりますが」
+> CONTEXT: Map059/events/3/pages/0/5/Dialogue
+Sister. 「By the way, do you need holy water?
+I am giving you one for the donation of 200 G」#MTLed
+> END STRING
+
+> BEGIN STRING
+シスター
+「はい、どうぞ。
+死霊などに出くわした際にお使いください」
+> CONTEXT: Map059/events/3/pages/0/12/Dialogue
+Sister. 「here you are. Please use when you come across the
+evil spirit etc」#MTLed
+> END STRING
+
+> BEGIN STRING
+聖水を1本手に入れた。
+> CONTEXT: Map059/events/3/pages/0/17/Dialogue
+I got a holy water.#MTLed
+> END STRING
+
+> BEGIN STRING
+シスター
+「お金が足りないようですね」
+> CONTEXT: Map059/events/3/pages/0/22/Dialogue
+Sister. 「You do not seem to have enough money」#MTLed
+> END STRING
+
+> BEGIN STRING
+シスター
+「近頃は娯楽が多くなったせいか、
+若い方が教会に足を運んでいただけなくなった気が
+いたしますの」
+> CONTEXT: Map059/events/4/pages/0/0/Dialogue
+Sister. 「Due to the recent increase in entertainment,
+The feeling that the younger one has stopped visiting the
+church. Do you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士らしき若者
+「ふうっ……いよいよ武道大会……
+どうか、水神サフィスティラのご加護がありますように……」
+> CONTEXT: Map059/events/5/pages/0/0/Dialogue
+Year like a warrior. 「Fuu ...... martial arts tournament
+...... May I have the protection of the shrine Safistira
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（この人も出場者か。
+神頼みをしたくなるのも、まあ分からなくはないな）
+> CONTEXT: Map059/events/5/pages/0/4/Dialogue
+\\N[12]. Is this person also a competitor?
+I do not know for sure that I want to ask God's trust)#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「水神サフィスティラはエルミアの王室とも関係が深く、
+建国の頃から主神として祀られていたそうだよ」
+> CONTEXT: Map059/events/6/pages/0/0/Dialogue
+male. 「The water god Safistira is also closely related to
+the royal family of Elmia, It is said that it was enshrined
+as the principal god from the time of the foundation」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「盗賊がいなくなったから、パパが海にあそびに
+つれていってくれることになったの！
+そのまえに、サフィスティラさまにおいのりするんだって！」
+> CONTEXT: Map059/events/7/pages/0/0/Dialogue
+girl. 「Because the bandits are gone, Dad plays in the sea
+It was supposed to be taken along! Before that, I'm going
+to savor Mr. Safistira!」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「水神様……
+どうか、今年も豊作になりますように」
+> CONTEXT: Map059/events/8/pages/0/0/Dialogue
+Aunt. 「Water God ...... Wish you good harvest this year as
+well」#MTLed
+> END STRING
+
+> BEGIN STRING
+漁師
+「毎日の漁の前に、
+水神様へのお祈りは欠かしたことがねぇんだ」
+> CONTEXT: Map059/events/9/pages/0/0/Dialogue
+Fisherman. 「Before daily fishing, Water prayers for God
+have never been missed」#MTLed
+> END STRING

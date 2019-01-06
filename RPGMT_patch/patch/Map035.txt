@@ -1,0 +1,1763 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ストレイン武具店
+> CONTEXT: Map035/display_name/
+Strein Armor Shop Store#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「いらっしゃいませー！
+ストレイン武具店にようこそ！」
+> CONTEXT: Map035/events/1/pages/1/0/Dialogue
+> CONTEXT: Map035/events/1/pages/2/0/Dialogue
+> CONTEXT: Map035/events/1/pages/4/0/Dialogue
+Mileena. 「welcome! Welcome to the Strein Armor
+Shop store!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あれ？　あんた、東区のレストランにいた
+ウェイトレスじゃ……」
+> CONTEXT: Map035/events/1/pages/1/5/Dialogue
+\\N[12]. 「that? You were in a restaurant in Higashi-ku
+Waitress ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あ、アーロンさんのお店に来てくれた人ね、こんにちは。
+その格好、あなた武道大会に出る人でしょ？
+よければウチで武具を買ってくれたら嬉しいなー」
+> CONTEXT: Map035/events/1/pages/1/9/Dialogue
+Mileena. 「Oh, who came to Aaron-san's shop,
+hello. That dress, you are a martial arts
+tournament out? I would be happy if you could buy
+armor with us」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それは考えておくけど……
+どうして、ここでも働いているんだ？」
+> CONTEXT: Map035/events/1/pages/1/19/Dialogue
+\\N[12]. 「I will think about it .... Why are you still
+working here?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「わたし、ここが実家なの。本来この店の手伝いの方が本業。
+でも、東区の大きな武具店にお客を取られちゃって、
+この店に来るお客さんは少なくなっちゃって――
+> CONTEXT: Map035/events/1/pages/1/23/Dialogue
+Mileena. 「I am this family home. Originally the
+one who helped this store was the main business.
+However, I was taken to a big army shop in
+Higashi Ward, The number of visitors coming to
+this shop has become less -#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「家族の暮らしが苦しくなってきちゃったから、
+アーロンさんのところで生活費を稼いでいるってわけ」
+> CONTEXT: Map035/events/1/pages/1/28/Dialogue
+Mileena. 「Because my family's life has become
+more painful, It is because I earn living
+expenses at Aaron-san」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そっか、大変なんだな」
+> CONTEXT: Map035/events/1/pages/1/32/Dialogue
+\\N[12]. 「Is that a serious problem?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「アーロンさんはよくしてくれているから、
+レストランで働くこと自体は苦じゃないんだけどね」
+> CONTEXT: Map035/events/1/pages/1/35/Dialogue
+Mileena. 「Because Aaron-san is doing well,
+Working in a restaurant itself is not a pain」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「でも、体力的にキツいのは確かだし……
+あーあ、なんか手っ取り早くお金を
+ゲットできるような手段ないかなー」
+> CONTEXT: Map035/events/1/pages/1/39/Dialogue
+Mileena. 「However, it is certain that physical
+fitness ... ... Oh, I got some money quickly
+There is no way to get it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（この人、明るいウェイトレスだなーとしか思ってなかったけど、
+結構苦労してる娘なんだな……）
+> CONTEXT: Map035/events/1/pages/1/44/Dialogue
+\\N[12]. (This person, I thought only as a bright
+waitress, It's a hard-working girl ... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あ、\\N[12]君」
+> CONTEXT: Map035/events/1/pages/5/1/Dialogue
+Mileena. 「Ah, \\N[12] You」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「試合、紳士的に終わらせてくれてありがとね。
+てっきり負けたらエッチなことを
+されちゃうと思ってたよ」
+> CONTEXT: Map035/events/1/pages/5/7/Dialogue
+Mileena. 「Thank you for allowing me to finish
+the game, gentlemanly. Let's definitely lose
+things. I thought that it would be done」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、まあ、あんたは可愛いと思うけどさ。
+俺はとにかく武道大会を勝ち抜いて、
+リベンジしたい相手のところまでたどり着きたいだけなんだ」
+> CONTEXT: Map035/events/1/pages/5/12/Dialogue
+\\N[12]. 「Well, well, I guess you are cute.
+I have won the martial arts tournament anyway,
+I just want to reach the partner I want to revenge」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「へー、因縁のある相手がいるんだ？」
+> CONTEXT: Map035/events/1/pages/5/17/Dialogue
+Mileena. 「Huh, you have a friend with whom?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、そいつと戦うために出場した。
+まさか、あんな無茶苦茶な条件の大会になるなんて
+思っていなかったけど……
+> CONTEXT: Map035/events/1/pages/5/20/Dialogue
+\\N[12]. 「Oh, I played to fight him. No way, it would
+be a tournament for such irresponsible conditions
+I did not expect it ... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+まあそもそも、あんたは王都のアイドルみたいな人なんだろ？
+そんな人をよそ者が好き勝手に陵辱したら
+恨まれて外を歩けなくなりそうだ」
+> CONTEXT: Map035/events/1/pages/5/25/Dialogue
+Well, you are a kid's idol like a king? If you insult such
+a person without permission. I'm afraid I can not walk
+outside」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あはは、そういうこともあるかもね」
+> CONTEXT: Map035/events/1/pages/5/29/Dialogue
+Mileena. 「Ahh, maybe there is something like that
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（うーん、話しやすい子だな。
+さすが接客業で人気を集めてる女の子だけのことはある）
+> CONTEXT: Map035/events/1/pages/5/32/Dialogue
+\\N[12]. (Well, she is a friendly speaker.
+As expected there are only girls who are gaining popularity
+in the hospitality industry)#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「負けたのは悔しいけど、恨みっこはなし。
+せっかく熱い試合した仲なんだしさ、
+これからはライバルとして仲良くやろうよ」
+> CONTEXT: Map035/events/1/pages/5/36/Dialogue
+Mileena. 「I regret that I lost, but I have no
+grudge. I guess I'm on a hot match,
+From now on let's get along as a rival」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、よろしくな」
+> CONTEXT: Map035/events/1/pages/5/41/Dialogue
+\\N[12]. 「Oh, nice to meet you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「いつでも遊びに来てくれていいからね。
+そんでもって、できればウチの武具を
+ごひいきにしてくれたら嬉しいんだけどなー♪」
+> CONTEXT: Map035/events/1/pages/5/45/Dialogue
+Mileena. 「You can come and visit me anytime.
+With that, if possible we can use our weapons
+I would be happy if you let me depict♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、おう。
+商売うまいなあ」
+> CONTEXT: Map035/events/1/pages/5/50/Dialogue
+\\N[12]. 「Okay. I am good at business」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「武道大会で勝つには、武具も重要だよ？
+そこいらの武具じゃあ、
+どこかで行き詰まっちゃうからね」
+> CONTEXT: Map035/events/1/pages/5/54/Dialogue
+Mileena. 「To win the martial arts tournament,
+the armor is also important? If there is any
+weapon there, I will end up getting stuck
+somewhere」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうかもしれないけどさ……
+でも、東区の武器屋の方がいい武器を売ってるんだろ？」
+> CONTEXT: Map035/events/1/pages/5/59/Dialogue
+\\N[12]. 「It may be so .... But, the weapons shop in
+east ward sells good weapons, right?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うっ……た、確かに今はそうかもだけど、
+ウチのほうが
+ずっと良心的な値段で売ってるんだからね！
+> CONTEXT: Map035/events/1/pages/5/63/Dialogue
+Mileena. 「Uh ......, it certainly seems so now,
+I prefer. I sell it at a conscientious price for
+a long time!#MTLed
+> END STRING
+
+> BEGIN STRING
+ウチをごひいきにしてくれたら損はさせないよ？
+ひとついい話も用意してあるから、
+カウンターにいる私のお兄ちゃんに
+話しかけてみてよ」
+> CONTEXT: Map035/events/1/pages/5/68/Dialogue
+I will not let you patronize you if I will
+patronize you. Because I have one good story,
+To my older brother at the counter
+Try to talk to me.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「やっほー、\\N[12]君！
+あたしに勝ったんだから、武道大会頑張ってよね。
+できればウチの依頼も受けてくれたら嬉しいな」
+> CONTEXT: Map035/events/1/pages/6/0/Dialogue
+Mileena. 「Okay, \\N[12] You! I won over me,
+so do your best at martial arts tournament.
+I would be happy if you could accept my request
+if possible」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「また一緒に色々しようねっ♪」
+> CONTEXT: Map035/events/1/pages/7/0/Dialogue
+Mileena. 「Let's do various things together again♪
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「決勝戦、頑張ってね！
+ウチの武具を身に着けて優勝なんてしてくれたら
+最高の宣伝になるなあ」
+> CONTEXT: Map035/events/1/pages/8/1/Dialogue
+Mileena. 「Good luck, do your best!
+If you wear the armor's weapon and do the victory
+It will be the best advertisement」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「決勝戦、頑張ってね！」
+> CONTEXT: Map035/events/1/pages/8/8/Dialogue
+Mileena. 「Good luck, do your best!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あ、\\N[12]、
+あたしのお礼を受けてくれる気になった？」
+> CONTEXT: Map035/events/1/pages/9/0/Dialogue
+Mileena. 「Ah, \\N[12] , Did you feel like
+receiving my reward?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「おっけー
+そんじゃ、２階にあるあたしの部屋に来てよ。
+カウンター右端の扉は開けておくからさ」
+> CONTEXT: Map035/events/1/pages/9/6/Dialogue
+Mileena. 「OK. Then come to my room on the second
+floor. I will keep the door at the right end of
+the counter open.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そっか、じっくり考えてね。
+ホント、なんでもしてあげるから
+遠慮せずに言ってよね♪」
+> CONTEXT: Map035/events/1/pages/9/16/Dialogue
+Mileena. 「Well, think carefully.
+Really, I will do anything. Do not hesitate to
+say♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「優勝おめでとー！
+いやー、キミに負けたときは悔しかったけど
+優勝者に負けたってことなら納得だよー」
+> CONTEXT: Map035/events/1/pages/10/0/Dialogue
+> CONTEXT: Map035/events/1/pages/12/0/Dialogue
+Mileena. 「Happy winning! Well, when I lost to
+you I was sorry. I am convinced if it is lost to
+the winner」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「お、\\N[12]君じゃん。
+武道大会優勝おめでとー！」
+> CONTEXT: Map035/events/1/pages/14/0/Dialogue
+Mileena. 「Contact \\N[12] You, you.
+Martial arts tournament Winner congratulations!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとう、ミリーナ。
+ところで、ひとつ相談したいことがあるんだが、
+いいか？」
+> CONTEXT: Map035/events/1/pages/14/4/Dialogue
+\\N[12]. 「Thank you, Mileena. By the way, I have
+something I would like to consult with, Are you sure?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ん？　いいよ、なに？
+武具の相談かな？」
+> CONTEXT: Map035/events/1/pages/14/9/Dialogue
+Mileena. 「Hmm? Okay, what? Is it consultation of
+arms?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「じつは――」
+> CONTEXT: Map035/events/1/pages/14/13/Dialogue
+\\N[12]. 「Jutsu -」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は女王の試練について説明した――
+> CONTEXT: Map035/events/1/pages/14/16/Dialogue
+> CONTEXT: Map033/events/4/pages/12/23/Dialogue
+\\N[12] He explained about the Queen's test -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「というわけなんだが、どうだろう。
+城の抜け道とか、聞いたことないか？」
+> CONTEXT: Map035/events/1/pages/14/18/Dialogue
+\\N[12]. 「I mean, how is it? Have you heard of a castle
+loophole or something?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「う、うーん……
+ごめんね、私も平民だからなあ。
+お城のことは貴族か兵士に聞かないと」
+> CONTEXT: Map035/events/1/pages/14/22/Dialogue
+Mileena. 「Well, hmm ... .... Sorry, I am also a
+commoner. I have to ask the nobility or the
+soldier about the castle」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そっか、いや、気にするな。
+うーん、となると……兵士は敵に回ってるから、
+貴族に聞くのがいいか」
+> CONTEXT: Map035/events/1/pages/14/27/Dialogue
+\\N[12]. 「Well, no, do not mind. Well, when it comes to
+... ... Because soldiers are turning to enemies,
+Should I ask the nobles」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「貴族なら、この中央区に
+二つほど大きなお屋敷があるよ。
+どっちかに聞いてみるのがいいんじゃないかな」
+> CONTEXT: Map035/events/1/pages/14/32/Dialogue
+Mileena. 「If you are a nobleman, in this central
+ward. There are two large houses.
+I guess it's better to ask which one」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、そういえば大きな屋敷があったな。
+ありがとな、参考になったよ」
+> CONTEXT: Map035/events/1/pages/14/37/Dialogue
+\\N[12]. 「Oh, that reminds me of a big house.
+Thanks, it was helpful.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「役に立てたようなら良かったよ。
+女王の試練って大変そうだけど、頑張ってね。
+キミは平民の星なんだからさ」
+> CONTEXT: Map035/events/1/pages/14/41/Dialogue
+Mileena. 「It would have been nice if it had been
+useful. The trial of the queen seems tough, but
+do your best. Because you are a star of the
+commoner」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、絶対に女王陛下を倒してみせるさ」
+> CONTEXT: Map035/events/1/pages/14/46/Dialogue
+\\N[12]. 「Oh, I will definitely beat her majesty」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「お城のことは貴族の人に聞くのがいいと思うよ。
+貴族のお屋敷なら、このすぐ近くにもあるからね」
+> CONTEXT: Map035/events/1/pages/15/0/Dialogue
+Mileena. 「I think it would be nice to ask the
+nobleman people about the castle.
+If you are a nobleman's mansion, this is also
+nearby」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「うーん、東区の武器屋と比べると
+品揃えが少々寂しいと言わざるを得ないな」
+> CONTEXT: Map035/events/3/pages/0/0/Dialogue
+Warrior. 「Well, compared with the arms shop in Higashi Ward
+I have no choosing to say that the product line is a bit
+lonesome.」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「ほほう、グロッセルキュイラスか……
+この輝き、マルワイクの武具にはないものだ。
+いいものを作ったな、店主」
+> CONTEXT: Map035/events/3/pages/1/0/Dialogue
+Warrior. 「hohoh, grossel cuirasse? .... This shine,
+Marvaick's armor is not there. You made a good one, the
+shopkeeper」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ＝ストレイン
+「ううむ……妹にばかり負担をかけていてはいかん、
+なんとか店の売り上げを上げる手を考えないと……
+あ、すみません、武具がご入用でしょうか？」
+> CONTEXT: Map035/events/4/pages/0/0/Dialogue
+Sadi = Strein. 「Umm ... ... It is not a burden to the
+sister, I have to think about raising the sales of the
+store somehow ...... Oh, I'm sorry, do you need arms?」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「キミは\\N[12]君といったね。ミリーナとの試合、見ていたよ。
+その若さで、かなり腕が立つじゃないか。
+たいしたものだ」
+> CONTEXT: Map035/events/4/pages/1/0/Dialogue
+Sadi. 「You are \\N[12] You said that. I was watching
+the game with Mileena. That young man is pretty skilled.
+It's a big deal.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとうございます」
+> CONTEXT: Map035/events/4/pages/1/5/Dialogue
+\\N[12]. 「Thank you」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「僕はミリーナの兄で、サディという。
+キミの腕を見込んで、ひとつ依頼したいことがあるんだが……
+どうか受けてくれないだろうか」
+> CONTEXT: Map035/events/4/pages/1/8/Dialogue
+Sadi. 「I am Mileena's older brother, Sadi.
+In anticipation of your arms, I have something I want to
+ask one ... ... Will not you accept」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「依頼、ですか。
+どんな内容でしょうか？」
+> CONTEXT: Map035/events/4/pages/1/13/Dialogue
+\\N[12]. 「Is it a request? What is it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「じつは、ウチは東区のマルワイク武具店に押されて
+経営が非常に苦しい状況にある。それをどうにかしようとして、
+ミリーナも武道大会に出てくれたわけだが――
+> CONTEXT: Map035/events/4/pages/1/17/Dialogue
+Sadi. 「Actually, I was pushed by Marvaick Armor Store in
+Dong-gu. Management is in a very difficult situation. In an
+attempt to manage it, Mileena also appeared in the martial
+arts tournament -#MTLed
+> END STRING
+
+> BEGIN STRING
+僕も兄として、ミリーナだけに負担を強いてはいられない。
+そこで本題なんだが、
+亡き父の本棚からひとつ面白いレシピを見つけてね。
+> CONTEXT: Map035/events/4/pages/1/22/Dialogue
+As I am also an older brother, I can not bear a burden only
+on Mileena. So the main subject, Find a fun recipe from the
+deceased father's bookshelf.#MTLed
+> END STRING
+
+> BEGIN STRING
+今は採掘していない特別な鉱石を素材に使うんだが、
+これなら、マルワイクに負けない武具を作れる……かもしれない。
+依頼というのは、その鉱石を二種類ほど探してきて欲しいんだ」
+> CONTEXT: Map035/events/4/pages/1/26/Dialogue
+I use a special ore that is not mined now as a material,
+If this is the case, you may be able to make a weapon that
+will not defeat Marvaick ... .... I want you to search for
+two kinds of that ore」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「鉱石、ですか」
+> CONTEXT: Map035/events/4/pages/1/30/Dialogue
+\\N[12]. 「Ore?」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「もし見つけてきてくれたら、
+キミのために特注の鎧を作ってあげよう。
+それで活躍してくれれば店の宣伝にもなって万々歳だからね」
+> CONTEXT: Map035/events/4/pages/1/33/Dialogue
+Sadi. 「If you find it, Let me make custom armor for you.
+If it works for it then it will become a publicity of the
+store and it's all over」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ちなみに、もし引き受けてくれるんなら
+あたしも案内役として一緒に探索に行くよー」
+> CONTEXT: Map035/events/4/pages/1/41/Dialogue
+Mileena. 「By the way, if you accept it
+I am going to explore together as a guide」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど……」
+（どうしようか？）
+> CONTEXT: Map035/events/4/pages/1/45/Dialogue
+\\N[12]. 「I see……」. (What should I do?)#MTLed
+> END STRING
+
+> BEGIN STRING
+引き受ける
+> CONTEXT: Map035/events/4/pages/1/50/Choice/0
+undertake#MTLed
+> END STRING
+
+> BEGIN STRING
+引き受けない
+> CONTEXT: Map035/events/4/pages/1/50/Choice/1
+I will not accept#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました、お引き受けします」
+> CONTEXT: Map035/events/4/pages/1/52/Dialogue
+\\N[12]. 「Ok, I will accept you」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「おお、引き受けてくれるか、ありがとう！」
+> CONTEXT: Map035/events/4/pages/1/55/Dialogue
+> CONTEXT: Map035/events/4/pages/2/5/Dialogue
+Sadi. 「Oh, thanks for taking over, thank you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そんじゃ、あたしと一緒に探索しよっ！
+鉱石のある場所は、まず東の川向こうの荒野。
+東区の船着場に行けば、舟で送ってもらえるよ」
+> CONTEXT: Map035/events/4/pages/1/67/Dialogue
+> CONTEXT: Map035/events/4/pages/2/17/Dialogue
+Mileena. 「Then, try exploring with me!
+Where the ore is located, the wilderness beyond
+the Higashi no Ogawa. If you go to the dock at
+East Gate, you can send it by boat」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「東の荒野は、今は魔物が増えて容易に立ち入れないが、
+もともと良質な鉱石が採れる土地でね。
+そこでグロッセル鉱石という紫色の鉱石を採ってきてほしい」
+> CONTEXT: Map035/events/4/pages/1/72/Dialogue
+> CONTEXT: Map035/events/4/pages/2/22/Dialogue
+Sadi. 「In the wilderness of the East, now monster
+increases and it does not easily enter, It is a land where
+you can get good quality ores. So I would like you to
+collect purple ore called grossel ore」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど。
+それで、もう一か所は？」
+> CONTEXT: Map035/events/4/pages/1/77/Dialogue
+> CONTEXT: Map035/events/4/pages/2/27/Dialogue
+\\N[12]. 「I see. So, another one?」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「もうひとつはザウメル鉱石というものだ。
+硬度が高いわりに軽い金属らしく、是非一度扱ってみたくてね。
+これはモルデリア山で採れた記録があるらしい」
+> CONTEXT: Map035/events/4/pages/1/81/Dialogue
+> CONTEXT: Map035/events/4/pages/2/31/Dialogue
+Sadi. 「The other is Saumure ore. It seems that it is a
+light metal rather than a high hardness, so please try it
+once by all means. It seems that there is a record taken at
+Mount Morderia」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「モルデリア……盗賊団がいた場所か……」
+> CONTEXT: Map035/events/4/pages/1/86/Dialogue
+> CONTEXT: Map035/events/4/pages/2/36/Dialogue
+\\N[12]. 「Morderia ...... Where the bandits were ... ...
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「南部出身のキミのほうが詳しいんじゃない？
+鉱石のありそうな場所に心当たりがあったら、
+足を運んでみてよ」
+> CONTEXT: Map035/events/4/pages/1/89/Dialogue
+> CONTEXT: Map035/events/4/pages/2/39/Dialogue
+Mileena. 「Are not you familiar with the South
+from the country? If there is a certain idea of
+​​a place where ore is likely to be,
+Take a walk」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「グロッセル鉱石に、ザウメル鉱石か。
+よし、わかった。とにかく探しに行ってみるとするか」
+> CONTEXT: Map035/events/4/pages/1/94/Dialogue
+> CONTEXT: Map035/events/4/pages/2/44/Dialogue
+\\N[12]. 「To grossel ore, Saumure ore? Ok, I
+understand. Why do you want to go looking for it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナがパーティに加わった！
+> CONTEXT: Map035/events/4/pages/1/99/Dialogue
+> CONTEXT: Map035/events/4/pages/2/49/Dialogue
+Mileena joined the party!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「申し訳ありません、
+次の試合に向けて調整もしたいですし、
+依頼はお断りさせていただきたいと思います」
+> CONTEXT: Map035/events/4/pages/1/115/Dialogue
+\\N[12]. 「I'm sorry, I'd like to make adjustments for
+the next match, I would like to refuse requests」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「そうか、出場選手は忙しいだろうし、仕方ないね。
+どうか気にしないでくれ、
+気が変わったらいつでも声をかけてほしい」
+> CONTEXT: Map035/events/4/pages/1/120/Dialogue
+> CONTEXT: Map035/events/4/pages/2/70/Dialogue
+Sadi. 「Right, players will be busy and it can not be
+helped. Please do not mind, I want you to call out whenever
+you change your mind」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「依頼を受けてくれる気になったかい？」
+> CONTEXT: Map035/events/4/pages/2/0/Dialogue
+Sadi. 「Did you feel like receiving a request?」#MTLed
+> END STRING
+
+> BEGIN STRING
+買い物がしたい
+> CONTEXT: Map035/events/4/pages/2/3/Choice/2
+I want to do some shopping#MTLed
+> END STRING
+
+> BEGIN STRING
+"ミリーナ２"
+> CONTEXT: Map035/events/4/pages/2/61/InlineScript/3:16
+"Mileena 2"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ミリーナ顔1"
+> CONTEXT: Map035/events/4/pages/2/61/InlineScript/3:28
+"Mileena face 1"#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「ああ、武具が欲しいのかい？
+どうぞ、じっくり見てくれ」
+> CONTEXT: Map035/events/4/pages/2/77/Dialogue
+Sadi. 「Oh, you want arms? Please, take a closer look.」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「よろしく頼むよ、\\N[12]君
+ミリーナもしっかり彼を助けてあげてくれよ」
+> CONTEXT: Map035/events/4/pages/3/0/Dialogue
+Sadi. 「I beg you to do it, \\N[12] You. Mileena well
+please help him」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「わかってるって、お兄ちゃん。
+しっかり道案内するからさ！」
+> CONTEXT: Map035/events/4/pages/3/4/Dialogue
+Mileena. 「Onii-chan, you know. I will definitely follow
+directions!」#MTLed
+> END STRING
+
+> BEGIN STRING
+グロッセル鉱石のことを聞く
+> CONTEXT: Map035/events/4/pages/3/8/Choice/0
+Listen to grossel ore#MTLed
+> END STRING
+
+> BEGIN STRING
+ザウメル鉱石のことを聞く
+> CONTEXT: Map035/events/4/pages/3/8/Choice/1
+Listen to Saumure ore#MTLed
+> END STRING
+
+> BEGIN STRING
+買い物をする
+> CONTEXT: Map035/events/4/pages/3/8/Choice/2
+to shop#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「グロッセル鉱石は王都東の荒れ地で採れる、
+紫色に光る鉱石さ。
+魔物が多いところだから、充分に気をつけてほしい」
+> CONTEXT: Map035/events/4/pages/3/10/Dialogue
+Sadi. 「grossel ore can be collected in the wasteland of
+the Kingdom of the East, It is a purple ore.
+Because there are many monsters, I want you to be fully
+careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「ザウメル鉱石は、モルデリア山で採れるという
+緑色をした鉱石だよ。
+心当たりがあれば、採掘してきてくれ」
+> CONTEXT: Map035/events/4/pages/3/17/Dialogue
+Sadi. 「Saumure ore can be collected at Morderia mountain
+It is a green ore. If you have a mind, please mined」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「ああ、うちの武具が見たいのかい？
+どうぞ、じっくり見ていってくれ」
+> CONTEXT: Map035/events/4/pages/3/24/Dialogue
+Sadi. 「Oh, do you want to see our weapons?
+Please, take a closer look.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「サディさん、ご依頼の鉱石、
+2つとも手に入れてきましたよ」
+> CONTEXT: Map035/events/4/pages/4/5/Dialogue
+\\N[12]. 「Sadi-san, your requested ore, I got both of
+them」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「おお、持ち帰ってくれたか！
+どれどれ……」
+> CONTEXT: Map035/events/4/pages/4/9/Dialogue
+Sadi. 「Oh, did you take back with me! ... ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「うん、確かに2つとも本物のようだ。
+しかし、ここまで見事なグロッセル鉱石を
+見つけてきてくれるとは、驚いたよ」
+> CONTEXT: Map035/events/4/pages/4/18/Dialogue
+Sadi. 「Yes, it seems that both of them are genuine.
+However, to this extent the superb grossel ore
+I was surprised to find it」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「地下に坑道みたいなところがあって、
+そこで見つけたんだよ。大きな塊だったから、
+まだまだ採れるんじゃない？」
+> CONTEXT: Map035/events/4/pages/4/23/Dialogue
+Mileena. 「There are places like galleries in the
+basement, I found out there. Because it was a big
+lump, You can get it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「ほう、そんな場所があったのか。
+たくさん採れるようなら
+うまくいけば量産も狙えるな。
+> CONTEXT: Map035/events/4/pages/4/28/Dialogue
+Sadi. 「Have you had such a place? If you can get a lot
+Hopefully mass production can not be aimed.#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、これがザウメル鉱石か……
+こっちは初めて手に取るが、本当に魅力的な鉱石だ。
+いい武器が作れそうだ」
+> CONTEXT: Map035/events/4/pages/4/33/Dialogue
+And is this Saumure ore ...? I will take this for the first
+time, but it is a really attractive ore.
+I can make good weapons.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「喜んでいただけたようで良かった、
+これで仕事は終わりですね」
+> CONTEXT: Map035/events/4/pages/4/37/Dialogue
+\\N[12]. 「I was glad that it seemed to be pleased,
+This is the end of work」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「ああ。約束通り、これを素材にした武器と防具を作って
+キミに渡そう。
+急いで作るから、またあとで声をかけてくれたまえ」
+> CONTEXT: Map035/events/4/pages/4/42/Dialogue
+Sadi. 「Oh. As promised, we made weapons and armor made
+from this. Let me give it to you. Because I make it in a
+hurry, please call back later」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「ああ。約束通り、これを素材にした武器と防具を作って
+キミに渡そう。
+すぐには無理だから、何日かしたら来てくれ」
+> CONTEXT: Map035/events/4/pages/4/49/Dialogue
+Sadi. 「Oh. As promised, we made weapons and armor made
+from this. Let me give it to you. As soon as it is
+impossible, after a few days please come」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「妹は役に立ったかい？」
+> CONTEXT: Map035/events/4/pages/4/59/Dialogue
+Sadi. 「Did sister help you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ええ、やっぱり腕が立ちますね。
+一人だったらグロッセル鉱石を持ち帰るのは
+難しかったと思います」
+> CONTEXT: Map035/events/4/pages/4/62/Dialogue
+\\N[12]. 「Yes, your arms will stand up after all.
+If you are alone you will bring grossel ore back home
+I think it was difficult.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ま、あたしと\\N[12]が一緒だし
+どんな魔物が出たって楽勝って感じだね♪」
+> CONTEXT: Map035/events/4/pages/4/68/Dialogue
+Mileena. 「Well, with me \\N[12] Are together
+What kind of monster came out is a real victory♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「無事で帰ってきてくれて何よりだよ。
+二人の頑張りを無駄にしないためにも、
+最高の武具を作ってみせよう」
+> CONTEXT: Map035/events/4/pages/4/72/Dialogue
+Sadi. 「More than anything comes back safely.
+In order not to waste their hard work, Let's make the best
+weapon」#MTLed
+> END STRING
+
+> BEGIN STRING
+ストレイン兄妹の依頼を完遂した！
+> CONTEXT: Map035/events/4/pages/4/78/Dialogue
+Strein brother and sister's request was completed!#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「\\N[12]、これからもいろんなトコに行くんでしょ？
+それなら、これ持っていくといいよ」
+> CONTEXT: Map035/events/4/pages/4/90/Dialogue
+Mileena. 「\\N[12] Will you go to various Toko
+from now on, right? In that case, you should
+bring this with you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はマトックを受け取った。
+> CONTEXT: Map035/events/4/pages/4/95/Dialogue
+\\N[12] He received a steel pick.#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「お兄ちゃんが鍛えた、
+小型で採掘力の高い高性能マトックだよ。
+持っておくといろいろ便利だよー」
+> CONTEXT: Map035/events/4/pages/4/98/Dialogue
+Mileena. 「My older brother trained,
+It's small, high-performance, high-performance
+steel pick. It's convenient to have it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こいつは嬉しいな、サンキュ。
+なにかと使う機会がありそうだ」
+> CONTEXT: Map035/events/4/pages/4/103/Dialogue
+\\N[12]. 「This is glad, thanks. There seems to be
+opportunities to use something」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「\\N[12]、今回はホントにありがとね。
+武道大会でやり合ったときから、ただ者じゃないとは
+思ってたけど、キミって頼りになるんだねー」
+> CONTEXT: Map035/events/4/pages/4/107/Dialogue
+Mileena. 「\\N[12] Thank you very much for
+this time. From when we met in the martial arts
+tournament, I thought, but I do depend on you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、俺ひとりじゃ難しかったさ。
+ミリーナが一緒にいてくれたから、地下でも絶望せずに
+いられたし、迷わずに済んだぜ」
+> CONTEXT: Map035/events/4/pages/4/112/Dialogue
+\\N[12]. 「No, I was difficult by myself.
+Because Mileena was with me, I did not despair in the
+basement. I was gone, I did not get lost」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そうだったんだ。
+お互いに頼もしく感じてたってことは、
+あたしたち、けっこう相性いいのかもね。
+> CONTEXT: Map035/events/4/pages/4/117/Dialogue
+Mileena. 「Oh I see. That they felt dependable on
+each other, We may be pretty well-suited.#MTLed
+> END STRING
+
+> BEGIN STRING
+それでさ、\\N[12]には今回のことで
+お礼がしたいって思ってるんだよね。
+あたしにできることなら何でもするから、
+気が向いたら声をかけてね」
+> CONTEXT: Map035/events/4/pages/4/122/Dialogue
+Then, \\N[12] To this time. I think I want to
+thank you. I will do whatever I can,
+Please call me out if you feel like it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（な、何でも、か……
+それって、どこまで聞いてくれるんだろうか？）
+> CONTEXT: Map035/events/4/pages/4/127/Dialogue
+\\N[12]. (Whatever, whatever ...... How long does it
+take to hear it? )#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナがパーティから離脱しました。
+> CONTEXT: Map035/events/4/pages/4/132/Dialogue
+Mileena left the party.#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「おお、\\N[12]君か。
+例の武具は、まだ制作中でね。
+武道大会の4回戦の日ぐらいまではかかりそうなんだ」
+> CONTEXT: Map035/events/4/pages/5/2/Dialogue
+Sadi. 「Oh, \\N[12] You? Weapons of the example are
+still under construction. It will take up to about the 4th
+round of the martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうでしたか、お疲れさまです」
+（4回戦か。それまでは自前で武具を用意して
+勝ち抜いていかなきゃいけないな）
+> CONTEXT: Map035/events/4/pages/5/7/Dialogue
+\\N[12]. 「I hope so, cheers for good work」
+(4th round? Until then prepare the weapon by yourself
+I have to win over it)#MTLed
+> END STRING
+
+> BEGIN STRING
+武器を見る
+> CONTEXT: Map035/events/4/pages/5/12/Choice/0
+> CONTEXT: Map035/events/4/pages/7/4/Choice/0
+> CONTEXT: Map035/events/4/pages/8/6/Choice/0
+Watch weapons#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「おお、\\N[12]君か。
+例の武具は完成しているよ。
+まず、これがザウメルカットラスだ」
+> CONTEXT: Map035/events/4/pages/6/2/Dialogue
+> CONTEXT: Map035/events/4/pages/8/236/Dialogue
+Sadi. 「Oh, \\N[12] You? The example weapon is complete.
+First of all, this is Saumure cutlass」#MTLed
+> END STRING
+
+> BEGIN STRING
+ザウメルカットラスを手に入れた！
+> CONTEXT: Map035/events/4/pages/6/8/Dialogue
+> CONTEXT: Map035/events/4/pages/8/242/Dialogue
+I got a Saumure cutlass!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こ、これは……
+すごい、なんて軽さだ。
+それでいて、硬度的に優れていることがひと目で分かる」
+> CONTEXT: Map035/events/4/pages/6/12/Dialogue
+> CONTEXT: Map035/events/4/pages/8/246/Dialogue
+\\N[12]. 「Th-This is……. How amazing it is, it's light.
+Yet, you can see at a glance that it is superior in
+hardness」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「そのかわり、魔法的な効果は備わっていないが、
+純粋な剣としては王国内で流通しているものの中でも
+最高クラスだと思う。きっとキミの力になるだろう。
+> CONTEXT: Map035/events/4/pages/6/17/Dialogue
+> CONTEXT: Map035/events/4/pages/8/251/Dialogue
+Sadi. 「Instead, there is no magical effect,
+As a pure sword, among those that are distributed within
+the kingdom. I think that it is the best class. It will
+surely be your strength.#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、これがグロッセルアーマーだ！」
+> CONTEXT: Map035/events/4/pages/6/22/Dialogue
+> CONTEXT: Map035/events/4/pages/8/256/Dialogue
+And this is a grossel armor!」#MTLed
+> END STRING
+
+> BEGIN STRING
+グロッセルアーマーを手に入れた！
+> CONTEXT: Map035/events/4/pages/6/25/Dialogue
+> CONTEXT: Map035/events/4/pages/8/259/Dialogue
+I got a grossel armor!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おお……こっちも軽くて頑丈な鎧だ、
+全身をしっかりカバーするデザインなのに、
+この軽さなら動きを阻害しない！」
+> CONTEXT: Map035/events/4/pages/6/29/Dialogue
+> CONTEXT: Map035/events/4/pages/8/263/Dialogue
+\\N[12]. 「Oh ...... This is also a light and sturdy
+armor, Des Zhein covers the whole body firmly,
+This lightness does not hinder movement!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「マルワイク武具店のグレートアーマーも優れた防具だが
+重量という欠点が見過ごせない。
+これは、その問題を解決する鎧だと自負しているよ。
+> CONTEXT: Map035/events/4/pages/6/34/Dialogue
+> CONTEXT: Map035/events/4/pages/8/268/Dialogue
+Sadi. 「The Great Armor of the Marvaick Armor Store is also
+an excellent armor. We can not overlook the disadvantage of
+weight. I am proud that this is an armor to solve the
+problem.#MTLed
+> END STRING
+
+> BEGIN STRING
+加えて、こいつはグロッセルという金属の特徴として
+魔法の力をある程度はじく特性を持っている。
+魔法を使ってくる相手にも強く出られるはずだよ」
+> CONTEXT: Map035/events/4/pages/6/39/Dialogue
+> CONTEXT: Map035/events/4/pages/8/273/Dialogue
+In addition, this is a feature of metal called grossel
+It has characteristics to repel magical powers to a certain
+extent. You ought to be able to empower others who use
+magic」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こいつは、どちらも素晴らしい武具です！
+これなら武道大会も勝ち抜いていけますよ！」
+> CONTEXT: Map035/events/4/pages/6/43/Dialogue
+\\N[12]. 「Both are wonderful weapons! In this case you
+can also win the martial arts tournament!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「気に入ってくれたか、頑張った甲斐があったよ。
+武道大会、頑張ってくれたまえ。
+キミのことを心から応援しているよ」
+> CONTEXT: Map035/events/4/pages/6/47/Dialogue
+Sadi. 「I liked it, it was worth the effort.
+Martial arts tournament, do your best. I cheer for you from
+my heart」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（これなら、どんな相手にも装備で引けを取ることは
+ないだろう。
+あとは、俺の腕次第でどこまでも行けるはずだ。頑張るぞ！）
+> CONTEXT: Map035/events/4/pages/6/52/Dialogue
+\\N[12]. (In this case, it is not possible to take a
+break by equipment with any opponent. There would be no.
+After that, I can go anywhere depending on my arm. I will
+try my best! )#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「おお、\\N[12]君か。
+武道大会、頑張ってくれたまえ。応援しているよ」
+> CONTEXT: Map035/events/4/pages/7/0/Dialogue
+Sadi. 「Oh, \\N[12] You? Martial arts tournament, do
+your best. I am supporting you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+特別な鍛冶
+> CONTEXT: Map035/events/4/pages/7/4/Choice/2
+> CONTEXT: Map035/events/4/pages/8/6/Choice/2
+Special smithing#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「あの聖剣サフェリアを復活させることができるとは……
+武器職人として、最高の経験をさせてもらったよ。
+ありがとう、\\N[12]君」
+> CONTEXT: Map035/events/4/pages/7/34/Dialogue
+> CONTEXT: Map035/events/4/pages/8/36/Dialogue
+Sadi. 「That you can revive that Holy Sword Safaria ... ...
+As a weapon craftworkman, I had the best experience.
+Thank you, \\N[12] You」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「デモンスレイヤーと魔剣の柄を
+組み合わせて鍛え上げるかい？」
+> CONTEXT: Map035/events/4/pages/7/47/Dialogue
+> CONTEXT: Map035/events/4/pages/8/49/Dialogue
+Sadi. 「Demon Slayer and the handle of the Evil Sword
+Would you like to combine it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+やってもらう
+> CONTEXT: Map035/events/4/pages/7/51/Choice/0
+> CONTEXT: Map035/events/4/pages/7/138/Choice/0
+> CONTEXT: Map035/events/4/pages/8/53/Choice/0
+> CONTEXT: Map035/events/4/pages/8/140/Choice/0
+Get it done#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「そうか、よし……
+じゃあ、デモンスレイヤーと魔剣の柄を預かるよ。
+きっと、素晴らしい剣ができるはずだ」
+> CONTEXT: Map035/events/4/pages/7/53/Dialogue
+> CONTEXT: Map035/events/4/pages/7/140/Dialogue
+> CONTEXT: Map035/events/4/pages/8/55/Dialogue
+> CONTEXT: Map035/events/4/pages/8/142/Dialogue
+Sadi. 「That's right, okay .... Well, I'll keep a handle
+with Demon Slayer and a Magical Sword. I'm sure we should
+have a wonderful sword」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「で、できた……」
+> CONTEXT: Map035/events/4/pages/7/68/Dialogue
+> CONTEXT: Map035/events/4/pages/7/155/Dialogue
+> CONTEXT: Map035/events/4/pages/8/70/Dialogue
+> CONTEXT: Map035/events/4/pages/8/157/Dialogue
+Sadi. 「Well, it was ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「これがそうなんだが……
+手に取ってみてくれるかい？」
+> CONTEXT: Map035/events/4/pages/7/72/Dialogue
+> CONTEXT: Map035/events/4/pages/7/159/Dialogue
+> CONTEXT: Map035/events/4/pages/8/74/Dialogue
+> CONTEXT: Map035/events/4/pages/8/161/Dialogue
+Sadi. 「This is the case ... ... Can you take it in my hand?
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい……お、おおっ！」
+> CONTEXT: Map035/events/4/pages/7/76/Dialogue
+> CONTEXT: Map035/events/4/pages/7/163/Dialogue
+> CONTEXT: Map035/events/4/pages/8/78/Dialogue
+> CONTEXT: Map035/events/4/pages/8/165/Dialogue
+\\N[12]. 「Yes ... ..., Oh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こ、これはすごい……
+手に取った瞬間に、体に神聖な力がみなぎるようだった……
+> CONTEXT: Map035/events/4/pages/7/80/Dialogue
+> CONTEXT: Map035/events/4/pages/7/167/Dialogue
+> CONTEXT: Map035/events/4/pages/8/82/Dialogue
+> CONTEXT: Map035/events/4/pages/8/169/Dialogue
+\\N[12]. 「Here, this is amazing ... At the moment of
+picking up, the body seemed to have sacred power ......#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、刀身の輝きも元のデモンスレイヤーとは
+比較にならないくらい美しい。
+さすがサディさん、ここまでの剣に鍛え上げてくれるとは！」
+> CONTEXT: Map035/events/4/pages/7/84/Dialogue
+> CONTEXT: Map035/events/4/pages/7/171/Dialogue
+> CONTEXT: Map035/events/4/pages/8/86/Dialogue
+> CONTEXT: Map035/events/4/pages/8/173/Dialogue
+Besides, the glow of the blade is also the original Demon
+Slayer. It is as beautiful as it does not compare.
+Truly Sadi-san, that you will train up to this sword!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「その柄に宿った神聖力のおかげさ。
+おそらく、それは古の聖剣サフェリアだろう」
+> CONTEXT: Map035/events/4/pages/7/88/Dialogue
+> CONTEXT: Map035/events/4/pages/7/175/Dialogue
+> CONTEXT: Map035/events/4/pages/8/90/Dialogue
+> CONTEXT: Map035/events/4/pages/8/177/Dialogue
+Sadi. 「Thanks to the divine power that lived in that
+pattern. Probably, it will be the old Holy Sword Safaria」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「サフェリア……」
+> CONTEXT: Map035/events/4/pages/7/92/Dialogue
+> CONTEXT: Map035/events/4/pages/7/179/Dialogue
+> CONTEXT: Map035/events/4/pages/8/94/Dialogue
+> CONTEXT: Map035/events/4/pages/8/181/Dialogue
+\\N[12]. 「Safaria ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「水神サフィスティラ様から人に授けられた聖剣、
+と言われているよ。
+それを手にした騎士は、魔神をも屠ったという話だ」
+> CONTEXT: Map035/events/4/pages/7/95/Dialogue
+> CONTEXT: Map035/events/4/pages/7/182/Dialogue
+> CONTEXT: Map035/events/4/pages/8/97/Dialogue
+> CONTEXT: Map035/events/4/pages/8/184/Dialogue
+Sadi. 「Holy sword given to people from the water god Lady
+Safistira, It is said that. It is a story that the knight
+who had it got killed even the devil」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「確かに、そのくらいの神聖力を感じます。
+こいつがあれば魔族や死霊には絶対に負けないでしょう、
+ありがとうございました、サディさん！」
+> CONTEXT: Map035/events/4/pages/7/100/Dialogue
+> CONTEXT: Map035/events/4/pages/7/187/Dialogue
+> CONTEXT: Map035/events/4/pages/8/102/Dialogue
+> CONTEXT: Map035/events/4/pages/8/189/Dialogue
+\\N[12]. 「Certainly, I feel that sacred power.
+If he had this, he would never beat the demons and the dead
+gods, Thank you, Sadi - san!」#MTLed
+> END STRING
+
+> BEGIN STRING
+聖剣サフェリアを手に入れた！
+> CONTEXT: Map035/events/4/pages/7/106/Dialogue
+> CONTEXT: Map035/events/4/pages/7/193/Dialogue
+> CONTEXT: Map035/events/4/pages/8/108/Dialogue
+> CONTEXT: Map035/events/4/pages/8/195/Dialogue
+I got a holy sword Safaria!#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「そうかい？
+気が変わったら、いつでも声をかけてくれ」
+> CONTEXT: Map035/events/4/pages/7/113/Dialogue
+> CONTEXT: Map035/events/4/pages/7/200/Dialogue
+> CONTEXT: Map035/events/4/pages/8/115/Dialogue
+> CONTEXT: Map035/events/4/pages/8/202/Dialogue
+Sadi. 「Is it so? If you change your mind, please call me
+anytime.」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「ほう、キミが持っているその柄、かなりのものだね。
+強い魔力が込められているようだ」
+> CONTEXT: Map035/events/4/pages/7/121/Dialogue
+> CONTEXT: Map035/events/4/pages/8/123/Dialogue
+Sadi. 「Huh, that pattern that you have is pretty.
+It seems that strong magical power is put in it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「分かるんですか？
+これをくれた人によると、魔族や死霊を打ち払うような剣と
+相性がいいらしいんですが」
+> CONTEXT: Map035/events/4/pages/7/125/Dialogue
+> CONTEXT: Map035/events/4/pages/8/127/Dialogue
+\\N[12]. 「Do you understand? According to the person
+who gave me this, a sword that will strike demons and dead
+spirits. It seems that there is a good compatibility」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「それは間違いないだろうね、神聖な魔力を感じる。
+よければ、キミが持っているデモンスレイヤーを
+その柄に差し直した上で、さらに鍛え上げてみようか？」
+> CONTEXT: Map035/events/4/pages/7/130/Dialogue
+> CONTEXT: Map035/events/4/pages/8/132/Dialogue
+Sadi. 「That would be no doubt, I feel sacred magical power.
+If you do not mind, I'd like to ask Demon Slayer that you
+have. Why do not you try to train further after you
+reattach it to the handle?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（どうしようか？）
+> CONTEXT: Map035/events/4/pages/7/135/Dialogue
+> CONTEXT: Map035/events/4/pages/8/137/Dialogue
+\\N[12]. (What should I do?)#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「他で扱えないような素材などがあったら、
+持ってきてくれれば加工するよ」
+> CONTEXT: Map035/events/4/pages/7/211/Dialogue
+> CONTEXT: Map035/events/4/pages/7/219/Dialogue
+> CONTEXT: Map035/events/4/pages/8/213/Dialogue
+> CONTEXT: Map035/events/4/pages/8/221/Dialogue
+Sadi. 「If there are materials that can not be handled
+elsewhere, I will process it if you bring it」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「おお、\\N[12]君か。
+武道大会、優勝おめでとう。
+キミに武具を提供した身としても、とても嬉しいよ」
+> CONTEXT: Map035/events/4/pages/8/1/Dialogue
+Sadi. 「Oh, \\N[12] You? Martial arts tournament,
+congratulations for the victory. I am very happy even
+though I gave you weapons for you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こいつは、どちらも素晴らしい武具です！
+剣士として、これほどのものを手にできて幸せですよ」
+> CONTEXT: Map035/events/4/pages/8/277/Dialogue
+\\N[12]. 「Both are wonderful weapons! As a swordsman, I
+am happy to have such a thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「気に入ってくれたか、頑張った甲斐があったよ。
+武道大会を制するほどの剣士に武具を提供できて、
+僕も光栄さ。大切にしてくれると嬉しい」
+> CONTEXT: Map035/events/4/pages/8/281/Dialogue
+Sadi. 「I liked it, it was worth the effort.
+We could provide weapons to sword fighters enough to
+control martial arts tournament, I am also honored. I am
+happy to cherish it」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「いらっしゃいませ、
+うちの武具は値段も手頃で扱いやすいですよー」
+> CONTEXT: Map035/events/4/pages/8/295/Dialogue
+Sadi. 「Welcome, My weapon is expensive and easy to handle」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「この店には、ミリーナちゃんていう
+可愛い女の子がいるんだ。
+普段は東区のレストランで働いているみたいだよ」
+> CONTEXT: Map035/events/8/pages/0/0/Dialogue
+Youth. 「In this store, Mileena-chan. I have a pretty girl.
+I usually seem to work in a restaurant in the east section」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「ミリーナちゃん、やっぱり可愛いなぁ。
+元気な笑顔を見ていると、こっちも活力が湧いてくるよ」
+> CONTEXT: Map035/events/8/pages/1/0/Dialogue
+> CONTEXT: Map035/events/8/pages/3/0/Dialogue
+Youth. 「Mileena-chan, it's cute all along.
+If you are looking at a healthy smile, vitality will come
+here as well」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「ミリーナちゃんは、武道大会開催日までは
+毎日レストランで働くみたいだね」
+> CONTEXT: Map035/events/8/pages/2/0/Dialogue
+Youth. 「Mileena-chan until martial arts tournament date
+It seems to work at a restaurant everyday」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「お、ミリーナちゃん
+出かけるのかい？
+顔に傷なんかつけないように、気をつけてな」
+> CONTEXT: Map035/events/8/pages/4/0/Dialogue
+Youth. 「O, Mileena-chan. Are you going out?
+Be careful not to scratch your face.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「大丈夫！
+あたし、こう見えても強いんだから」
+> CONTEXT: Map035/events/8/pages/4/5/Dialogue
+Mileena. 「All right! Even if I see this, I am
+strong」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「この店は、加工技術はマルワイク武具店にも
+劣っていないわね。
+だけど、ハイエンド品の品揃えが寂しすぎるのがね……」
+> CONTEXT: Map035/events/9/pages/0/0/Dialogue
+Woman. 「This shop, processing technology also Marvaick
+armor store. It is not inferior. However, the product line
+of high end products is too lonesome ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「新しく店頭に並ぶようになった武具、
+素晴らしいわね。軽くて扱いやすいのに威力もある。
+女性にとっては、マルワイクの武具より魅力的だわ」
+> CONTEXT: Map035/events/9/pages/1/0/Dialogue
+Woman. 「Weapons that came to be new in stores,
+It is wonderful. It is light and easy to handle, but it
+also has power. For women, Marvaick's armor is more
+attractive」#MTLed
+> END STRING
+
+> BEGIN STRING
+それから一ヶ月後――
+> CONTEXT: Map035/events/12/pages/0/1/Dialogue
+One month later -#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ほらほら、もっと腰を入れて鉄を打たないと
+ちゃんとした剣ができないよー！」
+> CONTEXT: Map035/events/12/pages/0/5/Dialogue
+Mileena. 「oh no, I have to sit more and hit the
+iron. I can not do a proper sword!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わ、わかった。
+こうか？」
+> CONTEXT: Map035/events/12/pages/0/9/Dialogue
+\\N[12]. 「I understand. effect?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うん、そうそう。
+やっぱり剣士だけあって背筋はしっかりしてるし、
+鍛冶に向いた体してるね」
+> CONTEXT: Map035/events/12/pages/0/17/Dialogue
+Mileena. 「Yes, that's right. After all there is
+only a swordsman, the spine is solid,
+I'm body-oriented for smiths」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「\\N[12]君が来てからというもの、いろいろ助かっているよ。
+僕とミリーナだけでは店が回らないと感じていたからね」
+> CONTEXT: Map035/events/12/pages/0/24/Dialogue
+Sadi. 「\\N[12] I have been saved because you came.
+Because I felt that the store would not turn around with me
+and Mileena alone」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はあ……俺、そんなに役に立っているんでしょうか」
+> CONTEXT: Map035/events/12/pages/0/28/Dialogue
+\\N[12]. 「Haa ...... I, is that useful」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うん。
+もちろん、まだまだ覚えてもらいたい雑用とかも多いし、
+これからどんどん教えてあげるからね」
+> CONTEXT: Map035/events/12/pages/0/31/Dialogue
+Mileena. 「Yup. Of course, there are many chores
+that I want to remember, I will tell you more and
+more from now on」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「僕からも頼むよ、もちろん給金は出すからね」
+> CONTEXT: Map035/events/12/pages/0/36/Dialogue
+Sadi. 「I will ask you, of course I will pay for it」#MTLed
+> END STRING
+
+> BEGIN STRING
+サディ
+「さて、ちょっと仕入れ先に出かけてくるよ。
+ミリーナ、今日は店番を頼む」
+> CONTEXT: Map035/events/12/pages/0/39/Dialogue
+Sadi. 「Well, I'm going out for a while. Mileena, I will
+ask for a store number today.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「はーい、いってらっしゃい、お兄ちゃん」
+> CONTEXT: Map035/events/12/pages/0/43/Dialogue
+Mileena. 「Hello, come and go, brother」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「剣で身を立てようとしてたキミにとっては
+不本意かもしれないけど、
+武道大会のルールのせいだし、納得してよね」
+> CONTEXT: Map035/events/12/pages/0/51/Dialogue
+Mileena. 「For you who was trying to build up
+with a sword. Although it may be unwilling to do,
+It's because of the rules of martial arts
+tournament and you are convinced」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、分かってる。
+負けた俺が悪いんだから、もう割り切ってるさ」
+> CONTEXT: Map035/events/12/pages/0/58/Dialogue
+\\N[12]. 「Oh, I know. I lost, so I'm bad, I already
+take it out」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そう？
+よかった、そう言ってくれるなら安心するよ」
+> CONTEXT: Map035/events/12/pages/0/62/Dialogue
+Mileena. 「so? Good, if you say so, I'm relieved」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ウチの仕事、頑張ってね。
+仕事をうまくできたら、たまには手とかお尻で
+おちんちんをいじめてあげてもいいよ♪」
+> CONTEXT: Map035/events/12/pages/0/66/Dialogue
+Mileena. 「Good luck with your job, huh.
+If you can do your job well, occasionally with
+your hands or buttocks. You can give birth to you
+♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……
+ミ、ミリーナ、それは……」
+> CONTEXT: Map035/events/12/pages/0/71/Dialogue
+\\N[12]. 「Wow .... Mi, Mileena, that is ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あたし、キミがえっちなことをされるときの声とか
+反応とかが気に入っちゃった。
+これからも可愛がってあげるからね」
+> CONTEXT: Map035/events/12/pages/0/75/Dialogue
+Mileena. 「I, a voice when you do something that
+you do. I like the response and something.
+I will keep it from now on」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（武道大会は負けちまったし、
+ミリーナの尻に敷かれてるのは情けないけど……
+こいつは可愛いし、一緒に仕事できるのは悪くないかもな。
+> CONTEXT: Map035/events/12/pages/0/83/Dialogue
+\\N[12]. (The martial arts tournament has lost,
+It's miserable that Mileena's hips are laid ... ...
+He is cute and it might not be bad to work together.#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士として生きていきたかったけど、
+俺はそれだけの強さを持っていなかったんだ。
+これからは、
+ここで鍛冶の仕事を頑張っていこう）
+> CONTEXT: Map035/events/12/pages/0/88/Dialogue
+I wanted to live as a swordsmen, I did not have that
+strength. From now on, Let's do our best for blacksmith
+here)#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は武道大会の一回戦で
+ミリーナ＝ストレインに敗れ、
+彼女の実家で働くことになってしまったのであった……
+> CONTEXT: Map035/events/12/pages/0/94/Dialogue
+In this way, \\N[12] In the first round of martial arts
+tournament. Lost by Mileena = Strein, It was decided to
+work at her parents house ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ バッドエンド：武器屋の店員となった少年
+> CONTEXT: Map035/events/12/pages/0/98/Dialogue
+Mileena bad end: a boy who became a clerk at an arsenal
+store#MTLed
+> END STRING

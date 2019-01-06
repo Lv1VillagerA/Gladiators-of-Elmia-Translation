@@ -1,0 +1,181 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ベルベット
+「ほら\\N[12]、
+ちゃんとついてきな」
+> CONTEXT: Map146/events/2/pages/0/1/Dialogue
+> CONTEXT: Commonevents/165/1/Dialogue
+> CONTEXT: Commonevents/228/643/Dialogue
+velvet. 「Here \\N[12] , Come along properly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わ、分かってるって」
+> CONTEXT: Map146/events/2/pages/0/5/Dialogue
+\\N[12]. 「Wait, I know.」#MTLed
+> CONTEXT: Commonevents/165/5/Dialogue
+> CONTEXT: Commonevents/228/647/Dialogue
+\\N[12]. 「Wait, I know.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「お頭、このへんでいいんじゃない？」
+> CONTEXT: Map146/events/2/pages/0/8/Dialogue
+Bandit Girl. 「Your head, is not it okay with this?」#MTLed
+> CONTEXT: Commonevents/165/8/Dialogue
+> CONTEXT: Commonevents/228/650/Dialogue
+Bandit Girl. 「Your head, is not it okay with
+this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「そうだね、よし……」
+> CONTEXT: Map146/events/2/pages/0/11/Dialogue
+> CONTEXT: Commonevents/165/11/Dialogue
+> CONTEXT: Commonevents/228/653/Dialogue
+velvet. 「That's right, okay ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「今日は盗賊としての、あんたの初仕事だよ。
+ここを通る貴族の馬車を襲うからね」
+> CONTEXT: Map146/events/2/pages/0/18/Dialogue
+> CONTEXT: Commonevents/165/18/Dialogue
+> CONTEXT: Commonevents/228/660/Dialogue
+velvet. 「Today is your first job as a thief.
+Because it strikes the aristocracy passing
+through here」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「\\N[12]は腕が立つから、
+切り込み隊長にはもってこいだよね。
+期待してるよ、後輩」
+> CONTEXT: Map146/events/2/pages/0/25/Dialogue
+Bandit Girl. 「\\N[12] Because his arms stand up,
+It is perfect for the captains you cut. I'm expecting you,
+my junior」#MTLed
+> CONTEXT: Commonevents/165/25/Dialogue
+> CONTEXT: Commonevents/228/667/Dialogue
+Bandit Girl. 「\\N[12] Because his arms stand
+up, It is perfect for the captains you cut.
+I'm expecting you, my junior」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、こうなったらとことんやってやる」
+> CONTEXT: Map146/events/2/pages/0/30/Dialogue
+\\N[12]. 「Oh, I will do my best as I become like this」#MTLed
+> CONTEXT: Commonevents/165/30/Dialogue
+> CONTEXT: Commonevents/228/672/Dialogue
+\\N[12]. 「Oh, I will do my best as I become
+like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（剣士として身を立てようと思っていたのに
+気がついたら盗賊になっているとは……
+これは、本格的に親父たちに顔向けできないな）
+> CONTEXT: Map146/events/2/pages/0/33/Dialogue
+\\N[12]. (I thought about making up as a swordsman
+When you notice it is becoming a bandit ... ...
+This can not face the fathers in full swing)#MTLed
+> CONTEXT: Commonevents/165/33/Dialogue
+> CONTEXT: Commonevents/228/675/Dialogue
+\\N[12]. (I thought about making up as a
+swordsman. When you notice it is becoming a
+bandit ... ... This can not face the fathers in
+full swing)#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ほら、ぼーっとしてないで準備しな、\\N[12]！
+あとの二人が森の中から馬車を奇襲して
+止めさせるから、あたしらは正面から切り込むよ！」
+> CONTEXT: Map146/events/2/pages/0/40/Dialogue
+> CONTEXT: Commonevents/165/40/Dialogue
+> CONTEXT: Commonevents/228/682/Dialogue
+velvet. 「Look, do not be prepared, do not
+prepare, \\N[12] ! The other two surprised the
+carriage from the forest. I will stop you, we'll
+cut from the front!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、おうっ！」
+> CONTEXT: Map146/events/2/pages/0/45/Dialogue
+\\N[12]. 「Ooh!」#MTLed
+> CONTEXT: Commonevents/165/45/Dialogue
+> CONTEXT: Commonevents/228/687/Dialogue
+\\N[12]. 「Ooh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「うまくいったら、またエッチしてやるから
+気張って働きなよ、坊や」
+> CONTEXT: Map146/events/2/pages/0/48/Dialogue
+> CONTEXT: Commonevents/165/48/Dialogue
+> CONTEXT: Commonevents/228/690/Dialogue
+velvet. 「If it goes well, I'll do it again
+Do not work naturally, boy」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ま、まあいいか……
+毎日のように、お頭や他の盗賊たちと
+エロいことができるんだしな……）
+> CONTEXT: Map146/events/2/pages/0/52/Dialogue
+\\N[12]. (Well, whatever .... As everyday, with your
+head and other thieves. I can do it erotic ... ...)#MTLed
+> CONTEXT: Commonevents/165/52/Dialogue
+> CONTEXT: Commonevents/228/694/Dialogue
+\\N[12]. (Well, whatever .... As everyday,
+with your head and other thieves
+I can do it erotic ... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「来た来た♪
+さあ、盗賊稼業の始まりだよ！」
+> CONTEXT: Map146/events/2/pages/0/97/Dialogue
+> CONTEXT: Commonevents/165/97/Dialogue
+> CONTEXT: Commonevents/228/739/Dialogue
+velvet. 「I came.♪. Now, it is the beginning of
+thieves work!」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は盗賊団の一員となり
+彼女たちと共にエルミアや周辺国で
+暴れまわることになったのであった。
+> CONTEXT: Map146/events/2/pages/0/102/Dialogue
+In this way, \\N[12] Became a member of the bandits
+In Elmia and neighboring countries with them
+It was about to go around rampage.#MTLed
+> CONTEXT: Commonevents/165/102/Dialogue
+> CONTEXT: Commonevents/228/744/Dialogue
+In this way, \\N[12] Became a member of the
+bandits. In Elmia and neighboring countries with
+them. It was about to go around rampage.#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット ノーマルエンド：盗賊団入団
+> CONTEXT: Map146/events/2/pages/0/106/Dialogue
+Velvet normal end: joining bandits#MTLed
+> CONTEXT: Commonevents/165/106/Dialogue
+> CONTEXT: Commonevents/228/748/Dialogue
+Velvet normal end: joining bandits#MTLed
+> END STRING

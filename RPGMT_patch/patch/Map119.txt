@@ -1,0 +1,400 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エリクサーを手に入れた！
+> CONTEXT: Map119/events/5/pages/0/10/Dialogue
+> CONTEXT: Map020/events/17/pages/0/9/Dialogue
+I got Elixir!#MTLed
+> END STRING
+
+> BEGIN STRING
+水路の鍵を手に入れた！
+> CONTEXT: Map119/events/5/pages/0/15/Dialogue
+I got the key of the waterway!#MTLed
+> END STRING
+
+> BEGIN STRING
+水路非常口の鍵を手に入れた！
+> CONTEXT: Map119/events/6/pages/0/9/Dialogue
+I got the key for the waterway emergency exit!#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ちっ、なんでラミアなんかがいるんだ……
+坊や、この先も何がいるか分かったもんじゃない
+気をつけるんだよ！」
+> CONTEXT: Map119/events/7/pages/0/0/Dialogue
+velvet. 「Why, there is something like lamia
+...... Boy, I did not know what's going on in the
+future. Be careful!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、お前もな！」
+> CONTEXT: Map119/events/7/pages/0/5/Dialogue
+\\N[12]. 「Oh, you too!」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物が倒されている……
+> CONTEXT: Map119/events/9/pages/0/0/Dialogue
+> CONTEXT: Map119/events/10/pages/0/0/Dialogue
+> CONTEXT: Map119/events/11/pages/0/0/Dialogue
+> CONTEXT: Map119/events/12/pages/0/0/Dialogue
+> CONTEXT: Map119/events/13/pages/0/0/Dialogue
+> CONTEXT: Map119/events/16/pages/2/0/Dialogue
+> CONTEXT: Map119/events/17/pages/2/0/Dialogue
+> CONTEXT: Map119/events/18/pages/2/0/Dialogue
+> CONTEXT: Map119/events/19/pages/2/0/Dialogue
+> CONTEXT: Map119/events/20/pages/2/0/Dialogue
+> CONTEXT: Map119/events/21/pages/2/0/Dialogue
+> CONTEXT: Map119/events/22/pages/2/0/Dialogue
+The monster has been knocked down......#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「あ、おにーさん。
+みんなで魔物を少し片付けといたよ。
+ここの魔物強くて厄介なんだよねー」
+> CONTEXT: Map119/events/14/pages/0/0/Dialogue
+bandit teen. 「Oh, my older brother. Everyone cleaned up
+the monster a bit. The monster here is strong and
+troubling.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、助かる。
+しかし、なるほどな。ここの魔物が入ってこないように
+ここに繋がる橋は、普段は落としていたってわけか」
+> CONTEXT: Map119/events/14/pages/0/5/Dialogue
+\\N[12]. 「Oh, it will be saved. But I see. As this
+monster does not come in. Was the bridge connected here
+usually dropped?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「そーいうこと」
+> CONTEXT: Map119/events/14/pages/0/10/Dialogue
+bandit teen. 「To say that」#MTLed
+> END STRING
+
+> BEGIN STRING
+ブラッドフェアリー
+「ふふふ……
+その程度の腕前でわたしの前に現れるなんて、
+無謀だったね」
+> CONTEXT: Map119/events/21/pages/0/20/Dialogue
+> CONTEXT: Map119/events/22/pages/0/20/Dialogue
+> CONTEXT: Map069/events/25/pages/0/20/Dialogue
+> CONTEXT: Map071/events/30/pages/0/20/Dialogue
+> CONTEXT: Map071/events/31/pages/0/20/Dialogue
+> CONTEXT: Map071/events/32/pages/0/20/Dialogue
+blood fairy. 「Hehu...To appear to me in front of that
+extent, You were reckless.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんて魔力だっ
+普通のフェアリーとは比較にならない……」
+> CONTEXT: Map119/events/21/pages/0/34/Dialogue
+> CONTEXT: Map119/events/22/pages/0/34/Dialogue
+> CONTEXT: Map069/events/25/pages/0/34/Dialogue
+> CONTEXT: Map071/events/30/pages/0/34/Dialogue
+> CONTEXT: Map071/events/31/pages/0/34/Dialogue
+> CONTEXT: Map071/events/32/pages/0/34/Dialogue
+\\N[12]. 「What, it is magical. It is not comparable
+with ordinary fairy ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ブラッドフェアリー
+「さあ、あなたの血を吸い尽くしてあげる。
+そして、その生命のエネルギーを
+すべてわたしが吸収してあげるわ」
+> CONTEXT: Map119/events/21/pages/0/38/Dialogue
+> CONTEXT: Map119/events/22/pages/0/38/Dialogue
+> CONTEXT: Map069/events/25/pages/0/38/Dialogue
+> CONTEXT: Map071/events/30/pages/0/38/Dialogue
+> CONTEXT: Map071/events/31/pages/0/38/Dialogue
+> CONTEXT: Map071/events/32/pages/0/38/Dialogue
+blood fairy. 「Now, I will drain your blood.
+And the energy of that life. All I will absorb」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「や、やめ……」
+> CONTEXT: Map119/events/21/pages/0/43/Dialogue
+> CONTEXT: Map119/events/22/pages/0/43/Dialogue
+> CONTEXT: Map069/events/25/pages/0/43/Dialogue
+> CONTEXT: Map071/events/30/pages/0/43/Dialogue
+> CONTEXT: Map071/events/31/pages/0/43/Dialogue
+> CONTEXT: Map071/events/32/pages/0/43/Dialogue
+\\N[12]. 「Or...stop ...」#MTLed
+> CONTEXT: Commonevents/200/336/Dialogue
+> CONTEXT: Commonevents/205/323/Dialogue
+> CONTEXT: Commonevents/248/355/Dialogue
+\\N[12]. 「Or...stop ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ブラッドフェアリーは、
+\\N[12]の首筋に噛み付き、
+血を吸い上げる！
+> CONTEXT: Map119/events/21/pages/0/46/Dialogue
+> CONTEXT: Map119/events/22/pages/0/46/Dialogue
+> CONTEXT: Map069/events/25/pages/0/46/Dialogue
+> CONTEXT: Map071/events/30/pages/0/46/Dialogue
+> CONTEXT: Map071/events/31/pages/0/46/Dialogue
+> CONTEXT: Map071/events/32/pages/0/46/Dialogue
+Blood fairy, \\N[12] I bit my neck, Sucking up blood!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、うあ……
+ああああぁぁぁ……！」
+> CONTEXT: Map119/events/21/pages/0/54/Dialogue
+> CONTEXT: Map119/events/22/pages/0/54/Dialogue
+> CONTEXT: Map069/events/25/pages/0/54/Dialogue
+> CONTEXT: Map071/events/30/pages/0/54/Dialogue
+> CONTEXT: Map071/events/31/pages/0/54/Dialogue
+> CONTEXT: Map071/events/32/pages/0/54/Dialogue
+\\N[12]. 「Ugh ...... Aaaahhh......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ブラッドフェアリー
+「このわたしの唇の感触を感じて死ねること、
+光栄に思いなさい♪」
+> CONTEXT: Map119/events/21/pages/0/58/Dialogue
+> CONTEXT: Map119/events/22/pages/0/58/Dialogue
+> CONTEXT: Map069/events/25/pages/0/58/Dialogue
+> CONTEXT: Map071/events/30/pages/0/58/Dialogue
+> CONTEXT: Map071/events/31/pages/0/58/Dialogue
+> CONTEXT: Map071/events/32/pages/0/58/Dialogue
+blood fairy. 「Feeling this feeling of my lip and dying,
+Please be honored.♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（す、吸われてゆく……
+命そのものが、吸い取られていくのが分かる……
+こ、このまま続けさせたら、本当にヤバい……！）
+> CONTEXT: Map119/events/21/pages/0/64/Dialogue
+> CONTEXT: Map119/events/22/pages/0/64/Dialogue
+> CONTEXT: Map069/events/25/pages/0/64/Dialogue
+> CONTEXT: Map071/events/30/pages/0/64/Dialogue
+> CONTEXT: Map071/events/31/pages/0/64/Dialogue
+> CONTEXT: Map071/events/32/pages/0/64/Dialogue
+\\N[12]. (It will be sucking ...... I know that the life
+itself is being sucked in...... If you let this continue
+as it is, it is really dangerous ......! )#MTLed
+> END STRING
+
+> BEGIN STRING
+ブラッドフェアリー
+「死の予感を感じるでしょ？
+でも、抵抗はできないはずよ」
+> CONTEXT: Map119/events/21/pages/0/69/Dialogue
+> CONTEXT: Map119/events/22/pages/0/69/Dialogue
+> CONTEXT: Map069/events/25/pages/0/69/Dialogue
+> CONTEXT: Map071/events/30/pages/0/69/Dialogue
+> CONTEXT: Map071/events/31/pages/0/69/Dialogue
+> CONTEXT: Map071/events/32/pages/0/69/Dialogue
+blood fairy. 「Do you feel the feeling of death?
+But, resistance should not be possible」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああぁ……ど、どうして……
+力が、入らない……
+それに、体が……快感を感じている……！」
+> CONTEXT: Map119/events/21/pages/0/73/Dialogue
+> CONTEXT: Map119/events/22/pages/0/73/Dialogue
+> CONTEXT: Map069/events/25/pages/0/73/Dialogue
+> CONTEXT: Map071/events/30/pages/0/73/Dialogue
+> CONTEXT: Map071/events/31/pages/0/73/Dialogue
+> CONTEXT: Map071/events/32/pages/0/73/Dialogue
+\\N[12]. 「Oh, oh...why, why ...? Power does not enter
+... Besides, my body feels pleasant.......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の全身に、
+ゾクゾクとした性的刺激が突き抜けてゆく。
+> CONTEXT: Map119/events/21/pages/0/78/Dialogue
+> CONTEXT: Map119/events/22/pages/0/78/Dialogue
+> CONTEXT: Map069/events/25/pages/0/78/Dialogue
+> CONTEXT: Map071/events/30/pages/0/78/Dialogue
+> CONTEXT: Map071/events/31/pages/0/78/Dialogue
+> CONTEXT: Map071/events/32/pages/0/78/Dialogue
+\\N[12] In the whole body, A sexual stimulus with
+tremble goes through.#MTLed
+> END STRING
+
+> BEGIN STRING
+ブラッドフェアリー
+「妖精の唇を肌に感じている上、
+わたしの魔力が傷口から全身に浸透しているのよ。
+人間にとっては、これほど甘美な感覚もないんじゃない？」
+> CONTEXT: Map119/events/21/pages/0/81/Dialogue
+> CONTEXT: Map119/events/22/pages/0/81/Dialogue
+> CONTEXT: Map069/events/25/pages/0/81/Dialogue
+> CONTEXT: Map071/events/30/pages/0/81/Dialogue
+> CONTEXT: Map071/events/31/pages/0/81/Dialogue
+> CONTEXT: Map071/events/32/pages/0/81/Dialogue
+blood fairy. 「I feel the fairy's lips on my skin,
+My magical power penetrates the whole body from the wound.
+For humans, you do not feel as sweet as this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、こんな感覚に酔っている場合じゃないのに……
+くそっ、このまま終わってたまるかっ！」
+> CONTEXT: Map119/events/21/pages/0/86/Dialogue
+> CONTEXT: Map119/events/22/pages/0/86/Dialogue
+> CONTEXT: Map069/events/25/pages/0/86/Dialogue
+> CONTEXT: Map071/events/30/pages/0/86/Dialogue
+> CONTEXT: Map071/events/31/pages/0/86/Dialogue
+> CONTEXT: Map071/events/32/pages/0/86/Dialogue
+\\N[12]. 「Ku . Damn, I will end up like
+this!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ブラッドフェアリー
+「さあ、もっといっぱい血を吸い上げてあげる」
+> CONTEXT: Map119/events/21/pages/0/90/Dialogue
+> CONTEXT: Map119/events/22/pages/0/90/Dialogue
+> CONTEXT: Map069/events/25/pages/0/90/Dialogue
+> CONTEXT: Map071/events/30/pages/0/90/Dialogue
+> CONTEXT: Map071/events/31/pages/0/90/Dialogue
+> CONTEXT: Map071/events/32/pages/0/90/Dialogue
+blood fairy. 「Now, I will give you more blood」#MTLed
+> END STRING
+
+> BEGIN STRING
+ちゅううううぅぅっ……
+> CONTEXT: Map119/events/21/pages/0/95/Dialogue
+> CONTEXT: Map119/events/22/pages/0/95/Dialogue
+> CONTEXT: Map069/events/25/pages/0/95/Dialogue
+> CONTEXT: Map071/events/30/pages/0/95/Dialogue
+> CONTEXT: Map071/events/31/pages/0/95/Dialogue
+> CONTEXT: Map071/events/32/pages/0/95/Dialogue
+Troubleshooting ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ひっ……あっ、ああああぁぁぁ……！」
+> CONTEXT: Map119/events/21/pages/0/97/Dialogue
+> CONTEXT: Map119/events/22/pages/0/97/Dialogue
+> CONTEXT: Map069/events/25/pages/0/97/Dialogue
+> CONTEXT: Map071/events/30/pages/0/97/Dialogue
+> CONTEXT: Map071/events/31/pages/0/97/Dialogue
+> CONTEXT: Map071/events/32/pages/0/97/Dialogue
+\\N[12]. 「Hey...... Ah, you...Aaaahhh......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あうっ……
+き、きもちいい……」
+> CONTEXT: Map119/events/21/pages/0/103/Dialogue
+> CONTEXT: Map119/events/22/pages/0/103/Dialogue
+> CONTEXT: Map069/events/25/pages/0/103/Dialogue
+> CONTEXT: Map071/events/30/pages/0/103/Dialogue
+> CONTEXT: Map071/events/31/pages/0/103/Dialogue
+> CONTEXT: Map071/events/32/pages/0/103/Dialogue
+\\N[12]. 「Oh, Ooh! Coming, Feeling Good」#MTLed
+> END STRING
+
+> BEGIN STRING
+ブラッドフェアリー
+「全身が性感帯になったような感覚でしょ？
+わたしに吸われた男は、みんなあなたのように
+射精しながら死んでいったわ。
+> CONTEXT: Map119/events/21/pages/0/107/Dialogue
+> CONTEXT: Map119/events/22/pages/0/107/Dialogue
+> CONTEXT: Map069/events/25/pages/0/107/Dialogue
+> CONTEXT: Map071/events/30/pages/0/107/Dialogue
+> CONTEXT: Map071/events/31/pages/0/107/Dialogue
+> CONTEXT: Map071/events/32/pages/0/107/Dialogue
+blood fairy. 「Sounds like the whole body became erogenous
+band? All the guys sucked by me, like you
+I died while ejaculating.#MTLed
+> END STRING
+
+> BEGIN STRING
+さあ、これで終わりよ。
+自分の命をわたしの栄養として捧げられることを
+光栄に思うといいわ」
+> CONTEXT: Map119/events/21/pages/0/112/Dialogue
+> CONTEXT: Map119/events/22/pages/0/112/Dialogue
+> CONTEXT: Map069/events/25/pages/0/112/Dialogue
+> CONTEXT: Map071/events/30/pages/0/112/Dialogue
+> CONTEXT: Map071/events/31/pages/0/112/Dialogue
+> CONTEXT: Map071/events/32/pages/0/112/Dialogue
+Come on now. I can dedicate my life as my nutrition
+You should be honored.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ちゅううううぅぅ……
+> CONTEXT: Map119/events/21/pages/0/118/Dialogue
+> CONTEXT: Map119/events/22/pages/0/118/Dialogue
+> CONTEXT: Map069/events/25/pages/0/118/Dialogue
+> CONTEXT: Map071/events/30/pages/0/118/Dialogue
+> CONTEXT: Map071/events/31/pages/0/118/Dialogue
+> CONTEXT: Map071/events/32/pages/0/118/Dialogue
+Chuuuuuuu ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ……ああっ……」
+> CONTEXT: Map119/events/21/pages/0/120/Dialogue
+> CONTEXT: Map119/events/22/pages/0/120/Dialogue
+> CONTEXT: Map069/events/25/pages/0/120/Dialogue
+> CONTEXT: Map071/events/30/pages/0/120/Dialogue
+> CONTEXT: Map071/events/31/pages/0/120/Dialogue
+> CONTEXT: Map071/events/32/pages/0/120/Dialogue
+\\N[12]. 「Ah...... AAh......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はすべての血を吸い取られ、
+干からびた死体となってしまった……
+> CONTEXT: Map119/events/21/pages/0/128/Dialogue
+> CONTEXT: Map119/events/22/pages/0/128/Dialogue
+> CONTEXT: Map069/events/25/pages/0/128/Dialogue
+> CONTEXT: Map071/events/30/pages/0/128/Dialogue
+> CONTEXT: Map071/events/31/pages/0/128/Dialogue
+> CONTEXT: Map071/events/32/pages/0/128/Dialogue
+\\N[12] He is sucked off all blood, It became dry bodies
+of corpses ......#MTLed
+> END STRING
+
+> BEGIN STRING
+ブラッドフェアリー
+「ふふっ、ごちそうさま。
+甘美な死に方ができてよかったわね。
+あなたの命、わたしが有効に使ってあげるわ」
+> CONTEXT: Map119/events/21/pages/0/132/Dialogue
+> CONTEXT: Map119/events/22/pages/0/132/Dialogue
+> CONTEXT: Map069/events/25/pages/0/132/Dialogue
+> CONTEXT: Map071/events/30/pages/0/132/Dialogue
+> CONTEXT: Map071/events/31/pages/0/132/Dialogue
+> CONTEXT: Map071/events/32/pages/0/132/Dialogue
+blood fairy. 「Heh, you feast. I'm glad I could make a
+sweet death. Your life, I will use it effectively」#MTLed
+> END STRING

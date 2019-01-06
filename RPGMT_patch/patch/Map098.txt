@@ -1,0 +1,85 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+精霊サフェル
+「剣士様、その節はありがとうございました」
+> CONTEXT: Map098/events/3/pages/0/0/Dialogue
+Spirit Safel. 「master swordsman, Thank you for that passage
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おお、精霊……確かサフェルだっけ。
+水、綺麗になってるな。さすがだぜ」
+> CONTEXT: Map098/events/3/pages/0/3/Dialogue
+\\N[12]. 「Oh, spirit ... ... surely Safel.
+Water, it is not beautiful. It's truly」#MTLed
+> END STRING
+
+> BEGIN STRING
+精霊サフェル
+「根本的には問題が解決していませんので、
+まだ再発の可能性はありますが……
+しばらくは大丈夫だと思います。
+> CONTEXT: Map098/events/3/pages/0/7/Dialogue
+Spirit Safel. 「Since the problem has not been solved
+fundamentally, Although there is still a possibility of
+recurrence ... ... I think that it will be fine for a
+while.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ、魔力暴走の残滓により、
+一時的に水路に強い魔物が放たれてしまっております。
+ご注意ください。
+> CONTEXT: Map098/events/3/pages/0/12/Dialogue
+However, due to the magical runaway residue,
+A strong monster has been released in the waterway
+temporarily. Please be careful.#MTLed
+> END STRING
+
+> BEGIN STRING
+さて、せっかく来ていただいたのです。
+あなたに水神の癒しを――」
+> CONTEXT: Map098/events/3/pages/0/16/Dialogue
+Well, I came all the way. You heal the water god -」#MTLed
+> END STRING
+
+> BEGIN STRING
+全回復し、性感度が０になった！
+> CONTEXT: Map098/events/3/pages/0/21/Dialogue
+> CONTEXT: Map098/events/3/pages/1/6/Dialogue
+Full recovery, sex sensitivity has become 0!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おお、こりゃ助かるぜ！」
+> CONTEXT: Map098/events/3/pages/0/25/Dialogue
+\\N[12]. 「Oh, it helps!」#MTLed
+> END STRING
+
+> BEGIN STRING
+精霊サフェル
+「あなたの前途に
+水神様の祝福がありますように……」
+> CONTEXT: Map098/events/3/pages/0/28/Dialogue
+> CONTEXT: Map098/events/3/pages/1/10/Dialogue
+Spirit Safel. 「On your way. May the water God bless you
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+精霊サフェル
+「しばらくの間、地下水道内は危険な状態が続きます。
+気をつけてくださいね」
+> CONTEXT: Map098/events/3/pages/1/0/Dialogue
+Spirit Safel. 「Dangerous conditions will continue in the
+underground water for a while. Please be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+大回復薬を３つ手に入れた！
+> CONTEXT: Map098/events/5/pages/0/9/Dialogue
+I got 3 big recovery drugs!#MTLed
+> END STRING

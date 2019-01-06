@@ -1,0 +1,46 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+快活のクリスタルを破壊した！
+> CONTEXT: Map122/events/2/pages/0/39/Dialogue
+Destroy crystal of bubble!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、またこんな幻影を見せてくるとは……
+あんな年下の女の子との性行為を俺に見せて誘って、
+釣られるとでも思っているのか？
+> CONTEXT: Map122/events/2/pages/0/45/Dialogue
+\\N[12]. 「Cut, and also to show such an illusion ... ...
+Invite me to show me sexual activity with a girl of such
+age, Do you even think that it will be fished?#MTLed
+> END STRING
+
+> BEGIN STRING
+……まあ、ちょっとは
+ドキドキしたのは確かだが……」
+> CONTEXT: Map122/events/2/pages/0/51/Dialogue
+... Well, hey. It is certain that he did ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだったんだ、今のは……
+くっ、魔物が俺を惑わせようとしているのか……？
+こんな、俺が知ってる年下の女との性行為を見せるなんて。
+> CONTEXT: Map122/events/2/pages/0/56/Dialogue
+\\N[12]. 「What was it, what was it ......
+Cut, is the monster trying to distract me ...?
+I can not show you sexual activity with a young woman I
+know.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちょっとドキドキしちまったが……
+あのまま釣られていたら、どうなっていたんだろうか。
+きっと、ろくでもないことになってたんだろうな」
+> CONTEXT: Map122/events/2/pages/0/62/Dialogue
+It was a little alright ...... I wonder what had become of
+him if I had been caught that way. Surely it was supposed
+to be not too bad」#MTLed
+> END STRING

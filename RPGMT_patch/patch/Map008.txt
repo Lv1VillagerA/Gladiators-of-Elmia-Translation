@@ -1,0 +1,1855 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「はぁ……」
+> CONTEXT: Map008/events/2/pages/1/6/Dialogue
+\\N[12]. 「Huh」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まさか女の子に手も足も出ないなんて……
+今まで頑張って鍛えてきた俺の剣技なんて、
+この程度のものだったのか……」
+> CONTEXT: Map008/events/2/pages/1/9/Dialogue
+\\N[12]. 「No way girls do not get hands or feet ......
+I've worked hard until now and I'm training my sword
+technique, Was it something like this ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くそっ……悔しくて眠れないぜ。
+あの勝ち誇った顔を思い出すと胸がムカムカする……」
+> CONTEXT: Map008/events/2/pages/1/14/Dialogue
+\\N[12]. 「Damn ...... I regret that I can not sleep.
+I feel chesty when I remember that victorious face ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あいつ、武道大会に出るって言ってたな……」
+> CONTEXT: Map008/events/2/pages/1/21/Dialogue
+\\N[12]. 「He was saying that he will appear in a
+martial arts tournament......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ベッドで休もうか？
+> CONTEXT: Map008/events/3/pages/0/0/Dialogue
+> CONTEXT: Map008/events/4/pages/0/0/Dialogue
+\\N[12]. 「Shall I rest in bed?#MTLed
+> END STRING
+
+> BEGIN STRING
+？
+「邪魔するぞ、\\N[12]」
+> CONTEXT: Map008/events/5/pages/1/1/Dialogue
+> CONTEXT: Map008/events/7/pages/1/1/Dialogue
+? 「I will disturb you, \\N[12]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「団長……」
+> CONTEXT: Map008/events/5/pages/1/18/Dialogue
+> CONTEXT: Map008/events/5/pages/1/115/Dialogue
+> CONTEXT: Map008/events/7/pages/1/18/Dialogue
+\\N[12]. 「Head captain」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「残念だったな、\\N[12]。
+まあ、気を落とすな。お前で勝てなければ、
+誰が相手をしても勝てなかっただろう」
+> CONTEXT: Map008/events/5/pages/1/21/Dialogue
+Captain Albert. 「Shame for you, \\N[12] .
+Well, do not be discouraged. If you can not win,
+Nobody could win whatever they did」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「相手はおそらく俺たちより年下の少女だし、
+ふさぎ込む気持ちもわかるが、
+そう気にしなくてもいいぞ。俺も負けたしな」
+> CONTEXT: Map008/events/5/pages/1/26/Dialogue
+Captain Albert. 「The other party is probably a younger
+girl than us, I understand the feeling of obstinate,
+You do not have to worry about that. I also lost.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……そうは言っても、やっぱり悔しいですよ。
+真面目に鍛えてきたつもりなのに、
+女の子相手にあっさり負けてしまうなんて……」
+> CONTEXT: Map008/events/5/pages/1/31/Dialogue
+\\N[12]. 「...... Even so, after all it is frustrating.
+Although I intended to have seriously trained,
+It is not easy to lose to the girls as much as possible
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「ふむ……彼女は王都の武道大会に備えて
+武者修行のために各地を巡っていると言っていたな。
+明確な目標がある者は実力が伸びるものだ」
+> CONTEXT: Map008/events/5/pages/1/36/Dialogue
+Captain Albert. 「Hmm...... in preparation for the
+Kingdom martial arts tournament. He told me that he is
+traveling around the country for warrior training.
+Those who have clear targets will gain their skill」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（確かに……俺は大きな目標も持たず漫然と暮らしてきた。
+武道大会のために武者修行までやっているあいつは、
+俺とは意識が根本的に違うんだろう……
+> CONTEXT: Map008/events/5/pages/1/41/Dialogue
+\\N[12]. (Certainly...I did not have a big goal and I
+lived a long way. He is doing martial arts tournament until
+martial arts training, The consciousness is fundamentally
+different from me......#MTLed
+> END STRING
+
+> BEGIN STRING
+くそっ、こんなんじゃ負けて当たり前じゃないか。
+女だと侮ってかかったのが恥ずかしいぜ……）
+> CONTEXT: Map008/events/5/pages/1/46/Dialogue
+Damn, it is natural to be defeated by such a thing.
+It's embarrassing that I thought that it was a woman ...
+...)#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「………………」
+> CONTEXT: Map008/events/5/pages/1/49/Dialogue
+Captain Albert. 「..................」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「しかし、\\N[12]。
+お前はそうやってふさぎこんでいるだけなのか？」
+> CONTEXT: Map008/events/5/pages/1/52/Dialogue
+Captain Albert. 「But, \\N[12] . Are you just obliging
+to do so?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……もちろん、このままで終わる気はないです！
+この悔しさを晴らしたい」
+> CONTEXT: Map008/events/5/pages/1/61/Dialogue
+> CONTEXT: Map008/events/7/pages/1/60/Dialogue
+\\N[12]. 「......Of course, there is no reason to end
+like this! I want to clear up this regret」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「うむ、よく言った。
+その気構えで剣の修業に励み、自警団の仕事を頑張っていれば
+いずれ必ずあの少女と比肩する腕前になれるだろう――」
+> CONTEXT: Map008/events/5/pages/1/65/Dialogue
+Captain Albert. 「Well, I said well. If you are curious
+about your sword training and are working hard on
+vigilante's work. Anyhow it will be able to become a skill
+comparable to that girl -」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺も武道大会に出ます！」
+> CONTEXT: Map008/events/5/pages/1/72/Dialogue
+\\N[12]. 「I will also go out to martial arts tournament!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「なにっ！？」
+> CONTEXT: Map008/events/5/pages/1/77/Dialogue
+> CONTEXT: Map008/events/7/pages/1/76/Dialogue
+Captain Albert. 「What! ?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あの女が武道大会に出るってんなら、
+その舞台でリベンジをしてやりたい！
+俺、自警団をやめて王都に行こうと思います！」
+> CONTEXT: Map008/events/5/pages/1/80/Dialogue
+\\N[12]. 「If that woman comes out to martial arts
+tournament, I want to do a revenge on that stage!
+I think I will stop the vigilante party and go to the
+kingdom!」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「いやいや、待て待て。落ち着け\\N[12]。
+負けて悔しいからって、そんな飛躍した発想をせんでも」
+> CONTEXT: Map008/events/5/pages/1/85/Dialogue
+Captain Albert. 「Wait, wait.Calm down \\N[12] .
+Even if I think of such a leapful idea because I am
+defeated because I lose it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「心配しなくても冷静ですよ。
+俺はもともと、なにか大きなことを成し遂げたいと
+うすうす思っていたんです。今回のことはいいきっかけです」
+> CONTEXT: Map008/events/5/pages/1/89/Dialogue
+\\N[12]. 「You do not need to worry about it.
+I want to accomplish something big. I thought.This time is
+a good opportunity」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「本気なのか？　あの武道大会はエルミア国内のみならず
+各国から猛者が集う、ハイレベルな大会だ。
+生半可な実力では、出ても恥をかくだけだぞ」
+> CONTEXT: Map008/events/5/pages/1/94/Dialogue
+Captain Albert. 「Are you serious? That martial arts
+tournament is not only in Elmia. It is a high-level
+tournament where the heroes gather from various countries.
+With generous ability, you will only be ashamed of coming
+out」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「もちろん、大会が始まるまでに今よりも強くなって
+挑むつもりです！
+団長、すみませんが自警団を抜けさせてください！」
+> CONTEXT: Map008/events/5/pages/1/99/Dialogue
+> CONTEXT: Map008/events/7/pages/1/89/Dialogue
+\\N[12]. 「Of course, it is getting stronger than before
+by the beginning of tournament. I will challenge you!
+Headmaster, please excuse me from vigilante team!」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「……うむ、決意は固いか……
+仕方ない、お前が抜けてしまうのは少々寂しいが、
+そうまで言うなら止めるのも無粋というものか。
+> CONTEXT: Map008/events/5/pages/1/105/Dialogue
+Captain Albert. 「...... Well, my determination is hard ...
+... There is no choice but to lose somewhat losing you,
+Is it nothing to stop if you say so?#MTLed
+> END STRING
+
+> BEGIN STRING
+俺はあの少女に負けても、悔しいとは思ったが
+リベンジしてやろうなんて思えなかった。
+お前は俺と違って、
+この村におさまるような小さな人間じゃないんだろうな」
+> CONTEXT: Map008/events/5/pages/1/110/Dialogue
+Even though I lost that little girl, I thought it was
+frustrating. I never thought of having a revenge.
+You are different from me, I guess it is not a small human
+being like staying in this village」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「とにかく、出場するからには、悔いのないように全力で頑張れ。
+俺は応援しているぞ」
+> CONTEXT: Map008/events/5/pages/1/118/Dialogue
+Captain Albert. 「Anyway, since you will participate, do
+your best with all your power so that you do not regret.
+I'm rooting for you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はいっ、ありがとうございます！」
+> CONTEXT: Map008/events/5/pages/1/122/Dialogue
+> CONTEXT: Map008/events/7/pages/1/104/Dialogue
+\\N[12]. 「Oh, thank you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「ちなみに、辞めるのなら俺ではなく
+村長の許可を取らないとダメだぞ。
+では、俺はこれで帰るとしよう」
+> CONTEXT: Map008/events/5/pages/1/125/Dialogue
+Captain Albert. 「By the way, if you quit, not me
+You do not have permission to village head.
+Well, let's suppose I will leave with this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よしっ。
+俺はもっと強くなってみせる。
+そして、武道大会にも優勝してやるぜ！」
+> CONTEXT: Map008/events/5/pages/1/135/Dialogue
+\\N[12]. 「Alright. I will be getting stronger.
+And I will win the martial arts tournament as well!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、まずは村長の家に行って王都に行く許可をもらおう。
+そして武道大会に出て、必ずあのナマイキな女にリベンジするんだ！
+> CONTEXT: Map008/events/5/pages/1/144/Dialogue
+\\N[12]. 「OK, let's get permission to go to the village
+head house and go to the kingdom. Then go out to the
+martial arts tournament and be sure to revenge for that
+cheeky girl!#MTLed
+> END STRING
+
+> BEGIN STRING
+ちなみに、家の本棚に『冒険の手引き』『戦闘の手引き』
+っていう本があるから
+操作や戦闘について分からないことがあれば、
+確認しておくのもいいかもしれないな」
+> CONTEXT: Map008/events/5/pages/1/148/Dialogue
+> CONTEXT: Map001/events/2/pages/0/48/Dialogue
+> CONTEXT: Map001/events/2/pages/0/71/Dialogue
+By the way, on the bookshelf of the house "Guide to
+Adventure" "Battle Guide. Because there is a book called
+If there is something you do not understand about
+operations and combat, It might be good to check it」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団長アルバート
+「残念だったな、\\N[12]。
+まあ、気を落とすな。お前で勝てなければ、
+誰が相手をしても勝てなかっただろう」
+> CONTEXT: Map008/events/7/pages/1/21/Dialogue
+Self police captain albert. 「Shame for you, \\N[12] .
+Well, do not be discouraged. If you can not win,
+Nobody could win whatever they did」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「その女剣士なら、さっき来ました……」
+> CONTEXT: Map008/events/7/pages/1/26/Dialogue
+\\N[12]. 「If that swordswoman, I just came......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は一部始終を説明した。
+> CONTEXT: Map008/events/7/pages/1/30/Dialogue
+\\N[12] He explained everything and everything.#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「ほう、負けてしまったのか。
+道理でふさぎこんでいるわけだ、
+おそらくお前より年下の少女だものな」
+> CONTEXT: Map008/events/7/pages/1/33/Dialogue
+Captain Albert. 「Have you lost it? That is why he is
+obstinating with reason, It is probably a younger girl than
+you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「悔しかったか、\\N[12]？」
+> CONTEXT: Map008/events/7/pages/1/38/Dialogue
+Captain Albert. 「Was it frustrating? \\N[12] ?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そりゃあ、もちろんです。
+真面目に鍛えてきたつもりなのに、
+女の子相手にあっさり負けてしまうなんて……」
+> CONTEXT: Map008/events/7/pages/1/41/Dialogue
+\\N[12]. 「Oh yeah, of course. Although I intended to
+have seriously trained, It is not easy to lose to the girls
+as much as possible ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「ふむ……彼女は王都の武術大会に備えて
+武者修行のために各地を巡っていると言っていたな。
+明確な目標がある者は実力が伸びるものだ」
+> CONTEXT: Map008/events/7/pages/1/46/Dialogue
+Captain Albert. 「Hmm...... in preparation for the king's
+martial arts tournament. He told me that he is traveling
+around the country for warrior training.
+Those who have clear targets will gain their skill」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「で、\\N[12]。
+お前はそうやってふさぎこんでいるだけなのか？」
+> CONTEXT: Map008/events/7/pages/1/51/Dialogue
+Captain Albert. 「so, \\N[12] . Are you just obliging to
+do so?」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「うむ、よく言った。
+では、今後はいっそう頑張って鍛え、自警団員として
+仕事に邁進を……」
+> CONTEXT: Map008/events/7/pages/1/64/Dialogue
+Captain Albert. 「Well, I said well. In the future, I will
+work harder further, as a militia member
+Push forward for work ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺も武術大会に出ます！」
+> CONTEXT: Map008/events/7/pages/1/71/Dialogue
+\\N[12]. 「I will also go out to martial arts tournament!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あの女が武術大会に出るってんなら、
+その舞台でリベンジをしてやりたい！
+俺、自警団をやめて王都に行こうと思います！」
+> CONTEXT: Map008/events/7/pages/1/79/Dialogue
+\\N[12]. 「If that woman comes out to martial arts
+tournament, I want to do a revenge on that stage!
+I think I will stop the vigilante party and go to the
+kingdom!」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「本気なのか？　あの武術大会は国中から猛者が集う
+一年に一度の大会だ。生半可な実力では
+出ても恥をかくだけだぞ」
+> CONTEXT: Map008/events/7/pages/1/84/Dialogue
+Captain Albert. 「Are you serious? The martial arts
+tournament gathers among the country. It is tournament once
+a year. With half-hearted ability. You will only be ashamed
+if you go out」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「……うむ、決意は固いか……
+仕方ない、お前が抜けてしまうのは少々寂しいが、
+そうまで言うなら止めるのも無粋というものだろうな」
+> CONTEXT: Map008/events/7/pages/1/95/Dialogue
+Captain Albert. 「...... Well, my determination is hard ...
+... There is no choice but to lose somewhat losing you,
+If it says so far it would be unbearable to stop」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「出場するからには、悔いのないように全力で頑張れ。
+私は応援しているぞ」
+> CONTEXT: Map008/events/7/pages/1/100/Dialogue
+Captain Albert. 「In order to participate, do your best
+with all your power so that you do not regret.
+I will be supporting you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「ちなみに、辞めるのなら私ではなく
+村長の許可を取らないとダメだぞ。
+では、私はこれで帰るとしよう」
+> CONTEXT: Map008/events/7/pages/1/107/Dialogue
+Captain Albert. 「By the way, if you quit, not me
+You do not have permission to village head.
+So let's suppose I will return home.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よしっ。
+俺はもっと強くなってみせる。
+そして、武術大会にも優勝してやるぜ！」
+> CONTEXT: Map008/events/7/pages/1/117/Dialogue
+\\N[12]. 「Alright. I will be getting stronger.
+And I will win the martial arts tournament as well!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、まずは村長の家に行って王都に行く許可をもらおう。
+そして武道大会に出て、必ずあのナマイキな女にリベンジして
+ついでに優勝するぞ！
+> CONTEXT: Map008/events/7/pages/1/126/Dialogue
+\\N[12]. 「OK, let's get permission to go to the village
+head house and go to the kingdom. And go out to the martial
+arts tournament, certainly revenge for that cheeky girl
+Well, I will win the championship!#MTLed
+> END STRING
+
+> BEGIN STRING
+戦いの手引きがある。
+> CONTEXT: Map008/events/8/pages/0/0/Dialogue
+> CONTEXT: Map008/events/11/pages/0/0/Dialogue
+> CONTEXT: Map008/events/24/pages/0/0/Dialogue
+There is a battle guide.#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘の基本について
+> CONTEXT: Map008/events/8/pages/0/2/Choice/0
+> CONTEXT: Map008/events/11/pages/0/2/Choice/0
+> CONTEXT: Map008/events/24/pages/0/2/Choice/0
+About battle fundamentals#MTLed
+> END STRING
+
+> BEGIN STRING
+特殊バッドステータスについて
+> CONTEXT: Map008/events/8/pages/0/2/Choice/1
+> CONTEXT: Map008/events/11/pages/0/2/Choice/1
+> CONTEXT: Map008/events/24/pages/0/2/Choice/1
+About Special Bad Status#MTLed
+> END STRING
+
+> BEGIN STRING
+特殊パラメータについて
+> CONTEXT: Map008/events/8/pages/0/2/Choice/2
+> CONTEXT: Map008/events/11/pages/0/2/Choice/2
+> CONTEXT: Map008/events/24/pages/0/2/Choice/2
+About special parameters#MTLed
+> END STRING
+
+> BEGIN STRING
+勝利/敗北条件について
+> CONTEXT: Map008/events/8/pages/0/4/Choice/0
+> CONTEXT: Map008/events/11/pages/0/4/Choice/0
+> CONTEXT: Map008/events/24/pages/0/4/Choice/0
+On victory / defeat conditions#MTLed
+> END STRING
+
+> BEGIN STRING
+敗北した場合
+> CONTEXT: Map008/events/8/pages/0/4/Choice/1
+> CONTEXT: Map008/events/11/pages/0/4/Choice/1
+> CONTEXT: Map008/events/24/pages/0/4/Choice/1
+In case of defeat#MTLed
+> END STRING
+
+> BEGIN STRING
+特技について
+> CONTEXT: Map008/events/8/pages/0/4/Choice/2
+> CONTEXT: Map008/events/11/pages/0/4/Choice/2
+> CONTEXT: Map008/events/24/pages/0/4/Choice/2
+About special skill#MTLed
+> END STRING
+
+> BEGIN STRING
+本作における戦闘では、敵の体力を0にすれば勝利となります。
+主人公については、体力に加えて精神力というパラメータがあり、
+\\C[2]いずれかが0になると敗北\\C[0]となってしまいます。
+> CONTEXT: Map008/events/8/pages/0/6/Dialogue
+> CONTEXT: Map008/events/11/pages/0/6/Dialogue
+> CONTEXT: Map008/events/24/pages/0/6/Dialogue
+In battle in this work, if you set the enemy's physical
+strength to 0, it will be victorious. Regarding the hero,
+there is a parameter called mental power in addition to
+physical strength, \\C[2]Defeat when one becomes 0\\C[0] It will
+become.#MTLed
+> END STRING
+
+> BEGIN STRING
+※パーティに味方キャラクターが加入した場合は、
+そのキャラクターの精神の値は
+魔法力として扱われ、0になっても敗北にはなりません。
+> CONTEXT: Map008/events/8/pages/0/10/Dialogue
+> CONTEXT: Map008/events/11/pages/0/10/Dialogue
+> CONTEXT: Map008/events/24/pages/0/10/Dialogue
+※ If an ally character joins the party, The spirit value of
+that character is. It is treated as magical power, and it
+will not be defeated even if it becomes 0.#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘に敗北した場合、非人間型のモンスターが相手だった場合は
+ゲームオーバーとなり、セーブしたところから再開となります。
+女型モンスター相手の場合、敗北時にイベントが発生することが
+ありますが、その場合もイベント後にゲームオーバーとなります。
+> CONTEXT: Map008/events/8/pages/0/16/Dialogue
+> CONTEXT: Map008/events/11/pages/0/16/Dialogue
+> CONTEXT: Map008/events/24/pages/0/16/Dialogue
+If you are defeated in battle, if a nonhuman type monster
+is your opponent. The game will be over and will be resumed
+from where you saved it. In the case of female-type monster
+opponent, events may occur at the time of defeat
+Yes, in that case as well, the game will be over after the
+event.#MTLed
+> END STRING
+
+> BEGIN STRING
+人間に敗北した場合は、基本的にゲームオーバーにはならず、
+お金を失うなどした後、自宅から再開できるケースが多いです。
+ただ、場合によってはバッドエンドとなることもあるので
+いずれにせよ、セーブはこまめにすることをオススメします。
+> CONTEXT: Map008/events/8/pages/0/21/Dialogue
+> CONTEXT: Map008/events/11/pages/0/21/Dialogue
+> CONTEXT: Map008/events/24/pages/0/21/Dialogue
+If you are defeated by a human, basically it does not
+become a game over, After losing money, etc., many cases
+can be resumed from home. However, in some cases it may be
+a bad end. In any case, I recommend doing saving
+frequently.#MTLed
+> END STRING
+
+> BEGIN STRING
+本作の主人公は基本的に魔法が使えないため、
+使用技のほとんどは、技力を消費して放つ「特技」となっています。
+（体力回復技の「気合」など、
+精神力を消費する技も一部ございます）
+> CONTEXT: Map008/events/8/pages/0/28/Dialogue
+> CONTEXT: Map008/events/11/pages/0/28/Dialogue
+> CONTEXT: Map008/events/24/pages/0/28/Dialogue
+Because the main character of this work basically can not
+use magic, Most of the used techniques consume technical
+skill and release「Skill」Has become. (Physical fitness
+recovery technique「Fired up」Such, Some skills to consume
+mental power)#MTLed
+> END STRING
+
+> BEGIN STRING
+特技は強力なものが多いので、うまく技力を溜めて戦ってください。
+技力は敵を通常攻撃したり、敵の攻撃を食らったりすると増えます。
+> CONTEXT: Map008/events/8/pages/0/33/Dialogue
+> CONTEXT: Map008/events/11/pages/0/33/Dialogue
+> CONTEXT: Map008/events/24/pages/0/33/Dialogue
+Many special skills are powerful, so please successfully
+accumulate skill and fight. The skill increases as you
+attack the enemy normally or you get attacked by enemies.#MTLed
+> END STRING
+
+> BEGIN STRING
+敵女性キャラクターの誘惑攻撃などで興奮してしまうと、
+主人公は勃起してしまうことがあります。
+この状態になると命中率・攻撃力・敏捷性・回避率が低下します。
+> CONTEXT: Map008/events/8/pages/0/44/Dialogue
+> CONTEXT: Map008/events/11/pages/0/44/Dialogue
+> CONTEXT: Map008/events/24/pages/0/44/Dialogue
+If you get excited by enemy female characters' s temptation
+attacks, The hero may erect. In this state, the hit rate ·
+attack power · agility · avoidance rate will decrease.#MTLed
+> END STRING
+
+> BEGIN STRING
+さらに、「勃起」状態のままでいると性感度というパラメータが増え
+これが20以上のときにエッチな技を食らうと射精してしまいます。
+射精すると、その後に致命的な隙を晒してしまうことになり、
+場合によってはそのままトドメをさされて敗北が確定することも……
+> CONTEXT: Map008/events/11/pages/0/48/Dialogue
+> CONTEXT: Map008/events/24/pages/0/48/Dialogue
+further,「erection」When it is still in state, the parameter
+of sexual sensation increases. If this is 20 or more you
+ejaculate if you take lewd skills. If you ejaculate, you
+will end up exposing a fatal gap afterwards,
+In some cases it may be decided as it is finisher and the
+defeat is determined ...#MTLed
+> END STRING
+
+> BEGIN STRING
+「勃起」はスキル「精神統一」などで治療することができ、
+また、性感度も同スキルや鎮静剤で低下させることができます。
+「勃起」状態になる攻撃を多用してくるような女性と戦うときは、
+しっかり対策を用意しておくことをオススメします。
+> CONTEXT: Map008/events/11/pages/0/53/Dialogue
+> CONTEXT: Map008/events/24/pages/0/53/Dialogue
+> CONTEXT: Map008/events/8/pages/0/52/Dialogue
+「erection」Skills「Spiritual unity」Can be treated with,
+etc., Sexual sensitivity can also be reduced with the same
+skill and sedative. 「erection」When fighting a woman who
+heavily uses attacks that become state, I recommend you to
+have prepared measures properly.#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子に誘惑されたり、キスをされたりしたときなどに
+この状態になることがあります。
+敵からのダメージを受けた場合、あるいは
+ターン終了時に自動解除されることがあります。
+> CONTEXT: Map008/events/8/pages/0/59/Dialogue
+When you are tempted by a girl, kissed, etc.
+This situation may occur. If you receive damage from
+enemies, or. It may be automatically canceled at end of
+turn.#MTLed
+> END STRING
+
+> BEGIN STRING
+この状態になると、短時間ながら主人公は棒立ちとなり
+無防備な状態となり、行動もできないため
+一方的に攻撃を受けることになってしまいます。
+厄介な状態異常ですが、耐性をつける手段が存在しています。
+> CONTEXT: Map008/events/8/pages/0/64/Dialogue
+In this state, the main character became a standing rod in
+a short time. Because it becomes unprotected state and can
+not act. It will be attacked unilaterally.
+Although troublesome state abnormality, there is a means to
+give tolerance.#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物などが使う『催淫胞子』などの効果によって
+性感を強制的に高められてしまった状態です。
+この状態になると主人公は性欲が極限まで高ぶってしまい、
+自分からオナニーを始めたりしてしまいます。
+> CONTEXT: Map008/events/8/pages/0/71/Dialogue
+Depending on the effect such as "spoof spores" used by
+monster etc. It is a state where sexuality has been
+forcibly enhanced. When this state is reached, the
+protagonist has increased sexual desire to the limit,
+I start masturbating from myself.#MTLed
+> END STRING
+
+> BEGIN STRING
+魅了と違ってダメージで解除されることはなく、
+自然に治癒されるまで一方的に嫐られてしまいます。
+極めて危険な状態異常と言えるでしょう。
+> CONTEXT: Map008/events/8/pages/0/76/Dialogue
+Unlike enchantment, it will not be released by damage,
+It will be unilaterally crushed until it is cured
+naturally. It can be said that it is extremely dangerous
+condition abnormality.#MTLed
+> END STRING
+
+> BEGIN STRING
+しかし、催淫は完全に防止する方法が存在していますので、
+催淫効果のある攻撃を使ってきそうな敵と戦う場合は
+対策をしっかり用意してから挑みましょう。
+> CONTEXT: Map008/events/11/pages/0/91/Dialogue
+> CONTEXT: Map008/events/24/pages/0/91/Dialogue
+> CONTEXT: Map008/events/8/pages/0/80/Dialogue
+However, since there is a way to completely prevent
+aphrodisiac, If you fight an enemy that is likely to use an
+attack with an aphrodisiac effect. Let's challenge after
+preparing measures properly.#MTLed
+> END STRING
+
+> BEGIN STRING
+「勃起」状態を続けることで性感度を溜め、射精してしまうと
+このバッドステータスになってしまいます。
+射精の快楽の余韻に苛まれている状態です。
+> CONTEXT: Map008/events/11/pages/0/99/Dialogue
+> CONTEXT: Map008/events/24/pages/0/99/Dialogue
+> CONTEXT: Map008/events/8/pages/0/98/Dialogue
+「erection」By keeping the state, you will accumulate sexual
+sensitivity and ejaculate. This bad status will result.
+It is a condition that is suffering from the reverberation
+of pleasures of ejaculation.#MTLed
+> END STRING
+
+> BEGIN STRING
+この状態になってしまうと数ターンの間行動不能になるため、
+極めて不利な状況に追い込まれます。
+女の子とのバトルに勝つためには、
+この状態にならないようにすることが重要になるでしょう。
+> CONTEXT: Map008/events/11/pages/0/103/Dialogue
+> CONTEXT: Map008/events/24/pages/0/103/Dialogue
+> CONTEXT: Map008/events/8/pages/0/102/Dialogue
+If this state is reached, it becomes impossible to act for
+several turns, It is driven to a very unfavorable
+situation. To win the battle with the girl,
+It will be important to avoid this condition.#MTLed
+> END STRING
+
+> BEGIN STRING
+性感度は鎮静剤などで低下させることができますので、
+常に用意しておくことをオススメします。
+> CONTEXT: Map008/events/11/pages/0/108/Dialogue
+> CONTEXT: Map008/events/24/pages/0/108/Dialogue
+> CONTEXT: Map008/events/8/pages/0/107/Dialogue
+Since sexual sensitivity can be lowered with sedative
+agents, etc., I recommend you to have it ready at all
+times.#MTLed
+> END STRING
+
+> BEGIN STRING
+女性に金的攻撃をされ、それが命中してしまうと
+主人公は痛みで悶絶し、一定ターン数行動できなくなります。
+金的攻撃そのものが大ダメージであるため、
+極めて不利な状況に追い込まれることになります。
+> CONTEXT: Map008/events/11/pages/0/113/Dialogue
+> CONTEXT: Map008/events/24/pages/0/113/Dialogue
+> CONTEXT: Map008/events/8/pages/0/112/Dialogue
+When a woman is attacked goldly and it hits it
+The hero is out of fain due to pain, and he / she can not
+act a certain number of turns. Because the gold attack
+itself is a major damage, It will be driven into a very
+unfavorable situation.#MTLed
+> END STRING
+
+> BEGIN STRING
+金的攻撃は命中率が低く設定されておりますが、
+当たってしまうと大変なことになります。
+使ってくる相手と戦うときは、
+体力を高く保っておくことが必要になるでしょう。
+> CONTEXT: Map008/events/11/pages/0/118/Dialogue
+> CONTEXT: Map008/events/24/pages/0/118/Dialogue
+> CONTEXT: Map008/events/8/pages/0/117/Dialogue
+Although gold attacks are set with low accuracy,
+It will be serious if you hit it. When fighting the
+opponent you use, It will be necessary to keep your
+physical strength high.#MTLed
+> END STRING
+
+> BEGIN STRING
+また、主人公が勃起状態になると
+金的攻撃の命中率が大きく上昇してしまいますので、
+使用してくる敵と出会った場合は
+注意が必要です。
+> CONTEXT: Map008/events/11/pages/0/123/Dialogue
+> CONTEXT: Map008/events/24/pages/0/123/Dialogue
+> CONTEXT: Map008/events/8/pages/0/122/Dialogue
+Also, when the hero becomes an erect state
+Because the accuracy of the gold attack will rise greatly,
+If you encounter an enemy you use. You should be careful.#MTLed
+> END STRING
+
+> BEGIN STRING
+敵の女の子によっては、主人公を何らかの方法で拘束し
+動けなくするような攻撃をしてくることがあります。
+『拘束』状態になると、脱出するまで何もできず、
+一方的に嫐られてしまうことになります。
+> CONTEXT: Map008/events/11/pages/0/130/Dialogue
+> CONTEXT: Map008/events/24/pages/0/130/Dialogue
+> CONTEXT: Map008/events/8/pages/0/129/Dialogue
+Depending on the enemy's girl, the hero is arrested in some
+way. You may come up with an attack that makes it
+impossible to move. In the "restrained" state, nothing can
+be done until escape, It will be stuck unilaterally.#MTLed
+> END STRING
+
+> BEGIN STRING
+拘束攻撃をされた場合、避けるか食らうかの選択肢が表示されます。
+避ける選択肢を選んだ場合は、拘束を回避できることがあります。
+敏捷性・運・レベルが高いほど回避率が高くなります。
+> CONTEXT: Map008/events/11/pages/0/135/Dialogue
+> CONTEXT: Map008/events/24/pages/0/135/Dialogue
+> CONTEXT: Map008/events/8/pages/0/134/Dialogue
+In case of a detention attack, the option of avoiding or
+eating is displayed. If you choose a choice to avoid, you
+may be able to avoid constraints. The higher the agility,
+luck and level, the higher the avoidance rate will be.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただし、主人公が『魅了』の状態異常にかかっている場合、
+回避コマンドが表示されず、必ず拘束されてしまいます。
+注意しましょう。
+> CONTEXT: Map008/events/11/pages/0/139/Dialogue
+> CONTEXT: Map008/events/24/pages/0/139/Dialogue
+> CONTEXT: Map008/events/8/pages/0/138/Dialogue
+However, if the hero is suffering from a condition of
+"attracted". The avoidance command is not displayed, and it
+is always constrained. Let's watch out.#MTLed
+> END STRING
+
+> BEGIN STRING
+拘束状態になった場合、
+毎ターン、脱出のための選択肢が表示されますので、
+あきらめず選択しましょう。
+> CONTEXT: Map008/events/11/pages/0/143/Dialogue
+> CONTEXT: Map008/events/24/pages/0/143/Dialogue
+> CONTEXT: Map008/events/8/pages/0/142/Dialogue
+In the restrained state, Every turn, the choice for escape
+is displayed, Let's choose without giving up.#MTLed
+> END STRING
+
+> BEGIN STRING
+脱出コマンドは、彼我の能力差や乱数によって
+失敗することもありますが、
+失敗するたび、次回の脱出コマンドの成功率が上昇します。
+> CONTEXT: Map008/events/11/pages/0/147/Dialogue
+> CONTEXT: Map008/events/24/pages/0/147/Dialogue
+The escape command depends on the capacity difference of
+the ego and the random number. Although it may fail,
+Every time you fail, the success rate of the next escape
+command will rise.#MTLed
+> END STRING
+
+> BEGIN STRING
+性感度
+> CONTEXT: Map008/events/11/pages/0/157/Choice/1
+> CONTEXT: Map008/events/24/pages/0/157/Choice/1
+> CONTEXT: Map008/events/8/pages/0/156/Choice/1
+> CONTEXT: Map008/events/8/pages/0/156/Choice/1
+Sex sensitivity#MTLed
+> END STRING
+
+> BEGIN STRING
+精神力は\\N[12]の戦意を示すパラメータです。
+本作では、体力が0になると戦闘に敗北となりますが、
+\\C[2]精神力が0になっても敗北になってしまいます。
+\\C[0]体力だけでなく、精神の値にも気を配っておきましょう。
+> CONTEXT: Map008/events/11/pages/0/159/Dialogue
+> CONTEXT: Map008/events/24/pages/0/159/Dialogue
+> CONTEXT: Map008/events/8/pages/0/158/Dialogue
+The mental power is \\N[12] It is a parameter indicating
+the wariness of. In this work, when the physical strength
+becomes 0, it becomes defeat in battle, \\C[2]Even if mental
+strength becomes 0, it will be defeated.
+\\C[0]Let's pay attention not only to physical strength but also
+to the value of mind.#MTLed
+> END STRING
+
+> BEGIN STRING
+最大値は基本的に100で固定であり、
+レベルアップしても上昇しませんが、
+例外として、装飾品の補正値で多少上昇する場合があります。
+> CONTEXT: Map008/events/24/pages/0/164/Dialogue
+> CONTEXT: Map008/events/8/pages/0/163/Dialogue
+The maximum value is basically fixed at 100,
+Although it does not rise even if you level up,
+As an exception, it may rise somewhat with the correction
+value of accessories.#MTLed
+> END STRING
+
+> BEGIN STRING
+性感攻撃や金的攻撃などを受けると精神にダメージを受けます。
+特に、戦闘中に射精をした場合は大きく減少しますので
+注意が必要です。
+> CONTEXT: Map008/events/24/pages/0/168/Dialogue
+> CONTEXT: Map008/events/8/pages/0/167/Dialogue
+When you receive sexual attacks or gold attacks, you will
+receive mental damage. Especially when you ejaculate during
+battle it will be greatly reduced. You should be careful.#MTLed
+> END STRING
+
+> BEGIN STRING
+なお、精神値を消費する技などを使うことで
+自然に0になってしまうことがありますが、
+その場合は、即座に敗北になることはありません。
+その状態でさらに精神へのダメージを受けた場合は敗北となります。
+> CONTEXT: Map008/events/24/pages/0/172/Dialogue
+> CONTEXT: Map008/events/8/pages/0/171/Dialogue
+In addition, by using techniques that consume mental values
+Although it may naturally become 0, In that case, you will
+not be instantly defeated. If you receive further mental
+damage in that state it will be defeated.#MTLed
+> END STRING
+
+> BEGIN STRING
+メニュー画面や戦闘中に専用ウィンドウで表示される
+特殊パラメータです。
+戦闘中に性感攻撃を受け、『勃起』状態になったまま
+さらに性感攻撃を受けたり、ターンが経過したりすると増加します。
+> CONTEXT: Map008/events/11/pages/0/171/Dialogue
+> CONTEXT: Map008/events/24/pages/0/179/Dialogue
+> CONTEXT: Map008/events/8/pages/0/178/Dialogue
+It is displayed in a dedicated window during menu screen or
+battle. It is a special parameter. Under sexual assault
+during battle, staying in "erection" state
+Moreover, it increases when receiving sexual attacks and
+turns pass.#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子、あるいは女性モンスターとの戦闘中に
+この値が10を超えたままターンを終了すると
+自動的に『勃起』状態となってしまいます。
+> CONTEXT: Map008/events/11/pages/0/176/Dialogue
+> CONTEXT: Map008/events/24/pages/0/184/Dialogue
+> CONTEXT: Map008/events/8/pages/0/183/Dialogue
+During battle with girls or female monsters
+If this value exceeds 10 and you end the turn
+It will automatically become an "erection" state.#MTLed
+> END STRING
+
+> BEGIN STRING
+さらに、20を超えている＋勃起状態のときに
+女の子から性感攻撃を受けると、
+\\N[12]は射精してしまい、大幅に精神力が減少します。
+また、相手によっては即死攻撃を仕掛けられてしまうことも……
+> CONTEXT: Map008/events/11/pages/0/180/Dialogue
+> CONTEXT: Map008/events/24/pages/0/188/Dialogue
+Furthermore, it exceeds 20 + when erection state
+When receiving a sexual assault from a girl,
+\\N[12] It will ejaculate, and the spirit power will
+decrease significantly. Also, depending on the opponent,
+you may be attacked by an instant death attack......#MTLed
+> END STRING
+
+> BEGIN STRING
+性感度は20を超えないようにするのはもちろん、
+できれば10未満を保つように心がけておくと、
+女の子との戦闘で有利に立ち回ることができるでしょう。
+> CONTEXT: Map008/events/11/pages/0/185/Dialogue
+> CONTEXT: Map008/events/24/pages/0/193/Dialogue
+> CONTEXT: Map008/events/8/pages/0/191/Dialogue
+Of course not to make it more than 20 sexuality,
+If you try to keep less than 10 if possible,
+You will be able to walk around advantageously in battle
+with girls.#MTLed
+> END STRING
+
+> BEGIN STRING
+性感度は、体力や精神と同様、
+宿泊や薬によって回復させることができます。
+特に、薬は常に所持しておくことをオススメします。
+> CONTEXT: Map008/events/24/pages/0/197/Dialogue
+> CONTEXT: Map008/events/8/pages/0/195/Dialogue
+Sensitivity, as well as physical strength and spirit,
+It can be restored by accommodation or medicine.
+Especially, I recommend that you always have medicine.#MTLed
+> END STRING
+
+> BEGIN STRING
+射精させられた直後の性感度
+> CONTEXT: Map008/events/11/pages/0/218/Choice/1
+> CONTEXT: Map008/events/24/pages/0/209/Choice/0
+> CONTEXT: Map008/events/8/pages/0/207/Choice/0
+> CONTEXT: Map008/events/8/pages/0/207/Choice/0
+Sex sensitivity right after being ejaculated#MTLed
+> END STRING
+
+> BEGIN STRING
+負け方によってHシーンが変化する敵
+> CONTEXT: Map008/events/24/pages/0/209/Choice/1
+> CONTEXT: Map008/events/8/pages/0/207/Choice/1
+> CONTEXT: Map008/events/8/pages/0/207/Choice/1
+Enemy whose H scene changes according to how to lose#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘中に射精させられてしまった場合、
+性感度が下降しますが、
+必ず0にまで下がるとは限りません。
+食らった技によって、射精直後の性感度には幅があります。
+> CONTEXT: Map008/events/11/pages/0/236/Dialogue
+> CONTEXT: Map008/events/24/pages/0/211/Dialogue
+> CONTEXT: Map008/events/8/pages/0/209/Dialogue
+If you are ejaculated during battle, Sex sensitivity falls,
+It does not necessarily go down to 0. Depending on the
+technique I got, there is a range in sexual sensitivity
+just after ejaculation.#MTLed
+> END STRING
+
+> BEGIN STRING
+例えば、金的攻撃で射精した場合は性感度が0になりますが、
+ぱふぱふで射精させられた場合は10までしか下がりません。
+要するに、快楽が持続しやすいような技を受けて射精した場合、
+性感度が高い状態が続いてしまうのです。
+> CONTEXT: Map008/events/11/pages/0/241/Dialogue
+> CONTEXT: Map008/events/24/pages/0/216/Dialogue
+> CONTEXT: Map008/events/8/pages/0/214/Dialogue
+For example, if you ejaculate with a gold attack, sexual
+sensitivity will be 0, If you are ejaculated by you will
+only go down to 10. In short, when you ejaculate with
+techniques that are easy to sustain pleasure,
+The state with high sex sensitivity continues.#MTLed
+> END STRING
+
+> BEGIN STRING
+こうなると、連続して射精に追い込まれてしまう危険が
+出てきますし、あっという間に精神敗北に追い込まれてしまう、
+ということも充分ありえますので、注意が必要です。
+> CONTEXT: Map008/events/11/pages/0/246/Dialogue
+> CONTEXT: Map008/events/24/pages/0/221/Dialogue
+> CONTEXT: Map008/events/8/pages/0/219/Dialogue
+In this way, there is a danger that you will be driven to
+ejaculation continuously. I will come out and be driven to
+mental defeasure in no time, It is enough that you need to
+be careful.#MTLed
+> END STRING
+
+> BEGIN STRING
+一部のボスキャラクターは、体力が0になって敗北した場合と
+精神が0になって敗北した場合で
+Hシーンの内容が変わることがあります。
+> CONTEXT: Map008/events/24/pages/0/227/Dialogue
+> CONTEXT: Map008/events/8/pages/0/225/Dialogue
+Some boss characters are defeated when the physical
+strength becomes 0. In the case that the spirit is defeated
+with zero. The contents of H scene may change.#MTLed
+> END STRING
+
+> BEGIN STRING
+そうしたボスキャラクターは武道大会編以降に何人か登場しますが、
+主に、誘惑攻撃をしようしてくる敵が、
+そうした仕様であることが多いので、
+負け方を楽しんでみたい場合は覚えておくとよいでしょう。
+> CONTEXT: Map008/events/24/pages/0/231/Dialogue
+> CONTEXT: Map008/events/8/pages/0/229/Dialogue
+Several such boss characters will appear after the martial
+arts tournament edition, Mainly, the enemy who is trying
+for a temptation attack, Because it is often such a
+specification, It is a good idea to remember when you want
+to enjoy how to lose.#MTLed
+> END STRING
+
+> BEGIN STRING
+旅の手引きがある。
+> CONTEXT: Map008/events/9/pages/0/0/Dialogue
+There is a guide to travel.#MTLed
+> END STRING
+
+> BEGIN STRING
+ゲームの目的について
+> CONTEXT: Map008/events/9/pages/0/2/Choice/0
+About the purpose of the game#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア王国の概要
+> CONTEXT: Map008/events/9/pages/0/2/Choice/1
+Outline of the Kingdom of Elmia#MTLed
+> END STRING
+
+> BEGIN STRING
+一度行った場所は……
+> CONTEXT: Map008/events/9/pages/0/2/Choice/2
+The place I went once ...#MTLed
+> END STRING
+
+> BEGIN STRING
+サンプル
+> CONTEXT: Map008/events/9/pages/0/2/Choice/3
+sample#MTLed
+> END STRING
+
+> BEGIN STRING
+一度訪れた街やダンジョンには、
+『神々の羽』というアイテムで移動することができます。
+神々の羽は道具屋に売っておりますので、
+ご活用ください。
+> CONTEXT: Map008/events/9/pages/0/8/Dialogue
+In town and dungeon once visited, You can move with the
+item "wings of the gods". Since the feathers of the gods
+are sold to the tool shop, Please use it.#MTLed
+> END STRING
+
+> BEGIN STRING
+サンプルマン
+> CONTEXT: Map008/events/9/pages/0/17/Choice/0
+Sample Man#MTLed
+> END STRING
+
+> BEGIN STRING
+いいえじゃないが
+> CONTEXT: Map008/events/9/pages/0/17/Choice/2
+No it is not#MTLed
+> END STRING
+
+> BEGIN STRING
+ここでは屈服度の確認ができます。
+どれを見ますか？
+> CONTEXT: Map008/events/10/pages/0/0/Dialogue
+Here you can check the degree of yield. Which do you see?#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガールif(s[181])
+> CONTEXT: Map008/events/10/pages/0/3/Choice/0
+Bandit Girlif(s[181])#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディットif(s[182])
+> CONTEXT: Map008/events/10/pages/0/3/Choice/1
+bandit teenif(s[182])#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディットif(s[183])
+> CONTEXT: Map008/events/10/pages/0/3/Choice/2
+sexy banditif(s[183])#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベットif(s[184])
+> CONTEXT: Map008/events/10/pages/0/3/Choice/3
+velvetif(s[184])#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガールに対する屈辱度は \\V[22] です。
+> CONTEXT: Map008/events/10/pages/0/5/Dialogue
+The degree of humiliation against Bandit Girl \\V[22] is.#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリーif(s[185])
+> CONTEXT: Map008/events/10/pages/0/15/Choice/0
+Sherryif(s[185])#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムif(s[186])
+> CONTEXT: Map008/events/10/pages/0/15/Choice/1
+Purimif(s[186])#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナif(s[187])
+> CONTEXT: Map008/events/10/pages/0/15/Choice/2
+Dianaif(s[187])#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールif(s[189])
+> CONTEXT: Map008/events/10/pages/0/15/Choice/3
+bunny girlif(s[189])#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナif(s[188])
+> CONTEXT: Map008/events/10/pages/0/25/Choice/0
+Mileenaif(s[188])#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナif(s[190])
+> CONTEXT: Map008/events/10/pages/0/25/Choice/1
+aluminaif(s[190])#MTLed
+> END STRING
+
+> BEGIN STRING
+ルフティナif(s[191])
+> CONTEXT: Map008/events/10/pages/0/25/Choice/2
+Luftinaif(s[191])#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子の誘惑攻撃などに目を奪われ、
+主人公が棒立ちになってしまった状態です。
+敵からのダメージを受けた場合、あるいは
+ターン終了時に自動解除されることがあります。
+> CONTEXT: Map008/events/11/pages/0/60/Dialogue
+> CONTEXT: Map008/events/24/pages/0/60/Dialogue
+Attracted by girls' temptation attacks, It is a state where
+the main character has become a stubborn.
+If you receive damage from enemies, or. It may be
+automatically canceled at end of turn.#MTLed
+> END STRING
+
+> BEGIN STRING
+似た効果の「恍惚」状態と比べると、
+やや解除されやすい状態異常ですが、
+それでも隙となることは免れないので、注意が必要です。
+こちらも耐性をつける方法が存在しています。
+> CONTEXT: Map008/events/11/pages/0/65/Dialogue
+> CONTEXT: Map008/events/24/pages/0/65/Dialogue
+With similar effect「Ecstasy」Compared with the state,
+Although it is a state abnormality which is somewhat easy
+to release, Still, it is impossible to escape, so be
+careful. There is also a way to add tolerance here.#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子からのキス攻撃や匂い攻撃といったもので、
+恍惚とした心地のよい精神状態にされてしまう状態異常です。
+この状態になると主人公は棒立ちとなり、行動できません。
+> CONTEXT: Map008/events/11/pages/0/72/Dialogue
+> CONTEXT: Map008/events/24/pages/0/72/Dialogue
+Kissing attacks from girls and smell attacks,
+It is a state abnormality that makes me feel comfortable
+and ecstatic. In this state the hero becomes standing and
+can not act.#MTLed
+> END STRING
+
+> BEGIN STRING
+敵からのダメージ攻撃を受けた場合、あるいは
+主人公の行動判定終了時に自動解除されることがあります。
+何らかの方法で耐性をつけることができるかも……？
+> CONTEXT: Map008/events/11/pages/0/76/Dialogue
+> CONTEXT: Map008/events/24/pages/0/76/Dialogue
+In the case of receiving a damage attack from the enemy, or
+It may be automatically canceled at the end of the action
+decision of the hero. Maybe you can tolerate it in some way
+...?#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物などが使う『催淫の霧』などの効果によって
+性感を強制的に高められてしまった状態です。
+この状態になると主人公は性欲が極限まで高ぶってしまい、
+自分からオナニーを始めたりしてしまいます。
+> CONTEXT: Map008/events/11/pages/0/82/Dialogue
+> CONTEXT: Map008/events/24/pages/0/82/Dialogue
+Depending on the effect of "fog of aphrodisi" used by
+monster etc. It is a state where sexuality has been
+forcibly enhanced. When this state is reached, the
+protagonist has increased sexual desire to the limit,
+I start masturbating from myself.#MTLed
+> END STRING
+
+> BEGIN STRING
+魅了などと違ってダメージで解除されることはなく、
+自然に治癒されるまで一方的に嫐られてしまいます。
+極めて危険な状態異常と言えるでしょう。
+> CONTEXT: Map008/events/11/pages/0/87/Dialogue
+> CONTEXT: Map008/events/24/pages/0/87/Dialogue
+Unlike enchantment, it will not be released by damage,
+It will be unilaterally crushed until it is cured
+naturally. It can be said that it is extremely dangerous
+condition abnormality.#MTLed
+> END STRING
+
+> BEGIN STRING
+屈服度
+> CONTEXT: Map008/events/11/pages/0/157/Choice/2
+Degree of freedom#MTLed
+> END STRING
+
+> BEGIN STRING
+最大値は100で固定であり、レベルアップしても上昇しません。
+性感攻撃や金的攻撃などを受けると精神にダメージを受けます。
+特に、戦闘中に射精をした場合、
+大きく減少しますので注意が必要です。
+> CONTEXT: Map008/events/11/pages/0/164/Dialogue
+The maximum value is fixed at 100 and does not rise even if
+the level is raised. When you receive sexual attacks or
+gold attacks, you will receive mental damage.
+Especially when you ejaculate during battle,
+Attention is necessary because it will decrease greatly.#MTLed
+> END STRING
+
+> BEGIN STRING
+体力や精神と同様、
+宿泊や薬によって回復させることができます。
+> CONTEXT: Map008/events/11/pages/0/189/Dialogue
+Like physical strength and spirit, It can be restored by
+accommodation or medicine.#MTLed
+> END STRING
+
+> BEGIN STRING
+（※体験版には未実装の要素となっております）
+> CONTEXT: Map008/events/11/pages/0/194/Dialogue
+(It is an unimplemented element in the trial version ※)#MTLed
+> END STRING
+
+> BEGIN STRING
+各女性キャラクターに個別に設定されているパラメータです。
+女性キャラクターに敗北すると、この値が上昇します。
+上昇しすぎると、その相手との戦闘において
+エッチな気持ちになりやすくなってしまいます。
+> CONTEXT: Map008/events/11/pages/0/196/Dialogue
+It is a parameter individually set for each female
+character. If you lose to a female character, this value
+will rise. If you rise too much, in combat with that
+opponent. It becomes easy to feel like lewd.#MTLed
+> END STRING
+
+> BEGIN STRING
+具体的には、エッチな攻撃を食らった際の性感度の上昇が
+大きくなったり、状態異常になりやすくなったりと
+いろいろなペナルティが発生し、戦闘で不利になります。
+> CONTEXT: Map008/events/11/pages/0/201/Dialogue
+Specifically, the rise in the sexuality when I got a lewd
+attack. It becomes bigger and it becomes easy to become
+abnormal condition. A penalty will occur, which will be
+disadvantageous in battle.#MTLed
+> END STRING
+
+> BEGIN STRING
+屈服度は普段はマスクパラメータとなっておりますが、
+自宅で確認することができます。
+対象の女性キャラに勝利することで減少するほか、
+自宅での就寝時にオナニーをすることでも減少します。
+> CONTEXT: Map008/events/11/pages/0/205/Dialogue
+Although degree of yield is usually a mask parameter,
+You can check it at home. In addition to decreasing by
+winning the target female character, Masturbating at
+bedtime at home also decreases.#MTLed
+> END STRING
+
+> BEGIN STRING
+オナニーシステムについて
+> CONTEXT: Map008/events/11/pages/0/218/Choice/0
+About masturbation system#MTLed
+> END STRING
+
+> BEGIN STRING
+自宅で休む場合、オナニーというコマンドが使用可能です。
+エッチシーンを見たことのある女の子がいれば、
+その女の子のことを思い浮かべながらオナニーできます。
+> CONTEXT: Map008/events/11/pages/0/220/Dialogue
+When you take a rest at home, you can use the command
+Masturbation. If there is a girl who has seen lewd scene,
+I can masturbate while thinking about that girl.#MTLed
+> END STRING
+
+> BEGIN STRING
+これを実行すると、主人公が屈辱的な経験を思い出すことで
+怒りを湧き上がらせることとなり、
+思い浮かべた女の子に対しての屈服度が下降し、
+性感度も0になります。
+> CONTEXT: Map008/events/11/pages/0/224/Dialogue
+By doing this, the main character remembers humiliating
+experiences. It will cause anger to rise up,
+The degree of subjection to the girls I imagined fell,
+Sex sensitivity is also 0.#MTLed
+> END STRING
+
+> BEGIN STRING
+休息時に性感度も下げたい場合と、
+屈服度をリセットしたい場合にご活用ください。
+オナニーをする、と選択した後はオナニーシーンが見られますが、
+シーンをスキップすることも可能です。
+> CONTEXT: Map008/events/11/pages/0/229/Dialogue
+When you want to lower sexual sensitivity at rest,
+Please use it when you want to reset the degree of yield.
+After choosing to play masturbation, you can see a
+masturbation scene, It is also possible to skip the scene.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ、くそっ……
+次こそは、絶対に勝ってみせるからな、シェリーっ！」
+> CONTEXT: Map008/events/12/pages/0/1/Dialogue
+\\N[12]. 「OHh, damn ...... Next time, I will definitely
+win, Sherry!」#MTLed
+> END STRING
+
+> BEGIN STRING
+負けるたび、シェリーの下着を思い出して
+オナニーをする\\N[12]。
+> CONTEXT: Map008/events/12/pages/0/12/Dialogue
+Whenever I lose, I remember Sherry's underwear
+To play masturbation \\N[12] .#MTLed
+> END STRING
+
+> BEGIN STRING
+この後も、彼はシェリーに挑んでは跳ね返される日々を
+送ることになる。
+果たして、いつかリベンジを果たすことが
+できるのだろうか――
+> CONTEXT: Map008/events/12/pages/0/15/Dialogue
+Even after this, he challenges Sherry and will rebound days
+I will send it. Well, someday it will be fulfilling revenge
+Can we do it?#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー　バッドエンド：リベンジへの道は遠く
+> CONTEXT: Map008/events/12/pages/0/20/Dialogue
+Shelly buddend: The way to revenge is far away#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……ひ、姫様っ……
+あっ、あああぁっ……！」
+> CONTEXT: Map008/events/12/pages/1/5/Dialogue
+\\N[12]. 「uugh...... hi, princess...Oh, Aaahh ...
+...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+準優勝という、栄誉あるはずの結果とは裏腹に――
+\\N[12]は、王女アルミナに蹂躙された日のことを思い出し、
+オナニーを繰り返す日々を送る。
+> CONTEXT: Map008/events/12/pages/1/16/Dialogue
+Contrary to the result of second-best victory, which should
+be honored -. \\N[12] I remembered the day I was overrun
+by the princess alumina, Send days to repeat masturbation.#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士として大きなことを成し遂げることを望んで
+旅立った\\N[12]であったが、
+敗北と挫折によって心を折られ、
+堕落した末路をたどることになってしまったのである。
+> CONTEXT: Map008/events/12/pages/1/20/Dialogue
+Hoping to accomplish big things as swordsmen
+I left. \\N[12] However, Following defeat and
+frustration, It was decided to follow the fallen path.#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ バッドエンド１：お姫様に屈服した少年剣士
+> CONTEXT: Map008/events/12/pages/1/25/Dialogue
+Alumina bad end 1: Boys swordsman who succumbed to the
+princess#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会から数日後――
+> CONTEXT: Map008/events/12/pages/2/1/Dialogue
+A few days after martial arts tournament -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふー、どうやら村の雰囲気も落ち着いてきたか。
+さすがに、外に出るたび祝福されるのも
+むずがゆかったからなあ。
+> CONTEXT: Map008/events/12/pages/2/3/Dialogue
+\\N[12]. 「Well, apparently the atmosphere of the
+village has calmed down. Truly, every time you go outside
+you will be blessed. It was because it was irritating.#MTLed
+> END STRING
+
+> BEGIN STRING
+それにしても、これからどうしようかな。
+しばらくはのんびりするとしても……」
+> CONTEXT: Map008/events/12/pages/2/8/Dialogue
+Anyway, I wonder what I should do now. Even if you relax
+for a while......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「\\N[12]、いる？」
+> CONTEXT: Map008/events/12/pages/2/11/Dialogue
+Jane. 「\\N[12] Are there」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おう、ジェーンか。
+いるけど、どうしたんだ？」
+> CONTEXT: Map008/events/12/pages/2/17/Dialogue
+\\N[12]. 「Ooo, Jane? But, what happened?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ちょっと顔が見たくなってね。
+思った通り、気の抜けた感じになってるねぇ」
+> CONTEXT: Map008/events/12/pages/2/30/Dialogue
+Jane. 「I want to see a little face. As I thought, I feel
+like I'm out of my mind」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まあ、大会前に気合が入ってただけになぁ。
+優勝なんて達成しちまうと、
+やりたいこともなくなって気も抜けるさ」
+> CONTEXT: Map008/events/12/pages/2/34/Dialogue
+\\N[12]. 「Well, it only came in before tournament.
+As we achieve our victory, There is nothing I want to do
+but I can not mind」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「贅沢なこと言っちゃって。
+ま、やりたいことがないっていうんなら都合がいいかな。
+ひとつ、いい話を持ってきたんだけどさ」
+> CONTEXT: Map008/events/12/pages/2/39/Dialogue
+Jane. 「Say luxurious things. Well, is it convenient if you
+do not have anything to do? One thing, I brought a good
+story」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「私と結婚しない？」
+> CONTEXT: Map008/events/12/pages/2/47/Dialogue
+Jane. 「Will not you marry me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「い……いきなり何言ってんだお前……」
+> CONTEXT: Map008/events/12/pages/2/52/Dialogue
+\\N[12]. 「......what are you saying suddenly.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ダメかな？
+この村じゃ、\\N[12]の次に強いのが私だと思うし
+今の\\N[12]に一番釣り合うと思うんだけど」
+> CONTEXT: Map008/events/12/pages/2/55/Dialogue
+Jane. 「Is it not good? In this village, \\N[12] I think
+that it is me that is strong next to. Now \\N[12] I
+think that it is most likely to be in proportion to」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、まあ、ジェーンがそういうことを言ってくれるのは
+嬉しいと思うけどさ。
+でも、どうしてそんな話を？」
+> CONTEXT: Map008/events/12/pages/2/60/Dialogue
+\\N[12]. 「Well, well, Jane tells us something like that
+I think I'm happy. But why such a story?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「実は、村長さんが引退するらしいんだよね。
+後釜は団長が狙ってるみたいだけど。
+そうなると団長の座が空くじゃない？」
+> CONTEXT: Map008/events/12/pages/2/65/Dialogue
+Jane. 「Actually, Village Head seems to retire.
+It seems that the postmar is aiming for the head coach.
+Then the position of the president is empty?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふむふむ」
+> CONTEXT: Map008/events/12/pages/2/70/Dialogue
+\\N[12]. 「」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「で、空いた団長の椅子には、たぶん\\N[12]に
+話が来ると思うの。
+村どころか国で最強の剣士なんだから当然だけどさ」
+> CONTEXT: Map008/events/12/pages/2/73/Dialogue
+Jane. 「So, maybe for the empty team head chair \\N[12]
+Into. I think that a story will come. Naturally because it
+is the strongest swordsman in the country rather than the
+village」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうなのか、俺が団長ね……
+なんだか、務まるかどうか不安だけど」
+> CONTEXT: Map008/events/12/pages/2/78/Dialogue
+\\N[12]. 「Is it so, I'm the head captain ...
+Somehow, I'm worried whether I will work or not」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「だから、私がパートナーとしてサポートしてあげる。
+わりとフォローしてあげる自信あるよ？
+> CONTEXT: Map008/events/12/pages/2/82/Dialogue
+Jane. 「So, I will support as a partner. I'm confident that
+you can follow you carefully?#MTLed
+> END STRING
+
+> BEGIN STRING
+それにさ、私、\\N[12]とひとつ屋根の下で過ごして
+あなたのこと好きになっちゃったんだよ」
+> CONTEXT: Map008/events/12/pages/2/86/Dialogue
+Besides, I, \\N[12] And spending one under the roof
+I got to like you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうか……
+俺も、お前には決勝前夜に落ち着かせてもらったし、
+いろいろ助けられているんだよな。
+> CONTEXT: Map008/events/12/pages/2/89/Dialogue
+\\N[12]. 「That's right. I also had you calm down the
+night before the final, It is being helped.#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンの気持ちは嬉しいし、
+そういうことなら、結婚しちまうか」
+> CONTEXT: Map008/events/12/pages/2/94/Dialogue
+Jane's feelings are nice, If so, do you get married」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ホント？　やったー！
+私、\\N[12]のことを支えていけるように
+頑張るからね！」
+> CONTEXT: Map008/events/12/pages/2/97/Dialogue
+Jane. 「really? Yay! Me, \\N[12] As we can support
+I'll do my best!」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]はジェーンと婚約し、
+ほどなくして、
+自警団長の座を前団長アルバートから譲り受けることとなる。
+> CONTEXT: Map008/events/12/pages/2/103/Dialogue
+In this way, \\N[12] I am engaged to Jane,
+Sooner, It will take over from Captain Albert in front of
+the vigilante headmaster.#MTLed
+> END STRING
+
+> BEGIN STRING
+その後も\\N[12]はレストンの村のために尽くし、
+王都のロイヤルガードたちにも負けない活躍を見せながら
+生まれ故郷に骨を埋めることになるのであった。
+> CONTEXT: Map008/events/12/pages/2/107/Dialogue
+Since then \\N[12] I will do my best for the village of
+Reston, While showing active success not to defeat the
+royal guards of Kingdom. It was to bury the bones in their
+birthplace.#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン　グッドエンド：故郷のために
+> CONTEXT: Map008/events/12/pages/2/111/Dialogue
+Jane Good end: For my hometown#MTLed
+> END STRING
+
+> BEGIN STRING
+冒険の手引きがある。
+> CONTEXT: Map008/events/23/pages/0/0/Dialogue
+There is an adventure guide.#MTLed
+> END STRING
+
+> BEGIN STRING
+基本の操作方法
+> CONTEXT: Map008/events/23/pages/0/2/Choice/0
+Basic operation method#MTLed
+> END STRING
+
+> BEGIN STRING
+特殊な操作
+> CONTEXT: Map008/events/23/pages/0/2/Choice/1
+Special operations#MTLed
+> END STRING
+
+> BEGIN STRING
+一度行った場所には
+> CONTEXT: Map008/events/23/pages/0/2/Choice/2
+Once in a place I went#MTLed
+> END STRING
+
+> BEGIN STRING
+技力（TP）について
+> CONTEXT: Map008/events/23/pages/0/2/Choice/3
+On technique (TP)#MTLed
+> END STRING
+
+> BEGIN STRING
+移動：カーソルキー、またはテンキー（Shift押しっぱなしでダッシュ）
+メニューを開く：Xキー、またはESCキー
+決定：Zキー
+キャンセル：Xキー
+> CONTEXT: Map008/events/23/pages/0/4/Dialogue
+Move: Cursor keys or numeric keypad (dash with Shift
+pressed). Open the menu: X key or ESC key
+Decision: Z key. Cancel: X key#MTLed
+> END STRING
+
+> BEGIN STRING
+メッセージスキップ：Ctrlキー
+メッセージウィンドウの一時消去：メッセージウィンドウ表示中に
+Shiftキー。もう一度Shiftを押せば元通り表示されます。
+> CONTEXT: Map008/events/23/pages/0/11/Dialogue
+Message skipping: Ctrl key. Delete message window
+temporarily: While displaying message window
+Shift key. If you press Shift again, it will be displayed
+as it is.#MTLed
+> END STRING
+
+> BEGIN STRING
+道具屋で売っている『神々の羽』というアイテムを使うと
+一度行ったダンジョンや街に移動することができます。
+> CONTEXT: Map008/events/23/pages/0/17/Dialogue
+Using the item "gods feathers" that sells at a tool store
+You can move to the dungeon and city you went once.#MTLed
+> END STRING
+
+> BEGIN STRING
+本作では、技力（TP）は戦闘が終わっても持ち越されます。
+技力を回復するアイテムや
+回復スポットも登場しますので、ご活用ください。
+> CONTEXT: Map008/events/23/pages/0/22/Dialogue
+In this work, skill (TP) will be carried over even after
+the battle is over. Items to recover skills
+Recovery spots will also appear so please use.#MTLed
+> END STRING
+
+> BEGIN STRING
+自動ページ送りモードについて
+> CONTEXT: Map008/events/25/pages/0/0/Choice/0
+About automatic page feed mode#MTLed
+> END STRING
+
+> BEGIN STRING
+スタート時、あるいはアイテム「自動ページ送りモードアイテム」で
+秒数を設定していれば、
+自動ページ送りモードが有効になります。
+> CONTEXT: Map008/events/25/pages/0/2/Dialogue
+At start, or item「Automatic page feed mode item」so
+If you set the number of seconds, The automatic page feed
+mode is enabled.#MTLed
+> END STRING
+
+> BEGIN STRING
+自動ページ送りモードは、
+会話中にALTキーを押すことで有効になります。
+設定した秒数が経過すると、自動で次のページに移行します。
+なお、もう一度ALTを押すことでモードが無効になります。
+> CONTEXT: Map008/events/25/pages/0/6/Dialogue
+In automatic page feed mode, You can activate it by
+pressing the ALT key during a conversation.
+When the set number of seconds elapses, it will
+automatically move to the next page. By pressing ALT again,
+the mode becomes invalid.#MTLed
+> END STRING
+
+> BEGIN STRING
+スキル『様子見』を習得しました。
+> CONTEXT: Map008/events/3/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/4/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さらに、「勃起」状態のままでいると性感度というパラメータが増え
+これが20以上のときにエッチな技を食らうと射精してしまいます。
+射精すると、その後に致命的な隙を晒してしまうことになります。
+> CONTEXT: Map008/events/8/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅了と似た状態ですが、状態の自然解除までにかかるターン数は
+恍惚の方がやや長くなっています。
+また、耐性をつける方法が少ないため、厄介な状態異常です。
+> CONTEXT: Map008/events/8/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+匂いで責められた場合に、この状態になってしまうことがあるので
+それらしい敵と出会った場合は注意しましょう。
+ただし、恍惚状態を誘発する技を使う敵はごく少数です。
+> CONTEXT: Map008/events/8/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱出コマンドは、彼我の能力差や乱数によって
+失敗することもありますが、
+失敗するたび、次回の脱出コマンドの成功率が上昇していきます。
+> CONTEXT: Map008/events/8/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さらに、20を超えている＋勃起状態のときに
+女の子から性感攻撃を受けると、
+\\N[12]は射精してしまい、大幅に精神力が減少します。
+> CONTEXT: Map008/events/8/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+金庫について
+> CONTEXT: Map008/events/23/pages/0/28/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自宅には金庫が設置されており、お金を預けることができます。
+女の子に敗北した際、所持金を奪われてしまうことがありますが、
+そうなったときのための対策にご活用ください。
+> CONTEXT: Map008/events/23/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING

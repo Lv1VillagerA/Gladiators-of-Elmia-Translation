@@ -1,0 +1,57 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+温泉旅館『白草亭』
+> CONTEXT: Map079/display_name/
+Onsen Ryokan "Shirakkatei"#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「いらっしゃい、外は寒かったでしょう。
+部屋も空いてし、泊まるかい？
+一泊20\\Gだけど」
+> CONTEXT: Map079/events/3/pages/0/0/Dialogue
+Aunt. 「Welcome home, it was cold outside.
+The room is also vacant, can you stay? 20 nights overnight
+\\G However」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「お金が足りないねぇ」
+> CONTEXT: Map079/events/3/pages/0/17/Dialogue
+Aunt. 「I do not have enough money.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女中さん
+「お風呂はご自由にどうぞ～
+男性の方は青い扉からお入りくださいね。
+性別を識別する魔法がかかっておりますので、触れれば開きますよ」
+> CONTEXT: Map079/events/5/pages/0/0/Dialogue
+Maid's. 「Please feel free to take a bath ~
+Men please come in from the blue door. Since magic is
+applied to identify gender, it will open if touched」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法使い
+「ディラント高原は温暖な王都からさほど離れていないのに、
+ずいぶん雪が積もっているのが不思議よねぇ」
+> CONTEXT: Map079/events/6/pages/0/0/Dialogue
+Witch. 「Although the Diranto Plateau is not so far from
+the temperate kingdom, It is strange that snow is piled up
+a lot」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「このへんに雪が多いのは、北の山地の影響が大きいみたいだぞ。
+でも雪は高原で降り尽くしちまうから、
+ここより南には雪雲は行かないようだな」
+> CONTEXT: Map079/events/7/pages/0/0/Dialogue
+Warrior. 「There are a lot of snow in this area, it seems
+that the influence of the mountains in the north is large.
+But as the snow falls off at the plateau,
+Snow clouds are not going south from here」#MTLed
+> END STRING

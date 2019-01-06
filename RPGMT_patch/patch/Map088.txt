@@ -1,0 +1,35 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ディラント高原東
+> CONTEXT: Map088/display_name/
+Dirant Takahara east#MTLed
+> END STRING
+
+> BEGIN STRING
+『ウィギスの村共同墓地』
+と書いてある。
+> CONTEXT: Map088/events/1/pages/0/0/Dialogue
+"Village cemetery in Wigheis". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「見つけた！
+これがユキミタケか……」
+> CONTEXT: Map088/events/12/pages/1/0/Dialogue
+> CONTEXT: Map088/events/19/pages/1/0/Dialogue
+> CONTEXT: Map077/events/14/pages/1/0/Dialogue
+> CONTEXT: Map077/events/26/pages/1/0/Dialogue
+> CONTEXT: Map072/events/23/pages/1/0/Dialogue
+\\N[12]. 「I found it! Is this snowy mushroom? ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ユキミタケを手に入れた！
+> CONTEXT: Map088/events/12/pages/1/5/Dialogue
+> CONTEXT: Map088/events/19/pages/1/5/Dialogue
+> CONTEXT: Map077/events/14/pages/1/5/Dialogue
+> CONTEXT: Map077/events/26/pages/1/5/Dialogue
+> CONTEXT: Map072/events/23/pages/1/5/Dialogue
+I got snowy mushroom!#MTLed
+> END STRING

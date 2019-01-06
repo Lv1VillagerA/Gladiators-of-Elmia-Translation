@@ -1,0 +1,1807 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「宿泊、休憩ともに 10\\G です。ご利用ですか？\\$
+> CONTEXT: Map036/events/2/pages/0/0/Dialogue
+> CONTEXT: Map036/events/2/pages/1/0/Dialogue
+> CONTEXT: Map036/events/2/pages/3/0/Dialogue
+> CONTEXT: Map036/events/2/pages/4/0/Dialogue
+> CONTEXT: Map036/events/2/pages/5/0/Dialogue
+> CONTEXT: Map036/events/2/pages/6/0/Dialogue
+> CONTEXT: Map036/events/2/pages/7/0/Dialogue
+> CONTEXT: Map036/events/2/pages/8/0/Dialogue
+> CONTEXT: Map036/events/2/pages/9/0/Dialogue
+> CONTEXT: Map036/events/2/pages/10/0/Dialogue
+> CONTEXT: Map036/events/2/pages/11/0/Dialogue
+「Accommodation, rest 10 \\G is. Do you use it? \\$#MTLed
+> END STRING
+
+> BEGIN STRING
+「お金が足りません。
+> CONTEXT: Map036/events/2/pages/0/14/Dialogue
+> CONTEXT: Map036/events/2/pages/1/59/Dialogue
+> CONTEXT: Map036/events/2/pages/3/46/Dialogue
+> CONTEXT: Map036/events/2/pages/4/46/Dialogue
+> CONTEXT: Map036/events/2/pages/5/45/Dialogue
+> CONTEXT: Map036/events/2/pages/6/45/Dialogue
+> CONTEXT: Map036/events/2/pages/7/55/Dialogue
+> CONTEXT: Map036/events/2/pages/8/55/Dialogue
+> CONTEXT: Map036/events/2/pages/9/226/Dialogue
+> CONTEXT: Map036/events/2/pages/10/14/Dialogue
+> CONTEXT: Map036/events/2/pages/11/14/Dialogue
+> CONTEXT: Map036/events/2/pages/12/15/Dialogue
+「I do not have enough money.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（今日はこれから試合があるんだし、寝るわけにはいかない。
+休憩だけにしておこう）
+> CONTEXT: Map036/events/2/pages/1/6/Dialogue
+\\N[12]. Today there are matches and I can not sleep.
+Let's just rest)#MTLed
+> END STRING
+
+> BEGIN STRING
+休憩（時間経過なし。効果は宿泊と同じ）
+> CONTEXT: Map036/events/2/pages/1/19/Choice/0
+> CONTEXT: Map036/events/2/pages/3/5/Choice/0
+> CONTEXT: Map036/events/2/pages/4/5/Choice/0
+> CONTEXT: Map036/events/2/pages/5/5/Choice/0
+> CONTEXT: Map036/events/2/pages/6/5/Choice/0
+> CONTEXT: Map036/events/2/pages/7/5/Choice/0
+> CONTEXT: Map036/events/2/pages/8/5/Choice/0
+> CONTEXT: Map036/events/2/pages/9/5/Choice/0
+rest (no lapse of time, effects are the same as accommodation)#MTLed
+> END STRING
+
+> BEGIN STRING
+宿泊（1日経過します）
+> CONTEXT: Map036/events/2/pages/1/19/Choice/1
+> CONTEXT: Map036/events/2/pages/3/5/Choice/1
+> CONTEXT: Map036/events/2/pages/4/5/Choice/1
+> CONTEXT: Map036/events/2/pages/5/5/Choice/1
+> CONTEXT: Map036/events/2/pages/6/5/Choice/1
+> CONTEXT: Map036/events/2/pages/7/5/Choice/1
+> CONTEXT: Map036/events/2/pages/8/5/Choice/1
+> CONTEXT: Map036/events/2/pages/9/5/Choice/1
+Accommodation (one day passes)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]※大会当日です。
+闘技場へ向かいましょう。
+> CONTEXT: Map036/events/2/pages/1/41/Dialogue
+> CONTEXT: Map036/events/2/pages/3/28/Dialogue
+> CONTEXT: Map036/events/2/pages/4/28/Dialogue
+> CONTEXT: Map036/events/2/pages/5/28/Dialogue
+> CONTEXT: Map036/events/2/pages/6/28/Dialogue
+> CONTEXT: Map036/events/2/pages/7/28/Dialogue
+> CONTEXT: Map036/events/2/pages/8/38/Dialogue
+> CONTEXT: Map036/events/2/pages/9/206/Dialogue
+> CONTEXT: Map034/events/4/pages/0/34/Dialogue
+> CONTEXT: Map034/events/4/pages/1/24/Dialogue
+> CONTEXT: Map034/events/4/pages/2/24/Dialogue
+> CONTEXT: Map034/events/4/pages/3/24/Dialogue
+> CONTEXT: Map034/events/4/pages/4/24/Dialogue
+> CONTEXT: Map034/events/4/pages/5/24/Dialogue
+> CONTEXT: Map034/events/4/pages/6/34/Dialogue
+> CONTEXT: Map034/events/4/pages/7/170/Dialogue
+\\C[2]※ It is tournament day. Let's go to the stadium.#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会まで、残り\\V[6]日です。
+> CONTEXT: Map036/events/2/pages/1/47/Dialogue
+> CONTEXT: Map034/events/4/pages/0/40/Dialogue
+Martial arts until tournament, rest \\V[6] It is day.#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「おや、お目覚めかい？」
+> CONTEXT: Map036/events/2/pages/2/0/Dialogue
+Aunt. 「Oh, you wake up?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい。ええと、あの、ここは宿屋ですよね？
+どうして俺はここに……？」
+> CONTEXT: Map036/events/2/pages/2/3/Dialogue
+\\N[12]. 「Yes. Uh, uh, here is a inn, is not it?
+Why am I here ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「お客さん、決闘に負けて道に倒れてたんだってさ。
+ウチの従業員が見てて、みんなで運び込んだんだよ」
+> CONTEXT: Map036/events/2/pages/2/7/Dialogue
+Aunt. 「The customer lost the duel and fell down on the
+road. Employees in our company are watching, everyone
+carries in」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだったんですか……ありがとうございました」
+> CONTEXT: Map036/events/2/pages/2/11/Dialogue
+\\N[12]. 「I see. Thank you very much.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ん？　そういえば、俺はもともと中央区の宿屋に
+行ってみようと思っていたんだ。ちょうどいいな）
+> CONTEXT: Map036/events/2/pages/2/14/Dialogue
+\\N[12]. (Oh, by the way, I'm in an inn at Chuo-ku
+I was going to go. Just right#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あの、ところでこの宿屋、部屋は空いてますか？
+俺、武道大会に出るんですが、泊まるところを
+探しているんです」
+> CONTEXT: Map036/events/2/pages/2/18/Dialogue
+\\N[12]. 「Um, by the way is this inn, do you have a
+room? I'm going out to the martial arts tournament, but
+where to stay. I am looking for」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「ああ、それなら大丈夫さ。
+ウチは武道大会開催中でも満室になることはあんまりないし、
+いつでも泊まりにくるといいよ」
+> CONTEXT: Map036/events/2/pages/2/23/Dialogue
+Aunt. 「Oh, then it's okay. There is not much room for me
+to become full even during the martial arts tournament,
+You should come and stay at any time」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうなんですか、わかりました」
+> CONTEXT: Map036/events/2/pages/2/28/Dialogue
+\\N[12]. 「I see. I understand.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（どうやら、この宿は問題なく利用できそうだ。
+よし、一日無駄にしてしまったみたいだけど、
+大会まで残された日数、頑張って腕を磨かないと！）
+> CONTEXT: Map036/events/2/pages/2/31/Dialogue
+\\N[12]. Apparently, I think that this inn would be
+available without problems. Well, it seems I wasted a day,
+The number of days left until tournament, I must work hard
+and have to brush my arms! )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今日は2次予選だ。
+勝ち抜けば決勝トーナメントに進出できる。
+絶対に勝つぞ！」
+> CONTEXT: Map036/events/2/pages/3/31/Dialogue
+> CONTEXT: Map034/events/4/pages/1/27/Dialogue
+\\N[12]. 「Today is the second preliminary contest.
+If you win, you can advance to the finals tournament.
+I definitely will win!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今日はいよいよ決勝トーナメントだ。
+せっかくここまで進出してきたんだ、
+とにかくひとつでも多く勝ってみせるぜ！」
+> CONTEXT: Map036/events/2/pages/4/31/Dialogue
+> CONTEXT: Map034/events/4/pages/2/27/Dialogue
+\\N[12]. 「Today is the final tournament.
+I have made a lot of progress so far, Anyway I can win a
+lot more!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今日は決勝トーナメント2回戦だ。
+また勝って勢いに乗ってやるぜ！」
+> CONTEXT: Map036/events/2/pages/5/31/Dialogue
+> CONTEXT: Map034/events/4/pages/3/27/Dialogue
+\\N[12]. 「Today is the second round of the finals
+tournament. I will win and get on the momentum!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今日は決勝トーナメント3回戦だ。
+まだまだ先は長いぜ」
+> CONTEXT: Map036/events/2/pages/6/31/Dialogue
+> CONTEXT: Map034/events/4/pages/4/27/Dialogue
+\\N[12]. 「Today is the third round of the finals
+tournament. The destination is long.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今日は決勝トーナメント4回戦、準々決勝だ。
+そろそろ優勝が見えてきたな！」
+> CONTEXT: Map036/events/2/pages/7/31/Dialogue
+> CONTEXT: Map034/events/4/pages/5/27/Dialogue
+\\N[12]. 「Today is the quarterfinals, the fourth round
+of the finals tournament. The victory has come to light!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おっと、そろそろサディさんの武具が
+できている頃なんじゃないか？
+受け取りにいこうかな……」
+> CONTEXT: Map036/events/2/pages/7/36/Dialogue
+> CONTEXT: Map034/events/4/pages/5/32/Dialogue
+\\N[12]. 「Oops, soon Sadi-san's weapons. Is not it
+about when it is done? Would you like to take over?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今日の準決勝、相手はシェリー……
+ついに、このときが来たんだな」
+> CONTEXT: Map036/events/2/pages/8/41/Dialogue
+> CONTEXT: Map034/events/4/pages/6/37/Dialogue
+\\N[12]. 「Today's semifinals, opponent Sherry ......
+Finally, this time has come」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「明日の相手は、あの姫様……
+剣さばきが鋭くて流麗なんだよな……
+> CONTEXT: Map036/events/2/pages/9/27/Dialogue
+> CONTEXT: Map034/events/4/pages/7/23/Dialogue
+\\N[12]. 「The other party tomorrow, that princess ......
+It is sharp and sweet to judge the sword ....#MTLed
+> END STRING
+
+> BEGIN STRING
+今まで戦った中では、ディアーナが一番近いタイプかな。
+だけど、あの姫様はスケールが違う感じがする。
+どう対処するべきか……」
+> CONTEXT: Map036/events/2/pages/9/32/Dialogue
+> CONTEXT: Map034/events/4/pages/7/28/Dialogue
+Diana is the closest type in fighting until now.
+However, that princess feels different in scale.
+How to deal with it ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ああいうタイプは他に戦ったことがない。
+うーん、どう対処すべきだろう」
+> CONTEXT: Map036/events/2/pages/9/38/Dialogue
+> CONTEXT: Map034/events/4/pages/7/34/Dialogue
+I've never fought any other type. Well, how should I deal
+with it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「や、\\N[12]君。眠れないの？」
+> CONTEXT: Map036/events/2/pages/9/47/Dialogue
+Sherry. 「And \\N[12] You. you can not sleep?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「シェリー？
+どうしてお前が……」
+> CONTEXT: Map036/events/2/pages/9/55/Dialogue
+\\N[12]. 「Sherry? Why are you ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「今日は隣の部屋に泊まってたの。
+なんだか眠れないみたいだね。
+ちょっとお話でもする？」
+> CONTEXT: Map036/events/2/pages/9/59/Dialogue
+Sherry. 「I stayed in the next room today.
+It seems like I can not sleep.
+Do you want to talk a little?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……ああ、そうだな。
+これも何かの縁だろうし、
+少し付き合ってくれ」
+> CONTEXT: Map036/events/2/pages/9/64/Dialogue
+\\N[12]. 「... Ah, that's right. Well this is also the
+edge of something, Do a little with me.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「今までは東区のホテルにいたんだけど、
+大会も負けちゃったし、こっちに移ってきたんだ。
+キミはずっとこっちに泊まってたの？」
+> CONTEXT: Map036/events/2/pages/9/78/Dialogue
+Sherry. 「Until now I was in a hotel in
+Higashi-ku, The tournament also lost, and I moved
+to this place. Were you staying here forever?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、王都にいる知り合いに
+部屋を借りてを拠点にしてるんだが
+今日は気まぐれに、ここに泊まりたくなってな」
+> CONTEXT: Map036/events/2/pages/9/84/Dialogue
+\\N[12]. 「No, in acquaintances who are in Kingdom
+capital. I am borrowing a room and based in
+Today I want to stay here as a whim.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「そうなんだ。
+決戦を前に、気分を変えてみたかった感じ？」
+> CONTEXT: Map036/events/2/pages/9/89/Dialogue
+Sherry. 「is that so. Before the decisive battle,
+did you feel like trying to change your mood?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ。あんまり金がなかったからなぁ」
+> CONTEXT: Map036/events/2/pages/9/95/Dialogue
+\\N[12]. 「Oh. It was because I did not have much money」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「いいなあ、私もこっちにすればよかった。
+東区のホテル、会場に近いのはいいけど結構騒がしくてさ」
+> CONTEXT: Map036/events/2/pages/9/98/Dialogue
+Sherry. 「Well I should have done it this way.
+It is nice to be close to the hotel, venue in the
+east, but quite noisy」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（関係ない話をすることで気が紛れそうだ、ちょうどよかったな。
+そういえば、こいつ、ずっと修行の旅をしてるんだっけ……）
+> CONTEXT: Map036/events/2/pages/9/104/Dialogue
+\\N[12]. (It seems that my mind gets confused by talking
+about nothing to do, it was just right. By the way, this
+guy has been traveling for a long time......)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……なあ。
+お前、どういった人間になりたくて修行してるんだ？」
+> CONTEXT: Map036/events/2/pages/9/108/Dialogue
+\\N[12]. 「...... I wish. You, you want to be human, you
+are training?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「私？　べつに、剣で身を立てたいだけだよ。
+基本的には冒険者を続けて、
+世界のいろんなところに行ってみたいかな！
+> CONTEXT: Map036/events/2/pages/9/112/Dialogue
+Sherry. 「Me? He just wants to stand up with a
+sword. Basically continue with the adventurer,
+I wanna go to various parts of the world!#MTLed
+> END STRING
+
+> BEGIN STRING
+それにも飽きたら、どこかで道場でも開くのもいいけどね。
+そういうことを聞くってことは、キミは迷ってるのかな？」
+> CONTEXT: Map036/events/2/pages/9/117/Dialogue
+If you get tired of it, it is good to open it
+somewhere even in the dojo. To hear that kind of
+thing, are you astray?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺は、お前に負けるまではあの村で漫然と生きていたんだ。
+いつか大きなことを成し遂げたいと思いながらも、
+具体的なことは何もせず、ただ剣の稽古をしてただけだ。
+> CONTEXT: Map036/events/2/pages/9/120/Dialogue
+\\N[12]. 「I stayed alive in that village until you lose.
+Despite wanting to achieve big things someday,
+I did not do anything concrete, I just practiced swords.#MTLed
+> END STRING
+
+> BEGIN STRING
+今だって、自分がなんでこんなところまで来られたのか
+自分でもよく分かっていないぐらいだ。
+この大会が終わったとき、自分がどうなっているのか
+想像もつかなくてモヤモヤしてる」
+> CONTEXT: Map036/events/2/pages/9/125/Dialogue
+Even now, why did you come to such a place
+I do not quite understand myself. When this tournament is
+over, what is happening to you. I can not imagine pent-up」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うーん、そんなんでホントよくここまで来たね……
+よっぽど私に負けたのが効いちゃったのかな」
+> CONTEXT: Map036/events/2/pages/9/130/Dialogue
+Sherry. 「Well, so it came really well......
+I wonder if losing to me did it work」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今さらだけど、あのとき、
+女だと思って馬鹿にするようなことを言って、
+悪かったな」
+> CONTEXT: Map036/events/2/pages/9/134/Dialogue
+\\N[12]. 「Although it is now, at that time,
+Saying things like thinking that she was a woman,
+It was bad.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「……なんか、びっくりしちゃった。
+キミが素直に謝るだなんて、なんかイメージになかったから」
+> CONTEXT: Map036/events/2/pages/9/139/Dialogue
+Sherry. 「...... something, I was surprised.
+Because it was not in the image that you
+apologize for obedience」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お前のおかげでここまで来られた面はあるから、
+改めて言っておこうと思った。
+ま、勝った後だから言えるんだが……」
+> CONTEXT: Map036/events/2/pages/9/143/Dialogue
+\\N[12]. 「Because of you there is a side that has come
+so far, I wanted to say it again. Well, I can say because
+it's after winning......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ま、そう言ってくれると私もスッキリするよ。
+で、あとは、明日の決勝に勝てば
+キミの望みは叶うわけだ」
+> CONTEXT: Map036/events/2/pages/9/148/Dialogue
+Sherry. 「Well, I will be refreshed if you say so.
+And then, if you win the final of tomorrow
+Your wish will come true」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「望み？」
+> CONTEXT: Map036/events/2/pages/9/153/Dialogue
+\\N[12]. 「hope?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「お姫様に勝てたら、結婚できちゃうわけじゃん。
+王族の仲間入りっていうことになるし、
+充分大きなことを成し遂げたって言っていいと思うよ」
+> CONTEXT: Map036/events/2/pages/9/156/Dialogue
+Sherry. 「If you can win the princess you will
+get married. As a royalty joining the ranks,
+I think you can say I've accomplished something
+big enough」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、それも悪くないな。
+俺みたいな田舎者が、女王になる人の婿になるとか
+考えたこともなかった」
+> CONTEXT: Map036/events/2/pages/9/161/Dialogue
+\\N[12]. 「Oh, that is not too bad. The redneck like me
+will become the son-in-law of the queen. I never even
+thought about it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（……しかし、あの姫さんをものにして王族になる、
+それを成し遂げれば俺は満足するんだろうか？
+> CONTEXT: Map036/events/2/pages/9/166/Dialogue
+\\N[12]. (... .... But that princess and I become a
+royalty, Will I be satisfied if I achieve it?#MTLed
+> END STRING
+
+> BEGIN STRING
+なんだか、他にもいろいろな道がある気がするが……
+例えば、こいつみたいに
+いろんな国をまわってみるのも面白いだろうしなあ）
+> CONTEXT: Map036/events/2/pages/9/170/Dialogue
+Somehow, I think there is another way to go......
+For example, like this one. It would be interesting to go
+around various countries)#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「なんだか、迷いが晴れないって感じだね」
+> CONTEXT: Map036/events/2/pages/9/174/Dialogue
+Sherry. 「Somehow, it is feeling that hesitation
+will not be sunny」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ま、何にせよキミの道は
+明日勝たないことには開けないんじゃないかな。
+まずは勝つことだけを考えることだね」
+> CONTEXT: Map036/events/2/pages/9/180/Dialogue
+Sherry. 「Well, whatever your way is
+I wonder if we can not open to what we will not
+win tomorrow. First of all, you just think about
+winning」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（そうだ。いずれにせよ、明日の決勝で勝つことだ。
+とりあえず、今後のことは
+全部終わってから決めよう！）
+> CONTEXT: Map036/events/2/pages/9/185/Dialogue
+\\N[12]. (Yes, in any case, to win in the finals of
+tomorrow. Tentatively, the future. Let's decide after all!
+)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ついに、決勝か……
+長かったような、あっという間だったような……
+> CONTEXT: Map036/events/2/pages/9/209/Dialogue
+> CONTEXT: Map034/events/4/pages/7/173/Dialogue
+\\N[12]. 「Finally, is it the final?...Like a long
+time, it looks like it was in a blink of......#MTLed
+> END STRING
+
+> BEGIN STRING
+いずれにせよ、泣いても笑ってもこれで最後だ。
+悔いを残さないよう、精一杯戦うぞ！」
+> CONTEXT: Map036/events/2/pages/9/213/Dialogue
+> CONTEXT: Map034/events/4/pages/7/177/Dialogue
+Either way, even if you cry or laugh it is the last one.
+I will fight to the utmost to avoid leaving regrets!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まずは主人と話をしたほうがいいだろう」
+> CONTEXT: Map036/events/3/pages/1/0/Dialogue
+> CONTEXT: Map036/events/4/pages/1/0/Dialogue
+\\N[12]. 「First you'd better talk with your husband」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士
+「東区と違って、こちらの宿屋は静かでいいな。
+闘技場から遠いとはいえ、集中するには適しているだろう」
+> CONTEXT: Map036/events/5/pages/0/0/Dialogue
+Swordsman. 「Unlike Eastern Ward, this inn is quiet and
+nice. Although far from the stadium, it would be suitable
+to concentrate」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「私たちは西方から来ましたのよ。
+武道大会は毎年観戦に訪れているのだけれど、
+今年は東区の宿を取ることができなくて、ここにしたの」
+> CONTEXT: Map036/events/6/pages/0/0/Dialogue
+Aunt. 「We are from the west. Martial arts tournament is
+visited to watch every year, This year I could not take the
+accommodations in the ward, I did it here」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「宿代は安いし、充分に整った宿じゃないか。
+闘技場から距離はあるが、その分お城見物はしやすいし
+穴場と言えるね」
+> CONTEXT: Map036/events/7/pages/0/0/Dialogue
+old man. 「The inn is inexpensive and it is a
+well-organized inn. Although there is a distance from the
+stadium, it is easy to see the castle by that much
+You can say that is a great place」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「お、\\N[12]君。
+優勝おめでとう」
+> CONTEXT: Map036/events/14/pages/0/2/Dialogue
+> CONTEXT: Map036/events/14/pages/1/2/Dialogue
+Sherry. 「Contact \\N[12] You. congratulations
+for winning」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（俺、勝利者の権利を行使していないし
+こいつを犯してもいいんだよな。
+どうしよう、復讐も兼ねて犯そうか？）
+> CONTEXT: Map036/events/14/pages/0/6/Dialogue
+\\N[12]. (I do not exercise the right of the victor
+You can commit himself. How shall we commit it also as a
+vengeance? )#MTLed
+> END STRING
+
+> BEGIN STRING
+犯す
+> CONTEXT: Map036/events/14/pages/0/11/Choice/0
+commit#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「キミはどうやら本物だったみたいだね。
+とはいえ、次やるときは私も負けないからね。
+覚悟しておきなよー」
+> CONTEXT: Map036/events/14/pages/0/15/Dialogue
+> CONTEXT: Map036/events/14/pages/0/394/Dialogue
+> CONTEXT: Map036/events/14/pages/1/9/Dialogue
+Sherry. 「You seem to have been real.
+However, I will not lose when I do next.
+Please be prepared for it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お前に祝福してもらえるとは思わなかったぜ。
+ま、お前に勝った以上は決勝で負けるわけには
+いかないと思ったからなあ」
+> CONTEXT: Map036/events/14/pages/0/20/Dialogue
+\\N[12]. 「I did not expect you to be blessed.
+Well, I will lose by the final in the event I win over you
+I thought I would not go」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「私としては、初めてキミと会ったときは
+女を馬鹿にするようなことを言われたし、
+嫌な人だなって印象を持ったけれど――
+> CONTEXT: Map036/events/14/pages/0/25/Dialogue
+Sherry. 「As for me, the first time I met you
+I was told something like making a woman foolish,
+Although I had an impression of being a bad
+person -#MTLed
+> END STRING
+
+> BEGIN STRING
+今のキミは本当に力のある剣士になったと思う。
+屈辱をバネにしてここまで強くなれるっていうのは
+たいしたものだと思うよ」
+> CONTEXT: Map036/events/14/pages/0/30/Dialogue
+I think that you are now a powerful swordsman.
+The fact that humiliation is a spring and
+becoming stronger so far is. I think it's a big
+deal.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺としても、あのときの自分は本当に小さい人間だったと
+実感しているぜ。
+本当、お前のおかげでここまで来られたと思ってる」
+> CONTEXT: Map036/events/14/pages/0/34/Dialogue
+\\N[12]. 「Even I, that myself at that time was a really
+small person. I realize that. True, I think you were able
+to come so far thanks to you」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うんうん、感謝するといいよ。
+それにしても、会いに来てくれて嬉しいよ。
+私、そろそろこの国を離れようと思ってたからさ」
+> CONTEXT: Map036/events/14/pages/0/39/Dialogue
+Sherry. 「You should appreciate it.
+Anyway, I'm glad you came to see me.
+Because I thought about leaving this country
+soon.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、そうなのか」
+> CONTEXT: Map036/events/14/pages/0/44/Dialogue
+> CONTEXT: Map036/events/14/pages/1/23/Dialogue
+\\N[12]. 「Will it be so?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「もともと、ひとつところに長く居る性分じゃないしね。
+でも、この国でのことは印象に残ったし、
+最後にキミと会えて嬉しかったなー」
+> CONTEXT: Map036/events/14/pages/0/47/Dialogue
+> CONTEXT: Map036/events/14/pages/1/26/Dialogue
+Sherry. 「It is not sexual in one place.
+However, things in this country remained
+impressive, I was glad to see you at the end」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか、会えない可能性もあったんだな。
+今日ここに来てよかったぜ、
+大事な用があったからさ」
+> CONTEXT: Map036/events/14/pages/0/52/Dialogue
+\\N[12]. 「Well, there was a possibility not to meet.
+I'm glad I came here today, Because there was an important
+purpose」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「え、そうなんだ。
+私にいったい、なんの用なのかな？」
+> CONTEXT: Map036/events/14/pages/0/57/Dialogue
+Sherry. 「Well, that's right. Why on earth are
+you for me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今日は、あのとき行使しなかった
+勝利者としての権利を、お前に使わせてもらおうと思って来た」
+> CONTEXT: Map036/events/14/pages/0/61/Dialogue
+\\N[12]. 「Today, I did not exercise at that time
+I thought about letting you use the right as a victor」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「え？
+ま、まさか、私を……？」
+> CONTEXT: Map036/events/14/pages/0/65/Dialogue
+Sherry. 「Huh? Well, maybe...you...me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あのときは気分的に
+そういうことをする気にはなれなかったが――
+シェリー、今こそお前を犯してやるとするぜ」
+> CONTEXT: Map036/events/14/pages/0/69/Dialogue
+\\N[12]. 「In that mood. I could not bring myself to do
+that -. Sherry, now is the time to commit you」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「えぇー……
+結局そういう流れになっちゃうとは……」
+> CONTEXT: Map036/events/14/pages/0/74/Dialogue
+Sherry. 「Well...After all it would be such a
+flow......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「嫌とは言わせないからな。
+俺が勝った以上、お前のことを好きにさせてもらう」
+> CONTEXT: Map036/events/14/pages/0/78/Dialogue
+\\N[12]. 「I will not say it is disgusting.
+Beyond winning, let me like you」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うう、しょうがないか。
+観客の前でやられないだけマシだろうし……」
+> CONTEXT: Map036/events/14/pages/0/82/Dialogue
+Sherry. 「Huh, can not be helped.
+I guess it will not be done in front of the
+audience......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「じゃ、ベッドに移動するか」
+> CONTEXT: Map036/events/14/pages/0/86/Dialogue
+\\N[12]. 「Well, do you move to bed?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（おお……
+こうやって押し倒してみると、
+やっぱこいつ結構いい体してるよな……）
+> CONTEXT: Map036/events/14/pages/0/100/Dialogue
+\\N[12]. (Oh……. If you push it down like this,
+I guess this guy is pretty nice......)#MTLed
+> CONTEXT: Commonevents/262/2/Dialogue
+\\N[12]. (Oh……. If you push it down like this,
+I guess this guy is pretty nice......)#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ううっ、なんか興奮した目をしてるし……
+犯されちゃうのかぁ、
+負けたから仕方ないとはいえ……」
+> CONTEXT: Map036/events/14/pages/0/105/Dialogue
+Sherry. 「OHh, I have an excited eyes......
+I guess you are being fucked, Although it can not be helped
+because I lost......」#MTLed
+> CONTEXT: Commonevents/262/7/Dialogue
+Sherry. 「OHh, I have an excited eyes......
+I guess you are being fucked, Although it can not
+be helped because I lost......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「悪いが、容赦はしないぜ。
+お前を犯せると思うと、すげえゾクゾクしてきたし
+このまま今日はとことんやらせてもらうからな」
+> CONTEXT: Map036/events/14/pages/0/110/Dialogue
+\\N[12]. 「It's bad, but I will not pardon.
+If you think you can commit you, I've been tremble for a
+while. I will keep doing things this way as it is today」#MTLed
+> CONTEXT: Commonevents/262/12/Dialogue
+\\N[12]. 「It's bad, but I will not pardon.
+If you think you can commit you, I've been
+tremble for a while. I will keep doing things
+this way as it is today」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ちょ、ちょっとは優しくしてよね、お願いだから」
+> CONTEXT: Map036/events/14/pages/0/116/Dialogue
+Sherry. 「Wait a minute, please do it gently」#MTLed
+> CONTEXT: Commonevents/262/18/Dialogue
+Sherry. 「Wait a minute, please do it gently」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅうううううぅぅっ！
+> CONTEXT: Map036/events/14/pages/0/121/Dialogue
+A crowd!#MTLed
+> CONTEXT: Commonevents/262/23/Dialogue
+A crowd!#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あっ、ああああぁぁっ！
+いっ、痛っ……お、大きいっ……！」
+> CONTEXT: Map036/events/14/pages/0/124/Dialogue
+Sherry. 「Oh, Aaaahhh! When it hurts......., big one ...!」#MTLed
+> CONTEXT: Commonevents/262/26/Dialogue
+Sherry. 「Oh, Aaaahhh! When it hurts.......,
+big one ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「きゃっ、な、なにっ？
+熱いものが、中で出てるっ……」
+> CONTEXT: Map036/events/14/pages/0/136/Dialogue
+Sherry. 「kyaa, what, what? Hot things are coming out
+inside ...」#MTLed
+> CONTEXT: Commonevents/262/38/Dialogue
+Sherry. 「kyaa, what, what? Hot things are coming
+out inside ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……せ、狭すぎるっ……」
+> CONTEXT: Map036/events/14/pages/0/140/Dialogue
+\\N[12]. 「Cut......, it's too narrow...」#MTLed
+> CONTEXT: Commonevents/262/42/Dialogue
+\\N[12]. 「Cut......, it's too narrow ...
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「え、もしかしてイっちゃったの？
+まだ、奥まで入ってすらいないのに」
+> CONTEXT: Map036/events/14/pages/0/144/Dialogue
+Sherry. 「Oh, did you mean that? I have not even entered
+all the way yet」#MTLed
+> CONTEXT: Commonevents/262/46/Dialogue
+Sherry. 「Oh, did you mean that?
+I have not even entered all the way yet」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、うるさいな、
+お前の膣が狭すぎるから刺激が強くて
+出ちまっただけだ」
+> CONTEXT: Map036/events/14/pages/0/148/Dialogue
+\\N[12]. 「No, noisy, Your vagina is too narrow so
+stimulation is strong. I just came out」#MTLed
+> CONTEXT: Commonevents/262/50/Dialogue
+\\N[12]. 「No, noisy, Your vagina is too
+narrow so stimulation is strong
+I just came out」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「そ、そうなんだ……」
+> CONTEXT: Map036/events/14/pages/0/153/Dialogue
+Sherry. 「Well, that's right ......」#MTLed
+> CONTEXT: Commonevents/262/55/Dialogue
+Sherry. 「Well, that's right ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「セックスはこれからだ、
+まだ安心するのは早いぜっ」
+> CONTEXT: Map036/events/14/pages/0/156/Dialogue
+\\N[12]. 「Sex is the future, It is early to relieve yet」#MTLed
+> CONTEXT: Commonevents/262/58/Dialogue
+\\N[12]. 「Sex is the future, It is early to
+relieve yet」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は暴発射精してしまったものの、
+まだ勃起したまま衰えてはいないペニスを
+シェリーの奥まで挿入する！
+> CONTEXT: Map036/events/14/pages/0/160/Dialogue
+\\N[12] Although he had casualty ejaculation,
+I still have a penis that has not waning while still
+erecting. Insert it all the way to Shelley!#MTLed
+> CONTEXT: Commonevents/262/62/Dialogue
+\\N[12] Although he had casualty ejaculation,
+I still have a penis that has not waning while
+still erecting. Insert it all the way to Shelley!#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅううぅっ……
+> CONTEXT: Map036/events/14/pages/0/165/Dialogue
+Wow ...#MTLed
+> CONTEXT: Commonevents/262/67/Dialogue
+Wow ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くうっ……」
+> CONTEXT: Map036/events/14/pages/0/167/Dialogue
+> CONTEXT: Map147/events/2/pages/14/138/Dialogue
+> CONTEXT: Map147/events/17/pages/0/698/Dialogue
+\\N[12]. 「Wow ...」#MTLed
+> CONTEXT: Commonevents/262/69/Dialogue
+\\N[12]. 「Wow ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「んっ……あ、熱くて固いのが、
+奥まで入ってきてる……」
+> CONTEXT: Map036/events/14/pages/0/171/Dialogue
+Sherry. 「Huh...oh, it's hot and hard, I am coming all
+the way ......」#MTLed
+> CONTEXT: Commonevents/262/73/Dialogue
+Sherry. 「Huh...oh, it's hot and hard,
+I am coming all the way ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（こ、こいつの膣、ものすごく心地いいぞ……
+ただ締め付けてくるだけじゃなく、
+すごく温かくて柔らかい……）
+> CONTEXT: Map036/events/14/pages/0/175/Dialogue
+\\N[12]. (This guy's vagina, you will be very
+comfortable...... Just not just tightening up,
+It's very warm and soft......)#MTLed
+> CONTEXT: Commonevents/262/77/Dialogue
+\\N[12]. (This guy's vagina, you will be very
+comfortable...... Just not just tightening up,
+It's very warm and soft......)#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリーの膣の感触が、
+\\N[12]に強い快感を与えてくる――
+> CONTEXT: Map036/events/14/pages/0/180/Dialogue
+Shelly's vaginal feel, \\N[12] It gives us a strong
+pleasure -#MTLed
+> CONTEXT: Commonevents/262/82/Dialogue
+Shelly's vaginal feel, \\N[12] It gives us a
+strong pleasure -#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ど、どうしたの？
+挿れたまま、動かなくなっちゃったけど」
+> CONTEXT: Map036/events/14/pages/0/183/Dialogue
+Sherry. 「Where are you? Although it was inserted, it
+stopped moving」#MTLed
+> CONTEXT: Commonevents/262/85/Dialogue
+Sherry. 「Where are you? Although it was
+inserted, it stopped moving」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まだまだっ……
+いくぞ、シェリー！」
+> CONTEXT: Map036/events/14/pages/0/187/Dialogue
+\\N[12]. 「Well...Let's go, Sherry!」#MTLed
+> CONTEXT: Commonevents/262/89/Dialogue
+\\N[12]. 「Well...Let's go, Sherry!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅっ、ずちゅっ、ずっ、ずぷっ！
+> CONTEXT: Map036/events/14/pages/0/191/Dialogue
+A couple of times, a half hour, a long time ago!#MTLed
+> CONTEXT: Map032/events/50/pages/1/387/Dialogue
+> CONTEXT: Commonevents/152/141/Dialogue
+> CONTEXT: Commonevents/262/93/Dialogue
+> CONTEXT: Commonevents/263/312/Dialogue
+> CONTEXT: Commonevents/228/548/Dialogue
+A couple of times, a half hour, a long time ago!#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「んあっ、あっ、ああんっ！
+す、すごいっ、お腹の中がかき回されてるっ！」
+> CONTEXT: Map036/events/14/pages/0/194/Dialogue
+Sherry. 「Oh no, there, Ah! Sounds awesome, my stomach is
+stirring!」#MTLed
+> CONTEXT: Commonevents/262/96/Dialogue
+Sherry. 「Oh no, there, Ah! Sounds awesome, my
+stomach is stirring!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くうっ……！」
+> CONTEXT: Map036/events/14/pages/0/198/Dialogue
+\\N[12]. 「Wow ...!」#MTLed
+> CONTEXT: Commonevents/262/100/Dialogue
+\\N[12]. 「Wow ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（こ、こいつの体、ほどよく鍛えられてるから
+抱き心地もいいし、セックスの具合がすごくいい……
+先に出しちまったのは恥ずかしいけど、こりゃ最高だぜ）
+> CONTEXT: Map036/events/14/pages/0/201/Dialogue
+\\N[12]. (This guy's body, I'm being well trained
+I feel comfortable and sex is very good ......
+It's embarrassing that I got it earlier, but that's the
+best thing)#MTLed
+> CONTEXT: Commonevents/262/103/Dialogue
+\\N[12]. (This guy's body, I'm being well
+trained. I feel comfortable and sex is very good
+...... It's embarrassing that I got it earlier,
+but that's the best thing)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はそのまま、シェリーの膣を
+夢中になって突きまくる！
+> CONTEXT: Map036/events/14/pages/0/206/Dialogue
+\\N[12] As it is, Sherry's vagina. I am crazy and thrust
+it!#MTLed
+> CONTEXT: Commonevents/262/108/Dialogue
+\\N[12] As it is, Sherry's vagina
+I am crazy and thrust it!#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あっ、あふっ……
+やっ、ああっ、激しいっ……！」
+> CONTEXT: Map036/events/14/pages/0/209/Dialogue
+Sherry. 「Oh, it's enough...... Doing, aah, intensely ...!
+」#MTLed
+> CONTEXT: Commonevents/262/111/Dialogue
+Sherry. 「Oh, it's enough......
+Doing, aah, intensely ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はぁ、はぁっ……
+くっ、また、出るっ……！」
+> CONTEXT: Map036/events/14/pages/0/213/Dialogue
+\\N[12]. 「Ah, Ahh...Come on, come on again ...!」#MTLed
+> CONTEXT: Commonevents/262/115/Dialogue
+\\N[12]. 「Ah, Ahh...Come on, come on again
+...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あ……ま、また、中に出てる……
+す、すごいね、\\N[12]君ってこんな短時間に
+何度も出せて」
+> CONTEXT: Map036/events/14/pages/0/221/Dialogue
+Sherry. 「Ah...... well, it's on the inside......
+That's amazing, \\N[12] You are in such a short time
+Take it out many times」#MTLed
+> CONTEXT: Commonevents/262/123/Dialogue
+Sherry. 「Ah...... well, it's on the inside ...
+... That's amazing, \\N[12] You are in such a
+short time. Take it out many times」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、うう……き、気持ちいいっ……」
+> CONTEXT: Map036/events/14/pages/0/226/Dialogue
+\\N[12]. 「Wow,...It feels good ...」#MTLed
+> CONTEXT: Commonevents/262/128/Dialogue
+\\N[12]. 「Wow,...It feels good ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あ、なんだか感じてる顔かわいいなあ。
+ふふっ、ちょっと楽しくなってきたかも」
+> CONTEXT: Map036/events/14/pages/0/230/Dialogue
+Sherry. 「Oh, I feel kind of cute. Haha, maybe it has
+become fun for a while」#MTLed
+> CONTEXT: Commonevents/262/132/Dialogue
+Sherry. 「Oh, I feel kind of cute.
+Haha, maybe it has become fun for a while」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリーは、自分から腰を動かし始める――
+> CONTEXT: Map036/events/14/pages/0/234/Dialogue
+Sherry starts to move her back from himself -#MTLed
+> CONTEXT: Commonevents/262/136/Dialogue
+Sherry starts to move her back from himself -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ！
+よ、よせっ、今そんなことをされたら……
+あ、ああっ！」
+> CONTEXT: Map036/events/14/pages/0/236/Dialogue
+\\N[12]. 「Ugh! Okay, now if you can do such a thing
+...... Oh, ah!」#MTLed
+> CONTEXT: Commonevents/262/138/Dialogue
+\\N[12]. 「Ugh! Okay, now if you can do such a
+thing ...... Oh, ah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あ、連射しちゃったんだ。
+\\N[12]君、感じやすいなあ。
+なんだか、もっともっとイかせてあげたくなってきちゃった」
+> CONTEXT: Map036/events/14/pages/0/247/Dialogue
+Sherry. 「Oh, I got a flash of fire. \\N[12] You feel
+easy to feel. Somehow, I wanted to give up」#MTLed
+> CONTEXT: Commonevents/262/149/Dialogue
+Sherry. 「Oh, I got a flash of fire.
+\\N[12] You feel easy to feel.
+Somehow, I wanted to give up」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリーは下になったまま腰を動かし、
+締め付けをさらに強め、\\N[12]のペニスを責めたてる。
+> CONTEXT: Map036/events/14/pages/0/252/Dialogue
+Sherry moved his waist downward, Strengthen tightening
+further, \\N[12] I blame the penis.#MTLed
+> CONTEXT: Commonevents/262/154/Dialogue
+Sherry moved his waist downward,
+Strengthen tightening further, \\N[12] I blame
+the penis.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、あっ、あううっ！
+か、体がゾクゾクして、痺れてくるっ！
+き、気持ちよすぎる……！」
+> CONTEXT: Map036/events/14/pages/0/255/Dialogue
+\\N[12]. 「Cut, there, OHHh! Or, my body tremble and get
+numb! Being too comfortable......!」#MTLed
+> CONTEXT: Commonevents/262/157/Dialogue
+\\N[12]. 「Cut, there, OHHh! Or, my body
+tremble and get numb! Being too comfortable ...
+...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「もっともっと感じちゃうといいよ。
+私も興奮してきちゃった、
+おちんちんをいっぱいいじめてあげるっ！」
+> CONTEXT: Map036/events/14/pages/0/260/Dialogue
+Sherry. 「You should feel it. I got excited too,
+I will tease you a lot!」#MTLed
+> CONTEXT: Commonevents/262/162/Dialogue
+Sherry. 「You should feel it. I got excited too,
+I will tease you a lot!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅっ、ぐちゅっ、ぎちゅううっ！
+> CONTEXT: Map036/events/14/pages/0/265/Dialogue
+Abundant, Gushut, Gekchu OHh!#MTLed
+> CONTEXT: Commonevents/262/167/Dialogue
+Abundant, Gushut, Gekchu OHh!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、あっ、ああああぁぁぁっ！」
+> CONTEXT: Map036/events/14/pages/0/267/Dialogue
+\\N[12]. 「Ooo, there, AHHHhhhh!」#MTLed
+> CONTEXT: Commonevents/262/169/Dialogue
+\\N[12]. 「Ooo, there, AHHHhhhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はぁ、はぁ……も、もう、ダメだ……」
+> CONTEXT: Map036/events/14/pages/0/277/Dialogue
+\\N[12]. 「Ah, Ah...are no good anymore ......」#MTLed
+> CONTEXT: Commonevents/262/179/Dialogue
+\\N[12]. 「Ah, Ah...are no good anymore
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あ、もう終わりなんだ。
+ふふっ、結構ダウンするの早かったね。
+私も気持ちよかったから、まあいいけど」
+> CONTEXT: Map036/events/14/pages/0/280/Dialogue
+Sherry. 「Oh, it is over. Haha, it was pretty cool down
+earlier. Oh well it is okay as I also felt comfortable」#MTLed
+> CONTEXT: Commonevents/262/182/Dialogue
+Sherry. 「Oh, it is over. Haha, it was pretty
+cool down earlier. Oh well it is okay as I also
+felt comfortable」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……シェリー、お前……
+こんなにヤバい膣してるとは……」
+> CONTEXT: Map036/events/14/pages/0/285/Dialogue
+\\N[12]. 「Cut...Sherry, you...What is it like
+dangerous vagina ......」#MTLed
+> CONTEXT: Commonevents/262/187/Dialogue
+\\N[12]. 「Cut...Sherry, you ...
+What is it like dangerous vagina ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「まあ、少し自信があったのは確かだけど、
+キミも早漏すぎると思うよ？
+セックスでは私の圧勝って感じだね」
+> CONTEXT: Map036/events/14/pages/0/289/Dialogue
+Sherry. 「Well, it is certainly a little confident,
+I think you too will be prematurely ej? I feel like my
+victory in sex」#MTLed
+> CONTEXT: Commonevents/262/191/Dialogue
+Sherry. 「Well, it is certainly a little
+confident, I think you too will be prematurely
+ej? I feel like my victory in sex」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「次はもうちょっと頑張ってよね。
+私ももっと、いっぱい感じたいしさ」
+> CONTEXT: Map036/events/14/pages/0/297/Dialogue
+Sherry. 「Let's do a little hard next time.
+I want to feel more, more」#MTLed
+> CONTEXT: Commonevents/262/199/Dialogue
+Sherry. 「Let's do a little hard next time.
+I want to feel more, more」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、最終的にはシェリーに主導権を奪われ
+さんざんに射精させられて
+セックスは終わってしまった。
+> CONTEXT: Map036/events/14/pages/0/301/Dialogue
+In the end, Sherry is deprived of the initiative
+I was sentenced to ejaculation. Sex has ended.#MTLed
+> CONTEXT: Commonevents/262/203/Dialogue
+In the end, Sherry is deprived of the initiative
+I was sentenced to ejaculation
+Sex has ended.#MTLed
+> END STRING
+
+> BEGIN STRING
+事後、シェリーを抱きしめたまま
+\\N[12]はもどかしさと心地よさが相半ばした
+微妙な気分を味わっていた。
+> CONTEXT: Map036/events/14/pages/0/310/Dialogue
+Afterwards, holding Sherry hugged. \\N[12] I am
+frustrated with frustration and comfort. I felt a subtle
+feeling.#MTLed
+> CONTEXT: Commonevents/262/212/Dialogue
+Afterwards, holding Sherry hugged
+\\N[12] I am frustrated with frustration and
+comfort. I felt a subtle feeling.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（こうして抱き合っていても、柔らかくて抱き心地いいし
+いい女なんだけど……
+どうも、最初に思ってたのとは違うセックスになっちまった……）
+> CONTEXT: Map036/events/14/pages/0/314/Dialogue
+\\N[12]. (Even if you are hugging like this, it's soft
+and comfortable to hold. I'm a nice girl.......
+Thank you very much, I got sex different from what I first
+thought......)#MTLed
+> CONTEXT: Commonevents/262/216/Dialogue
+\\N[12]. (Even if you are hugging like this,
+it's soft and comfortable to hold
+I'm a nice girl....... Thank you very much, I
+got sex different from what I first thought ...
+...)#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ねえ\\N[12]、セックスまでしちゃったことだしさ、
+私たち、本格的にパートナーになってみない？」
+> CONTEXT: Map036/events/14/pages/0/319/Dialogue
+> CONTEXT: Commonevents/262/221/Dialogue
+Sherry. 「Hey you \\N[12] It is that I've had
+sex, Why do not you become a partner in earnest?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「私は負けたけど、剣の腕でキミと互角のものを持っている
+自信はあるし、足は引っ張らないと思う。
+相性いいと思うし、きっといいコンビになれるよ」
+> CONTEXT: Map036/events/14/pages/0/326/Dialogue
+> CONTEXT: Commonevents/262/228/Dialogue
+Sherry. 「Although I lost, I have something equal
+to you with a sword's arms. I am confident and I
+think that my legs will not pull.
+I think it's a good companion and I am sure you
+can be a good combination」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「コンビ、ね……
+大会が終わるまでは考えたこともなかったけど……」
+> CONTEXT: Map036/events/14/pages/0/331/Dialogue
+\\N[12]. 「A combination...,. I never thought about it
+until tournament was over ......」#MTLed
+> CONTEXT: Commonevents/262/233/Dialogue
+\\N[12]. 「A combination...,.
+I never thought about it until tournament was
+over ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（俺はシェリーのことをライバルとしか見たことがなかった。
+けど、こいつはいろいろなところを旅してきたみたいだし、
+こいつと一緒なら、俺も冒険者になれるかもしれないな）
+> CONTEXT: Map036/events/14/pages/0/335/Dialogue
+\\N[12]. (I have never seen Sherry as a rival.
+But, he seems to have traveled in places,
+With this guy, I might be an adventurer too)#MTLed
+> CONTEXT: Commonevents/262/237/Dialogue
+\\N[12]. (I have never seen Sherry as a rival.
+But, he seems to have traveled in places,
+With this guy, I might be an adventurer too)#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「もちろん、気が向いたらこうやって
+セックスも好きなだけできるわけだしさ。
+\\N[12]君、気持ちよかったんでしょ？」
+> CONTEXT: Map036/events/14/pages/0/340/Dialogue
+> CONTEXT: Commonevents/262/242/Dialogue
+Sherry. 「Of course, doing this when you feel
+like it. I can do sex as much as I want.
+\\N[12] You felt good, did not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、それは……まあな……」
+> CONTEXT: Map036/events/14/pages/0/345/Dialogue
+\\N[12]. 「Well, that is...well......」#MTLed
+> CONTEXT: Commonevents/262/247/Dialogue
+\\N[12]. 「Well, that is...well......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ふふっ、やっぱり」
+> CONTEXT: Map036/events/14/pages/0/348/Dialogue
+> CONTEXT: Commonevents/262/250/Dialogue
+Sherry. 「Huh, after all」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……なあ、シェリー。
+これからも、いろいろな国を巡るつもりなんだろう？」
+> CONTEXT: Map036/events/14/pages/0/351/Dialogue
+\\N[12]. 「...... Hello, Sherry. From now on I wonder if
+you intend to visit different countries?」#MTLed
+> CONTEXT: Commonevents/262/253/Dialogue
+\\N[12]. 「...... Hello, Sherry.
+From now on I wonder if you intend to visit
+different countries?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うん。
+私はとにかく、死ぬまでにひとつでも多くの国を訪れて
+いろんな体験をしたいと思ってるからね」
+> CONTEXT: Map036/events/14/pages/0/355/Dialogue
+> CONTEXT: Commonevents/262/257/Dialogue
+Sherry. 「Yup. Anyway, I have visited one or more
+countries before I die. I think that I want to
+experience various experiences」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そういう生き方、俺もしてみたくなったぜ」
+> CONTEXT: Map036/events/14/pages/0/360/Dialogue
+\\N[12]. 「That way of life, I wanted to try it too」#MTLed
+> CONTEXT: Commonevents/262/262/Dialogue
+\\N[12]. 「That way of life, I wanted to try
+it too」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「えっ」
+> CONTEXT: Map036/events/14/pages/0/363/Dialogue
+> CONTEXT: Commonevents/262/265/Dialogue
+Sherry. 「eh」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「シェリー。
+俺はお前に触発されて王都まできて、武道大会にも勝った。
+お前は俺を、いろんな意味で成長させてくれる。
+> CONTEXT: Map036/events/14/pages/0/366/Dialogue
+\\N[12]. 「Sherry. I was inspired by you and came to the
+kingdom and also won the martial arts tournament.
+You can grow me in many ways.#MTLed
+> CONTEXT: Commonevents/262/268/Dialogue
+\\N[12]. 「Sherry. I was inspired by you and
+came to the kingdom and also won the martial arts
+tournament. You can grow me in many ways.#MTLed
+> END STRING
+
+> BEGIN STRING
+お前といれば、俺はもっと大きくなれる気がする。
+ぜひ、パートナーにならせてくれ」
+> CONTEXT: Map036/events/14/pages/0/371/Dialogue
+If you are with me, I feel I can grow bigger.
+Let me partner」#MTLed
+> CONTEXT: Commonevents/262/273/Dialogue
+If you are with me, I feel I can grow bigger.
+Let me partner」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「……うん。
+今度はキミに、この国の外の世界を見せてあげるよ。
+一緒に行こう、\\N[12]！」
+> CONTEXT: Map036/events/14/pages/0/374/Dialogue
+> CONTEXT: Commonevents/262/276/Dialogue
+Sherry. 「……Yup. Next time I will show you the
+world outside of this country.
+Let's go together, \\N[12] !」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ！」
+> CONTEXT: Map036/events/14/pages/0/379/Dialogue
+> CONTEXT: Map043/events/24/pages/5/37/Dialogue
+\\N[12]. 「Oh!」#MTLed
+> CONTEXT: Commonevents/262/281/Dialogue
+\\N[12]. 「Oh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]はシェリーとともに
+王国の外へと飛び出していくこととなるのだった。
+> CONTEXT: Map036/events/14/pages/0/383/Dialogue
+In this way, \\N[12] With Sherry. It was going to jump
+out of the kingdom.#MTLed
+> CONTEXT: Commonevents/262/285/Dialogue
+In this way, \\N[12] With Sherry
+It was going to jump out of the kingdom.#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー　グッドエンド：相棒
+> CONTEXT: Map036/events/14/pages/0/386/Dialogue
+Sherry Good End: Aibo#MTLed
+> CONTEXT: Commonevents/262/288/Dialogue
+Sherry Good End: Aibo#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おう、ありがとな」
+> CONTEXT: Map036/events/14/pages/0/391/Dialogue
+\\N[12]. 「Oh, thanks」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おう、お前に祝福してもらえるとは思わなかったぜ」
+> CONTEXT: Map036/events/14/pages/1/6/Dialogue
+\\N[12]. 「Oh, I did not expect you to be blessed.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「何度やっても負けるつもりはないぜ。
+次は俺も、もっともっと強くなってるからなっ！」
+> CONTEXT: Map036/events/14/pages/1/14/Dialogue
+\\N[12]. 「I will not lose even if I do it again.
+Next time I'm becoming stronger, too!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うんうん、男の子はそうでないとね♪
+それにしても、会いに来てくれて嬉しいよ。
+私、そろそろこの国を離れようと思ってたからさ」
+> CONTEXT: Map036/events/14/pages/1/18/Dialogue
+Sherry. 「, Boys must do so♪. Anyway, I'm glad
+you came to see me. Because I thought about
+leaving this country soon.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか、会えない可能性もあったんだな。
+今日ここに来てみてよかったぜ」
+> CONTEXT: Map036/events/14/pages/1/31/Dialogue
+\\N[12]. 「Well, there was a possibility not to meet.
+I'm glad I came here today.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「キミはお姫様と結婚するんでしょ？
+すごいよね、剣の腕一本で成り上がっちゃったんだもん」
+> CONTEXT: Map036/events/14/pages/1/35/Dialogue
+Sherry. 「You are married to a princess, do not
+you? It's amazing, it's made up of a sword's
+arms.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「そんなキミに、私からひとつ餞別をあげる」
+> CONTEXT: Map036/events/14/pages/1/40/Dialogue
+Sherry. 「I will give you one from me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、お前これ、
+あの高原で手に入れた氷の剣じゃないか」
+> CONTEXT: Map036/events/14/pages/1/49/Dialogue
+\\N[12]. 「Eh, you, Ice sword I got in that plateau」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「キミにあげるよ。
+武道大会でキミに負けたのにペナルティ受けてないし
+せめて、これを持っていってほしいな」
+> CONTEXT: Map036/events/14/pages/1/53/Dialogue
+Sherry. 「I'll give it to you. I lost to martial
+arts tournament but you have not received a
+penalty. At least, I want you to take this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いいのか？」
+> CONTEXT: Map036/events/14/pages/1/58/Dialogue
+\\N[12]. 「Is it okay?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うん、やっぱりキミに勝者の権利を行使してもらわないと
+私も気持ちよくこの国を離れられないからね」
+> CONTEXT: Map036/events/14/pages/1/61/Dialogue
+Sherry. 「Yeah, after all you have to exercise
+the right of the winner. I also feel comfortable
+because I can not leave this country」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか。
+じゃ、遠慮なくいただいておくとするよ」
+> CONTEXT: Map036/events/14/pages/1/65/Dialogue
+\\N[12]. 「Really. Well, I will do it without hesitation」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「大事に使ってよね。
+さてと……」
+> CONTEXT: Map036/events/14/pages/1/69/Dialogue
+Sherry. 「Please use it carefully.
+Well ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「もう行くのか？」
+> CONTEXT: Map036/events/14/pages/1/73/Dialogue
+> CONTEXT: Map036/events/14/pages/1/123/Dialogue
+\\N[12]. 「Are you going already?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うん、そろそろね。
+次に会うときは、キミは女王様の婿になってるかな？
+立派になったキミと再会するのを楽しみにしてるね」
+> CONTEXT: Map036/events/14/pages/1/76/Dialogue
+Sherry. 「Yes, it is. Next time you meet, I
+wonder if you are a son-in-law's son-in-law?
+I'm looking forward to seeing you again who has
+become respectable.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、絶対そうなってるさ。
+お前こそ、せいぜい達者でやれよな」
+> CONTEXT: Map036/events/14/pages/1/81/Dialogue
+\\N[12]. 「Oh, it is absolutely true. You are the best
+guys at best.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ありがと。
+お姫様の尻に敷かれないように
+頑張りなよー♪」
+> CONTEXT: Map036/events/14/pages/1/85/Dialogue
+Sherry. 「Thank you. Not to be laid over the
+princess's princess. Do your best.♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリーは旅立っていった――
+> CONTEXT: Map036/events/14/pages/1/91/Dialogue
+> CONTEXT: Map036/events/14/pages/1/140/Dialogue
+Sherry went on a trip -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「不思議なもんだ。
+あれだけ憎たらしいと思った相手なのに
+いざいなくなると、寂しく感じるなんてな……
+> CONTEXT: Map036/events/14/pages/1/96/Dialogue
+> CONTEXT: Map036/events/14/pages/1/145/Dialogue
+\\N[12]. 「It's strange. Even though you thought that
+that hate was that much. I feel lonely when I go out of
+need a lot ......#MTLed
+> END STRING
+
+> BEGIN STRING
+さて、俺にはまだやるべきことがある。
+アルミナのために、
+何より俺自身の将来のために、頑張らなければ！」
+> CONTEXT: Map036/events/14/pages/1/102/Dialogue
+> CONTEXT: Map036/events/14/pages/1/151/Dialogue
+Well, I still have something to do. For alumina,
+Best of all, I have to work hard for my own future!」#MTLed
+> END STRING
+
+> BEGIN STRING
+さて、いつまでもこうしていても仕方ない。
+アルミナに会いに行くとするかな？」
+> CONTEXT: Map036/events/14/pages/1/108/Dialogue
+> CONTEXT: Map036/events/14/pages/1/157/Dialogue
+Well, it can not be helped forever. Would you like to go
+see alumina?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まあ、な……」
+> CONTEXT: Map036/events/14/pages/1/115/Dialogue
+\\N[12]. 「Well, ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「次に会うことがあるとすれば、
+キミは女王様の婿になってるのかな？
+立派になったキミに会うときを、楽しみにしてるね」
+> CONTEXT: Map036/events/14/pages/1/118/Dialogue
+Sherry. 「If we meet next, I wonder if you are a
+son-in-law's son-in-law? I am looking forward to
+seeing you that you became fine.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うん、キミに勝者の権利を使ってもらえなかったのは
+少し心残りだけど、まあしょうがないよね。
+私はまた、違う国に行くよ」
+> CONTEXT: Map036/events/14/pages/1/126/Dialogue
+Sherry. 「Yeah, you did not have the right to use
+the winner. I am a little relieved, but it can
+not be helped. I will also go to a different
+country」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか、達者でな」
+> CONTEXT: Map036/events/14/pages/1/131/Dialogue
+\\N[12]. 「I see, it is an expert」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「キミもね。
+お姫様の尻に敷かれないように
+頑張りなよー♪」
+> CONTEXT: Map036/events/14/pages/1/134/Dialogue
+Sherry. 「You too. Not to be laid over the
+princess's princess. Do your best.♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+「宿泊は 10\\G です。ご利用ですか？\\$
+> CONTEXT: Map036/events/2/pages/12/0/Dialogue < UNTRANSLATED
+
+> END STRING

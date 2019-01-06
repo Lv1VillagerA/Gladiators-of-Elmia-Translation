@@ -1,0 +1,31 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+おじさん
+「レストンは田舎だが、いいところだと思うんだよなあ
+魔物も少ないし、東に行けば綺麗な海もあるし」
+> CONTEXT: Map012/events/2/pages/0/0/Dialogue
+old man. 「Reston is a country but I think it's a nice place
+There are few monsters, there is also a beautiful ocean if
+you go to the east」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「東の海といえば、岩場のあたりに洞窟があるらしいね。
+人魚が立ち寄ることがある、っていう噂のある場所だけど
+もし本当ならロマンのあることだよ」
+> CONTEXT: Map012/events/2/pages/1/0/Dialogue
+old man. 「Speaking of the east seas, there seems to be a
+cave around the rocky ground. There are places to rumor
+that mermaids may stop by, though. If it is true there is
+romance」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「\\N[12]は王都に行くんだって？
+悪い人に騙されたりしないように気をつけるんだよ」
+> CONTEXT: Map012/events/3/pages/0/0/Dialogue
+Aunt. 「\\N[12] You go to the kingdom? Be careful not to
+be bothered by bad people」#MTLed
+> END STRING

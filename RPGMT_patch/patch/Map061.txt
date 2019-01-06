@@ -1,0 +1,21 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+おじさん
+「大会後もしばらく王都見物がしたいと思ってね。
+この宿には長く留まることになりそうだ」
+> CONTEXT: Map061/events/2/pages/0/0/Dialogue
+old man. 「I hope to do a sightseeing of the capital for a
+while after tournament. It will likely stay for a long time
+at this inn」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「この宿、居心地よくて気に入りましたの。
+お金に余裕があるから、せっかくなので
+２階のスイートルームに移ってみたわ」
+> CONTEXT: Map061/events/3/pages/0/0/Dialogue
+Aunt. 「I like this inn, it's comfortable.
+Because we have plenty of money, I moved to the suite room
+on the second floor」#MTLed
+> END STRING

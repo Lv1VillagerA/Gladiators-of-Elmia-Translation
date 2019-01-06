@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+闘技場VIP通路
+> CONTEXT: Map131/display_name/
+Stadium VIP passage#MTLed
+> END STRING

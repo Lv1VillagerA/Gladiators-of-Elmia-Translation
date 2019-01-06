@@ -1,0 +1,560 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「おっと、また昨日みたいに控室に誰か来てたりしないか……？
+念のため、準備を整えたほうがいいかも……」
+> CONTEXT: Map055/events/16/pages/1/0/Dialogue
+\\N[12]. 「Oops, will someone come to the waiting room
+like yesterday ...? Just to be sure, it may be better to
+prepare ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+準備を整える
+> CONTEXT: Map055/events/16/pages/1/4/Choice/0
+To prepare#MTLed
+> END STRING
+
+> BEGIN STRING
+大丈夫
+> CONTEXT: Map055/events/16/pages/1/4/Choice/1
+All right#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「こちらは西側選手控室入口となります」
+> CONTEXT: Map055/events/19/pages/0/0/Dialogue
+Attendant. 「This will be the entrance to the West side
+players' waiting room」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「こちらは西側選手控室入口となります。
+男性の出場者の方は、こちらが控室となります」
+> CONTEXT: Map055/events/19/pages/1/0/Dialogue
+> CONTEXT: Map055/events/19/pages/4/0/Dialogue
+Attendant. 「This will be the entrance to the west side
+players' waiting room. For male contestants, this is the
+waiting room」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「………………」
+> CONTEXT: Map055/events/19/pages/2/0/Dialogue
+Attendant. 「..................」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「バニーガール？
+さ、さあ……
+何のことだか私にはさっぱり……」
+> CONTEXT: Map055/events/19/pages/3/0/Dialogue
+Attendant. 「bunny girl? Now, come on ......
+What on earth is it for me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（……この兵士、股間が膨らんでやがる。
+あのバニーガールと何かあったのは間違いなさそうだが、
+いったい、どうなっているんだ？）
+> CONTEXT: Map055/events/19/pages/3/5/Dialogue
+\\N[12]. (......this soldier, the crotch swells out.
+There seemed to be no mistake that there was something with
+that bunny girl, What on earth are you doing? )#MTLed
+> END STRING
+
+> BEGIN STRING
+商人
+「なんとか売店スペースを取ることができました。
+スタンドのチケット同様、ここを取れるかどうかも
+商人にとっては競争なんですよ」
+> CONTEXT: Map055/events/21/pages/0/0/Dialogue
+merchant. 「I managed to take a kiosk space somehow.
+Like a ticket for the stand, maybe you can take it here
+It's a competition for merchants」#MTLed
+> END STRING
+
+> BEGIN STRING
+商人
+「日用品やお薬を販売しています。
+選手の方にもお役立ちですよー」
+> CONTEXT: Map055/events/21/pages/1/0/Dialogue
+merchant. 「We sell daily necessities and medicines.
+It is also useful for players」#MTLed
+> END STRING
+
+> BEGIN STRING
+漁師
+「大会当日は魚の串焼きを売る予定だぜ！
+ただ、東通路でアーロンが出店をやるみたいだから
+そっちに客を持っていかれそうだなぁ」
+> CONTEXT: Map055/events/22/pages/0/0/Dialogue
+Fisherman. 「I plan to sell fish skewers on the day.
+However, since Aaron seems to open a store in the east
+passage. I'm going to bring a visitor over there」#MTLed
+> END STRING
+
+> BEGIN STRING
+漁師
+「こっち側のスタンドの客が
+だいぶ足を運んでくれてるぜ。
+よかったよかった」
+> CONTEXT: Map055/events/22/pages/1/0/Dialogue
+Fisherman. 「The customer of this side stand
+He has taken a lot of legs. I'm glad that it was good.」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「闘技場の中って、なんか興奮するよなー！」
+> CONTEXT: Map055/events/23/pages/0/0/Dialogue
+boy. 「I am excited somewhere inside the stadium!」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「まずは受付にて、2日目の出場手続きを
+お済ませください」
+> CONTEXT: Map055/events/26/pages/0/0/Dialogue
+Attendant. 「Firstly, at the reception desk, the second day
+participation procedure. Please do.」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「来年は俺も出場しようかなあ。
+女剣士をステージ上で……うへへへ」
+> CONTEXT: Map055/events/27/pages/0/0/Dialogue
+male. 「I wonder if I will participate next year.
+Swordswoman on the stage...to the hehe」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「うー、食いすぎた」
+> CONTEXT: Map055/events/28/pages/0/0/Dialogue
+male. 「Uh, I ate too much.」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「今年はいつもの年より大会が盛り上がっているねぇ」
+> CONTEXT: Map055/events/29/pages/0/0/Dialogue
+Aunt. 「Tournament is excited more than usual this year」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「姫様を筆頭に、今回の大会は
+女の活躍が目立つようだ。
+男も意地を見せてほしいもんだぜ」
+> CONTEXT: Map055/events/30/pages/0/0/Dialogue
+male. 「The principal principal is tournament this time
+It seems that women's activity is prominent.
+The man wants me to show offense as well.」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦
+「人が多いわねえ」
+> CONTEXT: Map055/events/32/pages/0/0/Dialogue
+housewife. 「There are a lot of people」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「次の試合まで買い物でもしてよう」
+> CONTEXT: Map055/events/35/pages/0/0/Dialogue
+old man. 「It seems like shopping even until the next game」#MTLed
+> END STRING
+
+> BEGIN STRING
+シスター
+「私ったら、つい熱くなってしまって……」
+> CONTEXT: Map055/events/39/pages/0/0/Dialogue
+Sister. 「I gotta get hot ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「女性ファイターが活躍しているのを見ると
+勇気が出るわねえ」
+> CONTEXT: Map055/events/40/pages/0/0/Dialogue
+Woman. 「When you see that female fighters are active
+You gave me courage」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「コンコースで売っている物は質が高いですね」
+> CONTEXT: Map055/events/41/pages/0/0/Dialogue
+male. 「Things sold in tournament are high quality」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「次の試合も楽しみだぜ！」
+> CONTEXT: Map055/events/42/pages/0/0/Dialogue
+boy. 「I'm looking forward to the next match!」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「トイレに行っとかなきゃ」
+> CONTEXT: Map055/events/47/pages/0/0/Dialogue
+Youth. 「I have to go to the toilet」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだ？
+試合が終わって人がコンコースに出てきたのか……
+これじゃ通路は通れないし、上の階から回り道して出ようか」
+> CONTEXT: Map055/events/48/pages/0/0/Dialogue
+\\N[12]. 「What is it? Whether people came out
+tournament after the game ...... In this case I can not
+pass the passage and I should detour from the upper floor」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「いやー熱くなった熱くなった」
+> CONTEXT: Map055/events/49/pages/0/0/Dialogue
+> CONTEXT: Map058/events/91/pages/0/0/Dialogue
+male. 「Well it gets hot and gets hot」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ちなみに、今このコンコースに増えてる人たちは
+重要なことは何も喋らないから、安心してね！」
+> CONTEXT: Map055/events/50/pages/0/0/Dialogue
+girl. 「By the way, those who are increasing now in this
+tournament. I will not tell you anything important, so be
+assured!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「ボクもいずれは選手として
+あのステージで試合してみたいなあ」
+> CONTEXT: Map055/events/51/pages/0/0/Dialogue
+boy. 「I am also a player as a player. I would like to play
+at that stage」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「もっと血が吹き出るところとか見られたら
+もっと楽しかったのになぁ」
+> CONTEXT: Map055/events/52/pages/0/0/Dialogue
+Maid. 「If you see something more blood is blowing
+I wish I had more fun」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「さっさと歩かんか！」
+> CONTEXT: Map055/events/60/pages/0/4/Dialogue
+A soldier. 「Walk quickly!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「痛いっての、腕引っ張らないでよ！」
+> CONTEXT: Map055/events/60/pages/0/8/Dialogue
+Bandit Girl. 「Do not pull your arm, though it hurts!」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「大人しくついてこい！
+不法に控室に侵入した上、出場選手に暴行を働くとは不届き千万！
+お前たちは牢に入ってもらう！」
+> CONTEXT: Map055/events/60/pages/0/11/Dialogue
+A soldier. 「Follow me quietly! It invaded illegally into
+the waiting room, and it is not ten million that it will
+work assault on the participating players!
+You will get into prison!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「あらあら、困ったわねぇ」
+> CONTEXT: Map055/events/60/pages/0/16/Dialogue
+sexy bandit. 「oh no, I was in trouble」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「もー、サイアクー！
+誰よー、あの\\N[12]っておにいさんを襲おうだなんて
+言い出したのはー」
+> CONTEXT: Map055/events/60/pages/0/19/Dialogue
+bandit teen. 「Hello, Saiakoo! Who is that? \\N[12] Why
+I should attack an old man. I told you」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あんたでしょうが！
+ったく、この場は抵抗しても仕方ないわね……」
+> CONTEXT: Map055/events/60/pages/0/27/Dialogue
+Bandit Girl. 「You will! There is no point in responding to
+this place...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「あちゃー、あいつら捕まっちまったよ。
+ま、しゃあないわな」
+> CONTEXT: Map055/events/60/pages/0/33/Dialogue
+velvet. 「Ah-ha, they got caught.
+Well, I do not mind」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うーん、兵士の言っていることはもっともだしなあ。
+あの三人には、しばらくは頭を冷やしてもらうしかないか」
+> CONTEXT: Map055/events/60/pages/0/37/Dialogue
+\\N[12]. 「Well, what a soldier is saying is reasonable.
+Do those three people have to cool their heads for a while」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ある意味、ちょうどいいかもしれないね。
+これで少しは懲りるだろうしさ」
+> CONTEXT: Map055/events/60/pages/0/41/Dialogue
+velvet. 「In a sense, it may be just right.
+With this I will be a little bit discouraged」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あんたはどうするんだ？
+あの三人を放っておいてどっかに行っちまうような
+あんたじゃないだろう」
+> CONTEXT: Map055/events/60/pages/0/47/Dialogue
+\\N[12]. 「What are you going to do? I will leave those
+three people and go somewhere. I do not think you are.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「しばらく頭を冷やさせるとして、
+反省した頃になったら引き取りに行くさ。
+それまではウィギスあたりで、のんびり待つとするかね。
+> CONTEXT: Map055/events/60/pages/0/54/Dialogue
+velvet. 「For a while to cool his head,
+I will pick up when I am sorry.
+Until then it is around Wigheis and you wait at
+ease.#MTLed
+> END STRING
+
+> BEGIN STRING
+そんじゃ\\N[12]、残りの試合も絶対に勝ちなよ。
+このあたしに勝ったんだから、
+優勝してもらわなきゃ困るってもんだ」
+> CONTEXT: Map055/events/60/pages/0/59/Dialogue
+Then \\N[12] Never win the rest of the game.
+Because I won this me, I guess you have to win if
+you have to win the championship」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「もちろん、そのつもりだ」
+> CONTEXT: Map055/events/60/pages/0/63/Dialogue
+\\N[12]. 「Of course I'm gonna do that.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ふっ、洞窟で会った時よりも男らしい顔になったね。
+この短期間でずいぶん人間が大きくなったように見えるよ。
+> CONTEXT: Map055/events/60/pages/0/66/Dialogue
+velvet. 「Fu, I got a more masculine face than
+when I met in the cave. It seems human beings
+have grown quite a bit in this short period of
+time.#MTLed
+> END STRING
+
+> BEGIN STRING
+こうなると、あんたを手に入れられなかったことが惜しいが
+ま、言っても仕方ない。
+次に会うときこそ、あたしがリベンジさせてもらうから
+それまでせいぜい修行を積んでおくことだね」
+> CONTEXT: Map055/events/60/pages/0/70/Dialogue
+It is regrettable that this did not get you
+Well, I can not help it. The next time I see you
+I will have me revenge. It is at best not to
+train until then」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、いつでも挑戦は受けて立つぜ！」
+> CONTEXT: Map055/events/60/pages/0/75/Dialogue
+\\N[12]. 「Oh, I will accept the challenge at any time!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「何はともあれ、これで準決勝進出か……
+いよいよ優勝が手の届くところに見えてきた。
+次の相手はどんな奴なんだろうか」
+> CONTEXT: Map055/events/60/pages/0/82/Dialogue
+\\N[12]. 「Anyway, is this the advance to the
+semi-finals....... I came to see the winning place
+reachable. What kind of person is your next opponent?」#MTLed
+> END STRING
+
+> BEGIN STRING
+？
+「私だよ」
+> CONTEXT: Map055/events/60/pages/0/87/Dialogue
+? 「It's me.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「シェリー……」
+> CONTEXT: Map055/events/60/pages/0/98/Dialogue
+\\N[12]. 「Sherry ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「さっきの試合、観戦させてもらったよ。
+すごいじゃない、本当に私と当たるところまで
+勝ち抜いてきたんだね」
+> CONTEXT: Map055/events/60/pages/0/101/Dialogue
+Sherry. 「I just got to watch the previous match.
+It's not awesome, it really hits me
+You've won the race」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、お前にリベンジしたい一心でここまで来た。
+あのときの悔しさと情けなさを晴らすためにな」
+> CONTEXT: Map055/events/60/pages/0/106/Dialogue
+\\N[12]. 「Oh, I came this far with the desire to
+revenge on you. In order to clear up the regret and pity at
+that time」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「男の意地っていうのかな、それだけでここまで強くなるのは
+たいしたものだと思う。
+今のキミが相手なら、私も気を引き締めてかからないとね。
+> CONTEXT: Map055/events/60/pages/0/110/Dialogue
+Sherry. 「I guess it's the man's own meaning,
+that alone it becomes stronger
+I think it's a big deal. If you are your
+opponent, I also need to be careful not to
+tighten up.#MTLed
+> END STRING
+
+> BEGIN STRING
+私もここまで来たら優勝したいし、なにより、
+ライバルとしてキミには絶対負けたくない。
+明日は本当に本気でやるから、覚悟しておきなよね」
+> CONTEXT: Map055/events/60/pages/0/115/Dialogue
+I also want to win if I come this far,
+I do not want you to lose to you as a rival.
+I will do it seriously tomorrow, so be prepared
+for yourself」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「望むところだぜ！」
+> CONTEXT: Map055/events/60/pages/0/119/Dialogue
+\\N[12]. 「That's what I want!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「それじゃね、\\N[12]君。
+明日はお互い万全でやりたいし、しっかり休んでおきなよ。
+ふふっ……楽しみだなあ」
+> CONTEXT: Map055/events/60/pages/0/122/Dialogue
+Sherry. 「That's it. \\N[12] You.
+I want to do everything perfectly tomorrow and I
+must take a good rest. Huh...I'm looking
+forward」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ようやくシェリーにリベンジできる機会を掴んだ。
+あとは、あいつに俺の持てる力をぶつけて勝つだけだ。
+> CONTEXT: Map055/events/60/pages/0/135/Dialogue
+\\N[12]. I finally grabbed an opportunity to revive
+Shelley. The other thing is to hit him with the power I can
+have and win.#MTLed
+> END STRING
+
+> BEGIN STRING
+それにしても、あいつ、
+俺との勝負を楽しみにしているようだったな……
+俺のことをライバルとも言ったし、
+少しは認めてくれているということか……
+> CONTEXT: Map055/events/60/pages/0/139/Dialogue
+Even so, he, You seemed to be looking forward to the game
+with me ...... I also said rivalry about me,
+I mean that I acknowledge a little......#MTLed
+> END STRING
+
+> BEGIN STRING
+とにかく、明日はなにがなんでも勝つ！
+女に負けて馬鹿にされたままじゃ、
+男がすたるってもんだからなっ！）
+> CONTEXT: Map055/events/60/pages/0/144/Dialogue
+Anyway, anything will win anything tomorrow!
+Losing to a woman and being stupid, It is because the man
+is wreaking! )#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「こいつは助かるな、
+薬が足りないときはここで買い足そう」
+> CONTEXT: Map055/events/71/pages/0/0/Dialogue
+Warrior. 「This guy will not be saved, Let's buy it here
+when there is not enough medicine」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「おじさーん、魚の串焼き
+もう一本ちょうだい！」
+> CONTEXT: Map055/events/72/pages/0/0/Dialogue
+boy. 「Uncle San, fish skewers. Give me another one!」#MTLed
+> END STRING
+
+> BEGIN STRING
+老戦士
+「うむ、ここの串焼きは香ばしくてウマイ。
+毎日食いたくなるのう」
+> CONTEXT: Map055/events/73/pages/0/0/Dialogue
+Old warrior. 「Well, the skewers here are fragrant and
+appetizing. I want to eat every day.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「いろいろ売店を回っていると
+太っちゃいそうね」
+> CONTEXT: Map055/events/74/pages/0/0/Dialogue
+girl. 「When going around the shop. You look fat」#MTLed
+> END STRING

@@ -1,0 +1,66 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+温泉
+> CONTEXT: Map084/display_name/
+Hot spring#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（さすがに、女の子を連れて男湯に入るのはまずい。
+今は温泉はやめておこう）
+> CONTEXT: Map084/events/2/pages/1/0/Dialogue
+> CONTEXT: Map084/events/2/pages/2/0/Dialogue
+\\N[12]. (As expected, it is bad to take a girl into a
+man's bath. Now let's stop the hot spring)#MTLed
+> END STRING
+
+> BEGIN STRING
+旅行者の男性
+「いやー、景色がいいねぇ。
+雪化粧のおかげで、とても美しい眺めだ」
+> CONTEXT: Map084/events/5/pages/0/0/Dialogue
+A traveler's man. 「Well, I like the scenery.
+Thanks to snow makeup, it is a very beautiful view」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「湯加減がいいだろう？
+ここは温泉だからな、ウィギスの名物さ。
+王都の武道大会が終わった後はこの村が賑わう番なんだ」
+> CONTEXT: Map084/events/6/pages/0/0/Dialogue
+male. 「Is the hot water good? Because it is a hot spring
+here, it is a specialty of Wigheis. After the martial arts
+tournament of the kingdom is over, this village is bustling
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「女湯からは牧場や平原、
+男湯からは雪化粧された街道が景色として楽しめるぜ」
+> CONTEXT: Map084/events/7/pages/0/0/Dialogue
+male. 「From female hot springs, pastures and plains,
+From the man hot water you can enjoy the snow-crafted road
+as a view」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「見える景色がそれぞれ違うから、
+男湯と女湯は定期的に入れ替わっているんだ。
+今の時期は、男湯は南側で固定だね」
+> CONTEXT: Map084/events/8/pages/0/0/Dialogue
+male. 「Because the visible sceneries are different,
+Male and hot water are replaced regularly.
+Male water is fixed at the south side this time, is not it」#MTLed
+> END STRING
+
+> BEGIN STRING
+温泉の効能――
+TPが最大値になった！
+> CONTEXT: Map084/events/10/pages/0/2/Dialogue
+Efficacy of hot springs -. TP has reached the maximum
+value!#MTLed
+> END STRING

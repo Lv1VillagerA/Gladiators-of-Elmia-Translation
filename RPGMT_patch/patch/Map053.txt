@@ -1,0 +1,1063 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+係員
+「こちらは観客席のバックスタンド側入口となります」
+> CONTEXT: Map053/events/8/pages/0/0/Dialogue
+Attendant. 「This will be the entrance of the audience
+seat's back stand side」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「足元にお気をつけくださーい！」
+> CONTEXT: Map053/events/9/pages/0/0/Dialogue
+Attendant. 「Please take care of your feet!」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「こちらは出場受付となっております」
+> CONTEXT: Map053/events/10/pages/0/0/Dialogue
+Attendant. 「This is acceptance for participation」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「出場したいんですが、まだ大丈夫ですか？」
+> CONTEXT: Map053/events/10/pages/0/3/Dialogue
+\\N[12]. 「I want to participate, is it still okay?」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「はい、大丈夫ですよ。
+選手登録をいたしますので、
+お名前と、出身地を教えていただけますか？」
+> CONTEXT: Map053/events/10/pages/0/6/Dialogue
+Attendant. 「Yes, it's okay. Because we will register the
+player, Could you tell me your name and place of birth?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「名前は\\N[12]。
+出身は南のレストンです」
+> CONTEXT: Map053/events/10/pages/0/11/Dialogue
+\\N[12]. 「Name is \\N[12] . I am from South, I am
+Reston.」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「……はい、確かに承りました。
+では、\\N[12]さん、こちらが出場選手証になります
+なくさないようにご注意くださいね」
+> CONTEXT: Map053/events/10/pages/0/17/Dialogue
+Attendant. 「...... Yes, it certainly received it.
+Then, \\N[12] , This is the competitor's card
+Please be careful not to lose it」#MTLed
+> END STRING
+
+> BEGIN STRING
+出場選手証を受け取った！
+> CONTEXT: Map053/events/10/pages/0/23/Dialogue
+I got a participating player certificate!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、確かに」
+> CONTEXT: Map053/events/10/pages/0/26/Dialogue
+\\N[12]. 「Yes, indeed」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「開催日程なども選手証に書いてあります。
+\\C[2]選手証をアイテムとして使用することで確認できます\\C[0]よ。
+試合当日は遅れずに受付までお越しください」
+> CONTEXT: Map053/events/10/pages/0/29/Dialogue
+Attendant. 「The schedule and the like are also written in
+the competitor's card. \\C[2]You can confirm by using the player
+card as an item\\C[0] Yes. Please come to the reception desk
+without delay」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（……まだ、試合までは5日もあるんだな。
+少し暇を持て余してしまいそうだけど……）
+> CONTEXT: Map053/events/10/pages/0/34/Dialogue
+\\N[12]. (... ... There are still five days until the
+game. I'm afraid I will have some time to leave ... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「さて、選手として参加される方には、
+まず、この武道大会における勝者の権利について
+説明させていただくことになっております」
+> CONTEXT: Map053/events/10/pages/0/38/Dialogue
+Attendant. 「Well, for those who participate as players,
+First, on the right of the winner in this martial arts
+tournament. I will explain it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「勝者の権利？」
+> CONTEXT: Map053/events/10/pages/0/43/Dialogue
+\\N[12]. 「Winner's right?」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「はい。と言ってもシンプルなものですが……
+\\C[2]勝者は、ひとつだけ敗者に何でも好きなことを命令できる\\C[0]
+というものです」
+> CONTEXT: Map053/events/10/pages/0/46/Dialogue
+Attendant. 「Yes. Although it is simple to say ... ...
+\\C[2]The winner can command only one loser what he likes\\C[0]
+I mean」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「と言っても、相手を殺害したり、人権を著しく侵害するような
+非常識な命令は不可となっておりますが……
+また、勝者の権利が発生するのは予選決勝からとなっております」
+> CONTEXT: Map053/events/10/pages/0/54/Dialogue
+Attendant. 「Even if it says that it kills the opponent or
+seems to violate human rights seriously. Insane order is
+impossible ... ... Also, it is from qualifying final that
+winner's right occurs」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、よく覚えておきます」
+（結構厳しそうだな。
+こりゃ、参加するからには負けられないぞ）
+> CONTEXT: Map053/events/10/pages/0/59/Dialogue
+\\N[12]. 「I see, well, I will remember.」
+(It looks pretty strict. Well, I will not lose to
+participate)#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「では、説明は以上になります。
+ご健闘をお祈りしております」
+> CONTEXT: Map053/events/10/pages/0/64/Dialogue
+Attendant. 「Then, the explanation is over.
+I wish you good luck」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、はい。
+ありがとうございました」
+> CONTEXT: Map053/events/10/pages/0/68/Dialogue
+\\N[12]. 「Oh, yes. Thank you very much」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「すぐにでも試合かと思ってたぜ。
+なんだか、ちょっと気が抜けちゃったな」
+> CONTEXT: Map053/events/10/pages/0/81/Dialogue
+\\N[12]. 「I thought it was a fight soon.
+Somehow, I got a bit missed」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「日にちもまだあることだし、それまで腕を磨いておくか。
+それに、初めて来る王都だ、観光するのもいいし、
+あるいは依頼でもこなして金を稼ぐのもいいだろう」
+> CONTEXT: Map053/events/10/pages/0/85/Dialogue
+\\N[12]. 「There is still a date, do you keep your arms
+up to that? Besides, it's the first city to come,
+sightseeing is okay, Or you can do it even at the request
+to earn money」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんにせよ、試合当日までの時間は有意義に過ごそう。
+絶対に、あのシェリーって女にはリベンジしたいしな！」
+> CONTEXT: Map053/events/10/pages/0/90/Dialogue
+\\N[12]. 「In any case, let's spend time to the day
+before the game meaningful. Absolutely, she wants to
+revenge for a woman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]※武道大会までには、まだ時間があります。
+宿泊時に『宿泊』コマンドを選択して日数を経過させることで
+大会当日を迎えることができます。『休憩』では日数は経過しません。
+なお、残り日数は出場選手証を使用することで確認できます。
+> CONTEXT: Map053/events/10/pages/0/95/Dialogue
+\\C[2]※ There is still time before martial arts tournament.
+By selecting the "stay" command at the time of lodging and
+letting the number of days pass. You can meet the day of
+tournament. In "rest", the number of days does not elapse.
+In addition, the remaining days can be confirmed by using
+the participating player certificate.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]すぐに大会の日にすることも可能ですが、勝ち抜くためには
+クエストをこなして主人公を強化することをオススメします。
+宿泊以外では日数は経過しないので、
+自由にイベントを楽しんでください！
+> CONTEXT: Map053/events/10/pages/0/100/Dialogue
+\\C[2]It is possible to do it on the day of tournament
+immediately, but in order to win. I will recommend that you
+perform the quest and strengthen the main character.
+Since the number of days does not elapse except staying,
+Please enjoy the event freely!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「さて、まずは拠点を探さなきゃな。
+どこか長期で泊めてくれる宿を探そう」
+> CONTEXT: Map053/events/10/pages/0/105/Dialogue
+\\N[12]. 「Well, first of all I have to find a base.
+Let's find an accommodation where you can stay overnight
+somewhere」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「こちらは出場受付となっております。
+\\N[12]さんはすでに選手登録済みですね。
+大会当日をお待ちください」
+> CONTEXT: Map053/events/10/pages/1/0/Dialogue
+Attendant. 「This is acceptance for participation.
+\\N[12] Is already a player registered. tournament
+Please wait for the day」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「\\N[12]です、時間通り来ました！」
+> CONTEXT: Map053/events/10/pages/2/0/Dialogue
+\\N[12]. 「\\N[12] Is, it came on time!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は出場選手証を見せた。
+> CONTEXT: Map053/events/10/pages/2/3/Dialogue
+\\N[12] He showed the players' testimonies.#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「\\N[12]さんですね、確認いたしました。
+遅刻せず来ていただき、ありがとうございます。
+さっそくですが開会日の予定について説明させていただきます。
+> CONTEXT: Map053/events/10/pages/2/5/Dialogue
+Attendant. 「\\N[12] I am checking it. Thank you for
+coming without being late. I will explain the schedule of
+the opening date immediately.#MTLed
+> END STRING
+
+> BEGIN STRING
+本日はまず女王陛下から開会の言葉をいただき、
+その直後に予選リーグ第1試合がスタートいたします。
+\\N[12]選手の試合は本日の午前中、第4試合に出ていただきます」
+> CONTEXT: Map053/events/10/pages/2/10/Dialogue
+Today I got the opening words from the Queen,
+Immediately after that, the preliminary round first match
+will start. \\N[12] Players' matches will appear in the
+4th game this morning」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今日はその1試合のみなんですか？」
+> CONTEXT: Map053/events/10/pages/2/14/Dialogue
+\\N[12]. 「Is that one game only today?」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「いいえ。本日の1次予選リーグは
+全3試合をしていただきます。
+詳しいルールは控室にいる係員にお聞きください」
+> CONTEXT: Map053/events/10/pages/2/17/Dialogue
+Receptionist. 「No. Today's first round preliminary league
+I will play all three games. For detailed rules, please ask
+the staff in the waiting room」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました、西控室に行けばいいんですね」
+> CONTEXT: Map053/events/10/pages/2/22/Dialogue
+\\N[12]. 「Okay, you can go to the West Wing Hall」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「はい、よろしくお願いいたします。
+健闘をお祈りいたします」
+> CONTEXT: Map053/events/10/pages/2/25/Dialogue
+Receptionist. 「Yes, thank you. I pray for a good fight」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（今日の午前中にすぐ試合があるのか……
+いよいよだな、武者震いがしてきたぜ。
+まず最初の試合、さっくり勝ってやるぜ！）
+> CONTEXT: Map053/events/10/pages/2/29/Dialogue
+\\N[12]. (Is there a game right now in the morning ...?
+However, the warrior shook me. First of all, I will prevail
+over my first match! )#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「西控室は、コンコースの1階西側から入ることができますよ」
+> CONTEXT: Map053/events/10/pages/3/0/Dialogue
+> CONTEXT: Map053/events/10/pages/6/0/Dialogue
+> CONTEXT: Map053/events/10/pages/9/0/Dialogue
+Attendant. 「You can enter West West Wing from the west
+side of 1st floor of tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「お疲れ様でした、\\N[12]選手。
+1次予選通過おめでとうございます。
+また明日、お待ちしております」
+> CONTEXT: Map053/events/10/pages/4/0/Dialogue
+Attendant. 「Thank you for your hard work, \\N[12]
+player. Congratulations on your first round of qualifying.
+I will be waiting for you tomorrow」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「おはようございます、\\N[12]選手。
+遅れずにお越しいただき、ありがとうございます。
+本日は予選2日目、2次予選となります。
+> CONTEXT: Map053/events/10/pages/5/0/Dialogue
+Receptionist. 「Good morning, \\N[12] player.
+Thank you for coming without delay. Today is qualifying day
+2, we will be second preliminary round.#MTLed
+> END STRING
+
+> BEGIN STRING
+本日は勝ち抜き戦であり、
+2連勝した選手のみが決勝トーナメントへ進出することができます。
+昨日同様、西側控室にて待機をお願いいたします」
+> CONTEXT: Map053/events/10/pages/5/5/Dialogue
+Today is a winning battle, Only two consecutive victories
+can advance to the finals tournament. Like yesterday,
+please wait at the West side waiting room」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました」
+> CONTEXT: Map053/events/10/pages/5/9/Dialogue
+> CONTEXT: Map053/events/10/pages/8/9/Dialogue
+> CONTEXT: Map035/events/4/pages/4/56/Dialogue
+\\N[12]. 「understood」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「なお、本日から勝者の権利が適用されますが……
+観客たちの要望に女王陛下が応えられたことにより、
+一部制限が撤廃されました」
+> CONTEXT: Map053/events/10/pages/5/12/Dialogue
+Receptionist. 「The winner's right will be applied from
+today, but ... Because the Queen responded to the requests
+of the audience, Some restrictions have been abolished」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え？　どういうわけですか？」
+> CONTEXT: Map053/events/10/pages/5/17/Dialogue
+\\N[12]. 「Huh? Why is that?」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「相手の人権を縛るような命令は不可、
+というのがこれまでの慣習でしたが――
+> CONTEXT: Map053/events/10/pages/5/20/Dialogue
+Receptionist. 「Instructions that bind the opponent's human
+rights are impossible, Although it was a custom until now -#MTLed
+> END STRING
+
+> BEGIN STRING
+今回は、相手を殺したり拷問したりしない限り
+どういう命令をしてもよい、ということになりました」
+> CONTEXT: Map053/events/10/pages/5/24/Dialogue
+This time, unless you kill or torture your opponent
+It was decided what kind of order I could do」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……なるほど。
+姫様に限って制限を撤廃すると言ってましたけど、
+結局、その案は全体に及ぶことになったわけですか」
+> CONTEXT: Map053/events/10/pages/5/27/Dialogue
+\\N[12]. 「……I see. Although I was told that the
+restrictions will be removed only for the princess,
+After all, did the plan extend to the whole」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「そうなります。
+とはいえ、勝利したとしても
+あまり凄惨な命令はしないようお願いいたします」
+> CONTEXT: Map053/events/10/pages/5/32/Dialogue
+Receptionist. 「That will happen. Nonetheless, even if you
+win. Please do not order very miserable」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（好きにできる、と言っても
+どこまでやっていいんだろうか？
+まあ、そのとき考えるか……）
+> CONTEXT: Map053/events/10/pages/5/37/Dialogue
+\\N[12]. (Even if it says that you can like it
+How far can I do? Well, then do you think ... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（それはともかく、いよいよ予選も大詰めか。
+今日勝ち抜けば、決勝トーナメントに進出できる。
+絶対に2連勝してやるぜ！）
+> CONTEXT: Map053/events/10/pages/5/42/Dialogue
+\\N[12]. (In any case, qualifying is too complete.
+If you win today, you can advance into the finals
+tournament. I will absolutely win two consecutive
+victories! )#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「お疲れ様でした、\\N[12]選手。
+予選突破、おめでとうございます。
+また明日、お待ちしております」
+> CONTEXT: Map053/events/10/pages/7/0/Dialogue
+Attendant. 「Thank you for your hard work, \\N[12]
+player. Congratulations on qualifying breakthrough.
+I will be waiting for you tomorrow」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「おはようございます、\\N[12]選手。
+遅れずにお越しいただき、ありがとうございます。
+本日から決勝トーナメントとなります。
+> CONTEXT: Map053/events/10/pages/8/0/Dialogue
+Receptionist. 「Good morning, \\N[12] player.
+Thank you for coming without delay. Today is the final
+tournament.#MTLed
+> END STRING
+
+> BEGIN STRING
+言うまでもないことですが、
+敗北した時点で敗退が決まってしまいます。
+では昨日までと同様、西側控室にて待機をお願いいたします」
+> CONTEXT: Map053/events/10/pages/8/5/Dialogue
+Needless to say, The defeat will be decided at the time of
+defeat. As in yesterday, please wait at the west side
+waiting room」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「なお、受付での到着確認は本日が最後となります。
+勝ち抜いた場合、明日の2回戦以降は、
+直接控室に行っていただいて大丈夫ですので」
+> CONTEXT: Map053/events/10/pages/8/12/Dialogue
+Receptionist. 「Please note that arrival confirmation at
+the reception is the last day today. If you win, after
+tomorrow's second round, It's okay to go directly to the
+waiting room」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「お疲れ様でした、\\N[12]選手。
+1回戦勝利、おめでとうございます。
+明日も頑張ってくださいね」
+> CONTEXT: Map053/events/10/pages/10/0/Dialogue
+Attendant. 「Thank you for your hard work, \\N[12]
+player. Congratulations on winning the first round.
+Please also do your best at tomorrow」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「お疲れ様でした、\\N[12]選手。
+2回戦勝利、おめでとうございます。
+明日も頑張ってくださいね」
+> CONTEXT: Map053/events/10/pages/11/0/Dialogue
+Attendant. 「Thank you for your hard work, \\N[12]
+player. Congratulations on second round victory.
+Please also do your best at tomorrow」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「お疲れ様でした、\\N[12]選手。
+3回戦勝利、おめでとうございます。
+明日も頑張ってくださいね」
+> CONTEXT: Map053/events/10/pages/12/0/Dialogue
+Attendant. 「Thank you for your hard work, \\N[12]
+player. Congratulations on the third round wins.
+Please also do your best at tomorrow」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「お疲れ様でした、\\N[12]選手。
+4回戦勝利、おめでとうございます。
+明日も頑張ってくださいね」
+> CONTEXT: Map053/events/10/pages/13/0/Dialogue
+Attendant. 「Thank you for your hard work, \\N[12]
+player. Congratulations on the fourth round wins.
+Please also do your best at tomorrow」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「お疲れ様でした、\\N[12]選手。
+決勝進出おめでとうございます、素晴らしいですね、
+決勝戦での戦いぶり、期待しております」
+> CONTEXT: Map053/events/10/pages/14/0/Dialogue
+Attendant. 「Thank you for your hard work, \\N[12]
+player. Congratulations on your finals in the final, it is
+wonderful, I am expecting the fight in the final game」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「観客席の予約は終了しております。
+当日券は三階席のみ販売しております」
+> CONTEXT: Map053/events/11/pages/0/0/Dialogue
+Attendant. 「The audience seat reservation is over.
+Today's tickets sell only third floor seats」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「指定席は残り少なくなっておりますが、
+三階の立ち見席は広くスペースを取ってあります！
+観戦できない心配はございませんので、ご安心ください」
+> CONTEXT: Map053/events/12/pages/0/0/Dialogue
+Attendant. 「Although the designated seats are running low,
+The standing room on the third floor is spacious and
+spacious! There is no worry that you can not watch, so do
+not worry」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「三階立ち見席の入場券を販売しております」
+> CONTEXT: Map053/events/12/pages/1/0/Dialogue
+Attendant. 「We sell admission tickets at the 3rd floor
+standing seat」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「選手控室は東西にそれぞれ設けられております。
+係員の案内に従い、どちらかにご入場ください」
+> CONTEXT: Map053/events/13/pages/0/0/Dialogue
+Attendant. 「The players' waiting room is established in
+the east and west respectively. Follow the staff's
+instructions and enter either.」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「なかなか面白かったわね、イケメンの選手もいたし」
+> CONTEXT: Map053/events/38/pages/0/0/Dialogue
+Maid. 「It was pretty funny, Ikemen's players too」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「いよいよ決勝トーナメントだけど、優勝候補は断然姫様ね。
+他の選手とはセンスが根本から違うわ」
+> CONTEXT: Map053/events/38/pages/1/0/Dialogue
+Maid. 「Although it is the finals tournament, the principal
+winner is by no means a princess. Sense is fundamentally
+different from other players」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「アリーナ席のチケットはもうないのか。
+ちぇっ」
+> CONTEXT: Map053/events/48/pages/0/0/Dialogue
+old man. 「Is there no longer an arena seat ticket?
+Check it out」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「アリーナの席を確保できちゃった。
+今年は全試合かぶりついて観戦しよっと♪」
+> CONTEXT: Map053/events/49/pages/0/0/Dialogue
+Woman. 「I got my seat in the arena. This year I got all
+the games and watched the match♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「私たちは西方からやってきた者ですが、
+どうにかよい席を取れてほっとしました。
+あとは大会開始日まで観光でもしていますよ」
+> CONTEXT: Map053/events/50/pages/0/0/Dialogue
+old man. 「We are from the West, I was relieved to get a
+good seat somehow. I am doing sightseeing until the start
+date of tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「いやー楽しかった、どの試合も迫力があったなあ！
+さて、ホテルにすぐ戻るのも寂しいところだし、
+街で観光でも楽しもうか」
+> CONTEXT: Map053/events/50/pages/2/0/Dialogue
+old man. 「Well it was fun, every game had power!
+Well, returning to the hotel soon is a sad place,
+Would you like to go sightseeing in the city」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「せっかくエルミアに来たのですもの、
+遊覧船で水路を下って海まで行くツアーに参加しましょうよ」
+> CONTEXT: Map053/events/51/pages/0/0/Dialogue
+Woman. 「Things that I came to El Mia, Let 's join the tour
+by going down the waterway and going to the sea by a
+pleasure boat」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「レストランでお食事をして、
+それからホテルに戻るとしましょうか」
+> CONTEXT: Map053/events/51/pages/2/0/Dialogue
+Woman. 「Dining in the restaurant, Let's suppose return to
+the hotel」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「わーい、武道大会たのしみー！」
+> CONTEXT: Map053/events/52/pages/0/0/Dialogue
+girl. 「Wow, martial arts tournament fun fun!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「試合、おもしろかったぁ……
+明日もたくさん観たいなー！」
+> CONTEXT: Map053/events/52/pages/2/0/Dialogue
+girl. 「The game was interesting ... I want to see a lot of
+things tomorrow!」#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「エルミアの強者といえばロイヤルガードだが――
+女王の方針で、彼らは武道大会には出場しないのだそうだ。
+強い相手と戦うために来た身としては、少々残念だな」
+> CONTEXT: Map053/events/53/pages/0/0/Dialogue
+Fighter. 「Speaking of Elmier 's strong man is royal guard -
+According to the Queen 's policy, they do not participate
+in martial arts tournament. As a boy who came to fight
+against a strong opponent, it is a bit disappointing」#MTLed
+> END STRING
+
+> BEGIN STRING
+女戦士
+「私も、誰にも負けないくらい修行してきたつもりだが、
+果たしてどこまで勝ち抜けることか……
+自分の腕前を試すいい機会だし、当日は楽しみだな」
+> CONTEXT: Map053/events/54/pages/0/0/Dialogue
+Woman warrior. 「I am planning to train as hard as anyone
+else, How far can you win? ... It's a good opportunity to
+try out my skills, and I'm looking forward to the day.」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「この先をまっすぐ上がってゆくと観客席に出ます。
+東西の通路は、それぞれ選手控室に通じております。
+コンコースの北側は貴賓席への出入り口となっております」
+> CONTEXT: Map053/events/65/pages/0/0/Dialogue
+Attendant. 「Go straight ahead and go to the audience seat.
+The passages in the east and west lead to the players'
+waiting room. The north side of tournament is an entrance
+to the VIP seat」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「こちらは女子選手用の受付となっております」
+> CONTEXT: Map053/events/68/pages/0/0/Dialogue
+Receptionist. 「This is our reception for women's players」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「それでは、お名前と出身地を教えていただけますか？」
+> CONTEXT: Map053/events/70/pages/0/0/Dialogue
+Receptionist. 「Could you tell me your name and place of
+birth?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「ええーと、南方のガラディス王国の出身で――」
+> CONTEXT: Map053/events/70/pages/0/3/Dialogue
+Woman. 「Um, from the southern Galadis kingdom -」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（本当に、いろんな国から参加者が来るんだな……
+そういや、あのシェリーってのもエルミア人じゃないんだっけ）
+> CONTEXT: Map053/events/70/pages/0/6/Dialogue
+\\N[12]. (Really, participants come from various
+countries ... ... Well, that Sherry is not an Elmier
+either)#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「右側が出場受付カウンター、
+左側がチケット販売所となっておりまーす！」
+> CONTEXT: Map053/events/71/pages/0/0/Dialogue
+Attendant. 「The right side is the entry reception counter,
+The left side is the ticket sales office!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「三階の立ち見席には、
+この先の東通路にある上り階段から行けるわよ。
+ちなみに西も同じつくりになっているからね」
+> CONTEXT: Map053/events/72/pages/0/0/Dialogue
+Woman. 「In the standing room on the third floor,
+You can go from the upstairs in the eastern passage ahead.
+By the way the West is making the same」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「選手の方は一度受付にて到着確認をお願いいたしまーす！」
+> CONTEXT: Map053/events/73/pages/0/0/Dialogue
+Attendant. 「Those who are athletes please check arrival
+once at the reception desk!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おっと、まず受付に行く必要があるのか。
+忘れないようにしないとな」
+> CONTEXT: Map053/events/73/pages/0/3/Dialogue
+\\N[12]. 「Oops, you need to go to the reception first.
+I have to try not to forget it」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「姫様の試合、りりしくて素敵だったなー
+予選リーグは圧倒的な強さで突破しそうだし、
+優勝候補の大本命ね！」
+> CONTEXT: Map053/events/75/pages/0/0/Dialogue
+Maid. 「The princess' s game was nice and cool
+The prelimary league is likely to break through
+overwhelming strength, It is a big winner of the winning
+candidate!」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「姫様の試合は絶対に外せないわね！
+全力で応援しなくちゃ」
+> CONTEXT: Map053/events/75/pages/1/0/Dialogue
+Maid. 「The princess' s game can not be ruled out
+absolutely! I have to cheer for the best」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「私はシェリー選手がいい線いくと思うの！
+国外の選手じゃ、彼女が一番強そうに思えたわ！」
+> CONTEXT: Map053/events/76/pages/0/0/Dialogue
+Maid. 「I think Sherry will have a good line!
+If it is a foreign player, she seemed to be the strongest!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（シェリーのやつは当然勝ち抜いてくるだろうな。
+俺も、あいつのところまでたどり着かなきゃ）
+> CONTEXT: Map053/events/76/pages/0/4/Dialogue
+\\N[12]. (Sherry 's guy will win naturally.
+I have to get to his place too)#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「シェリー選手に勝った\\N[12]選手も
+なかなか腕が立ちそうじゃない？
+決勝は面白くなりそうねー！」
+> CONTEXT: Map053/events/76/pages/1/0/Dialogue
+Maid. 「I won Shelley \\N[12] Players too
+You seem to have a good arms? The final is going to be
+interesting!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「ちぇっ、誰か男の戦士が優勝するよっ！
+女が男に勝てるわけないだろー！」
+> CONTEXT: Map053/events/77/pages/0/0/Dialogue
+boy. 「Well, someone's warrior is going to win!
+A woman can not win a man!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ねーねー、誰が優勝すると思う？
+あたしは姫様！」
+> CONTEXT: Map053/events/78/pages/0/0/Dialogue
+girl. 「Who do you think will win? I am the princess!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「姫様がハッパをかけたおかげで
+全体のレベルが上がっている感じがするわ。
+決勝トーナメントが楽しみね」
+> CONTEXT: Map053/events/79/pages/0/0/Dialogue
+Woman. 「Thanks to the princess hopper. I feel the overall
+level is rising. I'm looking forward to the finals
+tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「姫様がハッパをかけたおかげで
+全体のレベルが上がっている感じがするわ」
+> CONTEXT: Map053/events/79/pages/1/0/Dialogue
+Woman. 「Thanks to the princess hopper. I feel the whole
+level is going up.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「プリムちゃん、どこまで勝ち残れるんだろ。
+心配だなー」
+> CONTEXT: Map053/events/80/pages/0/0/Dialogue
+girl. 「Purim - chan, how far will you win?
+I am worried about it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「プリムちゃん、負けちゃった……
+落ち込んでないといいけど……」
+> CONTEXT: Map053/events/80/pages/1/0/Dialogue
+girl. 「Purim-chan, I lost ... ... I hope not to be
+depressed ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+騎士
+「騎士団にスカウトしたい人材もいるなあ。
+敗退した選手に声をかけてみるか」
+> CONTEXT: Map053/events/81/pages/0/0/Dialogue
+Knight. 「Some of the people want to scout out to the Order.
+Why do not you try calling out to the defeated player」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「さて、今回の大会では何人ぐらい
+エルミア軍に誘うべき人材が出てくるかな？」
+> CONTEXT: Map053/events/82/pages/0/0/Dialogue
+A soldier. 「Well, how many people in this tournament
+Will some human resources be invited to the Elmier army?」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「決勝トーナメントに出場される選手の方は
+受付にて到着確認をお願いいたします！」
+> CONTEXT: Map053/events/83/pages/0/0/Dialogue
+Attendant. 「If you are a competitor in the finals
+tournament. Please confirm arrival at the reception desk!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「それにしても、まさかキミに決勝進出を阻まれるだなんて。
+あとちょっとだったのになぁ」
+> CONTEXT: Map053/events/84/pages/0/0/Dialogue
+Sherry. 「Nevertheless, it is never supposed to
+prevent you from entering the final.
+I wish it was a while.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ま、今回は俺の勝ちだ。
+もちろん、もう二度とお前に負けるつもりはないけどな」
+> CONTEXT: Map053/events/84/pages/0/4/Dialogue
+\\N[12]. 「Well, this time I win. Of course, I will not
+lose to you again.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あ、調子に乗っちゃってるね？
+そうはいかないよ、キミが成長してきたみたいに
+私だって今回の敗北を糧にして強くなってみせるんだから」
+> CONTEXT: Map053/events/84/pages/0/8/Dialogue
+Sherry. 「Oh, you are on the right track?
+That's not going to happen like you've grown up.
+Because I will be strengthened with this defeat
+as my strength」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（……本当に、こいつに勝てたんだなあ。
+なんていうか、これでようやく
+対等のライバルになれた気がするな。
+> CONTEXT: Map053/events/84/pages/0/13/Dialogue
+\\N[12]. (... really, I won over him.
+I do not know what to say, at last
+I feel I could be equal rival.#MTLed
+> END STRING
+
+> BEGIN STRING
+ずっと胸にあったモヤモヤが、ようやく消えてくれた感じだ。
+もしかすると、俺は……
+あの村でくすぶり続けていたときに感じていた閉塞感と、
+こいつに敗れて味わった屈辱を、重ねて考えていたのかもな）
+> CONTEXT: Map053/events/84/pages/0/18/Dialogue
+It was a feeling that pent-up that had been in my chest
+disappeared at last. Maybe, I ... The feeling of stagnation
+I felt when I continued smoldering in that village,
+Perhaps he was thinking over the humiliation she had tasted
+losing to him)#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ん、どうしたの？　いきなり黙っちゃって」
+> CONTEXT: Map053/events/84/pages/0/23/Dialogue
+Sherry. 「What happened? Suddenly silent」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、なんでもない。
+明日の決勝は誰が相手になるのかな……」
+> CONTEXT: Map053/events/84/pages/0/26/Dialogue
+\\N[12]. 「No, nothing. Who will be the opponent in the
+final of tomorrow ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ああ、キミにはまだ次の試合があるんだったね。
+一緒に観戦でもしてく？　これからでしょ、第2試合」
+> CONTEXT: Map053/events/84/pages/0/30/Dialogue
+Sherry. 「Oh, you still have the next game.
+Do you even watch it together? From now on,
+second game」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな、せっかくだし見ていくか」
+> CONTEXT: Map053/events/84/pages/0/34/Dialogue
+\\N[12]. 「That's right.」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「2次予選に出場される選手の方は
+受付にて到着確認をお願いいたしまーす！」
+> CONTEXT: Map053/events/85/pages/0/0/Dialogue
+Attendant. 「Those who compete in the second preliminaries
+Please confirm arrival at reception desk!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今日もまずは受付に顔を出しておかないとな」
+> CONTEXT: Map053/events/85/pages/0/4/Dialogue
+\\N[12]. 「I have to look at the reception first today」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「まったくもう、姉さんは派手な魔法ばかり使って
+魔法力を浪費するから
+最後の最後で息切れしちゃうのよ」
+> CONTEXT: Map053/events/89/pages/0/0/Dialogue
+Lzet. 「Altogether, my older sister uses just flashy magic
+Because I waste magical power. I'm out of breath at the
+last end」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「いやー、あれだけ魔法をさばかれたら
+魔法力を温存してても同じだったって。
+あの姫様が、あそこまでやるとはねー」
+> CONTEXT: Map053/events/89/pages/0/5/Dialogue
+Linetta. 「Wow, if that magic is judged so much
+It was the same even if I kept the magical power.
+I do not wish that princess will do it over there」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「あ、\\N[12]君、決勝進出おめでと♪
+あたしも、もう一度決勝でキミとやりたかったんだけどなぁ。
+ま、姫様を倒すのはキミに任せるよ、カタキ取ってね♪」
+> CONTEXT: Map053/events/90/pages/0/1/Dialogue
+Linetta. 「Ah, \\N[12] Kimi, Final match advancement♪
+I also wanted to do with you again in the final.
+Well, I'll leave it to you to defeat the princess, Kataki♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「あそこまで見事に魔法をさばき切られちゃうと、
+もう脱帽するしかないってもんだね。
+悔しいけど、あの姫様は天才だねー」
+> CONTEXT: Map053/events/90/pages/0/8/Dialogue
+Linetta. 「When the magic is judged perfectly so far,
+I guess there is no choice but to take off again.
+It is regrettable, that princess is a genius」#MTLed
+> END STRING

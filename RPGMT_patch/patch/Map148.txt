@@ -1,0 +1,493 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+『地下水道建設計画』という本がある。
+読んでみますか？
+> CONTEXT: Map148/events/1/pages/0/0/Dialogue
+> CONTEXT: Map143/events/54/pages/0/0/Dialogue
+There is a book called "underground water supply
+construction plan". Would you like to read it?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……なんだか、小難しい内容が多くて
+よくわからんが……
+城の地下まで地下水道は本来続いていたのか。
+> CONTEXT: Map148/events/1/pages/0/5/Dialogue
+> CONTEXT: Map143/events/54/pages/0/5/Dialogue
+\\N[12]. 「...... Somehow, there are a lot of small
+difficult contents. I do not understand……
+Did the underground water supply originally continued to
+the underground of the castle?#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、城に直通にしてしまうと危険だから
+一部の職員しか、その経路は知らない……
+なるほどな」
+> CONTEXT: Map148/events/1/pages/0/10/Dialogue
+> CONTEXT: Map143/events/54/pages/0/10/Dialogue
+But it is dangerous to go straight to the castle
+Only some officials do not know the route ......
+got it」#MTLed
+> END STRING
+
+> BEGIN STRING
+管理員の証を手に入れた！
+> CONTEXT: Map148/events/2/pages/0/1/Dialogue
+> CONTEXT: Map143/events/2/pages/0/1/Dialogue
+I got the certificate of the manager!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……なんだ、これ？
+マジックアイテムみたいだが、
+まあ、一応持って行ってみるか……」
+> CONTEXT: Map148/events/2/pages/0/5/Dialogue
+> CONTEXT: Map143/events/2/pages/0/5/Dialogue
+\\N[12]. 「……what's this? It looks like a magic item,
+Well, why do not you take it once ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「むっ、来たな剣士\\N[12]！
+女王陛下の命により、ここで倒れていただく！
+覚悟！」
+> CONTEXT: Map148/events/14/pages/0/1/Dialogue
+> CONTEXT: Map148/events/55/pages/0/1/Dialogue
+> CONTEXT: Map148/events/56/pages/0/1/Dialogue
+> CONTEXT: Map148/events/57/pages/0/1/Dialogue
+> CONTEXT: Map148/events/58/pages/0/1/Dialogue
+A soldier. 「Mutte, I came, swordsman \\N[12] !
+Due to the life of His Majesty the Queen, let me fall here!
+Ready!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、来るかっ！」
+> CONTEXT: Map148/events/14/pages/0/6/Dialogue
+> CONTEXT: Map148/events/55/pages/0/6/Dialogue
+> CONTEXT: Map148/events/56/pages/0/6/Dialogue
+> CONTEXT: Map148/events/57/pages/0/6/Dialogue
+> CONTEXT: Map148/events/58/pages/0/6/Dialogue
+\\N[12]. 「Well, come on!」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「ぬぐっ……！」
+> CONTEXT: Map148/events/14/pages/0/27/Dialogue
+> CONTEXT: Map148/events/55/pages/0/27/Dialogue
+> CONTEXT: Map148/events/56/pages/0/27/Dialogue
+> CONTEXT: Map148/events/57/pages/0/27/Dialogue
+> CONTEXT: Map148/events/58/pages/0/27/Dialogue
+A soldier. 「Wipe ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ、なんとかなったか。
+しかし、なんでこんな部屋に
+兵士が何人もいるんだ？」
+> CONTEXT: Map148/events/14/pages/0/36/Dialogue
+> CONTEXT: Map148/events/55/pages/0/36/Dialogue
+> CONTEXT: Map148/events/56/pages/0/36/Dialogue
+> CONTEXT: Map148/events/57/pages/0/36/Dialogue
+> CONTEXT: Map148/events/58/pages/0/36/Dialogue
+\\N[12]. 「How is it supposed to be? But why in a room
+like this. How many soldiers are there?」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「くっ……さすがは、
+武道大会優勝者……
+我々では歯が立たぬか……」
+> CONTEXT: Map148/events/14/pages/0/45/Dialogue
+> CONTEXT: Map148/events/55/pages/0/45/Dialogue
+> CONTEXT: Map148/events/56/pages/0/45/Dialogue
+> CONTEXT: Map148/events/57/pages/0/45/Dialogue
+> CONTEXT: Map148/events/58/pages/0/45/Dialogue
+> CONTEXT: Map143/events/14/pages/0/74/Dialogue
+> CONTEXT: Map143/events/50/pages/0/74/Dialogue
+> CONTEXT: Map143/events/51/pages/0/74/Dialogue
+> CONTEXT: Map143/events/52/pages/0/74/Dialogue
+> CONTEXT: Map143/events/53/pages/0/74/Dialogue
+A soldier. 「Cud ...... Truly, Martial arts tournament
+winner ...... We have teeth ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まだ立てるのか。
+おい、あんたたちはいったいなんなんだ」
+> CONTEXT: Map148/events/14/pages/0/54/Dialogue
+> CONTEXT: Map148/events/55/pages/0/54/Dialogue
+> CONTEXT: Map148/events/56/pages/0/54/Dialogue
+> CONTEXT: Map148/events/57/pages/0/54/Dialogue
+> CONTEXT: Map148/events/58/pages/0/54/Dialogue
+\\N[12]. 「Are you still able to stand? Hey, are you
+grad gradually」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「我らは、あなたを妨害するようにと女王陛下に命じられ
+地下水道の警戒にあたっていた部隊だ。
+地下から潜入を図ることは充分に考えられるからな」
+> CONTEXT: Map148/events/14/pages/0/58/Dialogue
+> CONTEXT: Map148/events/55/pages/0/58/Dialogue
+> CONTEXT: Map148/events/56/pages/0/58/Dialogue
+> CONTEXT: Map148/events/57/pages/0/58/Dialogue
+> CONTEXT: Map148/events/58/pages/0/58/Dialogue
+> CONTEXT: Map143/events/14/pages/0/101/Dialogue
+> CONTEXT: Map143/events/50/pages/0/101/Dialogue
+> CONTEXT: Map143/events/51/pages/0/101/Dialogue
+> CONTEXT: Map143/events/52/pages/0/101/Dialogue
+> CONTEXT: Map143/events/53/pages/0/101/Dialogue
+A soldier. 「We are commanded by His Majesty to interfere
+with you. It is a unit that was wary of underground water
+supply. You can think enough to infiltrate from underground
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか、あんたらの妨害も試練の一部ってわけだな。
+しかし、俺を妨害するための部隊がここにいたってことは、
+地下水道には、城に行けるルートが存在するんだな？」
+> CONTEXT: Map148/events/14/pages/0/63/Dialogue
+> CONTEXT: Map148/events/55/pages/0/63/Dialogue
+> CONTEXT: Map148/events/56/pages/0/63/Dialogue
+> CONTEXT: Map148/events/57/pages/0/63/Dialogue
+> CONTEXT: Map148/events/58/pages/0/63/Dialogue
+> CONTEXT: Map143/events/14/pages/0/106/Dialogue
+> CONTEXT: Map143/events/50/pages/0/106/Dialogue
+> CONTEXT: Map143/events/51/pages/0/106/Dialogue
+> CONTEXT: Map143/events/52/pages/0/106/Dialogue
+> CONTEXT: Map143/events/53/pages/0/106/Dialogue
+\\N[12]. 「I see, your disturbance is part of the test.
+However, it is because the troops to obstruct me came here,
+Is there a route that can go to the castle in the
+underground water?」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「フッ……残念だったな。
+それ、そこの瓦礫で塞がれた道こそが、
+城へと繋がるルートであったのよ」
+> CONTEXT: Map148/events/14/pages/0/68/Dialogue
+> CONTEXT: Map148/events/55/pages/0/68/Dialogue
+> CONTEXT: Map148/events/56/pages/0/68/Dialogue
+> CONTEXT: Map148/events/57/pages/0/68/Dialogue
+> CONTEXT: Map148/events/58/pages/0/68/Dialogue
+> CONTEXT: Map143/events/14/pages/0/116/Dialogue
+> CONTEXT: Map143/events/50/pages/0/116/Dialogue
+> CONTEXT: Map143/events/51/pages/0/116/Dialogue
+> CONTEXT: Map143/events/52/pages/0/116/Dialogue
+> CONTEXT: Map143/events/53/pages/0/116/Dialogue
+A soldier. 「Hydro ... ... It was disappointing.
+It is the road that was blocked by rubble there,
+It was a route leading to the castle」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「お主がここに現れる直前まで、
+その道を塞ぐ作業を全員でやっていたのだ。
+ククク……」
+> CONTEXT: Map148/events/14/pages/0/77/Dialogue
+> CONTEXT: Map148/events/55/pages/0/77/Dialogue
+> CONTEXT: Map148/events/56/pages/0/77/Dialogue
+> CONTEXT: Map148/events/57/pages/0/77/Dialogue
+> CONTEXT: Map148/events/58/pages/0/77/Dialogue
+A soldier. 「Until just before the Lord appears here,
+All the work was done to close that road.
+hehehe ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うーん、こりゃひどい……」
+> CONTEXT: Map148/events/14/pages/0/82/Dialogue
+> CONTEXT: Map148/events/55/pages/0/82/Dialogue
+> CONTEXT: Map148/events/56/pages/0/82/Dialogue
+> CONTEXT: Map148/events/57/pages/0/82/Dialogue
+> CONTEXT: Map148/events/58/pages/0/82/Dialogue
+> CONTEXT: Map143/events/14/pages/0/133/Dialogue
+> CONTEXT: Map143/events/50/pages/0/133/Dialogue
+> CONTEXT: Map143/events/51/pages/0/133/Dialogue
+> CONTEXT: Map143/events/52/pages/0/133/Dialogue
+> CONTEXT: Map143/events/53/pages/0/133/Dialogue
+\\N[12]. 「Well, this is terrible ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「陛下の命であれば、我々は全力を尽くして妨害するのみ。
+\\N[12]殿を襲撃しに来たというよりは、
+この道を塞ぐことのほうが我らの主目的だったのよ」
+> CONTEXT: Map148/events/14/pages/0/87/Dialogue
+> CONTEXT: Map148/events/55/pages/0/87/Dialogue
+> CONTEXT: Map148/events/56/pages/0/87/Dialogue
+> CONTEXT: Map148/events/57/pages/0/87/Dialogue
+> CONTEXT: Map148/events/58/pages/0/87/Dialogue
+> CONTEXT: Map143/events/14/pages/0/143/Dialogue
+> CONTEXT: Map143/events/50/pages/0/143/Dialogue
+> CONTEXT: Map143/events/51/pages/0/143/Dialogue
+> CONTEXT: Map143/events/52/pages/0/143/Dialogue
+> CONTEXT: Map143/events/53/pages/0/143/Dialogue
+A soldier. 「If it is your Majesty's Life, we will only do
+our utmost to disturb you. \\N[12] Rather than having
+came to attack the dog, It was our main purpose to block
+this road」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、先手を打たれたってわけか。
+こりゃ、瓦礫を撤去するのは難しいな……」
+> CONTEXT: Map148/events/14/pages/0/92/Dialogue
+> CONTEXT: Map148/events/55/pages/0/92/Dialogue
+> CONTEXT: Map148/events/56/pages/0/92/Dialogue
+> CONTEXT: Map148/events/57/pages/0/92/Dialogue
+> CONTEXT: Map148/events/58/pages/0/92/Dialogue
+\\N[12]. 「Well, have you been toppled? Well, it is
+difficult to remove rubble ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「……我らは、戦いには敗れた。この上は潔く負けを認め、
+この試練をめぐる戦いからは手を引く。
+それを条件に、撤収させてもらえまいか？」
+> CONTEXT: Map148/events/14/pages/0/96/Dialogue
+> CONTEXT: Map148/events/55/pages/0/96/Dialogue
+> CONTEXT: Map148/events/56/pages/0/96/Dialogue
+> CONTEXT: Map148/events/57/pages/0/96/Dialogue
+> CONTEXT: Map148/events/58/pages/0/96/Dialogue
+A soldier. 「...... it is, the battle was lost. On top of
+this I am deeply admiring the defeat, I will withdraw from
+the battle over this trial. Could you withdraw it, subject
+to that condition?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、いいだろう。
+女王陛下には、この程度で俺があきらめると思ったら
+大間違いだ、と伝えてくれ」
+> CONTEXT: Map148/events/14/pages/0/102/Dialogue
+> CONTEXT: Map148/events/55/pages/0/102/Dialogue
+> CONTEXT: Map148/events/56/pages/0/102/Dialogue
+> CONTEXT: Map148/events/57/pages/0/102/Dialogue
+> CONTEXT: Map148/events/58/pages/0/102/Dialogue
+> CONTEXT: Map143/events/14/pages/0/174/Dialogue
+> CONTEXT: Map143/events/50/pages/0/174/Dialogue
+> CONTEXT: Map143/events/51/pages/0/174/Dialogue
+> CONTEXT: Map143/events/52/pages/0/174/Dialogue
+> CONTEXT: Map143/events/53/pages/0/174/Dialogue
+\\N[12]. 「Oh, it will be nice. The Queen, I thought I
+give up at this level. Please tell me it's a big mistake」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「確かに承った。
+では、失礼いたす」
+> CONTEXT: Map148/events/14/pages/0/107/Dialogue
+> CONTEXT: Map148/events/55/pages/0/107/Dialogue
+> CONTEXT: Map148/events/56/pages/0/107/Dialogue
+> CONTEXT: Map148/events/57/pages/0/107/Dialogue
+> CONTEXT: Map148/events/58/pages/0/107/Dialogue
+> CONTEXT: Map143/events/14/pages/0/179/Dialogue
+> CONTEXT: Map143/events/50/pages/0/179/Dialogue
+> CONTEXT: Map143/events/51/pages/0/179/Dialogue
+> CONTEXT: Map143/events/52/pages/0/179/Dialogue
+> CONTEXT: Map143/events/53/pages/0/179/Dialogue
+A soldier. 「It certainly received. Then, excuse me.」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士たちは撤収していった。
+> CONTEXT: Map148/events/14/pages/0/112/Dialogue
+> CONTEXT: Map148/events/55/pages/0/112/Dialogue
+> CONTEXT: Map148/events/56/pages/0/112/Dialogue
+> CONTEXT: Map148/events/57/pages/0/112/Dialogue
+> CONTEXT: Map148/events/58/pages/0/112/Dialogue
+> CONTEXT: Map143/events/14/pages/0/184/Dialogue
+> CONTEXT: Map143/events/50/pages/0/184/Dialogue
+> CONTEXT: Map143/events/51/pages/0/184/Dialogue
+> CONTEXT: Map143/events/52/pages/0/184/Dialogue
+> CONTEXT: Map143/events/53/pages/0/184/Dialogue
+The soldiers retreated.#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「そうかい、結局ここも先手を打たれていたか。
+さすがに、向こうの方が情報ではどうしたって
+上だからね、仕方のないことか。
+> CONTEXT: Map148/events/14/pages/0/117/Dialogue
+> CONTEXT: Map148/events/55/pages/0/117/Dialogue
+> CONTEXT: Map148/events/56/pages/0/117/Dialogue
+> CONTEXT: Map148/events/57/pages/0/117/Dialogue
+> CONTEXT: Map148/events/58/pages/0/117/Dialogue
+> CONTEXT: Map143/events/14/pages/0/189/Dialogue
+> CONTEXT: Map143/events/50/pages/0/189/Dialogue
+> CONTEXT: Map143/events/51/pages/0/189/Dialogue
+> CONTEXT: Map143/events/52/pages/0/189/Dialogue
+> CONTEXT: Map143/events/53/pages/0/189/Dialogue
+velvet. 「Okay, did it ended well this way after
+all? As expected, it is better for the other
+person to know what to do with information
+That's because it's over, is not it?#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、地下水道は広大だ。
+あたしの意見としては、まだまだここの探索を
+あきらめるべきじゃないと思うよ」
+> CONTEXT: Map148/events/14/pages/0/122/Dialogue
+> CONTEXT: Map148/events/55/pages/0/122/Dialogue
+> CONTEXT: Map148/events/56/pages/0/122/Dialogue
+> CONTEXT: Map148/events/57/pages/0/122/Dialogue
+> CONTEXT: Map148/events/58/pages/0/122/Dialogue
+> CONTEXT: Map143/events/14/pages/0/194/Dialogue
+> CONTEXT: Map143/events/50/pages/0/194/Dialogue
+> CONTEXT: Map143/events/51/pages/0/194/Dialogue
+> CONTEXT: Map143/events/52/pages/0/194/Dialogue
+> CONTEXT: Map143/events/53/pages/0/194/Dialogue
+But the underground water supply is vast.
+As an opinion of me, search here
+I think it should not give up.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふむ……」
+> CONTEXT: Map148/events/14/pages/0/126/Dialogue
+> CONTEXT: Map148/events/55/pages/0/126/Dialogue
+> CONTEXT: Map148/events/56/pages/0/126/Dialogue
+> CONTEXT: Map148/events/57/pages/0/126/Dialogue
+> CONTEXT: Map148/events/58/pages/0/126/Dialogue
+> CONTEXT: Map143/events/14/pages/0/198/Dialogue
+> CONTEXT: Map143/events/50/pages/0/198/Dialogue
+> CONTEXT: Map143/events/51/pages/0/198/Dialogue
+> CONTEXT: Map143/events/52/pages/0/198/Dialogue
+> CONTEXT: Map143/events/53/pages/0/198/Dialogue
+> CONTEXT: Map083/events/5/pages/1/106/Dialogue
+\\N[12]. 「HM……」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ともあれ、あたしが協力できるのは
+ここまでかな。さすがに、兵士がいるとなると
+いろいろマズイねぇ」
+> CONTEXT: Map148/events/14/pages/0/129/Dialogue
+> CONTEXT: Map148/events/55/pages/0/129/Dialogue
+> CONTEXT: Map148/events/56/pages/0/129/Dialogue
+> CONTEXT: Map148/events/57/pages/0/129/Dialogue
+> CONTEXT: Map148/events/58/pages/0/129/Dialogue
+velvet. 「Anyway, what I can cooperate with
+Is it so far? As expected, when there are
+soldiers. Masui: Hey」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あんたまで他の三人みたく捕まったらヤバいしな。
+これ以上負担はかけたくないし、
+ここからは俺ひとりで行くよ」
+> CONTEXT: Map148/events/14/pages/0/134/Dialogue
+> CONTEXT: Map148/events/55/pages/0/134/Dialogue
+> CONTEXT: Map148/events/56/pages/0/134/Dialogue
+> CONTEXT: Map148/events/57/pages/0/134/Dialogue
+> CONTEXT: Map148/events/58/pages/0/134/Dialogue
+\\N[12]. 「You do not want to be caught if you catch
+other three people up to you. I do not want to put any more
+burden, From here I am going alone」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「悪いね、最後まで協力したかったんだけど」
+> CONTEXT: Map148/events/14/pages/0/139/Dialogue
+> CONTEXT: Map148/events/55/pages/0/139/Dialogue
+> CONTEXT: Map148/events/56/pages/0/139/Dialogue
+> CONTEXT: Map148/events/57/pages/0/139/Dialogue
+> CONTEXT: Map148/events/58/pages/0/139/Dialogue
+> CONTEXT: Map143/events/14/pages/0/216/Dialogue
+> CONTEXT: Map143/events/50/pages/0/216/Dialogue
+> CONTEXT: Map143/events/51/pages/0/216/Dialogue
+> CONTEXT: Map143/events/52/pages/0/216/Dialogue
+> CONTEXT: Map143/events/53/pages/0/216/Dialogue
+velvet. 「It's bad, I wanted to cooperate until
+the end」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、道を示してくれただけで充分すぎる。
+助かったよ、ありがとなベルベット」
+> CONTEXT: Map148/events/14/pages/0/142/Dialogue
+> CONTEXT: Map148/events/55/pages/0/142/Dialogue
+> CONTEXT: Map148/events/56/pages/0/142/Dialogue
+> CONTEXT: Map148/events/57/pages/0/142/Dialogue
+> CONTEXT: Map148/events/58/pages/0/142/Dialogue
+\\N[12]. 「No, just showing me the way is enough.
+I was saved, thanks for the velvet」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ふっ、あんたが試練を乗り越えられるよう祈ってるよ。
+あたしは、あんたがあの三人を助けてくれるのを
+またウィギスで待っているとするさ」
+> CONTEXT: Map148/events/14/pages/0/146/Dialogue
+> CONTEXT: Map148/events/55/pages/0/146/Dialogue
+> CONTEXT: Map148/events/56/pages/0/146/Dialogue
+> CONTEXT: Map148/events/57/pages/0/146/Dialogue
+> CONTEXT: Map148/events/58/pages/0/146/Dialogue
+velvet. 「Huh, I pray that you can overcome the
+challenge. I will show you that you will help
+those three. Also suppose you are waiting at
+Wigheis」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベットは去っていった――
+> CONTEXT: Map148/events/14/pages/0/152/Dialogue
+> CONTEXT: Map148/events/55/pages/0/152/Dialogue
+> CONTEXT: Map148/events/56/pages/0/152/Dialogue
+> CONTEXT: Map148/events/57/pages/0/152/Dialogue
+> CONTEXT: Map148/events/58/pages/0/152/Dialogue
+Velvet went away -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ここからは自分の力だけで
+道を切り開いていかないとな。
+まず、この部屋を少し探索してみるか」
+> CONTEXT: Map148/events/14/pages/0/157/Dialogue
+> CONTEXT: Map148/events/55/pages/0/157/Dialogue
+> CONTEXT: Map148/events/56/pages/0/157/Dialogue
+> CONTEXT: Map148/events/57/pages/0/157/Dialogue
+> CONTEXT: Map148/events/58/pages/0/157/Dialogue
+\\N[12]. 「From here it's just my own power
+I have to cut through the way. First I will explore this
+room a bit」#MTLed
+> END STRING
+
+> BEGIN STRING
+カームバングル＋を手に入れた！
+> CONTEXT: Map148/events/49/pages/0/9/Dialogue
+> CONTEXT: Map143/events/49/pages/0/9/Dialogue
+I got a Karm Bangle +!#MTLed
+> END STRING

@@ -1,0 +1,23 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+おばさん
+「この村もエルミア王国の一部だけれど――
+北に行けばすぐ隣国のリコシアさ。
+武道大会の時期は人の出入りが激しいね」
+> CONTEXT: Map086/events/2/pages/0/0/Dialogue
+Aunt. 「This village is also part of the Elmia
+kingdom -. If you go north, it is Licosa in the
+neighboring country. People are entering and
+exiting at the time of martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「この村の主要産業は工芸品と酪農なの。
+どちらも王都はもちろん、山向こうのリコシア王国にも
+輸出しているのよ」
+> CONTEXT: Map086/events/3/pages/0/0/Dialogue
+Woman. 「The main industry in this village is craft and
+dairy. Both of the kingdom as well as the Licosa kingdom
+over the mountain. I am exporting it」#MTLed
+> END STRING

@@ -1,0 +1,85 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+戦士
+> CONTEXT: Classes/1/name/
+Soldier#lvl1
+> END STRING
+
+> BEGIN STRING
+モンク
+> CONTEXT: Classes/2/name/
+Monk#lvl1
+> END STRING
+
+> BEGIN STRING
+騎士
+> CONTEXT: Classes/3/name/
+Paladin#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法剣士
+> CONTEXT: Classes/4/name/
+Spellblade#lvl1
+> END STRING
+
+> BEGIN STRING
+サムライ
+> CONTEXT: Classes/5/name/
+Samurai#lvl1
+> END STRING
+
+> BEGIN STRING
+アーチャー
+> CONTEXT: Classes/6/name/
+Archer#lvl1
+> END STRING
+
+> BEGIN STRING
+シーフ
+> CONTEXT: Classes/7/name/
+Thief#lvl1
+> END STRING
+
+> BEGIN STRING
+僧侶
+> CONTEXT: Classes/8/name/
+Priestess#lvl1
+> END STRING
+
+> BEGIN STRING
+魔道士
+> CONTEXT: Classes/9/name/
+Witch#lvl1
+> END STRING
+
+> BEGIN STRING
+賢者
+> CONTEXT: Classes/10/name/
+Sage#lvl1
+> END STRING
+
+> BEGIN STRING
+村の若者
+> CONTEXT: Classes/12/name/
+> CONTEXT: Classes/17/name/
+Village youth#MTLed
+> END STRING
+
+> BEGIN STRING
+少女剣士
+> CONTEXT: Classes/13/name/
+Girl Swordsman#MTLed
+> END STRING
+
+> BEGIN STRING
+ウェイトレス
+> CONTEXT: Classes/14/name/
+Waitress#MTLed
+> END STRING
+
+> BEGIN STRING
+女剣士
+> CONTEXT: Classes/15/name/
+Female swordsman#MTLed
+> END STRING

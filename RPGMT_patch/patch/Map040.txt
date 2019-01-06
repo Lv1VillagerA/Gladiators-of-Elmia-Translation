@@ -1,0 +1,318 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+兵士独身寮
+> CONTEXT: Map040/display_name/
+Soldier single dorm#MTLed
+> END STRING
+
+> BEGIN STRING
+寮母さん
+「いらっしゃい、兵士の誰かに面会かい？
+一階が男子寮、二階が女子寮だよ」
+> CONTEXT: Map040/events/1/pages/0/0/Dialogue
+> CONTEXT: Map040/events/1/pages/2/0/Dialogue
+> CONTEXT: Map040/events/1/pages/3/0/Dialogue
+Dorm Hall Mother. 「Welcome, do you meet someone from a
+soldier? Male dormitory on the first floor and female
+dormitory on the second floor」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ギルドへの依頼を見て来たんですが、
+ラナさんという方はいらっしゃいますか？」
+> CONTEXT: Map040/events/1/pages/0/5/Dialogue
+\\N[12]. 「I saw the request to the guild,
+Do you have a person called Rana-san?」#MTLed
+> END STRING
+
+> BEGIN STRING
+寮母
+「ああ、ラナちゃんに用なのかい？
+なら、左にずっと行ってみなさい。
+階段の前に立ってる子がそうだから」
+> CONTEXT: Map040/events/1/pages/0/9/Dialogue
+Dormitory. 「Oh, is it for Rana-chan? Then, go to the left
+forever. Because the child standing in front of the stairs
+is so」#MTLed
+> END STRING
+
+> BEGIN STRING
+寮母さん
+「ラナちゃんなら階段の前に立ってるよ」
+> CONTEXT: Map040/events/1/pages/1/0/Dialogue
+Dorm Hall Mother. 「If Rana - chan you stand in front of
+the stairs」#MTLed
+> END STRING
+
+> BEGIN STRING
+寮母さん
+「ここは寮の食堂兼ロビーだよ。
+食事は寮に入っている人にしか出せないんだ、
+すまないねぇ」
+> CONTEXT: Map040/events/3/pages/0/0/Dialogue
+Dorm Hall Mother. 「This is the dining room and lobby of
+the dormitory. Diet can only be served to people in the
+dormitory, Sorry.」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「ヒラの兵士はやっぱり給料が安いからなあ……
+できればロイヤルガードになりたいよな、
+女王陛下のそばで働けるし」
+> CONTEXT: Map040/events/4/pages/0/0/Dialogue
+A soldier. 「Because the salary of Hira is cheap all after
+all ... I would like to become a royal guard if possible,
+I can work by Her Majesty Queen」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「そうは言うけど、実際大変でしょ。
+ロイヤルガードになるには兵士の月例大会で
+上位に入らなきゃいけないんだし」
+> CONTEXT: Map040/events/5/pages/0/0/Dialogue
+A soldier. 「That's right, but it's really tough.
+To become a royal guard soldier monthly tournament
+You have to enter the top」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「二階は女子寮につき、
+男性の方は立入禁止です」
+> CONTEXT: Map040/events/6/pages/0/0/Dialogue
+> CONTEXT: Map040/events/6/pages/1/0/Dialogue
+> CONTEXT: Map040/events/6/pages/2/0/Dialogue
+> CONTEXT: Map040/events/7/pages/0/0/Dialogue
+> CONTEXT: Map040/events/8/pages/0/0/Dialogue
+A soldier. 「On the second floor is a girls' dorm,
+Men are not trespassing」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「すみません、ギルドへの依頼を見て来たんですが」
+> CONTEXT: Map040/events/6/pages/1/4/Dialogue
+\\N[12]. 「I'm sorry, but I saw the request to the guild」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「あ、もう来てくれたんだ、ありがとね。
+待ってたよー、私が依頼を出したラナだよ」
+> CONTEXT: Map040/events/6/pages/1/7/Dialogue
+A soldier. 「Oh, they have already come, thanks.
+I was waiting, Rana I issued a request」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺は\\N[12]といいます、よろしくお願いします。
+なんでも、練習相手が欲しいとか……？」
+> CONTEXT: Map040/events/6/pages/1/11/Dialogue
+\\N[12]. 「I am \\N[12] You say, thank you.
+Everything you want a practice partner ... ....?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「そうそう、武道大会では兵士は警備や係員をやるんだけど、
+普段は兵士同士での訓練しかしてないから、
+いざというときにちゃんと動けるか不安もあってね。
+> CONTEXT: Map040/events/6/pages/1/15/Dialogue
+Rana. 「Oh yes, in martial arts tournament soldiers do
+security and staff, I usually do training only with
+soldiers, I am worried whether I can move properly in
+emergency.#MTLed
+> END STRING
+
+> BEGIN STRING
+そこで、外部の人と手合わせしたいって思ったわけ。
+ギルドのメンバーならそのあたり、ちょうどいいだろうし
+練習相手にはうってつけだと思ったのよ」
+> CONTEXT: Map040/events/6/pages/1/20/Dialogue
+So I thought that I wanted to meet with an outside person.
+If it is a member of the guild, that will be just right
+I thought it was perfect for practicing partners」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど」
+> CONTEXT: Map040/events/6/pages/1/24/Dialogue
+\\N[12]. 「I see」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ところでキミは武道大会に出るのかな？」
+> CONTEXT: Map040/events/6/pages/1/27/Dialogue
+Rana. 「By the way, will you come out to martial arts
+tournament?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ええ、出場する予定っす」
+> CONTEXT: Map040/events/6/pages/1/30/Dialogue
+\\N[12]. 「Yes, I am planning to participate.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「そうなんだ、それはお互いにとって都合がいいね。
+キミにとっても、いい経験になると思うよ。
+こう見えても兵士トーナメントでは上位だから、私」
+> CONTEXT: Map040/events/6/pages/1/33/Dialogue
+Rana. 「That's right, it is convenient for each other.
+I think it will be a nice experience for you too.
+Even if it seems like this, it is high in the soldier
+tournament, so I」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうなんですか、それは確かに
+俺としてもいい鍛錬になりそうです。
+それで、俺の相手はラナさんだけなんですか？」
+> CONTEXT: Map040/events/6/pages/1/38/Dialogue
+\\N[12]. 「Is that so, it certainly is. It is going to
+be a good training as I can. So, is it my only opponent
+Rana-san?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ううん、私を含めて三人。
+とりあえず2階に行きましょうか、
+残りのメンツも待ってるから」
+> CONTEXT: Map040/events/6/pages/1/43/Dialogue
+Rana. 「No, three people including me. Let's go to the
+second floor for the time being, I will be waiting for the
+remaining members」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「それじゃ、さっそく始めましょうか」
+> CONTEXT: Map040/events/6/pages/1/51/Dialogue
+Rana. 「Well then shall we start」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あの、依頼を見て来たんですが……」
+> CONTEXT: Map040/events/6/pages/2/5/Dialogue
+\\N[12]. 「Well, I've been looking for a request ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「ああ、それはもう他の人に来てもらったからいいわ」
+> CONTEXT: Map040/events/6/pages/2/8/Dialogue
+A soldier. 「Oh, it's OK because someone else has already
+come over.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうでしたか」
+（ちょっと来るのが遅すぎたようだ）
+> CONTEXT: Map040/events/6/pages/2/11/Dialogue
+\\N[12]. 「Was that right?」. (It seems that it was too
+late to come)#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼：『兵士の練習相手』
+は期限が過ぎたため失敗となります。
+依頼票は所持品から消滅します。
+> CONTEXT: Map040/events/6/pages/2/15/Dialogue
+Request: "Soldier practice partner". It will fail because
+the deadline has expired. The request form vanishes from
+belongings.#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士ラナ
+「二階は女子寮につき、
+男性の方は立入禁止よ。
+キミみたいな弱い男には特に入ってほしくないわねぇ」
+> CONTEXT: Map040/events/6/pages/3/0/Dialogue
+> CONTEXT: Map040/events/7/pages/1/0/Dialogue
+> CONTEXT: Map040/events/8/pages/1/0/Dialogue
+Soldier Rana. 「On the second floor is a girls' dorm,
+Men are out of bounds. I do not want you to enter
+especially weak men like you」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「一階の男子寮のほうが部屋数が少ないんだけどね。
+男子用の部屋は城近くの詰め所内にもあるから、
+総合すると男子部屋のほうがちゃんと多いのさ」
+> CONTEXT: Map040/events/9/pages/0/0/Dialogue
+A soldier. 「There are few rooms in the boys' dormitory on
+the first floor. Because the room for boys is also in the
+closet near the castle, Taken together the male room has
+much more」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「できれば女子寮と男子寮を
+完全に分けて欲しいわねぇ……」
+> CONTEXT: Map040/events/10/pages/0/0/Dialogue
+A soldier. 「If possible we can arrange for girls'
+dormitories and men's dormitories. I want you to share it
+completely ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「今は武道大会を控えて忙しい時期だから、
+寮に残っている兵士はあんまりいないよ。
+武道大会が始まったら、僕も開催終了日まで休みなしさ」
+> CONTEXT: Map040/events/11/pages/0/0/Dialogue
+A soldier. 「Because it is a busy time before martial arts
+tournament now, There are not many soldiers remaining in
+the dormitory. When the martial arts tournament begins, I
+will also have no breaks until the end date of the event」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「やれやれ、やっと武道大会が終わって
+ゆっくり休めるよ。
+え？　ロイヤルガード選抜開会？　興味ないね」
+> CONTEXT: Map040/events/11/pages/2/0/Dialogue
+A soldier. 「dear me, finally the martial arts tournament
+is over. I can take a good rest. Huh? Royal guard selection
+opening? I am not interested.」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「キミは武道大会の出場者かい？　いいなぁ。
+兵士やロイヤルガードはスタッフ側にまわるから大会に出られないんだ。
+あの華々しい舞台で戦えるキミたちが、この時期はうらやましくなるよ」
+> CONTEXT: Map040/events/13/pages/0/0/Dialogue
+A soldier. 「Are you a contestant of martial arts
+tournament? Sounds good. Soldiers and royal guards can not
+go to the tournament because they go around to the staff.
+Kimi who can fight on that spectacular stage will be
+envious at this time」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「いよいよロイヤルガード選抜大会の時期がきた。
+勝ち上がればロイヤルガードの仲間入りだ、
+頑張るぞー」
+> CONTEXT: Map040/events/13/pages/1/0/Dialogue
+A soldier. 「royal guard The time for selection tournament
+came. If you win, you are in the rank of royal guard,
+I will do my best.」#MTLed
+> END STRING

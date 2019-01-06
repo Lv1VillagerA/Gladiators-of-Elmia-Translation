@@ -1,0 +1,51 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+レヴァスティの森　西
+> CONTEXT: Map070/display_name/
+Lavasti Forest Nishi#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「レヴァスティの森は広いので、迷わないようご注意を。
+南西部の敵は非常に危険なので、
+腕に自信がないうちは接触を避けたほうがいいですよ」
+> CONTEXT: Map070/events/6/pages/0/0/Dialogue
+A soldier. 「Lavasti's forest is large, so be careful not
+to get lost. Since the southwest enemies are very
+dangerous, You should avoid contact while your arm is not
+confident」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「女の子の姿をしたキノコの魔物が出没することがあります。
+危険な魔物で、男性の犠牲者が毎年出ておりますので
+キノコ狩りの際はご注意ください。
+> CONTEXT: Map070/events/6/pages/1/0/Dialogue
+A soldier. 「A mushroom monster with a girl appearance may
+appear. Because it is a dangerous monster, a male victim
+comes out every year. Please be careful when hunting
+mushrooms.#MTLed
+> END STRING
+
+> BEGIN STRING
+なんでも、キノコの魔物が潜んでいる場所は
+目立つ特徴があるそうですので、
+キノコを調べる前に、よく観察してみてください」
+> CONTEXT: Map070/events/6/pages/1/5/Dialogue
+Anything, where the mushroom monster is hiding
+Because it seems that there are distinctive features,
+Please take a closer look before studying mushrooms」#MTLed
+> END STRING
+
+> BEGIN STRING
+ここより南は危険な魔物が多数生息しています。
+腕に自信のない方は、魔物と遭遇した場合
+逃げることを心がけてください。
+――エルミア王国軍
+> CONTEXT: Map070/events/40/pages/0/0/Dialogue
+A lot of dangerous monsters live in the south from here.
+If you are not confident in your arm, if you encounter a
+monster. Please try to escape. - Kingdom of Elmia#MTLed
+> END STRING

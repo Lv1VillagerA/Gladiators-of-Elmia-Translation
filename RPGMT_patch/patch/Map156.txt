@@ -1,0 +1,212 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+魔物の体内
+> CONTEXT: Map156/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「どうかしら、今日も元気にしてる？」
+> CONTEXT: Map156/events/1/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、うぅ……
+お願いだ、人間界に帰してくれ……」
+> CONTEXT: Map156/events/1/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「ふふっ、ダメに決まってるじゃない。
+あなたのような精力旺盛な人間の男を
+せっかく捕らえたのに、逃がすわけがないわ。
+> CONTEXT: Map156/events/1/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さあ、今日も私を見ながらオナニーなさい。
+そして、この魔法生物に精気を与えるのよ」
+> CONTEXT: Map156/events/1/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「い、いやだ……」
+> CONTEXT: Map156/events/1/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「逆らうなら、こうしてあげるわ」
+> CONTEXT: Map156/events/1/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐあぁっ……」
+> CONTEXT: Map156/events/1/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「私に従わないのなら、延々と苦痛を与え続けてあげる。
+さっさとオナニーすれば快楽を味わえるんだから、
+素直に従いなさい」
+> CONTEXT: Map156/events/1/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わ、わかった……」
+> CONTEXT: Map156/events/1/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]は、可憐なデビルウィッチを見上げながら
+オナニーを始める。
+> CONTEXT: Map156/events/1/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「そうそう。
+この私を見上げながらオナニーできるんだから、
+素直に喜んでシコシコすればいいのよ。
+> CONTEXT: Map156/events/1/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふふっ、それにしても男のオナニーって本当に無様ね。
+女の魅力に興奮させられて、
+必死に性器を擦って快楽を求めて……
+惨めこの上ない姿だわ」
+> CONTEXT: Map156/events/1/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ、くそっ……
+はぁ、はぁっ……」
+> CONTEXT: Map156/events/1/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「ほらほら、頑張りなさい。
+いっぱい出せば褒めてあげるし、
+もしかしたら私の体に触れさせてあげるかもしれないわよ？」
+> CONTEXT: Map156/events/1/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え……
+う、うわっ……！」
+> CONTEXT: Map156/events/1/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチの発言にどきりとした\\N[12]は、
+その瞬間、精液を噴射してしまう！
+> CONTEXT: Map156/events/1/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、あっ、あうううぅっ……」
+> CONTEXT: Map156/events/1/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「あらあら、私が体を許すことをほのめかしただけで
+ドキドキしてイっちゃったんだ。
+あはっ、こんな目にあわされてるのに、なんて浅ましいの」
+> CONTEXT: Map156/events/1/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恥辱で顔を真っ赤にする\\N[12]。
+ペニスから飛び出た精液は、
+魔法生物の中に吸収されてゆく。
+> CONTEXT: Map156/events/1/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「ふふっ、この子も喜んでいるみたい。
+いっぱい出してくれてありがと♪
+> CONTEXT: Map156/events/1/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これでまた、この魔法生物も成長する。
+強大な生物兵器に成長すれば、
+私も魔界で権力を得られるというものだわ」
+> CONTEXT: Map156/events/1/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……はぁ、はぁ……」
+> CONTEXT: Map156/events/1/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「気が向いたら、私の脚ぐらいには触らせてあげてもいいわ。
+ご褒美が欲しければ、これからも頑張ってオナニーなさい。
+いいわね？」
+> CONTEXT: Map156/events/1/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]はデビルウィッチによって
+搾精奴隷として飼われ続ける。
+たまに肌に触れさせてもらえることもあったが、それも
+\\N[12]を興奮させて精液を効率よく搾取するためであった。
+> CONTEXT: Map156/events/1/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのうち、デビルウィッチは成長した魔法生物を駆り
+魔界のとある地方を制圧し、
+領地を得て一目置かれる存在となる。
+> CONTEXT: Map156/events/1/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、\\N[12]は魔法生物に精液を与える役目を終えると
+デビルウィッチから放り捨てられ、
+いいように利用された無残な一生を終えたのだった……
+> CONTEXT: Map156/events/1/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING

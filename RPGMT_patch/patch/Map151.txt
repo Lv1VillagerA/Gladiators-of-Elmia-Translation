@@ -1,0 +1,707 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+シーン回想部屋
+> CONTEXT: Map151/display_name/
+Scene recollection room#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「こちらではHシーンの回想を鑑賞することができます。
+キャラクターに話しかけて、見たいシーンを選択してください」
+> CONTEXT: Map151/events/2/pages/0/0/Dialogue
+Maid. 「Here you can appreciate the reminiscence of the H
+scene. Talk to the character and select the scene you want
+to see」#MTLed
+> END STRING
+
+> BEGIN STRING
+CG鑑賞
+> CONTEXT: Map151/events/3/pages/0/0/Choice/0
+> CONTEXT: Map151/events/4/pages/0/0/Choice/0
+> CONTEXT: Map151/events/5/pages/0/0/Choice/0
+> CONTEXT: Map151/events/8/pages/0/0/Choice/0
+> CONTEXT: Map151/events/9/pages/0/0/Choice/0
+> CONTEXT: Map151/events/10/pages/0/0/Choice/0
+> CONTEXT: Map151/events/11/pages/0/0/Choice/0
+> CONTEXT: Map151/events/12/pages/0/0/Choice/0
+> CONTEXT: Map151/events/13/pages/0/0/Choice/0
+> CONTEXT: Map151/events/14/pages/0/0/Choice/0
+> CONTEXT: Map151/events/16/pages/0/0/Choice/0
+> CONTEXT: Map151/events/17/pages/0/0/Choice/0
+> CONTEXT: Map151/events/18/pages/0/0/Choice/0
+CG appreciation#MTLed
+> END STRING
+
+> BEGIN STRING
+シーン回想
+> CONTEXT: Map151/events/3/pages/0/0/Choice/1
+> CONTEXT: Map151/events/4/pages/0/0/Choice/1
+> CONTEXT: Map151/events/5/pages/0/0/Choice/1
+> CONTEXT: Map151/events/8/pages/0/0/Choice/1
+> CONTEXT: Map151/events/9/pages/0/0/Choice/1
+> CONTEXT: Map151/events/10/pages/0/0/Choice/1
+> CONTEXT: Map151/events/11/pages/0/0/Choice/1
+> CONTEXT: Map151/events/12/pages/0/0/Choice/1
+> CONTEXT: Map151/events/13/pages/0/0/Choice/1
+> CONTEXT: Map151/events/14/pages/0/0/Choice/1
+> CONTEXT: Map151/events/16/pages/0/0/Choice/1
+> CONTEXT: Map151/events/17/pages/0/0/Choice/1
+> CONTEXT: Map151/events/18/pages/0/0/Choice/1
+Scene recollection#MTLed
+> END STRING
+
+> BEGIN STRING
+やめる
+> CONTEXT: Map151/events/3/pages/0/0/Choice/2
+> CONTEXT: Map151/events/3/pages/0/4/Choice/3
+> CONTEXT: Map151/events/4/pages/0/0/Choice/2
+> CONTEXT: Map151/events/4/pages/0/4/Choice/1
+> CONTEXT: Map151/events/5/pages/0/0/Choice/2
+> CONTEXT: Map151/events/5/pages/0/4/Choice/1
+> CONTEXT: System/terms/commands/22/
+> CONTEXT: Map151/events/6/pages/0/40/Choice/3
+> CONTEXT: Map151/events/8/pages/0/0/Choice/2
+> CONTEXT: Map151/events/8/pages/0/4/Choice/2
+> CONTEXT: Map151/events/9/pages/0/0/Choice/2
+> CONTEXT: Map153/events/3/pages/0/109/Choice/1
+> CONTEXT: Map151/events/9/pages/0/4/Choice/2
+> CONTEXT: Map151/events/10/pages/0/0/Choice/2
+> CONTEXT: Map151/events/10/pages/0/4/Choice/2
+> CONTEXT: Map151/events/11/pages/0/0/Choice/2
+> CONTEXT: Map151/events/11/pages/0/12/Choice/1
+> CONTEXT: Map151/events/12/pages/0/0/Choice/2
+> CONTEXT: Map151/events/12/pages/0/4/Choice/1
+> CONTEXT: Map151/events/13/pages/0/0/Choice/2
+> CONTEXT: Map151/events/13/pages/0/4/Choice/3
+> CONTEXT: Map151/events/14/pages/0/0/Choice/2
+> CONTEXT: Map151/events/14/pages/0/4/Choice/2
+> CONTEXT: Map151/events/15/pages/0/0/Choice/2
+> CONTEXT: Map151/events/16/pages/0/0/Choice/2
+> CONTEXT: Map151/events/16/pages/0/4/Choice/2
+> CONTEXT: Map151/events/17/pages/0/0/Choice/2
+> CONTEXT: Map151/events/17/pages/0/4/Choice/3
+> CONTEXT: Map153/events/4/pages/0/109/Choice/0
+> CONTEXT: Map151/events/18/pages/0/0/Choice/2
+> CONTEXT: Map151/events/18/pages/0/4/Choice/3
+> CONTEXT: Map153/events/5/pages/0/31/Choice/3
+> CONTEXT: Map149/events/2/pages/0/25/Choice/3
+> CONTEXT: Map149/events/4/pages/0/2/Choice/3
+> CONTEXT: Map149/events/5/pages/0/2/Choice/3
+> CONTEXT: Map149/events/6/pages/0/2/Choice/3
+> CONTEXT: Map149/events/7/pages/0/5/Choice/3
+> CONTEXT: Map149/events/12/pages/0/4/Choice/1
+> CONTEXT: Map149/events/13/pages/0/4/Choice/1
+> CONTEXT: Map149/events/14/pages/0/1/Choice/1
+> CONTEXT: Map149/events/18/pages/0/7/Choice/2
+> CONTEXT: Map153/events/6/pages/0/109/Choice/3
+> CONTEXT: Map149/events/19/pages/0/8/Choice/2
+> CONTEXT: Map147/events/7/pages/1/3/Choice/2
+> CONTEXT: Map149/events/20/pages/0/7/Choice/2
+> CONTEXT: Map149/events/21/pages/0/8/Choice/2
+> CONTEXT: Map149/events/22/pages/0/9/Choice/2
+> CONTEXT: Map149/events/23/pages/0/8/Choice/2
+> CONTEXT: Map149/events/24/pages/0/56/Choice/1
+> CONTEXT: Map149/events/25/pages/0/7/Choice/1
+> CONTEXT: Map149/events/26/pages/0/8/Choice/1
+> CONTEXT: Map149/events/27/pages/0/7/Choice/1
+> CONTEXT: Map153/events/8/pages/0/83/Choice/1
+> CONTEXT: Map149/events/28/pages/0/58/Choice/1
+> CONTEXT: Map149/events/31/pages/0/8/Choice/2
+> CONTEXT: Map149/events/32/pages/0/9/Choice/2
+> CONTEXT: Map141/events/4/pages/0/22/Choice/1
+> CONTEXT: Map153/events/9/pages/0/103/Choice/2
+> CONTEXT: Map149/events/33/pages/0/152/Choice/2
+> CONTEXT: Map153/events/10/pages/0/57/Choice/2
+> CONTEXT: Map149/events/34/pages/0/67/Choice/1
+> CONTEXT: Map141/events/37/pages/0/23/Choice/1
+> CONTEXT: Map153/events/11/pages/0/161/Choice/3
+> CONTEXT: Map153/events/12/pages/0/31/Choice/1
+> CONTEXT: Map153/events/13/pages/0/135/Choice/2
+> CONTEXT: Map153/events/14/pages/0/57/Choice/1
+> CONTEXT: Map153/events/15/pages/0/31/Choice/2
+> CONTEXT: Map153/events/16/pages/0/83/Choice/0
+> CONTEXT: Map153/events/17/pages/0/135/Choice/3
+> CONTEXT: Map153/events/18/pages/0/83/Choice/1
+> CONTEXT: Map094/events/4/pages/2/157/Choice/1
+> CONTEXT: Map094/events/4/pages/5/172/Choice/1
+> CONTEXT: Map152/events/97/pages/3/0/Choice/1
+> CONTEXT: Map152/events/97/pages/4/0/Choice/3
+> CONTEXT: Map152/events/97/pages/5/0/Choice/2
+> CONTEXT: Map152/events/97/pages/6/1/Choice/1
+> CONTEXT: Map152/events/97/pages/7/86/Choice/2
+> CONTEXT: Map152/events/97/pages/8/2/Choice/1
+> CONTEXT: Map078/events/3/pages/0/15/Choice/2
+> CONTEXT: Map066/events/11/pages/1/61/Choice/1
+> CONTEXT: Map066/events/11/pages/2/8/Choice/1
+> CONTEXT: Map064/events/17/pages/0/4/Choice/3
+> CONTEXT: Map064/events/17/pages/0/162/Choice/1
+> CONTEXT: Map064/events/17/pages/0/199/Choice/1
+> CONTEXT: Map064/events/17/pages/0/222/Choice/1
+> CONTEXT: Map057/events/21/pages/0/4/Choice/3
+> CONTEXT: Map036/events/2/pages/1/19/Choice/2
+> CONTEXT: Map036/events/2/pages/3/5/Choice/2
+> CONTEXT: Map036/events/2/pages/4/5/Choice/2
+> CONTEXT: Map050/events/4/pages/2/5/Choice/2
+> CONTEXT: Map037/events/3/pages/3/309/Choice/1
+> CONTEXT: Map035/events/4/pages/0/5/Choice/2
+> CONTEXT: Map036/events/2/pages/5/5/Choice/2
+> CONTEXT: Map036/events/2/pages/6/5/Choice/2
+> CONTEXT: Map050/events/4/pages/2/132/Choice/1
+> CONTEXT: Map036/events/2/pages/7/5/Choice/2
+> CONTEXT: Map036/events/2/pages/8/5/Choice/2
+> CONTEXT: Map050/events/4/pages/4/22/Choice/1
+> CONTEXT: Map035/events/4/pages/2/81/Choice/2
+> CONTEXT: Map036/events/2/pages/9/5/Choice/2
+> CONTEXT: Map035/events/4/pages/3/28/Choice/2
+> CONTEXT: Map035/events/4/pages/5/12/Choice/2
+> CONTEXT: Map050/events/8/pages/1/22/Choice/1
+> CONTEXT: Map035/events/4/pages/7/4/Choice/3
+> CONTEXT: Map034/events/4/pages/0/14/Choice/2
+> CONTEXT: Map034/events/4/pages/1/3/Choice/2
+> CONTEXT: Map034/events/4/pages/2/3/Choice/2
+> CONTEXT: Map034/events/4/pages/3/3/Choice/2
+> CONTEXT: Map035/events/4/pages/8/6/Choice/3
+> CONTEXT: Map034/events/4/pages/4/3/Choice/2
+> CONTEXT: Map034/events/4/pages/5/3/Choice/2
+> CONTEXT: Map034/events/4/pages/6/3/Choice/2
+> CONTEXT: Map034/events/4/pages/7/3/Choice/2
+> CONTEXT: Map035/events/4/pages/8/299/Choice/2
+> CONTEXT: Map023/events/21/pages/0/44/Choice/1
+> CONTEXT: Map023/events/24/pages/0/2/Choice/2
+> CONTEXT: Map026/events/3/pages/2/467/Choice/1
+> CONTEXT: Map023/events/87/pages/0/25/Choice/3
+> CONTEXT: Map023/events/87/pages/0/60/Choice/2
+> CONTEXT: Map008/events/8/pages/0/4/Choice/3
+> CONTEXT: Map008/events/9/pages/0/17/Choice/3
+> CONTEXT: Map008/events/10/pages/0/25/Choice/3
+> CONTEXT: Map008/events/11/pages/0/4/Choice/3
+> CONTEXT: Map008/events/11/pages/0/97/Choice/3
+> CONTEXT: Map008/events/11/pages/0/157/Choice/3
+> CONTEXT: Map008/events/11/pages/0/216/Choice/1
+> CONTEXT: Map008/events/11/pages/0/218/Choice/2
+> CONTEXT: Map008/events/24/pages/0/4/Choice/3
+> CONTEXT: Map008/events/24/pages/0/97/Choice/3
+> CONTEXT: Map008/events/24/pages/0/157/Choice/2
+> CONTEXT: Map008/events/24/pages/0/207/Choice/1
+> CONTEXT: Map008/events/24/pages/0/209/Choice/2
+> CONTEXT: Map008/events/25/pages/0/0/Choice/1
+> CONTEXT: Map149/events/1/pages/0/47/Choice/0
+> CONTEXT: Map149/events/1/pages/0/47/Choice/0
+> CONTEXT: Map149/events/2/pages/0/81/Choice/1
+> CONTEXT: Map149/events/2/pages/0/81/Choice/1
+> CONTEXT: Map149/events/29/pages/0/3/Choice/1
+> CONTEXT: Map149/events/29/pages/0/3/Choice/1
+> CONTEXT: Map149/events/30/pages/0/13/Choice/2
+> CONTEXT: Map149/events/30/pages/0/13/Choice/2
+> CONTEXT: Map149/events/41/pages/0/0/Choice/1
+> CONTEXT: Map149/events/41/pages/0/0/Choice/1
+> CONTEXT: Map149/events/42/pages/0/0/Choice/2
+> CONTEXT: Map149/events/42/pages/0/0/Choice/2
+> CONTEXT: Map149/events/43/pages/0/0/Choice/1
+> CONTEXT: Map149/events/43/pages/0/0/Choice/1
+> CONTEXT: Map149/events/45/pages/0/43/Choice/2
+> CONTEXT: Map149/events/45/pages/0/43/Choice/2
+> CONTEXT: Map149/events/45/pages/0/71/Choice/0
+> CONTEXT: Map149/events/45/pages/0/71/Choice/0
+> CONTEXT: Map149/events/47/pages/0/5/Choice/1
+> CONTEXT: Map149/events/47/pages/0/5/Choice/1
+> CONTEXT: Map147/events/2/pages/19/85/Choice/1
+> CONTEXT: Map147/events/2/pages/19/85/Choice/1
+> CONTEXT: Map152/events/97/pages/1/0/Choice/2
+> CONTEXT: Map152/events/97/pages/1/0/Choice/2
+> CONTEXT: Map152/events/97/pages/2/67/Choice/0
+> CONTEXT: Map152/events/97/pages/2/67/Choice/0
+> CONTEXT: Map152/events/97/pages/9/0/Choice/1
+> CONTEXT: Map152/events/97/pages/9/0/Choice/1
+> CONTEXT: Map065/events/7/pages/1/32/Choice/3
+> CONTEXT: Map065/events/7/pages/1/461/Choice/1
+> CONTEXT: Map065/events/7/pages/1/461/Choice/1
+> CONTEXT: Map065/events/7/pages/1/490/Choice/3
+> CONTEXT: Map065/events/7/pages/1/490/Choice/3
+> CONTEXT: Map065/events/7/pages/1/597/Choice/3
+> CONTEXT: Map065/events/7/pages/1/597/Choice/3
+> CONTEXT: Map065/events/7/pages/1/679/Choice/2
+> CONTEXT: Map065/events/7/pages/1/679/Choice/2
+> CONTEXT: Map065/events/7/pages/1/679/Choice/2
+> CONTEXT: Map065/events/23/pages/1/3/Choice/2
+> CONTEXT: Map065/events/23/pages/1/3/Choice/2
+> CONTEXT: Map034/events/10/pages/0/12/Choice/2
+> CONTEXT: Map034/events/10/pages/0/12/Choice/2
+> CONTEXT: Map008/events/8/pages/0/96/Choice/3
+> CONTEXT: Map008/events/8/pages/0/96/Choice/3
+> CONTEXT: Map008/events/8/pages/0/156/Choice/2
+> CONTEXT: Map008/events/8/pages/0/156/Choice/2
+> CONTEXT: Map008/events/8/pages/0/205/Choice/1
+> CONTEXT: Map008/events/8/pages/0/207/Choice/2
+> CONTEXT: Map008/events/8/pages/0/207/Choice/2
+> CONTEXT: Map008/events/8/pages/0/207/Choice/2
+> CONTEXT: Map008/events/23/pages/0/28/Choice/1
+> CONTEXT: Map008/events/23/pages/0/28/Choice/1
+> CONTEXT: Map008/events/26/pages/0/12/Choice/2
+> CONTEXT: Map008/events/26/pages/0/12/Choice/2
+Cancel#lvl1
+> END STRING
+
+> BEGIN STRING
+バンディットガール・足コキ
+> CONTEXT: Map151/events/3/pages/0/4/Choice/0
+Bandit Girl · foojob#MTLed
+> END STRING
+
+> BEGIN STRING
+盗賊団・逆輪姦（洞窟）
+> CONTEXT: Map151/events/3/pages/0/4/Choice/1
+Thieves group · reverse gangbang (cave)#MTLed
+> END STRING
+
+> BEGIN STRING
+盗賊団・逆輪姦（武道大会）
+> CONTEXT: Map151/events/3/pages/0/4/Choice/2
+Thieves group · reverse gangbang (martial arts tournament)#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット敗北
+> CONTEXT: Map151/events/4/pages/0/4/Choice/0
+bandit teen defeat#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット敗北
+> CONTEXT: Map151/events/5/pages/0/4/Choice/0
+sexy bandit defeat#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ1
+> CONTEXT: Map151/events/6/pages/0/0/Choice/0
+> CONTEXT: Map153/events/6/pages/0/5/Choice/0
+> CONTEXT: Map153/events/11/pages/0/57/Choice/0
+Fucking 1#MTLed
+> CONTEXT: Map153/events/6/pages/0/8/Dialogue
+> CONTEXT: Map153/events/11/pages/0/60/Dialogue
+Fucking 1#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ2
+> CONTEXT: Map151/events/6/pages/0/0/Choice/1
+> CONTEXT: Map153/events/6/pages/0/5/Choice/1
+> CONTEXT: Map153/events/11/pages/0/57/Choice/1
+Fucking 2#MTLed
+> CONTEXT: Map153/events/6/pages/0/14/Dialogue
+> CONTEXT: Map153/events/11/pages/0/66/Dialogue
+Fucking 2#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ3
+> CONTEXT: Map151/events/6/pages/0/0/Choice/2
+> CONTEXT: Map153/events/6/pages/0/5/Choice/2
+> CONTEXT: Map153/events/11/pages/0/57/Choice/2
+Fucking 3#MTLed
+> CONTEXT: Map153/events/6/pages/0/20/Dialogue
+> CONTEXT: Map153/events/11/pages/0/72/Dialogue
+Fucking 3#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ4
+> CONTEXT: Map151/events/6/pages/0/0/Choice/3
+> CONTEXT: Map153/events/6/pages/0/5/Choice/3
+> CONTEXT: Map153/events/11/pages/0/57/Choice/3
+Fucking 4#MTLed
+> CONTEXT: Map153/events/6/pages/0/26/Dialogue
+> CONTEXT: Map153/events/11/pages/0/78/Dialogue
+Fucking 4#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ5
+> CONTEXT: Map151/events/6/pages/0/10/Choice/0
+> CONTEXT: Map153/events/6/pages/0/31/Choice/0
+> CONTEXT: Map153/events/11/pages/0/83/Choice/0
+Fucking 5#MTLed
+> CONTEXT: Map153/events/6/pages/0/34/Dialogue
+> CONTEXT: Map153/events/11/pages/0/86/Dialogue
+Fucking 5#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ6
+> CONTEXT: Map151/events/6/pages/0/10/Choice/1
+> CONTEXT: Map153/events/6/pages/0/31/Choice/1
+> CONTEXT: Map153/events/11/pages/0/83/Choice/1
+Fucking 6#MTLed
+> CONTEXT: Map153/events/6/pages/0/40/Dialogue
+> CONTEXT: Map153/events/11/pages/0/92/Dialogue
+Fucking 6#MTLed
+> END STRING
+
+> BEGIN STRING
+セックス1
+> CONTEXT: Map151/events/6/pages/0/10/Choice/2
+> CONTEXT: Map153/events/6/pages/0/31/Choice/2
+> CONTEXT: Map153/events/10/pages/0/31/Choice/2
+> CONTEXT: Map153/events/11/pages/0/5/Choice/0
+> CONTEXT: Map153/events/13/pages/0/57/Choice/3
+> CONTEXT: Map153/events/16/pages/0/31/Choice/1
+> CONTEXT: Map153/events/17/pages/0/57/Choice/3
+> CONTEXT: Map153/events/18/pages/0/31/Choice/3
+Sex 1#MTLed
+> CONTEXT: Map153/events/6/pages/0/46/Dialogue
+> CONTEXT: Map153/events/10/pages/0/46/Dialogue
+> CONTEXT: Map153/events/11/pages/0/8/Dialogue
+> CONTEXT: Map153/events/13/pages/0/78/Dialogue
+> CONTEXT: Map153/events/16/pages/0/40/Dialogue
+> CONTEXT: Map153/events/17/pages/0/78/Dialogue
+> CONTEXT: Map153/events/18/pages/0/52/Dialogue
+Sex 1#MTLed
+> END STRING
+
+> BEGIN STRING
+セックス2
+> CONTEXT: Map151/events/6/pages/0/10/Choice/3
+> CONTEXT: Map153/events/6/pages/0/31/Choice/3
+> CONTEXT: Map153/events/10/pages/0/31/Choice/3
+> CONTEXT: Map153/events/11/pages/0/5/Choice/1
+> CONTEXT: Map153/events/13/pages/0/83/Choice/0
+> CONTEXT: Map153/events/16/pages/0/31/Choice/2
+> CONTEXT: Map153/events/17/pages/0/83/Choice/0
+> CONTEXT: Map153/events/18/pages/0/57/Choice/0
+Sex 2#MTLed
+> CONTEXT: Map153/events/6/pages/0/52/Dialogue
+> CONTEXT: Map153/events/10/pages/0/52/Dialogue
+> CONTEXT: Map153/events/11/pages/0/14/Dialogue
+> CONTEXT: Map153/events/13/pages/0/86/Dialogue
+> CONTEXT: Map153/events/16/pages/0/46/Dialogue
+> CONTEXT: Map153/events/17/pages/0/86/Dialogue
+> CONTEXT: Map153/events/18/pages/0/60/Dialogue
+Sex 2#MTLed
+> END STRING
+
+> BEGIN STRING
+セックス3
+> CONTEXT: Map151/events/6/pages/0/20/Choice/0
+> CONTEXT: Map153/events/6/pages/0/57/Choice/0
+> CONTEXT: Map153/events/10/pages/0/57/Choice/0
+> CONTEXT: Map153/events/11/pages/0/5/Choice/2
+> CONTEXT: Map153/events/13/pages/0/83/Choice/1
+> CONTEXT: Map153/events/16/pages/0/31/Choice/3
+> CONTEXT: Map153/events/17/pages/0/83/Choice/1
+> CONTEXT: Map153/events/18/pages/0/57/Choice/1
+Sex 3#MTLed
+> CONTEXT: Map153/events/6/pages/0/60/Dialogue
+> CONTEXT: Map153/events/10/pages/0/60/Dialogue
+> CONTEXT: Map153/events/11/pages/0/20/Dialogue
+> CONTEXT: Map153/events/13/pages/0/92/Dialogue
+> CONTEXT: Map153/events/16/pages/0/52/Dialogue
+> CONTEXT: Map153/events/17/pages/0/92/Dialogue
+> CONTEXT: Map153/events/18/pages/0/66/Dialogue
+Sex 3#MTLed
+> END STRING
+
+> BEGIN STRING
+セックス4
+> CONTEXT: Map151/events/6/pages/0/20/Choice/1
+> CONTEXT: Map153/events/6/pages/0/57/Choice/1
+> CONTEXT: Map153/events/11/pages/0/5/Choice/3
+> CONTEXT: Map153/events/13/pages/0/83/Choice/2
+> CONTEXT: Map153/events/16/pages/0/57/Choice/0
+> CONTEXT: Map153/events/17/pages/0/83/Choice/2
+> CONTEXT: Map153/events/18/pages/0/57/Choice/2
+Sex 4#MTLed
+> CONTEXT: Map153/events/6/pages/0/66/Dialogue
+> CONTEXT: Map153/events/11/pages/0/26/Dialogue
+> CONTEXT: Map153/events/13/pages/0/98/Dialogue
+> CONTEXT: Map153/events/16/pages/0/60/Dialogue
+> CONTEXT: Map153/events/17/pages/0/98/Dialogue
+> CONTEXT: Map153/events/18/pages/0/72/Dialogue
+Sex 4#MTLed
+> END STRING
+
+> BEGIN STRING
+スティンクフェイス1
+> CONTEXT: Map151/events/6/pages/0/20/Choice/2
+> CONTEXT: Map153/events/6/pages/0/57/Choice/2
+stinkface 1#MTLed
+> CONTEXT: Map153/events/6/pages/0/72/Dialogue
+stinkface 1#MTLed
+> END STRING
+
+> BEGIN STRING
+スティンクフェイス2
+> CONTEXT: Map151/events/6/pages/0/20/Choice/3
+> CONTEXT: Map153/events/6/pages/0/57/Choice/3
+stinkface 2#MTLed
+> CONTEXT: Map153/events/6/pages/0/78/Dialogue
+stinkface 2#MTLed
+> END STRING
+
+> BEGIN STRING
+スティンクフェイス3
+> CONTEXT: Map151/events/6/pages/0/30/Choice/0
+> CONTEXT: Map153/events/6/pages/0/83/Choice/0
+stinkface 3#MTLed
+> CONTEXT: Map153/events/6/pages/0/86/Dialogue
+stinkface 3#MTLed
+> END STRING
+
+> BEGIN STRING
+スティンクフェイス4
+> CONTEXT: Map151/events/6/pages/0/30/Choice/1
+> CONTEXT: Map153/events/6/pages/0/83/Choice/1
+stinkface 4#MTLed
+> CONTEXT: Map153/events/6/pages/0/92/Dialogue
+stinkface 4#MTLed
+> END STRING
+
+> BEGIN STRING
+カットイン（胸）
+> CONTEXT: Map151/events/6/pages/0/30/Choice/2
+> CONTEXT: Map153/events/6/pages/0/83/Choice/2
+> CONTEXT: Map153/events/11/pages/0/135/Choice/2
+cut-in (chest)#MTLed
+> CONTEXT: Map153/events/6/pages/0/98/Dialogue
+> CONTEXT: Map153/events/11/pages/0/150/Dialogue
+cut-in (chest)#MTLed
+> END STRING
+
+> BEGIN STRING
+カットイン（胸2）
+> CONTEXT: Map151/events/6/pages/0/30/Choice/3
+> CONTEXT: Map153/events/6/pages/0/83/Choice/3
+cut-in (chest 2)#MTLed
+> CONTEXT: Map153/events/6/pages/0/104/Dialogue
+cut-in (chest 2)#MTLed
+> END STRING
+
+> BEGIN STRING
+カットイン（尻）
+> CONTEXT: Map151/events/6/pages/0/40/Choice/0
+> CONTEXT: Map153/events/6/pages/0/109/Choice/0
+> CONTEXT: Map153/events/11/pages/0/161/Choice/0
+cut-in (ass)#MTLed
+> CONTEXT: Map153/events/6/pages/0/112/Dialogue
+> CONTEXT: Map153/events/11/pages/0/164/Dialogue
+cut-in (ass)#MTLed
+> END STRING
+
+> BEGIN STRING
+立ち絵1
+> CONTEXT: Map151/events/6/pages/0/40/Choice/1
+> CONTEXT: Map153/events/3/pages/0/83/Choice/3
+> CONTEXT: Map153/events/4/pages/0/83/Choice/2
+> CONTEXT: Map153/events/6/pages/0/109/Choice/1
+> CONTEXT: Map153/events/8/pages/0/57/Choice/3
+> CONTEXT: Map153/events/9/pages/0/103/Choice/0
+> CONTEXT: Map153/events/13/pages/0/135/Choice/0
+> CONTEXT: Map153/events/14/pages/0/31/Choice/2
+> CONTEXT: Map153/events/15/pages/0/31/Choice/0
+> CONTEXT: Map153/events/16/pages/0/57/Choice/2
+> CONTEXT: Map153/events/17/pages/0/135/Choice/0
+standing picture 1#MTLed
+> CONTEXT: Map153/events/3/pages/0/104/Dialogue
+> CONTEXT: Map153/events/4/pages/0/98/Dialogue
+> CONTEXT: Map153/events/6/pages/0/118/Dialogue
+> CONTEXT: Map153/events/8/pages/0/78/Dialogue
+> CONTEXT: Map153/events/9/pages/0/106/Dialogue
+> CONTEXT: Map153/events/13/pages/0/138/Dialogue
+> CONTEXT: Map153/events/14/pages/0/46/Dialogue
+> CONTEXT: Map153/events/15/pages/0/34/Dialogue
+> CONTEXT: Map153/events/16/pages/0/72/Dialogue
+> CONTEXT: Map153/events/17/pages/0/138/Dialogue
+standing picture 1#MTLed
+> END STRING
+
+> BEGIN STRING
+立ち絵2
+> CONTEXT: Map151/events/6/pages/0/40/Choice/2
+> CONTEXT: Map153/events/3/pages/0/109/Choice/0
+> CONTEXT: Map153/events/4/pages/0/83/Choice/3
+> CONTEXT: Map153/events/6/pages/0/109/Choice/2
+> CONTEXT: Map153/events/8/pages/0/83/Choice/0
+> CONTEXT: Map153/events/9/pages/0/103/Choice/1
+> CONTEXT: Map153/events/13/pages/0/135/Choice/1
+> CONTEXT: Map153/events/14/pages/0/31/Choice/3
+standing picture 2#MTLed
+> CONTEXT: Map153/events/3/pages/0/112/Dialogue
+> CONTEXT: Map153/events/4/pages/0/104/Dialogue
+> CONTEXT: Map153/events/6/pages/0/124/Dialogue
+> CONTEXT: Map153/events/8/pages/0/86/Dialogue
+> CONTEXT: Map153/events/9/pages/0/112/Dialogue
+> CONTEXT: Map153/events/13/pages/0/144/Dialogue
+> CONTEXT: Map153/events/14/pages/0/52/Dialogue
+> CONTEXT: Map153/events/15/pages/0/40/Dialogue
+> CONTEXT: Map153/events/16/pages/0/78/Dialogue
+> CONTEXT: Map153/events/17/pages/0/144/Dialogue
+standing picture 2#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「多人数プレイにつきましては、
+盗賊団の逆輪姦はバンディットガールに、
+年下コンビについてはプリムに話しかければ選択できますよ」
+> CONTEXT: Map151/events/7/pages/0/0/Dialogue
+A maid. 「Regarding multiplayer play, The band gangbang's
+reverse gangbang to Bandit Girl, For younger combination,
+you can choose it if you talk to Purim」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム・手コキ
+> CONTEXT: Map151/events/8/pages/0/4/Choice/0
+Purim · Handjob#MTLed
+> END STRING
+
+> BEGIN STRING
+年下コンビ・踏みつけ＆電気あんま
+> CONTEXT: Map151/events/8/pages/0/4/Choice/1
+Younger Combo · Trampling & Electric Summa#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ・顔面騎乗足コキ
+> CONTEXT: Map151/events/9/pages/0/4/Choice/0
+Diana · Facesitting foojob#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ・シックスナイン
+> CONTEXT: Map151/events/9/pages/0/4/Choice/1
+Diana · 69#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ・顔面騎乗手コキ
+> CONTEXT: Map151/events/10/pages/0/4/Choice/0
+Mileena · Facesitting handjob#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ・セックス
+> CONTEXT: Map151/events/10/pages/0/4/Choice/1
+Mileena · Sex#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール・試合前セックス
+> CONTEXT: Map151/events/11/pages/0/4/Choice/0
+bunny girl · Pre-game sex#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール・敗北時セックス
+> CONTEXT: Map151/events/11/pages/0/4/Choice/1
+bunny girl · When defeated sex#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール・パイズリ１
+> CONTEXT: Map151/events/11/pages/0/4/Choice/2
+bunny girl · Fucking 1#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール・パイズリ２
+> CONTEXT: Map151/events/11/pages/0/12/Choice/0
+bunny girl · Fucking 2#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン・強制オナニー
+> CONTEXT: Map151/events/12/pages/0/4/Choice/0
+Jane · Forced masturbation#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー・手コキ
+> CONTEXT: Map151/events/13/pages/0/4/Choice/0
+Sherry · Handjob#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー・太ももコキ
+> CONTEXT: Map151/events/13/pages/0/4/Choice/1
+Sherry · Thigh Koki#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー・セックス
+> CONTEXT: Map151/events/13/pages/0/4/Choice/2
+Shelley sex#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士・尻コキ
+> CONTEXT: Map151/events/14/pages/0/4/Choice/0
+Female soldier / ass koki#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士三人組・おっぱいプレス
+> CONTEXT: Map151/events/14/pages/0/4/Choice/1
+Female soldier threesome · boobs press#MTLed
+> END STRING
+
+> BEGIN STRING
+女ロイヤルガード・足コキ（通常）
+> CONTEXT: Map151/events/15/pages/0/0/Choice/0
+Woman royal guard · foojob (usually)#MTLed
+> END STRING
+
+> BEGIN STRING
+女ロイヤルガード・足コキ（裸）
+> CONTEXT: Map151/events/15/pages/0/0/Choice/1
+Woman royal guard · foojob (naked)#MTLed
+> END STRING
+
+> BEGIN STRING
+ルフティナ・セックス
+> CONTEXT: Map151/events/16/pages/0/4/Choice/0
+Luftina · Sex#MTLed
+> END STRING
+
+> BEGIN STRING
+ルフティナ・お尻ペンペン
+> CONTEXT: Map151/events/16/pages/0/4/Choice/1
+Luftina · Buttocks#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ・足コキ
+> CONTEXT: Map151/events/17/pages/0/4/Choice/0
+Alumina · foojob#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ・椅子
+> CONTEXT: Map151/events/17/pages/0/4/Choice/1
+Alumina · chair#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ・セックス
+> CONTEXT: Map151/events/17/pages/0/4/Choice/2
+Alumina · Sex#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス・キス手コキ
+> CONTEXT: Map151/events/18/pages/0/4/Choice/0
+Succubus · Kiss Handjob#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス・騎乗位
+> CONTEXT: Map151/events/18/pages/0/4/Choice/1
+Succubus / cowgirl#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス・騎乗位（二度目）
+> CONTEXT: Map151/events/18/pages/0/4/Choice/2
+Succubus · Woman on top posture (second time)#MTLed
+> END STRING

@@ -1,0 +1,818 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+どこかで橋がかかったようだ。
+> CONTEXT: Map128/events/2/pages/0/4/Dialogue
+> CONTEXT: Map127/events/2/pages/0/4/Dialogue
+It seems that there was a bridge somewhere.#MTLed
+> END STRING
+
+> BEGIN STRING
+大技力薬を手に入れた！
+> CONTEXT: Map128/events/3/pages/0/9/Dialogue
+I got a great skill medicine medicine!#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビル
+「ふっ、愚かな。
+人間の剣ごときで、魔族の魔法に対抗できるとでも
+思ったか？」
+> CONTEXT: Map128/events/6/pages/2/16/Dialogue
+> CONTEXT: Map115/events/2/pages/0/16/Dialogue
+> CONTEXT: Map116/events/5/pages/0/16/Dialogue
+> CONTEXT: Map116/events/6/pages/0/16/Dialogue
+> CONTEXT: Map116/events/10/pages/0/16/Dialogue
+> CONTEXT: Map097/events/18/pages/2/16/Dialogue
+> CONTEXT: Map097/events/20/pages/2/16/Dialogue
+> CONTEXT: Map097/events/21/pages/2/16/Dialogue
+> CONTEXT: Map097/events/22/pages/2/16/Dialogue
+> CONTEXT: Map097/events/23/pages/2/16/Dialogue
+> CONTEXT: Map075/events/23/pages/2/16/Dialogue
+> CONTEXT: Map075/events/25/pages/2/16/Dialogue
+> CONTEXT: Map075/events/26/pages/2/16/Dialogue
+> CONTEXT: Map075/events/30/pages/2/16/Dialogue
+lesser devil. 「Fu, stupid. Even though you can compete
+with the magic of the demon, like a human sword
+Did you think that?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あぐっ！」
+> CONTEXT: Map128/events/6/pages/2/22/Dialogue
+> CONTEXT: Map115/events/2/pages/0/22/Dialogue
+> CONTEXT: Map116/events/5/pages/0/22/Dialogue
+> CONTEXT: Map116/events/6/pages/0/22/Dialogue
+> CONTEXT: Map116/events/10/pages/0/22/Dialogue
+> CONTEXT: Map097/events/18/pages/2/22/Dialogue
+> CONTEXT: Map097/events/20/pages/2/22/Dialogue
+> CONTEXT: Map097/events/21/pages/2/22/Dialogue
+> CONTEXT: Map097/events/22/pages/2/22/Dialogue
+> CONTEXT: Map097/events/23/pages/2/22/Dialogue
+> CONTEXT: Map075/events/23/pages/2/22/Dialogue
+> CONTEXT: Map075/events/25/pages/2/22/Dialogue
+> CONTEXT: Map075/events/26/pages/2/22/Dialogue
+> CONTEXT: Map075/events/30/pages/2/22/Dialogue
+> CONTEXT: Map149/events/38/pages/0/163/Dialogue
+> CONTEXT: Map149/events/38/pages/1/108/Dialogue
+> CONTEXT: Map149/events/38/pages/2/90/Dialogue
+> CONTEXT: Map095/events/7/pages/2/1/Dialogue
+> CONTEXT: Map025/events/267/pages/0/209/Dialogue
+> CONTEXT: Map025/events/267/pages/1/137/Dialogue
+> CONTEXT: Map025/events/267/pages/2/120/Dialogue
+\\N[12]. 「Thanks!」#MTLed
+> CONTEXT: Commonevents/183/72/Dialogue
+> CONTEXT: Commonevents/243/82/Dialogue
+\\N[12]. 「Thanks!」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビル
+「人間の分際で我に歯向かったこと、
+後悔するがいい。
+> CONTEXT: Map128/events/6/pages/2/25/Dialogue
+> CONTEXT: Map116/events/5/pages/0/25/Dialogue
+> CONTEXT: Map115/events/2/pages/0/25/Dialogue
+> CONTEXT: Map116/events/6/pages/0/25/Dialogue
+> CONTEXT: Map116/events/10/pages/0/25/Dialogue
+> CONTEXT: Map097/events/18/pages/2/25/Dialogue
+> CONTEXT: Map097/events/20/pages/2/25/Dialogue
+> CONTEXT: Map097/events/21/pages/2/25/Dialogue
+> CONTEXT: Map097/events/22/pages/2/25/Dialogue
+> CONTEXT: Map097/events/23/pages/2/25/Dialogue
+> CONTEXT: Map075/events/23/pages/2/25/Dialogue
+> CONTEXT: Map075/events/25/pages/2/25/Dialogue
+> CONTEXT: Map075/events/26/pages/2/25/Dialogue
+> CONTEXT: Map075/events/30/pages/2/25/Dialogue
+lesser devil. 「What I was facing to myself with human
+circumstances, You should regret it.#MTLed
+> END STRING
+
+> BEGIN STRING
+敗北イベントを見ますか？
+> CONTEXT: Map128/events/6/pages/2/29/Dialogue
+> CONTEXT: Map115/events/2/pages/0/29/Dialogue
+> CONTEXT: Map116/events/5/pages/0/29/Dialogue
+> CONTEXT: Map116/events/6/pages/0/29/Dialogue
+> CONTEXT: Map116/events/10/pages/0/29/Dialogue
+> CONTEXT: Map097/events/18/pages/2/29/Dialogue
+> CONTEXT: Map097/events/20/pages/2/29/Dialogue
+> CONTEXT: Map097/events/21/pages/2/29/Dialogue
+> CONTEXT: Map097/events/22/pages/2/29/Dialogue
+> CONTEXT: Map097/events/23/pages/2/29/Dialogue
+> CONTEXT: Map075/events/23/pages/2/29/Dialogue
+> CONTEXT: Map075/events/25/pages/2/29/Dialogue
+> CONTEXT: Map075/events/26/pages/2/29/Dialogue
+> CONTEXT: Map075/events/30/pages/2/29/Dialogue
+Do you see the defeat event?#MTLed
+> END STRING
+
+> BEGIN STRING
+さて、このままただ殺すのも芸がない。
+ひとつ、面白い魔法をかけてやろうか」
+> CONTEXT: Map128/events/6/pages/2/38/Dialogue
+> CONTEXT: Map115/events/2/pages/0/38/Dialogue
+> CONTEXT: Map116/events/5/pages/0/38/Dialogue
+> CONTEXT: Map116/events/6/pages/0/38/Dialogue
+> CONTEXT: Map116/events/10/pages/0/38/Dialogue
+> CONTEXT: Map097/events/18/pages/2/38/Dialogue
+> CONTEXT: Map097/events/20/pages/2/38/Dialogue
+> CONTEXT: Map097/events/21/pages/2/38/Dialogue
+> CONTEXT: Map097/events/22/pages/2/38/Dialogue
+> CONTEXT: Map097/events/23/pages/2/38/Dialogue
+> CONTEXT: Map075/events/23/pages/2/38/Dialogue
+> CONTEXT: Map075/events/25/pages/2/38/Dialogue
+> CONTEXT: Map075/events/26/pages/2/38/Dialogue
+> CONTEXT: Map075/events/30/pages/2/38/Dialogue
+Well, there is no trick to just kill as it is.
+One thing, can you put an interesting magic」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだ……？
+か、体の自由がきかない……」
+> CONTEXT: Map128/events/6/pages/2/43/Dialogue
+> CONTEXT: Map116/events/5/pages/0/43/Dialogue
+> CONTEXT: Map115/events/2/pages/0/43/Dialogue
+> CONTEXT: Map116/events/6/pages/0/43/Dialogue
+> CONTEXT: Map116/events/10/pages/0/43/Dialogue
+> CONTEXT: Map097/events/18/pages/2/43/Dialogue
+> CONTEXT: Map097/events/20/pages/2/43/Dialogue
+> CONTEXT: Map097/events/21/pages/2/43/Dialogue
+> CONTEXT: Map097/events/22/pages/2/43/Dialogue
+> CONTEXT: Map097/events/23/pages/2/43/Dialogue
+> CONTEXT: Map075/events/23/pages/2/43/Dialogue
+> CONTEXT: Map075/events/25/pages/2/43/Dialogue
+> CONTEXT: Map075/events/26/pages/2/43/Dialogue
+> CONTEXT: Map075/events/30/pages/2/43/Dialogue
+\\N[12]. 「What is it ...? Or, I do not have the freedom
+of the body ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビル
+「さあ、ペニスを引っ張り出せ。
+この私を鑑賞しながら自慰行為をするがいい」
+> CONTEXT: Map128/events/6/pages/2/48/Dialogue
+> CONTEXT: Map115/events/2/pages/0/48/Dialogue
+> CONTEXT: Map116/events/5/pages/0/48/Dialogue
+> CONTEXT: Map116/events/6/pages/0/48/Dialogue
+> CONTEXT: Map116/events/10/pages/0/48/Dialogue
+> CONTEXT: Map097/events/18/pages/2/48/Dialogue
+> CONTEXT: Map097/events/20/pages/2/48/Dialogue
+> CONTEXT: Map097/events/21/pages/2/48/Dialogue
+> CONTEXT: Map097/events/22/pages/2/48/Dialogue
+> CONTEXT: Map097/events/23/pages/2/48/Dialogue
+> CONTEXT: Map075/events/23/pages/2/48/Dialogue
+> CONTEXT: Map075/events/25/pages/2/48/Dialogue
+> CONTEXT: Map075/events/26/pages/2/48/Dialogue
+> CONTEXT: Map075/events/30/pages/2/48/Dialogue
+lesser devil. 「Now, pull out the penis. Do masturbating
+while watching this me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……て、手が、勝手に……！」
+> CONTEXT: Map128/events/6/pages/2/52/Dialogue
+> CONTEXT: Map115/events/2/pages/0/52/Dialogue
+> CONTEXT: Map116/events/5/pages/0/52/Dialogue
+> CONTEXT: Map116/events/6/pages/0/52/Dialogue
+> CONTEXT: Map116/events/10/pages/0/52/Dialogue
+> CONTEXT: Map097/events/18/pages/2/52/Dialogue
+> CONTEXT: Map097/events/20/pages/2/52/Dialogue
+> CONTEXT: Map097/events/21/pages/2/52/Dialogue
+> CONTEXT: Map097/events/22/pages/2/52/Dialogue
+> CONTEXT: Map097/events/23/pages/2/52/Dialogue
+> CONTEXT: Map075/events/23/pages/2/52/Dialogue
+> CONTEXT: Map075/events/25/pages/2/52/Dialogue
+> CONTEXT: Map075/events/26/pages/2/52/Dialogue
+> CONTEXT: Map075/events/30/pages/2/52/Dialogue
+\\N[12]. 「uugh ... ... hands, arbitrarily ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はレッサーデビルの魔法に操られ、
+自分のペニスを激しく擦り上げ、
+オナニーを始めてしまう！
+> CONTEXT: Map128/events/6/pages/2/56/Dialogue
+> CONTEXT: Map116/events/5/pages/0/56/Dialogue
+> CONTEXT: Map115/events/2/pages/0/56/Dialogue
+> CONTEXT: Map116/events/6/pages/0/56/Dialogue
+> CONTEXT: Map116/events/10/pages/0/56/Dialogue
+> CONTEXT: Map097/events/18/pages/2/56/Dialogue
+> CONTEXT: Map097/events/20/pages/2/56/Dialogue
+> CONTEXT: Map097/events/21/pages/2/56/Dialogue
+> CONTEXT: Map097/events/22/pages/2/56/Dialogue
+> CONTEXT: Map097/events/23/pages/2/56/Dialogue
+> CONTEXT: Map075/events/23/pages/2/56/Dialogue
+> CONTEXT: Map075/events/25/pages/2/56/Dialogue
+> CONTEXT: Map075/events/26/pages/2/56/Dialogue
+> CONTEXT: Map075/events/30/pages/2/56/Dialogue
+\\N[12] The magic of lesser devil is manipulated,
+Rubbed his penis violently, I will start masturbating!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああっ……！」
+> CONTEXT: Map128/events/6/pages/2/60/Dialogue
+> CONTEXT: Map116/events/5/pages/0/60/Dialogue
+> CONTEXT: Map115/events/2/pages/0/60/Dialogue
+> CONTEXT: Map116/events/6/pages/0/60/Dialogue
+> CONTEXT: Map116/events/10/pages/0/60/Dialogue
+> CONTEXT: Map097/events/18/pages/2/60/Dialogue
+> CONTEXT: Map097/events/20/pages/2/60/Dialogue
+> CONTEXT: Map097/events/21/pages/2/60/Dialogue
+> CONTEXT: Map097/events/22/pages/2/60/Dialogue
+> CONTEXT: Map097/events/23/pages/2/60/Dialogue
+> CONTEXT: Map075/events/23/pages/2/60/Dialogue
+> CONTEXT: Map075/events/25/pages/2/60/Dialogue
+> CONTEXT: Map075/events/26/pages/2/60/Dialogue
+> CONTEXT: Map075/events/30/pages/2/60/Dialogue
+\\N[12]. 「Oh, AAh ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビル
+「ふ……人間の男が自慰行為をする姿、
+いつ見ても滑稽で無様なものだな」
+> CONTEXT: Map128/events/6/pages/2/63/Dialogue
+> CONTEXT: Map115/events/2/pages/0/63/Dialogue
+> CONTEXT: Map116/events/5/pages/0/63/Dialogue
+> CONTEXT: Map116/events/6/pages/0/63/Dialogue
+> CONTEXT: Map116/events/10/pages/0/63/Dialogue
+> CONTEXT: Map097/events/18/pages/2/63/Dialogue
+> CONTEXT: Map097/events/20/pages/2/63/Dialogue
+> CONTEXT: Map097/events/21/pages/2/63/Dialogue
+> CONTEXT: Map097/events/22/pages/2/63/Dialogue
+> CONTEXT: Map097/events/23/pages/2/63/Dialogue
+> CONTEXT: Map075/events/23/pages/2/63/Dialogue
+> CONTEXT: Map075/events/25/pages/2/63/Dialogue
+> CONTEXT: Map075/events/26/pages/2/63/Dialogue
+> CONTEXT: Map075/events/30/pages/2/63/Dialogue
+lesser devil. 「ふ ...... The way a human man masturbates,
+Whenever you see it, it is comical and unsightly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……！」
+> CONTEXT: Map128/events/6/pages/2/67/Dialogue
+> CONTEXT: Map120/events/17/pages/0/105/Dialogue
+> CONTEXT: Map116/events/5/pages/0/67/Dialogue
+> CONTEXT: Map115/events/2/pages/0/67/Dialogue
+> CONTEXT: Map116/events/6/pages/0/67/Dialogue
+> CONTEXT: Map116/events/10/pages/0/67/Dialogue
+> CONTEXT: Map097/events/18/pages/2/67/Dialogue
+> CONTEXT: Map097/events/20/pages/2/67/Dialogue
+> CONTEXT: Map097/events/21/pages/2/67/Dialogue
+> CONTEXT: Map097/events/22/pages/2/67/Dialogue
+> CONTEXT: Map097/events/23/pages/2/67/Dialogue
+> CONTEXT: Map075/events/23/pages/2/67/Dialogue
+> CONTEXT: Map075/events/25/pages/2/67/Dialogue
+> CONTEXT: Map075/events/26/pages/2/67/Dialogue
+> CONTEXT: Map075/events/30/pages/2/67/Dialogue
+\\N[12]. 「Cut ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビル
+「私に見下ろされながらのオナニー、さぞ屈辱だろう？
+負け犬には似合いの姿だが、
+お前のような男が私たちを退治に来たなどと、お笑いだな」
+> CONTEXT: Map128/events/6/pages/2/70/Dialogue
+> CONTEXT: Map115/events/2/pages/0/70/Dialogue
+> CONTEXT: Map116/events/5/pages/0/70/Dialogue
+> CONTEXT: Map116/events/6/pages/0/70/Dialogue
+> CONTEXT: Map116/events/10/pages/0/70/Dialogue
+> CONTEXT: Map097/events/18/pages/2/70/Dialogue
+> CONTEXT: Map097/events/20/pages/2/70/Dialogue
+> CONTEXT: Map097/events/21/pages/2/70/Dialogue
+> CONTEXT: Map097/events/22/pages/2/70/Dialogue
+> CONTEXT: Map097/events/23/pages/2/70/Dialogue
+> CONTEXT: Map075/events/23/pages/2/70/Dialogue
+> CONTEXT: Map075/events/25/pages/2/70/Dialogue
+> CONTEXT: Map075/events/26/pages/2/70/Dialogue
+> CONTEXT: Map075/events/30/pages/2/70/Dialogue
+lesser devil. 「Masturbation while overlooked by me, is he
+humiliated? It looks good for losers, Comedy that a man
+like you came to get rid of us, etc」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くそっ、いいように言われちまってるけど……
+手が、止められないっ……！
+はぁ、はぁっ……」
+> CONTEXT: Map128/events/6/pages/2/75/Dialogue
+> CONTEXT: Map115/events/2/pages/0/75/Dialogue
+> CONTEXT: Map116/events/5/pages/0/75/Dialogue
+> CONTEXT: Map116/events/6/pages/0/75/Dialogue
+> CONTEXT: Map116/events/10/pages/0/75/Dialogue
+> CONTEXT: Map097/events/18/pages/2/75/Dialogue
+> CONTEXT: Map097/events/20/pages/2/75/Dialogue
+> CONTEXT: Map097/events/21/pages/2/75/Dialogue
+> CONTEXT: Map097/events/22/pages/2/75/Dialogue
+> CONTEXT: Map097/events/23/pages/2/75/Dialogue
+> CONTEXT: Map075/events/23/pages/2/75/Dialogue
+> CONTEXT: Map075/events/25/pages/2/75/Dialogue
+> CONTEXT: Map075/events/26/pages/2/75/Dialogue
+> CONTEXT: Map075/events/30/pages/2/75/Dialogue
+\\N[12]. 「Damn, being told to be nice ... but ...
+My hands can not stop ...! Ah, Ahh ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビル
+「ふっ、息を荒げるほど興奮してしまうとは。
+まあ、魔族の裸を人間ごときが見たらそうなるのが自然だ。
+せいぜい、この私の姿を目に焼き付けながら絶頂するがいい」
+> CONTEXT: Map128/events/6/pages/2/80/Dialogue
+> CONTEXT: Map115/events/2/pages/0/80/Dialogue
+> CONTEXT: Map116/events/5/pages/0/80/Dialogue
+> CONTEXT: Map116/events/6/pages/0/80/Dialogue
+> CONTEXT: Map116/events/10/pages/0/80/Dialogue
+> CONTEXT: Map097/events/18/pages/2/80/Dialogue
+> CONTEXT: Map097/events/20/pages/2/80/Dialogue
+> CONTEXT: Map097/events/21/pages/2/80/Dialogue
+> CONTEXT: Map097/events/22/pages/2/80/Dialogue
+> CONTEXT: Map097/events/23/pages/2/80/Dialogue
+> CONTEXT: Map075/events/23/pages/2/80/Dialogue
+> CONTEXT: Map075/events/25/pages/2/80/Dialogue
+> CONTEXT: Map075/events/26/pages/2/80/Dialogue
+> CONTEXT: Map075/events/30/pages/2/80/Dialogue
+lesser devil. 「Wow, I'm getting excited enough to breathe
+in. Well, it is natural that if you see human nakedness as
+a human being, it will be so. At best, I honestly
+cautiously burn this figure to my eyes」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……あっ、ああああぁぁっ！」
+> CONTEXT: Map128/events/6/pages/2/85/Dialogue
+> CONTEXT: Map115/events/2/pages/0/85/Dialogue
+> CONTEXT: Map116/events/5/pages/0/85/Dialogue
+> CONTEXT: Map116/events/6/pages/0/85/Dialogue
+> CONTEXT: Map116/events/10/pages/0/85/Dialogue
+> CONTEXT: Map097/events/18/pages/2/85/Dialogue
+> CONTEXT: Map097/events/20/pages/2/85/Dialogue
+> CONTEXT: Map097/events/21/pages/2/85/Dialogue
+> CONTEXT: Map097/events/22/pages/2/85/Dialogue
+> CONTEXT: Map097/events/23/pages/2/85/Dialogue
+> CONTEXT: Map075/events/23/pages/2/85/Dialogue
+> CONTEXT: Map075/events/25/pages/2/85/Dialogue
+> CONTEXT: Map075/events/26/pages/2/85/Dialogue
+> CONTEXT: Map075/events/30/pages/2/85/Dialogue
+\\N[12]. 「Ugh ...... あ, Aaaahhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビル
+「ふふ……射精したな。
+この瞬間を待っていた」
+> CONTEXT: Map128/events/6/pages/2/92/Dialogue
+> CONTEXT: Map115/events/2/pages/0/92/Dialogue
+> CONTEXT: Map116/events/5/pages/0/92/Dialogue
+> CONTEXT: Map116/events/6/pages/0/92/Dialogue
+> CONTEXT: Map116/events/10/pages/0/92/Dialogue
+> CONTEXT: Map097/events/18/pages/2/92/Dialogue
+> CONTEXT: Map097/events/20/pages/2/92/Dialogue
+> CONTEXT: Map097/events/21/pages/2/92/Dialogue
+> CONTEXT: Map097/events/22/pages/2/92/Dialogue
+> CONTEXT: Map097/events/23/pages/2/92/Dialogue
+> CONTEXT: Map075/events/23/pages/2/92/Dialogue
+> CONTEXT: Map075/events/25/pages/2/92/Dialogue
+> CONTEXT: Map075/events/26/pages/2/92/Dialogue
+> CONTEXT: Map075/events/30/pages/2/92/Dialogue
+lesser devil. 「Hehe ... ... you ejaculated.
+I was waiting for this moment」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こ、これはっ！」
+> CONTEXT: Map128/events/6/pages/2/98/Dialogue
+> CONTEXT: Map115/events/2/pages/0/98/Dialogue
+> CONTEXT: Map116/events/5/pages/0/98/Dialogue
+> CONTEXT: Map116/events/6/pages/0/98/Dialogue
+> CONTEXT: Map116/events/10/pages/0/98/Dialogue
+> CONTEXT: Map097/events/18/pages/2/98/Dialogue
+> CONTEXT: Map097/events/20/pages/2/98/Dialogue
+> CONTEXT: Map097/events/21/pages/2/98/Dialogue
+> CONTEXT: Map092/events/21/pages/0/195/Dialogue
+> CONTEXT: Map097/events/22/pages/2/98/Dialogue
+> CONTEXT: Map097/events/23/pages/2/98/Dialogue
+> CONTEXT: Map075/events/23/pages/2/98/Dialogue
+> CONTEXT: Map075/events/25/pages/2/98/Dialogue
+> CONTEXT: Map075/events/26/pages/2/98/Dialogue
+> CONTEXT: Map075/events/30/pages/2/98/Dialogue
+\\N[12]. 「Here, this!」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビル
+「絶頂して快楽に浸るとき、
+人間の精神は極めて無防備になるものだ――」
+> CONTEXT: Map128/events/6/pages/2/101/Dialogue
+> CONTEXT: Map115/events/2/pages/0/101/Dialogue
+> CONTEXT: Map116/events/5/pages/0/101/Dialogue
+> CONTEXT: Map116/events/6/pages/0/101/Dialogue
+> CONTEXT: Map116/events/10/pages/0/101/Dialogue
+> CONTEXT: Map097/events/18/pages/2/101/Dialogue
+> CONTEXT: Map097/events/20/pages/2/101/Dialogue
+> CONTEXT: Map097/events/21/pages/2/101/Dialogue
+> CONTEXT: Map097/events/22/pages/2/101/Dialogue
+> CONTEXT: Map097/events/23/pages/2/101/Dialogue
+> CONTEXT: Map075/events/23/pages/2/101/Dialogue
+> CONTEXT: Map075/events/25/pages/2/101/Dialogue
+> CONTEXT: Map075/events/26/pages/2/101/Dialogue
+> CONTEXT: Map075/events/30/pages/2/101/Dialogue
+lesser devil. 「When crowing and soaked in pleasure,
+Human spirit is extremely defenseless -」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あああ……！
+ち、力が、吸い取られる……！」
+> CONTEXT: Map128/events/6/pages/2/105/Dialogue
+> CONTEXT: Map116/events/5/pages/0/105/Dialogue
+> CONTEXT: Map115/events/2/pages/0/105/Dialogue
+> CONTEXT: Map116/events/6/pages/0/105/Dialogue
+> CONTEXT: Map116/events/10/pages/0/105/Dialogue
+> CONTEXT: Map097/events/18/pages/2/105/Dialogue
+> CONTEXT: Map097/events/20/pages/2/105/Dialogue
+> CONTEXT: Map097/events/21/pages/2/105/Dialogue
+> CONTEXT: Map097/events/22/pages/2/105/Dialogue
+> CONTEXT: Map097/events/23/pages/2/105/Dialogue
+> CONTEXT: Map075/events/23/pages/2/105/Dialogue
+> CONTEXT: Map075/events/25/pages/2/105/Dialogue
+> CONTEXT: Map075/events/26/pages/2/105/Dialogue
+> CONTEXT: Map075/events/30/pages/2/105/Dialogue
+\\N[12]. 「Oh, ah ...! Power is sucked off ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビル
+「お前の生命力、すべて吸収してやろう。
+快楽を味わったまま、命を捧げて逝くがいい！」
+> CONTEXT: Map128/events/6/pages/2/109/Dialogue
+> CONTEXT: Map116/events/5/pages/0/109/Dialogue
+> CONTEXT: Map115/events/2/pages/0/109/Dialogue
+> CONTEXT: Map116/events/6/pages/0/109/Dialogue
+> CONTEXT: Map116/events/10/pages/0/109/Dialogue
+> CONTEXT: Map097/events/18/pages/2/109/Dialogue
+> CONTEXT: Map097/events/20/pages/2/109/Dialogue
+> CONTEXT: Map097/events/21/pages/2/109/Dialogue
+> CONTEXT: Map097/events/22/pages/2/109/Dialogue
+> CONTEXT: Map097/events/23/pages/2/109/Dialogue
+> CONTEXT: Map075/events/23/pages/2/109/Dialogue
+> CONTEXT: Map075/events/25/pages/2/109/Dialogue
+> CONTEXT: Map075/events/26/pages/2/109/Dialogue
+> CONTEXT: Map075/events/30/pages/2/109/Dialogue
+lesser devil. 「I will absorb all your life force.
+While tasting the pleasure, dedicate your life and die!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ……そ、そん、な……」
+> CONTEXT: Map128/events/6/pages/2/113/Dialogue
+> CONTEXT: Map115/events/2/pages/0/113/Dialogue
+> CONTEXT: Map116/events/5/pages/0/113/Dialogue
+> CONTEXT: Map116/events/6/pages/0/113/Dialogue
+> CONTEXT: Map116/events/10/pages/0/113/Dialogue
+> CONTEXT: Map097/events/18/pages/2/113/Dialogue
+> CONTEXT: Map097/events/20/pages/2/113/Dialogue
+> CONTEXT: Map097/events/21/pages/2/113/Dialogue
+> CONTEXT: Map097/events/22/pages/2/113/Dialogue
+> CONTEXT: Map097/events/23/pages/2/113/Dialogue
+> CONTEXT: Map075/events/23/pages/2/113/Dialogue
+> CONTEXT: Map075/events/25/pages/2/113/Dialogue
+> CONTEXT: Map075/events/26/pages/2/113/Dialogue
+> CONTEXT: Map075/events/30/pages/2/113/Dialogue
+\\N[12]. 「Oh ... sorry ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は生命力を根こそぎ吸収され、
+血肉までもがあっという間に蒸発し、
+白骨となってしまった――
+> CONTEXT: Map128/events/6/pages/2/124/Dialogue
+> CONTEXT: Map116/events/5/pages/0/124/Dialogue
+> CONTEXT: Map115/events/2/pages/0/124/Dialogue
+> CONTEXT: Map116/events/6/pages/0/124/Dialogue
+> CONTEXT: Map116/events/10/pages/0/124/Dialogue
+> CONTEXT: Map097/events/18/pages/2/124/Dialogue
+> CONTEXT: Map097/events/20/pages/2/124/Dialogue
+> CONTEXT: Map097/events/21/pages/2/124/Dialogue
+> CONTEXT: Map097/events/22/pages/2/124/Dialogue
+> CONTEXT: Map097/events/23/pages/2/124/Dialogue
+> CONTEXT: Map075/events/23/pages/2/124/Dialogue
+> CONTEXT: Map075/events/25/pages/2/124/Dialogue
+> CONTEXT: Map075/events/26/pages/2/124/Dialogue
+> CONTEXT: Map075/events/30/pages/2/124/Dialogue
+\\N[12] He is absorbed up the life force,
+Even the blood meat quickly evaporated, It became a white
+bone -#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビル
+「ふ、なかなか美味だったぞ、人間の男よ。
+お前の命は私の中でエネルギーとして存在し続ける。
+光栄に思うことだな」
+> CONTEXT: Map128/events/6/pages/2/129/Dialogue
+> CONTEXT: Map115/events/2/pages/0/129/Dialogue
+> CONTEXT: Map116/events/5/pages/0/129/Dialogue
+> CONTEXT: Map116/events/6/pages/0/129/Dialogue
+> CONTEXT: Map116/events/10/pages/0/129/Dialogue
+> CONTEXT: Map097/events/18/pages/2/129/Dialogue
+> CONTEXT: Map097/events/20/pages/2/129/Dialogue
+> CONTEXT: Map097/events/21/pages/2/129/Dialogue
+> CONTEXT: Map097/events/22/pages/2/129/Dialogue
+> CONTEXT: Map097/events/23/pages/2/129/Dialogue
+> CONTEXT: Map075/events/23/pages/2/129/Dialogue
+> CONTEXT: Map075/events/25/pages/2/129/Dialogue
+> CONTEXT: Map075/events/26/pages/2/129/Dialogue
+> CONTEXT: Map075/events/30/pages/2/129/Dialogue
+lesser devil. 「Well, it was pretty tasty, human man.
+Your life will continue to exist as energy within me.
+It is an honor.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……………………」
+> CONTEXT: Map128/events/6/pages/2/134/Dialogue
+> CONTEXT: Map115/events/2/pages/0/134/Dialogue
+> CONTEXT: Map116/events/5/pages/0/134/Dialogue
+> CONTEXT: Map116/events/6/pages/0/134/Dialogue
+> CONTEXT: Map116/events/10/pages/0/134/Dialogue
+> CONTEXT: Map097/events/18/pages/2/134/Dialogue
+> CONTEXT: Map097/events/20/pages/2/134/Dialogue
+> CONTEXT: Map097/events/21/pages/2/134/Dialogue
+> CONTEXT: Map097/events/22/pages/2/134/Dialogue
+> CONTEXT: Map097/events/23/pages/2/134/Dialogue
+> CONTEXT: Map075/events/23/pages/2/134/Dialogue
+> CONTEXT: Map075/events/25/pages/2/134/Dialogue
+> CONTEXT: Map075/events/26/pages/2/134/Dialogue
+> CONTEXT: Map075/events/30/pages/2/134/Dialogue
+> CONTEXT: Map018/events/8/pages/0/9/Dialogue
+> CONTEXT: Map018/events/12/pages/0/8/Dialogue
+> CONTEXT: Map018/events/13/pages/0/8/Dialogue
+> CONTEXT: Map018/events/14/pages/0/9/Dialogue
+> CONTEXT: Map008/events/2/pages/1/18/Dialogue
+\\N[12]. 「........................」#MTLed
+> CONTEXT: Commonevents/203/279/Dialogue
+> CONTEXT: Commonevents/249/298/Dialogue
+\\N[12]. 「........................」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビル
+「死ぬ前の最後の快楽、
+下等な人間の男にとっては一生の思い出になっただろう。
+あの世でも私を思い出して自慰をするがいい、ふふふ……♪」
+> CONTEXT: Map128/events/6/pages/2/137/Dialogue
+> CONTEXT: Map115/events/2/pages/0/137/Dialogue
+> CONTEXT: Map116/events/5/pages/0/137/Dialogue
+> CONTEXT: Map116/events/6/pages/0/137/Dialogue
+> CONTEXT: Map116/events/10/pages/0/137/Dialogue
+> CONTEXT: Map097/events/18/pages/2/137/Dialogue
+> CONTEXT: Map097/events/20/pages/2/137/Dialogue
+> CONTEXT: Map097/events/21/pages/2/137/Dialogue
+> CONTEXT: Map097/events/22/pages/2/137/Dialogue
+> CONTEXT: Map097/events/23/pages/2/137/Dialogue
+> CONTEXT: Map075/events/23/pages/2/137/Dialogue
+> CONTEXT: Map075/events/25/pages/2/137/Dialogue
+> CONTEXT: Map075/events/26/pages/2/137/Dialogue
+> CONTEXT: Map075/events/30/pages/2/137/Dialogue
+lesser devil. 「Last pleasure before dying,
+For a lower man, it would have been a lifetime memory.
+Remember me even in the rest of the world, please
+masturbate, hehe ...♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+デス
+「死神に勝負を挑むなんて、無駄なこと……
+あなたの魂は私が貰うわ……」
+> CONTEXT: Map128/events/7/pages/2/17/Dialogue
+> CONTEXT: Map119/events/18/pages/0/17/Dialogue
+> CONTEXT: Map119/events/20/pages/0/17/Dialogue
+> CONTEXT: Map096/events/11/pages/0/17/Dialogue
+> CONTEXT: Map096/events/12/pages/0/17/Dialogue
+> CONTEXT: Map085/events/11/pages/0/17/Dialogue
+> CONTEXT: Map097/events/24/pages/2/17/Dialogue
+> CONTEXT: Map085/events/16/pages/0/17/Dialogue
+> CONTEXT: Map097/events/27/pages/2/17/Dialogue
+> CONTEXT: Map075/events/24/pages/2/17/Dialogue
+> CONTEXT: Map075/events/27/pages/2/17/Dialogue
+> CONTEXT: Map075/events/28/pages/2/17/Dialogue
+death. 「To uselessly challenge the death god ... ....
+I will receive your soul ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……くそ、こんなところでっ……」
+> CONTEXT: Map128/events/7/pages/2/21/Dialogue
+> CONTEXT: Map119/events/18/pages/0/21/Dialogue
+> CONTEXT: Map119/events/20/pages/0/21/Dialogue
+> CONTEXT: Map096/events/11/pages/0/21/Dialogue
+> CONTEXT: Map096/events/12/pages/0/21/Dialogue
+> CONTEXT: Map085/events/11/pages/0/21/Dialogue
+> CONTEXT: Map097/events/24/pages/2/21/Dialogue
+> CONTEXT: Map085/events/16/pages/0/21/Dialogue
+> CONTEXT: Map097/events/27/pages/2/21/Dialogue
+> CONTEXT: Map075/events/24/pages/2/21/Dialogue
+> CONTEXT: Map075/events/27/pages/2/21/Dialogue
+> CONTEXT: Map075/events/28/pages/2/21/Dialogue
+\\N[12]. 「Cum ... ... Damn, this is the place ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+デス
+「生きている肉体は邪魔……
+さあ、魂だけの状態にしてあげる」
+> CONTEXT: Map128/events/7/pages/2/24/Dialogue
+> CONTEXT: Map119/events/18/pages/0/24/Dialogue
+> CONTEXT: Map119/events/20/pages/0/24/Dialogue
+> CONTEXT: Map096/events/11/pages/0/24/Dialogue
+> CONTEXT: Map096/events/12/pages/0/24/Dialogue
+> CONTEXT: Map085/events/11/pages/0/24/Dialogue
+> CONTEXT: Map097/events/24/pages/2/24/Dialogue
+> CONTEXT: Map085/events/16/pages/0/24/Dialogue
+> CONTEXT: Map097/events/27/pages/2/24/Dialogue
+> CONTEXT: Map075/events/24/pages/2/24/Dialogue
+> CONTEXT: Map075/events/27/pages/2/24/Dialogue
+> CONTEXT: Map075/events/28/pages/2/24/Dialogue
+death. 「The living body is disturbing ... ...
+Now, I will make it to my soul only」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「がはっ……」
+> CONTEXT: Map128/events/7/pages/2/30/Dialogue
+> CONTEXT: Map119/events/18/pages/0/30/Dialogue
+> CONTEXT: Map119/events/20/pages/0/30/Dialogue
+> CONTEXT: Map096/events/11/pages/0/30/Dialogue
+> CONTEXT: Map096/events/12/pages/0/30/Dialogue
+> CONTEXT: Map085/events/11/pages/0/30/Dialogue
+> CONTEXT: Map097/events/24/pages/2/30/Dialogue
+> CONTEXT: Map085/events/16/pages/0/30/Dialogue
+> CONTEXT: Map076/events/20/pages/0/14/Dialogue
+> CONTEXT: Map097/events/27/pages/2/30/Dialogue
+> CONTEXT: Map075/events/24/pages/2/30/Dialogue
+> CONTEXT: Map075/events/27/pages/2/30/Dialogue
+> CONTEXT: Map075/events/28/pages/2/30/Dialogue
+\\N[12]. 「Happy ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+デス
+「あっけなかったわね……
+さあ、魂を食べさせて……」
+> CONTEXT: Map128/events/7/pages/2/36/Dialogue
+> CONTEXT: Map119/events/18/pages/0/36/Dialogue
+> CONTEXT: Map119/events/20/pages/0/36/Dialogue
+> CONTEXT: Map096/events/11/pages/0/36/Dialogue
+> CONTEXT: Map096/events/12/pages/0/36/Dialogue
+> CONTEXT: Map085/events/11/pages/0/36/Dialogue
+> CONTEXT: Map097/events/24/pages/2/36/Dialogue
+> CONTEXT: Map085/events/16/pages/0/36/Dialogue
+> CONTEXT: Map097/events/27/pages/2/36/Dialogue
+> CONTEXT: Map075/events/24/pages/2/36/Dialogue
+> CONTEXT: Map075/events/27/pages/2/36/Dialogue
+> CONTEXT: Map075/events/28/pages/2/36/Dialogue
+death. 「I was disappointed ... Now let me eat my soul ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+デス
+「夢と希望に満ち溢れた、元気な魂ね……
+とってもおいしいわ……♪」
+> CONTEXT: Map128/events/7/pages/2/43/Dialogue
+> CONTEXT: Map119/events/18/pages/0/43/Dialogue
+> CONTEXT: Map119/events/20/pages/0/43/Dialogue
+> CONTEXT: Map096/events/11/pages/0/43/Dialogue
+> CONTEXT: Map096/events/12/pages/0/43/Dialogue
+> CONTEXT: Map085/events/11/pages/0/43/Dialogue
+> CONTEXT: Map097/events/24/pages/2/43/Dialogue
+> CONTEXT: Map085/events/16/pages/0/43/Dialogue
+> CONTEXT: Map097/events/27/pages/2/43/Dialogue
+> CONTEXT: Map075/events/24/pages/2/43/Dialogue
+> CONTEXT: Map075/events/27/pages/2/43/Dialogue
+> CONTEXT: Map075/events/28/pages/2/43/Dialogue
+death. 「A cheerful soul full of dreams and hope ... ...
+It is very tasty ...♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（……俺は、死んだのか……
+なんだろう、この女の子に何かを吸い取られている……
+なんだか、無性に心地よくて、力が抜ける……）
+> CONTEXT: Map128/events/7/pages/2/47/Dialogue
+> CONTEXT: Map119/events/18/pages/0/47/Dialogue
+> CONTEXT: Map119/events/20/pages/0/47/Dialogue
+> CONTEXT: Map096/events/11/pages/0/47/Dialogue
+> CONTEXT: Map096/events/12/pages/0/47/Dialogue
+> CONTEXT: Map085/events/11/pages/0/47/Dialogue
+> CONTEXT: Map097/events/24/pages/2/47/Dialogue
+> CONTEXT: Map085/events/16/pages/0/47/Dialogue
+> CONTEXT: Map097/events/27/pages/2/47/Dialogue
+> CONTEXT: Map075/events/24/pages/2/47/Dialogue
+> CONTEXT: Map075/events/27/pages/2/47/Dialogue
+> CONTEXT: Map075/events/28/pages/2/47/Dialogue
+\\N[12]. (... ... I was dead ...? I wonder what this
+girl sucks something ...... Somehow, it is as comfortable
+as mindless, power goes out ... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+デス
+「魂のエネルギーをたっぷりしゃぶり尽くして、
+すべての活力を私のものにしてあげる……
+> CONTEXT: Map128/events/7/pages/2/52/Dialogue
+> CONTEXT: Map119/events/18/pages/0/52/Dialogue
+> CONTEXT: Map119/events/20/pages/0/52/Dialogue
+> CONTEXT: Map096/events/11/pages/0/52/Dialogue
+> CONTEXT: Map096/events/12/pages/0/52/Dialogue
+> CONTEXT: Map085/events/11/pages/0/52/Dialogue
+> CONTEXT: Map097/events/24/pages/2/52/Dialogue
+> CONTEXT: Map085/events/16/pages/0/52/Dialogue
+> CONTEXT: Map097/events/27/pages/2/52/Dialogue
+> CONTEXT: Map075/events/24/pages/2/52/Dialogue
+> CONTEXT: Map075/events/27/pages/2/52/Dialogue
+> CONTEXT: Map075/events/28/pages/2/52/Dialogue
+death. 「Sucking enough of the energy of the soul,
+I will make all the vitality mine ......#MTLed
+> END STRING
+
+> BEGIN STRING
+魂が干からびたら、
+邪神様に届けて魔物に転生させてあげるわ。
+たぶん、千年後ぐらいになるでしょうけれど……
+> CONTEXT: Map128/events/7/pages/2/56/Dialogue
+> CONTEXT: Map119/events/18/pages/0/56/Dialogue
+> CONTEXT: Map119/events/20/pages/0/56/Dialogue
+> CONTEXT: Map096/events/11/pages/0/56/Dialogue
+> CONTEXT: Map096/events/12/pages/0/56/Dialogue
+> CONTEXT: Map085/events/11/pages/0/56/Dialogue
+> CONTEXT: Map097/events/24/pages/2/56/Dialogue
+> CONTEXT: Map085/events/16/pages/0/56/Dialogue
+> CONTEXT: Map097/events/27/pages/2/56/Dialogue
+> CONTEXT: Map075/events/24/pages/2/56/Dialogue
+> CONTEXT: Map075/events/27/pages/2/56/Dialogue
+> CONTEXT: Map075/events/28/pages/2/56/Dialogue
+When the soul drips out, I will deliver it to the evil
+spirit and let him be a reincarnation to the monster.
+Probably, it will be about a thousand years later ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ふふふ……
+それまでは、私のごはんになるのが
+あなたの運命……♪」
+> CONTEXT: Map128/events/7/pages/2/60/Dialogue
+> CONTEXT: Map119/events/18/pages/0/60/Dialogue
+> CONTEXT: Map119/events/20/pages/0/60/Dialogue
+> CONTEXT: Map096/events/11/pages/0/60/Dialogue
+> CONTEXT: Map096/events/12/pages/0/60/Dialogue
+> CONTEXT: Map085/events/11/pages/0/60/Dialogue
+> CONTEXT: Map097/events/24/pages/2/60/Dialogue
+> CONTEXT: Map085/events/16/pages/0/60/Dialogue
+> CONTEXT: Map097/events/27/pages/2/60/Dialogue
+> CONTEXT: Map075/events/24/pages/2/60/Dialogue
+> CONTEXT: Map075/events/27/pages/2/60/Dialogue
+> CONTEXT: Map075/events/28/pages/2/60/Dialogue
+Hehu ... Until then, it was my turn to be rice
+Your fate ...♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は死神の少女に敗北して殺され、
+その魂は彼女の手の中に囚われることとなってしまった……
+> CONTEXT: Map128/events/7/pages/2/64/Dialogue
+> CONTEXT: Map119/events/18/pages/0/64/Dialogue
+> CONTEXT: Map119/events/20/pages/0/64/Dialogue
+> CONTEXT: Map096/events/11/pages/0/64/Dialogue
+> CONTEXT: Map096/events/12/pages/0/64/Dialogue
+> CONTEXT: Map085/events/11/pages/0/64/Dialogue
+> CONTEXT: Map097/events/24/pages/2/64/Dialogue
+> CONTEXT: Map085/events/16/pages/0/64/Dialogue
+> CONTEXT: Map097/events/27/pages/2/64/Dialogue
+> CONTEXT: Map075/events/24/pages/2/64/Dialogue
+> CONTEXT: Map075/events/27/pages/2/64/Dialogue
+> CONTEXT: Map075/events/28/pages/2/64/Dialogue
+In this way, \\N[12] Was defeated by the god of death
+goddess and was killed, That soul has been caught in her
+hand ... ...#MTLed
+> END STRING

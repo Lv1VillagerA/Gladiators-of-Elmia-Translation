@@ -1,0 +1,3117 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+王都エルミア・東区
+> CONTEXT: Map025/display_name/
+Elmia · East District of the Kingdom#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「わたし、剣の訓練するの大好きなの！
+もっと上達したら、武道大会に出たいなあ」
+> CONTEXT: Map025/events/3/pages/0/1/Dialogue
+Purim. 「I love to train the sword!
+I want to go out to martial arts tournament if I
+improve more」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「わたし、剣の訓練するの大好きなの！
+もっと上達したら、武道大会に出たいなあ」
+> CONTEXT: Map025/events/3/pages/0/7/Dialogue
+girl. 「I love to train the sword!
+I want to go out to martial arts tournament if I
+improve more」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「うーん……どうしたらいいんだろ」
+> CONTEXT: Map025/events/3/pages/1/0/Dialogue
+girl. 「Well...what should I do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（何やら悩んでいるようだ、気になるな。
+とはいえ、名前も知らない子に声をかけるのも何だしなあ）
+> CONTEXT: Map025/events/3/pages/1/3/Dialogue
+\\N[12]. (It seems that you are suffering something, do
+not mind. Nonetheless, what is it like to voice a child who
+does not even know his name?#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あ、おにいさん！
+やっぱり勝負してくれる気になった？」
+> CONTEXT: Map025/events/3/pages/2/1/Dialogue
+Purim. 「Oh, a big brother! Did you feel like
+competing after all?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかった、かまわないぜ」
+> CONTEXT: Map025/events/3/pages/2/7/Dialogue
+> CONTEXT: Map025/events/3/pages/2/75/Dialogue
+\\N[12]. 「Okay, I do not mind.」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ホント？　ありがとう、おにいさん！
+それじゃ、そこの公園で
+さっそく勝負しようよ！」
+> CONTEXT: Map025/events/3/pages/2/10/Dialogue
+> CONTEXT: Map025/events/3/pages/2/78/Dialogue
+Purim. 「really? Thank you, brother!
+Well then, in the park there. Let 's compete!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「そっかー、残念。
+気が変わったら、また声をかけてね！」
+> CONTEXT: Map025/events/3/pages/2/19/Dialogue
+> CONTEXT: Map025/events/3/pages/2/86/Dialogue
+Purim. 「Is that so, sorry. If you change your
+mind, please call back again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うーん……どうしたらいいんだろ……」
+> CONTEXT: Map025/events/3/pages/2/30/Dialogue
+Purim. 「Well...what should I do ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（なにやら悩んでいるみたいだ……
+気になるけど、こんな年下の女の子に声をかけるのは
+ちょっとまずいな。親御さんに断ってからじゃないと）
+> CONTEXT: Map025/events/3/pages/2/36/Dialogue
+\\N[12]. (It looks as though you are suffering something
+...... It's worrisome, to tell a young girl like this
+A little bad. You must refuse it to parents)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「悩んでいるみたいだな。どうした？」
+> CONTEXT: Map025/events/3/pages/2/44/Dialogue
+\\N[12]. 「He seems to be suffering. What happened?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「お兄さん、その格好……
+もしかして、武道大会に出る人なの？」
+> CONTEXT: Map025/events/3/pages/2/51/Dialogue
+Purim. 「Older brother, that form of......
+Perhaps you are a martial arts tournament?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、そうだけど」
+> CONTEXT: Map025/events/3/pages/2/55/Dialogue
+\\N[12]. 「Oh, but that's right.」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「それじゃ、お願いがあるの。
+わたしと一回、勝負してくれないかな？」
+> CONTEXT: Map025/events/3/pages/2/58/Dialogue
+Purim. 「Well then, I have a favor to ask.
+Will not you play once with me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、勝負を……？」
+> CONTEXT: Map025/events/3/pages/2/62/Dialogue
+\\N[12]. 「Well, the game ......?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「わたし、武道大会に出たいと思ってるんだけど、
+いつも同い年の子に負けてばかりだから、腕前が分からなくて。
+だから、通用するかどうか確かめさせて欲しいの！」
+> CONTEXT: Map025/events/3/pages/2/65/Dialogue
+Purim. 「I'd like to go out to martial arts
+tournament, I have always lost to a child of the
+same age, so I do not understand my skills.
+So, please do let me ascertain if you can pass as
+well!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（どうしよう？）
+> CONTEXT: Map025/events/3/pages/2/70/Dialogue
+> CONTEXT: Map025/events/3/pages/3/8/Dialogue
+\\N[12]. (What should I do?)#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あ、剣士のおにいさん。
+また、わたしの練習相手になってくれますか？」
+> CONTEXT: Map025/events/3/pages/3/4/Dialogue
+Purim. 「Oh, a swordsmen's aunt.
+Will you also become a practice partner for me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、手合わせしようか」
+> CONTEXT: Map025/events/3/pages/3/13/Dialogue
+\\N[12]. 「Oh, shall we give up?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ホント？　ありがとう、おにいさん！
+よーし、また勝っちゃうよー！」
+> CONTEXT: Map025/events/3/pages/3/17/Dialogue
+Purim. 「really? Thank you, brother!
+Alright, I will win again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさん、ちょっと弱いみたいだけど
+わたしも強くなりたいから、手加減はしないよ。
+また女の子に負けちゃっても、泣かないでね！」
+> CONTEXT: Map025/events/3/pages/3/23/Dialogue
+Purim. 「Older, it looks a bit weak
+I also want to become strong, so I will not do
+anything. Even if I lose to a girl, do not cry!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「そっかー、残念。
+でも、おにいさん弱いし、怪我させたらまずいもんね。
+やる気になったら、また声をかけてね！」
+> CONTEXT: Map025/events/3/pages/3/33/Dialogue
+Purim. 「Is that so, sorry. But, we are weak a
+lot and it will be bad if you let him get hurt.
+If you become motivated, please call back again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うーん、どうしよう……
+こうなったら、武者修行に行ってみようかな。
+でも、お母さんが許してくれないかも……」
+> CONTEXT: Map025/events/3/pages/4/0/Dialogue
+Purim. 「Well, what shall I do ......
+If so, I think I should go to Musha training.
+But maybe my mother forgive me ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+どうする？
+> CONTEXT: Map025/events/3/pages/4/5/Dialogue
+what will you do?#MTLed
+> END STRING
+
+> BEGIN STRING
+武者修行に付き合う
+> CONTEXT: Map025/events/3/pages/4/7/Choice/0
+> CONTEXT: Map025/events/268/pages/0/34/Choice/0
+Attend a martial arts training#MTLed
+> END STRING
+
+> BEGIN STRING
+激励する
+> CONTEXT: Map025/events/3/pages/4/7/Choice/1
+> CONTEXT: Map025/events/268/pages/0/34/Choice/1
+To encourage#MTLed
+> END STRING
+
+> BEGIN STRING
+それでも付き合う
+> CONTEXT: Map025/events/3/pages/4/10/Choice/0
+> CONTEXT: Map025/events/268/pages/0/37/Choice/0
+Still going out#MTLed
+> END STRING
+
+> BEGIN STRING
+やっぱり激励だけしておく
+> CONTEXT: Map025/events/3/pages/4/10/Choice/1
+> CONTEXT: Map025/events/268/pages/0/37/Choice/1
+Just keep it encouraged#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「武者修行に行くっていうんなら、
+よければ俺が付き合おうか？」
+> CONTEXT: Map025/events/3/pages/4/12/Dialogue
+> CONTEXT: Map025/events/268/pages/0/39/Dialogue
+\\N[12]. 「If you go to warrior training,
+Should I go out together if you do not mind?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「え？　い、いいの？
+ホントに？」
+> CONTEXT: Map025/events/3/pages/4/16/Dialogue
+> CONTEXT: Map025/events/268/pages/0/43/Dialogue
+Purim. 「Huh? Good, is not it? Really?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、俺も本番までに実力を高めたいと思っているし、
+魔物退治に出かけてみるのも悪くないだろう」
+> CONTEXT: Map025/events/3/pages/4/20/Dialogue
+> CONTEXT: Map025/events/268/pages/0/47/Dialogue
+\\N[12]. 「Oh, I also want to improve my skills by the
+actual, It is not bad to go out to the monster
+extermination」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「やったぁ、ありがとう！
+でも、どうしてわたしにそこまで
+親身になってくれるの？」
+> CONTEXT: Map025/events/3/pages/4/24/Dialogue
+> CONTEXT: Map025/events/268/pages/0/51/Dialogue
+Purim. 「I did it, thank you! But why to me so far
+Will you become parental?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「キミひとりで武者修行に行かせるのは
+ちょっと心配だからなあ。
+人さらいだっているかもしれないしさ」
+> CONTEXT: Map025/events/3/pages/4/29/Dialogue
+> CONTEXT: Map025/events/268/pages/0/56/Dialogue
+\\N[12]. 「Kimi alone let him go to warrior training
+I wonder a little bit of it. You may even have people」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「ひとりで修行に出るとか言い出したら
+許可はできなかったけれど、
+その剣士さんが一緒なら構わないよ」
+> CONTEXT: Map025/events/3/pages/4/38/Dialogue
+> CONTEXT: Map025/events/268/pages/0/65/Dialogue
+Prim's mother. 「If you say something like going out for
+training by yourself. Although I could not give permission,
+I do not mind if the swordsmen are together」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ホント？　やったぁ！」
+> CONTEXT: Map025/events/3/pages/4/46/Dialogue
+> CONTEXT: Map025/events/268/pages/0/73/Dialogue
+Purim. 「really? I did it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「剣士さん、この子をよろしくお願いね。
+アーロンさんの依頼をこなしたあんたになら
+任せられるよ。
+> CONTEXT: Map025/events/3/pages/4/49/Dialogue
+> CONTEXT: Map025/events/268/pages/0/76/Dialogue
+Prim's mother. 「Swordsman, please take care of this girl.
+If you did Aaron-san's request. I can leave it.#MTLed
+> END STRING
+
+> BEGIN STRING
+おてんばな子だけど、やっぱり女の子だから
+誰か信頼できる大人に
+見ていてやってほしいんだよ」
+> CONTEXT: Map025/events/3/pages/4/54/Dialogue
+She is a tomboy, but she is a girl after all.
+Someone who can trust an adult. I want you to watch it and
+do it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました、責任を持ってお預かりします」
+> CONTEXT: Map025/events/3/pages/4/58/Dialogue
+> CONTEXT: Map025/events/268/pages/0/85/Dialogue
+\\N[12]. 「Okay, I will keep it with responsibility」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「それじゃプリム、
+これを持っていきなさい。
+うちの父さんが残した剣と鎧だよ」
+> CONTEXT: Map025/events/3/pages/4/61/Dialogue
+> CONTEXT: Map025/events/268/pages/0/88/Dialogue
+Prim's mother. 「Then Purim, Take this. It is a sword and
+armor left by our father」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「わあ、ありがとう
+お母さん！」
+> CONTEXT: Map025/events/3/pages/4/66/Dialogue
+> CONTEXT: Map025/events/268/pages/0/93/Dialogue
+Purim. 「Thank you. Mom!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムはカットラスとシルバーキュイラスを装備した！
+> CONTEXT: Map025/events/3/pages/4/72/Dialogue
+> CONTEXT: Map025/events/268/pages/0/99/Dialogue
+Purim was equipped with cutlass and silver cuirasse!#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「ところで剣士さん、武者修行の行き先についてだけれど、
+実は、あたしの身内にアテがあるんだよ。
+> CONTEXT: Map025/events/3/pages/4/75/Dialogue
+> CONTEXT: Map025/events/268/pages/0/102/Dialogue
+Prim's mother. 「By the way, Swordsman, about the
+destination of warrior training, Actually, I have an ate in
+my family.#MTLed
+> END STRING
+
+> BEGIN STRING
+あたしの弟がマルワイク武具店で働いているんだけど、
+防具の素材を探してくれる人を探していたんだ。
+武具店の２階にいるから、
+よければ話を聞きに行ってみてくれないかい？」
+> CONTEXT: Map025/events/3/pages/4/79/Dialogue
+> CONTEXT: Map025/events/268/pages/0/106/Dialogue
+My brother works at Marvaick armor store,
+I was looking for someone to look for armor materials.
+Because it is on the second floor of the armor store,
+Would you please go and ask the story if you do not mind?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、そういう探索なら
+魔物退治などと比べても危険が少なそうですね。
+わかりました、覚えておきます」
+> CONTEXT: Map025/events/3/pages/4/84/Dialogue
+> CONTEXT: Map025/events/268/pages/0/111/Dialogue
+\\N[12]. 「Indeed, if such a search. There seems to be
+less danger than monster extermination etc.
+Okay, I will remember」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「それじゃ、さっそくおじさんのところに
+行ってみようよ！」
+> CONTEXT: Map025/events/3/pages/4/89/Dialogue
+> CONTEXT: Map025/events/268/pages/0/116/Dialogue
+Purim. 「Well then, to the old man right away
+Let's go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムが仲間になった！
+> CONTEXT: Map025/events/268/pages/0/125/Dialogue
+> CONTEXT: Map025/events/3/pages/4/97/Dialogue
+Purim became a friend!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「大会までは期間もあることだし、
+まだ実力を伸ばす余地はいくらでもあるさ。
+お互い勝ち抜いていけるよう、頑張ろう」
+> CONTEXT: Map025/events/268/pages/0/135/Dialogue
+> CONTEXT: Map025/events/268/pages/0/150/Dialogue
+> CONTEXT: Map025/events/3/pages/4/107/Dialogue
+> CONTEXT: Map025/events/3/pages/4/120/Dialogue
+\\N[12]. 「There is a period until tournament,
+There is still plenty of room to extend his ability.
+Let's try our best to win each other」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん、ありがとう。
+また手合わせしてね、おにいさん」
+> CONTEXT: Map025/events/268/pages/0/140/Dialogue
+> CONTEXT: Map025/events/268/pages/0/155/Dialogue
+> CONTEXT: Map025/events/3/pages/4/112/Dialogue
+> CONTEXT: Map025/events/3/pages/4/125/Dialogue
+Purim. 「Yes, thank you. Please also take care of
+me, old man」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あとは武道大会まで
+少しでも強くなれるように頑張らなくちゃ！」
+> CONTEXT: None < UNUSED
+Purim. 「Afterwards to martial arts tournament
+I have to work hard so that I can become strong
+even a bit!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「どうやれば強くなれるか分からないけど、
+武道大会までに
+少しでも強くなれるように頑張らなきゃ……」
+> CONTEXT: Map025/events/3/pages/7/0/Dialogue
+Purim. 「I do not know how to become strong,
+By martial arts tournament. I have to work hard
+so that I can become even stronger ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「落ち込んでなんていられないよね。
+次こそディアーナちゃんに勝てるよう
+がんばらなくちゃ！」
+> CONTEXT: Map025/events/3/pages/9/0/Dialogue
+Purim. 「You can not keep depressed.
+Next time to win Diana-chan. I have to work hard!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「来年はディアーナちゃんに勝てるように、
+もっともっと稽古しなくちゃ！
+がんばるぞー！」
+> CONTEXT: Map025/events/3/pages/10/0/Dialogue
+> CONTEXT: Map025/events/3/pages/13/8/Dialogue
+Purim. 「Next year to win Diana-chan,
+I have to practice! I'll do my best!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あ、おにいさん！
+優勝おめでとう、決勝戦すごかったよー！
+> CONTEXT: Map025/events/3/pages/11/1/Dialogue
+Purim. 「Oh, a big brother! Congratulations on
+winning, the final game was amazing!#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会で優勝しちゃうような人に
+剣を教えてもらってるって、すごいことだよね。
+わたしも、
+おにいさんみたいになれるように頑張る！」
+> CONTEXT: Map025/events/3/pages/11/5/Dialogue
+To those who would win the martial arts
+tournament. It's amazing to hear that the sword
+is taught. me too, I will do my best to be like
+an old man!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「サンキュ、俺が優勝できたのも
+プリムとの冒険があったからこそだと思う。
+お互い、これからも頑張ろうぜ」
+> CONTEXT: Map025/events/3/pages/11/10/Dialogue
+\\N[12]. 「thanks, I was able to win. I think that's
+because of the adventure with Purim. Let's keep on each
+other and from now on」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん！」
+> CONTEXT: Map025/events/3/pages/11/15/Dialogue
+> CONTEXT: Map027/events/26/pages/2/9/Dialogue
+> CONTEXT: Map027/events/26/pages/2/27/Dialogue
+Purim. 「Yup!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（プリムは才能もあるし性格も素直でいい子だ。
+こんな将来が楽しみになるような子は、なかなかいないぜ。
+> CONTEXT: Map025/events/3/pages/11/19/Dialogue
+\\N[12]. (Purim is talented and has a straightforward
+and nice personality. There are not so many children
+looking forward to such a future.#MTLed
+> END STRING
+
+> BEGIN STRING
+そういえば、グランレルム伯爵の依頼……
+養子の条件に、こいつはぴったりハマるなあ。
+伯爵に話をもちかけてみてもいいかもしれないな）
+> CONTEXT: Map025/events/3/pages/11/23/Dialogue
+By the way, Earl Grandrealm's request ...
+I think that this is perfect for the condition of adoption.
+You might as well try talking to the Ear)#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「もっともっと強くならなくちゃ！」
+> CONTEXT: Map025/events/3/pages/12/0/Dialogue
+Purim. 「I have to be strong!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（グランレルム伯爵の依頼に
+こいつは間違いなく最適の答えだ。
+さて、伯爵に話をもちかけるか……？）
+> CONTEXT: Map025/events/3/pages/12/3/Dialogue
+\\N[12]. (To Earl Grandrealm's request. This is
+definitely the best answer. Well, will we talk to the Earl
+... ....? )#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「閉会式見てたよ！
+おにいさんが姫様とけっこんするんでしょ？
+すっごいなあ、おめでとー！」
+> CONTEXT: Map025/events/3/pages/13/1/Dialogue
+Purim. 「I was watching the closing ceremony!
+Does your grandfather marry the princess, do you?
+I am awful, congratulations!」#MTLed
+> END STRING
+
+> BEGIN STRING
+『東エルミア公園』
+と書いてある。
+> CONTEXT: Map025/events/24/pages/0/0/Dialogue
+"East Elmia Park". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「あ、プリムお姉ちゃん！
+また剣のお稽古見せてねー！」
+> CONTEXT: Map025/events/37/pages/1/0/Dialogue
+girl. 「Oh, Purim Onee! Please show me the sword lesson
+again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「プリムお姉ちゃん、来年は貴族の女の子にも
+きっと勝てるよね。
+あんなに頑張っているんだもん」
+> CONTEXT: Map025/events/37/pages/3/0/Dialogue
+girl. 「Purim older sister, next year also to noble girls
+I am sure you can win. I am doing my best so much」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「プリムお姉ちゃん、ほんとうに凄かったなあ。
+平民の女の子でも、あんなに強くなれるんだ……
+わたしも、がんばってみようかな」
+> CONTEXT: Map025/events/37/pages/4/0/Dialogue
+girl. 「Purim older sister, it was truly amazing.
+Even common girls can become so strong ...
+I wonder if I will do my best, too.」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「おっすプリム、
+剣の修行もいいけど、たまには遊ぼうぜー」
+> CONTEXT: Map025/events/38/pages/1/0/Dialogue
+boy. 「Hey Purim, I also like sword training, but
+occasionally I want to play」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「プリムねーちゃん、がんばったよなー
+俺も見習って、来年は武道大会に出ようと思うんだ！」
+> CONTEXT: Map025/events/38/pages/3/0/Dialogue
+boy. 「Purim, No, I did my best. I am going to follow up
+and I think I will go out to martial arts tournament next
+year!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「すぐ右のでっかい建物が闘技場だぜ！
+来月はロイヤルガードを選ぶ大会をやるんだってさ！
+楽しみだよなー！」
+> CONTEXT: Map025/events/39/pages/2/0/Dialogue
+boy. 「The huge building on the right is the stadium!
+Next month I will do tournament to choose royal guard!
+I'm looking forward to it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「ここエルミアは水路の街。
+綺麗な水が街を清涼な空気にしてくれているんですよ」
+> CONTEXT: Map025/events/41/pages/0/0/Dialogue
+Woman. 「Here Elmia is the city of a waterway.
+Clean water makes the city a cool air」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「ここから船を出すことができるぜ。
+用があったら声かけてくれや。
+格安でやるからよ」
+> CONTEXT: Map025/events/42/pages/0/0/Dialogue
+old man. 「You can get a ship from here. Please give me a
+call if there is any. I'll do it cheaply.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「こんにちはー、おじさん！
+舟を出してもらってもいいかな？
+お金はあとでお兄ちゃんが出すから」
+> CONTEXT: Map025/events/42/pages/1/0/Dialogue
+Mileena. 「Hello, old man! Can I have the boat out?
+My money will be given later by my older brother」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「おう、ミリーナちゃんじゃねぇか。
+舟を出したいなんて珍しいな、いったいどこへ行くんだい」
+> CONTEXT: Map025/events/42/pages/1/5/Dialogue
+old man. 「Ou, Mileena-chan, is not it? It is rare to want
+to take a boat, where on earth will you go?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ちょっと向こう岸に鉱石を採りにね」
+> CONTEXT: Map025/events/42/pages/1/9/Dialogue
+Mileena. 「Just take a mineral ore on the other side」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「む、向こう岸だって？
+うーん、ちょっと危険じゃあねぇか？」
+> CONTEXT: Map025/events/42/pages/1/14/Dialogue
+old man. 「Mum, is that the other side? Well, is not it a
+little dangerous?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「へーきへーき、彼に一緒に来てもらうから」
+> CONTEXT: Map025/events/42/pages/1/18/Dialogue
+Mileena. 「Because I will have him come with me」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「一緒にって……お？
+誰かと思えば、ミリーナちゃんを負かした剣士さんか。
+なるほど、ボディガードとしちゃ最高だなあ」
+> CONTEXT: Map025/events/42/pages/1/21/Dialogue
+old man. 「Together.......? If you think that someone is
+a sword fighter who beat Mileena-chan. Well, I guess that
+is the best for bodyguards.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そういうこと。
+心配しなくて大丈夫だから、よろしくね、おじさん」
+> CONTEXT: Map025/events/42/pages/1/26/Dialogue
+Mileena. 「Such thing. Do not worry it's okay, thanks, old
+man」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「わかった。
+それじゃ、準備ができたら改めて話しかけてくれや」
+> CONTEXT: Map025/events/42/pages/1/30/Dialogue
+old man. 「all right. Well then, once you're ready, talk to
+me again」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（うーん、武道大会って本当に大きなイベントなんだな。
+初めて会う人が、俺のことをこんなに
+信用してくれるとは……）
+> CONTEXT: Map025/events/42/pages/1/34/Dialogue
+\\N[12]. (Well, martial arts tournament is a really big
+event. The person I meet for the first time,
+To trust you......)#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「荒野まで舟を出すかい？」
+> CONTEXT: Map025/events/42/pages/2/0/Dialogue
+old man. 「Will you bring your boat to the wilderness?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（そうだ、この漁師さんに頼んでみるか）
+「なあ、おじさん。ちょっといいかい？」
+> CONTEXT: Map025/events/42/pages/3/0/Dialogue
+\\N[12]. (Yes, I'd like to ask this fisherman)
+「Hey, old man. A little good?」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「ん、どうしたい、兄ちゃん。
+お、あんた優勝者の\\N[12]選手じゃねぇか、
+決勝戦見てたぜ、おめでとうな」
+> CONTEXT: Map025/events/42/pages/3/4/Dialogue
+old man. 「Oh, what do you want, Onii-chan.
+O, who's your winner \\N[12] It is a player,
+I was watching the final match, congratulations」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「んで、舟を使いたいのかい？
+あんたの頼みなら、俺にできることなら聞くぜ」
+> CONTEXT: Map025/events/42/pages/3/12/Dialogue
+old man. 「Do you want to use the boat? If you ask me, I
+will listen if I can do it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それじゃ、この舟で王城に行ってくれないか？」
+> CONTEXT: Map025/events/42/pages/3/16/Dialogue
+\\N[12]. 「Well then, will you go to the castle in this
+boat?」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「え……城に、だって？」
+> CONTEXT: Map025/events/42/pages/3/19/Dialogue
+old man. 「Huh ...... To the castle?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今、城は平民が入ることができないだろ？
+でも、俺はどうしても城に行かなきゃいけなくてさ。
+水路で城に向かって欲しいんだよ」
+> CONTEXT: Map025/events/42/pages/3/22/Dialogue
+\\N[12]. 「Now, the castle can not enter common people,
+will it? But, I have to go to the castle by all means.
+I want you to head to the castle at the waterway」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「いやいや、待ってくれ。
+それだけは勘弁してくれ！」
+> CONTEXT: Map025/events/42/pages/3/27/Dialogue
+old man. 「,Wait please. C'mon that much!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、ダメなのかい？」
+> CONTEXT: Map025/events/42/pages/3/31/Dialogue
+\\N[12]. 「Well, are you bad?」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「確かに城には水上から侵入できるようになってる。
+だが、実際にそれをやったら重い罰を受けちまう。
+悪くすりゃ死罪だ、とても協力できねえよ」
+> CONTEXT: Map025/events/42/pages/3/34/Dialogue
+old man. 「Certainly it certainly can enter from the water.
+However, if you actually do it, you will receive heavy
+punishment. If it is not bad it is a death sin, I can not
+cooperate very much」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「言っとくが、舟を貸すのもダメだぞ。
+あんたがこの舟で勝手に城に入ったとして、
+持ち主の俺が犯罪幇助で罰せられちまうからな」
+> CONTEXT: Map025/events/42/pages/3/42/Dialogue
+old man. 「It is difficult to say, but you can not lend a
+boat. As you entered the castle without permission in this
+boat, Owner owner will be punished with criminal
+assistance.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、そういうことなら仕方ない。
+あんたに迷惑をかける気はないし、
+この話は忘れてくれ」
+> CONTEXT: Map025/events/42/pages/3/47/Dialogue
+\\N[12]. 「Indeed, there is no point in such a case.
+I do not feel like annoying you, Forget this story」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「すまねえな、できれば協力したかったんだが……」
+> CONTEXT: Map025/events/42/pages/3/52/Dialogue
+old man. 「Sorry, I wanted to cooperate if possible, but ...
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（舟を借りて侵入する線はダメか。
+他の方法を考えないと）
+> CONTEXT: Map025/events/42/pages/3/55/Dialogue
+\\N[12]. Is it possible to borrow a boat to break into
+the line? Unless you think about other methods)#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「城には確かに船着場があるが、
+ありゃ王族専用なんだ。
+平民が乗り付けたらタダじゃすまんぜ」
+> CONTEXT: Map025/events/42/pages/4/0/Dialogue
+> CONTEXT: Map025/events/42/pages/5/0/Dialogue
+old man. 「Castle certainly has a docking station,
+It is exclusively for royalty. When commoners ride, they
+are free」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「それはそうと、
+荒野まで舟を出すかい？」
+> CONTEXT: Map025/events/42/pages/5/5/Dialogue
+old man. 「Anyway, Will you bring your boat to the
+wilderness?」#MTLed
+> END STRING
+
+> BEGIN STRING
+北……住宅街
+南……歓楽街
+北東……闘技場
+南東……学院、住宅街
+> CONTEXT: Map025/events/44/pages/0/0/Dialogue
+North ...... residential area. South ...... entertainment
+district. Northeast ...... Arena. South East ......
+Academy, residential area#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「ここは歓楽街、いわゆる飲み屋街だぜ。
+ここだけの話だが、中にはいかがわしい店もある……」
+> CONTEXT: Map025/events/67/pages/0/0/Dialogue
+male. 「This is an entertainment district, what is called a
+drinking street. Although it is only here, there are shabby
+shops inside......」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「おっ、噂のチャンプじゃないか。
+あんたみたいな人でも、こういういかがわしい通りに
+興味があるのかい？」
+> CONTEXT: Map025/events/67/pages/1/0/Dialogue
+male. 「Oh, it is a rumored champ. Even if you are a person
+like you, in the way. Are you interested?」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「うー……昼間っから酔っ払っちまったぜ……」
+> CONTEXT: Map025/events/69/pages/0/0/Dialogue
+male. 「Uh ...... I got drunk in the daytime......」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「プリム、お兄さんといっしょにどこか行くの？」
+> CONTEXT: Map025/events/70/pages/1/0/Dialogue
+girl. 「Purim, are you going somewhere with your older
+brother?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん、武者修行してくるの！」
+> CONTEXT: Map025/events/70/pages/1/3/Dialogue
+Purim. 「Yes, I'm going to training martial arts!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「そうなんだ、頑張ってね。
+お兄さん、プリムのこと、よろしくお願いしますね」
+> CONTEXT: Map025/events/70/pages/1/6/Dialogue
+girl. 「That's right, do your best. Thank you, older
+brother, Purim」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「決勝戦、見てました。
+優勝おめでとう、ラルフ選手！」
+> CONTEXT: Map025/events/70/pages/3/0/Dialogue
+girl. 「I was watching the final game. Congratulations on
+winning, Ralph!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ティシアさんのおうち？
+準決勝の日あたりから旅行に行っちゃったよ」
+> CONTEXT: Map025/events/70/pages/4/0/Dialogue
+girl. 「Titia-san's house? I went on a trip from the
+semi-finals day.」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「エルミアの豊かな水で育った野菜は
+みずみずしくて最高だよ！」
+> CONTEXT: Map025/events/71/pages/0/0/Dialogue
+old man. 「The vegetables raised in the rich water of Elmia
+It is awesome!」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「普段から青空市場で商売してるけど、
+今の時期はモノが飛ぶように売れて嬉しいもんだよ。
+観光客のためにも、質のいい商品を用意しないとねぇ」
+> CONTEXT: Map025/events/72/pages/0/0/Dialogue
+Aunt. 「I usually do business in the blue sky market,
+It's a pleasure to sell goods as things fly this time.
+Even for tourists, I have to prepare good quality products」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「武道大会の時期は町中が活気づくなぁ……」
+> CONTEXT: Map025/events/73/pages/0/0/Dialogue
+Youth. 「Times of martial arts tournament will be booming
+in town ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「武道大会が終わると、一気に冬の空気になってくる。
+これからの時期に賑わうのは北のウィギスさ」
+> CONTEXT: None < UNUSED
+Youth. 「When the martial arts tournament is over, it
+becomes air in winter at a stretch. Wigheis in the north is
+bustling in the coming times」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦
+「このすぐ南に歓楽街があるのよ、
+ガラの悪い人がよく入っていくし、ちょっと嫌なのよねぇ」
+> CONTEXT: Map025/events/90/pages/0/0/Dialogue
+housewife. 「There is a red light district just south,
+A bad guy comes in often and I do not like it a bit.」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士
+「武道大会に出場するため、はるばる他国からやってきたが
+この国は平和で自然も豊かだな。
+大会が終わってもここで暮らしたくなってきたよ」
+> CONTEXT: Map025/events/91/pages/0/0/Dialogue
+Swordsman. 「I came all the way from other countries to
+enter martial arts tournament. This country is peaceful and
+rich in nature. Even if the tournament is over I've become
+wanting to live here」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士デュバール
+「豊かな水、穏やかな空気。
+ここ以上に住みよい国はないかもしれないね。
+それでも私は、故国の家族の元に帰らねば」
+> CONTEXT: Map025/events/91/pages/2/0/Dialogue
+Swordsman Duval. 「Rich water, gentle air.
+There may not be a better country to live here.
+Still I need to go back to my family in my home country」#MTLed
+> END STRING
+
+> BEGIN STRING
+犬
+「…………」
+尻尾を振っている。
+> CONTEXT: Map025/events/114/pages/0/0/Dialogue
+dog. 「............」. He is waving a tail.#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「いやー、屋上は眺めが良くて気持ちがいいなあ。
+え？　授業？　……次の時間は出るさ、うん」
+> CONTEXT: Map025/events/117/pages/0/0/Dialogue
+A student. 「Wow, the rooftop looks nice and I feel
+comfortable. Huh? Lesson...... The next time will come
+out, yes.」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「武道大会も終わって、旅行者も故郷に帰ってゆくね。
+この屋上からはその様子がよく見えるんだけど、
+毎年、この時期は物悲しい気持ちになるんだよ」
+> CONTEXT: Map025/events/117/pages/2/0/Dialogue
+A student. 「The martial arts tournament is over and
+travelers will also return home. From this rooftop you can
+see the situation well, Every year, this time I feel sad」#MTLed
+> END STRING
+
+> BEGIN STRING
+教頭
+「エルミア王立学院へようこそ。
+当学院はどなたにも学んでいただけるよう
+一般開放のコースも手広くご用意いたしております」
+> CONTEXT: Map025/events/118/pages/0/0/Dialogue
+Official. 「Welcome to the Royal College of Elmia.
+Our school lets everyone learn. We are preparing courses
+open to the public widely」#MTLed
+> END STRING
+
+> BEGIN STRING
+教頭
+「正直なところ……学院が飲み屋街に近いのはどうか、とか
+学院よりも闘技場のほうがはるかに大きいのはどうか、とか
+現状に不満もね、ええ、なくはないんですけどね」
+> CONTEXT: Map025/events/118/pages/1/0/Dialogue
+Official. 「Honestly .... How about if the institute is
+close to a bar / bar area? I wonder if the stadium is much
+bigger than the academy. I am also dissatisfied with the
+current situation, yeah, I do not think so」#MTLed
+> END STRING
+
+> BEGIN STRING
+教頭
+「武道大会の期間はお祭ということもあり、
+学院は休校となっております」
+> CONTEXT: Map025/events/118/pages/2/0/Dialogue
+Official. 「The period of the martial arts tournament is
+sometimes called a festival, The school is closed.」#MTLed
+> END STRING
+
+> BEGIN STRING
+教頭
+「授業は数日後には再開いたします。
+ようやく、日常が戻ってくるというものですな」
+> CONTEXT: Map025/events/118/pages/3/0/Dialogue
+Official. 「Classes will be resumed in a few days.
+Finally, everyday life comes back」#MTLed
+> END STRING
+
+> BEGIN STRING
+メモ……プリムは武道大会の別部門でお嬢様と対戦するが、
+その際、主人公に勝利したことがあれば
+お嬢様に勝つ展開になる。
+お礼にパンツ見せてもらえる。
+> CONTEXT: Map025/events/120/pages/0/0/Dialogue
+Memo...... Purim will fight against the lady in another
+division of martial arts tournament, At that time, if you
+have won the hero. It will develop to win the lady.
+Thank you for showing me panties.#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「この物件……飲み屋街が近くていいよなぁ……
+誰も住んでなさそうだし、買えないかな……」
+> CONTEXT: Map025/events/121/pages/0/0/Dialogue
+> CONTEXT: Map025/events/121/pages/1/0/Dialogue
+male. 「This property ...... It is nice to have a drinking
+town nearby ...... Nobody seems to live, I wonder if I can
+buy it ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「ウマい川魚料理が食いたきゃ、なんつってもこの店！
+レストラン・アーロンハウスだ！
+値段も手頃だし、きっと満足できると思うぜ！」
+> CONTEXT: Map025/events/122/pages/0/0/Dialogue
+old man. 「If you eat an uma river fish dish, this store no
+matter what! Restaurant · Aaron house! The price is also
+reasonable, I think that I'm surely satisfied!」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦
+「今日は天気がいいから向こう岸がよく見えるねぇ。
+川向こうは魔物が多いっていうけど、
+ただ見てるだけなら、のどかなもんさね」
+> CONTEXT: Map025/events/124/pages/0/0/Dialogue
+housewife. 「Today the weather is nice so you can see the
+other side better. It is said that there are many monsters
+over the river, Just watching it, it's peaceful」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦
+「武道大会の喧騒も去って、
+また穏やかな日々が戻ってきそうだねぇ」
+> CONTEXT: Map025/events/124/pages/1/0/Dialogue
+housewife. 「The bustle of martial arts tournament has also
+left, Peaceful days are coming back again」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「いやあ、本当に面白い大会ですなぁ。
+遠くまで来た甲斐がありましたよ」
+> CONTEXT: Map025/events/125/pages/2/0/Dialogue
+male. 「Well, it's really funny tournament.
+It was worth having come to a long distance」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「すっげー興奮したー！
+俺も大きくなったらこの大会出たいぜー！」
+> CONTEXT: Map025/events/126/pages/2/0/Dialogue
+boy. 「I was so excited! I want to get out of this
+tournament when I grow up!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「闘技場はどなたにも自由に開放されております。
+どうぞ、お通りください」
+> CONTEXT: Map025/events/127/pages/0/0/Dialogue
+male. 「The stadium is open to anyone freely.
+Please, please」#MTLed
+> END STRING
+
+> BEGIN STRING
+旅の戦士
+「中に入って出場受付を済ませないと……
+うむむ、しかしこんな立派な闘技場で戦うのか……
+き、キンチョーしてきた……」
+> CONTEXT: Map025/events/128/pages/0/0/Dialogue
+Travel warrior. 「I have to enter inside and do not accept
+the reception...Well, I will fight in such a fine stadium
+...... I have been kinchos ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員
+「あ、\\N[12]、大会頑張ってね。
+ちなみにさ、闘技場の3階席に団長が来てるよ。
+\\C[2]対戦相手の情報をくれる\\C[0]みたいだし、会いに行ってあげたら？」
+> CONTEXT: Map025/events/128/pages/1/0/Dialogue
+militia member. 「Ah, \\N[12] Good luck with your
+tournament. By the way, the headmaster is at the third
+floor seat of the stadium. \\C[2]Give us the opponent's
+information\\C[0] Would you like to go see him?」#MTLed
+> END STRING
+
+> BEGIN STRING
+他国の人
+「うーむ、こいつは素晴らしい……
+田舎の国であれば、お城がこんな大きさですよ。
+娯楽施設がこれほど立派とは、エルミアはいい国ですな」
+> CONTEXT: Map025/events/129/pages/0/0/Dialogue
+People from other countries. 「Well, this guy is wonderful
+...... In a country country, the castle is such a size.
+If amusement facilities are so good, Elmia is a good
+country」#MTLed
+> END STRING
+
+> BEGIN STRING
+他国の人
+「武道大会も終わり、国に帰らねばなりませんが……
+熱気にあふれた大会であっただけに、
+ここを去るのは名残惜しいですな」
+> CONTEXT: Map025/events/129/pages/2/0/Dialogue
+People from other countries. 「Martial arts tournament is
+over and I have to go back to the country ...
+As it was a hot tournament, It is frustrating to leave here
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「お祭りだからこそ、しっかり目を光らせないとね。
+いい大会にするためにも犯罪は未然に防止しないと」
+> CONTEXT: Map025/events/130/pages/0/0/Dialogue
+A soldier. 「Because it is a festival, you must keep your
+eyes open. In order to make it a good tournament, crime
+should be prevented beforehand」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「裏口とかないのかな？
+こっそり入って、今からいい席を確保しておくとか
+できないかなあ」
+> CONTEXT: Map025/events/131/pages/0/0/Dialogue
+Youth. 「I wonder if there is a back door?
+Have to secretly keep securing a good seat from now
+I wonder if I can do it」#MTLed
+> END STRING
+
+> BEGIN STRING
+漁師
+「この通りは歓楽街で飲み屋が多いが、
+ま、治安の悪さに目をつぶれば食い物も酒も楽しめるし
+楽しいトコだぜ～」
+> CONTEXT: Map025/events/142/pages/0/0/Dialogue
+Fisherman. 「This street is a red light district and there
+are many drinking houses, Well, you can enjoy food and
+drink if you stop your eyes on bad security
+It's fun!」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「闘技場はこの先です。
+選手の方なら、中で受付を済ませてください」
+> CONTEXT: Map025/events/152/pages/0/0/Dialogue
+A soldier. 「The stadium is ahead. If you are a player,
+please accept reception within」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「これは\\N[12]選手、
+武道大会優勝おめでとうございます。
+兵士たちの間でも、あなたの噂でもちきりですよ」
+> CONTEXT: Map025/events/152/pages/2/0/Dialogue
+A soldier. 「this is \\N[12] player, Congratulations on
+winning the martial arts tournament. Even among the
+soldiers, it is clear that you are rumored」#MTLed
+> END STRING
+
+> BEGIN STRING
+商人
+「エルミアといえば魚！
+新鮮な川魚を焼いて喰うと、たまらないウマさだよ！」
+> CONTEXT: Map025/events/177/pages/0/0/Dialogue
+merchant. 「Speaking of Elmia, fish! Baking and eating
+fresh river fish is unbearable!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（川魚か……
+俺はレストンの海で取れる海魚のほうが好きなんだよなー）
+> CONTEXT: Map025/events/177/pages/0/4/Dialogue
+\\N[12]. Is it a river fish? I like the sea fish that
+can be taken in the sea of Reston.#MTLed
+> END STRING
+
+> BEGIN STRING
+女戦士
+「こんな立派な闘技場で剣を振るえるなど、
+またとない栄誉だ。武道大会の本番が楽しみだな！」
+> CONTEXT: Map025/events/178/pages/0/0/Dialogue
+Woman warrior. 「Such as swinging the sword in such a fine
+stadium, It is an unprecedented honor. I am looking forward
+to the performance of martial arts tournament!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女戦士
+「え、受付？
+まだ済ませていないが……
+今行くところだ！　当然だろう！」
+> CONTEXT: Map025/events/178/pages/0/4/Dialogue
+Woman warrior. 「Receptionist? I have not done it yet ...
+I'm about to leave! Of course!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「あわわ……勢い込んでここまで来ちゃったけど、
+もう強そうな人がちらほら居るよぉ……
+村で一番強い程度の腕前じゃ、やっぱりムリかなぁ～……」
+> CONTEXT: Map025/events/179/pages/0/0/Dialogue
+girl. 「Rosewood ...... I got in here for a while,
+There are people who are likely to be strong now ...
+In the village's strongest degree of skill, I guess it is
+still unreasonable......」#MTLed
+> END STRING
+
+> BEGIN STRING
+女剣士
+「………………
+まだ、受付が締め切られるまでは時間がある。
+出場するかどうかは、それまでに決めればいいな。うん」
+> CONTEXT: Map025/events/180/pages/0/0/Dialogue
+swordswoman. 「.................. We still have time before
+the reception is closed. Whether or not to participate
+should be determined so far. Yup」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「まぁ、なんと言うかねぇ……自信のある奴はとっくに
+受付済ませてるんだよな。そのへんでウロウロしてるのは
+不覚悟な選手ばかりなのさ。毎年いるんだけどね」
+> CONTEXT: Map025/events/181/pages/0/0/Dialogue
+Youth. 「Well, what I should say...... As long as I have
+confidence, I'm accepting you.I guess that's what
+It is only unsuspecting players. Every year I have it」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「ふーっ、今年の大会もなかなかの熱気だな」
+> CONTEXT: Map025/events/181/pages/2/0/Dialogue
+Youth. 「Wow, this year's tournament is also pretty hot」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「城下町の中でも東地区は庶民の暮らす場所なのじゃが……
+結果として、中央区よりも娯楽の多い街になっておる」
+> CONTEXT: Map025/events/182/pages/0/0/Dialogue
+old man. 「Even in the castle town, the eastern area is the
+place where ordinary people live......
+As a result, it has become a city with more entertainment
+than Chuo-ku」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「これは、武道大会の観客や選手がよく利用するホテルよ。
+会場にも近くて大人気だから、
+料金が少し高く設定されているのがネックなのよね」
+> CONTEXT: Map025/events/203/pages/0/0/Dialogue
+Woman. 「This is a hotel that the audience and players of
+martial arts tournament often use. Because it is very
+popular because it is also near the venue,
+It is a neck that the charge is set a little high」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「あら、優勝者の\\N[12]選手じゃない。
+おめでとう、試合見てたわよー」
+> CONTEXT: Map025/events/203/pages/1/0/Dialogue
+Woman. 「Oh, the winner's \\N[12] It is not a player.
+Congratulations, I watched the match」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「兄さんも武道大会に出るために来たのかい？
+なんだか、そういう雰囲気をしているぜ」
+> CONTEXT: Map025/events/213/pages/0/0/Dialogue
+male. 「Did your brother also come to martial arts
+tournament? Somehow, I feel like that」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「兄さんが武道大会に優勝したのかい？
+ほえー、そいつはすげえや」
+> CONTEXT: Map025/events/213/pages/1/0/Dialogue
+male. 「Did your brother win the martial arts tournament?
+Wow, that's great.」#MTLed
+> END STRING
+
+> BEGIN STRING
+漁師
+「今朝とれたばかりの川魚あるよ、川魚！
+新鮮だよ！」
+> CONTEXT: Map025/events/214/pages/0/0/Dialogue
+Fisherman. 「There are fresh river fish this morning, river
+fish! It's fresh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「武道大会の時期は、あたしら商人は稼ぎ時ってもんさね。
+ここでいいものを売れば来年も観光客が来てくれる、
+っていう寸法さ」
+> CONTEXT: Map025/events/215/pages/0/0/Dialogue
+Aunt. 「At the time of the martial arts tournament, we are
+getting earnings by merchants. If you sell good ones here,
+tourists will come next year, Dimensions」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「中で酒は売ってるのかな？
+せっかくなら飲みながら観戦したいんだよなぁ」
+> CONTEXT: Map025/events/216/pages/0/0/Dialogue
+Youth. 「Do you sell sake inside? I would like to watch a
+game while drinking a lot」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「の、飲みすぎた……うぅ……」
+> CONTEXT: Map025/events/216/pages/2/0/Dialogue
+Youth. 「I drank too much...... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦
+「住宅街にまでは観光客は来ないけれど、
+それでも騒がしくなるのがちょっと嫌ねぇ。
+ま、お祭りだから仕方ないけどね」
+> CONTEXT: Map025/events/220/pages/0/0/Dialogue
+housewife. 「Although no tourists come to residential areas,
+Still it is a little disgusting to be noisy.
+Well, it can not be helped because it is a festival」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦
+「あらプリムちゃん、おでかけかしら？
+気をつけるのよ、外は魔物が多いからね」
+> CONTEXT: Map025/events/220/pages/1/0/Dialogue
+housewife. 「Oh well Purim - chan, are you going to go out?
+Be careful, because there are many monsters outside」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦
+「大会が終わって静かになったら、
+それはそれでちょっと寂しいのよねぇ」
+> CONTEXT: Map025/events/220/pages/2/0/Dialogue
+housewife. 「When the tournament is over and it gets quiet,
+That's a bit lonely with that」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「こんな都会の水路だが、水が綺麗だから魚が結構いるんだ。
+家のすぐそばで釣りができるのは嬉しいね」
+> CONTEXT: Map025/events/222/pages/0/0/Dialogue
+old man. 「It is such a urban canal, but since the water is
+beautiful, there are quite a few fish. It is nice to be
+able to fish in front of the house」#MTLed
+> END STRING
+
+> BEGIN STRING
+漁師
+「うぃ～
+もう飲めねぇ……」
+> CONTEXT: Map025/events/224/pages/0/0/Dialogue
+Fisherman. 「Wi. I can not drink any more ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦Ａ
+「ねえねえ、今回の武道大会、誰が勝つかしら？
+やっぱり去年準優勝のレオン選手かしらねぇ」
+> CONTEXT: Map025/events/225/pages/0/0/Dialogue
+> CONTEXT: Map025/events/226/pages/0/0/Dialogue
+Housewife A. 「, This time martial arts tournament, who
+will win? After all it was Leon player who won second place
+last year.」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦Ｂ
+「そうなるんじゃない？
+でも、今年は女性の選手が強いらしいわよぉ」
+> CONTEXT: Map025/events/225/pages/0/4/Dialogue
+> CONTEXT: Map025/events/226/pages/0/4/Dialogue
+Housewife B. 「Will not it be so? But, it seems that
+women's players are strong this year」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦Ａ
+「あらあら、そうなの？
+男をなぎ倒すぐらいの女性選手が出てくると、
+見ていてスカッとするのよねぇ」
+> CONTEXT: Map025/events/225/pages/0/8/Dialogue
+> CONTEXT: Map025/events/226/pages/0/8/Dialogue
+Housewife A. 「oh no, is that so? When female athlete about
+to knock down a man comes out, Look at it and make it scary
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「大会の時期は我々も街や試合の警備に駆り出される。
+大変ではあるが……
+ま、街が賑わっているのを見るのは悪い気分ではない」
+> CONTEXT: Map025/events/227/pages/0/0/Dialogue
+A soldier. 「At the time of tournament we are driven into
+security of towns and games. Although it is serious......
+Well, seeing the crowded city is not a bad mood」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「武道大会が終わったら、今度は我々が主役になるのさ。
+来月のロイヤルガード選抜大会……
+勝ち抜いて、女王陛下のおそばで働く栄誉を掴むぞ！」
+> CONTEXT: Map025/events/227/pages/1/0/Dialogue
+A soldier. 「When the martial arts tournament is over, we
+will become the leading role this time. Next month's royal
+guard selection tournament ...... Win it and grab the honor
+to work with his Queen's soba!」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「ここで賭け試合をやってるって噂だが――
+武道大会があるのに、こんな酒場で試合なんかして
+いったいなにが楽しいんだろうな？」
+> CONTEXT: Map025/events/228/pages/0/0/Dialogue
+Youth. 「It's a rumor that we are playing games here -
+Even though there is a martial arts tournament, I'd like to
+have a game in such a bar. What on earth is it fun?」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「武道大会が終わった今は、
+この酒場で真剣勝負の観戦を楽しむとするかな」
+> CONTEXT: Map025/events/228/pages/1/0/Dialogue
+Youth. 「Now that the martial arts tournament is over,
+Would you like to enjoy watching seriously a match in this
+bar?」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「闘技場の地下には
+地下水路に沿って特別な抜け道が通っているというけど……
+ホントかねぇ」
+> CONTEXT: Map025/events/229/pages/0/0/Dialogue
+A soldier. 「In the basement of the stadium
+It is said that a special loophole passes along the
+underground waterway...... Really?」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「現在、闘技場は清掃および模様替えを行っております。
+来月のロイヤルガード選抜大会が開幕するまでの期間は
+申し訳ありませんが、立入禁止とさせていただきます」
+> CONTEXT: Map025/events/231/pages/1/0/Dialogue
+male. 「Currently, the stadium is cleaned and renovated.
+The period until next month's royal guard selection
+tournament opens. I am sorry, but I will consider it as
+no-tentative」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「この地区はいわゆるスラムの役割も兼ねてる。
+こういうところにしか居場所がない人間もいるってことさ」
+> CONTEXT: Map025/events/245/pages/0/0/Dialogue
+girl. 「This district also serves as a so-called slum.
+I mean that there are some people who only have places like
+this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今はこんなところに来てる場合じゃないぞ」
+> CONTEXT: Map025/events/248/pages/2/0/Dialogue
+> CONTEXT: Map025/events/260/pages/1/0/Dialogue
+\\N[12]. 「It's not the time to come to such a place
+right now.」#MTLed
+> END STRING
+
+> BEGIN STRING
+扉に張り紙があり、
+『武道大会開催期間と、その後数日間は休校となります』
+と書いてある。
+> CONTEXT: Map025/events/253/pages/1/0/Dialogue
+There is a poster on the door, "The martial arts tournament
+will be closed and the next few days will be closed."
+It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、しまった……
+キノコの依頼は武道大会前までが期限だったんだ。
+遅かったようだ」
+> CONTEXT: Map025/events/253/pages/1/8/Dialogue
+\\N[12]. 「Oooh .... The request for mushrooms was due
+until the martial arts tournament was due.
+It seems that it was late.」#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼：『三種のキノコ収集』は
+期限が過ぎたため失敗となります。
+依頼票は所持品から消滅します。
+> CONTEXT: Map025/events/253/pages/1/13/Dialogue
+Request: "Three kinds of mushroom collection"
+It will fail because the deadline has expired.
+The request form vanishes from belongings.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、そういえば地下水道の依頼は
+期限が準決勝の日の前日までだったんだ……
+しまった、この依頼は失敗か」
+> CONTEXT: Map025/events/259/pages/1/7/Dialogue
+\\N[12]. 「Okay, the request for underground water supply
+The deadline was until the day before the semi-finals ...
+... Oops, is this request a failure?」#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼：『地下水道の調査』は
+期限が過ぎたため失敗となります。
+依頼票は所持品から消滅します。
+> CONTEXT: Map025/events/259/pages/1/12/Dialogue
+Request: "Investigation of underground water supply"
+It will fail because the deadline has expired.
+The request form vanishes from belongings.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ティシアさんは留守のようだ……
+これじゃ、ここから地下水道には入れない。
+やはりモルデリアに行くしかなさそうだな」
+> CONTEXT: Map025/events/259/pages/1/26/Dialogue
+\\N[12]. 「Titia-san seems to be absent......
+In this case, you can not enter the underground water
+supply from here. I guess it's only a matter of going to
+Morderia」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あ、おにいさん、こんにちは！
+あれ？　そっちの人は……
+ええと、どこかで……」
+> CONTEXT: Map025/events/264/pages/0/5/Dialogue
+Purim. 「Oh, good afternoon! that? Who is that
+one ...? Well, somewhere ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「私は王国貴族、グランレルム伯爵という。
+キミの試合は見ていたよ。
+優勝者の\\N[12]選手相手にも一歩も引かず、勇敢だった」
+> CONTEXT: Map025/events/264/pages/0/10/Dialogue
+Earl Grandrealm. 「I am Kingdom nobleman, Earl Grandrealm.
+I was watching your fight. The winner's \\N[12] I did
+not draw a step to the players, I was brave」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あ、貴賓席で観戦してた貴族のおじさんですね！
+ありがとうございます、嬉しいですっ！」
+> CONTEXT: Map025/events/264/pages/0/15/Dialogue
+Purim. 「Oh, it is the old man of the aristocrat
+watching at the VIP seat! Thank you very much,
+I'm happy!」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「うむうむ。
+ところで、母君はいらっしゃるかな？」
+> CONTEXT: Map025/events/264/pages/0/19/Dialogue
+Earl Grandrealm. 「. By the way, is your mother?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「はい、いますけど……」
+> CONTEXT: Map025/events/264/pages/0/23/Dialogue
+Purim. 「Yes, but.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「今日はキミと母君に、大切な話があってね。
+\\N[12]君と一緒に訪問させてもらったのだ」
+> CONTEXT: Map025/events/264/pages/0/26/Dialogue
+Earl Grandrealm. 「Today I have an important story for you
+and your mother. \\N[12] I had you visit with you」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさん、いったい……？」
+> CONTEXT: Map025/events/264/pages/0/30/Dialogue
+Purim. 「A lot, what on earth ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「突然ですまん、
+とりあえず、四人で話をしたいと思うんだが、いいか？」
+> CONTEXT: Map025/events/264/pages/0/33/Dialogue
+\\N[12]. 「Suddenly sorry, Anyway, I'd like to talk with
+four people, is it okay?」#MTLed
+> END STRING
+
+> BEGIN STRING
+『ティシア邸』
+と書いてある。
+> CONTEXT: Map025/events/265/pages/0/0/Dialogue
+"Titia House". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あいてっ！　な、なんだ！？」
+> CONTEXT: Map025/events/267/pages/0/17/Dialogue
+> CONTEXT: Map149/events/38/pages/0/2/Dialogue
+\\N[12]. 「Usually! What! ?」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ボーッと歩いてんじゃないよ、坊や。
+こんな路地裏に不用意に入ってくるなんて、
+さては田舎者だね？」
+> CONTEXT: Map025/events/267/pages/0/20/Dialogue
+> CONTEXT: Map149/events/38/pages/0/5/Dialogue
+A girl. 「You are not walking with a dash, Boy.
+To enter carelessly behind such an alley,
+Well, you are a redneck?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんだ、お前はっ！
+いきなり突き飛ばしやがって」
+> CONTEXT: Map025/events/267/pages/0/26/Dialogue
+> CONTEXT: Map149/events/38/pages/0/11/Dialogue
+\\N[12]. 「What are you guys! Suddenly thrust away」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「あっさり袋小路に追い詰められといて
+意気がってんじゃないよ。
+さあ、金を置いてきな。大人しく出さないと怪我するよ？」
+> CONTEXT: Map025/events/267/pages/0/30/Dialogue
+> CONTEXT: Map149/events/38/pages/0/15/Dialogue
+A girl. 「Just being trapped in a blind alley
+You do not have a spirit. Come, leave your money. I will
+get hurt if I do not put it out as an adult?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くっ、どうする？
+相手は女ひとりだが……
+かなりケンカ慣れしてそうな雰囲気だぞ）
+> CONTEXT: Map025/events/267/pages/0/35/Dialogue
+> CONTEXT: Map149/events/38/pages/0/20/Dialogue
+\\N[12]. (What do you do? Woman is the other person ...
+... It's like getting used to quite a fight)#MTLed
+> END STRING
+
+> BEGIN STRING
+金を渡す
+> CONTEXT: Map025/events/267/pages/0/40/Choice/0
+> CONTEXT: Map149/events/38/pages/0/25/Choice/0
+> CONTEXT: Map149/events/38/pages/0/25/Choice/0
+Pass money#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「はっ、こんなあっさり金を出すだなんて
+根性のない坊やだね。
+女相手にビビッっちまったのかい？　あははっ！」
+> CONTEXT: Map025/events/267/pages/0/42/Dialogue
+> CONTEXT: Map149/events/38/pages/0/27/Dialogue
+A girl. 「Ha ha, it's hard to get rid of this kind of money
+It is a geek with no guts. Did you have a shirt in your
+opponent?Hahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「じゃ、300Gほど置いてってもらおうか」
+> CONTEXT: Map025/events/267/pages/0/50/Dialogue
+> CONTEXT: Map149/events/38/pages/0/35/Dialogue
+A girl. 「Well, let me leave it at 300 G」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（今は300Gも持ってないぞ……
+くっ、こうなったら抵抗するしかない！）
+> CONTEXT: Map025/events/267/pages/0/54/Dialogue
+> CONTEXT: Map149/events/38/pages/0/39/Dialogue
+\\N[12]. (I do not have 300 G now .... Come on, you have
+to resist this way! )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女に300Gを差し出した。
+> CONTEXT: Map025/events/267/pages/0/62/Dialogue
+> CONTEXT: Map149/events/38/pages/0/47/Dialogue
+\\N[12] I offered 300 G to deliquent girl.#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「じゃあね、気をつけて帰るんだよ、坊や。
+また悪い女に引っかかりたくなけりゃね。
+キャハハハハッ！」
+> CONTEXT: Map025/events/267/pages/0/68/Dialogue
+> CONTEXT: Map149/events/38/pages/0/53/Dialogue
+A girl. 「Well, be careful and go home, little boy.
+I also have to get caught by a bad woman.
+Caught ha ha!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラルフ
+「くっ、あんな女にビビッて
+金を渡しちまうなんて……
+我ながら情けない……」
+> CONTEXT: Map025/events/267/pages/0/85/Dialogue
+> CONTEXT: Map149/events/38/pages/0/62/Dialogue
+Ralph. 「Cut in a shirt like that in a woman
+I will hand over money...I am miserable while I am ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「確かに逃げ場はないが……
+舐めるなよっ、
+俺は女ひとり相手に怯むような男じゃないぞ！」
+> CONTEXT: Map025/events/267/pages/0/94/Dialogue
+> CONTEXT: Map149/events/38/pages/0/71/Dialogue
+\\N[12]. 「Although there is no escape place indeed ...
+... Do not lick it, I'm not a man who is frightened by a
+woman alone!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふん、大人しく出す気はないってか。
+じゃあ、ボコボコにしてやるしかないねぇ。
+覚悟しなっ！」
+> CONTEXT: Map025/events/267/pages/0/99/Dialogue
+> CONTEXT: Map149/events/38/pages/0/76/Dialogue
+A girl. 「Well, I do not mean to give it up as an adult.
+Well then, I have no choice but to make it.
+Get ready!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうだっ！
+剣士に襲いかかったのは間違いだったな！」
+> CONTEXT: Map025/events/267/pages/0/116/Dialogue
+> CONTEXT: Map149/events/38/pages/0/86/Dialogue
+\\N[12]. 「How! It was a mistake that we attacked the
+swordsmen!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「うっ、この野郎、やる……
+ボーッとした田舎者だと思ったが、
+身のこなしが実戦慣れしてやがる」
+> CONTEXT: Map025/events/267/pages/0/121/Dialogue
+> CONTEXT: Map149/events/38/pages/0/91/Dialogue
+A girl. 「U, this bastard, I'll do it ...
+I thought that it was a dirty countryman,
+My body will be accustomed to practical warfare」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お前は兵士の詰め所にでも突き出してやるぜ。
+女だからって見逃しはしないっ！」
+> CONTEXT: Map025/events/267/pages/0/126/Dialogue
+> CONTEXT: Map149/events/38/pages/0/96/Dialogue
+\\N[12]. 「You'll protrude even at the soldier's stuff.
+I will not overlook it because it's a woman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ちっ、覚えてなっ！」
+> CONTEXT: Map025/events/267/pages/0/130/Dialogue
+> CONTEXT: Map149/events/38/pages/0/100/Dialogue
+A girl. 「Well, remember!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、逃げた……」
+> CONTEXT: Map149/events/38/pages/0/105/Dialogue
+> CONTEXT: Map025/events/267/pages/0/154/Dialogue
+\\N[12]. 「Oh, I ran away ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「王都でも、このあたりは治安が悪いのかな。
+気をつけたほうがいいのかもしれない」
+> CONTEXT: Map149/events/38/pages/0/108/Dialogue
+> CONTEXT: Map149/events/38/pages/1/53/Dialogue
+> CONTEXT: Map149/events/38/pages/1/329/Dialogue
+> CONTEXT: Map025/events/267/pages/0/157/Dialogue
+> CONTEXT: Map025/events/267/pages/1/85/Dialogue
+> CONTEXT: Map025/events/267/pages/1/426/Dialogue
+\\N[12]. 「I wonder whether security is bad around here
+in the Kingdom. Perhaps it is better to be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「そらそらっ、ちったぁ反撃してみなっ！」
+> CONTEXT: Map149/events/38/pages/0/120/Dialogue
+> CONTEXT: Map149/events/38/pages/1/64/Dialogue
+> CONTEXT: Map025/events/267/pages/0/166/Dialogue
+> CONTEXT: Map025/events/267/pages/1/93/Dialogue
+A girl. 「take that っ ち っ た っ て じ っ て み て な っ て!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ、がはっ！」
+> CONTEXT: Map149/events/38/pages/0/124/Dialogue
+> CONTEXT: Map149/events/38/pages/1/68/Dialogue
+> CONTEXT: Map149/events/38/pages/2/49/Dialogue
+> CONTEXT: Map025/events/267/pages/0/170/Dialogue
+> CONTEXT: Map025/events/267/pages/1/97/Dialogue
+> CONTEXT: Map025/events/267/pages/2/79/Dialogue
+\\N[12]. 「I guess!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女にボコボコに殴られ、
+抵抗できない！
+> CONTEXT: Map149/events/38/pages/0/127/Dialogue
+> CONTEXT: Map149/events/38/pages/1/71/Dialogue
+> CONTEXT: Map149/events/38/pages/2/52/Dialogue
+> CONTEXT: Map025/events/267/pages/0/173/Dialogue
+> CONTEXT: Map025/events/267/pages/1/100/Dialogue
+> CONTEXT: Map025/events/267/pages/2/82/Dialogue
+\\N[12] Was beaten by deliquent girl, I can not resist!#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「そうらっ、トドメだ！」
+> CONTEXT: Map149/events/38/pages/0/130/Dialogue
+> CONTEXT: Map149/events/38/pages/1/74/Dialogue
+> CONTEXT: Map025/events/267/pages/0/176/Dialogue
+> CONTEXT: Map025/events/267/pages/1/103/Dialogue
+A girl. 「That's finisher!」#MTLed
+> END STRING
+
+> BEGIN STRING
+不良少女は、\\N[12]の股間を蹴り上げる！
+> CONTEXT: Map149/events/38/pages/0/133/Dialogue
+> CONTEXT: Map149/events/38/pages/1/77/Dialogue
+> CONTEXT: Map149/events/38/pages/2/59/Dialogue
+> CONTEXT: Map025/events/267/pages/0/179/Dialogue
+> CONTEXT: Map025/events/267/pages/1/106/Dialogue
+> CONTEXT: Map025/events/267/pages/2/89/Dialogue
+deliquent girl, \\N[12] Kick up the crotch!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ……！」
+> CONTEXT: Map149/events/38/pages/0/139/Dialogue
+> CONTEXT: Map149/events/38/pages/1/83/Dialogue
+> CONTEXT: Map149/events/38/pages/2/65/Dialogue
+> CONTEXT: Map025/events/267/pages/0/185/Dialogue
+> CONTEXT: Map025/events/267/pages/1/112/Dialogue
+> CONTEXT: Map025/events/267/pages/2/95/Dialogue
+\\N[12]. 「Ah……!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐあああああぁぁぁぁっ！
+い、痛いっ……！」
+> CONTEXT: Map149/events/38/pages/0/147/Dialogue
+> CONTEXT: Map149/events/38/pages/1/91/Dialogue
+> CONTEXT: Map149/events/38/pages/2/73/Dialogue
+> CONTEXT: Map025/events/267/pages/0/193/Dialogue
+> CONTEXT: Map025/events/267/pages/1/120/Dialogue
+> CONTEXT: Map025/events/267/pages/2/103/Dialogue
+\\N[12]. 「Gou Aaaahhhhh! There, it hurts ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「キャハハッ！
+金玉蹴られた男が悶絶する姿、
+いつ見ても無様で滑稽だね、おっかしー！」
+> CONTEXT: Map149/events/38/pages/0/151/Dialogue
+> CONTEXT: Map025/events/267/pages/0/197/Dialogue
+A girl. 「kyahahah! A man whose Jinba kicked man is in
+agony, Whenever you look it's unsmoothly and funny, huh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こ、この……！」
+> CONTEXT: Map149/events/38/pages/0/156/Dialogue
+> CONTEXT: Map025/events/267/pages/0/202/Dialogue
+\\N[12]. 「Here, this ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「女にボコボコにされて、踏みにじられる気分はどうだい？
+男のくせに情けないねー、あんた」
+> CONTEXT: Map149/events/38/pages/0/167/Dialogue
+> CONTEXT: Map149/events/38/pages/1/112/Dialogue
+> CONTEXT: Map025/events/267/pages/0/213/Dialogue
+> CONTEXT: Map025/events/267/pages/1/141/Dialogue
+A girl. 「How'd you feel like being stepped on by a woman?
+I am sad for a man 's honor, you」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「あんた、いっちょまえに剣なんかぶら下げてるけど、
+もしかして剣士のつもりなわけ？
+弱すぎて話にならないんだけど」
+> CONTEXT: Map149/events/38/pages/0/173/Dialogue
+> CONTEXT: Map149/events/38/pages/1/118/Dialogue
+> CONTEXT: Map025/events/267/pages/0/219/Dialogue
+> CONTEXT: Map025/events/267/pages/1/147/Dialogue
+A girl. 「You are hanging a sword somewhere in the end,
+Perhaps you're a swordsman? It's too weak to talk」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うううっ……くそおぉっ……」
+> CONTEXT: Map149/events/38/pages/0/181/Dialogue
+> CONTEXT: Map149/events/38/pages/1/125/Dialogue
+> CONTEXT: Map149/events/38/pages/2/107/Dialogue
+> CONTEXT: Map025/events/267/pages/0/227/Dialogue
+> CONTEXT: Map025/events/267/pages/1/154/Dialogue
+> CONTEXT: Map025/events/267/pages/2/137/Dialogue
+\\N[12]. 「uuugh...... damn thing ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「さて、金は1000Gぐらい貰っといてやるよ。
+これに懲りたら、次からは大人しく差し出すことだね。
+そうすりゃ300Gで済むんだからさ」
+> CONTEXT: Map149/events/38/pages/0/185/Dialogue
+> CONTEXT: Map149/events/38/pages/1/129/Dialogue
+> CONTEXT: Map025/events/267/pages/0/231/Dialogue
+> CONTEXT: Map025/events/267/pages/1/158/Dialogue
+A girl. 「Well, I will give you around 1000 G of money.
+If you are discouraged by this, from now on put it out as
+an adult. That's because 300G is enough」#MTLed
+> END STRING
+
+> BEGIN STRING
+1000G　奪われた！
+> CONTEXT: Map149/events/38/pages/0/191/Dialogue
+> CONTEXT: Map149/events/38/pages/1/135/Dialogue
+> CONTEXT: Map149/events/38/pages/2/116/Dialogue
+> CONTEXT: Map025/events/267/pages/0/237/Dialogue
+> CONTEXT: Map025/events/267/pages/1/164/Dialogue
+> CONTEXT: Map025/events/267/pages/2/146/Dialogue
+I was robbed 1000 G!#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「さて、金は……
+ん？　まさか、1Gも持ってないってのかい？
+> CONTEXT: Map149/events/38/pages/0/197/Dialogue
+> CONTEXT: Map149/events/38/pages/1/141/Dialogue
+> CONTEXT: Map149/events/38/pages/2/122/Dialogue
+> CONTEXT: Map025/events/267/pages/0/243/Dialogue
+> CONTEXT: Map025/events/267/pages/1/170/Dialogue
+> CONTEXT: Map025/events/267/pages/2/152/Dialogue
+A girl. 「Well, gold ...... Hmm? No way, you do not even
+have 1G?#MTLed
+> END STRING
+
+> BEGIN STRING
+うわあ、哀れだねぇ。
+一文無しの上に、路地裏で女にボコられて
+踏みつけられてるとか、男として最低レベルじゃない？」
+\\N[12]
+> CONTEXT: Map149/events/38/pages/0/201/Dialogue
+> CONTEXT: Map025/events/267/pages/0/247/Dialogue
+Wow, I feel pathetic. On top of one sentence, a woman is
+stolen by the woman behind the alley. Is it the lowest
+level as a man, such as being stepped on?」
+\\N[12]#MTLed
+> END STRING
+
+> BEGIN STRING
+「う、ううっ……」
+> CONTEXT: Map149/events/38/pages/0/206/Dialogue
+> CONTEXT: Map025/events/267/pages/0/252/Dialogue
+「Uu......」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「さて、金は……
+なんだい、これっぽっちしか持ってないのかい。
+それじゃ、全部貰っといてやるよ」
+> CONTEXT: Map149/events/38/pages/0/210/Dialogue
+> CONTEXT: Map149/events/38/pages/1/158/Dialogue
+> CONTEXT: Map025/events/267/pages/0/256/Dialogue
+> CONTEXT: Map025/events/267/pages/1/187/Dialogue
+A girl. 「Well, gold ...... How are you, have only this one?
+Well then I'll give you all」#MTLed
+> END STRING
+
+> BEGIN STRING
+所持金をすべて奪われた！
+> CONTEXT: Map149/events/38/pages/0/216/Dialogue
+> CONTEXT: Map149/events/38/pages/1/164/Dialogue
+> CONTEXT: Map149/events/38/pages/2/145/Dialogue
+> CONTEXT: Map025/events/267/pages/0/262/Dialogue
+> CONTEXT: Map025/events/267/pages/1/193/Dialogue
+> CONTEXT: Map025/events/267/pages/2/175/Dialogue
+I was robbed of all my money!#MTLed
+> CONTEXT: Commonevents/4/23/Dialogue
+> CONTEXT: Commonevents/258/23/Dialogue
+I was robbed of all my money!#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「それじゃね、坊や。
+ボコボコにされたいか、金を貢ぎたかったら
+またここに来てもいいんだよ？　あはははっ！」
+> CONTEXT: Map149/events/38/pages/0/223/Dialogue
+> CONTEXT: Map149/events/38/pages/1/171/Dialogue
+> CONTEXT: Map025/events/267/pages/0/269/Dialogue
+> CONTEXT: Map025/events/267/pages/1/200/Dialogue
+A girl. 「Well, boy. Want to be made into, I would like to
+contribute money. You can come here again?Hahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「く、くそっ……
+あんなチンピラ女に負けて、踏みにじられちまうなんて
+なんて情けないんだ……」
+> CONTEXT: Map149/events/38/pages/0/229/Dialogue
+> CONTEXT: Map025/events/267/pages/0/275/Dialogue
+\\N[12]. 「Damn it...damn. I can not lose to such a
+small fry mob woman, I'm trampled. How miserable.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女にケンカを吹っかけられて
+ボコボコにされ、
+お金を巻き上げられてしまった……
+> CONTEXT: Map149/events/38/pages/0/234/Dialogue
+> CONTEXT: Map149/events/38/pages/1/182/Dialogue
+> CONTEXT: Map025/events/267/pages/0/280/Dialogue
+> CONTEXT: Map025/events/267/pages/1/217/Dialogue
+\\N[12] Is blowing a fight on deliquent girl
+It is done, I got my money rolled up ...#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「あ、こないだあたしにビビッて金を置いてってくれた
+情けない男じゃん。
+また来たんだ」
+> CONTEXT: Map149/events/38/pages/1/4/Dialogue
+> CONTEXT: Map025/events/267/pages/1/3/Dialogue
+A girl. 「Oh, I have put money on me at in shock the other
+day. It is a miserable man. I came again.」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「で、なんで来たわけ？
+まさか、こないだの仕返しにでも来たとか
+言うんじゃないだろうね」
+> CONTEXT: Map149/events/38/pages/1/12/Dialogue
+> CONTEXT: Map025/events/267/pages/1/18/Dialogue
+A girl. 「So why did you come? No way, I came even in the
+revenge of the past. You do not have to say」#MTLed
+> END STRING
+
+> BEGIN STRING
+お金を払って見逃してもらう
+> CONTEXT: Map149/events/38/pages/1/17/Choice/1
+> CONTEXT: Map149/events/38/pages/1/17/Choice/1
+> CONTEXT: Map149/events/38/pages/1/299/Choice/1
+> CONTEXT: Map149/events/38/pages/1/299/Choice/1
+> CONTEXT: Map025/events/267/pages/1/23/Choice/1
+> CONTEXT: Map025/events/267/pages/1/23/Choice/1
+> CONTEXT: Map025/events/267/pages/1/371/Choice/1
+> CONTEXT: Map025/events/267/pages/1/371/Choice/1
+Pay money and overlook it#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「もうお前に渡す金なんてないぜ。
+この前はつい腰が引けちまったが……
+今回は、お前をこらしめてやろうと思ってな」
+> CONTEXT: Map149/events/38/pages/1/19/Dialogue
+> CONTEXT: Map025/events/267/pages/1/25/Dialogue
+\\N[12]. 「There is no money to give to you anymore.
+The last waist caught before .... This time, I'm thinking
+of cunning you」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「へえ、あたしとケンカしようっての？
+面白いじゃん、あんたみたいなヘタレが
+あたしにかなうとでも思ってんの？」
+> CONTEXT: Map149/events/38/pages/1/24/Dialogue
+> CONTEXT: Map025/events/267/pages/1/30/Dialogue
+A girl. 「Oh, are you trying to fight with me?
+It's funny, you look like you. Do you even think that I
+will meet you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「やってみれば分かるぜ。
+来いっ！」
+> CONTEXT: Map149/events/38/pages/1/29/Dialogue
+> CONTEXT: Map025/events/267/pages/1/35/Dialogue
+\\N[12]. 「I can tell by doing it. Come!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうだっ！
+お前は兵士の詰め所にでも突き出してやるぜ。
+女だからって見逃しはしないっ！」
+> CONTEXT: Map149/events/38/pages/1/37/Dialogue
+> CONTEXT: Map149/events/38/pages/1/314/Dialogue
+> CONTEXT: Map025/events/267/pages/1/50/Dialogue
+> CONTEXT: Map025/events/267/pages/1/391/Dialogue
+\\N[12]. 「How! You'll protrude even at the soldier's
+stuff. I will not overlook it because it's a woman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ちっ、こんな男にやられちまうなんて……
+覚えてなっ！」
+> CONTEXT: Map149/events/38/pages/1/42/Dialogue
+> CONTEXT: Map149/events/38/pages/1/319/Dialogue
+> CONTEXT: Map025/events/267/pages/1/55/Dialogue
+> CONTEXT: Map025/events/267/pages/1/396/Dialogue
+A girl. 「Well, I guess I can get stuck by a man like this
+... Remember it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、逃げた……
+くそっ、金を取り戻し損ねたか」
+> CONTEXT: Map149/events/38/pages/1/49/Dialogue
+> CONTEXT: Map149/events/38/pages/1/325/Dialogue
+> CONTEXT: Map025/events/267/pages/1/81/Dialogue
+> CONTEXT: Map025/events/267/pages/1/422/Dialogue
+\\N[12]. 「Oh, I ran away...Damn, did I miss the money?
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「キャハハッ！
+金玉蹴られた男が悶絶する姿、
+いつ見ても無様で滑稽だわ」
+> CONTEXT: Map149/events/38/pages/1/95/Dialogue
+> CONTEXT: Map149/events/38/pages/2/77/Dialogue
+> CONTEXT: Map025/events/267/pages/1/124/Dialogue
+> CONTEXT: Map025/events/267/pages/2/107/Dialogue
+A girl. 「kyahahah! A man whose Jinba kicked man is in
+agony, Whenever you see it, it's unsightly and comical.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うぐぐっ……
+ち、ちくしょうっ……！」
+> CONTEXT: Map149/events/38/pages/1/100/Dialogue
+> CONTEXT: Map149/events/38/pages/2/82/Dialogue
+> CONTEXT: Map025/events/267/pages/1/129/Dialogue
+> CONTEXT: Map025/events/267/pages/2/112/Dialogue
+\\N[12]. 「Ugging...っ ち ょ う, ち ょ う ょ う っ っ っ!」#MTLed
+> END STRING
+
+> BEGIN STRING
+うわあ、哀れだねぇ。
+一文無しの上に、路地裏で女にボコられて
+踏みつけられてるとか、男として最低レベルじゃない？」
+> CONTEXT: Map149/events/38/pages/1/145/Dialogue
+> CONTEXT: Map149/events/38/pages/2/126/Dialogue
+> CONTEXT: Map025/events/267/pages/1/174/Dialogue
+> CONTEXT: Map025/events/267/pages/2/156/Dialogue
+Wow, I feel pathetic. On top of one sentence, a woman is
+stolen by the woman behind the alley. Is it the lowest
+level as a man, such as being stepped on?」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ま、あんまりにも哀れだし、今回は見逃してやるよ。
+あたしはあんたをボコっただけでも楽しかったしね」
+> CONTEXT: Map149/events/38/pages/1/152/Dialogue
+> CONTEXT: Map025/events/267/pages/1/181/Dialogue
+A girl. 「Well, I am pathetic and I will overlook this time.
+I enjoyed just having you bothered」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「く、くそっ……
+あんなチンピラ女に負けて、踏みにじられちまうなんて
+なんて情けないんだ……ううっ……」
+> CONTEXT: Map149/events/38/pages/1/177/Dialogue
+> CONTEXT: Map149/events/38/pages/2/158/Dialogue
+> CONTEXT: Map025/events/267/pages/1/212/Dialogue
+> CONTEXT: Map025/events/267/pages/2/194/Dialogue
+\\N[12]. 「Damn it...damn. I can not lose to such a
+small fry mob woman, I'm trampled. How miserable......
+uugh ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「い、いや……
+その……」
+> CONTEXT: Map149/events/38/pages/1/197/Dialogue
+> CONTEXT: Map025/events/267/pages/1/233/Dialogue
+\\N[12]. 「No……. That……」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふふっ、なに震えてんの？
+やっぱビビッてんじゃん」
+> CONTEXT: Map149/events/38/pages/1/201/Dialogue
+> CONTEXT: Map025/events/267/pages/1/237/Dialogue
+A girl. 「Fuu, what are you trembling? I guess in shock
+tenchan」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「大の男が、女に震えて逆らえないとか
+ホントに金玉ついてるわけ？
+情けなさすぎでしょ、キャハハハッ！
+> CONTEXT: Map149/events/38/pages/1/208/Dialogue
+> CONTEXT: Map025/events/267/pages/1/244/Dialogue
+A girl. 「The big guy trembling and not going against
+Is he really brutal? You are too merciless, kyahahahah!#MTLed
+> END STRING
+
+> BEGIN STRING
+ほら、あたしとケンカする気がないってんなら
+さっさと金出しなよ」
+> CONTEXT: Map149/events/38/pages/1/213/Dialogue
+> CONTEXT: Map025/events/267/pages/1/249/Dialogue
+Hey, if you do not feel like fighting with me
+Get out of your money quickly」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「は？　金持ってないじゃん、あんた。
+それでよくあたしの前に顔を出せたね。
+おらっ！」
+> CONTEXT: Map149/events/38/pages/1/217/Dialogue
+> CONTEXT: Map025/events/267/pages/1/255/Dialogue
+A girl. 「? I do not have any money, you.
+Well I could often see a face in front of me.
+Here!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「がはっ！」
+> CONTEXT: Map149/events/38/pages/1/227/Dialogue
+> CONTEXT: Map025/events/267/pages/1/269/Dialogue
+\\N[12]. 「Hi!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「こうなったら、あんたをボコって楽しませてもらうよ！
+そらそらっ！」
+> CONTEXT: Map149/events/38/pages/1/230/Dialogue
+> CONTEXT: Map025/events/267/pages/1/275/Dialogue
+A girl. 「If this is the case, I'll let you enjoy it!
+take that っ!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、痛いっ……
+や、やめてくれっ、俺が悪かったからっ！」
+> CONTEXT: Map149/events/38/pages/1/235/Dialogue
+> CONTEXT: Map025/events/267/pages/1/280/Dialogue
+\\N[12]. 「Wow, that hurts...Or, stop it, because I
+was bad!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「はんっ、あげくの果てに女相手に命乞いだなんて、
+男のプライドとか持ってないわけ？
+あんた、もう死んだほうがいいんじゃない」
+> CONTEXT: Map149/events/38/pages/1/239/Dialogue
+> CONTEXT: Map025/events/267/pages/1/284/Dialogue
+A girl. 「At the end of the ceremony, Do not you have a man
+'s pride or something? You should not die anymore」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「まあいいや、ボコボコにして少しは気が晴れたし。
+そんじゃ、さっさとどっか行っちまいな。
+今度来るときは、ちゃんと金持ってこいよ、クズ」
+> CONTEXT: Map149/events/38/pages/1/249/Dialogue
+> CONTEXT: Map025/events/267/pages/1/294/Dialogue
+A girl. 「Well, it made me nice, I felt a little sick.
+Then, you can go quickly somewhere. When coming next time,
+please bring your money properly, Kuzu」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女に一方的に暴行され、
+路地裏から叩き出された……
+> CONTEXT: Map149/events/38/pages/1/255/Dialogue
+> CONTEXT: Map025/events/267/pages/1/308/Dialogue
+\\N[12] Was assaulted unilaterally by deliquent girl,
+I was beaten up from the alley......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はお金を差し出した。
+> CONTEXT: Map149/events/38/pages/1/269/Dialogue
+> CONTEXT: Map149/events/38/pages/1/466/Dialogue
+> CONTEXT: Map025/events/267/pages/1/325/Dialogue
+> CONTEXT: Map025/events/267/pages/1/583/Dialogue
+\\N[12] I offered money.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふふん、ありがたくもらっとくよ。
+そんじゃバイバイ、ヘタレな坊や。
+また貢ぎたくなったらいつでも来なよ♪」
+> CONTEXT: Map149/events/38/pages/1/272/Dialogue
+> CONTEXT: Map025/events/267/pages/1/328/Dialogue
+\\N[12]. 「Come on, thank you. Then, bye bye, hetale boy.
+You can come any time you want to go again♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女を前にして怯えてしまい、
+またもやお金を自分から差し出してしまった。
+> CONTEXT: Map149/events/38/pages/1/277/Dialogue
+> CONTEXT: Map025/events/267/pages/1/333/Dialogue
+\\N[12] I was frightened in front of deliquent girl,
+I offered money from myself again.#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「あれ？　あんた、また来たんだ。
+ふふっ、もうビビッてここには近づかないと思ってたよ」
+> CONTEXT: Map149/events/38/pages/1/287/Dialogue
+> CONTEXT: Map025/events/267/pages/1/351/Dialogue
+A girl. 「that? You came again. Haha, I was already in
+shock and I thought that I would not come here」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「で？　何しに来たわけ？
+まさか、こないだの仕返しに来たとか
+言うんじゃないだろうね」
+> CONTEXT: Map149/events/38/pages/1/294/Dialogue
+> CONTEXT: Map025/events/267/pages/1/366/Dialogue
+A girl. 「so? Why did you come? No way, I came to get back
+for the last time. You do not have to say」#MTLed
+> END STRING
+
+> BEGIN STRING
+仕返しする
+> CONTEXT: Map149/events/38/pages/1/299/Choice/0
+> CONTEXT: Map149/events/38/pages/1/299/Choice/0
+> CONTEXT: Map025/events/267/pages/1/371/Choice/0
+> CONTEXT: Map025/events/267/pages/1/371/Choice/0
+To retaliate#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「もちろん、リベンジに来た！
+お前みたいなチンピラ女にやられっぱなしでいたら
+剣士として情けなさすぎるからな！」
+> CONTEXT: Map149/events/38/pages/1/301/Dialogue
+> CONTEXT: Map025/events/267/pages/1/373/Dialogue
+\\N[12]. 「Of course, I came to the revenge!
+Small fry mob like you If you keep being killed
+I am overwhelmed as a swordsman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふん、チンピラとはご挨拶じゃん。
+また女にボコられる屈辱をたっぷり味わわせてやるよっ！」
+> CONTEXT: Map149/events/38/pages/1/306/Dialogue
+> CONTEXT: Map025/events/267/pages/1/378/Dialogue
+A girl. 「Hmm, I'm a greeting with small fry mob.
+I will taste plenty of humiliation burned by a woman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふふん、意気込んでリベンジに来といて、その程度なわけ？
+ケンカで女に負けて、地面に這いつくばって
+情けない男だね、あんた」
+> CONTEXT: Map149/events/38/pages/1/345/Dialogue
+> CONTEXT: Map025/events/267/pages/1/442/Dialogue
+A girl. 「Differently, I came to revenge enthusiastically,
+is that the reason? Lose to the woman with a fight, crawl
+on the ground. You're a miserable guy, you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うぐっ……
+く、くそぉっ……」
+> CONTEXT: Map149/events/38/pages/1/351/Dialogue
+> CONTEXT: Map025/events/267/pages/1/448/Dialogue
+\\N[12]. 「Ugly...Damn it ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ま、あたしとしちゃあ弱い男をボコるのは
+ストレス解消にもなって金も巻き上げられるし
+ありがたいことなんだけどねー」
+> CONTEXT: Map149/events/38/pages/1/355/Dialogue
+> CONTEXT: Map025/events/267/pages/1/452/Dialogue
+A girl. 「Well, it is my fault that I am a weak man
+You can also relax stress and win money. Thankfully it is
+not」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「って、金持ってないわけ？
+ったく、一文無しの上に女にボコボコにされてるとか
+生きてて恥ずかしくならない？」
+> CONTEXT: Map149/events/38/pages/1/361/Dialogue
+> CONTEXT: Map025/events/267/pages/1/458/Dialogue
+A girl. 「You do not have money? Wanted to be a woman on
+top of one sentence. Do not be ashamed to live?」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「まあいいや、次はちゃんと金持ってきなよ。
+んじゃ、バイバイ、弱っちぃ坊や♪」
+> CONTEXT: Map149/events/38/pages/1/369/Dialogue
+> CONTEXT: Map025/events/267/pages/1/466/Dialogue
+A girl. 「Well, okay, bring me money for the next.
+Bye, bye bye, weak chiyo boy♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女とケンカをして
+再度ボコボコにされ、路地裏から叩き出された。
+> CONTEXT: Map149/events/38/pages/1/374/Dialogue
+> CONTEXT: Map025/events/267/pages/1/471/Dialogue
+\\N[12] Doing a fight with deliquent girl
+It was done again and was beaten out from the back alley.#MTLed
+> END STRING
+
+> BEGIN STRING
+お金を奪われた！
+> CONTEXT: Map149/events/38/pages/1/385/Dialogue
+> CONTEXT: Map025/events/267/pages/1/491/Dialogue
+I was robbed of money!#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「お金いただき♪
+んじゃ、またね坊や。
+あんたみたいなカモならいつでも歓迎だよ、キャハハッ！」
+> CONTEXT: Map149/events/38/pages/1/388/Dialogue
+> CONTEXT: Map025/events/267/pages/1/494/Dialogue
+A girl. 「For money♪. Hey, buddy again. If you like a duck,
+you are always welcome, kyahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……
+く、悔しすぎるっ……！」
+> CONTEXT: Map149/events/38/pages/1/393/Dialogue
+> CONTEXT: Map025/events/267/pages/1/499/Dialogue
+\\N[12]. 「Uu...... Well, I regret too ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女とケンカをして
+またもボコボコにされた上、
+金を巻き上げられてしまった……
+> CONTEXT: Map149/events/38/pages/1/398/Dialogue
+> CONTEXT: Map025/events/267/pages/1/504/Dialogue
+\\N[12] Doing a fight with deliquent girl
+In addition to being done again, Gold was rolled up......#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ん？　なにやってんの、腰が引けてるし
+体も震えてない？
+あ、まさか……」
+> CONTEXT: Map149/events/38/pages/1/416/Dialogue
+> CONTEXT: Map025/events/267/pages/1/531/Dialogue
+A girl. 「Hmm? What are you doing, your waist is pulling
+Your body is not trembling? Oh, no way ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「あはっ。おおかた、仕返しに来たはいいものの
+あたしにボコボコにされたのを思い出して
+怖くなっちまったってとこじゃないの？」
+> CONTEXT: Map149/events/38/pages/1/421/Dialogue
+> CONTEXT: Map025/events/267/pages/1/536/Dialogue
+A girl. 「Hahah.Often, although it is nice to come back
+Remembering being made to me. Is not it scared to be
+scared?」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふーん、そんなにあたしにボコされたのが
+トラウマになっちゃったんだぁ。
+ふふっ、また金玉蹴ってやろうか？」
+> CONTEXT: Map149/events/38/pages/1/429/Dialogue
+> CONTEXT: Map025/events/267/pages/1/544/Dialogue
+A girl. 「Hmm, that was why I was bothered by that much
+I got trauma. Huh, will I kick the gold ball again?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ひっ……！」
+> CONTEXT: Map149/events/38/pages/1/434/Dialogue
+> CONTEXT: Map025/events/267/pages/1/549/Dialogue
+\\N[12]. 「Hit ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「キャハハッ！　女みたいな悲鳴上げちゃって
+情けなーい♪
+ま、金払えば見逃してやってもいいよ。ほら、出しな」
+> CONTEXT: Map149/events/38/pages/1/437/Dialogue
+> CONTEXT: Map025/events/267/pages/1/552/Dialogue
+A girl. 「kyahahah! I screamed like a girlfriend
+Miserable♪. Well, if you pay, you can overlook it. Here.」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ん？　金持ってないんだ、あんた。
+ったく、何しに来たわけ？
+ってそうか、リベンジに来たんだっけ、あははっ！」
+> CONTEXT: Map149/events/38/pages/1/446/Dialogue
+> CONTEXT: Map025/events/267/pages/1/563/Dialogue
+A girl. 「Hmm? I do not have any money, you.
+Why did you come to do? I see, I came to the revenge,
+Hahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「まあいいや、じゃあ金は今度持ってきな。
+さすがに哀れすぎて、何もする気しないから
+見逃してあげる」
+> CONTEXT: Map149/events/38/pages/1/454/Dialogue
+> CONTEXT: Map025/events/267/pages/1/571/Dialogue
+A girl. 「Well, OK, then bring me money next time.
+It is truly pitiful and I do not feel like doing anything
+I will miss it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女への恐怖から
+再挑戦することもできず、すごすごと裏路地を後にした……
+> CONTEXT: Map149/events/38/pages/1/460/Dialogue
+> CONTEXT: Map025/events/267/pages/1/577/Dialogue
+\\N[12] Because of the fear of deliquent girl
+I could not even try again, and I left the alley back ...
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふふん、じゃあこれは貰っとくよ。
+またあたしに貢ぎたくなったら、いつでも来なよ。
+んじゃ、またねー♪」
+> CONTEXT: Map149/events/38/pages/1/470/Dialogue
+> CONTEXT: Map025/events/267/pages/1/587/Dialogue
+A girl. 「Come on, then I can get this. If you want to
+become tired of me again, come any time.
+Hey, see you again.♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女への恐怖から、
+再挑戦することもできず、自分から金を差し出し
+震えながらその場を立ち去った……
+> CONTEXT: Map149/events/38/pages/1/476/Dialogue
+> CONTEXT: Map025/events/267/pages/1/593/Dialogue
+\\N[12] Because of the fear of deliquent girl,
+I can not even try again, give me money from myself
+I left the spot with trembling......#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「それにしても、全然かなわなかったね。
+やっぱり今のわたしじゃあ、
+武道大会に出るのは厳しいのかなあ……」
+> CONTEXT: Map025/events/268/pages/0/5/Dialogue
+Purim. 「Even so, it did not change at all.
+After all I am now, I wonder if it will be
+difficult for martial arts tournament......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「べつに、歳を考えりゃ充分たいした腕前だと思うけどな。
+どうして、そんなに武道大会に出たいんだ？」
+> CONTEXT: Map025/events/268/pages/0/10/Dialogue
+\\N[12]. 「Even though I consider himself to be old
+enough, he thinks he is sufficiently skilled.
+Why do you want to go to the martial arts tournament so
+much?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「いつも学院の大会で対戦してるライバルの子がいるの。
+その子も武道大会に出るっていうから、
+わたしも出てみたくなっちゃって。
+> CONTEXT: Map025/events/268/pages/0/14/Dialogue
+Purim. 「I always have a rival's boy fighting at
+the school tournament. Because that child also
+comes out to martial arts tournament,
+I wanted to get out too.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、わたし剣のお稽古が好きだから。
+強い人と対戦してみたいっていう気持ちもあるの」
+> CONTEXT: Map025/events/268/pages/0/19/Dialogue
+Besides, I like practicing swords.
+I feel like I want to play against strong people」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど。
+ライバルに負けたくないってことか」
+> CONTEXT: Map025/events/268/pages/0/22/Dialogue
+\\N[12]. 「I see. I mean you do not want to lose to the
+rival」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うーん、どうしよう……
+こうなったら、武者修行に行ってみようかな。
+でも、ひとりじゃお母さんが許してくれないかも……」
+> CONTEXT: Map025/events/268/pages/0/26/Dialogue
+Purim. 「Well, what shall I do ......
+If so, I think I should go to Musha training.
+But, maybe you will not forgive mother ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（どうする？）
+> CONTEXT: Map025/events/268/pages/0/31/Dialogue
+\\N[12]. (what will you do?)#MTLed
+> END STRING
+
+> BEGIN STRING
+おてんばな子だけど、やっぱり女の子だから
+誰か信頼のおける大人に
+見ていてやってほしいんだよ」
+> CONTEXT: Map025/events/268/pages/0/81/Dialogue
+She is a tomboy, but she is a girl after all.
+To someone trusty adults. I want you to watch it and do it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「おにいさん、今回はわたしに付き合ってくれて
+ありがとね！
+また一緒にどこかに冒険に行きたいなあ」
+> CONTEXT: Map025/events/270/pages/0/6/Dialogue
+\\N[15]. 「Older, they accompany me this time
+Thanks dear! I want to go somewhere for adventure
+again」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな。まあでも、まずは武道大会だ。
+お互い、ダレットさんの作ってくれた武具に恥じないよう
+頑張ろうぜ」
+> CONTEXT: Map025/events/270/pages/0/12/Dialogue
+\\N[12]. 「That's right. Well, first, it is a martial
+arts tournament. Do not be ashamed of each other, a weapon
+made by Dalet-san. Let's do our best.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな。まあでも、まずは武道大会だ。
+お互い、いい戦いができるように頑張ろうぜ」
+> CONTEXT: Map025/events/270/pages/0/19/Dialogue
+\\N[12]. 「That's right. Well, first, it is a martial
+arts tournament. Let's keep on trying each other so that a
+good fight can be made.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「うんっ！
+おにいさん、大会で当たったときは負けないよー？」
+> CONTEXT: Map025/events/270/pages/0/25/Dialogue
+\\N[15]. 「Wow! Oh, you can not lose when you
+hit in tournament?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（プリムは魔物と戦いながら、
+すごいスピードで強くなっていた。
+今のプリムは、もしかしたら俺よりも強いのかも……
+> CONTEXT: Map025/events/270/pages/0/32/Dialogue
+\\N[12]. (Purim fighting monster, It was getting
+stronger at a great speed. Purim is probably stronger than
+I am ....#MTLed
+> END STRING
+
+> BEGIN STRING
+いや、プリムが武道大会に出るんなら俺と当たる可能性も
+あるんだから、弱気はいけないな。
+俺もこいつに負けないぐらい力を伸ばしていかなくては）
+> CONTEXT: Map025/events/270/pages/0/37/Dialogue
+No, if Purim comes out to martial arts tournament,
+There is nothing to bearish. I also have to extend my
+strength not to beat him)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（プリムの素質はかなりのものだ。
+でも、この武者修行では正直、そこまでの伸びは見られなかった。
+もっと戦わせておくべきだったかな……）
+> CONTEXT: Map025/events/270/pages/0/44/Dialogue
+\\N[12]. (The quality of Purim is pretty.
+However, honesty with this martial arts training, there was
+no growth so far. Should I have kept it fighting ...?)#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムとのクエストを達成した！
+> CONTEXT: Map025/events/270/pages/0/52/Dialogue
+We have achieved a quest with Purim!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（プリムを満足に成長させてやれなかったのは
+悔いが残るな……）
+> CONTEXT: Map025/events/270/pages/0/60/Dialogue
+\\N[12]. (I did not get Purim to grow satisfactorily
+Regret is left......)#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムとのクエストに失敗してしまった……
+> CONTEXT: Map025/events/270/pages/0/64/Dialogue
+I failed the quest with Purim ......#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「来月はロイヤルガード選抜大会さ。
+王都の兵士がこぞって参加し、ロイヤルガード入りを狙う……
+この大会もレベルが高くて面白いんだぜ」
+> CONTEXT: Map025/events/271/pages/0/0/Dialogue
+male. 「Next month is the royal guard selection tournament.
+Soldiers of Kingdom join together and aim for entering
+royal guard ...... This tournament also has a high level
+and it's interesting」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「武道大会も終わって、旅行者も故郷に帰ってゆくね。
+毎年、この時期は物悲しい気持ちになるんだよ」
+> CONTEXT: Map025/events/273/pages/0/0/Dialogue
+A student. 「The martial arts tournament is over and
+travelers will also return home. Every year, this time I
+feel sad」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今はこんなところに来てる場合じゃないな」
+> CONTEXT: Map025/events/275/pages/0/0/Dialogue
+> CONTEXT: Map025/events/275/pages/1/0/Dialogue
+\\N[12]. 「It is not the case that I am coming to this
+place right now.」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あとは武道大会まで
+少しでも強くなれるように頑張らなくちゃ！
+> CONTEXT: Map025/events/3/pages/6/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、おにいさん、手合わせしてみる？」
+> CONTEXT: Map025/events/3/pages/6/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「全力で相手してね、おにいさんっ！」
+> CONTEXT: Map025/events/3/pages/6/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「そっかー、残念だなぁ。
+もしかして、わたしに負けるようになったら
+戦いたくない……なんてことは、ないよね？」
+> CONTEXT: Map025/events/3/pages/6/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「そっかー、忙しいんだね。
+また相手してね、おにいさん！」
+> CONTEXT: Map025/events/3/pages/6/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+若者
+「武道大会が終わると、一気に冬の空気になってくる。
+これからの時期に賑わうのは温泉のあるウィギスさ」
+> CONTEXT: Map025/events/73/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+主婦Ａ
+「去年優勝のレオン選手、
+2次予選で敗退しちゃったわね」
+> CONTEXT: Map025/events/225/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/226/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+主婦Ｂ
+「ええ、
+まさか剣士の女の子に負けちゃうなんてねぇ」
+> CONTEXT: Map025/events/225/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/226/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+主婦Ａ
+「あんなに強い男の人を
+女の子が倒しちゃうなんて……
+姫様もいらっしゃるし、今年は面白いことになりそうね」
+> CONTEXT: Map025/events/225/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/226/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+主婦Ａ
+「今年の武道大会は女性の活躍が目立ったし、
+女としては嬉しい内容の大会だったわね。
+まあ、優勝したのは男の子だったけど」
+> CONTEXT: Map025/events/225/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+主婦Ｂ
+「今回の大会、優勝した男の子
+かわいかったわねえ」
+> CONTEXT: Map025/events/226/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こんなところに来てる場合じゃないな。
+今は宿を探さないと」
+> CONTEXT: Map025/events/255/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

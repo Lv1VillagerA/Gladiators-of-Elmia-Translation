@@ -1,0 +1,155 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+若者
+「そこの階段を上がると、コンコースの上階まで一気に行ける。
+立ち見席があるから、
+スタンドの席を取れていないなら、そこから観戦したらいい」
+> CONTEXT: Map054/events/10/pages/0/0/Dialogue
+Youth. 「As you go up the stairs there you can go up to the
+upper floor of the tournament. Because there is a standing
+room, Take the stand seat and watch it from there」#MTLed
+> END STRING
+
+> BEGIN STRING
+商人
+「スタンドでも食べやすいような軽食をいろいろ用意して、
+大会当日はたくさん売りますよー」
+> CONTEXT: Map054/events/14/pages/0/0/Dialogue
+merchant. 「We prepared snacks that are easy to eat even on
+the stand, tournament I will sell a lot on the day」#MTLed
+> END STRING
+
+> BEGIN STRING
+商人
+「軽食どうだい、おいしい焼肉串あるよー！」
+> CONTEXT: Map054/events/14/pages/1/0/Dialogue
+merchant. 「How about snacks, how tasty yakiniku skewers
+are!」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「東控室は女子選手用となっております。
+男性の方は立ち入りをご遠慮願います」
+> CONTEXT: Map054/events/17/pages/0/0/Dialogue
+Attendant. 「The east section is for women's players.
+Male please refrain from entering」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェフ
+「押さないで押さないで！
+商品は充分に用意してありますから！」
+> CONTEXT: Map054/events/18/pages/0/0/Dialogue
+chef. 「Do not push it without pushing it!
+Because goods are prepared enough!」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「こちらは東側選手控室入口となります。
+大会開催時には女性用控室として使われます」
+> CONTEXT: Map054/events/19/pages/0/0/Dialogue
+Attendant. 「This is the entrance to the east side players'
+waiting room. It is used as a women's waiting room at
+tournament holding」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「こちらは東側選手控室入口となります」
+> CONTEXT: Map054/events/19/pages/1/0/Dialogue
+Attendant. 「This will be the entrance to the east side
+players' waiting room」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「ここは王都でも有名な料理人のアーロンさんの
+出店用スペースなんですよ。
+当日はきっと盛況になると思いますよー」
+> CONTEXT: Map054/events/21/pages/0/0/Dialogue
+A maid. 「This is Aaron-san's famous chef even the kingdom
+It is a space for opening a store. I think that the day
+will certainly be a great success」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「アーロンハウスのおいしい魚介料理ですよー！
+オススメはマディンフィッシュのフリッターサンド！
+観戦しながら食べるのに最適ですよー！」
+> CONTEXT: Map054/events/23/pages/0/0/Dialogue
+Maid. 「It is a delicious seafood dish of Aaron House!
+Recommended is maduin fish's fritters sandwich!
+It's great to eat while watching it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「こっちのお店も、アーロンハウスと微妙にジャンル違いの
+食べ物を用意してくるあたり、なかなかセンスあるね」
+> CONTEXT: Map054/events/24/pages/0/0/Dialogue
+Youth. 「This shop is slightly different from genre of
+Aaron House. As I prepare food, I feel pretty good」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「ビールはないのかい」
+> CONTEXT: Map054/events/26/pages/0/0/Dialogue
+male. 「Do you have any beer?」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「サンドイッチは警備をしながらでも食べられるからね。
+だから買おうとしているだけで、
+決して業務をないがしろにしているわけではないのだよ」
+> CONTEXT: Map054/events/34/pages/0/0/Dialogue
+A soldier. 「You can eat sandwiches while guarding them.
+So just by buying it, It's not that I've never missed a job
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「いいわねぇ、サンドイッチなのに
+ジューシーなフリッターを味わえるって」
+> CONTEXT: Map054/events/35/pages/0/0/Dialogue
+Woman. 「Sounds good, even though it's a sandwich
+You can taste the juicy fritters.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「ガヤガヤ」
+> CONTEXT: Map054/events/36/pages/0/0/Dialogue
+> CONTEXT: Map058/events/47/pages/0/0/Dialogue
+Woman. 「」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「ワイワイ」
+> CONTEXT: Map054/events/38/pages/0/0/Dialogue
+male. 「lively」#MTLed
+> END STRING
+
+> BEGIN STRING
+太った男性
+「こっちの店もなかなかウマいね。
+肉が食いたくなったときはこっちだ」
+> CONTEXT: Map054/events/39/pages/0/0/Dialogue
+A fat man. 「This shop is pretty horrible.
+It is this when me want to eat meat」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「こっち側には女性選手用の控室がある。
+中を覗き見られないかな」
+> CONTEXT: Map054/events/40/pages/0/0/Dialogue
+male. 「There is a waiting room for female players on this
+side. I wonder if I can look into the inside」#MTLed
+> END STRING

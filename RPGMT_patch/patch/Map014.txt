@@ -1,0 +1,178 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+メイドさん
+「あら、\\N[12]さん、いらっしゃい。
+旦那さまにご用なら２階にどうぞ」
+> CONTEXT: Map014/events/3/pages/0/0/Dialogue
+Maid. 「Oh, \\N[12] Ms. Welcome. If you are willing to
+your husband please go to the second floor」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「海釣り？
+私もたまに行くわよ、レストンの海はよく釣れるのよねー」
+> CONTEXT: Map014/events/3/pages/1/0/Dialogue
+Maid. 「Sea fishing? Sometimes I go, the Reston sea can
+catch well」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へぇー、メイドさん釣りとかするんだ」
+> CONTEXT: Map014/events/3/pages/1/4/Dialogue
+\\N[12]. 「Well, we're going to fish maids.」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「父の趣味に付き合わされて、だけどね」
+> CONTEXT: Map014/events/3/pages/1/7/Dialogue
+Maid. 「I have been dating my father's hobby, but」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「じゃあさ、海の魚で何か、特別美味しいのって知ってる？
+なにかサンプルで持ってきてくれって、
+王都で頼まれてるんだよ」
+> CONTEXT: Map014/events/3/pages/1/10/Dialogue
+\\N[12]. 「Well then, do you know something with the sea
+fish, it is special tasty? Please bring me some sample,
+I was asked by the kingdom」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「そうねぇ、私が食べた中で一番美味しかったのは
+マディンフィッシュっていう、岩場でよく釣れる魚かなぁ。
+青魚なんだけど、身がプリプリして焼くと美味しいのよー」
+> CONTEXT: Map014/events/3/pages/1/15/Dialogue
+Maid. 「Oh yeah, the most delicious thing I ate was
+I guess maduin fish is a fish that can be caught well in a
+rocky place. It is a blue fish, but if you bake yourself
+and taste it is delicious」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へえぇ……
+それ、東の海岸で釣れるかな？」
+> CONTEXT: Map014/events/3/pages/1/20/Dialogue
+\\N[12]. 「Well ... Can you catch it on the east coast?」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「ええ、初心者にも釣りやすい魚だから大丈夫よ。
+父に言えばいらない釣り竿もくれると思うわ。
+2階にいる執事が父だから、聞いてみて」
+> CONTEXT: Map014/events/3/pages/1/24/Dialogue
+Maid. 「Well, it's OK for beginners because it's easy to
+fish. I think that it will give us a fishing rod that we
+should tell my father. Because the butler on the second
+floor is my father, ask me」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「父なら2階にいるわ。
+それとも村長さんにご用？」
+> CONTEXT: Map014/events/3/pages/2/0/Dialogue
+Maid. 「If my father is on the second floor.
+Or are you going to Village Head?」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「あら\\N[12]君、
+武道大会優勝おめでとう！
+キミってすっごく強かったのね、見直しちゃったわ」
+> CONTEXT: Map014/events/3/pages/3/0/Dialogue
+Maid. 「Oh \\N[12] You, Congratulations Martial arts
+tournament winning! You were so strong, I reviewed it」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「旦那さまは温厚な方だし、村は平和そのもの、
+城下町であくせく働いてた頃よりも
+よっぽど暮らしやすいぜ」
+> CONTEXT: Map014/events/4/pages/0/0/Dialogue
+old man. 「My husband is a warm one, and the village is
+peace itself, More than when I worked hard in the castle
+town. It's easy to live in much better」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「王都では、ベックフォード侯爵って方の料理を作っていたんだけどな。
+これが金払いが悪い上に、ひどくこき使う方でな。
+もう貴族の相手はまっぴらってもんさ」
+> CONTEXT: Map014/events/4/pages/1/0/Dialogue
+old man. 「In the kingdom, I was cooking for the recipe of
+Beckford Marquis. This is a bad payment and a bad battle.
+The nobility's opponent is no longer spiritual」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「私、エルミアの出身なんだけれど……
+盗賊団のせいで、たまの帰省もできなくなっちゃった。
+誰かなんとかしてくれないかしら……」
+> CONTEXT: Map014/events/5/pages/0/0/Dialogue
+Maid. 「I am from Elmia, though .... Because of the bandit
+group, I can no longer return home occasionally.
+I wonder if someone will do something ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「盗賊団を退治してくれたんですってね。
+おかげでお休みのときに実家に帰省することができるわ、
+本当にありがとう！」
+> CONTEXT: Map014/events/5/pages/1/0/Dialogue
+Maid. 「You exterminated the bandits team.
+Thanks to you I will be able to return home to my parents
+when I have a day off, Thank you very much!」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「\\N[12]君がいつも頑張って鍛錬していたのは
+みんな知っているからね。
+優勝、本当におめでとう」
+> CONTEXT: Map014/events/5/pages/2/0/Dialogue
+Maid. 「\\N[12] You always worked hard and trained
+Everyone knows. Congratulations on winning」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「エルミアへの洞窟の構造？
+大きく分けて北、南、東の３区画あるけれど、
+東側が一番広いかなー」
+> CONTEXT: Map014/events/6/pages/0/0/Dialogue
+Maid. 「Structure of a cave to Elmia? Although there are
+three sections north, south, and east, The eastern side is
+the largest」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「でもまあ、エルミアに行くだけなら東側には
+入る必要ないけどね。
+だって北に抜ければいいんだもの」
+> CONTEXT: Map014/events/6/pages/0/5/Dialogue
+Maid. 「Well, if you only go to Elmia, I do not need to
+enter. Because it's okay to get out to the North」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「\\N[12]君はもう村の誇りねぇ、
+私も武道大会、見に行けばよかったー」
+> CONTEXT: Map014/events/6/pages/1/0/Dialogue
+Maid. 「\\N[12] You are already proud of the village,
+I should have visited martial arts tournament, see」#MTLed
+> END STRING

@@ -1,0 +1,60 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+『地下水道管理室Ａ』
+と書いてある。
+> CONTEXT: Map114/events/6/pages/0/0/Dialogue
+"Ground water service management room A"
+It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「まじめな兵士の男たちを
+快楽に堕としちゃうのも、楽しいわねぇ♪
+ほら、もっとぴゅっぴゅしなさい♪」
+> CONTEXT: Map114/events/7/pages/0/0/Dialogue
+sexy bandit. 「Serious soldier men. It is fun to make it
+fall into pleasures♪. See, more tightly♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「あ、あひいいぃ……！」
+> CONTEXT: Map114/events/7/pages/0/6/Dialogue
+A soldier. 「Oh, overweight ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「ひっ、ひいっ……
+も、もっと、もっとおぉ……」
+> CONTEXT: Map114/events/8/pages/0/0/Dialogue
+A soldier. 「Hit, huh ...... More, more, more ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（セクシーバンディットに嫐られて
+おかしくなっているようだ……）
+> CONTEXT: Map114/events/8/pages/0/4/Dialogue
+\\N[12]. (Caught in sexy bandit. It looks strange ...
+...)#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「あううっ……き、気持ちいい……」
+> CONTEXT: Map114/events/9/pages/0/0/Dialogue
+> CONTEXT: Map114/events/10/pages/0/0/Dialogue
+A soldier. 「A uugh ... ... come, feel good ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（あたりに精液が飛び散っている……
+セクシーバンディットにやられたようだな）
+> CONTEXT: Map114/events/9/pages/0/3/Dialogue
+> CONTEXT: Map114/events/10/pages/0/3/Dialogue
+\\N[12]. (Semen is scattering around ... ...
+sexy bandit seems to have been killed)#MTLed
+> END STRING

@@ -1,0 +1,1318 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エルミア城
+> CONTEXT: Map032/display_name/
+Elmia Castle#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「こちらは王族の方々のための
+移動用の船です。
+これで水路を下って街に出ることができるんですよ」
+> CONTEXT: Map032/events/2/pages/0/0/Dialogue
+A soldier. 「This is for the royal family
+It is a ship for moving. Now you can go down the canal to
+the city」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「この時期、お城にはどなたでも出入り自由……
+ではありますが、我々が常に目を光らせております。
+陛下や姫様にもしものことがあってはいけませんからね」
+> CONTEXT: Map032/events/5/pages/0/0/Dialogue
+A soldier. 「Anyone can enter and leave the castle during
+this period ...... Although it is, we are constantly
+keeping an eye out. Because your Majesty and Princess
+should not have anything」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「女王陛下は、この上におわします」
+> CONTEXT: Map032/events/6/pages/0/0/Dialogue
+A soldier. 「Her Majesty will lay on this」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「女王陛下は、武道大会の観戦に向かわれました」
+> CONTEXT: Map032/events/6/pages/1/0/Dialogue
+A soldier. 「Her Majesty the Queen went to watch the
+martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「女王陛下は、自室におわします」
+> CONTEXT: Map032/events/6/pages/2/0/Dialogue
+A soldier. 「Your majesty fits into your room」#MTLed
+> END STRING
+
+> BEGIN STRING
+文官
+「ようこそ、エルミア城へ」
+> CONTEXT: Map032/events/7/pages/0/0/Dialogue
+Civilian. 「Welcome to Elmia Castle」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「ここは姫様のお部屋……なのですが、
+ここのところ武者修行にばかり精を出されていて
+日中はほとんどここにはいらっしゃいません」
+> CONTEXT: Map032/events/14/pages/0/0/Dialogue
+A maid. 「This is the princess's room .... However,
+It has been devoted solely to martial arts training here
+Almost nothing will come here during the day」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「ここは姫様のお部屋です」
+> CONTEXT: Map032/events/14/pages/1/0/Dialogue
+A maid. 「This is the princess's room」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「こちらは女王陛下のお部屋にございます。
+立ち入ることはなりませぬ」
+> CONTEXT: Map032/events/20/pages/0/0/Dialogue
+> CONTEXT: Map032/events/21/pages/0/0/Dialogue
+royal guard. 「This is in the room of Her Majesty Queen.
+You can not enter.」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「エルミア王国軍は、現女王陛下の世となってからは
+やや女性の勢いが増してきたように感じられるな。
+なんとなく、だけど……」
+> CONTEXT: Map032/events/22/pages/0/0/Dialogue
+A soldier. 「The Kingdom of Elmia, since becoming the
+Majesty of the Queen now. It seems that the momentum of
+women has increased somewhat. Somehow, but.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+学者
+「かつては城が最先端の研究をする場所であり、
+我らのようなお抱えの学者が何人もいたものですが、
+みな今は設備や資料の整った王立学院へと移ってしまいました」
+> CONTEXT: Map032/events/29/pages/0/0/Dialogue
+A scholar. 「Once the castle is the place to conduct state
+- of - the - art research, There were a number of scholars
+of our kind like us, Everyone has now moved to Royal
+College where facilities and materials are in place」#MTLed
+> END STRING
+
+> BEGIN STRING
+学者
+「しかし、王侯貴族や知識層のみで独占されていた
+魔法をはじめとした高度な知識を、市民に広く普及させることに
+成功していますので、陛下のなさりようは正しいことなのでしょう」
+> CONTEXT: Map032/events/29/pages/1/0/Dialogue
+A scholar. 「However, it was monopolized only by the royal
+aristocrats and the knowledge layer. To disseminate
+sophisticated knowledge including magic to citizens widely
+Because it is successful, it will be correct for your
+Majesty」#MTLed
+> END STRING
+
+> BEGIN STRING
+学者
+「学院を設立されたのは先代国王ですが、
+現在のように整備されたものになったのは女王陛下の世に
+なって以後なのです」
+> CONTEXT: Map032/events/30/pages/0/0/Dialogue
+A scholar. 「Although it was the former king who
+established the school, It became what was maintained as it
+is now in the world of His Majesty the Queen
+It is after that」#MTLed
+> END STRING
+
+> BEGIN STRING
+宮廷魔術師
+「武道大会で魔法使いが活躍したことはあまりないんですよ。
+一対一で、しかも開けた舞台の上では
+どうしても不利となってしまいますからね」
+> CONTEXT: Map032/events/31/pages/0/0/Dialogue
+Court magician. 「There is not much that wizards played an
+active part in martial arts tournament. On a one-on-one,
+yet open stage. It will be a disadvantage by all means」#MTLed
+> END STRING
+
+> BEGIN STRING
+騎士
+「武道大会は剣士が優勝することが
+やはり多いが――
+どうだろうな、そろそろ魔法職の活躍もあるかな？」
+> CONTEXT: Map032/events/32/pages/0/0/Dialogue
+Knight. 「Martial arts tournament is that swordsmen will win
+Many too many -. I wonder, is there a magical occupation of
+activity soon?」#MTLed
+> END STRING
+
+> BEGIN STRING
+商人
+「いやあ、旅人を城に入れてくれるとは……
+他国ではありえないことですよ。
+故郷に帰ったら自慢できますな、これは」
+> CONTEXT: Map032/events/33/pages/0/0/Dialogue
+merchant. 「Well, that means that we will put the traveler
+in the castle ...... It is impossible in other countries.
+You can brag about when you return home, this is」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「わーい！　おひめさまになったみたーい！」
+> CONTEXT: Map032/events/34/pages/0/0/Dialogue
+girl. 「Hooray! It seems that he became an indispensable
+person!」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「こら、あんまり走り回るんじゃないよー」
+> CONTEXT: Map032/events/35/pages/0/0/Dialogue
+Aunt. 「Hey, do not run around too much」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「一般開放中とはいえ、女王陛下の私室と
+ロイヤルガードの詰め所だけは立ち入り禁止です。
+まあ、さすがに入られたら困るところもあるわけですよ」
+> CONTEXT: Map032/events/45/pages/0/0/Dialogue
+A soldier. 「Although it is open to the general public,
+with the private room of the Queen. Only the royal guard's
+packing lot is off limits. Well, there are some troubles if
+you go into it」#MTLed
+> END STRING
+
+> BEGIN STRING
+女剣士
+「堂々とお城の中を歩けるなんて、貴族にでもなった気分ね。
+でも、今度来るときは武道大会に優勝して、
+女王様に招待されて来る身分になりたいものだわ」
+> CONTEXT: Map032/events/46/pages/0/0/Dialogue
+swordswoman. 「To be able to walk in the castle
+dignifiedly, I feel like being a nobleman.
+But when I come next time I will win the martial arts
+tournament, I would like to be an invitation to the Queen」#MTLed
+> END STRING
+
+> BEGIN STRING
+料理人
+「一般市民も出席を許される晩餐会を開く予定があるんだ。
+準備が大変だが、やりがいがあるぜ」
+> CONTEXT: Map032/events/47/pages/0/0/Dialogue
+Cook. 「There are plans to open a dinner party where
+regular citizens are also allowed to attend.
+It's tough to prepare, but it's rewarding.」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「ここは宝物庫ではない。
+ただの倉庫なのだ」
+> CONTEXT: Map032/events/48/pages/0/0/Dialogue
+A soldier. 「This place is not a treasure box.
+It's just a warehouse.」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「あら、\\N[12]。
+今度、正式にリターンマッチを申し込みに行きますわよ。
+負けっぱなしではいませんから、覚悟なさいっ！」
+> CONTEXT: Map032/events/50/pages/0/0/Dialogue
+alumina. 「Oh, \\N[12] . Next time, I will officially go
+to apply for a return match. I am not losing, so be
+prepared!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よう、アルミナ。
+こうやって堂々とあんたの部屋に入れる身分ってのも
+なかなか気分がいいもんだな」
+> CONTEXT: Map032/events/50/pages/1/0/Dialogue
+\\N[12]. 「Like, alumina. It's like getting into this
+room like a dignified room. I feel pretty good」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふん、すっかりわたくしの主人気取りですわね。
+負けたわたくしが悪いのですけれど」
+> CONTEXT: Map032/events/50/pages/1/5/Dialogue
+alumina. 「Hmm, I'm quite familiar with my
+husband. Although I lost it is bad」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まあ、そう言うなって。
+結婚相手に会いにきたって
+悪いことはないだろ」
+> CONTEXT: Map032/events/50/pages/1/9/Dialogue
+\\N[12]. 「Well, do not say that. I came to see my
+marriage partner. It is not bad」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「そうですわね。
+それにしても、本当にわたくしは
+男に負けてしまったのですわね……」
+> CONTEXT: Map032/events/50/pages/1/14/Dialogue
+alumina. 「That's right. Even so, indeed I
+I was defeated by a man ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんか、まだ不満そうだな。
+結婚相手を探しに武道大会に出たってことは
+そういう覚悟は初めから決まってるもんだと思ってたぜ」
+> CONTEXT: Map032/events/50/pages/1/19/Dialogue
+\\N[12]. 「Something seems still unsatisfactory.
+That I got out to martial arts tournament to look for a
+marriage partner. I thought that such preparation was
+determined from the beginning」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「わたくしは負ける気はいっさいありませんでしたわ！
+単に、より手応えのある相手と戦いたくて
+出場選手の奮起を促しただけのこと」
+> CONTEXT: Map032/events/50/pages/1/24/Dialogue
+alumina. 「I did not feel like losing at all!
+Simply, I want to fight with a more responsive
+opponent. Only to urge the encouragement of
+participating players」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どんな人間だって、負けるときは負けるだろう。
+あんな条件を出して大会に出たのは、
+ちょっとリスキーな行為だったな」
+> CONTEXT: Map032/events/50/pages/1/29/Dialogue
+\\N[12]. 「Any human beings will lose when they lose.
+I went out tournament with such conditions,
+It was a little risky act」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふんっ、もうそのことはよろしいですわ。
+それより、ただお話をしに来ただけですの？」
+> CONTEXT: Map032/events/50/pages/1/34/Dialogue
+alumina. 「Hmm, that thing is OK already.
+By the way, are you just coming to talk?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、今日は女王陛下に
+婚約について正式な挨拶をしといたほうが
+よかったんじゃないかと思って来たんだが……」
+> CONTEXT: Map032/events/50/pages/1/38/Dialogue
+\\N[12]. 「No, today to the Queen. It is better to give
+a formal greeting about engagement. I thought that it was
+good, but ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「まあ、確かにそれは必要なことですわね」
+> CONTEXT: Map032/events/50/pages/1/43/Dialogue
+alumina. 「Well, indeed it is necessary」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「だが、その前に、
+やることをやっておこうかと思えてきたぜ。
+ちょうど、ベッドもあるしな」
+> CONTEXT: Map032/events/50/pages/1/46/Dialogue
+\\N[12]. 「But before that, I think that I should do
+what I do. Just like having a bed.」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「うっ……や、やはり、
+あなたはわたくしに肉欲を向けていますのね……」
+> CONTEXT: Map032/events/50/pages/1/51/Dialogue
+alumina. 「Uh...well, after all,
+You are caring for me......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そりゃ、アルミナのような美人はそうそういないしな。
+結婚するって決めたからには、
+しっかり夜の相手もしてもらうぜ」
+> CONTEXT: Map032/events/50/pages/1/55/Dialogue
+\\N[12]. 「Well, beautiful people like alumina are not.
+Because I decided to get married, Let's have someone at
+night」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、仕方がありませんわね……
+このわたくしの磨き抜かれた体を味わえる栄誉、
+せいぜい噛み締めることですわ」
+> CONTEXT: Map032/events/50/pages/1/60/Dialogue
+\\N[12]. 「There is no way to go......
+Honor this taste of my polished body,
+It's best to bite at best.」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「んあっ……！
+い、いきなり、胸を鷲掴みにするなんて……」
+> CONTEXT: Map032/events/50/pages/1/81/Dialogue
+> CONTEXT: Commonevents/263/6/Dialogue
+alumina. 「Huh ......! Well, suddenly, I will
+take hold of my chest......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は、アルミナの後ろから手をまわし
+大きな胸を両手で揉みしだく！
+> CONTEXT: Map032/events/50/pages/1/85/Dialogue
+> CONTEXT: Commonevents/263/10/Dialogue
+\\N[12] Turning hands from the back of alumina
+Big big chest rubbing with both hands!#MTLed
+> END STRING
+
+> BEGIN STRING
+むにっ、ぐにゅっ……
+> CONTEXT: Map032/events/50/pages/1/88/Dialogue
+> CONTEXT: Commonevents/9/194/Dialogue
+> CONTEXT: Commonevents/227/195/Dialogue
+> CONTEXT: Commonevents/263/13/Dialogue
+Mude, * rub * ......#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「んっ、あっ、あんっ！
+そんなに激しく揉まれると、
+なんだか、変な気分になってきますわ……」
+> CONTEXT: Map032/events/50/pages/1/90/Dialogue
+> CONTEXT: Commonevents/263/15/Dialogue
+alumina. 「Huh, there, Anna! When you are
+massaged so violently, Somehow, it makes me feel
+weird......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（な、なんてなめらかで触り心地のいい
+肌をしてるんだ……
+これが、高貴な女の体か……）
+> CONTEXT: Map032/events/50/pages/1/95/Dialogue
+> CONTEXT: Commonevents/263/20/Dialogue
+\\N[12]. (No, what a smooth and comfortable
+touch. I have a skin...Is this the body of a
+noble girl......)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はアルミナの背中にぎゅっと抱きつく……
+鮮やかな長い金髪に顔をうずめると、
+花のような香りが吸い込まれてくる――
+> CONTEXT: Map032/events/50/pages/1/100/Dialogue
+> CONTEXT: Commonevents/263/25/Dialogue
+\\N[12] Hugging tightly on the back of alumina
+...... When you look down on your face with
+bright long blonde, A scent like a flower is
+sucked in -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ううっ、髪の匂いが甘くて、
+なんだか頭がくらくらしてくる……
+なんていい香りなんだ……）
+> CONTEXT: Map032/events/50/pages/1/105/Dialogue
+> CONTEXT: Commonevents/263/30/Dialogue
+\\N[12]. (OHh, the smell of hair is sweet,
+Somehow my head is coming.......
+What a nice smell......)#MTLed
+> END STRING
+
+> BEGIN STRING
+そのまま、\\N[12]は夢中になって
+アルミナのおっぱいを揉みしだく。
+> CONTEXT: Map032/events/50/pages/1/110/Dialogue
+> CONTEXT: Commonevents/263/35/Dialogue
+As it is, \\N[12] Be crazy. Continue to crush
+alumina boobs.#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「んっ……まったくもう、
+わたくしの胸や髪を男に好きにされるだなんて……
+これはなかなかに屈辱ですわね」
+> CONTEXT: Map032/events/50/pages/1/113/Dialogue
+> CONTEXT: Commonevents/263/38/Dialogue
+alumina. 「Huh...... quite right now,
+I do not like men to love my chest and hair
+...... This is quite humiliated, is not it」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「えっ？」
+> CONTEXT: Map032/events/50/pages/1/123/Dialogue
+> CONTEXT: Commonevents/263/48/Dialogue
+alumina. 「eh?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あうっ、くっ……」
+> CONTEXT: Map032/events/50/pages/1/126/Dialogue
+> CONTEXT: Commonevents/263/51/Dialogue
+\\N[12]. 「An owl, ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「まさか、髪の香りを嗅ぎながら
+おっぱいを揉んでいただけで、
+絶頂してしまったんですの？」
+> CONTEXT: Map032/events/50/pages/1/129/Dialogue
+> CONTEXT: Commonevents/263/54/Dialogue
+alumina. 「No way, while sniffing the scent of
+hair. Just breaking her breasts,
+Have you caught up?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（し、しまった……
+あまりに胸の揉み心地がよくて、興奮しすぎた……）
+> CONTEXT: Map032/events/50/pages/1/134/Dialogue
+> CONTEXT: Commonevents/263/59/Dialogue
+\\N[12]. (Well, it was ...... It was too
+exciting, too much comfort in my chest......)#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふっ……あははっ、なんて情けのない！
+早漏にもほどがありますわ！
+わたくしの体は、あなたには刺激が強かったようですわね！」
+> CONTEXT: Map032/events/50/pages/1/139/Dialogue
+> CONTEXT: Commonevents/263/64/Dialogue
+alumina. 「Huhahah ...... Hahahah, how
+uncomfortable! There is a premature ejaculation
+as well! My body seems to have a strong
+stimulation for you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うぐっ……ま、まだまだ……！
+つい出しちまったけど、本番はこれからだぜ」
+> CONTEXT: Map032/events/50/pages/1/144/Dialogue
+> CONTEXT: Commonevents/263/69/Dialogue
+\\N[12]. 「Ug...... well, ...!
+I got out of it, but the real thing is coming.」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「よろしくてよ。
+なんだか、あなたがわたくしの美に屈して射精する姿を
+鑑賞するのが楽しみになってきましたわ、ふふっ」
+> CONTEXT: Map032/events/50/pages/1/148/Dialogue
+> CONTEXT: Commonevents/263/73/Dialogue
+alumina. 「Thank you. Somehow, I will give you
+the way to give in to my beauty and ejaculate
+I am looking forward to watching it, Fuhuu」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（く、くそぅ、すっかり余裕になっちまいやがって。
+こうなったら、セックスでヒイヒイ言わせてやる！）
+> CONTEXT: Map032/events/50/pages/1/153/Dialogue
+> CONTEXT: Commonevents/263/78/Dialogue
+\\N[12]. (Well, shit, you can afford to be
+totally tired. If this is the case, I will say it
+with sex!)#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、\\N[12]はアルミナの女性器を
+指先でほぐすように刺激し始める。
+> CONTEXT: Map032/events/50/pages/1/158/Dialogue
+> CONTEXT: Commonevents/263/83/Dialogue
+Then, \\N[12] The alumina female instrument
+Start to irritate with a fingertip.#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「あっ、んっ……！
+そ、そこをいじられるのは、さすがに恥ずかし……
+あっ、ああんっ！
+> CONTEXT: Map032/events/50/pages/1/162/Dialogue
+> CONTEXT: Commonevents/263/87/Dialogue
+alumina. 「Oh no ......! Well, being shy about it
+is embarrassed...Oh, oh!#MTLed
+> END STRING
+
+> BEGIN STRING
+……ふっ、なかなか悪くない指使いですわね。
+それにしても、あなたの心臓の音が背中に伝わってきますけれど
+ずいぶんドキドキしているようですわね」
+> CONTEXT: Map032/events/50/pages/1/168/Dialogue
+> CONTEXT: Commonevents/263/93/Dialogue
+...... Wow, it's quite bad fingering.
+Even so, although the sound of your heart is
+transmitted to your back. It seems a long time
+ago」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それは、だって……
+お前が、エロい声を出すから……」
+> CONTEXT: Map032/events/50/pages/1/172/Dialogue
+> CONTEXT: Commonevents/263/97/Dialogue
+\\N[12]. 「That, too....... Because you give
+an erotic voice ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「わたくしの体に抱きついてエッチなことをしてるのだから、
+男ならばそうなるのが当然ですけれど。
+なにしろ、わたくしはお母様を除けば国一番の美女ですもの」
+> CONTEXT: Map032/events/50/pages/1/176/Dialogue
+> CONTEXT: Commonevents/263/101/Dialogue
+alumina. 「Because I am hugging my body and doing
+what is lewd, If it is a man it is natural that
+way. After all, I am the most beautiful woman in
+the country except for mother」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（たいした自信だが、実際こいつの体は極上だ……
+こんな女とセックスできるなんて、
+武道大会、頑張って優勝した甲斐があってぜ。あとは……！）
+> CONTEXT: Map032/events/50/pages/1/181/Dialogue
+> CONTEXT: Commonevents/263/106/Dialogue
+\\N[12]. (It is a lot of confidence, but in
+reality his body is superb......
+To sex with such a woman, Martial arts
+tournament, it is worthwhile to win and win.
+later……! )#MTLed
+> END STRING
+
+> BEGIN STRING
+そして\\N[12]は、アルミナの膣に
+ペニスをゆっくりと挿入する！
+> CONTEXT: Map032/events/50/pages/1/187/Dialogue
+> CONTEXT: Commonevents/263/112/Dialogue
+And \\N[12] In the vagina of alumina
+Insert the penis slowly!#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅううぅっ……！
+> CONTEXT: Map032/events/50/pages/1/192/Dialogue
+> CONTEXT: Commonevents/263/117/Dialogue
+> CONTEXT: Commonevents/306/50/Dialogue
+> CONTEXT: Commonevents/306/87/Dialogue
+A crowd...¡!#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「あっ、くううぅっ……！
+は、入ってきますわっ……！」
+> CONTEXT: Map032/events/50/pages/1/195/Dialogue
+> CONTEXT: Commonevents/263/120/Dialogue
+alumina. 「Oh, how are you ...!
+Will come in......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うううっ……！」
+> CONTEXT: Map032/events/50/pages/1/199/Dialogue
+> CONTEXT: Commonevents/200/182/Dialogue
+> CONTEXT: Commonevents/205/188/Dialogue
+> CONTEXT: Commonevents/248/202/Dialogue
+> CONTEXT: Commonevents/263/124/Dialogue
+\\N[12]. 「uuugh......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「これが、男性器を挿れられている感覚……
+熱くて硬いものに貫かれている感じ、
+おなかがジンジンとして、なかなか悪くありませんわね」
+> CONTEXT: Map032/events/50/pages/1/202/Dialogue
+> CONTEXT: Commonevents/263/127/Dialogue
+alumina. 「This is the feeling that male
+genitalia is being inserted ...
+Feeling penetrated by hot and hard things,
+I am not quite as bad as my stomach hurts」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、奥まで届いた、その瞬間――
+> CONTEXT: Map032/events/50/pages/1/207/Dialogue
+> CONTEXT: Commonevents/263/132/Dialogue
+And that moment that reached all the way -#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「きゃっ！　あ、熱いっ……！」
+> CONTEXT: Map032/events/50/pages/1/214/Dialogue
+> CONTEXT: Commonevents/263/139/Dialogue
+alumina. 「kyaa! Oh, it's hot!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふっ、挿れただけで射精してしまうだなんて
+やはりあなたは早漏ですのねぇ。
+そんなことで、このわたくしと子作りできるのかしら？」
+> CONTEXT: Map032/events/50/pages/1/221/Dialogue
+> CONTEXT: Commonevents/263/146/Dialogue
+alumina. 「Why do not you ejaculate just by being
+inserted? After all you are premature
+ejaculation. Is it possible for me to make a
+child with such a thing?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ううっ……あ、アルミナの中、ヤバい……
+とろけるように柔らかい上に、
+膣壁が絡みつくみたいで、挿れてるだけで気持ちよすぎるっ）
+> CONTEXT: Map032/events/50/pages/1/226/Dialogue
+> CONTEXT: Commonevents/263/151/Dialogue
+\\N[12]. (Uugh...... Oh, inside alumina,
+dangerous...... As soft as to melt,
+It seems that the vagina walls are tangled, it is
+too pleasant just inserted)#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ほら、挿れたまま震えているだけでは
+セックスになりませんわよ？
+おちんちんの感触だけでも、結構気持ちよくはありますけど」
+> CONTEXT: Map032/events/50/pages/1/231/Dialogue
+> CONTEXT: Commonevents/263/156/Dialogue
+alumina. 「You see, just being trembling with it
+inserted. You can not have sex?
+Even just your feeling, it feels quite pleasant」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は快楽に震えながらも、
+腰を動かしてアルミナの膣を責めてゆく。
+> CONTEXT: Map032/events/50/pages/1/239/Dialogue
+> CONTEXT: Commonevents/263/164/Dialogue
+\\N[12] While trembling in pleasure,
+Move the waist and blame the vagina of alumina.#MTLed
+> END STRING
+
+> BEGIN STRING
+ずっ、ずちゅっ、ずっ、ずんっ……
+> CONTEXT: Map032/events/50/pages/1/243/Dialogue
+> CONTEXT: Commonevents/263/168/Dialogue
+A lot, a lot, a lot, ...#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「あっ、んっ……
+おちんちんが中でこすれて、気持ちいい……
+これが、セックスなのですわね」
+> CONTEXT: Map032/events/50/pages/1/246/Dialogue
+> CONTEXT: Commonevents/263/171/Dialogue
+alumina. 「Oh no ...... I feel nice rubbing
+inside,...This is sex, is not it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はぁ、はぁっ……」
+> CONTEXT: Map032/events/50/pages/1/251/Dialogue
+> CONTEXT: Commonevents/153/89/Dialogue
+> CONTEXT: Commonevents/263/176/Dialogue
+> CONTEXT: Map147/events/2/pages/19/476/Dialogue
+> CONTEXT: Commonevents/228/222/Dialogue
+> CONTEXT: Commonevents/306/133/Dialogue
+\\N[12]. 「Ah, Ahh ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は両手でおっぱいを揉みながら、
+必死でアルミナとのセックスを続ける。
+> CONTEXT: Map032/events/50/pages/1/254/Dialogue
+> CONTEXT: Commonevents/263/179/Dialogue
+\\N[12] While rubbing the breasts with both
+hands, Desperately desperate to have sex with
+alumina.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ま、まずいっ……
+髪の匂いに包まれていると、意識が痺れて……
+こ、このままじゃ、また……！）
+> CONTEXT: Map032/events/50/pages/1/258/Dialogue
+> CONTEXT: Commonevents/263/183/Dialogue
+\\N[12]. (Well, alright ......
+When wrapped in the smell of hair, the
+consciousness is numb...... Well, as it is,
+again ......! )#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「なんだか少し物足りませんわね。
+もっと気持ちよくなる予感がしますのに……
+\\N[12]、もっとしっかり動きなさい」
+> CONTEXT: Map032/events/50/pages/1/263/Dialogue
+> CONTEXT: Commonevents/263/188/Dialogue
+alumina. 「It is somewhat somewhat insufficient.
+I feel like I feel more comfortable ......
+\\N[12] , Move more firmly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「い、言われなくてもっ」
+> CONTEXT: Map032/events/50/pages/1/268/Dialogue
+> CONTEXT: Commonevents/263/193/Dialogue
+\\N[12]. 「There is nothing to say」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅっ……
+> CONTEXT: Map032/events/50/pages/1/272/Dialogue
+> CONTEXT: Commonevents/263/197/Dialogue
+Abstract ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、くうっ！」
+> CONTEXT: Map032/events/50/pages/1/274/Dialogue
+> CONTEXT: Commonevents/263/199/Dialogue
+\\N[12]. 「Oh, it is!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「んっ……ふふっ、また絶頂してしまいましたのね。
+まったく、こうも早漏ではお話になりませんわ」
+> CONTEXT: Map032/events/50/pages/1/281/Dialogue
+> CONTEXT: Commonevents/263/206/Dialogue
+alumina. 「Huh...and he crowded again.
+Not at all, I can not talk about premature
+ejaculation」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ、そんな……」
+> CONTEXT: Map032/events/50/pages/1/285/Dialogue
+> CONTEXT: Commonevents/263/210/Dialogue
+> CONTEXT: Map147/events/2/pages/11/202/Dialogue
+> CONTEXT: Map147/events/2/pages/11/253/Dialogue
+> CONTEXT: Map147/events/2/pages/18/116/Dialogue
+> CONTEXT: Map147/events/2/pages/18/131/Dialogue
+> CONTEXT: Map147/events/17/pages/0/461/Dialogue
+> CONTEXT: Map147/events/17/pages/0/476/Dialogue
+> CONTEXT: Map147/events/24/pages/0/969/Dialogue
+> CONTEXT: Map147/events/24/pages/0/1009/Dialogue
+\\N[12]. 「OHh, such......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「あなたがわたくしの体に屈服して無様に絶頂する様は、
+なかなか胸がすっといたしますわ。
+でも、そろそろわたくしも気持ちよくなりたいですから……」
+> CONTEXT: Map032/events/50/pages/1/289/Dialogue
+> CONTEXT: Commonevents/263/214/Dialogue
+alumina. 「As you yield to my body and appear to
+crown unsightly, I'm pretty happy with my heart.
+But, I want to become comfortable soon ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずっ、ずっ、ずちゅっ……
+> CONTEXT: Map032/events/50/pages/1/295/Dialogue
+> CONTEXT: Commonevents/263/220/Dialogue
+Huh, always, after a while ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、ああっ！
+ま、待てっ、今そんな風に動かれたらっ……！」
+> CONTEXT: Map032/events/50/pages/1/297/Dialogue
+> CONTEXT: Commonevents/263/222/Dialogue
+\\N[12]. 「Wow, aah! Wait, wait, now you can
+move that way ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「あなたが不甲斐ないのが悪いのですわ。
+幸い、ペニスだけは大きくて硬いまま……
+わたくしから動いて、味わわせてもらいますわよ！」
+> CONTEXT: Map032/events/50/pages/1/301/Dialogue
+> CONTEXT: Commonevents/263/226/Dialogue
+alumina. 「You are bad of being unhappy.
+Fortunately, the penis alone is big and hard ...
+... I will move from you and let me taste it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅっ、ずちゅっ、ずっ、ぎちゅうっ！
+> CONTEXT: Map032/events/50/pages/1/306/Dialogue
+> CONTEXT: Commonevents/263/231/Dialogue
+A couple of times, a couple of times, a couple of
+times!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ひっ、ああああぁぁっ！」
+> CONTEXT: Map032/events/50/pages/1/308/Dialogue
+> CONTEXT: Commonevents/263/233/Dialogue
+\\N[12]. 「Hit, Aaaahhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふっ、射精したからといって
+動くのをやめてはあげませんわよ」
+> CONTEXT: Map032/events/50/pages/1/314/Dialogue
+> CONTEXT: Commonevents/263/239/Dialogue
+alumina. 「Huh, just because I ejaculated
+I will not stop moving」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そんなっ……」
+> CONTEXT: Map032/events/50/pages/1/318/Dialogue
+> CONTEXT: Commonevents/5/262/Dialogue
+> CONTEXT: Commonevents/100/168/Dialogue
+> CONTEXT: Commonevents/200/473/Dialogue
+> CONTEXT: Commonevents/205/437/Dialogue
+> CONTEXT: Commonevents/211/263/Dialogue
+> CONTEXT: Commonevents/248/469/Dialogue
+> CONTEXT: Commonevents/263/243/Dialogue
+> CONTEXT: Commonevents/300/15/Dialogue
+> CONTEXT: Commonevents/302/42/Dialogue
+> CONTEXT: Commonevents/306/72/Dialogue
+\\N[12]. 「Well, that's ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「今度は、締めつけながら小刻みに動いてさしあげます」
+> CONTEXT: Map032/events/50/pages/1/321/Dialogue
+> CONTEXT: Commonevents/263/246/Dialogue
+alumina. 「Next time I tighten and move in small
+ways and give」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐちゅっ、ぎちゅうっ！　ずっ、ぐちゅっ……
+> CONTEXT: Map032/events/50/pages/1/325/Dialogue
+> CONTEXT: Commonevents/263/250/Dialogue
+Gusty, cubes! Heck a while ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（あ、あああぁっ……
+膣壁が、うねうねと動いてチンコを締めつけてくるっ！
+こんなの、気持ちよすぎて、耐えられるわけが……！）
+> CONTEXT: Map032/events/50/pages/1/327/Dialogue
+> CONTEXT: Commonevents/263/252/Dialogue
+\\N[12]. (Oh, Aaahh...... The vaginal wall
+moves, and tightens the dick! This kind of
+feeling is too comfortable, can not bear......!
+)#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふふ、なかなかわたくしも気持ちよくなってきましたわ。
+さあ、今度は思いっきり強く締めてさしあげますわ！」
+> CONTEXT: Map032/events/50/pages/1/332/Dialogue
+> CONTEXT: Commonevents/263/257/Dialogue
+alumina. 「Huhu, I'm pretty comfortable too.
+Now, I will give you a lot to tighten strongly!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぎちゅうううううぅっ！
+> CONTEXT: Map032/events/50/pages/1/340/Dialogue
+> CONTEXT: Commonevents/263/265/Dialogue
+Congratulations!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ひぎいいいいいぃぃっ！」
+> CONTEXT: Map032/events/50/pages/1/342/Dialogue
+> CONTEXT: Commonevents/263/267/Dialogue
+\\N[12]. 「Himeyui ichi!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あひっ……あ、あうっ……」
+> CONTEXT: Map032/events/50/pages/1/349/Dialogue
+> CONTEXT: Commonevents/263/274/Dialogue
+\\N[12]. 「Oh, ahhh ...... Oh, ooooo ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「あらあら、息も絶え絶えといった様子ですわね。
+やはり、あなたではわたくしの相手には
+分不相応だったようね、うふふっ。
+> CONTEXT: Map032/events/50/pages/1/352/Dialogue
+> CONTEXT: Commonevents/263/277/Dialogue
+alumina. 「It looks like oh no, my breath is
+constantly blowing. After all, at your opponent
+It seems that it was disproportionate, is not it?#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、今さら泣き言は聞きませんわよ。
+さあ、わたくしも絶頂が近いですわ。
+スパートをかけさせていただきます！」
+> CONTEXT: Map032/events/50/pages/1/357/Dialogue
+> CONTEXT: Commonevents/263/282/Dialogue
+But, I will not listen whining at all.
+Now, the cum is close, too. I will spurt!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずっ、ずっ、ずちゅっ、ずちゅっ、ぐちゅううっ！
+> CONTEXT: Map032/events/50/pages/1/362/Dialogue
+> CONTEXT: Commonevents/263/287/Dialogue
+Huh, always, a lot, a lot, a crush, OHK!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あああぁぁっ……！
+あ、アルミナっ、そんなにされたら
+おかしくなるっ、気持ちよすぎてっ……！」
+> CONTEXT: Map032/events/50/pages/1/364/Dialogue
+> CONTEXT: Commonevents/263/289/Dialogue
+\\N[12]. 「Oh, Aaahhh......! Oh, alumina, if
+you do that much. It will be strange, it feels
+too good ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふっ、わたくしの高貴な体の前では
+あなたの立派なペニスも形無しのようですわねっ！」
+> CONTEXT: Map032/events/50/pages/1/369/Dialogue
+> CONTEXT: Commonevents/263/294/Dialogue
+alumina. 「Fu, in front of my noble body
+It seems that your fine penis is also missing!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずぷっ、ずっ、ぐちゅっ……
+> CONTEXT: Map032/events/50/pages/1/373/Dialogue
+> CONTEXT: Commonevents/263/298/Dialogue
+Pu-Put, Hot, Chubby ......#MTLed
+> END STRING
+
+> BEGIN STRING
+膣内で、お互いの体液がかき混ぜられ
+淫靡な音を立てる。
+> CONTEXT: Map032/events/50/pages/1/375/Dialogue
+> CONTEXT: Commonevents/263/300/Dialogue
+Body fluids in each other are stirred in the
+vagina. Make a dubious sound.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（こ、こいつの膣、名器すぎるっ……
+も、もうダメだ、またイっちまう……！）
+> CONTEXT: Map032/events/50/pages/1/378/Dialogue
+> CONTEXT: Commonevents/263/303/Dialogue
+\\N[12]. (This guy's vagina, too famous
+instrument.... Also, it is useless,
+we'll be back again ...! )#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「さあ、そろそろわたくしも絶頂いたしますわ！
+\\N[12]、あなたのペニスでわたくしがイくことを
+光栄に思うがよろしいですわっ！」
+> CONTEXT: Map032/events/50/pages/1/382/Dialogue
+> CONTEXT: Commonevents/263/307/Dialogue
+alumina. 「Well, I will cum too soon!
+\\N[12] , That I will go back at your penis
+Think of it as an honor.」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「あっ、ああああぁぁんっ……！」
+> CONTEXT: Map032/events/50/pages/1/389/Dialogue
+> CONTEXT: Commonevents/263/314/Dialogue
+alumina. 「Oh, Aaaahhhn......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナは絶頂の瞬間、
+それまで以上に膣を締め付ける！
+> CONTEXT: Map032/events/50/pages/1/392/Dialogue
+> CONTEXT: Commonevents/263/317/Dialogue
+At the moment of cum alumina, Tighten the vagina
+more than ever!#MTLed
+> END STRING
+
+> BEGIN STRING
+ぎゅうううううぅぅっ！
+> CONTEXT: Map032/events/50/pages/1/397/Dialogue
+> CONTEXT: Commonevents/10/191/Dialogue
+> CONTEXT: Commonevents/140/24/Dialogue
+> CONTEXT: Commonevents/140/153/Dialogue
+> CONTEXT: Commonevents/140/290/Dialogue
+> CONTEXT: Commonevents/140/412/Dialogue
+> CONTEXT: Commonevents/200/610/Dialogue
+> CONTEXT: Commonevents/205/574/Dialogue
+> CONTEXT: Commonevents/248/606/Dialogue
+> CONTEXT: Commonevents/263/322/Dialogue
+> CONTEXT: Commonevents/306/255/Dialogue
+Kyudou!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あひいいいいぃぃぃっ！」
+> CONTEXT: Map032/events/50/pages/1/399/Dialogue
+> CONTEXT: Commonevents/263/324/Dialogue
+\\N[12]. 「It is awesome!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ひ、ひいっ……き、きもちよすぎるうぅっ……」
+> CONTEXT: Map032/events/50/pages/1/406/Dialogue
+> CONTEXT: Commonevents/263/331/Dialogue
+\\N[12]. 「Hello ......, it is too hard ...
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「はぁ……♪
+これが、男とのセックスでの絶頂……
+この感覚、病みつきになってしまいそうですわ」
+> CONTEXT: Map032/events/50/pages/1/409/Dialogue
+> CONTEXT: Commonevents/263/334/Dialogue
+alumina. 「Huh♪. This is the cum with sex with
+men ...... This feeling, it seems to be addictive
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はアルミナの柔らかな背中にしがみつきながら、
+あまりに強烈な快楽に意識が朦朧としている――
+> CONTEXT: Map032/events/50/pages/1/417/Dialogue
+> CONTEXT: Commonevents/263/342/Dialogue
+\\N[12] While clinging to the soft back of
+alumina, Too much intense pleasure makes your
+consciousness stunned -#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「あなたも、このわたくしの髪の香りや
+体の感触を味わいながらセックスまでしたのですもの。
+さぞ満足したでしょう？」
+> CONTEXT: Map032/events/50/pages/1/421/Dialogue
+> CONTEXT: Commonevents/263/346/Dialogue
+alumina. 「You too, the scent of my hair
+I tasted the feel of my body and made it sex.
+Were you satisfied?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふっ、今まで磨き抜いてきた体を武器に
+男の象徴を屈服させるというのも、
+なかなかに優越感を味わえるものですわね。
+> CONTEXT: Map032/events/50/pages/1/429/Dialogue
+> CONTEXT: Commonevents/263/354/Dialogue
+alumina. 「Fu, with the body that has polished up
+to now as a weapon. To cause the symbol of a man
+to succumb, It is quite possible to experience a
+feeling of superiority.#MTLed
+> END STRING
+
+> BEGIN STRING
+あの剣士\\N[12]も、わたくしの体の前では
+形無しでしたわね♪
+ほら、どうですの？
+わたくしの体、最高でしたでしょう？」
+> CONTEXT: Map032/events/50/pages/1/434/Dialogue
+> CONTEXT: Commonevents/263/359/Dialogue
+That swordsman \\N[12] Even in front of my
+body. I did not have a form♪. Here, how is it?
+My body was the best, is not it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぎちゅっ……
+> CONTEXT: Map032/events/50/pages/1/441/Dialogue
+> CONTEXT: Commonevents/263/366/Dialogue
+Glooming ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うああぁっ……！
+あ、ああっ、最高だった……
+だからもう、許してくれ……！」
+> CONTEXT: Map032/events/50/pages/1/443/Dialogue
+> CONTEXT: Commonevents/263/368/Dialogue
+\\N[12]. 「no aahh......! Oh, aah, it was
+awesome...... So please forgive me...!.!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふふふっ……！
+その屈服の言葉を聞けただけでも、
+セックスをした甲斐があったというものですわ」
+> CONTEXT: Map032/events/50/pages/1/448/Dialogue
+> CONTEXT: Commonevents/263/373/Dialogue
+alumina. 「Heh he ...! Even if I only heard the
+words of his submission, It was that it was worth
+having sex」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐううっ……」
+> CONTEXT: Map032/events/50/pages/1/453/Dialogue
+> CONTEXT: Commonevents/263/378/Dialogue
+\\N[12]. 「Ugh uugh......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「男とベッドを共にするというのも悪くないものですわね。
+ようやく、結婚というものを
+ポジティブに感じられるようになってきましたわ」
+> CONTEXT: Map032/events/50/pages/1/456/Dialogue
+> CONTEXT: Commonevents/263/381/Dialogue
+alumina. 「It is not bad to have a bed with a man.
+Finally, marriage. I got to feel positive.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（アルミナの体は間違いなく極上だし、
+とんでもなく気持ちよかったけど……
+毎日こんな感じだと、俺のほうが体がもたないぜ……）
+> CONTEXT: Map032/events/50/pages/1/461/Dialogue
+> CONTEXT: Commonevents/263/386/Dialogue
+\\N[12]. (Alumina's body is definitely superb,
+It was amazingly pleasant.......
+Every day like this, I do not have a body ...
+...)#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]はアルミナの
+高貴な肉体と名器によって
+とろけるような激しい責めを受け、
+さんざんに絶頂させられたのだった。
+> CONTEXT: Map032/events/50/pages/1/467/Dialogue
+> CONTEXT: Commonevents/263/392/Dialogue
+In this way, \\N[12] Is alumina
+By noble body and masterpieces
+Received a melting severe attack,
+It was caught by a lot of people.#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「さて、初めてのセックスも済ませたことですし、
+あとは、お母様に正式なお許しを
+いただきに行くのでしたわね」
+> CONTEXT: Map032/events/50/pages/1/479/Dialogue
+> CONTEXT: Commonevents/263/400/Dialogue
+alumina. 「Well, it is the first time I've
+finished sex, After that, I will give my mother
+an official license. I was going to go」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうだったな……
+ううっ……」
+> CONTEXT: Map032/events/50/pages/1/484/Dialogue
+\\N[12]. 「Well, that was right ...... uugh......」#MTLed
+> CONTEXT: Commonevents/263/405/Dialogue
+\\N[12]. 「Well, that was right ......
+uugh......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「なにを疲れたような顔をしてますの？
+ほら、さっさと服を着て立ちなさい。
+一緒に謁見の間へ行きますわよ」
+> CONTEXT: Map032/events/50/pages/1/488/Dialogue
+> CONTEXT: Commonevents/263/409/Dialogue
+alumina. 「What are you looking tired from doing?
+Now, stand up with your clothes fast.
+I will go with you during the audience together」#MTLed
+> END STRING
+
+> BEGIN STRING
+1\\G 手に入れた！
+> CONTEXT: Map032/events/52/pages/0/9/Dialogue
+1 \\G I got!#MTLed
+> END STRING

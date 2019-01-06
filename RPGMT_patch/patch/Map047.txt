@@ -1,0 +1,62 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+壮年の戦士
+「なかなか悪くない雰囲気の酒場だ……」
+> CONTEXT: Map047/events/6/pages/0/0/Dialogue
+Mature warrior. 「It is a bar in a very bad atmosphere ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法使い
+「フフフ……」
+> CONTEXT: Map047/events/7/pages/0/0/Dialogue
+Witch. 「Juffu」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「仕事中に酒場に入り浸ってるなんてこと、
+王宮に垂れ込むのは勘弁してくれよな！」
+> CONTEXT: Map047/events/8/pages/0/0/Dialogue
+A soldier. 「I do not know that I'm getting into the bar at
+work, Please forgive me for drooling into the royal palace!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「今年は女王陛下を満足させてくれるような選手が
+現れるだろうか？
+近年の大会のレベルには、少し不満を持っておられるようだ」
+> CONTEXT: Map047/events/9/pages/0/0/Dialogue
+A soldier. 「This year the players who will satisfy the
+Queen's Majesty. Will it appear? The level of tournament in
+recent years seems to have a little dissatisfied」#MTLed
+> END STRING
+
+> BEGIN STRING
+若い女
+「武道大会なんかより、
+ここで飲んでるほうが楽しいわねぇ……」
+> CONTEXT: Map047/events/10/pages/0/0/Dialogue
+Young lady. 「From martial arts tournament something,
+It is fun to drink here ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+漁師
+「あー、ひと仕事した後の酒はうめえ。
+金がたまったらレストランにでも行くかぁ」
+> CONTEXT: Map047/events/11/pages/0/0/Dialogue
+Fisherman. 「Oh, why do not you drink alcohol after you
+work. Will I go to a restaurant if I have money?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「いらっしゃい、\\N[12]君。
+また遊びましょうね♪」
+> CONTEXT: Map047/events/13/pages/0/0/Dialogue
+> CONTEXT: Map150/events/13/pages/0/0/Dialogue
+bunny girl. 「welcome, \\N[12] You. Let's play again♪」#MTLed
+> END STRING

@@ -1,0 +1,68 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+係員
+「こちらはロイヤルルーム専用通路となっております。
+選手および一般の方はご遠慮ください」
+> CONTEXT: Map056/events/1/pages/0/0/Dialogue
+Attendant. 「This is our royal room exclusive passage.
+Players and the general public should withhold」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「こちらは関係者専用通路となっております。
+一般および選手の方はご遠慮ください」
+> CONTEXT: Map056/events/2/pages/0/0/Dialogue
+Attendant. 「This is a street for experts.
+For general and athletes please refrain」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「こちらは王族・貴族専用の出入り口となっております。
+申し訳ありませんが、通行はできません」
+> CONTEXT: Map056/events/4/pages/0/0/Dialogue
+Attendant. 「This is our exclusive gateway to royalty and
+nobility. I'm sorry, but I can not pass」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「ここにある扉は王族専用の入口さ。
+城の水路から、船でこの裏の船着場に乗りつけて
+ここから出入りするというわけだ」
+> CONTEXT: Map056/events/5/pages/0/0/Dialogue
+Youth. 「The door here is the entrance exclusively for
+royalty. From the waterway of the castle, board the boat at
+the back with a boat. That's why we go in and out from here
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「王族や貴族は特別な席で観戦できるんだが、
+うらやましいことだよな」
+> CONTEXT: Map056/events/36/pages/0/0/Dialogue
+old man. 「Royals and aristocrats can watch in special
+seats, I envy you」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「武道大会は女王陛下ももちろん観戦されるわ。
+特に、女性の出場者の活躍に期待されているみたい」
+> CONTEXT: Map056/events/37/pages/0/0/Dialogue
+girl. 「Martial arts tournament will be watched of course
+by the Queen. Especially, it seems that it is expected to
+be active in female contestants」#MTLed
+> END STRING
+
+> BEGIN STRING
+太った人
+「コンコースの北側はロイヤルルームへの入口があるだけだぜ。
+一般の観客には、あんまり用のないところだな」
+> CONTEXT: Map056/events/38/pages/0/0/Dialogue
+A fat man. 「The north side of tournament has only the
+entrance to the royal room. There is not much use for
+general spectators」#MTLed
+> END STRING

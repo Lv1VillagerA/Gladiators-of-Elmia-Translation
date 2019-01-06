@@ -1,0 +1,82 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+シェリー
+「見て、\\N[12]！
+この氷柱の上、亀裂があるよ！」
+> CONTEXT: Map117/events/1/pages/0/0/Dialogue
+Sherry. 「look, \\N[12] ! There is a crack on
+this ice pillar!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「本当だ、これを伝って登れば脱出できるかもな。
+よし、先に登ってみる」
+> CONTEXT: Map117/events/1/pages/0/4/Dialogue
+\\N[12]. 「It is true, if you climb this, you can escape.
+OK, I will climb up ahead」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「え、こんな滑りそうな柱、上がれるの？」
+> CONTEXT: Map117/events/1/pages/0/8/Dialogue
+Sherry. 「Well, can you go up with such a
+slippery pillar?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「たぶん、何とかできるだろう。
+よいしょっ……！」
+> CONTEXT: Map117/events/1/pages/0/11/Dialogue
+\\N[12]. 「Probably, I can do it somehow.
+Well ... good!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、なんとか登れた……
+あとは、亀裂に手をかけて、天井をブチ破るっ！」
+> CONTEXT: Map117/events/1/pages/0/23/Dialogue
+\\N[12]. 「OK, I managed to climb up ... ...
+After that, I will put a hand on the crack and break the
+ceiling!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、広がったっ！」
+> CONTEXT: Map117/events/1/pages/0/29/Dialogue
+\\N[12]. 「Alright, it spreads!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、シェリー、登ってこい！
+天井近くまで来たら手を引いてやるから！」
+> CONTEXT: Map117/events/1/pages/0/34/Dialogue
+\\N[12]. 「OK, Sherry, come climb! If you come near the
+ceiling, I'll pull my hand!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うん、わかった！
+えいっ……！」
+> CONTEXT: Map117/events/1/pages/0/38/Dialogue
+Sherry. 「OK I got it! Ei ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、手を伸ばせ！」
+> CONTEXT: Map117/events/1/pages/0/42/Dialogue
+\\N[12]. 「Alright, reach out!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はシェリーの手を掴んだ。
+> CONTEXT: Map117/events/1/pages/0/45/Dialogue
+\\N[12] She grabbed Sherry's hand.#MTLed
+> END STRING

@@ -1,0 +1,679 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+男の子
+「プリムねーちゃん、女のくせに剣の修行ばっかしてるんだ。
+どうせがんばったって、貴族の家の奴には勝てないのになー
+あっちは剣の達人とかを先生にしてるんだもん」
+> CONTEXT: Map095/events/1/pages/0/0/Dialogue
+> CONTEXT: Map025/events/38/pages/0/0/Dialogue
+boy. 「Purim No-chan, I'm the female habit of sword
+training. I wish I could not win against the nobleman's guy
+because I tried all the best. I am using a master of the
+sword as a teacher」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「プリムお姉ちゃん、いつも剣のお稽古してるんだけど
+なかなか貴族の子に勝てないみたいなの」
+> CONTEXT: Map095/events/3/pages/0/0/Dialogue
+> CONTEXT: Map025/events/37/pages/0/0/Dialogue
+girl. 「Purim older sister, I always practiced sword
+training. It seems like she can not prevail against the
+nobleman's child」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「すぐ右のでっかい建物が闘技場だぜ！
+武道大会もそこでやるんだ！　楽しみだよなー！」
+> CONTEXT: Map095/events/4/pages/0/0/Dialogue
+> CONTEXT: Map025/events/39/pages/0/0/Dialogue
+boy. 「The huge building on the right is the stadium!
+Martial arts tournament will do there too! I'm looking
+forward to it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「あの黄色い屋根のおうちの子、プリムっていうんだけど、
+最近はいつも剣のお稽古していて、
+あんまり一緒に遊ばなくなっちゃったのよ」
+> CONTEXT: Map095/events/5/pages/0/0/Dialogue
+> CONTEXT: Map025/events/70/pages/0/0/Dialogue
+girl. 「I mean Purim, the son of that yellow roof house,
+Recently I always practiced swords, I did not play together
+a lot」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「それじゃ、いきますっ！
+またわたしが勝たせてもらうからねっ、おにいさん！」
+> CONTEXT: Map095/events/7/pages/0/1/Dialogue
+Purim. 「Well then, I will go! Also I will
+prevail, obviously a lot!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「プリムちゃん、がんばってー！
+また男の人を倒しちゃうところ、見せてー！」
+> CONTEXT: Map095/events/7/pages/0/6/Dialogue
+girl. 「Purim - chan, do your best! And where you will beat
+a man, show me!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「おい兄ちゃん、女に調子乗らせるなよー！
+今度はちゃんと勝てよなー！」
+> CONTEXT: Map095/events/7/pages/0/11/Dialogue
+boy. 「Hey brother, do not let the girl ride on!
+Now I am sure you can win!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（こんな年下の女の子に
+そう何度も負けていられないぞ……
+今度こそ、しっかりやらないと！）
+> CONTEXT: Map095/events/7/pages/0/15/Dialogue
+\\N[12]. (To this younger girl. You can not lose so many
+times ... .... This time, I must do it firmly! )#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「勝負っ！」
+> CONTEXT: Map095/events/7/pages/0/20/Dialogue
+Purim. 「It is a game!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「プリムが武道大会の出場選手とやるのかよー
+さすがに勝てないだろー」
+> CONTEXT: Map095/events/7/pages/0/26/Dialogue
+boy. 「Does Purim do with martial arts tournament
+participation? It will not beat as expected」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「やってみなきゃわからないわよ、
+がんばってー、プリムお姉ちゃん！」
+> CONTEXT: Map095/events/7/pages/0/31/Dialogue
+girl. 「I do not know until I try it, Good luck, Purim Onee!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「怪我しないようにね、プリム」
+> CONTEXT: Map095/events/7/pages/0/36/Dialogue
+girl. 「Do not get hurt, Purim」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん、気をつけてがんばる！
+それじゃいくよ、おにいさん！」
+> CONTEXT: Map095/events/7/pages/0/39/Dialogue
+Purim. 「Yeah, be careful and do my best!
+Well then, good luck!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、どこからでもかかってこいっ！」
+> CONTEXT: Map095/events/7/pages/0/43/Dialogue
+\\N[12]. 「Oh, I took it from anywhere!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あいたたた……
+おにいさん、ホントは強かったんだね。
+やっぱり、そうまぐれは続かないかぁ」
+> CONTEXT: Map095/events/7/pages/0/58/Dialogue
+Purim. 「Aitatan ...... Older, the truth was
+strong. As expected, so no such lag」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あいたた……やっぱり、勝てないかぁ。
+おにいさん、強いんだね」
+> CONTEXT: Map095/events/7/pages/0/65/Dialogue
+Purim. 「Aita ... After all, can not win.
+Older, you are strong」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、キミもその歳でたいしたもんだったぜ。
+怪我はないか？」
+> CONTEXT: Map095/events/7/pages/0/71/Dialogue
+\\N[12]. 「Oh, Kimi was quite old at that age.
+Are there any injuries?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん、へいき。
+さすが武道大会の選手だね、
+おにいさん、すっごい剣技だったよ」
+> CONTEXT: Map095/events/7/pages/0/76/Dialogue
+Purim. 「Yes. It is truly a martial arts
+tournament player, Older, it was a great sword
+skill」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「でもプリムもすごかったぜ、
+こんな大きなおにーさんと堂々と勝負するんだもんな！」
+> CONTEXT: Map095/events/7/pages/0/82/Dialogue
+boy. 「But Purim was amazing, You must compete with such a
+big bunch dignifiedly!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「かっこよかったよ、プリムちゃん！」
+> CONTEXT: Map095/events/7/pages/0/87/Dialogue
+girl. 「It was cool, Purim-chan!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ありがとう。
+そっか、みっともない勝負じゃなかったんなら
+よかったよ」
+> CONTEXT: Map095/events/7/pages/0/94/Dialogue
+Purim. 「Thank you. Well, if it was not an
+incredible match. It was very nice」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ええーいっ！」
+> CONTEXT: Map095/events/7/pages/0/105/Dialogue
+Purim. 「Well then!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うぐっ……！」
+> CONTEXT: Map095/events/7/pages/0/109/Dialogue
+> CONTEXT: Map050/events/3/pages/1/122/Dialogue
+> CONTEXT: Map050/events/3/pages/2/122/Dialogue
+> CONTEXT: Map050/events/3/pages/3/122/Dialogue
+> CONTEXT: Map050/events/3/pages/4/122/Dialogue
+> CONTEXT: Map042/events/2/pages/8/295/Dialogue
+> CONTEXT: Map030/events/1/pages/0/88/Dialogue
+> CONTEXT: Map022/events/2/pages/0/246/Dialogue
+> CONTEXT: Map021/events/96/pages/0/247/Dialogue
+> CONTEXT: Map019/events/19/pages/0/174/Dialogue
+> CONTEXT: Map019/events/19/pages/0/211/Dialogue
+> CONTEXT: Map019/events/26/pages/0/230/Dialogue
+> CONTEXT: Map019/events/26/pages/0/266/Dialogue
+> CONTEXT: Map147/events/2/pages/3/78/Dialogue
+> CONTEXT: Map147/events/2/pages/5/81/Dialogue
+> CONTEXT: Map147/events/2/pages/6/86/Dialogue
+> CONTEXT: Map147/events/2/pages/6/280/Dialogue
+> CONTEXT: Map147/events/2/pages/7/138/Dialogue
+> CONTEXT: Map147/events/2/pages/8/121/Dialogue
+> CONTEXT: Map147/events/2/pages/9/103/Dialogue
+> CONTEXT: Map147/events/2/pages/10/98/Dialogue
+> CONTEXT: Map147/events/2/pages/11/94/Dialogue
+> CONTEXT: Map147/events/2/pages/12/117/Dialogue
+> CONTEXT: Map147/events/2/pages/13/115/Dialogue
+> CONTEXT: Map147/events/2/pages/14/94/Dialogue
+> CONTEXT: Map147/events/2/pages/15/99/Dialogue
+> CONTEXT: Map147/events/2/pages/16/76/Dialogue
+> CONTEXT: Map147/events/2/pages/17/81/Dialogue
+> CONTEXT: Map147/events/2/pages/18/74/Dialogue
+> CONTEXT: Map147/events/2/pages/19/271/Dialogue
+> CONTEXT: Map147/events/2/pages/20/103/Dialogue
+> CONTEXT: Map147/events/2/pages/21/150/Dialogue
+> CONTEXT: Map095/events/7/pages/1/108/Dialogue
+> CONTEXT: Map041/events/5/pages/5/364/Dialogue
+\\N[12]. 「Ug ......!」#MTLed
+> CONTEXT: Commonevents/224/5/Dialogue
+> CONTEXT: Commonevents/224/41/Dialogue
+> CONTEXT: Commonevents/264/125/Dialogue
+> CONTEXT: Commonevents/242/9/Dialogue
+\\N[12]. 「Ug ......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐはっ！」
+> CONTEXT: Map095/events/7/pages/0/117/Dialogue
+> CONTEXT: Map095/events/7/pages/1/116/Dialogue
+> CONTEXT: Commonevents/300/116/Dialogue
+\\N[12]. 「Negative!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「やったやったぁ、またプリムちゃんが勝ったー♪」
+> CONTEXT: Map095/events/7/pages/0/126/Dialogue
+girl. 「Well, Purim-chan won again♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「プリムって、ひょっとしてすげー強いのか……？」
+> CONTEXT: Map095/events/7/pages/0/129/Dialogue
+boy. 「Purim is probably too strong - ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「やったぁ、また大人の男の人に勝っちゃった！
+うれしいなー、うれしいなー♪」
+> CONTEXT: Map095/events/7/pages/0/133/Dialogue
+Purim. 「I did it, I also prevailed an adult man!
+I am happy, I'm happy♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、うぅ……ま、負けた……」
+> CONTEXT: Map095/events/7/pages/0/137/Dialogue
+> CONTEXT: Map095/events/7/pages/0/182/Dialogue
+\\N[12]. 「Uu Uo ... well, I lost ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「相手してくれてありがとう、おにいさん！
+おかげで大会に出る自信がついたよ、
+よかったらまた練習相手になってね！」
+> CONTEXT: Map095/events/7/pages/0/141/Dialogue
+> CONTEXT: Map095/events/7/pages/0/186/Dialogue
+Purim. 「Thank you for your opponent, Oka!
+Thanks to you I gained confidence in tournament,
+If you do not mind, please become a practice partner again!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「また勝っちゃってごめんなさい、おにいさん。
+女の子に負けちゃって悔しかったよね？」
+> CONTEXT: Map095/events/7/pages/0/149/Dialogue
+Purim. 「I am sorry that I win again, Oka.
+You regretted having lost to the girl, were not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、うぅ……そんな……」
+> CONTEXT: Map095/events/7/pages/0/153/Dialogue
+> CONTEXT: Map095/events/7/pages/0/203/Dialogue
+\\N[12]. 「Uooh ... ... such ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「できれば、もうちょっと鍛えてきてほしいな。
+でないと、わたしもいじめているみたいで
+ちょっと気まずくなっちゃうもん。
+> CONTEXT: Map095/events/7/pages/0/156/Dialogue
+Purim. 「I hope I can train a bit more if possible.
+Otherwise, I seem to be bullying. It will be a little
+awkward.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、今日は相手してくれてありがとね、おにいさん！
+また、わたしの練習相手になってくれたらうれしいな♪」
+> CONTEXT: Map095/events/7/pages/0/162/Dialogue
+But thanks to your opponent today, obama!
+Also, I am happy if you become my practice partner♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「うわ、す、すげー！
+プリムが大人の剣士に勝っちまった！」
+> CONTEXT: Map095/events/7/pages/0/169/Dialogue
+boy. 「Wow, wow! Purim won an adult swordsman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「プリムちゃん、すっごーい！」
+> CONTEXT: Map095/events/7/pages/0/173/Dialogue
+girl. 「Purim-chan, it's awesome!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「やったぁ、大人の男の人に勝っちゃった！
+うれしいなー、
+まさか勝てるなんて思わなかったよー」
+> CONTEXT: Map095/events/7/pages/0/177/Dialogue
+Purim. 「I did it, I won an adult man!
+I am happy. I never thought of winning」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（こんな、年下のあどけない女の子に負けるなんて……
+俺の実力は、この程度のものだったのか……）
+> CONTEXT: Map095/events/7/pages/0/191/Dialogue
+\\N[12]. (I can not lose to a young innocent girl like
+this ...... Was my ability really like this ...?)#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ごめんなさい、大丈夫だった？
+手加減してあげればよかったね、
+こんなに弱い人だなんて思ってなかったから……」
+> CONTEXT: Map095/events/7/pages/0/198/Dialogue
+Purim. 「I am sorry, was it okay? You ought to have dropped
+out, I never thought he was such a weak person ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「武道大会に出る人でも、この程度の……
+あ、ごめんなさい、このくらいの腕前なんだね。
+これならわたしが出場しても大丈夫そうかな
+> CONTEXT: Map095/events/7/pages/0/206/Dialogue
+Purim. 「Even those who go out to martial arts tournament,
+this degree ...... Oh, sorry, it's about this skill.
+It seems to be okay if I participated in this#MTLed
+> END STRING
+
+> BEGIN STRING
+今日は相手してくれてありがとね、おにいさん！
+また、わたしの練習相手になってくれたらうれしいな♪」
+> CONTEXT: Map095/events/7/pages/0/212/Dialogue
+Thank you for your opponent today, obama!
+Also, I am happy if you become my practice partner♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（こんな、年下のあどけない女の子に圧倒されるなんて
+みっともなさすぎる……
+俺の実力は、この程度のものだったのか……）
+> CONTEXT: Map095/events/7/pages/0/215/Dialogue
+\\N[12]. (I wonder how overwhelmed by a young innocent
+girl like this. It is too ambitious ......
+Was my ability really like this ...?)#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「やったぁ、また勝っちゃった！」
+> CONTEXT: Map147/events/2/pages/8/177/Dialogue
+> CONTEXT: Map147/events/2/pages/9/159/Dialogue
+> CONTEXT: Map095/events/7/pages/2/9/Dialogue
+Purim. 「I did it again, I won!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「すごーい、プリムちゃん連戦連勝だね！
+もう、おにいさんじゃ相手にならないみたい！」
+> CONTEXT: Map095/events/7/pages/2/12/Dialogue
+girl. 「That's amazing, Purim-chan battle winning streak!
+It seems that you can not become a partner with your older
+brother anymore!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「おにいさん、男の人なのに
+女の子より弱いなんて、かっこわるーい♪」
+> CONTEXT: Map095/events/7/pages/2/16/Dialogue
+girl. 「Many people, even men. Being weaker than a girl, be
+cool♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くうっ……な、情けない……」
+> CONTEXT: Map095/events/7/pages/2/20/Dialogue
+\\N[12]. 「Kuu ......, Miserable ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ごめんね、おにいさん。
+でも、もうちょっと頑張ってくれたら嬉しいな。
+ここのところ、実力差が開く一方みたいだし」
+> CONTEXT: Map095/events/7/pages/2/30/Dialogue
+Purim. 「Sorry, old man. But I'm glad if you do your best a
+little more. For the moment, it seems that the real
+difference is open」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「最初はおにいさんのほうが強かったんだから、
+頑張ればきっと、また互角の勝負ができるよ！」
+> CONTEXT: Map095/events/7/pages/2/38/Dialogue
+Purim. 「At first it was stronger for you,
+If you do your best, you will definitely be equal with each
+other!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（そうだろうか……
+プリムにはすさまじい才能を感じる
+同じ稽古をしても、俺よりぐんぐん強くなっていく。
+> CONTEXT: Map095/events/7/pages/2/42/Dialogue
+\\N[12]. (Is that so ...? I feel tremendous talent in
+Purim. Even if I do the same lesson, I become stronger than
+me.#MTLed
+> END STRING
+
+> BEGIN STRING
+こうやって手合わせをするたびに、
+才能の差をまざまざと見せつけられるようだ……
+この女の子に、俺はもうかなわない……）
+> CONTEXT: Map095/events/7/pages/2/47/Dialogue
+Every time we make arrangements like this,
+It seems to be able to show the difference in talent ...
+... To this girl, I can not do it anymore ......)#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ところで、おにいさん。
+今日これから、
+ちょっと家に来てくれませんか？」
+> CONTEXT: Map095/events/7/pages/2/51/Dialogue
+Purim. 「By the way, a lot of people. From now on,
+Will you come home for a moment?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え？　あ、ああ、いいけど」
+> CONTEXT: Map095/events/7/pages/2/56/Dialogue
+\\N[12]. 「Huh? Oh, ok, but」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「プリムちゃん、がんばれー！」
+> CONTEXT: Map095/events/7/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「兄ちゃんも負けるなよー！」
+> CONTEXT: Map095/events/7/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさんは強いから、わたしじゃ勝てないかもだけど
+胸を借りるつもりで頑張るね！」
+> CONTEXT: Map095/events/7/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「前回は負けたけど、今度は勝てるように頑張るね！」
+> CONTEXT: Map095/events/7/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、いつでも来いっ！」
+> CONTEXT: Map095/events/7/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「ここのところ、わたしの勝ちが続いてるんだよね。
+またわたしが勝っちゃうかもしれないけど、
+落ち込まないでね、おにいさん♪」
+> CONTEXT: Map095/events/7/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「よーし、またわたしが勝っちゃうよー！」
+> CONTEXT: Map095/events/7/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、そう何度も負けないぜっ！」
+> CONTEXT: Map095/events/7/pages/1/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「それじゃ、いきますよっ
+おにいさんっ！」
+> CONTEXT: Map095/events/7/pages/1/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「ううっ、さすがおにいさん、強いなあ……
+わたしじゃ、まだまだかなわないかも」
+> CONTEXT: Map095/events/7/pages/1/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「ううっ、負けちゃった……
+やっぱり、おにいさんにはかなわないなあ」
+> CONTEXT: Map095/events/7/pages/1/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まだまだプリムに負けるわけにはいかないからな。
+でも、お前も武者修行の前よりはずっと強くなってるぜ。
+このまま鍛錬していけば、きっと武道大会でも活躍できるさ」
+> CONTEXT: Map095/events/7/pages/1/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「ホント？　ありがとう、おにいさん！
+よーし、これからももっともっと、
+剣の鍛錬頑張らなきゃ！」
+> CONTEXT: Map095/events/7/pages/1/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「てやあーっ！」
+> CONTEXT: Map095/events/7/pages/1/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子
+「やったぁ、プリムちゃんが勝ったぁ！」
+> CONTEXT: Map095/events/7/pages/1/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「またわたしが勝っちゃったね、ふふっ。
+もう、わたしのほうが
+おにいさんより強かったりして」
+> CONTEXT: Map095/events/7/pages/1/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……
+そんな、こんなに何度も負けるなんて……」
+> CONTEXT: Map095/events/7/pages/1/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「あ、いけない、調子に乗っちゃダメだよね。
+たまたまわたしの勝ちが続いてるだけかもしれないし。
+もっともっと、強くなれるように頑張らなきゃ！」
+> CONTEXT: Map095/events/7/pages/1/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「やったぁ、おにいさんに勝てちゃった！
+まぐれでも、すっごい嬉しいなー！」
+> CONTEXT: Map095/events/7/pages/1/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……ふ、不覚……」
+> CONTEXT: Map095/events/7/pages/1/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさん、今日はありがとね。
+また勝てるように、わたし、
+もっともっと頑張るからねっ！」
+> CONTEXT: Map095/events/7/pages/1/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（プリム、こんなに強くなっているとは……
+こいつの才能の前では、俺は引き離されていくしかないのか……？）
+> CONTEXT: Map095/events/7/pages/1/167/Dialogue < UNTRANSLATED
+
+> END STRING

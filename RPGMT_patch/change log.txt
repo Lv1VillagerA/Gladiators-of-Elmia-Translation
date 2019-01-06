@@ -1,0 +1,15 @@
+Version 2018/11/11
+Translator ver0.7.2: bug fixes, recognition of showMessageFace, (improved Notes/Comment translation)
+ added RPG Maker VX Ace official Translation
+ Created Game System Fix for those who set their system langage to Japanese
+ No comment translation due to bug
+Version 2018/11/13
+ script: bug corrections, adapted namepop for English text
+ added more paterns, more entries to custom dictionary
+Version 2018/11/19
+ Translator ver0.7.3: bug fixes, better script translation (No longer user RPG Trans)
+ fixed some paterns
+--------------
+--------------
+Version 2019/01/06
+ Update to 2.03

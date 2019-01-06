@@ -1,0 +1,356 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ホテル『リバーリーフ』
+> CONTEXT: Map044/display_name/
+Hotel "River Reef"#MTLed
+> END STRING
+
+> BEGIN STRING
+旅の女性
+「エルミアのホテルもなかなかのものね。
+料理の質もサービスも他国に劣るものじゃないわ」
+> CONTEXT: Map044/events/3/pages/0/0/Dialogue
+A woman traveling. 「The hotel in Elmia is also quite good.
+Cooking quality and service are not inferior to other
+countries」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「ふむ、なかなか悪くない……」
+> CONTEXT: Map044/events/4/pages/0/0/Dialogue
+Warrior. 「Hmm, it's not too bad ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「あんまり食べすぎると太るぞ、まったく。
+……にしても、ここの食事、いまひとつ物足りないな。
+やはり南にあるレストランに比べるとなあ」
+> CONTEXT: Map044/events/5/pages/0/0/Dialogue
+male. 「If you eat too much you will get fat, absolutely.
+...... Even then, the meal here is inadequate.
+Compared to the restaurant in the south again」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「おとーさん、もっとちょうだーい」
+> CONTEXT: Map044/events/6/pages/0/0/Dialogue
+girl. 「Father, more」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「このホテルのラウンジは、
+落ち着いて食事をとりたいときにはいいと思うのよね。
+南のレストランは店員の女の子目当ての男どもがうるさいし」
+> CONTEXT: Map044/events/7/pages/0/0/Dialogue
+Woman. 「In this hotel's lounge, You think that it is good
+if you want to eat calmly. The restaurants in the south are
+clamsy for shop clerk girls」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「味を求めるなら、南のはずれにあるレストランのほうが
+いいだろう。だけど、あの店は混んでいることが多いから、
+こちらのほうが私としては快適だな」
+> CONTEXT: Map044/events/8/pages/0/0/Dialogue
+A soldier. 「If you want a taste, restaurants in the south
+of the south prefer. All right. However, that shop is often
+crowded, This one is comfortable for me」#MTLed
+> END STRING
+
+> BEGIN STRING
+料理人
+「アーロンのレストランができてからというもの、
+このホテルの食堂は客が減っちまったよ」
+> CONTEXT: Map044/events/9/pages/0/0/Dialogue
+Cook. 「Since Aaron's restaurant was made,
+The number of customers in this hotel's cafeteria has
+declined」#MTLed
+> END STRING
+
+> BEGIN STRING
+ウェイトレス
+「いらっしゃいませー」
+> CONTEXT: Map044/events/10/pages/0/0/Dialogue
+waitress. 「welcome」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「ようこそ、ホテル・リバーリーフへ。
+武道大会観戦の方向けの宿泊プランには自信がございます。
+どうぞ、ごゆるりとお過ごしくださいませ」
+> CONTEXT: Map044/events/11/pages/0/0/Dialogue
+Receptionist. 「Welcome to Hotel River Leaf.
+I am confident in the accommodation plan for those who
+watch the martial arts tournament. Please, please spend
+your time with relaxing」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「ご休憩は 500\\G です。ご利用ですか？\\$」
+> CONTEXT: Map044/events/12/pages/0/0/Dialogue
+> CONTEXT: Map044/events/12/pages/2/0/Dialogue
+A maid. 「Rest is 500 \\G is. Do you use it? \\$」#MTLed
+> END STRING
+
+> BEGIN STRING
+ホテルの快適なサービスにより
+技力が50上昇！
+> CONTEXT: Map044/events/12/pages/0/13/Dialogue
+> CONTEXT: Map044/events/12/pages/2/12/Dialogue
+> CONTEXT: Map044/events/27/pages/0/1/Dialogue
+Depending on the hotel's comfortable service
+Skill increases by 50!#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「お金が足りません」
+> CONTEXT: Map044/events/12/pages/0/20/Dialogue
+> CONTEXT: Map044/events/12/pages/2/19/Dialogue
+A maid. 「I am short of money」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「ご休憩は500\\G です。ご利用ですか？\\$」
+> CONTEXT: Map044/events/12/pages/1/0/Dialogue
+A maid. 「Rest is 500 \\G is. Do you use it? \\$」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「すみません、俺は武道大会の出場選手なんですが……
+こちらの宿は、長期宿泊ってできますか？」
+> CONTEXT: Map044/events/12/pages/1/3/Dialogue
+\\N[12]. 「I am sorry, I am a martial arts tournament
+participant ... ... Is it possible to stay for a long term
+at this hotel?」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「はい、もちろん可能です。
+試合前後の準備のサポート等がオプションになった、
+選手の方用のプランも用意してございます」
+> CONTEXT: Map044/events/12/pages/1/7/Dialogue
+A maid. 「Yes, of course it is possible. Support for
+preparations before and after the game became optional,
+We also have a plan for players」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へぇ、そりゃすごいな。
+ここは闘技場も近いし、かなり快適に過ごせそうだ。
+それで、料金はいくらになるんですか？」
+> CONTEXT: Map044/events/12/pages/1/12/Dialogue
+\\N[12]. 「Well, that's awesome. The stadium is near
+here and it seems to be quite comfortable.
+So, how much will it cost?」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「選手コースはパック料金で、前払いで8000Gいただきます。
+敗退時期により、料金が値下げされる仕組みとなっております」
+> CONTEXT: Map044/events/12/pages/1/17/Dialogue
+A maid. 「The athlete course is packed fee, you get 8000 G
+by prepayment. Depending on the time of losing, the fee is
+reduced」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え……
+いや、それはちょっと高すぎる……
+や、安いコースはないんですか？」
+> CONTEXT: Map044/events/12/pages/1/21/Dialogue
+\\N[12]. 「Huh……. No, that's a bit too high ......
+Or are there any cheap courses?」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「申し訳ありませんが、
+一般コースの宿泊は、すでに予約でいっぱいです」
+> CONTEXT: Map044/events/12/pages/1/26/Dialogue
+A maid. 「I'm sorry but, The accommodation of the general
+course is already full of reservations」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうっすか……分かりました。
+今回はやめておきます」
+> CONTEXT: Map044/events/12/pages/1/30/Dialogue
+\\N[12]. 「Oh, that's right ... I understand.
+I will stop this time」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（さすがに、8000Gなんて払ってられんぜ。
+他をあたったほうがよさそうだ）
+> CONTEXT: Map044/events/12/pages/1/34/Dialogue
+\\N[12]. (Truly, I can not pay 8000G. It seems better to
+take other action)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（会場からは遠くなるが、
+中央区の宿とかを見てみたほうがいいかな）
+> CONTEXT: Map044/events/12/pages/1/38/Dialogue
+\\N[12]. (It will be far from the venue,
+Should I look at an inn in Chuo-ku?#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「少々値は張るが、武道大会参加中の宿泊はここに決めたよ。
+会場から近いのがありがたい」
+> CONTEXT: Map044/events/13/pages/0/0/Dialogue
+Warrior. 「Although I set a little value, I decided to stay
+here while participating in martial arts tournament.
+It is appreciated to be near the venue」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「西方から武道大会の観戦に来たところですが、
+闘技場から近いこのホテルにするか、
+それとも安い中央区の宿に泊まるか、悩んでいるところです」
+> CONTEXT: Map044/events/14/pages/0/0/Dialogue
+male. 「I came to watch the martial arts tournament from
+the west, This hotel near the stadium, Or is staying in a
+cheap Chuo-ku inn?」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「えー、ここがいいよー！
+闘技場からも近くていいじゃん！」
+> CONTEXT: Map044/events/15/pages/0/0/Dialogue
+boy. 「Er, I'd like this place! You can also be close to
+the stadium!」#MTLed
+> END STRING
+
+> BEGIN STRING
+神父
+「エルミアはサフィスティラ教を国教としているだけあり
+水を大切にしていることがうかがえますな」
+> CONTEXT: Map044/events/15/pages/1/0/Dialogue
+Priest. 「Elmia has only Safistira as state religion
+You can see that treating water well」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法使い
+「結構なお金を取るだけあって、
+清潔で悪くない宿だわ。
+落ち着いて武道大会の準備ができそうね」
+> CONTEXT: Map044/events/16/pages/0/0/Dialogue
+Witch. 「I only had a good deal of money,
+It's clean and bad location. I will be able to settle down
+martial arts tournament calmly」#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「あんた、知ってるかい？
+南の歓楽街の酒場に、それはもう
+器量よしのバニーガールがいて、ウェイトレスやってるとか……」
+> CONTEXT: Map044/events/20/pages/0/0/Dialogue
+Fighter. 「Do you know? To the bar in the southern red
+light district, it is already. There are good bunny girls
+with doses, waitresses are doing ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「止めてくれるな、師匠。
+俺はやるぜ！」
+> CONTEXT: Map044/events/22/pages/0/0/Dialogue
+Fighter. 「Do not stop me, my master. I'll do it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「畜生、負けちまったぜ！
+師匠、また鍛え直してくれ！」
+> CONTEXT: Map044/events/22/pages/1/0/Dialogue
+Fighter. 「Damn, I gotta be defeated! Master, please train
+again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「本当に武道大会に出るのか？
+お前の腕前では、大怪我をするのがオチじゃと思うが……」
+> CONTEXT: Map044/events/23/pages/0/0/Dialogue
+old man. 「Are you really going to martial arts tournament?
+With your skill, I think that it is odds to make a major
+injury ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「やれやれ、うちのバカ弟子はすぐ実戦をやりたがるから困る。
+それにしても、観戦してみたが
+女の選手が多い大会だのう……」
+> CONTEXT: Map044/events/23/pages/1/0/Dialogue
+old man. 「I am in trouble because our idiot disciple wants
+to do a real battle soon. Even so, I tried watching it
+It is tournament many women players ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「女の弟子も欲しいのう……」
+> CONTEXT: Map044/events/23/pages/2/0/Dialogue
+old man. 「I also want a woman's disciple ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「息子と娘のために、
+奮発してエルミアまで旅行に来たんですよ。
+いやあ、この国は暖かいですな」
+> CONTEXT: Map044/events/24/pages/0/0/Dialogue
+old man. 「For my son and daughter, I got excited and came
+to Elmore to travel. Well, this country is warm」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「俺は武道大会をずっと見てたいなー」
+> CONTEXT: Map044/events/25/pages/0/0/Dialogue
+boy. 「I want to see martial arts tournament forever」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「大会も終わっちゃったなー
+これから海に行くみたいだけど、そっちで楽しむかぁ」
+> CONTEXT: Map044/events/25/pages/1/0/Dialogue
+boy. 「The tournament is over. It seems like I'm going to
+the beach from now on, but I guess I'll enjoy it over there
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「旅行ってわくわくするわよねー
+おとーさん、いろんなところに連れて行ってくれるみたい！
+たのしみー！」
+> CONTEXT: Map044/events/26/pages/0/0/Dialogue
+girl. 「I'm going to travel. Father seems to take me to
+various places! Fun」#MTLed
+> END STRING

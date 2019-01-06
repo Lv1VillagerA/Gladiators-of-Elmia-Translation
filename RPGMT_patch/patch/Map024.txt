@@ -1,0 +1,382 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+自警団詰め所
+> CONTEXT: Map024/display_name/
+Vigilante group closing place#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「一緒に働けなくなるのは寂しいが、
+大きな目標に挑む気概は好ましく思うし、応援しよう。
+\\N[12]よ、全力を尽くしてくるがいい」
+> CONTEXT: Map024/events/1/pages/0/0/Dialogue
+> CONTEXT: Map024/events/1/pages/1/0/Dialogue
+> CONTEXT: Map024/events/1/pages/2/0/Dialogue
+Captain Albert. 「It is sad that I can not work together,
+I think the spirit of challenging a big goal is favorable
+and I will cheer. \\N[12] Okay, do your best.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（そういや、あのシェリーって女はもう王都へ向かったのか？
+迂回ルートがあるのだとすれば、
+俺もそれを使って行けないかな）
+> CONTEXT: Map024/events/1/pages/1/5/Dialogue
+\\N[12]. (Well, have that Sherry headed for the Kingdom
+already? If there is a detour route, I wonder whether I can
+use it, too)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ところで団長、あのシェリーっていう女はどうしたんです？」
+> CONTEXT: Map024/events/1/pages/1/10/Dialogue
+\\N[12]. 「By the way, what did the grandmother, that
+woman like Sherry?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルバート
+「彼女なら、一度故郷の西方を経由してから王都エルミアへ
+向かうと言っていたよ。わりと急いでここを出発した。
+そろそろ武道大会も近いからなあ」
+> CONTEXT: Map024/events/1/pages/1/13/Dialogue
+Albert. 「If it is her, once going through the western part
+of my hometown and going to the city of Elmia
+I was saying that I should head there. I started out here
+in a hurry. It's time for martial arts tournament soon」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、なるほど。洞窟が封鎖されているのに
+どうやって王都に行くつもりなのか
+気になってたんですが、西方経由でしたか」
+> CONTEXT: Map024/events/1/pages/1/18/Dialogue
+\\N[12]. 「ah I see. Although the cave is blocked
+How are you going to go to the kingdom? I was worried, was
+it westward?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（この村の人間は西方との交流がないから、
+そっちは道が分からないんだよな。
+やっぱり洞窟を通るしか、俺が王都へ向かう方法は無さそうだ）
+> CONTEXT: Map024/events/1/pages/1/23/Dialogue
+\\N[12]. (People in this village do not interact with
+the West, You do not understand the way.
+After all it passes through the cave, there seems to be no
+way for me to head to the kingdom)#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「よくやったぞ、\\N[12]よ！
+お前は村と、そして自警団の誇りだ！
+我ら自警団の力を村の皆も見直してくれることだろう」
+> CONTEXT: Map024/events/1/pages/4/0/Dialogue
+Captain Albert. 「Well done, \\N[12] That's it!
+You are proud of the village and the vigilante team!
+It will probably reconsider the power of our vigilante
+group in the village」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ライエル
+「ジェーンのやつ、好戦的だよなぁ。
+毎日のように勝負を挑まれると、さすがに辟易するぜ」
+> CONTEXT: None < UNUSED
+militia member Lyell. 「Jane's bastards are militant.
+When you challenge your game like everyday,」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ライエル
+「……実は、ここのところ連戦連敗なんだ……
+ジェーンのやつ、なんか強くね？
+これ以上負けたくないし今度から挑まれても断ろうかな……」
+> CONTEXT: None < UNUSED
+militia member Lyell. 「...... Actually, the successive
+losing streaks here ...... Jane's guy, is not it strong?
+I do not want to lose any more, I wonder if I can refuse to
+challenge from this time ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ライエル
+「団長は大会の観戦に行っちまったよ。
+たぶん三階席で観戦してるだろうから探してみたらどうだ？
+あれで情報通だから、役に立つかもしれないぞ」
+> CONTEXT: Map024/events/2/pages/2/0/Dialogue
+militia member Lyell. 「The headmen went to watch the
+tournament. Maybe you are watching at the third floor seat,
+so why not try looking? Because that is informational, that
+might be useful」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ライエル
+「団長もぶれないなー
+お前の優勝を自警団のハク付けに
+最大限利用するつもりだぜ、ありゃ」
+> CONTEXT: Map024/events/2/pages/3/0/Dialogue
+militia member Lyell. 「The headmaster is not shaken.
+To victory of your victory. I will use it to the maximum.」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員メリーナ
+「\\N[12]、自警団やめて王都行っちゃうんだって？
+ちょっと寂しいなー
+この村に帰ってきたら、また一緒に働こうね！」
+> CONTEXT: None < UNUSED
+militia member Melina. 「\\N[12] Do you want to kill
+vigilante groups and go to the kingdom? I am somewhat
+lonesome. When you return to this village, let's work
+together again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員メリーナ
+「\\N[12]、武道大会優勝したんだって？
+すごいわねぇ、そんなすごい人が
+この自警団で働いてたなんて、信じられないぐらい」
+> CONTEXT: Map024/events/3/pages/1/0/Dialogue
+militia member Melina. 「\\N[12] Did you win the martial
+arts tournament? That's amazing, such a wonderful person
+I can not believe I worked with this vigilante group」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員デュア
+「王都に行くの？　いいなぁ、やっぱり都会行きたいよね。
+帰ってきたら、王都の流行ファッションとか教えてね」
+> CONTEXT: Map024/events/4/pages/0/0/Dialogue
+militia member Dyre. 「Are you going to the Kingdom? I
+mean, I definitely want to go to the city.
+When you come home, tell me about fashion trends in Kingdom
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員デュア
+「私もそのうち、ザインと一緒に自警団をやめて
+王都に移り住もうと思ってるんだー
+やっぱ田舎は付き合いとか面倒だしねー」
+> CONTEXT: Map024/events/4/pages/1/0/Dialogue
+militia member Dyre. 「I also stopped the vigilante group
+along with Zhein. I am going to move to the kingdom -
+After all the countryside is a lot of troublesome dating」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員デュア
+「\\N[12]の活躍を聞いて、
+私たちもがぜん王都で一旗揚げたくなってきたよ」
+> CONTEXT: Map024/events/4/pages/2/0/Dialogue
+militia member Dyre. 「\\N[12] Listening to his success,
+We also wanted to become a king in the Kingdom」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員トーマス
+「ううーん……団長、同調圧力はやめてください……
+> CONTEXT: None < UNUSED
+militia member Thomas. 「Hmm ... ... head captain, please
+stop sync pressure ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ザイン
+「この村の若い奴はたいてい自警団に入ってるよな。
+入らないといろいろ不都合があるからな。
+……正直、お前が辞めるのが少しうらやましい」
+> CONTEXT: Map024/events/6/pages/0/0/Dialogue
+militia member Zhein. 「The young guys in this village are
+usually in vigilante groups. It will be inconvenient if you
+do not enter. ...... To be honest, I am a little envious
+that you will quit」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ザイン
+「お前、もともとこの自警団におさまるような
+人間じゃなかったのかもな。
+いや、ホントすごいぜ」
+> CONTEXT: Map024/events/6/pages/1/0/Dialogue
+militia member Zhein. 「You like this vigilante
+I guess he was not human. No, really great.」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員コーデリア
+「寝かせて……今夜から夜回り役だから
+それに備えて寝ておかなきゃ……
+> CONTEXT: None < UNUSED
+militia member Cordelia. 「Let me sleep ... ... Because
+it's a night race from tonight. I have to sleep in
+preparation for that ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+『仮眠コーナーは譲り合って使いましょう』
+と書いてある。
+> CONTEXT: Map024/events/9/pages/0/0/Dialogue
+"Let's make a nap and use it.". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+『今週の夜回り役はトーマスとコーデリアです。
+村周辺の夜間警備は大切な役目です。
+体調をしっかり整え、決して欠席しないようにしてください』
+> CONTEXT: Map024/events/10/pages/0/0/Dialogue
+"This week's rolling role is Thomas and Cordelia.
+Night security around the village is an important role.
+Please prepare your physical condition and never absent. "#MTLed
+> END STRING
+
+> BEGIN STRING
+『今週の夜回り役はロックとデュアです。
+村周辺の夜間警備は大切な役目です。
+体調をしっかり整え、決して欠席しないようにしてください』
+> CONTEXT: Map024/events/10/pages/1/0/Dialogue
+"This week's rolling role is Rock and Dyre.
+Night security around the village is an important role.
+Please prepare your physical condition and never absent. "#MTLed
+> END STRING
+
+> BEGIN STRING
+『モルデリア洞窟の盗賊団は、今のところは王都周辺で
+旅人などを襲っているようですが、いつレストン方面に
+被害が及ぶか分かりません。厳重に警戒しましょう』
+> CONTEXT: Map024/events/11/pages/0/0/Dialogue
+"Morderia cave bandits are currently around the kingdom
+It seems to be hitting a traveler etc, but when it is in
+the direction of Reston. I do not know whether damage will
+occur. Let's be precautionary. "#MTLed
+> END STRING
+
+> BEGIN STRING
+『盗賊団は、元メンバーの\\N[12]によって討伐されました。
+我々もレストンの自警団としての誇りを持ち、
+今後とも村を守るためにがんばりましょう』
+> CONTEXT: Map024/events/11/pages/1/0/Dialogue
+"The bandit is a former member \\N[12] It was subjugated
+by. We also take pride as a vigilante of Reston,
+Let's continue trying to protect the village from now on. "#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ロック
+「ジェーンのやつ、一人旅に適した剣技を習得しているらしい。
+何度も勝負したりして親しくなれば、
+教えてもらえるかもしれないぜ」
+> CONTEXT: Map024/events/12/pages/0/0/Dialogue
+militia member Rock. 「It seems that Jane's fellow has
+mastered the sword skill suitable for traveling alone.
+If you win by winning over and over again,
+You may be taught」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ロック
+「団長もいないし、
+多少はサボっても誰にも文句言われないよなー」
+> CONTEXT: Map024/events/12/pages/1/0/Dialogue
+militia member Rock. 「There is no head coach,
+Even if I wear somewhat, no one complains about it」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ロック
+「お前もだけど、
+ジェーンも結構頑張ってたよなー
+あの大会、一次予選を勝ち抜くのも結構大変だっていうし」
+> CONTEXT: Map024/events/12/pages/2/0/Dialogue
+militia member Rock. 「You too, Jane did a good job well
+That tournament, it is quite difficult to win the first
+preliminary contest」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員コーデリア
+「\\N[12]のおかげで自警団の知名度も上がったし、
+他の地方から人が来てくれるといいなー」
+> CONTEXT: Map024/events/13/pages/0/0/Dialogue
+militia member Cordelia. 「\\N[12] Thanks to that, the
+vigilante's popularity rose, I hope people come from other
+districts」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員トーマス
+「お前の優勝に刺激を受けて、
+うちのメンバーも稽古に力が入るようになったぜ」
+> CONTEXT: Map024/events/14/pages/0/0/Dialogue
+militia member Thomas. 「Stimulated by your victory,
+Our members began to gain power in practice」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ライエル
+「ジェーンのやつ、最近性格がますますキツくなった気がする。
+強い男のことは認めるみたいだけど、
+自分より弱い男への扱いが容赦ないんだよな……」
+> CONTEXT: Map024/events/2/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自警団員ライエル
+「……実は、ここのところジェーンとの手合わせは
+連戦連敗なんだ……あいつ、なんか強くね？
+これ以上負けたくないし今度から挑まれても断ろうかな……」
+> CONTEXT: Map024/events/2/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自警団員メリーナ
+「\\N[12]、自警団やめて王都行っちゃうんだって？
+強い男の子がいなくなっちゃうのは寂しいなー
+この村に帰ってきたら、また一緒に働こうね！」
+> CONTEXT: Map024/events/3/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自警団員トーマス
+「ううーん……団長、同調圧力はやめてください……」
+> CONTEXT: Map024/events/5/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自警団員コーデリア
+「今夜から夜回り役だから寝ておかなきゃ……
+あの団長、人をこき使って……
+誰か、別の人がリーダーになってくれないかな……」
+> CONTEXT: Map024/events/7/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自警団員ユリコ
+「ジェーンはねぇ、ものすごく負けん気が強いよね。
+\\N[12]も、今はジェーンに認められてるみたいだけど
+もしあの子を失望させたら、反動で容赦ないことをされるかもよ」
+> CONTEXT: Map024/events/15/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自警団員ユリコ
+「\\N[12]が優勝して男の強さを示してくれたから
+自警団内の男性蔑視してるメンバーが大人しくなって、助かったわ。
+やっぱり、男女仲良くが一番よね」
+> CONTEXT: Map024/events/15/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING

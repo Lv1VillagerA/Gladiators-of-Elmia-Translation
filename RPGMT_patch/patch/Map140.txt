@@ -1,0 +1,1796 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「こんなところに小部屋があったのか。
+それにしてもプリム、誰に頼まれてこんな地下水道に？」
+> CONTEXT: Map140/events/5/pages/0/5/Dialogue
+\\N[12]. 「Was there a small room in such a place?
+Anyway, Purim, who is asked for this underground water?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「それは、えっと……」
+> CONTEXT: Map140/events/5/pages/0/11/Dialogue
+Purim. 「Wait, that.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「誰なのか言えないのか？
+まあ、助けてくれただけでもありがたい。
+この部屋を通れば、先に行けるんだよな？」
+> CONTEXT: Map140/events/5/pages/0/14/Dialogue
+\\N[12]. 「Can not you tell who it is? Well, I'm
+thankful that I just helped. If you go through this room,
+you can go ahead?」#MTLed
+> END STRING
+
+> BEGIN STRING
+？
+「あいにくだけれど、
+ここから先には行かせないわよ」
+> CONTEXT: Map140/events/5/pages/0/19/Dialogue
+? 「Unfortunately, I will not let you go from here」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ディアーナ？
+なんでキミまでここに……」
+> CONTEXT: Map140/events/5/pages/0/34/Dialogue
+\\N[12]. 「Diana? Why are you here......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あなた、女王陛下の試練を受けているそうだけど、
+あなたごとき庶民が王配位を得ようなど、身の程知らずね」
+> CONTEXT: Map140/events/5/pages/0/38/Dialogue
+Diana. 「I heard that you are being tested by the
+Queen's Majesty, It is unknown to you that
+ordinary people like you got king coordination
+like you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「キミは、ベックフォード侯爵の娘さんじゃないか」
+> CONTEXT: Map140/events/5/pages/0/44/Dialogue
+\\N[12]. 「You are the daughter of Beckford Marquis」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ええ、そうよ。
+あなた、女王陛下の試練を受けているそうだけど、
+あなたごとき庶民が王配位を得ようなど、身の程知らずね」
+> CONTEXT: Map140/events/5/pages/0/47/Dialogue
+Diana. 「Yes, I see. I heard that you are being
+tested by the Queen's Majesty,
+It is unknown to you that ordinary people like
+you got king coordination like you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「身の程知らず……そうかもしれないが、
+俺はアルミナと結婚すると決めたんだ。
+なんと言われようが、その意志は押し通すつもりだぜ」
+> CONTEXT: Map140/events/5/pages/0/54/Dialogue
+\\N[12]. 「To our knowledge ...... Maybe so,
+I decided to marry Alumina. Whatever may be said, that
+intention will push through」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふん、決意はご立派だけれど、それもここまでよ。
+女王陛下の命により、
+あなたの王宮入りをここで阻ませてもらうわ！」
+> CONTEXT: Map140/events/5/pages/0/59/Dialogue
+Diana. 「Hmm, determination is wonderful, but
+that's it. With the life of His Majesty the
+Queen, I will have you block your entering the
+Royal Palace here!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、女王様の刺客というわけか」
+> CONTEXT: Map140/events/5/pages/0/65/Dialogue
+\\N[12]. 「Indeed, Queen's assassin」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ご、ごめんね、おにいさん。
+女王陛下に頼まれたら断れなくて」
+> CONTEXT: Map140/events/5/pages/0/68/Dialogue
+Purim. 「Sorry, an inconvenience.
+I can not refuse if my Queen asked me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そっか、気にするなプリム。
+これが陛下の用意した試練だというなら、乗り越えるまで！
+遠慮なくかかってこい、二人ともっ！」
+> CONTEXT: Map140/events/5/pages/0/74/Dialogue
+\\N[12]. 「Do not worry, Purim. If this is a testament
+prepared by your Majesty, until you get over it!
+Please do not hesitate to come and join us!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「い、いきますっ、おにいさんっ！」
+> CONTEXT: Map140/events/5/pages/0/79/Dialogue
+> CONTEXT: Map140/events/5/pages/1/83/Dialogue
+Purim. 「Well, I'm going!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「前後挟み撃ちの形、
+逃げ場はないわよ！
+覚悟なさい！」
+> CONTEXT: Map140/events/5/pages/0/82/Dialogue
+> CONTEXT: Map140/events/5/pages/1/86/Dialogue
+Diana. 「Shapes of front and back pinching,
+There is no escape! Prepare!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「きゃああぁっ！」
+> CONTEXT: Map140/events/5/pages/0/101/Dialogue
+> CONTEXT: Map140/events/5/pages/1/105/Dialogue
+Purim. 「Kyaaaa!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「くううっ！
+や、やるわね、さすが武道大会優勝者……
+二人がかりの挟み撃ちでも勝てないなんて」
+> CONTEXT: Map140/events/5/pages/0/104/Dialogue
+> CONTEXT: Map140/events/5/pages/1/108/Dialogue
+Diana. 「OHh! Or, I'll do it, martial arts
+tournament winner...It is impossible for two
+people to catch a pincer attack」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ、なんとか撃退できたか。
+二人とも、怪我はしていないか？」
+> CONTEXT: Map140/events/5/pages/0/110/Dialogue
+> CONTEXT: Map140/events/5/pages/1/114/Dialogue
+\\N[12]. 「How was he managed to repel? Are not both of
+you injured?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「へ、へいき……」
+> CONTEXT: Map140/events/5/pages/0/114/Dialogue
+> CONTEXT: Map140/events/5/pages/1/118/Dialogue
+Purim. 「Hehe, ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふん、大丈夫よ。
+余裕ね、刺客を気遣うだなんて」
+> CONTEXT: Map140/events/5/pages/0/117/Dialogue
+> CONTEXT: Map140/events/5/pages/1/121/Dialogue
+Diana. 「Hmm, that's fine. I can afford, I do not
+care about thugs」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、余裕なんてないぞ、手ごわかったさ。
+しかし、これで俺の勝ちだ。
+通ってもいいんだろう？」
+> CONTEXT: Map140/events/5/pages/0/123/Dialogue
+> CONTEXT: Map140/events/5/pages/1/125/Dialogue
+\\N[12]. 「No, I can not afford it, it was awesome.
+But this is my win. I wonder whether I can pass.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「くっ……
+負けた以上、仕方ないわね……」
+> CONTEXT: Map140/events/5/pages/0/128/Dialogue
+Diana. 「Damn. Beyond defeat, it can not be
+helped......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「くやしいけど、やっぱりおにいさんは強いね。
+わたしたちじゃ止めるのは無理だったかぁ」
+> CONTEXT: Map140/events/5/pages/0/132/Dialogue
+Purim. 「I'm sorry, but the guy is strong as I
+expected. Was it impossible to stop with us?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「腕の立つ男だし、召使いにしてやりたかったけど
+ま、仕方ないとあきらめるしかないわね。
+この腕なら、陛下の元までたどり着く資格はありそう」
+> CONTEXT: Map140/events/5/pages/0/136/Dialogue
+Diana. 「He's a man with arms and wanted to be a
+servant. Well, there is no choice but to give up.
+With this skill, it seems qualified to get to
+your Majesty」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「召使いって……」
+> CONTEXT: Map140/events/5/pages/0/142/Dialogue
+\\N[12]. 「To servant ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「わたしたちが勝ったら、そうなってたかもね。
+それより、勝負はおにいさんの勝ちで終わったし、
+わたしたちはおにいさんに協力してあげるね」
+> CONTEXT: Map140/events/5/pages/0/145/Dialogue
+Purim. 「It may have been so if we won.
+More than that, the game ended with a lot of
+winnings, We will cooperate with your big brother
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え？
+でも、女王陛下に頼まれて刺客をやっていたんだろう、
+いいのか？」
+> CONTEXT: Map140/events/5/pages/0/150/Dialogue
+> CONTEXT: Map140/events/5/pages/1/150/Dialogue
+\\N[12]. 「Huh? But, she asked her majesty to do thugs,
+Is it okay?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「負けた以上、刺客の役目もこれでおしまいだもの。
+これ以上、無駄に敵対しても仕方ないでしょ」
+> CONTEXT: Map140/events/5/pages/0/155/Dialogue
+> CONTEXT: Map140/events/5/pages/1/155/Dialogue
+Diana. 「As I lost, the role of the assassin
+ended with this. No wonder it's no use hostile in
+vain」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「女王さまにばかり味方するのも不公平だし、
+おにいさんがわたしたちに勝てるようなら
+味方してあげようって、決めていたの」
+> CONTEXT: Map140/events/5/pages/0/159/Dialogue
+Purim. 「It is unfair to sidelense the Queen,
+If a big guy can win us. I was deciding to lend a
+friend」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか、そいつは助かるよ。
+正直、国がまるごと敵になったってのは
+心細く感じるものだったからなあ」
+> CONTEXT: Map140/events/5/pages/0/166/Dialogue
+> CONTEXT: Map140/events/5/pages/1/168/Dialogue
+\\N[12]. 「Well, that guy is saved. To be honest, the
+fact that the whole country became an enemy
+Because I felt a sense of fear」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「わたしはおにいさんに助けてもらったから、
+最初から味方したいって思ったんだけど……」
+> CONTEXT: Map140/events/5/pages/0/171/Dialogue
+Purim. 「Because I was saved by a lot of people,
+I thought that I would like to stand on from the
+beginning ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「私たちに勝てないような男が
+陛下の元までたどり着けるわけがないでしょ。
+まず戦ってみて、ダメならいっそ引導を渡すべきよ」
+> CONTEXT: Map140/events/5/pages/0/175/Dialogue
+Diana. 「A man who can not win. You can not reach
+your Majesty. Try fight first, if you do not, you
+ought to pass the guidance all the way」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そういうわけか、よくわかったよ。
+ふたりとも、いろいろ考えてくれてありがとな」
+> CONTEXT: Map140/events/5/pages/0/182/Dialogue
+\\N[12]. 「That's why I understood. Both of us are
+thankful for thinking」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「じゃ、まず協力の手始めとして
+橋をかけてあげるわよ」
+> CONTEXT: Map140/events/5/pages/0/186/Dialogue
+Diana. 「Well, first of all as a part of
+cooperation. I'll give you a bridge」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おお、橋が……」
+> CONTEXT: Map140/events/5/pages/0/201/Dialogue
+> CONTEXT: Map140/events/5/pages/1/189/Dialogue
+\\N[12]. 「Oh, the bridge......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あなたも管理室を通ってきたんでしょ？
+なら、あそこに壊れてるスイッチがあったのも
+たぶん見たわよね」
+> CONTEXT: Map140/events/5/pages/0/206/Dialogue
+> CONTEXT: Map140/events/5/pages/1/192/Dialogue
+Diana. 「You also came through the control room,
+did not you? Then, there was a broken switch over
+there. Maybe you saw it」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あの遠隔スイッチが壊れているから、
+この現場で直接スイッチをつけないと
+ここは動かないようになっていたんですよ」
+> CONTEXT: Map140/events/5/pages/0/211/Dialogue
+> CONTEXT: Map140/events/5/pages/1/199/Dialogue
+Purim. 「Because that remote switch is broken,
+If you do not switch on this site directly
+It was supposed not to move here」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだったのか……
+二人に会わなければ、
+ずっとここで立ち往生していたかもしれないな」
+> CONTEXT: Map140/events/5/pages/0/216/Dialogue
+> CONTEXT: Map140/events/5/pages/1/204/Dialogue
+\\N[12]. 「Is that so……. If you do not meet two people,
+You may have been stuck here for a long time」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「このことを発見したのは私よ、感謝なさい。
+さて、プリム、あなたは
+今後のルートについてアドバイスがあるんでしょ？」
+> CONTEXT: Map140/events/5/pages/0/221/Dialogue
+> CONTEXT: Map140/events/5/pages/1/209/Dialogue
+Diana. 「Please thank me for discovering this.
+Well, Purim, you. You have advice about future
+routes?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん。おにいさん、王城に直接入れる地下道は
+爆破されちゃったみたいだけど、
+入る手段はまだ残されていると思うの」
+> CONTEXT: Map140/events/5/pages/0/226/Dialogue
+Purim. 「Yup. Older, the underpass to put in the
+king castle directly. It looks like it was blown
+up, I think the means to enter is still left」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「プリム、なにか心当たりがあるのか」
+> CONTEXT: Map140/events/5/pages/0/231/Dialogue
+\\N[12]. 「Purim, do you have any idea」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん、大会のときに係員の人に聞いたんだけど……
+この上には闘技場があるけれど、
+その北側に王族専用の船着き場があるのは知ってる？」
+> CONTEXT: Map140/events/5/pages/0/234/Dialogue
+Purim. 「Yeah, when I was at tournament, I asked
+the clerk's attendant...... There is a stadium
+on top of this, Do you know that there is a dock
+for the royal family on the north side?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああ。
+聞いたことがあるような気がする」
+> CONTEXT: Map140/events/5/pages/0/240/Dialogue
+> CONTEXT: Map140/events/5/pages/1/230/Dialogue
+\\N[12]. 「Oh, oh. I feel like I've heard of it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、初めて聞いた。
+そうだったのか」
+> CONTEXT: Map140/events/5/pages/0/246/Dialogue
+> CONTEXT: Map140/events/5/pages/1/236/Dialogue
+\\N[12]. 「No, I heard it for the first time.
+Is that so」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「闘技場の北側、湖に面した出口。
+そこには王族専用の出入り口があって、
+船着場に舟が繋がれているみたいなの」
+> CONTEXT: Map140/events/5/pages/0/252/Dialogue
+Purim. 「Exit facing the lake on the north side
+of the stadium. There is a gateway exclusively
+for the royal family, It seems the boat is
+connected to the dock.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「その舟には、王城北側の船着場まで
+自動的に走ってくれるように
+魔法がかけてあると、貴族間でも噂があるわ」
+> CONTEXT: Map140/events/5/pages/0/257/Dialogue
+> CONTEXT: Map140/events/5/pages/1/247/Dialogue
+Diana. 「To that boat, until the pier on the
+north side of Oulu. To run automatically
+There is rumor even among aristocrats when magic
+is applied」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へえ、そんな物が……」
+> CONTEXT: Map140/events/5/pages/0/262/Dialogue
+> CONTEXT: Map140/events/5/pages/1/254/Dialogue
+\\N[12]. 「Oh, such a thing ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、そうか、
+その舟を奪っちまえば王城に侵入できる！」
+> CONTEXT: Map140/events/5/pages/0/267/Dialogue
+> CONTEXT: Map140/events/5/pages/1/259/Dialogue
+\\N[12]. 「Oh, I see. If you take that ship you can
+invade the royal castle!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「闘技場は、武道大会が終わったから
+閉鎖されているけど、このあたりを調べていけば
+地下から入ることができるみたいだよ」
+> CONTEXT: Map140/events/5/pages/0/271/Dialogue
+Purim. 「Because the martial arts tournament is
+over at the stadium. Although it is closed down,
+if you check this around. It seems like I can get
+in from the basement」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、それじゃあ
+こっちに来たのは色んな意味で正解だったわけだ」
+> CONTEXT: Map140/events/5/pages/0/276/Dialogue
+> CONTEXT: Map140/events/5/pages/1/268/Dialogue
+\\N[12]. 「I see, then. That which came this way was
+correct answers in various ways」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「でもね、安心するのは早いわ。
+私たちがここに配置されていたように、
+陛下の命を受けてあなたを狙う者はまだまだいるわよ」
+> CONTEXT: Map140/events/5/pages/0/280/Dialogue
+> CONTEXT: Map140/events/5/pages/1/272/Dialogue
+Diana. 「But, it is too early to rest.
+As we were placed here, There are those who aim
+at you with your Majesty's life」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それは問題ないぜ。
+どんな敵が現れようと、すべて打ち破って進むまでだ」
+> CONTEXT: Map140/events/5/pages/0/287/Dialogue
+> CONTEXT: Map140/events/5/pages/1/277/Dialogue
+\\N[12]. 「That's no problem. No matter what kind of
+enemy appears, it's up to defeating everything」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「がんばって、おにいさん。
+ぜんぶ終わったら、
+またわたしに剣を教えてね」
+> CONTEXT: Map140/events/5/pages/0/291/Dialogue
+Purim. 「Hang in there, Oka. When all ends,
+Please tell me the sword again」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ！
+サンキュな、プリム。
+それに、ディアーナも」
+> CONTEXT: Map140/events/5/pages/0/298/Dialogue
+\\N[12]. 「Oh! thanks, Purim. And also Diana」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふん、あんたは庶民にしては悪くない男だし
+私も応援してあげるわ。
+せいぜい頑張りなさい」
+> CONTEXT: Map140/events/5/pages/0/303/Dialogue
+Diana. 「Hmm, you're a bad man for the common
+people. I will support you too.
+Do your best at best.」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムとディアーナは去っていった。
+> CONTEXT: Map140/events/5/pages/0/309/Dialogue
+Purim and Diana left.#MTLed
+> END STRING
+
+> BEGIN STRING
+年下の少女二人が、自分を踏みつけながら
+処遇について無邪気な様子で語らっているのを聞きながら
+\\N[12]は絶望感と快楽に身を震わせていた。
+> CONTEXT: Map140/events/5/pages/0/331/Dialogue
+> CONTEXT: Map140/events/5/pages/0/656/Dialogue
+> CONTEXT: Map140/events/5/pages/1/316/Dialogue
+> CONTEXT: Map140/events/5/pages/1/641/Dialogue
+Two younger girls are trampling on their own
+While listening to being innocent about the treatment
+\\N[12] He was trembling with despair and pleasure.#MTLed
+> CONTEXT: Commonevents/221/333/Dialogue
+Two younger girls are trampling on their own
+While listening to being innocent about the
+treatment. \\N[12] He was trembling with
+despair and pleasure.#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、二人の年下少女に\\N[12]は敗れ、
+その共有物として扱われることになってしまったのだった――
+> CONTEXT: Map140/events/5/pages/0/335/Dialogue
+> CONTEXT: Map140/events/5/pages/0/660/Dialogue
+> CONTEXT: Map140/events/5/pages/1/320/Dialogue
+> CONTEXT: Map140/events/5/pages/1/645/Dialogue
+Thus, two younger girls \\N[12] He was defeated,
+It was supposed to be treated as a shared thing -#MTLed
+> CONTEXT: Commonevents/221/337/Dialogue
+Thus, two younger girls \\N[12] He was
+defeated, It was supposed to be treated as a
+shared thing -#MTLed
+> END STRING
+
+> BEGIN STRING
+バッドエンド：少女たちの共有玩具
+> CONTEXT: Map140/events/5/pages/0/338/Dialogue
+> CONTEXT: Map140/events/5/pages/0/663/Dialogue
+> CONTEXT: Map140/events/5/pages/1/323/Dialogue
+> CONTEXT: Map140/events/5/pages/1/648/Dialogue
+Bad end: Girls shared toys#MTLed
+> CONTEXT: Commonevents/221/340/Dialogue
+Bad end: Girls shared toys#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふんっ、その程度？
+いくら二人がかりとはいえ、年下の女相手に
+いいようにやられるなんて、情けない男ねっ」
+> CONTEXT: Map140/events/5/pages/0/345/Dialogue
+> CONTEXT: Map140/events/5/pages/1/330/Dialogue
+> CONTEXT: Commonevents/221/7/Dialogue
+Diana. 「Honey, how much? Even though it is two
+people 's luck, It is a pitiable man to be taken
+to be good」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……
+な、なんてこった、ここまできて
+この二人に阻まれちまうとはっ」
+> CONTEXT: Map140/events/5/pages/0/350/Dialogue
+> CONTEXT: Map140/events/5/pages/1/335/Dialogue
+\\N[12]. 「uugh...... Why, why are you here?
+I hope they are hindered by these two people」#MTLed
+> CONTEXT: Commonevents/221/12/Dialogue
+\\N[12]. 「uugh...... Why, why are you here?
+I hope they are hindered by these two people」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「どうやら、女王の試練はこれで終わりねっ。
+私はね、\\N[12]、あなたを逃してなんてあげない。
+腕の立つ男はいくらでも使用人として手に入れたいもの」
+> CONTEXT: Map140/events/5/pages/0/355/Dialogue
+> CONTEXT: Map140/events/5/pages/1/340/Dialogue
+> CONTEXT: Commonevents/221/32/Dialogue
+Diana. 「Apparently, the Queen's trial ends with
+this. I think so, \\N[12] I will not miss you.
+A man with arms wants to get as much as a servant
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだとっ
+俺を使用人にだって？」
+> CONTEXT: Map140/events/5/pages/0/360/Dialogue
+> CONTEXT: Map140/events/5/pages/1/345/Dialogue
+\\N[12]. 「? You used me to an employee?」#MTLed
+> CONTEXT: Commonevents/221/37/Dialogue
+\\N[12]. 「? You used me to an employee?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「私たちが勝てば、あなたを好きにしてやるって
+そう言ったでしょう？」
+> CONTEXT: Map140/events/5/pages/0/364/Dialogue
+> CONTEXT: Map140/events/5/pages/1/349/Dialogue
+> CONTEXT: Commonevents/221/41/Dialogue
+Diana. 「If we win, you will love you
+You said so, right?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、確かに言ったが……」
+> CONTEXT: Map140/events/5/pages/0/368/Dialogue
+> CONTEXT: Map140/events/5/pages/1/353/Dialogue
+\\N[12]. 「Cut, surely said......」#MTLed
+> CONTEXT: Commonevents/221/45/Dialogue
+\\N[12]. 「Cut, surely said......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ね、ねえディアーナちゃん、
+やっぱりちょっとおにいさんがかわいそうだよ。
+見逃してあげてもいいんじゃないかなあ」
+> CONTEXT: Map140/events/5/pages/0/371/Dialogue
+> CONTEXT: Map140/events/5/pages/1/356/Dialogue
+> CONTEXT: Commonevents/221/48/Dialogue
+Purim. 「Hey, hey Diana-chan, As a matter of fact
+the little person is sorry for that.
+I wonder if you can miss it」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「今さらなにを言っているのよ。
+最初に決めてたことでしょう。
+> CONTEXT: Map140/events/5/pages/0/376/Dialogue
+> CONTEXT: Map140/events/5/pages/1/361/Dialogue
+> CONTEXT: Commonevents/221/53/Dialogue
+Diana. 「What are you talking about now.
+I guess it was decided at first.#MTLed
+> END STRING
+
+> BEGIN STRING
+どっちみち、私たちに負けるような男が
+女王陛下に勝てるわけがないわ。
+絶望を味わう前に、ここで私たちが
+引導を渡してやるのが、むしろ優しさなのよ」
+> CONTEXT: Map140/events/5/pages/0/380/Dialogue
+> CONTEXT: Map140/events/5/pages/1/365/Dialogue
+> CONTEXT: Commonevents/221/57/Dialogue
+Anyway, a man like us to lose. I can not win the
+Queen. Before we taste desperation, here we are
+It is rather gentle to give guidance」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「う、うーん、
+しょうがないか。
+おにいさんが弱いのが悪い、っていうのは確かだし」
+> CONTEXT: Map140/events/5/pages/0/385/Dialogue
+> CONTEXT: Map140/events/5/pages/1/370/Dialogue
+> CONTEXT: Commonevents/221/62/Dialogue
+Purim. 「Well, Can not be helped.
+It is certain that it is bad that many people are
+weak」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……
+好き勝手言ってくれるが、
+俺はまだ女王の試練をあきらめるつもりはないぜ」
+> CONTEXT: Map140/events/5/pages/0/390/Dialogue
+> CONTEXT: Map140/events/5/pages/1/375/Dialogue
+\\N[12]. 「Damn. It tells you whatever you like,
+I do not intend to give up the Queen's trials yet」#MTLed
+> CONTEXT: Commonevents/221/67/Dialogue
+\\N[12]. 「Damn. It tells you whatever you
+like, I do not intend to give up the Queen's
+trials yet」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「甘いわねっ、\\N[12]！
+逃亡する気力すら起きないよう、
+ここで私たちがあなたの闘志を奪い去ってあげるわ」
+> CONTEXT: Map140/events/5/pages/0/395/Dialogue
+> CONTEXT: Map140/events/5/pages/1/380/Dialogue
+> CONTEXT: Commonevents/221/72/Dialogue
+Diana. 「Sweet wax, \\N[12] ! To prevent the
+escape utility, Here we will take your fighting
+spirit away」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだって……？」
+> CONTEXT: Map140/events/5/pages/0/400/Dialogue
+> CONTEXT: Map140/events/5/pages/1/385/Dialogue
+\\N[12]. 「Why, what ...?」#MTLed
+> CONTEXT: Map147/events/2/pages/19/413/Dialogue
+> CONTEXT: Commonevents/221/77/Dialogue
+\\N[12]. 「Why, what ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「プリム、この男の服を脱がすわよ」
+> CONTEXT: Map140/events/5/pages/0/405/Dialogue
+> CONTEXT: Map140/events/5/pages/1/390/Dialogue
+> CONTEXT: Commonevents/221/82/Dialogue
+Diana. 「Purim, I will take off this guy's clothes
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「う、うん」
+> CONTEXT: Map140/events/5/pages/0/408/Dialogue
+> CONTEXT: Map140/events/5/pages/1/393/Dialogue
+> CONTEXT: Map025/events/264/pages/0/37/Dialogue
+> CONTEXT: Commonevents/221/85/Dialogue
+Purim. 「No」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、うわっ！
+よせ、やめ……！」
+> CONTEXT: Map140/events/5/pages/0/411/Dialogue
+> CONTEXT: Map140/events/5/pages/1/396/Dialogue
+\\N[12]. 「Wow, that's it! Alright, stop......!」#MTLed
+> CONTEXT: Commonevents/221/88/Dialogue
+\\N[12]. 「Wow, that's it! Alright, stop ...
+...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は女の子たちに
+よってたかって全裸にされてしまった！
+> CONTEXT: Map140/events/5/pages/0/415/Dialogue
+> CONTEXT: Map140/events/5/pages/1/400/Dialogue
+\\N[12] To the girls. Therefore I was naked naked!#MTLed
+> CONTEXT: Commonevents/221/92/Dialogue
+\\N[12] To the girls. Therefore I was naked
+naked!#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「プリム、脚のほうを持ちなさい！」
+> CONTEXT: Map140/events/5/pages/0/418/Dialogue
+> CONTEXT: Map140/events/5/pages/1/403/Dialogue
+> CONTEXT: Commonevents/221/95/Dialogue
+Diana. 「Purim, hold your leg!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「う、うんっ」
+> CONTEXT: Map140/events/5/pages/0/421/Dialogue
+> CONTEXT: Map140/events/5/pages/1/406/Dialogue
+> CONTEXT: Commonevents/221/98/Dialogue
+Purim. 「Well, yeah」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あぐっ……！」
+> CONTEXT: Map140/events/5/pages/0/429/Dialogue
+> CONTEXT: Map140/events/5/pages/1/414/Dialogue
+\\N[12]. 「Thanks ...!」#MTLed
+> CONTEXT: Commonevents/152/170/Dialogue
+> CONTEXT: Commonevents/221/106/Dialogue
+> CONTEXT: Commonevents/228/577/Dialogue
+\\N[12]. 「Thanks ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふんっ、どうかしら？
+年下の女に負けて、顔を踏みつけられる気分は」
+> CONTEXT: Map140/events/5/pages/0/432/Dialogue
+> CONTEXT: Map140/events/5/pages/1/417/Dialogue
+Diana. 「Hmm, what do you think? I feel like losing to a
+younger woman and being able to step on her face」#MTLed
+> CONTEXT: Commonevents/221/109/Dialogue
+Diana. 「Hmm, what do you think?
+I feel like losing to a younger woman and being
+able to step on her face」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……これがどうした。
+確かに屈辱的だが、
+こんなことで俺はくじけたりしないぞ」
+> CONTEXT: Map140/events/5/pages/0/436/Dialogue
+> CONTEXT: Map140/events/5/pages/1/421/Dialogue
+\\N[12]. 「Ku...... What about this. It is definitely
+humiliating, I will not be cowardly like this」#MTLed
+> CONTEXT: Commonevents/221/113/Dialogue
+\\N[12]. 「Ku...... What about this.
+It is definitely humiliating, I will not be
+cowardly like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あら、そう。
+じゃあプリム、そっちも頼むわよ」
+> CONTEXT: Map140/events/5/pages/0/441/Dialogue
+> CONTEXT: Map140/events/5/pages/1/426/Dialogue
+Diana. 「Oh yeah. Well then Purim, I'll give you that too」#MTLed
+> CONTEXT: Commonevents/221/118/Dialogue
+Diana. 「Oh yeah. Well then Purim, I'll give you
+that too」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「う、うん……
+ごめんなさい、おにいさん。えいっ！」
+> CONTEXT: Map140/events/5/pages/0/445/Dialogue
+> CONTEXT: Map140/events/5/pages/1/430/Dialogue
+Purim. 「No……. I am sorry, an old man. Ee!」#MTLed
+> CONTEXT: Commonevents/221/122/Dialogue
+Purim. 「No……. I am sorry, an old man. Ee!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いっ……い、いででででっ！」
+> CONTEXT: Map140/events/5/pages/0/455/Dialogue
+> CONTEXT: Map140/events/5/pages/1/440/Dialogue
+\\N[12]. 「Wait...Well, come on over!」#MTLed
+> CONTEXT: Commonevents/221/132/Dialogue
+\\N[12]. 「Wait...Well, come on over!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムは\\N[12]の股間を踏みつけ、
+電気あんまを始める！
+> CONTEXT: Map140/events/5/pages/0/458/Dialogue
+> CONTEXT: Map140/events/5/pages/1/443/Dialogue
+Purim \\N[12] Trampling the crotch, Begin electric
+gimmicks!#MTLed
+> CONTEXT: Commonevents/221/135/Dialogue
+Purim \\N[12] Trampling the crotch,
+Begin electric gimmicks!#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ごめんね、おにいさん。
+でも、おにいさんが負けたのが悪いんだからね」
+> CONTEXT: Map140/events/5/pages/0/461/Dialogue
+> CONTEXT: Map140/events/5/pages/1/446/Dialogue
+Purim. 「Sorry, old man. But, it is bad that many people
+lost」#MTLed
+> CONTEXT: Commonevents/221/138/Dialogue
+Purim. 「Sorry, old man. But, it is bad that many
+people lost」#MTLed
+> END STRING
+
+> BEGIN STRING
+そう言いながら、プリムは足の裏で
+竿をぐりぐりと刺激してくる。
+> CONTEXT: Map140/events/5/pages/0/465/Dialogue
+> CONTEXT: Map140/events/5/pages/1/450/Dialogue
+While saying that, Purim is under the soles
+It stimulates the pole as * rub *.#MTLed
+> CONTEXT: Commonevents/221/142/Dialogue
+While saying that, Purim is under the soles
+It stimulates the pole as * rub *.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、がっ、あああぁっ！
+や、やめ……」
+> CONTEXT: Map140/events/5/pages/0/470/Dialogue
+> CONTEXT: Map140/events/5/pages/1/455/Dialogue
+\\N[12]. 「Waaaaaaa, Aaahh! Or...stop ...」#MTLed
+> CONTEXT: Commonevents/221/147/Dialogue
+\\N[12]. 「Waaaaaaa, Aaahh! Or...stop ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「そんなに痛くはしていないつもりなんだけど、
+やっぱり痛いの？
+じゃ、もうちょっと優しくしてあげるね」
+> CONTEXT: Map140/events/5/pages/0/474/Dialogue
+> CONTEXT: Map140/events/5/pages/1/459/Dialogue
+Purim. 「I am not going to hurt so much, After all it hurts?
+Well, I will give you a little more kindness」#MTLed
+> CONTEXT: Commonevents/221/151/Dialogue
+Purim. 「I am not going to hurt so much,
+After all it hurts? Well, I will give you a
+little more kindness」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふっ、こんな年下の女にペニスを踏まれて
+痛みに悲鳴を上げてるだなんて
+優勝者とは思えない、情けない姿ねぇ」
+> CONTEXT: Map140/events/5/pages/0/480/Dialogue
+> CONTEXT: Map140/events/5/pages/1/465/Dialogue
+Diana. 「Huh, this woman young woman is stepped on a penis
+Why are you screaming for pain? I can not think that he is
+the winner, I do not feel comfortable」#MTLed
+> CONTEXT: Commonevents/221/157/Dialogue
+Diana. 「Huh, this woman young woman is stepped
+on a penis. Why are you screaming for pain?
+I can not think that he is the winner, I do not
+feel comfortable」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「武道大会の優勝はたいしたものだけど、
+二人がかりとはいえ私たちに負けるようでは
+王配位を得る資格なし。ここで徹底的に辱めてあげるわ」
+> CONTEXT: Map140/events/5/pages/0/488/Dialogue
+> CONTEXT: Map140/events/5/pages/1/473/Dialogue
+Diana. 「Although the victory of martial arts tournament is
+a big deal, Although it seems that two people will lose to
+us. No qualification to obtain king coordination. I'll
+raise it thoroughly here.」#MTLed
+> CONTEXT: Commonevents/221/165/Dialogue
+Diana. 「Although the victory of martial arts
+tournament is a big deal, Although it seems that
+two people will lose to us. No qualification to
+obtain king coordination. I'll raise it
+thoroughly here.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐりっ、ぐりっ……
+> CONTEXT: Map140/events/5/pages/0/494/Dialogue
+> CONTEXT: Map140/events/5/pages/1/479/Dialogue
+Guri, guru ...#MTLed
+> CONTEXT: Commonevents/221/171/Dialogue
+Guri, guru ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（うぐっ……くそっ、こんな年下の女の子に
+顔を踏んづけられているとは……）
+> CONTEXT: Map140/events/5/pages/0/496/Dialogue
+> CONTEXT: Map140/events/5/pages/1/481/Dialogue
+\\N[12]. (Ug...... Damn, to a girl like this
+What is being stepped on......)#MTLed
+> CONTEXT: Commonevents/221/173/Dialogue
+\\N[12]. (Ug...... Damn, to a girl like this
+What is being stepped on......)#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「強い男を倒して踏みにじる、この感覚……
+なかなか悪くないわね」
+> CONTEXT: Map140/events/5/pages/0/500/Dialogue
+> CONTEXT: Map140/events/5/pages/1/485/Dialogue
+Diana. 「This feeling that defeats a strong man and starts
+stepping on...... I do not think so bad」#MTLed
+> CONTEXT: Commonevents/221/177/Dialogue
+Diana. 「This feeling that defeats a strong man
+and starts stepping on......
+I do not think so bad」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「わたしも、おにいさんの股間を踏みつけてると
+なんかドキドキしてきちゃいそう。
+変な感触だね、おちんちんって」
+> CONTEXT: Map140/events/5/pages/0/504/Dialogue
+> CONTEXT: Map140/events/5/pages/1/489/Dialogue
+Purim. 「I also trampled many big crotches
+It seems to be something odd. It's strange feeling, please」#MTLed
+> CONTEXT: Commonevents/221/181/Dialogue
+Purim. 「I also trampled many big crotches
+It seems to be something odd. It's strange
+feeling, please」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐにっ、ぐにゅっ……
+> CONTEXT: Map140/events/5/pages/0/509/Dialogue
+> CONTEXT: Map140/events/5/pages/1/494/Dialogue
+* rub *, * rub * ......#MTLed
+> CONTEXT: Commonevents/221/186/Dialogue
+* rub *, * rub * ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あっ、ううっ！」
+> CONTEXT: Map140/events/5/pages/0/511/Dialogue
+> CONTEXT: Map140/events/5/pages/1/496/Dialogue
+\\N[12]. 「There, ah, OHh!」#MTLed
+> CONTEXT: Commonevents/221/188/Dialogue
+\\N[12]. 「There, ah, OHh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふっ、変な声出しちゃって。
+まさかと思うけど、股間を踏まれて
+気持ちよがってるんじゃないでしょうね」
+> CONTEXT: Map140/events/5/pages/0/514/Dialogue
+> CONTEXT: Map140/events/5/pages/1/499/Dialogue
+Diana. 「Huh, I got a strange voice. No doubt it is
+troubled by the groin. I guess they do not feel comfortable
+」#MTLed
+> CONTEXT: Commonevents/221/191/Dialogue
+Diana. 「Huh, I got a strange voice.
+No doubt it is troubled by the groin
+I guess they do not feel comfortable」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「え、そうなの？」
+> CONTEXT: Map140/events/5/pages/0/519/Dialogue
+> CONTEXT: Map140/events/5/pages/1/504/Dialogue
+Purim. 「? Is that so?」#MTLed
+> CONTEXT: Commonevents/221/196/Dialogue
+Purim. 「? Is that so?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、そ、そんなことは……」
+> CONTEXT: Map140/events/5/pages/0/522/Dialogue
+> CONTEXT: Map140/events/5/pages/1/507/Dialogue
+\\N[12]. 「Uh, that's...such a thing ....」#MTLed
+> CONTEXT: Commonevents/221/199/Dialogue
+\\N[12]. 「Uh, that's...such a thing ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「男なんて、おちんちんをいじってやれば
+いいように喘いじゃうものなのよ。
+プリム、そのままリズムよく踏んでやってみるといいわ」
+> CONTEXT: Map140/events/5/pages/0/525/Dialogue
+> CONTEXT: Map140/events/5/pages/1/510/Dialogue
+Diana. 「If you mess around with a man. It 's gonna be
+panting like a good one. Purim, you should just step on the
+rhythm as it is」#MTLed
+> CONTEXT: Commonevents/221/202/Dialogue
+Diana. 「If you mess around with a man
+It 's gonna be panting like a good one.
+Purim, you should just step on the rhythm as it
+is」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん。
+こうかな？」
+> CONTEXT: Map140/events/5/pages/0/530/Dialogue
+> CONTEXT: Map140/events/5/pages/1/515/Dialogue
+Purim. 「Yup. Is it like this?」#MTLed
+> CONTEXT: Commonevents/221/207/Dialogue
+Purim. 「Yup. Is it like this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムはリズムよく、\\N[12]の股間に
+ぐいぐいと足の裏で踏み込んでくる！
+> CONTEXT: Map140/events/5/pages/0/534/Dialogue
+> CONTEXT: Map140/events/5/pages/1/519/Dialogue
+Purim is rhythmic, \\N[12] In the crotch of
+I will stepping strongly with pulled and soles of the feet!#MTLed
+> CONTEXT: Commonevents/221/211/Dialogue
+Purim is rhythmic, \\N[12] In the crotch of
+I will stepping strongly with pulled and soles of
+the feet!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、あっ、あああぁっ！
+い、痛いのに、なんだか……
+せり上がってくるうぅっ！」
+> CONTEXT: Map140/events/5/pages/0/537/Dialogue
+> CONTEXT: Map140/events/5/pages/1/522/Dialogue
+\\N[12]. 「Ooo, there, Aaahh! Well, it hurts, but what
+... I will rise up!」#MTLed
+> CONTEXT: Commonevents/221/214/Dialogue
+\\N[12]. 「Ooo, there, Aaahh! Well, it hurts,
+but what...I will rise up!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「え、おにいさん、なんだか感じちゃってるみたい。
+ホントにこんなので気持ちよくなってるの？」
+> CONTEXT: Map140/events/5/pages/0/542/Dialogue
+> CONTEXT: Map140/events/5/pages/1/527/Dialogue
+Purim. 「Well, I guess you are feeling something.
+Is it really comfortable with such a thing?」#MTLed
+> CONTEXT: Commonevents/221/219/Dialogue
+Purim. 「Well, I guess you are feeling something.
+Is it really comfortable with such a thing?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「だから言ったでしょう、
+男なんてみんなこんなものなのよ」
+> CONTEXT: Map140/events/5/pages/0/546/Dialogue
+> CONTEXT: Map140/events/5/pages/1/531/Dialogue
+Diana. 「So you said, Everyone is such a thing」#MTLed
+> CONTEXT: Commonevents/221/223/Dialogue
+Diana. 「So you said, Everyone is such a thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナは嘲笑を浮かべながら
+\\N[12]の顔をぐりぐりと踏みにじる――
+> CONTEXT: Map140/events/5/pages/0/550/Dialogue
+> CONTEXT: Map140/events/5/pages/1/535/Dialogue
+While Diana ridiculed. \\N[12] I rubbed the face of *
+rub * -#MTLed
+> CONTEXT: Commonevents/221/227/Dialogue
+While Diana ridiculed. \\N[12] I rubbed the
+face of * rub * -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ、ああっ……く、くそっ……」
+> CONTEXT: Map140/events/5/pages/0/556/Dialogue
+> CONTEXT: Map140/events/5/pages/1/541/Dialogue
+\\N[12]. 「Dammit, AAh...... damn, damn ....」#MTLed
+> CONTEXT: Commonevents/221/233/Dialogue
+\\N[12]. 「Dammit, AAh...... damn, damn ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ふうん、それじゃあ
+このままおにいさんが満足するまで
+踏み踏みしてあげるね。えいっ！」
+> CONTEXT: Map140/events/5/pages/0/559/Dialogue
+> CONTEXT: Map140/events/5/pages/1/544/Dialogue
+Purim. 「Well, then. Until the old man is satisfied like
+this. I'll step on you step by step. Ee!」#MTLed
+> CONTEXT: Commonevents/221/236/Dialogue
+Purim. 「Well, then. Until the old man is
+satisfied like this. I'll step on you step by
+step. Ee!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐっ、ぐっ、ぐりっ、ぐにっ……！
+> CONTEXT: Map140/events/5/pages/0/564/Dialogue
+> CONTEXT: Map140/events/5/pages/1/549/Dialogue
+A lot, giggling, rub *, rub * ......!#MTLed
+> CONTEXT: Commonevents/221/241/Dialogue
+A lot, giggling, rub *, rub * ......!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、あっ、ああっ……」
+> CONTEXT: Map140/events/5/pages/0/566/Dialogue
+> CONTEXT: Map140/events/5/pages/1/551/Dialogue
+\\N[12]. 「Wait, there, AAh......」#MTLed
+> CONTEXT: Commonevents/221/243/Dialogue
+\\N[12]. 「Wait, there, AAh......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ううっ、気持ちよくなってきてる……
+や、やばい、このままだと、本当に……！）
+> CONTEXT: Map140/events/5/pages/0/569/Dialogue
+> CONTEXT: Map140/events/5/pages/1/554/Dialogue
+\\N[12]. (OHh, I'm feeling better......
+Oh yeah, if it keeps it, really......! )#MTLed
+> CONTEXT: Commonevents/221/246/Dialogue
+\\N[12]. (OHh, I'm feeling better......
+Oh yeah, if it keeps it, really......! )#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ほらほら、
+年下の女に踏みにじられて、無様に絶頂しちゃいなさい♪」
+> CONTEXT: Map140/events/5/pages/0/573/Dialogue
+> CONTEXT: Map140/events/5/pages/1/558/Dialogue
+Diana. 「oh no, Trampled on by a younger woman, climax
+unsightly♪」#MTLed
+> CONTEXT: Commonevents/221/250/Dialogue
+Diana. 「oh no, Trampled on by a younger woman,
+climax unsightly♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ふふっ、おにいさんが喘いでるの見下ろしてると
+なんだかわたしもドキドキしてきちゃう」
+> CONTEXT: Map140/events/5/pages/0/577/Dialogue
+> CONTEXT: Map140/events/5/pages/1/562/Dialogue
+Purim. 「Huh, you are looking down on a busy stuff
+Somehow I can also do it」#MTLed
+> CONTEXT: Commonevents/221/254/Dialogue
+Purim. 「Huh, you are looking down on a busy stuff
+Somehow I can also do it」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、\\N[12]は
+ついにその瞬間を迎えてしまう――！
+> CONTEXT: Map140/events/5/pages/0/581/Dialogue
+> CONTEXT: Map140/events/5/pages/1/566/Dialogue
+Then, \\N[12] Is. Finally I will have that moment -!#MTLed
+> CONTEXT: Commonevents/221/258/Dialogue
+Then, \\N[12] Is. Finally I will have that
+moment -!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、ああああぁぁっ！
+だ、ダメだっ、出るうううぅっ！」
+> CONTEXT: Map140/events/5/pages/0/584/Dialogue
+> CONTEXT: Map140/events/5/pages/1/569/Dialogue
+\\N[12]. 「Oh, Aaaahhh! However, it is useless, it will
+come out!」#MTLed
+> CONTEXT: Commonevents/221/261/Dialogue
+\\N[12]. 「Oh, Aaaahhh! However, it is
+useless, it will come out!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は、年下の女の子たちに踏まれながら
+絶頂の快楽に体を震わせる。
+> CONTEXT: Map140/events/5/pages/0/594/Dialogue
+> CONTEXT: Map140/events/5/pages/1/579/Dialogue
+\\N[12] While being traced by younger girls
+Shake your body with culmination pleasure.#MTLed
+> CONTEXT: Commonevents/221/271/Dialogue
+\\N[12] While being traced by younger girls
+Shake your body with culmination pleasure.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あううぅ……」
+> CONTEXT: Map140/events/5/pages/0/597/Dialogue
+> CONTEXT: Map140/events/5/pages/1/582/Dialogue
+> CONTEXT: Map152/events/24/pages/10/272/Dialogue
+> CONTEXT: Map043/events/24/pages/11/289/Dialogue
+\\N[12]. 「Oh, ooooooo ......」#MTLed
+> CONTEXT: Map147/events/2/pages/19/689/Dialogue
+> CONTEXT: Commonevents/221/274/Dialogue
+> CONTEXT: Commonevents/251/223/Dialogue
+\\N[12]. 「Oh, ooooooo ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あっ、おちんちんが跳ねてる……
+それに、これが精液なんだね。
+変なにおい……」
+> CONTEXT: Map140/events/5/pages/0/600/Dialogue
+> CONTEXT: Map140/events/5/pages/1/585/Dialogue
+Purim. 「Oh, you are bouncing...Besides, this is semen.
+Funny smell ......」#MTLed
+> CONTEXT: Commonevents/221/277/Dialogue
+Purim. 「Oh, you are bouncing ...
+Besides, this is semen. Funny smell ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「こんな屈辱的な目にあいながら絶頂するなんて、
+さぞ悔しくてたまらないでしょ？
+とても武道大会優勝者とは思えない、みじめな姿ね♪」
+> CONTEXT: Map140/events/5/pages/0/605/Dialogue
+> CONTEXT: Map140/events/5/pages/1/590/Dialogue
+Diana. 「To crown while meeting such humiliating eyes,
+Sorry I am regrettable, do not you? Very martial arts
+tournament I can not think that he is the winner, a
+miserable figure♪」#MTLed
+> CONTEXT: Commonevents/221/282/Dialogue
+Diana. 「To crown while meeting such humiliating
+eyes, Sorry I am regrettable, do not you?
+Very martial arts tournament I can not think that
+he is the winner, a miserable figure♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、くうぅ……」
+> CONTEXT: Map140/events/5/pages/0/610/Dialogue
+> CONTEXT: Map140/events/5/pages/1/595/Dialogue
+\\N[12]. 「Well, ...」#MTLed
+> CONTEXT: Commonevents/221/287/Dialogue
+\\N[12]. 「Well, ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふっ、悔しそうな声……
+負けた男のそういう反応、たまらなくゾクゾクするわ」
+> CONTEXT: Map140/events/5/pages/0/613/Dialogue
+> CONTEXT: Map140/events/5/pages/1/598/Dialogue
+Diana. 「Hehuh, a voice I feel bad......
+Such a reaction of a lost man, irresistibly tremble
+wandering」#MTLed
+> CONTEXT: Commonevents/221/290/Dialogue
+Diana. 「Hehuh, a voice I feel bad......
+Such a reaction of a lost man, irresistibly
+tremble wandering」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナは容赦なく、興奮に任せるかのように
+\\N[12]の顔を強烈に踏みにじる！
+> CONTEXT: Map140/events/5/pages/0/617/Dialogue
+> CONTEXT: Map140/events/5/pages/1/602/Dialogue
+Diana mercilessly, as if to excite. \\N[12] Strongly
+stepping on your face!#MTLed
+> CONTEXT: Commonevents/221/294/Dialogue
+Diana mercilessly, as if to excite
+\\N[12] Strongly stepping on your face!#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐりっ、ぐりぐりぃっ！
+> CONTEXT: Map140/events/5/pages/0/623/Dialogue
+> CONTEXT: Map140/events/5/pages/1/608/Dialogue
+> CONTEXT: Commonevents/221/300/Dialogue
+Gourd, * rub * ぃ っ っ!#MTLed
+> CONTEXT: None < UNUSED
+Gourd, * rub * ぃ っ っ!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐあっ、あああぁっ！」
+> CONTEXT: Map140/events/5/pages/0/625/Dialogue
+> CONTEXT: Map140/events/5/pages/1/610/Dialogue
+\\N[12]. 「Gow, Aaahh!」#MTLed
+> CONTEXT: Commonevents/221/302/Dialogue
+\\N[12]. 「Gow, Aaahh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あははっ！
+これであなたは、私たちの奴隷決定ねっ！」
+> CONTEXT: Map140/events/5/pages/0/628/Dialogue
+> CONTEXT: Map140/events/5/pages/1/613/Dialogue
+Diana. 「Hahahah! Now you are our slave decision!」#MTLed
+> CONTEXT: Commonevents/221/305/Dialogue
+Diana. 「Hahahah! Now you are our slave decision!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「かわいそうだけど、おにいさんの負けだし
+しょうがないよね。
+でも安心して、わたしは優しくしてあげるから」
+> CONTEXT: Map140/events/5/pages/0/632/Dialogue
+> CONTEXT: Map140/events/5/pages/1/617/Dialogue
+Purim. 「I feel sorry but I lost a lot of lots.
+It can not be helped. But do not worry, I will give you
+kindness」#MTLed
+> CONTEXT: Commonevents/221/309/Dialogue
+Purim. 「I feel sorry but I lost a lot of lots.
+It can not be helped. But do not worry, I will
+give you kindness」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……そ、そんな……
+俺は、こんなところで……」
+> CONTEXT: Map140/events/5/pages/0/637/Dialogue
+> CONTEXT: Map140/events/5/pages/1/622/Dialogue
+\\N[12]. 「uugh...... そ ん な そ...... I am in such a
+place ......」#MTLed
+> CONTEXT: Commonevents/221/314/Dialogue
+\\N[12]. 「uugh...... そ ん な そ......
+I am in such a place ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「こんな強い男を倒して、
+しかも召使いにできるだなんて、今日は最高の日ね。
+プリム、あなたと組んでみて正解だったわ」
+> CONTEXT: Map140/events/5/pages/0/641/Dialogue
+> CONTEXT: Map140/events/5/pages/1/626/Dialogue
+Diana. 「Killing such a strong man, And today is the best
+day to be a servant. Purim, it was a correct answer in
+partnership with you」#MTLed
+> CONTEXT: Commonevents/221/318/Dialogue
+Diana. 「Killing such a strong man,
+And today is the best day to be a servant.
+Purim, it was a correct answer in partnership
+with you」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「基本的にはディアーナちゃんの使用人でいいけど、
+たまにはわたしにも、剣術の師匠として
+おにいさんを貸してよね」
+> CONTEXT: Map140/events/5/pages/0/646/Dialogue
+> CONTEXT: Map140/events/5/pages/1/631/Dialogue
+Purim. 「Basically it's a servant of Diana-chan,
+Once in a while as a master of swordsmanship
+You can lend me your aunt」#MTLed
+> CONTEXT: Commonevents/221/323/Dialogue
+Purim. 「Basically it's a servant of Diana-chan,
+Once in a while as a master of swordsmanship
+You can lend me your aunt」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ええ、二人で倒したんだから
+所有権は半々ということにしましょうか」
+> CONTEXT: Map140/events/5/pages/0/651/Dialogue
+> CONTEXT: Map140/events/5/pages/1/636/Dialogue
+Diana. 「Yeah, I killed them by two people
+Shall I say ownership halfway」#MTLed
+> CONTEXT: Commonevents/221/328/Dialogue
+Diana. 「Yeah, I killed them by two people
+Shall I say ownership halfway」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こんなところに小部屋があったのか。
+それにしてもディアーナ、誰に頼まれてこんな地下水道に？」
+> CONTEXT: Map140/events/5/pages/1/5/Dialogue
+\\N[12]. 「Was there a small room in such a place?
+Anyway, Diana, who is asked for this underground water
+service?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふっ……
+かかったわね、庶民！」
+> CONTEXT: Map140/events/5/pages/1/11/Dialogue
+Diana. 「Bukkake. It took us, the common people!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだ？」
+> CONTEXT: Map140/events/5/pages/1/15/Dialogue
+\\N[12]. 「What is it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あいにくだけれど、
+ここから先には行かせないわよ！
+来なさい、プリム！」
+> CONTEXT: Map140/events/5/pages/1/18/Dialogue
+Diana. 「Unfortunately, I will not let you go
+from here! Come, Purim!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「プリムじゃないか。
+なぜここに？」
+> CONTEXT: Map140/events/5/pages/1/34/Dialogue
+\\N[12]. 「Is not it Purim? Why here?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「キミはプリム選手じゃないか。
+なぜ、こんなところに」
+> CONTEXT: Map140/events/5/pages/1/40/Dialogue
+\\N[12]. 「You are a Purim player. Why, in such a place」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「女王様の命令で、
+ディアーナちゃんと一緒に
+おにいさんを待ち構えていたんです」
+> CONTEXT: Map140/events/5/pages/1/46/Dialogue
+Purim. 「With the order of the Queen,
+With Diana-chan. I was waiting for a big brother」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なにっ、陛下の命令だって？」
+> CONTEXT: Map140/events/5/pages/1/52/Dialogue
+\\N[12]. 「What is his command?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ええ、そうよ。
+陛下は、あなたがこの地下水道から
+城を目指そうとすることを予測されていたようね。
+> CONTEXT: Map140/events/5/pages/1/55/Dialogue
+Diana. 「Yes, I see. Your Majesty said that from
+this underground water service
+It seems to have been forecasted to try to aim
+for a castle.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちなみに、あなたを倒すことができれば
+あなたの処遇は私たちの好きにしていいと
+仰せつかっているの。
+負けたらただでは済まないから覚悟なさい」
+> CONTEXT: Map140/events/5/pages/1/60/Dialogue
+By the way, if you can beat you
+You can treat us like ours. It is clear.
+If you lose, just be prepared for nothing.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「二人は女王陛下の放った刺客ってわけか。
+だが、わざわざ陛下がこんなところにお前らを寄越すなら
+このエリアには、城への足がかりがありそうだな」
+> CONTEXT: Map140/events/5/pages/1/68/Dialogue
+\\N[12]. 「Are they the assassins that the Queen
+released? But, if your Majesty passes you over to such a
+place. In this area, there seems to be a foothold to the
+castle」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふうん、なかなかいい勘してるじゃない。
+でも、あなたはここまでよ。
+女王陛下の命により、屈服させてあげるわ！」
+> CONTEXT: Map140/events/5/pages/1/73/Dialogue
+Diana. 「Huh, she is quite a good intuition.
+But you are here. I will let him succumb by the
+Queen's life!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうはいかないぜ、
+俺は絶対に城にたどりついてみせる！
+かかってこい、二人ともっ！」
+> CONTEXT: Map140/events/5/pages/1/78/Dialogue
+\\N[12]. 「That's not going to happen, I will definitely
+get to the castle! Come over, get together!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ええ、もちろん。
+負けた以上は仕方のないことだわ」
+> CONTEXT: Map140/events/5/pages/1/130/Dialogue
+Diana. 「Yes, of course. Beyond losing is
+unavoidable」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ディアーナちゃん、ほら。
+負けたんだから、打ち合わせどおり……」
+> CONTEXT: Map140/events/5/pages/1/134/Dialogue
+Purim. 「Diana-chan, here. As I lost, as the
+meeting ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「わ、わかってるわよ」
+> CONTEXT: Map140/events/5/pages/1/139/Dialogue
+Diana. 「I know, I know.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ん？　なんだ？」
+> CONTEXT: Map140/events/5/pages/1/142/Dialogue
+> CONTEXT: Map008/events/12/pages/2/44/Dialogue
+\\N[12]. 「Hmm? what?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「勝負はあなたの勝ちだし、見事と言っておくわ。
+それでね、\\N[12]。
+私たちはあなたに味方してあげるわ」
+> CONTEXT: Map140/events/5/pages/1/145/Dialogue
+Diana. 「You win and you say it is brilliant.
+Well, \\N[12] . We can lie to you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「二人で決めていたんです、
+もしおにいさんに負けたら、協力してあげようって」
+> CONTEXT: Map140/events/5/pages/1/159/Dialogue
+Purim. 「It was decided by two people,
+If you lose to lots, I will cooperate with you」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「女王陛下にばかり肩入れするのも不公平だものね。
+あなたが私たちを撃退できるようなら、
+今度はあなたに味方するのが公平というものだわ」
+> CONTEXT: Map140/events/5/pages/1/163/Dialogue
+Diana. 「It is unfair to just crown your Queen.
+If you can repel us, It is fair to side up with
+you this time」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふん、なにをホッとした顔をしているのよ。
+まあとにかく、まずはプリム、橋を」
+> CONTEXT: Map140/events/5/pages/1/173/Dialogue
+Diana. 「Hmm, what are you refreshed for.
+Well anyway, first Purim, the bridge」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん」
+> CONTEXT: Map140/events/5/pages/1/177/Dialogue
+Purim. 「Yup」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん。\\N[12]さん、王城に直接入れる地下道は
+爆破されちゃったみたいだけど、
+入る手段はまだ残されていると思うんです」
+> CONTEXT: Map140/events/5/pages/1/216/Dialogue
+Purim. 「Yup. \\N[12] , The underpass to put
+in King's Castle. It looks like it was blown up,
+I think that the means to enter is still left」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なにか心当たりがあるのか？」
+> CONTEXT: Map140/events/5/pages/1/221/Dialogue
+\\N[12]. 「Do you have any idea?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「大会のときに係員の人に聞いたんだけど……
+この上には闘技場があるけれど、
+北側に王族専用の船着き場があるのは知ってます？」
+> CONTEXT: Map140/events/5/pages/1/224/Dialogue
+Purim. 「I asked the clerk at the time of
+tournament .... There is a stadium on top of
+this, Do you know that there is a dock for the
+royal family on the north side?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「闘技場の北側、湖に面した出口。
+そこには王族専用の出入り口があって、
+船着場に舟が繋がれているみたいなんです」
+> CONTEXT: Map140/events/5/pages/1/242/Dialogue
+Purim. 「Exit facing the lake on the north side
+of the stadium. There is a gateway exclusively
+for the royal family, It seems the boat is
+connected to the dock」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「闘技場は、武道大会が終わったので閉鎖されて
+いますけど、このあたりを調べていけば
+地下から入ることができるみたいですよ」
+> CONTEXT: Map140/events/5/pages/1/263/Dialogue
+Purim. 「The battlefield was closed as the
+martial arts tournament was over
+However, if you check this around
+It seems like I can get in from the basement」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふっ、あなたが怯むはずもなかったわね。
+まあ、せいぜい頑張るといいわ。
+私たちを破った以上、必ず試練を乗り越えてみせなさいよ」
+> CONTEXT: Map140/events/5/pages/1/281/Dialogue
+Diana. 「Well, you could not get frightened.
+Well, I hope you do best at best.
+Beyond breaking us, be sure to overcome the
+trials」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ！
+サンキュな、ディアーナ。それに、プリムも」
+> CONTEXT: Map140/events/5/pages/1/286/Dialogue
+\\N[12]. 「Oh! thanks, Diana. Besides, Purim also」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「がんばってください、\\N[12]さん！」
+> CONTEXT: Map140/events/5/pages/1/290/Dialogue
+Purim. 「Good luck, \\N[12] Mr.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナとプリムは去っていった。
+> CONTEXT: Map140/events/5/pages/1/294/Dialogue
+Diana and Purim left.#MTLed
+> END STRING

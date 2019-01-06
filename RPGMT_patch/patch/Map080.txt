@@ -1,0 +1,49 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+村長の家
+> CONTEXT: Map080/display_name/
+> CONTEXT: Map014/display_name/
+Village chief's house#MTLed
+> END STRING
+
+> BEGIN STRING
+使用人
+「この村の名物は温泉と高原ミルクになります。
+どちらもたいへん体の健康によいものですので、
+ぜひ堪能していっていただければと思います」
+> CONTEXT: Map080/events/4/pages/0/0/Dialogue
+Servant. 「The specialty of this village will be hot
+springs and highland milk. Both are good for the health of
+the body so much, I hope you will be able to enjoy it」#MTLed
+> END STRING
+
+> BEGIN STRING
+料理人
+「もうちょっと冬が深まったら、
+この村の名物料理、ユキミダケのミルクシチューを
+出すことができるぜ」
+> CONTEXT: Map080/events/5/pages/0/0/Dialogue
+Cook. 「As winter deepens a bit more, Specialty dish of
+this village, Milk stew of Yukimidake. I can release it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+料理人
+「ユキミダケは寒くなると生えてくるキノコなんだ。
+今の時期でも、高原でなら採れると思うぜ」
+> CONTEXT: Map080/events/5/pages/1/0/Dialogue
+Cook. 「Yukimidake is a growing mushroom when it gets cold.
+Even at this time, I think we can harvest it at the plateau
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばあさん
+「この高原の絶景をのんびり眺めて暮らすのが
+最高の贅沢でね……
+心が穏やかになるのよ」
+> CONTEXT: Map080/events/6/pages/0/0/Dialogue
+Grandmother. 「Living down to the great view of this
+plateau and living it. The best luxury ... ...
+My heart will be calm」#MTLed
+> END STRING

@@ -1,0 +1,1215 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+氷晶洞窟
+> CONTEXT: Map092/display_name/
+Ice Cave#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんでこんなところに雪玉が？
+押せば転がっていきそうだが……どうする？」
+> CONTEXT: Map092/events/1/pages/0/1/Dialogue
+\\N[12]. 「Why are snowballs in such a place?
+If it pushes it, it will roll, but ... what do you do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+押す
+> CONTEXT: Map092/events/1/pages/0/5/Choice/0
+Push#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おりゃっ！」
+> CONTEXT: Map092/events/1/pages/0/7/Dialogue
+\\N[12]. 「take that!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、これで通れるな」
+> CONTEXT: Map092/events/1/pages/0/23/Dialogue
+\\N[12]. 「OK, I can not pass by this」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪娘
+「転がすなんてひどいの……
+氷漬けにして永遠に苦しめてあげるの……」
+> CONTEXT: Map092/events/1/pages/0/41/Dialogue
+Yuki Musume. 「It is terrible to roll ...
+I'll pick it in ice and forever suffer ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、中に雪娘が封じ込められていたのか。
+なんだか分からないが、とにかく撃退しなければ！」
+> CONTEXT: Map092/events/1/pages/0/45/Dialogue
+\\N[12]. 「Yuu, was Yuki Musume contained in it?
+I do not know what it is, but I have to repel anyway!」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪娘
+「きゅう……」
+> CONTEXT: Map092/events/1/pages/0/52/Dialogue
+Yuki Musume. 「Mother's Day」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ、なんとか撃退できたか。
+この道を塞ぐために雪娘を雪玉に変身させていたのか？
+これも、ここに出現している魔物がやったことなのか……
+> CONTEXT: Map092/events/1/pages/0/57/Dialogue
+\\N[12]. 「How was he managed to repel? Have you
+transformed Yuki Musume into a snowball to block this road?
+Is this also what monster emerging here did?#MTLed
+> END STRING
+
+> BEGIN STRING
+雪娘を大量発生させていることといい、
+かなり魔力の強そうな魔物だ。
+気を引き締めてかからないとな」
+> CONTEXT: Map092/events/1/pages/0/62/Dialogue
+It is said that Yuki Musume is mass-produced,
+It is a monster that seems to have a strong magical power.
+I have to tighten my mind.」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪娘
+「ふふ……よわい……」
+> CONTEXT: Map092/events/1/pages/0/74/Dialogue
+> CONTEXT: Map088/events/16/pages/0/14/Dialogue
+> CONTEXT: Map092/events/10/pages/0/14/Dialogue
+> CONTEXT: Map088/events/18/pages/0/14/Dialogue
+> CONTEXT: Map092/events/11/pages/0/14/Dialogue
+> CONTEXT: Map092/events/12/pages/0/14/Dialogue
+> CONTEXT: Map077/events/17/pages/0/14/Dialogue
+> CONTEXT: Map089/events/20/pages/0/14/Dialogue
+> CONTEXT: Map077/events/18/pages/0/14/Dialogue
+> CONTEXT: Map089/events/21/pages/0/14/Dialogue
+> CONTEXT: Map089/events/22/pages/0/14/Dialogue
+> CONTEXT: Map089/events/23/pages/0/14/Dialogue
+> CONTEXT: Map089/events/24/pages/0/14/Dialogue
+> CONTEXT: Map089/events/26/pages/0/14/Dialogue
+Yuki Musume. 「Hehe ... ... Yawata ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……し、しまった、
+こんな小さな妖精に負けちまうなんて……」
+> CONTEXT: Map092/events/1/pages/0/77/Dialogue
+> CONTEXT: Map088/events/16/pages/0/17/Dialogue
+> CONTEXT: Map092/events/10/pages/0/17/Dialogue
+> CONTEXT: Map088/events/18/pages/0/17/Dialogue
+> CONTEXT: Map092/events/11/pages/0/17/Dialogue
+> CONTEXT: Map092/events/12/pages/0/17/Dialogue
+> CONTEXT: Map077/events/17/pages/0/17/Dialogue
+> CONTEXT: Map089/events/20/pages/0/17/Dialogue
+> CONTEXT: Map077/events/18/pages/0/17/Dialogue
+> CONTEXT: Map089/events/21/pages/0/17/Dialogue
+> CONTEXT: Map089/events/22/pages/0/17/Dialogue
+> CONTEXT: Map089/events/23/pages/0/17/Dialogue
+> CONTEXT: Map089/events/24/pages/0/17/Dialogue
+> CONTEXT: Map089/events/26/pages/0/17/Dialogue
+\\N[12]. 「I heard ..., I'm out, To lose to such a small
+fairy ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪娘
+「おにいさんのことを倒したのは、わたし……
+だから、おにいさんはわたしのもの。
+氷漬けにして、山に連れて帰るね」
+> CONTEXT: Map092/events/1/pages/0/90/Dialogue
+> CONTEXT: Map088/events/16/pages/0/30/Dialogue
+> CONTEXT: Map092/events/10/pages/0/30/Dialogue
+> CONTEXT: Map088/events/18/pages/0/30/Dialogue
+> CONTEXT: Map092/events/11/pages/0/30/Dialogue
+> CONTEXT: Map092/events/12/pages/0/30/Dialogue
+> CONTEXT: Map077/events/17/pages/0/30/Dialogue
+> CONTEXT: Map089/events/20/pages/0/30/Dialogue
+> CONTEXT: Map077/events/18/pages/0/30/Dialogue
+> CONTEXT: Map089/events/21/pages/0/30/Dialogue
+> CONTEXT: Map089/events/22/pages/0/30/Dialogue
+> CONTEXT: Map089/events/23/pages/0/30/Dialogue
+> CONTEXT: Map089/events/24/pages/0/30/Dialogue
+> CONTEXT: Map089/events/26/pages/0/30/Dialogue
+Yuki Musume. 「It was for me who knocked down a lot of
+things ...... Therefore, the old man is mine.
+Put it in ice and take it to the mountain ne」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだとっ！
+や、やめ……」
+> CONTEXT: Map092/events/1/pages/0/95/Dialogue
+> CONTEXT: Map088/events/16/pages/0/35/Dialogue
+> CONTEXT: Map092/events/10/pages/0/35/Dialogue
+> CONTEXT: Map088/events/18/pages/0/35/Dialogue
+> CONTEXT: Map092/events/11/pages/0/35/Dialogue
+> CONTEXT: Map092/events/12/pages/0/35/Dialogue
+> CONTEXT: Map077/events/17/pages/0/35/Dialogue
+> CONTEXT: Map089/events/20/pages/0/35/Dialogue
+> CONTEXT: Map077/events/18/pages/0/35/Dialogue
+> CONTEXT: Map089/events/21/pages/0/35/Dialogue
+> CONTEXT: Map089/events/22/pages/0/35/Dialogue
+> CONTEXT: Map089/events/23/pages/0/35/Dialogue
+> CONTEXT: Map089/events/24/pages/0/35/Dialogue
+> CONTEXT: Map089/events/26/pages/0/35/Dialogue
+\\N[12]. 「What is it! Or ... stop ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪娘
+「ふふ……」
+> CONTEXT: Map092/events/1/pages/0/99/Dialogue
+> CONTEXT: Map088/events/16/pages/0/39/Dialogue
+> CONTEXT: Map092/events/10/pages/0/39/Dialogue
+> CONTEXT: Map088/events/18/pages/0/39/Dialogue
+> CONTEXT: Map092/events/11/pages/0/39/Dialogue
+> CONTEXT: Map092/events/12/pages/0/39/Dialogue
+> CONTEXT: Map077/events/17/pages/0/39/Dialogue
+> CONTEXT: Map089/events/20/pages/0/39/Dialogue
+> CONTEXT: Map077/events/18/pages/0/39/Dialogue
+> CONTEXT: Map089/events/21/pages/0/39/Dialogue
+> CONTEXT: Map089/events/22/pages/0/39/Dialogue
+> CONTEXT: Map089/events/23/pages/0/39/Dialogue
+> CONTEXT: Map089/events/24/pages/0/39/Dialogue
+> CONTEXT: Map089/events/26/pages/0/39/Dialogue
+Yuki Musume. 「Whatching」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪娘
+「できた……♪
+これから毎日、おにいさんの精気を吸い取らせてもらうね。
+もっともっと、男の人をコレクションしたいな……♪」
+> CONTEXT: Map092/events/1/pages/0/106/Dialogue
+> CONTEXT: Map088/events/16/pages/0/46/Dialogue
+> CONTEXT: Map092/events/10/pages/0/46/Dialogue
+> CONTEXT: Map088/events/18/pages/0/46/Dialogue
+> CONTEXT: Map092/events/11/pages/0/46/Dialogue
+> CONTEXT: Map092/events/12/pages/0/46/Dialogue
+> CONTEXT: Map077/events/17/pages/0/46/Dialogue
+> CONTEXT: Map089/events/20/pages/0/46/Dialogue
+> CONTEXT: Map077/events/18/pages/0/46/Dialogue
+> CONTEXT: Map089/events/21/pages/0/46/Dialogue
+> CONTEXT: Map089/events/22/pages/0/46/Dialogue
+> CONTEXT: Map089/events/23/pages/0/46/Dialogue
+> CONTEXT: Map089/events/24/pages/0/46/Dialogue
+> CONTEXT: Map089/events/26/pages/0/46/Dialogue
+Yuki Musume. 「did it……♪. Every day from now I will have
+you absorb a great deal of mind. I want to collect men, ...
+♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は雪娘に敗れ、
+氷漬けにされて囚われてしまった。
+その後、彼の姿を見た者はいない……
+> CONTEXT: Map092/events/1/pages/0/112/Dialogue
+> CONTEXT: Map088/events/16/pages/0/52/Dialogue
+> CONTEXT: Map092/events/10/pages/0/52/Dialogue
+> CONTEXT: Map088/events/18/pages/0/52/Dialogue
+> CONTEXT: Map092/events/11/pages/0/52/Dialogue
+> CONTEXT: Map092/events/12/pages/0/52/Dialogue
+> CONTEXT: Map077/events/17/pages/0/52/Dialogue
+> CONTEXT: Map089/events/20/pages/0/52/Dialogue
+> CONTEXT: Map077/events/18/pages/0/52/Dialogue
+> CONTEXT: Map089/events/21/pages/0/52/Dialogue
+> CONTEXT: Map089/events/22/pages/0/52/Dialogue
+> CONTEXT: Map089/events/23/pages/0/52/Dialogue
+> CONTEXT: Map089/events/24/pages/0/52/Dialogue
+> CONTEXT: Map089/events/26/pages/0/52/Dialogue
+In this way, \\N[12] Loses to Yuki Musume,
+I was caught caught in ice. After that, there was no one
+who saw him ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんか怪しいな……
+放っておくか」
+> CONTEXT: Map092/events/1/pages/0/121/Dialogue
+\\N[12]. 「Something doubtful ...... Leave it alone」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「これじゃ先に進めないな。
+反対側から押せば転がせそうだけど……」
+> CONTEXT: Map092/events/1/pages/0/129/Dialogue
+\\N[12]. 「I can not go ahead with this. If you push it
+from the other side, you are likely to roll it ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「雪女を倒すまでは、帰るわけにはいかないぜ！」
+> CONTEXT: Map092/events/4/pages/1/0/Dialogue
+> CONTEXT: Map092/events/5/pages/1/0/Dialogue
+\\N[12]. 「Until we defeat Yuki Onna, we can not go home!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「クリスタルが青く輝いているぞ」
+> CONTEXT: Map092/events/7/pages/0/0/Dialogue
+\\N[12]. 「The crystal is shining blue」#MTLed
+> END STRING
+
+> BEGIN STRING
+採取する
+> CONTEXT: Map092/events/7/pages/0/3/Choice/0
+To collect#MTLed
+> END STRING
+
+> BEGIN STRING
+何もしない
+> CONTEXT: Map092/events/7/pages/0/3/Choice/1
+> CONTEXT: Commonevents/84/11/Choice/1
+> CONTEXT: Commonevents/87/12/Choice/1
+> CONTEXT: Commonevents/91/4/Choice/1
+> CONTEXT: Commonevents/134/4/Choice/1
+> CONTEXT: Commonevents/138/6/Choice/1
+> CONTEXT: Commonevents/142/4/Choice/1
+> CONTEXT: Commonevents/191/5/Choice/1
+> CONTEXT: Commonevents/286/4/Choice/1
+> CONTEXT: Commonevents/289/3/Choice/1
+> CONTEXT: Commonevents/313/4/Choice/1
+> CONTEXT: Commonevents/313/4/Choice/1
+do nothing#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ミリーナから貰ったマトックを使ってみよう」
+> CONTEXT: Map092/events/7/pages/0/6/Dialogue
+\\N[12]. 「Let's use the steel pick from Mileena」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よしっ、なんとか砕くことができたぞ。
+何かに使えるだろうか」
+> CONTEXT: Map092/events/7/pages/0/16/Dialogue
+\\N[12]. 「Alright, I managed to crush it.
+Can it be used for something?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ブルークリスタルを手に入れた！
+> CONTEXT: Map092/events/7/pages/0/21/Dialogue
+I got a blue crystal!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「採取するための道具がないぜ」
+> CONTEXT: Map092/events/7/pages/0/28/Dialogue
+\\N[12]. 「There is no tool to collect」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物
+「あら、こんなところに人間の男？」
+> CONTEXT: Map092/events/15/pages/0/0/Dialogue
+monster. 「Oh, a human being in such a place?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お前が高原を吹雪かせている魔物か。
+俺は退治依頼を受けてここに来た。
+悪いが、斬らせてもらうぞ」
+> CONTEXT: Map092/events/15/pages/0/3/Dialogue
+\\N[12]. 「Is it a monster that you are blowing snow on
+the plateau? I came here following a request to get rid of.
+It is bad, but I will cut it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物
+「ふふ……どうして私が
+吹雪を起こしているって思うの？」
+> CONTEXT: Map092/events/15/pages/0/8/Dialogue
+monster. 「Hehe ... ... why me? Do you think that it is
+causing a snowstorm?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうしてって……
+高原の奥地に現れた魔物が雪娘の凶暴化や
+不自然な吹雪を起こしていると聞いたんだ。
+> CONTEXT: Map092/events/15/pages/0/12/Dialogue
+\\N[12]. 「Why? The monster that appeared in the
+hinterland of the plateau made Yuki Musume ferocious
+I heard that it is causing an unnatural snowstorm.#MTLed
+> END STRING
+
+> BEGIN STRING
+やっているのはお前だろう、
+他の魔物と比べて、はるかに大きな力を感じる」
+> CONTEXT: Map092/events/15/pages/0/17/Dialogue
+You are doing whatever you are doing, Compared to other
+monsters, I feel much more power」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「ふうん、魔物の格を見抜く目を持っているなんて
+若いわりに、それなりの経験を積んでいるのね。
+いいわ、面白そうだし、かかっていらっしゃい」
+> CONTEXT: Map092/events/15/pages/0/20/Dialogue
+Yuki Onna. 「Hmm, I can not believe I have eyes that can
+see the monster's case. I am experienced as much as I am
+young. No, it looks interesting, please come over」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「言われなくても、いかせてもらう！
+いくぞっ！」
+> CONTEXT: Map092/events/15/pages/0/25/Dialogue
+\\N[12]. 「Even if it is not told, let me do it!
+here I go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……つ、強いっ……！」
+> CONTEXT: Map092/events/15/pages/0/34/Dialogue
+\\N[12]. 「Ha ha ... ... one, it's strong ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「ここに来られただけでも、たいしたものだとは思うけど
+その程度なら私の敵ではないわね。
+さあ、串刺しにしてあげる」
+> CONTEXT: Map092/events/15/pages/0/37/Dialogue
+Yuki Onna. 「Even though I just came here, I think it's a
+big deal. That extent is not my enemy. Well, I'll skewer
+you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、うわああああぁぁっ！
+地面に穴が……お、落ちるっ！」
+> CONTEXT: Map092/events/15/pages/1/0/Dialogue
+\\N[12]. 「Uh, no! Aaaahhh. A hole on the ground ......
+O, it falls!」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「あら、地面に穴が空いちゃった。
+せっかく新鮮な男の死体が手に入ると思ったのに
+落としちゃったわ。
+> CONTEXT: Map092/events/15/pages/1/8/Dialogue
+Yuki Onna. 「Oh my god, I got a hole in the ground.
+I thought that you could get a dead body of a fresh man at
+a great price. I dropped it.#MTLed
+> END STRING
+
+> BEGIN STRING
+まあいいわ、深い氷の下に落ちたら
+上がってくることはできないはず。
+死んだ頃に見に行って、そのときに喰らうとしましょうか」
+> CONTEXT: Map092/events/15/pages/1/13/Dialogue
+Well, if it falls under deep ice. You should not be able to
+go up. Shall I go to see it when I die and I'll eat it at
+that time」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「あら？
+さっき氷の穴に落としてあげた人間たちじゃない。
+どうやって脱出してきたのかしら」
+> CONTEXT: Map092/events/15/pages/2/0/Dialogue
+Yuki Onna. 「Oh? They are humans who dropped them in the
+holes of ice a while ago. I wonder how I escaped」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「同じ場所に突き落としたのが運の尽きだったね。
+おかげで協力して出てこられたよ」
+> CONTEXT: Map092/events/15/pages/2/5/Dialogue
+Sherry. 「It was a luck to push it down in the
+same place. Thanks to you for your cooperation」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「覚悟しろ、雪女。
+今度こそ、お前を倒すっ！」
+> CONTEXT: Map092/events/15/pages/2/9/Dialogue
+\\N[12]. 「Prepare, Yuki Onna. This time, I will defeat
+you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「面白いわね、二人相手なら少しは手応えがありそう。
+さあ、かかってきなさい。
+私の魔力で作り出した氷の中に、永遠に閉じ込めてあげるわ」
+> CONTEXT: Map092/events/15/pages/2/13/Dialogue
+Yuki Onna. 「It's funny, it seems to be a little better if
+you have two people. Come on, come on. I will lock in
+forever in the ice that I made with my magical power」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はあ、はあ……どうだ？」
+> CONTEXT: Map092/events/15/pages/2/25/Dialogue
+\\N[12]. 「Ha, ha ... ... how are you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「ふうん、人間にしてはなかなかやるじゃない。
+これ以上やったら、疲れることになりそうね」
+> CONTEXT: Map092/events/15/pages/2/28/Dialogue
+Yuki Onna. 「Well, it's hard to do for human beings.
+If I do it any more, I'm going to get tired」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「……かなり力の強い魔物ね。
+これだけやって、まだ余力を残しているみたい」
+> CONTEXT: Map092/events/15/pages/2/32/Dialogue
+Sherry. 「...... It is a quite powerful monster.
+Just like this, I still seem to have left
+available」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「なかなかの洞察力ね。確かに私には余力はあるわ。
+けど、もともと雪娘を放って人間の精気を集めるのが
+目的だったのに、こんなに消耗してしまっては意味がないわ。
+> CONTEXT: Map092/events/15/pages/2/36/Dialogue
+Yuki Onna. 「It's quite insightful. Certainly I have enough
+resources. But, it is better to collect Yuki Musume and
+collect human mind. Even though it was a purpose, it is
+meaningless if it gets so exhausted.#MTLed
+> END STRING
+
+> BEGIN STRING
+今回は、あなたたちの健闘に免じて
+私は雪山の奥地に帰ってあげる。
+いずれ吹雪も弱まると思うわよ、よかったわねぇ」
+> CONTEXT: Map092/events/15/pages/2/41/Dialogue
+This time, I am excluded from your good fight
+I will return to the backyard of the snowy mountains.
+I think that the blizzard will weaken as well.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんか馬鹿にされているようだな……」
+> CONTEXT: Map092/events/15/pages/2/45/Dialogue
+\\N[12]. 「It seems that it is made fun of something
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「帰ってくれるならいいって。
+でも雪女、またここに戻ってきたりしないよね。
+もしそうなら、また退治しに来るよ」
+> CONTEXT: Map092/events/15/pages/2/48/Dialogue
+Sherry. 「I wish I could return home.
+But Yuki Onna, I will not come back here again.
+If so, I will come to get rid of it again」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「今年はもうここには来ないから安心しなさい。
+人間を誘い殺すにしても、
+もっと楽なところでやるわよ。
+> CONTEXT: Map092/events/15/pages/2/53/Dialogue
+Yuki Onna. 「Please do not worry because it will not be
+here anymore this year. Even if you invite and kill humans,
+I will do it in a more comfortable place.#MTLed
+> END STRING
+
+> BEGIN STRING
+それじゃあね、若いお二人さん。
+楽しかったわよ、ふふふ……」
+> CONTEXT: Map092/events/15/pages/2/58/Dialogue
+Well then, young lady. It was fun, hehe ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、まぶし……！」
+> CONTEXT: Map092/events/15/pages/2/64/Dialogue
+\\N[12]. 「Ugh, a glare ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「消えた……去ったのか。
+大変な魔物だったな、あんなの初めて戦ったぜ」
+> CONTEXT: Map092/events/15/pages/2/72/Dialogue
+\\N[12]. 「It disappeared ... did it go away?
+It was a serious monster, I fought such a first time」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あんな魔力を持つ魔物が現れるなんて、
+本当なら軍隊が出張ってくるぐらいの事態ね。
+よく私たちだけで追い返せたよ、ホント」
+> CONTEXT: Map092/events/15/pages/2/76/Dialogue
+Sherry. 「As a monster with such magical power
+appeared, If it is true it will be like a
+military's business trip. Well, we just drove it
+back, really」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、とにかくこれで依頼は達成だな。
+あとは帰って報告すれば終わりか」
+> CONTEXT: Map092/events/15/pages/2/81/Dialogue
+\\N[12]. 「Oh, anyway, the request has been reached by
+this. Afterwards if I return and report it」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「そうだけど、でも、このままただ帰るのも何だし、
+この先を少し探索していかない？
+せっかくこんな奥まで来たんだから」
+> CONTEXT: Map092/events/15/pages/2/85/Dialogue
+Sherry. 「That's right, but why are you just
+going home this way? Why can not you explore this
+a bit? Because I came all this way」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お前は元気だな……まあ、いいけど」
+> CONTEXT: Map092/events/15/pages/2/90/Dialogue
+\\N[12]. 「You are fine, well ... well, it is ok but」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「二人がかりなら勝てるとでも思ったの？
+人間ごときの力では、私を倒すことは不可能よ」
+> CONTEXT: Map092/events/15/pages/2/110/Dialogue
+> CONTEXT: Commonevents/273/13/Dialogue
+Yuki Onna. 「Did you think that you can win if you have two
+people? With the power like human beings, it is impossible
+to beat me」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「そ、そんなっ……
+こんなところで、やられちゃうなんて……」
+> CONTEXT: Map092/events/15/pages/2/114/Dialogue
+> CONTEXT: Commonevents/273/17/Dialogue
+Sherry. 「Well, that's ... In such a place, I can
+not do it ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……な、なんて強大な魔力なんだ……
+くっ、もう戦えない……！」
+> CONTEXT: Map092/events/15/pages/2/118/Dialogue
+> CONTEXT: Commonevents/273/21/Dialogue
+\\N[12]. 「uugh ... ... what a mighty magical power
+...... I can not fight anymore ......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「なかなか楽しかったわ。
+人間が私の魔法で悲鳴を上げてのたうつ姿、
+何度見てもゾクゾクするわね……ふふふ。
+> CONTEXT: Map092/events/15/pages/2/122/Dialogue
+> CONTEXT: Commonevents/273/25/Dialogue
+Yuki Onna. 「It was pretty fun. A human being screams with
+my magic screaming, I will tremble every time I see it ...
+... Hehu.#MTLed
+> END STRING
+
+> BEGIN STRING
+特に、男の子の方は気に入ったわ。
+すぐに肉を食うことはせずに、
+氷に封印して毎日少しずつ精気を吸い取ってあげる。
+> CONTEXT: Map092/events/15/pages/2/127/Dialogue
+> CONTEXT: Commonevents/273/30/Dialogue
+Especially, the boy liked it. Instead of eating meat at
+once, Seal on ice and suck up vigorously little by little
+every day.#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女に精気を吸われるときの快楽は、すごいわよ？
+普通の人間は三回も座れたら
+気持ちよすぎて気が狂ってしまうんだから」
+> CONTEXT: Map092/events/15/pages/2/131/Dialogue
+> CONTEXT: Commonevents/273/34/Dialogue
+The pleasure when Yuki Onna is breathtaking is amazing, is
+not it? If an ordinary human can sit three times
+Because it feels too good to go crazy」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……そ、そんな……！」
+> CONTEXT: Map092/events/15/pages/2/135/Dialogue
+> CONTEXT: Commonevents/273/38/Dialogue
+\\N[12]. 「Uugh ... uh ... that ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「そおれ、凍りなさい♪」
+> CONTEXT: Map092/events/15/pages/2/138/Dialogue
+> CONTEXT: Commonevents/273/41/Dialogue
+Yuki Onna. 「Besides, freeze it.♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「さあ、氷の世界へ連れていってあげるわ。
+うふふっ……♪」
+> CONTEXT: Map092/events/15/pages/2/147/Dialogue
+> CONTEXT: Commonevents/273/50/Dialogue
+Yuki Onna. 「Now, I will take you to the world of ice.
+Uhufu ...♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]とシェリーは雪女に敗れた。
+\\N[12]は雪女によって氷の中に囚われ、
+毎日、彼女に精気を吸われて続けることに
+なるのである……
+> CONTEXT: None < UNUSED
+In this way, \\N[12] And Shelly lost to Yuki Onna.
+\\N[12] Was caught in the ice by Yuki Onna,
+Every day, she continues to be absorbed in her mind
+It is ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ほら、奥の方に行ってみようよ。
+こんな氷の洞窟だし、
+面白いお宝があるかもしれないじゃない」
+> CONTEXT: Map092/events/20/pages/0/0/Dialogue
+Sherry. 「Here, let's go to the back.
+It's such an ice cave, You might have interesting
+treasure」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「なんか、すっごい魔力が込められてそうな剣だね。
+これ、ウィギスの村長さんが言ってた、
+昔の王様が使ってたっていう伝説の魔剣かな？」
+> CONTEXT: Map092/events/21/pages/0/15/Dialogue
+Sherry. 「Something, it is a sword that has such
+a wonderful magical power. This, Village Head of
+Wigheis was saying, Is it a legendary devil sword
+that the old king used it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだとしたら、すげえことだな。
+こんなところに封印されてたのか」
+> CONTEXT: Map092/events/21/pages/0/20/Dialogue
+\\N[12]. 「If so, you should do it. I was sealed in such
+a place」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「この洞窟、地元の人も入ってるみたいだけど
+こんな剣は今まで発見されてなかったわけだよね。
+これも、あの雪女が出現した影響なのかな」
+> CONTEXT: Map092/events/21/pages/0/24/Dialogue
+Sherry. 「This cave seems to contain locals,
+though. This sword has not been discovered so
+far, right? Is this also the influence that Yuki
+Onna appeared?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「かもな。こんな堂々と刺さってる剣が
+今まで発見されなかったのがおかしい。
+あの魔物がこの洞窟を変形でもさせたか……？」
+> CONTEXT: Map092/events/21/pages/0/29/Dialogue
+\\N[12]. 「May be. This kind of sweet sweet sting
+It is strange that I have not been found so far.
+Has that monster deformed this cave ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「まあ、それはどうでもいいや。
+それより、この剣どうする？
+持っていっちゃおうか」
+> CONTEXT: Map092/events/21/pages/0/34/Dialogue
+Sherry. 「Well, that does not matter.
+Well then, what about this sword?
+Shall I take it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……それは、お前が持っていって使うってことか？」
+> CONTEXT: Map092/events/21/pages/0/39/Dialogue
+\\N[12]. 「...... Does that mean you take it with you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「キミがいいなら、そのつもりだけど」
+> CONTEXT: Map092/events/21/pages/0/42/Dialogue
+Sherry. 「If you are OK, I will do that.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は、白銀色に瞬く剣を改めて見やる。
+> CONTEXT: Map092/events/21/pages/0/45/Dialogue
+\\N[12] He again looks at the twinkling sword in the
+white silver color.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（素人の俺でも、すさまじい魔力が込められてることが
+分かっちまう……これ、すげえ剣だぞ……
+こんな剣を手にすれば、武道大会だって……）
+> CONTEXT: Map092/events/21/pages/0/47/Dialogue
+\\N[12]. (Even an amateur, something that awesome
+magical powers are put in. I understand ... this is a sweet
+sword ... If you have such a sword, martial arts tournament
+... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「どうやら、キミもこの剣が欲しいみたいだね」
+> CONTEXT: Map092/events/21/pages/0/52/Dialogue
+Sherry. 「Apparently, you seem to want this sword」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ。こんな見るからにとんでもない剣、
+自分で使ってみたいに決まってるだろう」
+> CONTEXT: Map092/events/21/pages/0/55/Dialogue
+\\N[12]. 「Oh. Such a ridiculous sword, You probably
+decided to use it yourself」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「剣士なら、そう思って当然だよね、こんな剣。
+それじゃ、私とキミで奪い合いってわけだ」
+> CONTEXT: Map092/events/21/pages/0/59/Dialogue
+Sherry. 「If swordsman, it is natural that I
+think so, such a sword. Well then, I have to
+compete with you with me.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうやら、共闘はここまでみたいだな」
+> CONTEXT: Map092/events/21/pages/0/63/Dialogue
+\\N[12]. 「Apparently, the battle seems to be over here」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「最後はやっぱり、やり合うことになっちゃうか」
+> CONTEXT: Map092/events/21/pages/0/72/Dialogue
+Sherry. 「As a matter of course, at the end will
+we meet up?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「依頼遂行のために手を組んだとはいえ、
+本来、俺とお前は仲良しこよしの関係じゃないからな。
+やはり、こうなる運命だったってことだ」
+> CONTEXT: Map092/events/21/pages/0/75/Dialogue
+\\N[12]. 「Although we organized a hand for fulfilling
+the request, Originally, you and me are not related to good
+friends. After all, it means that it was such a destiny」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ま、そうだね。
+私もキミには負けたくないし、
+悪いけど全力でいくよ」
+> CONTEXT: Map092/events/21/pages/0/80/Dialogue
+Sherry. 「Well, that's right. I also do not want
+to lose to you, I'm sorry, but I will do my best」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「望むところだ。
+今回こそは、あのときの恥をすすがせてもらうからな！」
+> CONTEXT: Map092/events/21/pages/0/85/Dialogue
+\\N[12]. 「It is hopeful. This time it will be a shame
+at that time!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うっ……や、やられちゃった……
+まさか、キミに負けるなんてね」
+> CONTEXT: Map092/events/21/pages/0/100/Dialogue
+Sherry. 「Oooh ... or ... I got hurt ... ...
+No way, I will not lose to you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……………………くそっ」
+> CONTEXT: Map092/events/21/pages/0/105/Dialogue
+\\N[12]. 「........................ Damn it」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「どうしたの？
+キミの勝ちなんだし、剣は持っていっていいんだよ。
+あのときの恥もすすげたんだし、喜ばないの？」
+> CONTEXT: Map092/events/21/pages/0/108/Dialogue
+Sherry. 「What's wrong? You are the winner and
+you have a sword. I used to shame at that time,
+are not you pleasing?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お前、かなり消耗しているな。
+やっぱり、穴に落ちる前に雪女に負わされた傷が
+響いてるんだろう」
+> CONTEXT: Map092/events/21/pages/0/114/Dialogue
+\\N[12]. 「You are pretty exhausted. After all, the
+wounds that Yuki Onna was subjected to before the fall into
+the hole. I guess it's ringing」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「え、それはべつに……」
+> CONTEXT: Map092/events/21/pages/0/119/Dialogue
+Sherry. 「Well, that's ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そんな相手に勝ったところで、喜べるわけがない。
+こんなんで恥をすすげたなんて到底思えないぜ、
+また万全のときに改めて勝負だ、シェリー！」
+> CONTEXT: Map092/events/21/pages/0/122/Dialogue
+\\N[12]. 「Where you win such opponent, you can not be
+joyful. I can not believe that I was disgraced by such a
+thing, Again when it is perfect, it is a match again,
+Sherry!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「まったく、男の子ってそういうとこ頑固だよね。
+まあ、また勝負したいっていうのは私も同じだし、
+再戦については喜んで受けるよ」
+> CONTEXT: Map092/events/21/pages/0/128/Dialogue
+Sherry. 「Indeed, boys are stubborn like that.
+Well, I also like to compete again,
+I will be pleased about the rematch」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「でも、とにかく今回の勝負は私の負け。
+その剣は持っていくといいよ」
+> CONTEXT: Map092/events/21/pages/0/146/Dialogue
+Sherry. 「But anyway this time my game is my
+defeat. You should take that sword.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、しかし……」
+> CONTEXT: Map092/events/21/pages/0/150/Dialogue
+\\N[12]. 「No, but ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「気が引けるなら、預かっておくつもりでいて。
+今度勝負するときに私が勝ったら、
+奪わせてもらうからさ」
+> CONTEXT: Map092/events/21/pages/0/153/Dialogue
+Sherry. 「If you feel unwilling, I will keep it.
+When I win if I win next time,
+Because I will deprive you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……わかった、こいつは俺が預かっておく。
+もちろん、次に勝負をするときにも
+渡すつもりはないけどな」
+> CONTEXT: Map092/events/21/pages/0/158/Dialogue
+\\N[12]. 「...... Okay, I keep this guy. Of course, when
+you next compete. I do not intend to pass it」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「そうそう、そうこなくっちゃ。
+じゃ、私は先に戻るね。
+今回は協力してくれてありがと、\\N[12]君」
+> CONTEXT: Map092/events/21/pages/0/163/Dialogue
+Sherry. 「Oh yeah, I do not have that.
+Well, I will come back. Thank you for your
+cooperation this time, \\N[12] You」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリーは去っていった。
+> CONTEXT: Map092/events/21/pages/0/173/Dialogue
+Sherry left.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「万全のあいつに勝たないことには
+あのときの悔しさは晴れない。
+やはり、武道大会で勝つしかないんだろう。
+> CONTEXT: Map092/events/21/pages/0/178/Dialogue
+\\N[12]. 「To not beat every possible man
+The regret at that time is not clear. After all, there must
+be no choice but to win with martial arts tournament.#MTLed
+> END STRING
+
+> BEGIN STRING
+それはともかく、剣を抜いてみるか……」
+> CONTEXT: Map092/events/21/pages/0/183/Dialogue
+Anyway, why do not you pull the sword ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「すげえ、柄を握っているだけで
+剣に込められた魔力が体に流れ込んでくるかのようだ。
+> CONTEXT: Map092/events/21/pages/0/198/Dialogue
+\\N[12]. 「Dude, just holding a handle. It seems that
+the magical power put in the sword flows into the body.#MTLed
+> END STRING
+
+> BEGIN STRING
+この氷の魔力を乗せて剣技を放てば、
+斬れない魔物なんていないだろう。
+さすが、昔の王様が使っていた伝説の剣ってところか……」
+> CONTEXT: Map092/events/21/pages/0/202/Dialogue
+If you put the magical power of this ice and release the
+sword skill, There will not be any monster that can not be
+cut. As expected, the legendary sword that the old king
+used was ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「依頼も無事達成だ。
+あとはギルドに報告して終わりだな。
+ウィギスの村長にも一応報告しておくか」
+> CONTEXT: Map092/events/21/pages/0/211/Dialogue
+\\N[12]. 「My request has been successfully achieved.
+The rest is over after reporting to the guild.
+Should I also report it to the village head of Wigheis」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ふうっ……
+以前よりはずっと強くなってるけど、
+まだまだ、その程度じゃ私には勝てないよ」
+> CONTEXT: Map092/events/21/pages/0/230/Dialogue
+Sherry. 「Fuu ...... It is much stronger than
+before, , I can not win against that extent」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……く、くそっ、
+また負けちまうとは……」
+> CONTEXT: Map092/events/21/pages/0/236/Dialogue
+\\N[12]. 「uugh ... ... く, And to lose ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（しかも、シェリーは怪我をしてるはずなのに。
+手負いの女にも勝てないのか、俺はっ……！）
+> CONTEXT: Map092/events/21/pages/0/240/Dialogue
+\\N[12]. (And Sherry is supposed to be hurt.
+I wonder if she can win even a hand-caught woman, I ... Ha!
+)#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「お互い消耗もあっただろうし、
+万全の勝負じゃなかったから複雑だけど……
+でも、勝ちは勝ちだから、この剣は貰ってくね」
+> CONTEXT: Map092/events/21/pages/0/244/Dialogue
+Sherry. 「There would have been exhaustion of
+each other, It's complicated because it was not a
+perfect match ... ... But winning is a win, so
+please give me this sword」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うわ、すっごい……
+氷の魔力が体に流れ込んでくるみたい。
+こんな剣が、誰にも見つからず封印されてたなんて」
+> CONTEXT: Map092/events/21/pages/0/263/Dialogue
+Sherry. 「Wow, how great. Ice magic seems to flow
+into my body. Why such a sword was not found by
+anyone and sealed」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くっ……す、すさまじい剣だ。
+こうして見ていても、惚れ惚れするくらい美しい……
+よりによって、シェリーに持っていかれちまうとは）
+> CONTEXT: Map092/events/21/pages/0/268/Dialogue
+\\N[12]. (Cut ... It is a tremendous sword.
+Even if you look at it like this, it is so beautiful to be
+lovingly ... ... By all means, to get it to Shelley)#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「思いがけず、最高のお宝が手に入ったよ。
+ごめんね、キミも頑張ったのに
+私だけいい思いをすることになっちゃって」
+> CONTEXT: Map092/events/21/pages/0/274/Dialogue
+Sherry. 「Unexpectedly, I got the best treasure.
+Sorry, you also did your best. I am going to have
+a good feeling only for me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ち、ちくしょう……
+こんなところまで来て、
+また屈辱を味わうことになるなんて……」
+> CONTEXT: Map092/events/21/pages/0/279/Dialogue
+\\N[12]. 「Chi, chi ...... Come to such a place,
+And I will be humiliated ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ま、そんなに落ち込まないでよ。
+いちおう、依頼は達成できたんだしさ。
+> CONTEXT: Map092/events/21/pages/0/284/Dialogue
+Sherry. 「Well, do not get so down.
+In the meantime, I was able to achieve the
+request.#MTLed
+> END STRING
+
+> BEGIN STRING
+また次やり合うときまで元気でね。
+もちろん、次も私が勝たせてもらうけどね、ふふっ」
+> CONTEXT: Map092/events/21/pages/0/288/Dialogue
+Energetically till next time you meet.
+Of course, I will let you win next time, heh heh」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリーは去っていった……
+> CONTEXT: Map092/events/21/pages/0/295/Dialogue
+Sherry left ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ、目の前であんな見事な剣を
+持ち去られちまうなんて……
+まるで恋人を寝取られたかのような気分だぜ……
+> CONTEXT: Map092/events/21/pages/0/299/Dialogue
+\\N[12]. 「OHh, with such a splendid sword in front of
+you. I can not take away ... ... It feels as if he had
+tossed his boyfriend ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+まあいい、こうなったら次にやるときには
+今度こそ絶対に勝って、
+屈辱を晴らすと同時にあの剣も奪い取ってやる。
+もっともっと強くならないとっ！」
+> CONTEXT: Map092/events/21/pages/0/304/Dialogue
+Well, when this is done, when doing next
+This time absolutely win, I will take away the humiliation
+as well as that sword. You have to be strong!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……さて、依頼は無事達成だ。
+あとはギルドに報告して終わりだな。
+ウィギスの村長にも一応報告しておくか」
+> CONTEXT: Map092/events/21/pages/0/310/Dialogue
+\\N[12]. 「...... Well, the request has been
+successfully achieved. The rest is over after reporting to
+the guild. Should I also report it to the village head of
+Wigheis」#MTLed
+> END STRING
+
+> BEGIN STRING
+気付け薬を手に入れた！
+> CONTEXT: Map092/events/23/pages/0/9/Dialogue
+> CONTEXT: Map085/events/15/pages/0/9/Dialogue
+> CONTEXT: Map027/events/8/pages/0/9/Dialogue
+I got a care-of medicine!#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]とシェリーは雪女に敗れた。
+\\N[12]は雪女によって氷の中に囚われ、
+毎日、彼女に精気を吸われ続けることに
+なるのである……
+> CONTEXT: Map092/events/15/pages/2/152/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/273/55/Dialogue < UNTRANSLATED
+
+> END STRING

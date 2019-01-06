@@ -1,0 +1,12 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+おじさん
+「のどかな村だが、武道大会が終わって本格的に冬になると
+けっこう観光客でにぎわうんだ。
+温泉もあるし、冬の観光地としては最高だろうからね」
+> CONTEXT: Map082/events/3/pages/0/0/Dialogue
+old man. 「It is a peaceful village, but when martial arts
+tournament is over and winter comes in earnest
+It is pretty crowded with tourists. It has hot springs and
+it will be the best as a winter tourist spot」#MTLed
+> END STRING

@@ -1,0 +1,1527 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「舟に乗るか？」
+> CONTEXT: Map141/events/1/pages/0/0/Dialogue
+> CONTEXT: Map139/events/1/pages/1/0/Dialogue
+\\N[12]. 「Do you take a boat?」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「\\N[12]！
+ようやく来てくださいましたのね、
+待ちくたびれましたわ！」
+> CONTEXT: Map141/events/3/pages/0/2/Dialogue
+alumina. 「\\N[12] ! You finally came, did not
+you? I was exhausted from waiting!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、なんとか城に入ることができたぜ。
+これで、女王陛下から課された試練のうち、
+第一段階はクリアってことでいいんだよな」
+> CONTEXT: Map141/events/3/pages/0/7/Dialogue
+\\N[12]. 「Oh, I managed to get into the castle somehow.
+With this, among the tests imposed by His Majesty the
+Queen, You can do it by clearing the first stage」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「そのはずですわ。
+さすが\\N[12]、お母様の放った刺客や兵を
+すべて跳ねのけるとは、さすがです。
+> CONTEXT: Map141/events/3/pages/0/12/Dialogue
+alumina. 「That should be it. As expected
+\\N[12] , Thugs and men who mother released
+It is truly said that you can jump.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ、城内は\\N[12]を狙う兵で満ちておりますの。
+突破してお母様の元にたどり着くのは、
+容易なことではありませんわよ」
+> CONTEXT: Map141/events/3/pages/0/17/Dialogue
+However, inside the castle \\N[12] I'm filled
+with soldiers aiming at. Through breakthrough and
+arriving back to her mother, It's not easy」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかってるさ。
+だが、ここまできたらもう全力を尽くすのみだ。
+絶対に陛下のもとにたどり着き、勝ってみせるぜ」
+> CONTEXT: Map141/events/3/pages/0/21/Dialogue
+\\N[12]. 「I understand. However, I will do my best only
+when I get here. Absolutely arrive at your Majesty and you
+can win」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「……わたくし、今までは
+あなたに対して特別な感情は抱いていませんでした。
+出会って間もないのですから、当然ですが……
+> CONTEXT: Map141/events/3/pages/0/26/Dialogue
+alumina. 「...... me, until now
+I did not have any special emotions to you.
+It's natural that we have not met since ...#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、あなたには男としての強さ――
+どんな障害があっても乗り越えてくるような
+強い力が確かにある。
+今さらですが、本格的に惚れてしまったかも……」
+> CONTEXT: Map141/events/3/pages/0/31/Dialogue
+But, to you the strength as a man -
+It seems like overcoming any obstacles
+There is a strong force indeed.
+Even now it may have fallen in earnest ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうか？
+うん……なら、頑張ってきてよかったぜ。
+> CONTEXT: Map141/events/3/pages/0/36/Dialogue
+\\N[12]. 「Is that so? Well ... it was good if you did
+your best.#MTLed
+> END STRING
+
+> BEGIN STRING
+このまま試練も乗り越えて、
+さらに男としての頼もしさを見せてやるぜ。
+待ってろよ、アルミナ！」
+> CONTEXT: Map141/events/3/pages/0/40/Dialogue
+I will overcome the trial as it is, I will show you the
+reliability as a man. Wait a minute, alumina!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふふっ、期待して待っておりますわ。
+ちなみに、この部屋には兵は入ってきませんから
+休みたければ、戻ってくるとよろしいですわ。
+> CONTEXT: Map141/events/3/pages/0/44/Dialogue
+alumina. 「Huh, I will wait for expectation.
+By the way, there are no soldiers in this room
+If you want to have a break, you should come
+back.#MTLed
+> END STRING
+
+> BEGIN STRING
+それと、この部屋には神々の羽で
+移動してくることもできますから、
+いったん街に戻って準備を整えることも可能ですわよ」
+> CONTEXT: Map141/events/3/pages/0/49/Dialogue
+Also, in this room with gods feathers
+Because you can also move, You can go back to the
+city and get ready」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「わたくしのベッドで休んでいきますの？」
+> CONTEXT: Map141/events/3/pages/1/0/Dialogue
+alumina. 「Are you going to take a rest in my bed?
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「謁見の間までには、
+兵やロイヤルガードが多く待ち構えているはず。
+準備は万全にしていきなさい、\\N[12]」
+> CONTEXT: Map141/events/3/pages/1/11/Dialogue
+> CONTEXT: Map141/events/3/pages/1/18/Dialogue
+alumina. 「By the audience, There should be many
+soldiers and royal guard waiting.
+Please prepare thoroughly, \\N[12]」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「おや、また来たのか少年。
+あれだけ実力の差を見せつけられておきながら
+懲りないものだな」
+> CONTEXT: Map141/events/4/pages/0/1/Dialogue
+> CONTEXT: Map141/events/37/pages/0/2/Dialogue
+> CONTEXT: Map139/events/2/pages/0/1/Dialogue
+> CONTEXT: Map041/events/27/pages/0/1/Dialogue
+royal guard. 「Oh, the boy who came again.
+While keeping the difference in ability so much
+You do not have to be disciplined.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あいにくだが、あれくらいであきらめるわけには
+いかないんでね。
+今度こそ、ここを突破させてもらうっ！」
+> CONTEXT: Map141/events/4/pages/0/6/Dialogue
+> CONTEXT: Map141/events/37/pages/0/7/Dialogue
+> CONTEXT: Map139/events/2/pages/0/6/Dialogue
+> CONTEXT: Map041/events/27/pages/0/6/Dialogue
+> CONTEXT: Map041/events/26/pages/0/7/Dialogue
+> CONTEXT: Map041/events/28/pages/0/8/Dialogue
+> CONTEXT: Map041/events/29/pages/0/8/Dialogue
+> CONTEXT: Map041/events/30/pages/0/8/Dialogue
+\\N[12]. 「Unfortunately, in that way I gotta give up
+Do not go. This time, let 's break through here!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「よかろう、何度でも相手になってやる。
+再び私の剣の前に倒されて
+己の無力さを思い知るがいい！」
+> CONTEXT: Map141/events/4/pages/0/11/Dialogue
+> CONTEXT: Map141/events/37/pages/0/12/Dialogue
+> CONTEXT: Map139/events/2/pages/0/11/Dialogue
+> CONTEXT: Map041/events/27/pages/0/11/Dialogue
+> CONTEXT: Map041/events/26/pages/0/12/Dialogue
+> CONTEXT: Map041/events/28/pages/0/13/Dialogue
+> CONTEXT: Map041/events/29/pages/0/13/Dialogue
+> CONTEXT: Map041/events/30/pages/0/13/Dialogue
+royal guard. 「Well, I will become a partner any number of
+times. Beat down my sword again. You should know your
+helplessness!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「ここは女王陛下の私室である。
+一般市民、それも男を通すわけにはいかん！」
+> CONTEXT: Map141/events/4/pages/0/18/Dialogue
+> CONTEXT: Map141/events/37/pages/0/19/Dialogue
+royal guard. 「This is the private room of the Queen.
+It is impossible for ordinary citizens, too, to pass a man!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+入る
+> CONTEXT: Map141/events/4/pages/0/22/Choice/0
+> CONTEXT: Map141/events/37/pages/0/23/Choice/0
+enter#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「無礼者め、
+ロイヤルガードの力を思い知らせてくれる！」
+> CONTEXT: Map141/events/4/pages/0/31/Dialogue
+> CONTEXT: Map141/events/37/pages/0/32/Dialogue
+royal guard. 「To be rude, It will let you know the power
+of royal guard!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「くっ……」
+> CONTEXT: Map141/events/4/pages/0/43/Dialogue
+> CONTEXT: Map141/events/37/pages/0/44/Dialogue
+> CONTEXT: Map139/events/2/pages/0/43/Dialogue
+> CONTEXT: Map041/events/27/pages/0/43/Dialogue
+> CONTEXT: Map041/events/26/pages/0/40/Dialogue
+> CONTEXT: Map041/events/28/pages/0/41/Dialogue
+> CONTEXT: Map041/events/29/pages/0/41/Dialogue
+> CONTEXT: Map041/events/30/pages/0/41/Dialogue
+royal guard. 「Damn」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「大人しく通してくれ。
+これ以上は殺し合いになっちまうぜ」
+> CONTEXT: Map141/events/4/pages/0/46/Dialogue
+> CONTEXT: Map141/events/37/pages/0/47/Dialogue
+\\N[12]. 「Please let me go through as grown-up.
+I will kill more than this」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「くっ、仕方がない……
+お前の勝ちだ、剣士\\N[12]」
+> CONTEXT: Map141/events/4/pages/0/51/Dialogue
+> CONTEXT: Map141/events/37/pages/0/52/Dialogue
+royal guard. 「Cum, it can not be helped ...
+You win, Swordsman \\N[12]」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「残念だったな、少年。
+姫様に勝てたからといって、
+我らロイヤルガードにも勝てると思ったか？」
+> CONTEXT: Map141/events/4/pages/0/78/Dialogue
+> CONTEXT: Map141/events/37/pages/0/79/Dialogue
+> CONTEXT: Map139/events/2/pages/0/95/Dialogue
+> CONTEXT: Map041/events/27/pages/0/93/Dialogue
+> CONTEXT: Map041/events/26/pages/0/98/Dialogue
+> CONTEXT: Map041/events/28/pages/0/100/Dialogue
+> CONTEXT: Map041/events/29/pages/0/100/Dialogue
+> CONTEXT: Map041/events/30/pages/0/100/Dialogue
+royal guard. 「It was disappointing, boy.
+Just because you can win the princess, Did you think that
+we could win also the royal guard?」#MTLed
+> CONTEXT: Commonevents/246/15/Dialogue
+royal guard. 「It was disappointing, boy.
+Just because you can win the princess,
+Did you think that we could win also the royal
+guard?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ぐっ……つ、強い……」
+> CONTEXT: Map141/events/4/pages/0/83/Dialogue
+> CONTEXT: Map141/events/37/pages/0/84/Dialogue
+> CONTEXT: Map139/events/2/pages/0/100/Dialogue
+> CONTEXT: Map041/events/27/pages/0/98/Dialogue
+> CONTEXT: Map041/events/26/pages/0/103/Dialogue
+> CONTEXT: Map041/events/28/pages/0/105/Dialogue
+> CONTEXT: Map041/events/29/pages/0/105/Dialogue
+> CONTEXT: Map041/events/30/pages/0/105/Dialogue
+\\N[12]. 「Wow, .... one, strong ......」#MTLed
+> CONTEXT: Commonevents/246/20/Dialogue
+\\N[12]. 「Wow, .... one, strong ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「手合わせでは姫様に遅れを取ることの多い我々だが
+実戦となれば、そういうことにはならないだろう。
+これが経験の差というものだ」
+> CONTEXT: Map141/events/4/pages/0/86/Dialogue
+> CONTEXT: Map141/events/37/pages/0/87/Dialogue
+> CONTEXT: Map139/events/2/pages/0/103/Dialogue
+> CONTEXT: Map041/events/27/pages/0/101/Dialogue
+> CONTEXT: Map041/events/26/pages/0/106/Dialogue
+> CONTEXT: Map041/events/28/pages/0/108/Dialogue
+> CONTEXT: Map041/events/29/pages/0/108/Dialogue
+> CONTEXT: Map041/events/30/pages/0/108/Dialogue
+royal guard. 「It is us who often get late for the princess
+by hand. If it becomes a real battle, it will not be such a
+thing. This is the difference of experience」#MTLed
+> CONTEXT: Commonevents/246/23/Dialogue
+royal guard. 「It is us who often get late for
+the princess by hand. If it becomes a real
+battle, it will not be such a thing.
+This is the difference of experience」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「その程度か、少年。
+それで女王陛下に楯突こうなどとは、話にならん」
+> CONTEXT: Map141/events/4/pages/0/96/Dialogue
+> CONTEXT: Map141/events/37/pages/0/97/Dialogue
+> CONTEXT: Map139/events/2/pages/0/113/Dialogue
+> CONTEXT: Map041/events/28/pages/0/118/Dialogue
+> CONTEXT: Map041/events/29/pages/0/118/Dialogue
+> CONTEXT: Map041/events/30/pages/0/118/Dialogue
+royal guard. 「To that extent, a boy. That's why it's not
+going to be strange to compete with the Queen's Majesty」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「つ、強いっ……
+これがロイヤルガードなのか……」
+> CONTEXT: Map141/events/4/pages/0/100/Dialogue
+> CONTEXT: Map141/events/37/pages/0/101/Dialogue
+> CONTEXT: Map139/events/2/pages/0/117/Dialogue
+> CONTEXT: Map041/events/27/pages/0/115/Dialogue
+> CONTEXT: Map041/events/26/pages/0/120/Dialogue
+> CONTEXT: Map041/events/28/pages/0/122/Dialogue
+> CONTEXT: Map041/events/29/pages/0/122/Dialogue
+> CONTEXT: Map041/events/30/pages/0/122/Dialogue
+\\N[12]. 「One, strong ...... Is this royal guard ......」#MTLed
+> CONTEXT: Commonevents/246/37/Dialogue
+\\N[12]. 「One, strong ...... Is this royal
+guard ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「我らロイヤルガードに勝てないようでは、
+女王陛下のもとに行かせるわけにはいかんな」
+> CONTEXT: Map141/events/4/pages/0/104/Dialogue
+> CONTEXT: Map141/events/37/pages/0/105/Dialogue
+> CONTEXT: Map139/events/2/pages/0/121/Dialogue
+> CONTEXT: Map041/events/27/pages/0/119/Dialogue
+> CONTEXT: Map041/events/26/pages/0/124/Dialogue
+> CONTEXT: Map041/events/28/pages/0/126/Dialogue
+> CONTEXT: Map041/events/29/pages/0/126/Dialogue
+> CONTEXT: Map041/events/30/pages/0/126/Dialogue
+royal guard. 「If we do not seem to win against the royal
+guard, How can you let him go to your majesty?」#MTLed
+> CONTEXT: Commonevents/246/41/Dialogue
+royal guard. 「If we do not seem to win against
+the royal guard, How can you let him go to your
+majesty?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……」
+> CONTEXT: Map141/events/4/pages/0/108/Dialogue
+> CONTEXT: Map141/events/37/pages/0/109/Dialogue
+> CONTEXT: Map139/events/2/pages/0/125/Dialogue
+> CONTEXT: Map057/events/25/pages/0/118/Dialogue
+> CONTEXT: Map041/events/27/pages/0/123/Dialogue
+> CONTEXT: Map149/events/38/pages/1/9/Dialogue
+> CONTEXT: Map149/events/38/pages/1/291/Dialogue
+> CONTEXT: Map147/events/2/pages/15/150/Dialogue
+> CONTEXT: Map147/events/17/pages/0/314/Dialogue
+> CONTEXT: Map041/events/26/pages/0/128/Dialogue
+> CONTEXT: Map041/events/28/pages/0/130/Dialogue
+> CONTEXT: Map041/events/29/pages/0/130/Dialogue
+> CONTEXT: Map025/events/267/pages/1/15/Dialogue
+> CONTEXT: Map005/events/3/pages/0/68/Dialogue
+> CONTEXT: Map025/events/267/pages/1/363/Dialogue
+> CONTEXT: Map041/events/30/pages/0/130/Dialogue
+\\N[12]. 「Damn」#MTLed
+> CONTEXT: Map032/events/50/pages/1/236/Dialogue
+> CONTEXT: Commonevents/154/41/Dialogue
+> CONTEXT: Commonevents/155/6/Dialogue
+> CONTEXT: Commonevents/200/318/Dialogue
+> CONTEXT: Commonevents/205/305/Dialogue
+> CONTEXT: Commonevents/246/45/Dialogue
+> CONTEXT: Commonevents/248/337/Dialogue
+> CONTEXT: Commonevents/263/161/Dialogue
+\\N[12]. 「Damn」#MTLed
+> END STRING
+
+> BEGIN STRING
+敗北シーンを見ますか？
+> CONTEXT: Map141/events/4/pages/0/113/Dialogue
+> CONTEXT: Map141/events/37/pages/0/114/Dialogue
+> CONTEXT: Map139/events/2/pages/0/130/Dialogue
+> CONTEXT: Map041/events/27/pages/0/128/Dialogue
+> CONTEXT: Map041/events/26/pages/0/133/Dialogue
+> CONTEXT: Map041/events/28/pages/0/135/Dialogue
+> CONTEXT: Map041/events/29/pages/0/135/Dialogue
+> CONTEXT: Map041/events/30/pages/0/135/Dialogue
+Do you see the defeat scene?#MTLed
+> CONTEXT: Commonevents/246/50/Dialogue
+Do you see the defeat scene?#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「さて、剣士\\N[12]。
+女王の試練に敗れた者には罰が必要だな」
+> CONTEXT: Map141/events/4/pages/0/127/Dialogue
+> CONTEXT: Map141/events/37/pages/0/128/Dialogue
+> CONTEXT: Map139/events/2/pages/0/144/Dialogue
+> CONTEXT: Map041/events/27/pages/0/140/Dialogue
+> CONTEXT: Map041/events/26/pages/0/145/Dialogue
+> CONTEXT: Map041/events/28/pages/0/149/Dialogue
+> CONTEXT: Map041/events/29/pages/0/149/Dialogue
+> CONTEXT: Map041/events/30/pages/0/149/Dialogue
+royal guard. 「Well, swordsman \\N[12] . Those who are
+defeated by the Queen's trial need punishment」#MTLed
+> CONTEXT: Commonevents/246/66/Dialogue
+royal guard. 「Well, swordsman \\N[12] .
+Those who are defeated by the Queen's trial need
+punishment」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、なにをする気なんだ……」
+> CONTEXT: Map141/events/4/pages/0/131/Dialogue
+> CONTEXT: Map141/events/37/pages/0/132/Dialogue
+> CONTEXT: Map139/events/2/pages/0/148/Dialogue
+> CONTEXT: Map041/events/27/pages/0/144/Dialogue
+> CONTEXT: Map041/events/26/pages/0/149/Dialogue
+> CONTEXT: Map041/events/28/pages/0/153/Dialogue
+> CONTEXT: Map041/events/29/pages/0/153/Dialogue
+> CONTEXT: Map041/events/30/pages/0/153/Dialogue
+\\N[12]. 「Well, what are you going to do ......」#MTLed
+> CONTEXT: Commonevents/246/70/Dialogue
+\\N[12]. 「Well, what are you going to do
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「簡単なことだ。
+男としての辱めを与えてやろう」
+> CONTEXT: Map141/events/4/pages/0/134/Dialogue
+> CONTEXT: Map141/events/37/pages/0/135/Dialogue
+> CONTEXT: Map139/events/2/pages/0/151/Dialogue
+> CONTEXT: Map041/events/27/pages/0/147/Dialogue
+> CONTEXT: Map041/events/26/pages/0/152/Dialogue
+> CONTEXT: Map041/events/28/pages/0/156/Dialogue
+> CONTEXT: Map041/events/29/pages/0/156/Dialogue
+> CONTEXT: Map041/events/30/pages/0/156/Dialogue
+royal guard. 「It's easy. Let me give you a humiliation as
+a man」#MTLed
+> CONTEXT: Commonevents/246/73/Dialogue
+royal guard. 「It's easy. Let me give you a
+humiliation as a man」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガードは剣を振るうと、
+\\N[12]の服を破り、裸にさせた！
+> CONTEXT: Map141/events/4/pages/0/142/Dialogue
+> CONTEXT: Map141/events/37/pages/0/143/Dialogue
+> CONTEXT: Map139/events/2/pages/0/159/Dialogue
+> CONTEXT: Map041/events/27/pages/0/155/Dialogue
+> CONTEXT: Map041/events/26/pages/0/160/Dialogue
+> CONTEXT: Map041/events/28/pages/0/164/Dialogue
+> CONTEXT: Map041/events/29/pages/0/164/Dialogue
+> CONTEXT: Map041/events/30/pages/0/164/Dialogue
+The royal guard swings the sword, \\N[12] I broke my
+clothes and made it naked!#MTLed
+> CONTEXT: Commonevents/246/81/Dialogue
+The royal guard swings the sword,
+\\N[12] I broke my clothes and made it naked!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、うわっ！」
+> CONTEXT: Map141/events/4/pages/0/145/Dialogue
+> CONTEXT: Map152/events/24/pages/8/413/Dialogue
+> CONTEXT: Map141/events/37/pages/0/146/Dialogue
+> CONTEXT: Map152/events/24/pages/9/244/Dialogue
+> CONTEXT: Map139/events/2/pages/0/162/Dialogue
+> CONTEXT: Map110/events/5/pages/0/129/Dialogue
+> CONTEXT: Map110/events/5/pages/1/170/Dialogue
+> CONTEXT: Map041/events/27/pages/0/158/Dialogue
+> CONTEXT: Map041/events/26/pages/0/163/Dialogue
+> CONTEXT: Map043/events/24/pages/8/439/Dialogue
+> CONTEXT: Map041/events/28/pages/0/167/Dialogue
+> CONTEXT: Map043/events/24/pages/9/316/Dialogue
+> CONTEXT: Map041/events/29/pages/0/167/Dialogue
+> CONTEXT: Map043/events/24/pages/9/620/Dialogue
+> CONTEXT: Map041/events/30/pages/0/167/Dialogue
+> CONTEXT: Map043/events/24/pages/10/261/Dialogue
+> CONTEXT: Map043/events/121/pages/0/361/Dialogue
+> CONTEXT: Map043/events/121/pages/1/439/Dialogue
+\\N[12]. 「Wow, that's it!」#MTLed
+> CONTEXT: Commonevents/223/139/Dialogue
+> CONTEXT: Commonevents/246/84/Dialogue
+> CONTEXT: Commonevents/250/76/Dialogue
+> CONTEXT: Commonevents/272/56/Dialogue
+> CONTEXT: Commonevents/272/233/Dialogue
+> CONTEXT: Commonevents/320/110/Dialogue
+> CONTEXT: Commonevents/320/414/Dialogue
+\\N[12]. 「Wow, that's it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「本来、ロイヤルガードは誇り高いもの。
+このような行為は好まないが……
+> CONTEXT: Map141/events/4/pages/0/148/Dialogue
+> CONTEXT: Map141/events/37/pages/0/149/Dialogue
+> CONTEXT: Map139/events/2/pages/0/165/Dialogue
+> CONTEXT: Map041/events/27/pages/0/161/Dialogue
+> CONTEXT: Map041/events/26/pages/0/166/Dialogue
+> CONTEXT: Map041/events/28/pages/0/170/Dialogue
+> CONTEXT: Map041/events/29/pages/0/170/Dialogue
+> CONTEXT: Map041/events/30/pages/0/170/Dialogue
+royal guard. 「Originally, royal guard is proud.
+I do not like this behavior ... ...#MTLed
+> CONTEXT: Commonevents/246/87/Dialogue
+royal guard. 「Originally, royal guard is proud.
+I do not like this behavior ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+しかし、未熟な腕前で女王陛下に挑戦しようなどと
+思い上がった男に対しては、制裁を加えねばならん。
+男の証を蹂躙し、屈辱を味わわせてやろう」
+> CONTEXT: Map141/events/4/pages/0/152/Dialogue
+> CONTEXT: Map141/events/37/pages/0/153/Dialogue
+> CONTEXT: Map139/events/2/pages/0/169/Dialogue
+> CONTEXT: Map041/events/27/pages/0/165/Dialogue
+> CONTEXT: Map041/events/26/pages/0/170/Dialogue
+> CONTEXT: Map041/events/28/pages/0/174/Dialogue
+> CONTEXT: Map041/events/29/pages/0/174/Dialogue
+> CONTEXT: Map041/events/30/pages/0/174/Dialogue
+However, trying to challenge the Queen with immature skill
+For a man who has surfaced, sanctions must be added.
+Let's taste the humiliation by overrulning the man's
+testimony」#MTLed
+> CONTEXT: Commonevents/246/91/Dialogue
+However, trying to challenge the Queen with
+immature skill. For a man who has surfaced,
+sanctions must be added. Let's taste the
+humiliation by overrulning the man's testimony」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガードは\\N[12]のペニスを踏みつけ、
+ぐりぐりと踏みにじってくる！
+> CONTEXT: Map141/events/4/pages/0/166/Dialogue
+> CONTEXT: Map141/events/37/pages/0/167/Dialogue
+> CONTEXT: Map139/events/2/pages/0/183/Dialogue
+> CONTEXT: Map041/events/27/pages/0/179/Dialogue
+> CONTEXT: Map041/events/26/pages/0/184/Dialogue
+> CONTEXT: Map041/events/28/pages/0/188/Dialogue
+> CONTEXT: Map041/events/29/pages/0/188/Dialogue
+> CONTEXT: Map041/events/30/pages/0/188/Dialogue
+royal guard \\N[12] I trampled the penis,
+* rub * and stepping on a step!#MTLed
+> CONTEXT: Commonevents/246/105/Dialogue
+royal guard \\N[12] I trampled the penis,
+* rub * and stepping on a step!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いっ、痛いっ、
+あっ、あああああぁぁっ！」
+> CONTEXT: Map141/events/4/pages/0/169/Dialogue
+> CONTEXT: Map141/events/37/pages/0/170/Dialogue
+> CONTEXT: Map139/events/2/pages/0/186/Dialogue
+> CONTEXT: Map041/events/27/pages/0/182/Dialogue
+> CONTEXT: Map041/events/26/pages/0/187/Dialogue
+> CONTEXT: Map041/events/28/pages/0/191/Dialogue
+> CONTEXT: Map041/events/29/pages/0/191/Dialogue
+> CONTEXT: Map041/events/30/pages/0/191/Dialogue
+\\N[12]. 「When it hurts, Oh, Aaaaahhh!」#MTLed
+> CONTEXT: Commonevents/246/108/Dialogue
+\\N[12]. 「When it hurts, Oh, Aaaaahhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「こんな醜い弱点をぶら下げて、
+男というものは実に滑稽な生き物だな。
+踏みつけてしまえば抵抗もできないとは」
+> CONTEXT: Map141/events/4/pages/0/173/Dialogue
+> CONTEXT: Map141/events/37/pages/0/174/Dialogue
+> CONTEXT: Map139/events/2/pages/0/190/Dialogue
+> CONTEXT: Map041/events/27/pages/0/186/Dialogue
+> CONTEXT: Map041/events/26/pages/0/191/Dialogue
+> CONTEXT: Map041/events/28/pages/0/195/Dialogue
+> CONTEXT: Map041/events/29/pages/0/195/Dialogue
+> CONTEXT: Map041/events/30/pages/0/195/Dialogue
+royal guard. 「Hanging such ugly weaknesses,
+A man is a truly funny creature. It is said that resistance
+can not be done if it steps on」#MTLed
+> CONTEXT: Commonevents/246/112/Dialogue
+royal guard. 「Hanging such ugly weaknesses,
+A man is a truly funny creature.
+It is said that resistance can not be done if it
+steps on」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐりゅっ！
+> CONTEXT: Map141/events/4/pages/0/179/Dialogue
+> CONTEXT: Map141/events/37/pages/0/180/Dialogue
+> CONTEXT: Map139/events/2/pages/0/196/Dialogue
+> CONTEXT: Map041/events/27/pages/0/192/Dialogue
+> CONTEXT: Map041/events/26/pages/0/197/Dialogue
+> CONTEXT: Map041/events/28/pages/0/201/Dialogue
+> CONTEXT: Map041/events/29/pages/0/201/Dialogue
+> CONTEXT: Map041/events/30/pages/0/201/Dialogue
+Kiryu!#MTLed
+> CONTEXT: Commonevents/153/157/Dialogue
+> CONTEXT: Commonevents/246/118/Dialogue
+> CONTEXT: Commonevents/228/290/Dialogue
+Kiryu!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あぎいいいぃっ！」
+> CONTEXT: Map141/events/4/pages/0/181/Dialogue
+> CONTEXT: Map141/events/37/pages/0/182/Dialogue
+> CONTEXT: Map139/events/2/pages/0/198/Dialogue
+> CONTEXT: Map041/events/27/pages/0/194/Dialogue
+> CONTEXT: Map041/events/26/pages/0/199/Dialogue
+> CONTEXT: Map041/events/28/pages/0/203/Dialogue
+> CONTEXT: Map041/events/29/pages/0/203/Dialogue
+> CONTEXT: Map041/events/30/pages/0/203/Dialogue
+\\N[12]. 「Aikoi!」#MTLed
+> CONTEXT: Commonevents/246/120/Dialogue
+\\N[12]. 「Aikoi!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「ふん、芋虫のようにのたうち回って、
+なんと情けない姿だ。
+こんな男が王女殿下と結ばれようとしているなど……」
+> CONTEXT: Map141/events/4/pages/0/184/Dialogue
+> CONTEXT: Map141/events/37/pages/0/185/Dialogue
+> CONTEXT: Map139/events/2/pages/0/201/Dialogue
+> CONTEXT: Map041/events/27/pages/0/197/Dialogue
+> CONTEXT: Map041/events/26/pages/0/202/Dialogue
+> CONTEXT: Map041/events/28/pages/0/206/Dialogue
+> CONTEXT: Map041/events/29/pages/0/206/Dialogue
+> CONTEXT: Map041/events/30/pages/0/206/Dialogue
+royal guard. 「Hmm, like a caterpillar, What a miserable
+figure. Such a man is about to be connected with Hon.」#MTLed
+> CONTEXT: Commonevents/246/123/Dialogue
+royal guard. 「Hmm, like a caterpillar,
+What a miserable figure. Such a man is about to
+be connected with Hon.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐりっ、ぐりぐりっ！
+> CONTEXT: Map141/events/4/pages/0/192/Dialogue
+> CONTEXT: Map141/events/4/pages/0/282/Dialogue
+> CONTEXT: Map141/events/37/pages/0/193/Dialogue
+> CONTEXT: Map141/events/37/pages/0/283/Dialogue
+> CONTEXT: Map139/events/2/pages/0/209/Dialogue
+> CONTEXT: Map139/events/2/pages/0/299/Dialogue
+> CONTEXT: Map041/events/27/pages/0/205/Dialogue
+> CONTEXT: Map041/events/27/pages/0/295/Dialogue
+> CONTEXT: Map041/events/26/pages/0/210/Dialogue
+> CONTEXT: Map041/events/26/pages/0/300/Dialogue
+> CONTEXT: Map041/events/28/pages/0/214/Dialogue
+> CONTEXT: Map041/events/28/pages/0/304/Dialogue
+> CONTEXT: Map041/events/29/pages/0/214/Dialogue
+> CONTEXT: Map041/events/29/pages/0/304/Dialogue
+> CONTEXT: Map041/events/30/pages/0/214/Dialogue
+> CONTEXT: Map041/events/30/pages/0/304/Dialogue
+Gourd, * rub *!#MTLed
+> CONTEXT: Commonevents/7/251/Dialogue
+> CONTEXT: Commonevents/65/261/Dialogue
+> CONTEXT: Commonevents/155/99/Dialogue
+> CONTEXT: Commonevents/219/252/Dialogue
+> CONTEXT: Commonevents/246/131/Dialogue
+> CONTEXT: Commonevents/246/221/Dialogue
+Gourd, * rub *!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うああああぁぁぁっ！
+つ、潰れるっ……
+や、やめてくれっ、これ以上はもう……！」
+> CONTEXT: Map141/events/4/pages/0/194/Dialogue
+> CONTEXT: Map141/events/37/pages/0/195/Dialogue
+> CONTEXT: Map139/events/2/pages/0/211/Dialogue
+> CONTEXT: Map041/events/27/pages/0/207/Dialogue
+> CONTEXT: Map041/events/26/pages/0/212/Dialogue
+> CONTEXT: Map041/events/28/pages/0/216/Dialogue
+> CONTEXT: Map041/events/29/pages/0/216/Dialogue
+> CONTEXT: Map041/events/30/pages/0/216/Dialogue
+\\N[12]. 「No! Aaaahhhh. One, collapsing ......
+Or stop it, no more ... no more!」#MTLed
+> CONTEXT: Commonevents/246/133/Dialogue
+\\N[12]. 「No! Aaaahhhh. One, collapsing ......
+Or stop it, no more ... no more!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「残念だが、容赦することはできん。
+お前が音を上げるまで、男の象徴を蹂躙させてもらう」
+> CONTEXT: Map141/events/4/pages/0/199/Dialogue
+> CONTEXT: Map141/events/37/pages/0/200/Dialogue
+> CONTEXT: Map139/events/2/pages/0/216/Dialogue
+> CONTEXT: Map041/events/27/pages/0/212/Dialogue
+> CONTEXT: Map041/events/26/pages/0/217/Dialogue
+> CONTEXT: Map041/events/28/pages/0/221/Dialogue
+> CONTEXT: Map041/events/29/pages/0/221/Dialogue
+> CONTEXT: Map041/events/30/pages/0/221/Dialogue
+royal guard. 「I am sorry, I can not pardon.
+Have them overrun the man's symbol until you raise the
+sound」#MTLed
+> CONTEXT: Commonevents/246/138/Dialogue
+royal guard. 「I am sorry, I can not pardon.
+Have them overrun the man's symbol until you
+raise the sound」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐりゅっ、ぐにっ、ぐりっ！
+> CONTEXT: Map141/events/4/pages/0/206/Dialogue
+> CONTEXT: Map141/events/37/pages/0/207/Dialogue
+> CONTEXT: Map139/events/2/pages/0/223/Dialogue
+> CONTEXT: Map041/events/27/pages/0/219/Dialogue
+> CONTEXT: Map041/events/26/pages/0/224/Dialogue
+> CONTEXT: Map041/events/28/pages/0/228/Dialogue
+> CONTEXT: Map041/events/29/pages/0/228/Dialogue
+> CONTEXT: Map041/events/30/pages/0/228/Dialogue
+Guru, * rub *, Guri!#MTLed
+> CONTEXT: Commonevents/246/145/Dialogue
+Guru, * rub *, Guri!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ひぎいいいいぃぃっ！
+や、やめて……ゆ、許してくれえぇっ！」
+> CONTEXT: Map141/events/4/pages/0/208/Dialogue
+> CONTEXT: Map141/events/37/pages/0/209/Dialogue
+> CONTEXT: Map139/events/2/pages/0/225/Dialogue
+> CONTEXT: Map041/events/27/pages/0/221/Dialogue
+> CONTEXT: Map041/events/26/pages/0/226/Dialogue
+> CONTEXT: Map041/events/28/pages/0/230/Dialogue
+> CONTEXT: Map041/events/29/pages/0/230/Dialogue
+> CONTEXT: Map041/events/30/pages/0/230/Dialogue
+\\N[12]. 「Himeyui ichi! Or, stop ... ... Yu, please
+forgive me!」#MTLed
+> CONTEXT: Commonevents/246/147/Dialogue
+\\N[12]. 「Himeyui ichi! Or, stop ... ... Yu,
+please forgive me!」#MTLed
+> END STRING
+
+> BEGIN STRING
+鈍い激痛がペニスを襲い、
+\\N[12]は身悶えしながら悲鳴を上げる。
+> CONTEXT: Map141/events/4/pages/0/212/Dialogue
+> CONTEXT: Map141/events/37/pages/0/213/Dialogue
+> CONTEXT: Map139/events/2/pages/0/229/Dialogue
+> CONTEXT: Map041/events/27/pages/0/225/Dialogue
+> CONTEXT: Map041/events/26/pages/0/230/Dialogue
+> CONTEXT: Map041/events/28/pages/0/234/Dialogue
+> CONTEXT: Map041/events/29/pages/0/234/Dialogue
+> CONTEXT: Map041/events/30/pages/0/234/Dialogue
+Dull aggressive pain attacks the penis, \\N[12] She
+screams while he is agony.#MTLed
+> CONTEXT: Commonevents/246/151/Dialogue
+Dull aggressive pain attacks the penis,
+\\N[12] She screams while he is agony.#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「無様だな、剣士\\N[12]。
+一対一で女に負けたあげく、
+男としての屈辱を味わわされている気分はどうだ？」
+> CONTEXT: Map141/events/4/pages/0/215/Dialogue
+> CONTEXT: Map141/events/37/pages/0/216/Dialogue
+> CONTEXT: Map139/events/2/pages/0/232/Dialogue
+> CONTEXT: Map041/events/27/pages/0/228/Dialogue
+> CONTEXT: Map041/events/26/pages/0/233/Dialogue
+> CONTEXT: Map041/events/28/pages/0/237/Dialogue
+> CONTEXT: Map041/events/29/pages/0/237/Dialogue
+> CONTEXT: Map041/events/30/pages/0/237/Dialogue
+royal guard. 「It is unsightly, Swordsman \\N[12] .
+After losing to a woman on a one-on-one basis,
+How do you feel the humiliation as a man is being tasted?」#MTLed
+> CONTEXT: Commonevents/246/154/Dialogue
+royal guard. 「It is unsightly, Swordsman
+\\N[12] . After losing to a woman on a
+one-on-one basis, How do you feel the humiliation
+as a man is being tasted?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あぐっ、うっ……」
+> CONTEXT: Map141/events/4/pages/0/220/Dialogue
+> CONTEXT: Map141/events/37/pages/0/221/Dialogue
+> CONTEXT: Map139/events/2/pages/0/237/Dialogue
+> CONTEXT: Map041/events/27/pages/0/233/Dialogue
+> CONTEXT: Map041/events/26/pages/0/238/Dialogue
+> CONTEXT: Map041/events/28/pages/0/242/Dialogue
+> CONTEXT: Map041/events/29/pages/0/242/Dialogue
+> CONTEXT: Map041/events/30/pages/0/242/Dialogue
+\\N[12]. 「Thanks, ugh ......」#MTLed
+> CONTEXT: Commonevents/246/159/Dialogue
+\\N[12]. 「Thanks, ugh ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「しょせん、男などこの程度のものか。
+とてもアルミナ姫に釣り合う人間には思えんな。
+武道大会での勝利も、どうせまぐれだったのだろう」
+> CONTEXT: Map141/events/4/pages/0/223/Dialogue
+> CONTEXT: Map141/events/37/pages/0/224/Dialogue
+> CONTEXT: Map139/events/2/pages/0/240/Dialogue
+> CONTEXT: Map041/events/27/pages/0/236/Dialogue
+> CONTEXT: Map041/events/26/pages/0/241/Dialogue
+> CONTEXT: Map041/events/28/pages/0/245/Dialogue
+> CONTEXT: Map041/events/29/pages/0/245/Dialogue
+> CONTEXT: Map041/events/30/pages/0/245/Dialogue
+royal guard. 「Is it about this degree, such as a man, a
+man? I can not imagine a human being balanced with Princess
+Alumina. Wonder why victory in martial arts tournament was
+anyway」#MTLed
+> CONTEXT: Commonevents/246/162/Dialogue
+royal guard. 「Is it about this degree, such as a
+man, a man? I can not imagine a human being
+balanced with Princess Alumina.
+Wonder why victory in martial arts tournament was
+anyway」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐにっ、ぐりゅっ、ぐりぐりっ……
+> CONTEXT: Map141/events/4/pages/0/231/Dialogue
+> CONTEXT: Map141/events/37/pages/0/232/Dialogue
+> CONTEXT: Map139/events/2/pages/0/248/Dialogue
+> CONTEXT: Map041/events/27/pages/0/244/Dialogue
+> CONTEXT: Map041/events/26/pages/0/249/Dialogue
+> CONTEXT: Map041/events/28/pages/0/253/Dialogue
+> CONTEXT: Map041/events/29/pages/0/253/Dialogue
+> CONTEXT: Map041/events/30/pages/0/253/Dialogue
+* rub *, kyuruto, * rub * ......#MTLed
+> CONTEXT: Commonevents/246/170/Dialogue
+* rub *, kyuruto, * rub * ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああああぁぁぁっ……！」
+> CONTEXT: Map141/events/4/pages/0/233/Dialogue
+> CONTEXT: Map141/events/37/pages/0/234/Dialogue
+> CONTEXT: Map139/events/2/pages/0/250/Dialogue
+> CONTEXT: Map041/events/27/pages/0/246/Dialogue
+> CONTEXT: Map041/events/26/pages/0/251/Dialogue
+> CONTEXT: Map041/events/28/pages/0/255/Dialogue
+> CONTEXT: Map041/events/29/pages/0/255/Dialogue
+> CONTEXT: Map041/events/30/pages/0/255/Dialogue
+\\N[12]. 「Aaaahhh ... ...!」#MTLed
+> CONTEXT: Commonevents/246/172/Dialogue
+\\N[12]. 「Aaaahhh ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「あげく、女に踏みにじられてこの悲鳴とは……
+どこまでも情けない男だ。
+しかし、勃起しているのはどういうわけだ？」
+> CONTEXT: Map141/events/4/pages/0/236/Dialogue
+> CONTEXT: Map141/events/37/pages/0/237/Dialogue
+> CONTEXT: Map139/events/2/pages/0/253/Dialogue
+> CONTEXT: Map041/events/27/pages/0/249/Dialogue
+> CONTEXT: Map041/events/26/pages/0/254/Dialogue
+> CONTEXT: Map041/events/28/pages/0/258/Dialogue
+> CONTEXT: Map041/events/29/pages/0/258/Dialogue
+> CONTEXT: Map041/events/30/pages/0/258/Dialogue
+royal guard. 「Afterwards, it is a scream by a woman being
+stepped on ... It is a miserable man everywhere.
+But why are you erecting?」#MTLed
+> CONTEXT: Commonevents/246/175/Dialogue
+royal guard. 「Afterwards, it is a scream by a
+woman being stepped on ... It is a miserable man
+everywhere. But why are you erecting?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガードは踏みつける力を緩め、
+ペニスの筋をつま先で柔らかく刺激してくる。
+> CONTEXT: Map141/events/4/pages/0/241/Dialogue
+> CONTEXT: Map141/events/37/pages/0/242/Dialogue
+> CONTEXT: Map139/events/2/pages/0/258/Dialogue
+> CONTEXT: Map041/events/27/pages/0/254/Dialogue
+> CONTEXT: Map041/events/26/pages/0/259/Dialogue
+> CONTEXT: Map041/events/28/pages/0/263/Dialogue
+> CONTEXT: Map041/events/29/pages/0/263/Dialogue
+> CONTEXT: Map041/events/30/pages/0/263/Dialogue
+The royal guard loosens the trampling power,
+I softly stimulate the penis streak with my toes.#MTLed
+> CONTEXT: Commonevents/246/180/Dialogue
+The royal guard loosens the trampling power,
+I softly stimulate the penis streak with my toes.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、あっ、くっ……
+そ、それはっ……」
+> CONTEXT: Map141/events/4/pages/0/244/Dialogue
+> CONTEXT: Map141/events/37/pages/0/245/Dialogue
+> CONTEXT: Map139/events/2/pages/0/261/Dialogue
+> CONTEXT: Map041/events/27/pages/0/257/Dialogue
+> CONTEXT: Map041/events/26/pages/0/262/Dialogue
+> CONTEXT: Map041/events/28/pages/0/266/Dialogue
+> CONTEXT: Map041/events/29/pages/0/266/Dialogue
+> CONTEXT: Map041/events/30/pages/0/266/Dialogue
+\\N[12]. 「Wait, there, ku ...... Well, that is ....」#MTLed
+> CONTEXT: Commonevents/246/183/Dialogue
+\\N[12]. 「Wait, there, ku ......
+Well, that is ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「まさか、この私に対して
+性的興奮を抱いているのではないだろうな」
+> CONTEXT: Map141/events/4/pages/0/248/Dialogue
+> CONTEXT: Map141/events/37/pages/0/249/Dialogue
+> CONTEXT: Map139/events/2/pages/0/265/Dialogue
+> CONTEXT: Map041/events/27/pages/0/261/Dialogue
+> CONTEXT: Map041/events/26/pages/0/266/Dialogue
+> CONTEXT: Map041/events/28/pages/0/270/Dialogue
+> CONTEXT: Map041/events/29/pages/0/270/Dialogue
+> CONTEXT: Map041/events/30/pages/0/270/Dialogue
+royal guard. 「No way against this. I do not think they
+have sexual excitement」#MTLed
+> CONTEXT: Commonevents/246/187/Dialogue
+royal guard. 「No way against this
+I do not think they have sexual excitement」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「……素直に言え。
+この汚らわしいペニスを
+踏み潰してやってもいいのだぞ」
+> CONTEXT: Map141/events/4/pages/0/255/Dialogue
+> CONTEXT: Map141/events/37/pages/0/256/Dialogue
+> CONTEXT: Map139/events/2/pages/0/272/Dialogue
+> CONTEXT: Map041/events/27/pages/0/268/Dialogue
+> CONTEXT: Map041/events/26/pages/0/273/Dialogue
+> CONTEXT: Map041/events/28/pages/0/277/Dialogue
+> CONTEXT: Map041/events/29/pages/0/277/Dialogue
+> CONTEXT: Map041/events/30/pages/0/277/Dialogue
+royal guard. 「... ... To be honest. This dirty penis
+You can crush the stamp」#MTLed
+> CONTEXT: Commonevents/246/194/Dialogue
+royal guard. 「... ... To be honest.
+This dirty penis. You can crush the stamp」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よ、よせっ……
+あ、あんたの脚がすらりとしていて綺麗だし、
+クールな美人って感じて、見とれてる興奮しちまったんだ……」
+> CONTEXT: Map141/events/4/pages/0/260/Dialogue
+> CONTEXT: Map141/events/37/pages/0/261/Dialogue
+> CONTEXT: Map139/events/2/pages/0/277/Dialogue
+> CONTEXT: Map041/events/27/pages/0/273/Dialogue
+> CONTEXT: Map041/events/26/pages/0/278/Dialogue
+> CONTEXT: Map041/events/28/pages/0/282/Dialogue
+> CONTEXT: Map041/events/29/pages/0/282/Dialogue
+> CONTEXT: Map041/events/30/pages/0/282/Dialogue
+\\N[12]. 「Okay. Oh, your legs are slender and beautiful,
+I felt cool beautiful, I was wonderful I got excited ...
+...」#MTLed
+> CONTEXT: Commonevents/246/199/Dialogue
+\\N[12]. 「Okay. Oh, your legs are slender and
+beautiful, I felt cool beautiful, I was wonderful
+I got excited ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「そうか、私の容姿に見とれたか」
+> CONTEXT: Map141/events/4/pages/0/265/Dialogue
+> CONTEXT: Map141/events/37/pages/0/266/Dialogue
+> CONTEXT: Map139/events/2/pages/0/282/Dialogue
+> CONTEXT: Map041/events/27/pages/0/278/Dialogue
+> CONTEXT: Map041/events/26/pages/0/283/Dialogue
+> CONTEXT: Map041/events/28/pages/0/287/Dialogue
+> CONTEXT: Map041/events/29/pages/0/287/Dialogue
+> CONTEXT: Map041/events/30/pages/0/287/Dialogue
+royal guard. 「I see, I was worthy of my appearance」#MTLed
+> CONTEXT: Commonevents/246/204/Dialogue
+royal guard. 「I see, I was worthy of my
+appearance」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐりゅううぅっ！
+> CONTEXT: Map141/events/4/pages/0/269/Dialogue
+> CONTEXT: Map141/events/37/pages/0/270/Dialogue
+> CONTEXT: Map139/events/2/pages/0/286/Dialogue
+> CONTEXT: Map041/events/27/pages/0/282/Dialogue
+> CONTEXT: Map041/events/26/pages/0/287/Dialogue
+> CONTEXT: Map041/events/28/pages/0/291/Dialogue
+> CONTEXT: Map041/events/29/pages/0/291/Dialogue
+> CONTEXT: Map041/events/30/pages/0/291/Dialogue
+Hello!#MTLed
+> CONTEXT: Commonevents/183/163/Dialogue
+> CONTEXT: Commonevents/243/173/Dialogue
+> CONTEXT: Commonevents/246/208/Dialogue
+Hello!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ひぎいいいいぃぃっ！」
+> CONTEXT: Map141/events/4/pages/0/271/Dialogue
+> CONTEXT: Map141/events/37/pages/0/272/Dialogue
+> CONTEXT: Map139/events/2/pages/0/288/Dialogue
+> CONTEXT: Map041/events/27/pages/0/284/Dialogue
+> CONTEXT: Map041/events/26/pages/0/289/Dialogue
+> CONTEXT: Map041/events/28/pages/0/293/Dialogue
+> CONTEXT: Map041/events/29/pages/0/293/Dialogue
+> CONTEXT: Map041/events/30/pages/0/293/Dialogue
+\\N[12]. 「Himeyui ichi!」#MTLed
+> CONTEXT: Commonevents/246/210/Dialogue
+\\N[12]. 「Himeyui ichi!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「私はお前のような弱い男に性欲を向けられても
+軽蔑の感情しか浮かばんな。
+ことに、男の象徴を踏まれて悶えているような男には……」
+> CONTEXT: Map141/events/4/pages/0/274/Dialogue
+> CONTEXT: Map141/events/37/pages/0/275/Dialogue
+> CONTEXT: Map139/events/2/pages/0/291/Dialogue
+> CONTEXT: Map041/events/27/pages/0/287/Dialogue
+> CONTEXT: Map041/events/26/pages/0/292/Dialogue
+> CONTEXT: Map041/events/28/pages/0/296/Dialogue
+> CONTEXT: Map041/events/29/pages/0/296/Dialogue
+> CONTEXT: Map041/events/30/pages/0/296/Dialogue
+royal guard. 「Even though I was libidoed by a weak man
+like you. Only emotions of contempt came.
+Especially for a man who is troubled by a man 's symbolism
+......」#MTLed
+> CONTEXT: Commonevents/246/213/Dialogue
+royal guard. 「Even though I was libidoed by a
+weak man like you. Only emotions of contempt
+came. Especially for a man who is troubled by a
+man 's symbolism ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、あああぁぁぁっ！」
+> CONTEXT: Map141/events/4/pages/0/284/Dialogue
+> CONTEXT: Map141/events/37/pages/0/285/Dialogue
+> CONTEXT: Map139/events/2/pages/0/301/Dialogue
+> CONTEXT: Map041/events/27/pages/0/297/Dialogue
+> CONTEXT: Map041/events/26/pages/0/302/Dialogue
+> CONTEXT: Map041/events/28/pages/0/306/Dialogue
+> CONTEXT: Map041/events/29/pages/0/306/Dialogue
+> CONTEXT: Map041/events/30/pages/0/306/Dialogue
+\\N[12]. 「Wow, Aaahhh!」#MTLed
+> CONTEXT: Commonevents/246/223/Dialogue
+\\N[12]. 「Wow, Aaahhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「ここまでしても勃起したままでいるとは、
+なんという浅ましい男だ。
+このペニスでアルミナ姫を犯したのか、この下郎が」
+> CONTEXT: Map141/events/4/pages/0/287/Dialogue
+> CONTEXT: Map141/events/37/pages/0/288/Dialogue
+> CONTEXT: Map139/events/2/pages/0/304/Dialogue
+> CONTEXT: Map041/events/27/pages/0/300/Dialogue
+> CONTEXT: Map041/events/26/pages/0/305/Dialogue
+> CONTEXT: Map041/events/28/pages/0/309/Dialogue
+> CONTEXT: Map041/events/29/pages/0/309/Dialogue
+> CONTEXT: Map041/events/30/pages/0/309/Dialogue
+royal guard. 「To say that you are still erecting even
+until this point, What an obscene man. Were you committing
+Princess alumina with this penis?」#MTLed
+> CONTEXT: Commonevents/246/226/Dialogue
+royal guard. 「To say that you are still erecting
+even until this point, What an obscene man.
+Were you committing Princess alumina with this
+penis?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐりゅっ、ぐりっ、ぐりっ！
+> CONTEXT: Map141/events/4/pages/0/295/Dialogue
+> CONTEXT: Map141/events/37/pages/0/296/Dialogue
+> CONTEXT: Map139/events/2/pages/0/312/Dialogue
+> CONTEXT: Map041/events/27/pages/0/308/Dialogue
+> CONTEXT: Map041/events/26/pages/0/313/Dialogue
+> CONTEXT: Map041/events/28/pages/0/317/Dialogue
+> CONTEXT: Map041/events/29/pages/0/317/Dialogue
+> CONTEXT: Map041/events/30/pages/0/317/Dialogue
+Guru, guru, guruguri!#MTLed
+> CONTEXT: Commonevents/246/234/Dialogue
+Guru, guru, guruguri!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あがっ、あっ、あああぁぁ……！」
+> CONTEXT: Map141/events/4/pages/0/297/Dialogue
+> CONTEXT: Map141/events/37/pages/0/298/Dialogue
+> CONTEXT: Map139/events/2/pages/0/314/Dialogue
+> CONTEXT: Map041/events/27/pages/0/310/Dialogue
+> CONTEXT: Map041/events/26/pages/0/315/Dialogue
+> CONTEXT: Map041/events/28/pages/0/319/Dialogue
+> CONTEXT: Map041/events/29/pages/0/319/Dialogue
+> CONTEXT: Map041/events/30/pages/0/319/Dialogue
+\\N[12]. 「Ok, there, Aaaahh ... ...!」#MTLed
+> CONTEXT: Commonevents/246/236/Dialogue
+\\N[12]. 「Ok, there, Aaaahh ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガードの足の裏での踏みつけは激しさを増し、
+\\N[12]はあまりの苦痛に目をむいて
+涙とよだれを垂れ流しながら体を悶えさせる。
+> CONTEXT: Map141/events/4/pages/0/300/Dialogue
+> CONTEXT: Map141/events/37/pages/0/301/Dialogue
+> CONTEXT: Map139/events/2/pages/0/317/Dialogue
+> CONTEXT: Map041/events/27/pages/0/313/Dialogue
+> CONTEXT: Map041/events/26/pages/0/318/Dialogue
+> CONTEXT: Map041/events/28/pages/0/322/Dialogue
+> CONTEXT: Map041/events/29/pages/0/322/Dialogue
+> CONTEXT: Map041/events/30/pages/0/322/Dialogue
+The trampling on the soles of the royal guard's foot
+increased intensification, \\N[12] Looking to too much
+pain. I ridicule my body with tears and drool flowing.#MTLed
+> CONTEXT: Commonevents/246/239/Dialogue
+The trampling on the soles of the royal guard's
+foot increased intensification,
+\\N[12] Looking to too much pain
+I ridicule my body with tears and drool flowing.#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「もっと悶え苦しむがいい。
+が、潰すのは勘弁してやろう。
+あくまで、これは女王の試練。お前を壊すのが目的ではない」
+> CONTEXT: Map141/events/4/pages/0/304/Dialogue
+> CONTEXT: Map141/events/37/pages/0/305/Dialogue
+> CONTEXT: Map139/events/2/pages/0/321/Dialogue
+> CONTEXT: Map041/events/27/pages/0/317/Dialogue
+> CONTEXT: Map041/events/26/pages/0/322/Dialogue
+> CONTEXT: Map041/events/28/pages/0/326/Dialogue
+> CONTEXT: Map041/events/29/pages/0/326/Dialogue
+> CONTEXT: Map041/events/30/pages/0/326/Dialogue
+royal guard. 「Struggle more and suffer. But let's not
+crush it. To the end, this is a queen's trial. It is not my
+purpose to break you」#MTLed
+> CONTEXT: Commonevents/246/243/Dialogue
+royal guard. 「Struggle more and suffer.
+But let's not crush it. To the end, this is a
+queen's trial. It is not my purpose to break you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、ううっ」
+> CONTEXT: Map141/events/4/pages/0/309/Dialogue
+> CONTEXT: Map141/events/37/pages/0/310/Dialogue
+> CONTEXT: Map139/events/2/pages/0/326/Dialogue
+> CONTEXT: Map041/events/27/pages/0/322/Dialogue
+> CONTEXT: Map041/events/26/pages/0/327/Dialogue
+> CONTEXT: Map041/events/28/pages/0/331/Dialogue
+> CONTEXT: Map041/events/29/pages/0/331/Dialogue
+> CONTEXT: Map041/events/30/pages/0/331/Dialogue
+\\N[12]. 「Oh, OHh」#MTLed
+> CONTEXT: Commonevents/246/248/Dialogue
+\\N[12]. 「Oh, OHh」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「だが、男として最上級の屈辱は与えてやる。
+女に負けてペニスを踏まれ、
+その相手に見とれたまま、絶頂するがいい！」
+> CONTEXT: Map141/events/4/pages/0/312/Dialogue
+> CONTEXT: Map141/events/37/pages/0/313/Dialogue
+> CONTEXT: Map139/events/2/pages/0/329/Dialogue
+> CONTEXT: Map041/events/27/pages/0/325/Dialogue
+> CONTEXT: Map041/events/26/pages/0/330/Dialogue
+> CONTEXT: Map041/events/28/pages/0/334/Dialogue
+> CONTEXT: Map041/events/29/pages/0/334/Dialogue
+> CONTEXT: Map041/events/30/pages/0/334/Dialogue
+royal guard. 「However, I give the highest grade
+humiliation as a man. Lost by a woman and stepped on a
+penis, Keep watching that opponent, cum too!」#MTLed
+> CONTEXT: Commonevents/246/251/Dialogue
+royal guard. 「However, I give the highest grade
+humiliation as a man. Lost by a woman and stepped
+on a penis, Keep watching that opponent, cum too!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、ロイヤルガードは\\N[12]のペニスを
+擦るように踏みにじり、
+激痛とともに快楽を与えてくる！
+> CONTEXT: Map141/events/4/pages/0/317/Dialogue
+> CONTEXT: Map141/events/37/pages/0/318/Dialogue
+> CONTEXT: Map139/events/2/pages/0/334/Dialogue
+> CONTEXT: Map041/events/27/pages/0/330/Dialogue
+> CONTEXT: Map041/events/26/pages/0/335/Dialogue
+> CONTEXT: Map041/events/28/pages/0/339/Dialogue
+> CONTEXT: Map041/events/29/pages/0/339/Dialogue
+> CONTEXT: Map041/events/30/pages/0/339/Dialogue
+And royal guard \\N[12] Penis of. As I rubbed and
+stepped on, I will give you pleasure with intense pain!#MTLed
+> CONTEXT: Commonevents/246/256/Dialogue
+And royal guard \\N[12] Penis of
+As I rubbed and stepped on, I will give you
+pleasure with intense pain!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こ、これはっ！
+痛いのに、射精感がせり上がって……
+で、出ちまうううぅっ！」
+> CONTEXT: Map141/events/4/pages/0/324/Dialogue
+> CONTEXT: Map141/events/37/pages/0/325/Dialogue
+> CONTEXT: Map139/events/2/pages/0/341/Dialogue
+> CONTEXT: Map041/events/27/pages/0/337/Dialogue
+> CONTEXT: Map041/events/26/pages/0/342/Dialogue
+> CONTEXT: Map041/events/28/pages/0/346/Dialogue
+> CONTEXT: Map041/events/29/pages/0/346/Dialogue
+> CONTEXT: Map041/events/30/pages/0/346/Dialogue
+\\N[12]. 「Here, this! Even though it hurts, the feeling
+of ejaculation rises ... ... So, let 's get out!」#MTLed
+> CONTEXT: Commonevents/246/263/Dialogue
+\\N[12]. 「Here, this! Even though it hurts,
+the feeling of ejaculation rises ... ...
+So, let 's get out!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あうっ、うっ……」
+> CONTEXT: Map141/events/4/pages/0/339/Dialogue
+> CONTEXT: Map141/events/37/pages/0/340/Dialogue
+> CONTEXT: Map139/events/2/pages/0/356/Dialogue
+> CONTEXT: Map041/events/27/pages/0/352/Dialogue
+> CONTEXT: Map041/events/26/pages/0/357/Dialogue
+> CONTEXT: Map041/events/28/pages/0/361/Dialogue
+> CONTEXT: Map041/events/29/pages/0/361/Dialogue
+> CONTEXT: Map041/events/30/pages/0/361/Dialogue
+\\N[12]. 「Ohhhh, uh ......」#MTLed
+> CONTEXT: Commonevents/246/278/Dialogue
+\\N[12]. 「Ohhhh, uh ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「ふん、あれだけ痛がっておいて
+結局は射精してしまうとはな。
+女に踏みにじられて絶頂とは、お前はとんだ変態のようだ」
+> CONTEXT: Map141/events/4/pages/0/342/Dialogue
+> CONTEXT: Map141/events/37/pages/0/343/Dialogue
+> CONTEXT: Map139/events/2/pages/0/359/Dialogue
+> CONTEXT: Map041/events/27/pages/0/355/Dialogue
+> CONTEXT: Map041/events/26/pages/0/360/Dialogue
+> CONTEXT: Map041/events/28/pages/0/364/Dialogue
+> CONTEXT: Map041/events/29/pages/0/364/Dialogue
+> CONTEXT: Map041/events/30/pages/0/364/Dialogue
+royal guard. 「Hmm, that just keeps that pain
+In the end I would like to ejaculate. It is like you are a
+hentai pervert when a woman is trampled on cum」#MTLed
+> CONTEXT: Commonevents/246/281/Dialogue
+royal guard. 「Hmm, that just keeps that pain
+In the end I would like to ejaculate.
+It is like you are a hentai pervert when a woman
+is trampled on cum」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、それは……」
+> CONTEXT: Map141/events/4/pages/0/347/Dialogue
+> CONTEXT: Map141/events/37/pages/0/348/Dialogue
+> CONTEXT: Map139/events/2/pages/0/364/Dialogue
+> CONTEXT: Map041/events/27/pages/0/360/Dialogue
+> CONTEXT: Map145/events/2/pages/1/73/Dialogue
+> CONTEXT: Map147/events/2/pages/20/152/Dialogue
+> CONTEXT: Map041/events/26/pages/0/365/Dialogue
+> CONTEXT: Map041/events/28/pages/0/369/Dialogue
+> CONTEXT: Map041/events/29/pages/0/369/Dialogue
+> CONTEXT: Map041/events/30/pages/0/369/Dialogue
+> CONTEXT: Commonevents/306/35/Dialogue
+\\N[12]. 「Well, that is ......」#MTLed
+> CONTEXT: Commonevents/155/73/Dialogue
+> CONTEXT: Commonevents/246/286/Dialogue
+\\N[12]. 「Well, that is ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガードのすらりとした美麗な肢体を見上げ、
+\\N[12]はそのりりしい美しさに見とれてしまう。
+> CONTEXT: Map141/events/4/pages/0/350/Dialogue
+> CONTEXT: Map141/events/37/pages/0/351/Dialogue
+> CONTEXT: Map139/events/2/pages/0/367/Dialogue
+> CONTEXT: Map041/events/27/pages/0/363/Dialogue
+> CONTEXT: Map041/events/26/pages/0/368/Dialogue
+> CONTEXT: Map041/events/28/pages/0/372/Dialogue
+> CONTEXT: Map041/events/29/pages/0/372/Dialogue
+> CONTEXT: Map041/events/30/pages/0/372/Dialogue
+I looked up at the beautiful limbs with slenderness of the
+royal guard, \\N[12] He can be admired by its beautiful
+beauty.#MTLed
+> CONTEXT: Commonevents/246/289/Dialogue
+I looked up at the beautiful limbs with
+slenderness of the royal guard,
+\\N[12] He can be admired by its beautiful
+beauty.#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「お前のような弱く浅ましい男に
+性欲混じりの目で見つめられ続けるのは不快だな」
+> CONTEXT: Map141/events/4/pages/0/353/Dialogue
+> CONTEXT: Map141/events/37/pages/0/354/Dialogue
+> CONTEXT: Map139/events/2/pages/0/370/Dialogue
+> CONTEXT: Map041/events/27/pages/0/366/Dialogue
+> CONTEXT: Map041/events/26/pages/0/371/Dialogue
+> CONTEXT: Map041/events/28/pages/0/375/Dialogue
+> CONTEXT: Map041/events/29/pages/0/375/Dialogue
+> CONTEXT: Map041/events/30/pages/0/375/Dialogue
+royal guard. 「To a weak and shallow man like you
+It is uncomfortable to keep staring at the eyes of libido」#MTLed
+> CONTEXT: Commonevents/246/292/Dialogue
+royal guard. 「To a weak and shallow man like you
+It is uncomfortable to keep staring at the eyes
+of libido」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐりっ……！
+> CONTEXT: Map141/events/4/pages/0/359/Dialogue
+> CONTEXT: Map141/events/37/pages/0/360/Dialogue
+> CONTEXT: Map139/events/2/pages/0/376/Dialogue
+> CONTEXT: Map041/events/27/pages/0/372/Dialogue
+> CONTEXT: Map041/events/26/pages/0/377/Dialogue
+> CONTEXT: Map041/events/28/pages/0/381/Dialogue
+> CONTEXT: Map041/events/29/pages/0/381/Dialogue
+> CONTEXT: Map041/events/30/pages/0/381/Dialogue
+Guri ......!#MTLed
+> CONTEXT: Commonevents/183/111/Dialogue
+> CONTEXT: Commonevents/243/121/Dialogue
+> CONTEXT: Commonevents/246/298/Dialogue
+Guri ......!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあああぁっ！
+も、もうやめてくれっ！」
+> CONTEXT: Map141/events/4/pages/0/361/Dialogue
+> CONTEXT: Map141/events/37/pages/0/362/Dialogue
+> CONTEXT: Map139/events/2/pages/0/378/Dialogue
+> CONTEXT: Map041/events/27/pages/0/374/Dialogue
+> CONTEXT: Map041/events/26/pages/0/379/Dialogue
+> CONTEXT: Map041/events/28/pages/0/383/Dialogue
+> CONTEXT: Map041/events/29/pages/0/383/Dialogue
+> CONTEXT: Map041/events/30/pages/0/383/Dialogue
+\\N[12]. 「No! AAah. Do not give up already!」#MTLed
+> CONTEXT: Commonevents/246/300/Dialogue
+\\N[12]. 「No! AAah. Do not give up already!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「女に負けておきながら、
+その女にペニスを踏みにじられて射精し、
+屈辱を悔しがるでもなく性欲を向けてくるとは……
+> CONTEXT: Map141/events/4/pages/0/365/Dialogue
+> CONTEXT: Map141/events/37/pages/0/366/Dialogue
+> CONTEXT: Map139/events/2/pages/0/382/Dialogue
+> CONTEXT: Map041/events/27/pages/0/378/Dialogue
+> CONTEXT: Map041/events/26/pages/0/383/Dialogue
+> CONTEXT: Map041/events/28/pages/0/387/Dialogue
+> CONTEXT: Map041/events/29/pages/0/387/Dialogue
+> CONTEXT: Map041/events/30/pages/0/387/Dialogue
+royal guard. 「While losing to a woman, The woman was
+caught in the penis and ejaculated, To say that I will
+liberate sexual despair of humiliation ......#MTLed
+> CONTEXT: Commonevents/246/304/Dialogue
+royal guard. 「While losing to a woman,
+The woman was caught in the penis and ejaculated,
+To say that I will liberate sexual despair of
+humiliation ......#MTLed
+> END STRING
+
+> BEGIN STRING
+まったく、弱いだけでなく恥知らずな男だ。
+この有様で王族になろうなどと、思い上がったものだな。
+私の前から、さっさと失せるがいい」
+> CONTEXT: Map141/events/4/pages/0/370/Dialogue
+> CONTEXT: Map141/events/37/pages/0/371/Dialogue
+> CONTEXT: Map139/events/2/pages/0/387/Dialogue
+> CONTEXT: Map041/events/27/pages/0/383/Dialogue
+> CONTEXT: Map041/events/26/pages/0/388/Dialogue
+> CONTEXT: Map041/events/28/pages/0/392/Dialogue
+> CONTEXT: Map041/events/29/pages/0/392/Dialogue
+> CONTEXT: Map041/events/30/pages/0/392/Dialogue
+Not to mention weakness, it is a shameless man.
+I thought that it would be a royal family like this.
+Before I can lose it quickly」#MTLed
+> CONTEXT: Commonevents/246/309/Dialogue
+Not to mention weakness, it is a shameless man.
+I thought that it would be a royal family like
+this. Before I can lose it quickly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ、く、くそっ……」
+> CONTEXT: Map141/events/4/pages/0/374/Dialogue
+> CONTEXT: Map141/events/37/pages/0/375/Dialogue
+> CONTEXT: Map139/events/2/pages/0/391/Dialogue
+> CONTEXT: Map041/events/27/pages/0/387/Dialogue
+> CONTEXT: Map041/events/26/pages/0/392/Dialogue
+> CONTEXT: Map041/events/28/pages/0/396/Dialogue
+> CONTEXT: Map041/events/29/pages/0/396/Dialogue
+> CONTEXT: Map041/events/30/pages/0/396/Dialogue
+\\N[12]. 「OHh, damn ... damn」#MTLed
+> CONTEXT: Commonevents/246/313/Dialogue
+\\N[12]. 「OHh, damn ... damn」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は女ロイヤルガードに敗れ、
+ペニスを蹂躙されて無理やり射精させられて
+追い返されてしまった……
+> CONTEXT: Map141/events/4/pages/0/378/Dialogue
+> CONTEXT: Map141/events/37/pages/0/379/Dialogue
+> CONTEXT: Map139/events/2/pages/0/395/Dialogue
+> CONTEXT: Map041/events/27/pages/0/391/Dialogue
+> CONTEXT: Map041/events/26/pages/0/396/Dialogue
+> CONTEXT: Map041/events/28/pages/0/400/Dialogue
+> CONTEXT: Map041/events/29/pages/0/400/Dialogue
+> CONTEXT: Map041/events/30/pages/0/400/Dialogue
+\\N[12] He was defeated by a woman royal guard,
+I was forced to ejaculate by being overrunning the penis
+I was repelled ...#MTLed
+> CONTEXT: Commonevents/246/317/Dialogue
+\\N[12] He was defeated by a woman royal
+guard, I was forced to ejaculate by being
+overrunning the penis. I was repelled ...#MTLed
+> END STRING
+
+> BEGIN STRING
+『ジャマな柵は取っ払っといてあげたよ』
+と書いてある。
+> CONTEXT: Map141/events/21/pages/0/0/Dialogue
+"I took away the jammed fence.". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あいつら……
+なかなか、ありがたいことをしてくれるじゃないか」
+> CONTEXT: Map141/events/21/pages/0/3/Dialogue
+\\N[12]. 「Those people ... It is quite easy to do
+things that are appreciated」#MTLed
+> END STRING
+
+> BEGIN STRING
+サフィスジュエルを手に入れた！
+> CONTEXT: Map141/events/31/pages/0/10/Dialogue
+I got a saw jewel!#MTLed
+> END STRING
+
+> BEGIN STRING
+神々の羽を手に入れた！
+> CONTEXT: Map141/events/38/pages/0/9/Dialogue
+> CONTEXT: Map114/events/14/pages/0/9/Dialogue
+> CONTEXT: Map116/events/19/pages/0/9/Dialogue
+> CONTEXT: Map105/events/13/pages/0/9/Dialogue
+> CONTEXT: Map100/events/4/pages/0/9/Dialogue
+> CONTEXT: Map103/events/17/pages/0/9/Dialogue
+> CONTEXT: Map004/events/15/pages/0/9/Dialogue
+I got the feathers of the gods!#MTLed
+> END STRING

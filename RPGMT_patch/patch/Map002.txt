@@ -1,0 +1,1096 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+レストンの村
+> CONTEXT: Map002/display_name/
+Village of Reston#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「うーん、今日はいまいちだな……
+もっと上流で釣りしてえなあ」
+> CONTEXT: Map002/events/1/pages/0/0/Dialogue
+> CONTEXT: Map002/events/1/pages/1/0/Dialogue
+old fisherman. 「Well, I do not like today.
+You should fish upstream more」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なあ、おじさん。ちょっといいかい？」
+> CONTEXT: Map002/events/1/pages/1/4/Dialogue
+\\N[12]. 「Hey, old man. A little good?」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「ん？　おお、\\N[12]じゃねぇか。
+どうしたんだい」
+> CONTEXT: Map002/events/1/pages/1/10/Dialogue
+old fisherman. 「Hmm? Oh, \\N[12] Is not it?
+what's up」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「じつは、ちょっと聞きたいことがあってさ」
+> CONTEXT: Map002/events/1/pages/1/14/Dialogue
+\\N[12]. 「Well, there is something I want to ask a bit」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はレストラン店主の依頼の件について説明した。
+> CONTEXT: Map002/events/1/pages/1/17/Dialogue
+\\N[12] I explained about the request of the restaurant
+owner's request.#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「ほほう、\\N[12]は王都でギルドに参加してんのか。
+いつの間にか立派なことをするようになったじゃねぇか」
+> CONTEXT: Map002/events/1/pages/1/19/Dialogue
+old fisherman. 「hohoh, \\N[12] He is a kingdom and is
+participating in the guild? I guess I got to do good things
+before I knew」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いやぁ、そこまで立派ってこともないって。
+それで、どうかな。ダイントラウトって魚、捕れるかい？」
+> CONTEXT: Map002/events/1/pages/1/23/Dialogue
+\\N[12]. 「Well, he said there was nothing to be worth
+it. So, how about it? Can you catch fish with dyne trout?」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「おう、ダイントラウトはこのへんの川じゃよく釣れるぜ。
+レストンのあたりから海にかけて多いんだよ。
+魔力を体内に集める習性があるおかげで身が引き締まっててウマイぜ」
+> CONTEXT: Map002/events/1/pages/1/27/Dialogue
+old fisherman. 「Oh, dyne trout can catch well on this
+river. There are many from around Reston to the sea.
+Thanks to the habit of collecting magical powers in the
+body, I got tight and appetizing」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「以前はよく、釣ったダイントラウトを行商人に頼んで
+王都に売りに行ってもらってたぜ。
+洞窟が盗賊団によって閉鎖されて、それもできなくなっちまったが」
+> CONTEXT: Map002/events/1/pages/1/32/Dialogue
+old fisherman. 「Before, well, I asked the peddler a caught
+dyne trout. I was going to sell it to the kingdom.
+The cave was closed by the thief group, and it became
+impossible」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「やっぱり、王都に魚を送っていたのはおじさんだったのか。
+それなら話は早いぜ、洞窟の盗賊団はもう俺が退治したからな」
+> CONTEXT: Map002/events/1/pages/1/37/Dialogue
+\\N[12]. 「After all it was the old man who was sending
+fish to the kingdom. If that is the case, the cave bandits
+are already got rid of me」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「そうだったのか、そりゃすげぇな。
+それじゃ、また魚を王都に売ることができるわけだな」
+> CONTEXT: Map002/events/1/pages/1/41/Dialogue
+old fisherman. 「Was it so? Well that's fine.
+Well then, we can also sell fish to the kingdom」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そういうこと。
+アーロンさんのレストランに、また納品してもらえるかな」
+> CONTEXT: Map002/events/1/pages/1/45/Dialogue
+\\N[12]. 「Such thing. I wonder if I can deliver it to
+Aaron-san's restaurant again」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「川魚は捕るが、しかしそのレストランのことは俺は知らないな。
+俺ぁあくまで行商人に魚を預けるだけだからよ。
+魚の納品先については、行商人に話を通してくれ」
+> CONTEXT: Map002/events/1/pages/1/49/Dialogue
+old fisherman. 「I catch river fish, but I do not know
+about that restaurant. Because I only trust the fish to the
+peddler. Regarding the delivery destination of the fish,
+please tell the peddler」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そっか、なるほど。
+で、その行商人ってのはどこに？」
+> CONTEXT: Map002/events/1/pages/1/54/Dialogue
+\\N[12]. 「Oh, I see. So where is that peddler?」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「道具屋にいるはずだぜ。
+洞窟の閉鎖のせいで途方に暮れて、ずっとあの店にいるんだ。
+お前の話を聞かせてやれば、きっと喜ぶだろうさ」
+> CONTEXT: Map002/events/1/pages/1/58/Dialogue
+old fisherman. 「You should be in a tool store.
+I'm at a loss for a long time because of the closure of the
+cave. I will be pleased if you tell me your story」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかった。サンキュ、おじさん」
+> CONTEXT: Map002/events/1/pages/1/63/Dialogue
+\\N[12]. 「all right. thanks, old man」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「おう\\N[12]。
+行商人なら道具屋にいるはずだぜ」
+> CONTEXT: Map002/events/1/pages/2/0/Dialogue
+old fisherman. 「Ou \\N[12] . If you are a peddler you
+ought to be in a tool store」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「おう\\N[12]、
+さっそく行商人がやってきてダイントラウトを持って行ったぜ。
+今後もどんどん釣って王都に売るぜ」
+> CONTEXT: Map002/events/1/pages/3/0/Dialogue
+old fisherman. 「Ou \\N[12] , A peddler came and brought
+a dyne trout. I will fish more and more in the future and
+sell it to the kingdom」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そういやおじさん、もうひとつ聞いてもいいかな」
+> CONTEXT: Map002/events/1/pages/3/8/Dialogue
+\\N[12]. 「Okay so old man, may I ask you one more thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「ん、なんだ？」
+> CONTEXT: Map002/events/1/pages/3/11/Dialogue
+old fisherman. 「Why?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「レストランの店主さ、海魚も欲しがってるみたいなんだよ。
+一匹捕って持っていきたいんだが、
+なんか珍しくて美味い魚、知らないか？」
+> CONTEXT: Map002/events/1/pages/3/14/Dialogue
+\\N[12]. 「It seems that they want shop owner of
+restaurant, sea fish too. I want to capture one and bring
+it, Do you not know anything rare and tasty fish?」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「海……海魚かぁ。
+悪いなぁ、そっちは俺、あんまり詳しくねぇんだ。
+海釣りはめったに行かねぇからよ」
+> CONTEXT: Map002/events/1/pages/3/19/Dialogue
+old fisherman. 「Ocean ...... Sea fish. I'm bad, I'm not
+that detailed. Sea fishing seldom went away」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そっかぁ」
+> CONTEXT: Map002/events/1/pages/3/24/Dialogue
+\\N[12]. 「I see」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「海釣りについてなら、村長の家に詳しい使用人が
+いたと思うぜ。聞いてみるといい」
+> CONTEXT: Map002/events/1/pages/3/27/Dialogue
+> CONTEXT: Map002/events/1/pages/4/0/Dialogue
+old fisherman. 「About sea fishing, a servant who is
+familiar with the house of village head. I think that it
+was. You should ask him.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へぇ、そうなのか。
+わかった、村長の家に言ってみるよ」
+> CONTEXT: Map002/events/1/pages/3/31/Dialogue
+\\N[12]. 「Well, is not it? All right, I will tell the
+village head house」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣りおじさん
+「釣りはいいぞ、\\N[12]。
+趣味と実益を兼ねられて、人生が豊かになるんだ」
+> CONTEXT: Map002/events/1/pages/5/0/Dialogue
+old fisherman. 「Fishing is good, \\N[12] .
+It combines hobbies and profits, and life is enriched」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「洞窟の盗賊団、放っておいて大丈夫なのかね……
+いつ村が襲われるか知れたもんじゃないし、
+ちょっと不安だなあ」
+> CONTEXT: Map002/events/2/pages/0/0/Dialogue
+old man. 「Cave bandit team, is it okay to leave me alone
+...? I did not know when the village will be attacked,
+I am a bit worried」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「盗賊団を退治してくれありがとうな、\\N[12]。
+これで安心して畑仕事に精が出せるってもんだ」
+> CONTEXT: Map002/events/2/pages/1/0/Dialogue
+old man. 「Thank you for defeating the bandits, \\N[12] .
+With this, I can say that I can give a refinement to field
+work」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「こんな生け垣じゃなくて、
+もっとちゃんとした防壁とかを作りたいよな。
+魔物も盗賊団も怖いしさ」
+> CONTEXT: Map002/events/3/pages/0/0/Dialogue
+old man. 「This is not a hedge, I'd like to make a more
+secure barrier. Both monster and thieves are scared」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「よう、\\N[12]。
+今日もレストンの村は平和なもんだな」
+> CONTEXT: Map002/events/4/pages/0/0/Dialogue
+Youth. 「Yo, \\N[12] . The village of Reston is peaceful
+today as well.」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「よう、\\N[12]。
+レストンの村は近頃、
+お前の噂で持ち切りだぜ！」
+> CONTEXT: Map002/events/4/pages/1/0/Dialogue
+Youth. 「Yo, \\N[12] . Reston village recently,
+I'm running out with your rumors!」#MTLed
+> END STRING
+
+> BEGIN STRING
+『レストン西広場』
+と書いてある。
+> CONTEXT: Map002/events/5/pages/0/0/Dialogue
+"Reston West Square". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「洞窟の盗賊団？
+そのうち城の騎士団とかが退治してくれるだろ。
+そんなに心配しないでも大丈夫だよ」
+> CONTEXT: Map002/events/9/pages/0/0/Dialogue
+Youth. 「Cave bandits? Of course the Order of the castle
+will get rid of it. You do not have to worry so much.」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「洞窟の盗賊団、退治されたんだってな。
+やっぱりたいした脅威じゃなかったじゃないか。
+王都の騎士団が退治してくれたんだろ？」
+> CONTEXT: Map002/events/9/pages/1/0/Dialogue
+Youth. 「The cave bandits, they were exterminated.
+After all it was not a lot of threats. The Knights of the
+kingdom got rid of it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「え？　\\N[12]がやったって？
+へぇー、そりゃたいしたもんだ。
+そんな根性のある男がこの村にもいたんだなあ」
+> CONTEXT: Map002/events/9/pages/1/5/Dialogue
+Youth. 「Huh? In case \\N[12] Did you do it?
+Well, that's a big deal. A man with such a gut was also in
+this village」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「北の洞窟を抜ければすぐ王都だけど……
+今は洞窟が盗賊団の根城になっちゃってるのよねぇ。
+気軽に行き来できなくて困るわ」
+> CONTEXT: Map002/events/10/pages/0/0/Dialogue
+girl. 「As soon as you pass through the cave in the north,
+it's the capital but ... Now the cave is becoming the root
+for the bandits. I am in trouble because I can not come and
+go easily.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「北の洞窟を抜ければすぐエルミア城よ。
+\\N[12]が盗賊団を退治してくれたし、これでいつでも
+行き来できるわね。本当に助かったわ」
+> CONTEXT: Map002/events/10/pages/1/0/Dialogue
+girl. 「As soon as you pass through the cave in the North,
+Elmier Castle. \\N[12] He got rid of the bandits and
+this was always there. You can come and go. I was really
+saved.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「\\N[12]、武道大会に優勝したんですって？
+すごいわねぇ、
+この村からそんな人が出るだなんて思ってもみなかったわ」
+> CONTEXT: Map002/events/10/pages/2/0/Dialogue
+girl. 「\\N[12] Did you win the martial arts tournament?
+That's amazing, I never thought of such a person from this
+village」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「城下町の武道大会、見に行きたいねー」
+> CONTEXT: Map002/events/11/pages/0/0/Dialogue
+boy. 「I want to go see the martial arts tournament in the
+castle town」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「\\N[12]兄ちゃんも大会に出るんだろ？
+頑張れよなっ！」
+> CONTEXT: Map002/events/11/pages/1/0/Dialogue
+boy. 「\\N[12] Does your brother appear in tournament,
+too? Good luck!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「\\N[12]兄ちゃん、大会優勝したんだって？
+すっげー！　俺も兄ちゃんみたいになれるように頑張るよ！」
+> CONTEXT: Map002/events/11/pages/2/0/Dialogue
+boy. 「\\N[12] Onii-chan, did you win the tournament?
+Wow! I will do my best to be like my brother!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ねー」
+> CONTEXT: Map002/events/12/pages/0/0/Dialogue
+girl. 「No」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「わたし、女の人が男の人に勝つところが見たいなー」
+> CONTEXT: Map002/events/12/pages/1/0/Dialogue
+girl. 「I want to see a woman winning a man」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「\\N[12]おにいちゃん、すっごーい！
+そんけーしちゃうなあ」
+> CONTEXT: Map002/events/12/pages/2/0/Dialogue
+girl. 「\\N[12] Older broth, it's soooo cool!
+I guess」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「村長の家？
+すぐ東にある陰気な色の屋根をした家がそうだぜ。
+お前もこの村の人間なんだから知ってるだろ」
+> CONTEXT: Map002/events/13/pages/0/0/Dialogue
+male. 「The house of village head? It is a house that has a
+roof of a mild color east soon. You know because you are a
+human in this village」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員オーソン
+「仮に盗賊団が攻めてきたとしても
+この橋さえ通さなきゃ村は安全だぜ。
+いざとなったら橋は落とすぜ」
+> CONTEXT: Map002/events/14/pages/0/0/Dialogue
+militia member Orson. 「Even if the bandits attacked
+I have to pass this bridge, but the village is safe.
+Let's drop the bridge at the time」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員オーソン
+「盗賊団がいなくなってひと安心だな。
+これで橋を落とすことを考えなくてもいいんだなあ。
+ありがとうよ、\\N[12]」
+> CONTEXT: Map002/events/14/pages/1/0/Dialogue
+militia member Orson. 「I am relieved that the bandits are
+gone. I do not have to think about dropping the bridge.
+Thank you, \\N[12]」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員オーソン
+「よう、村の英雄さんのご帰還だな！」
+> CONTEXT: Map002/events/14/pages/2/0/Dialogue
+militia member Orson. 「Hello, Mr. Hero of the village is
+returning!」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員マイア
+「この橋を渡れば街道に出るけど、
+魔物には気をつけてね」
+> CONTEXT: Map002/events/15/pages/0/0/Dialogue
+militia member Maia. 「If you cross this bridge, I will be
+on the highway, Be careful with monster」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員マイア
+「この橋を渡れば街道に出るけど、
+魔物には気をつけて……なんて、
+そんなアドバイス、\\N[12]にはいらないか」
+> CONTEXT: Map002/events/15/pages/1/0/Dialogue
+militia member Maia. 「If you cross this bridge, I will be
+on the highway, Be careful with monster ...... How,
+Such advice, \\N[12] Do not go into」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ストレガー
+「村の東は比較的安全な平原が広がっているが、魔物はいる。
+村から出るなら、くれぐれも気をつけてな。
+> CONTEXT: Map002/events/16/pages/0/0/Dialogue
+militia member Strigger. 「A relatively safe plain spreads
+in the east of the village, but the monster goes.
+If you leave the village, be sure to be careful.#MTLed
+> END STRING
+
+> BEGIN STRING
+当然だが、魔物にやられちまったら死んじまうからな。
+そうならないためにも、
+アイテムはちゃんと持って、回復は早めに！　な」
+> CONTEXT: Map002/events/16/pages/0/4/Dialogue
+Naturally, it will die as soon as monster suffers.
+In order not to be so, Hold the items properly, recovery
+soon! What」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「武道大会を勝ち抜ければ褒美は望みのままじゃが、
+敗北した場合、厳しいペナルティがあるという。
+心して臨むことじゃな」
+> CONTEXT: Map002/events/17/pages/0/0/Dialogue
+old man. 「If you survive the martial arts tournament you
+will still have the rewards as you wish,
+It is said that there are severe penalties when defeated.
+It is something to be done by heart.」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「武道大会に優勝するなど、
+よほどの鍛錬と実戦経験を積まねばできぬことじゃ。
+見事じゃったのう、\\N[12]」
+> CONTEXT: Map002/events/17/pages/1/0/Dialogue
+old man. 「To win the martial arts tournament,
+It is impossible if you have experienced practical
+experience and practical training. It was brilliant,
+\\N[12]」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ファナ
+「洞窟の盗賊団って、女の子ばかりだって噂よ。
+本当かしらねぇ」
+> CONTEXT: None < UNUSED
+militia member Fhana. 「It's rumored that girls are just
+cave bandits. I wonder if it's true」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ファナ
+「へー、あの盗賊団って本当に女の子ばかりだったんだ。
+それにしても、\\N[12]もよく一人で退治できたねぇ、
+すごいじゃん」
+> CONTEXT: Map002/events/18/pages/1/0/Dialogue
+militia member Fhana. 「Well, that bandit was really only
+girls. Even so, \\N[12] I could also get rid of alone by
+myself, Amazing.」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「\\N[12]、武道大会に出場する気なんですってね。
+それなら、私を相手に腕試しをしてみる？」
+> CONTEXT: Map002/events/20/pages/0/0/Dialogue
+militia member Jane. 「\\N[12] , I hesitate to
+participate in martial arts tournament. Then try trying out
+your hand against me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「女だと思って甘く見ていると、痛い目を見るわよ？
+さあ、始めましょうか」
+> CONTEXT: Map002/events/20/pages/0/7/Dialogue
+militia member Jane. 「Thinking it was a woman and looking
+sweet, you see painful eyes? Shall we get started?」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「あいたたた……
+やるじゃない、\\N[12]。
+まだまだ、私の腕じゃかなわないみたいね」
+> CONTEXT: Map002/events/20/pages/0/14/Dialogue
+militia member Jane. 「Aitatan ...... Do it. \\N[12] .
+, I guess it's not over my arm」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「これなら大会でも少しは勝てるかも。
+でも、私に勝ったぐらいで満足してちゃダメよ？
+優勝を目指すなら、もっともっと強くならないとね」
+> CONTEXT: Map002/events/20/pages/0/19/Dialogue
+militia member Jane. 「It might be able to win a bit even
+at tournament if this is the case. But do not be satisfied
+with as much as I win. If we aim for the victory, we must
+be strong」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「やったあ、私の勝ちっ！
+ふふっ、どう？　女の子に負けちゃって悔しい？
+> CONTEXT: Map002/events/20/pages/0/29/Dialogue
+> CONTEXT: Map002/events/20/pages/2/27/Dialogue
+militia member Jane. 「Oh my, I win! Huh, how are you? Do
+you regret losing to a girl?#MTLed
+> END STRING
+
+> BEGIN STRING
+悔しかったら、もっと腕を磨くことね。
+私に勝てないようじゃ、武道大会に出たって
+１回戦だって勝ち抜けないわよ？」
+> CONTEXT: Map002/events/20/pages/0/33/Dialogue
+> CONTEXT: Map002/events/20/pages/1/35/Dialogue
+> CONTEXT: Map002/events/20/pages/2/31/Dialogue
+If you regret it, you better brush your arm.
+If you do not win me, you go out to martial arts tournament
+You can not win even in the first round?」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「そう？　残念ね、\\N[12]の腕前、興味あったのに。
+気が向いたらいつでも言ってね」
+> CONTEXT: Map002/events/20/pages/0/43/Dialogue
+militia member Jane. 「so? so sorry, \\N[12] I was
+curious, I was curious. Whenever you feel it, please say it
+anytime」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「あら、\\N[12]。
+また私と勝負したいの？」
+> CONTEXT: Map002/events/20/pages/1/1/Dialogue
+militia member Jane. 「Oh, \\N[12] . Do you want to
+compete with me again?」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「ふふっ、\\N[12]の実力じゃ私には勝てないわよ？
+また女の子に負ける悔しさを味わわせてあげる♪」
+> CONTEXT: Map002/events/20/pages/1/8/Dialogue
+militia member Jane. 「Hehe \\N[12] You can not win
+against my ability? I will also taste the regret that I
+lose to girls♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「あいたたた……
+やるじゃない、\\N[12]。
+ここまで強くなっているなんて思わなかったわ。
+> CONTEXT: Map002/events/20/pages/1/15/Dialogue
+militia member Jane. 「Aitatan ...... Do it. \\N[12] .
+I did not think that it was getting stronger so far.#MTLed
+> END STRING
+
+> BEGIN STRING
+これなら大会でも少しは勝てるかも。
+でも、私に勝ったぐらいで満足してちゃダメよ？
+優勝を目指すなら、もっともっと強くならないとね」
+> CONTEXT: Map002/events/20/pages/1/20/Dialogue
+> CONTEXT: Map002/events/20/pages/2/19/Dialogue
+It might be able to win a bit even at tournament if this is
+the case. But do not be satisfied with as much as I win.
+If we aim for the victory, we must be strong」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「あはっ、また私の勝ちね。
+女の子に連敗しちゃったわね、\\N[12]。
+男の子の力なんて、この程度のものなのかしら？
+> CONTEXT: Map002/events/20/pages/1/30/Dialogue
+militia member Jane. 「Hahah, I also won.
+I lost to a girl streak, \\N[12] . I wonder if the power
+of a boy is this level?#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「あら、女の子に負けるのが怖くて尻込みしちゃったかな？
+男の子がそんなことじゃダメよ、
+いつでもリベンジマッチは受けてあげるから、頑張って♪」
+> CONTEXT: Map002/events/20/pages/1/46/Dialogue
+militia member Jane. 「Oh, I wonder if I am afraid of
+losing to a girl and have gone down? Boys can not do such a
+thing, I will accept revenge matches anytime, so do your
+best♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「あ、\\N[12]、また私と勝負しない？」
+> CONTEXT: Map002/events/20/pages/2/1/Dialogue
+militia member Jane. 「Ah, \\N[12] Would you like to
+compete with me again?」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「今度は前回のようにはいかないわよ～
+女の子の力、見せてあげるんだから」
+> CONTEXT: Map002/events/20/pages/2/7/Dialogue
+militia member Jane. 「It will not be like the previous one
+this time ~. I will show you the power of a girl」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「ああ、また負けちゃった。
+やっぱり\\N[12]、強いわねぇ。
+さすが男の子、っていうところかしら。
+> CONTEXT: Map002/events/20/pages/2/14/Dialogue
+militia member Jane. 「Oh, I lost again. As expected
+\\N[12] Hey, hey. I wonder if it is a boy, as expected.#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+「えーっ、勝ち逃げはずるいよぉ
+忙しいならしょうがないけど、またリベンジマッチ
+挑ませてよね」
+> CONTEXT: Map002/events/20/pages/2/42/Dialogue
+militia member Jane. 「Well, the winning is not easy
+If you are busy, there is no use, but also a revenge match
+You can challenge」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「\\N[12]、やる気あるわねぇ。
+そうやって臆することなく挑んでくる感じ、
+私はいいなって思うわよ」
+> CONTEXT: Map002/events/20/pages/3/0/Dialogue
+Jane. 「\\N[12] , Motivational Wayne. I felt like
+challenging without doing so, I think I'm okay」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうか？」
+> CONTEXT: Map002/events/20/pages/3/5/Dialogue
+> CONTEXT: Map043/events/24/pages/7/96/Dialogue
+\\N[12]. 「Is that so?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「うん。あの武者修行の女の子に負けたときは、
+しょげちゃって情けないなって思ってたけど、
+あれでくじけないのはたいしたものだと思うわ」
+> CONTEXT: Map002/events/20/pages/3/8/Dialogue
+Jane. 「Yup. When losing to that girl of warrior training,
+I thought I was shameful and shameful, I think that it is a
+big deal that does not get you down」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、あれは情けなかったな……
+でも、悔しい思いをしたまま黙っていたら
+それこそ男として終わりだろうって思うしさ」
+> CONTEXT: Map002/events/20/pages/3/13/Dialogue
+\\N[12]. 「Oh, I was miserable ... ... But if I keep
+silent while feeling frustrated. I guess it is the end as a
+man」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「そういう根性を見込んで、あなたにひとつ技を教えてあげる。
+一人旅をするなら是非覚えておきたい剣技よ」
+> CONTEXT: Map002/events/20/pages/3/18/Dialogue
+Jane. 「In anticipation of such guts, I will teach you one
+technique. Sword skill you want to remember if you travel
+alone」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は 薙ぎ払い を習得した！
+> CONTEXT: Map002/events/20/pages/3/24/Dialogue
+\\N[12] I mastered the wayard!#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「複数の敵を同時に攻撃できるから、
+モンスター相手のときに重宝すると思うわ」
+> CONTEXT: Map002/events/20/pages/3/26/Dialogue
+Jane. 「Since you can simultaneously attack multiple
+enemies, I think it will be useful in monster opponents」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おおっ、サンキュ。
+こいつは助かるぜ」
+> CONTEXT: Map002/events/20/pages/3/30/Dialogue
+\\N[12]. 「Oh, thanks. This guy is saved.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「この村の男は団長を筆頭に情けないのが多いけれど……
+\\N[12]は武道大会に出るとか言い出すだけでも凄いし、
+その心意気、私は応援させてもらうわね」
+> CONTEXT: Map002/events/20/pages/3/34/Dialogue
+Jane. 「Man in this village is often miserable led by
+headmaster ... ... \\N[12] It is amazing just to come
+out to martial arts tournament, That spirit, I will support
+you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おう！
+優勝できるように頑張ってくるぜ」
+> CONTEXT: Map002/events/20/pages/3/39/Dialogue
+\\N[12]. 「Oh! I will do my best to win the championship.
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「うん、頑張って。
+ちなみに私は王都の出身なのよ、
+武道大会、今年は見に行きたいなぁ」
+> CONTEXT: Map002/events/20/pages/3/43/Dialogue
+Jane. 「Yes, do your best. By the way, I'm from Kingdom
+capital, Martial arts tournament, I want to go see this
+year」#MTLed
+> END STRING
+
+> BEGIN STRING
+扉に鍵がかかっている。
+> CONTEXT: Map002/events/21/pages/0/1/Dialogue
+There is a lock on the door.#MTLed
+> END STRING
+
+> BEGIN STRING
+『開かずの扉の鍵』で
+この扉を開けることができるようだ――
+> CONTEXT: Map002/events/21/pages/1/0/Dialogue
+With "the door key without opening". It seems like you can
+open this door -#MTLed
+> END STRING
+
+> BEGIN STRING
+※この中は回想部屋になっております。
+作中に登場する、Hシーンの存在する女性キャラと
+自由に戦ったり、Hシーンを鑑賞することができます。
+> CONTEXT: None < UNUSED
+※ This is a reminiscence room. Appearing in the work, with
+female characters with H scene. You can fight freely and
+watch H scenes.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただし、一度入ったらゲーム本編に復帰することは
+二度とできません。
+中に入った後にセーブする際は、
+もう出ることができない、ということに留意の上で行ってください。
+> CONTEXT: None < UNUSED
+However, once entering the game will return to the main
+volume. I can not do it again. When saving after entering
+inside, Please keep in mind that you can not go out
+anymore.#MTLed
+> END STRING
+
+> BEGIN STRING
+扉を開け、中に入りますか？
+> CONTEXT: Map002/events/21/pages/1/14/Dialogue
+Open the door and enter inside?#MTLed
+> END STRING
+
+> BEGIN STRING
+開けない
+> CONTEXT: Map002/events/21/pages/1/17/Choice/0
+> CONTEXT: Map002/events/21/pages/1/17/Choice/0
+I can not open it.#MTLed
+> END STRING
+
+> BEGIN STRING
+開ける
+> CONTEXT: Map002/events/21/pages/1/17/Choice/1
+> CONTEXT: Map002/events/21/pages/1/17/Choice/1
+Open#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「女の子の下着が欲しい……
+手に入れて持ってきてくれれば、
+お礼に面白いものをやるぜ？」
+> CONTEXT: Map002/events/29/pages/0/0/Dialogue
+Youth. 「I want a girls underwear ... If you get it and get
+it, Why do not you have fun things to say?」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「……なあ、\\N[12]。
+その女盗賊の下着、譲ってくれないか？
+かわりに、この家の鍵をやるからさ」
+> CONTEXT: Map002/events/29/pages/1/0/Dialogue
+Youth. 「Come on, \\N[12] . Woman thief underwear, can
+you hand it over? Instead, I will do the key of this house.
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+下着を渡す
+> CONTEXT: Map002/events/29/pages/1/6/Choice/0
+Pass underwear#MTLed
+> END STRING
+
+> BEGIN STRING
+渡さない
+> CONTEXT: Map002/events/29/pages/1/6/Choice/1
+Do not hand it over.#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「ホントか？
+ありがとう、\\N[12]。
+じゃあ、鍵をやるよ」
+> CONTEXT: Map002/events/29/pages/1/8/Dialogue
+Youth. 「realy? Thank you, \\N[12] . Well, I'll do the
+key」#MTLed
+> END STRING
+
+> BEGIN STRING
+開かずの扉の鍵を手に入れた！
+> CONTEXT: Map002/events/29/pages/1/16/Dialogue
+I got the key of the door without opening!#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「この家の扉、誰も開けることができないだろ？
+だけど、この鍵があれば開けられるんだ。
+> CONTEXT: Map002/events/29/pages/1/18/Dialogue
+Youth. 「The door of this house, anyone can not open it, do
+you? But, if you have this key you can open it.#MTLed
+> END STRING
+
+> BEGIN STRING
+中は\\C[2]回想部屋\\C[0]になっている。
+\\C[2]一度入ったらもう二度と出てこられない\\C[0]から、気をつけろよな。
+冒険はせず、女の子とのHシーンやフリー戦闘を楽しみたい、
+っていう場合だけ、足を踏み入れてくれ」
+> CONTEXT: Map002/events/29/pages/1/22/Dialogue
+Inside\\C[2] Reminiscent room\\C[0] It has become.
+\\C[2]Once I get it I can not come back again\\C[0] Take care from
+yourself. I do not adventure, I want to enjoy H scenes with
+free girls and free battle, Just when you say, step on foot
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「この家の扉、誰も開けることができないだろ？
+だけど、お前にやったその鍵があれば開けられるんだ。
+> CONTEXT: Map002/events/29/pages/2/0/Dialogue
+Youth. 「The door of this house, anyone can not open it, do
+you? But you can open that key you've done if you do.#MTLed
+> END STRING
+
+> BEGIN STRING
+中は\\C[2]回想部屋\\C[0]になっている。
+\\C[2]一度入ったら二度と出てこられない\\C[0]から、気をつけろよな。
+冒険はせず、Hシーンやフリー戦闘がしたい、
+っていう場合だけ、足を踏み入れてくれ」
+> CONTEXT: Map002/events/29/pages/2/4/Dialogue
+Inside\\C[2] Reminiscent room\\C[0] It has become.
+\\C[2]Once I get it I can not come back again\\C[0] Take care from
+yourself. I do not adventure, I want to play H scenes and
+free battle, Just when you say, step on foot」#MTLed
+> END STRING
+
+> BEGIN STRING
+『自警団詰め所
+住民だけでなく、旅の方のご相談も歓迎です！』
+と書いてある。
+> CONTEXT: Map002/events/35/pages/0/0/Dialogue
+"Vigilant watch team. Consultation not only for residents
+but also for travelers is welcome! ". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「この川の源流は、王国北端のディラント高原。
+そこから南へと、王国の隅々まで潤すように流れていき、
+最後にこの村を通って東の海へと注いでいるのよ」
+> CONTEXT: Map002/events/60/pages/0/0/Dialogue
+Woman. 「The source of this river is the Dirant plateau at
+the northern end of the kingdom. From there to the south,
+it flows so as to moisturize every corner of the kingdom,
+Finally, through this village and poured into the east sea」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員
+「うわっ、帰ってきたんだ」
+> CONTEXT: Map002/events/61/pages/0/4/Dialogue
+militia member. 「Wow, they came back.」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員
+「それ以上近づかないでくれる？
+変態ロリコン男」
+> CONTEXT: Map002/events/61/pages/0/10/Dialogue
+militia member. 「Can you not move any closer?
+Metamorphosis Petite Man」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「おめでとー、\\N[12]！」
+> CONTEXT: Map002/events/62/pages/0/3/Dialogue
+Youth. 「Congratulations, \\N[12] !」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員
+「\\N[12]はレストンの誇りだぜ！」
+> CONTEXT: Map002/events/62/pages/0/7/Dialogue
+militia member. 「\\N[12] I am proud of Reston!」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員
+「あの姫様に勝っちゃうなんて、
+\\N[12]ったら凄すぎ！」
+> CONTEXT: Map002/events/62/pages/0/11/Dialogue
+militia member. 「To win that princess, \\N[12] It is
+amazing!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「す、すげえな。
+こんなに祝福してもらえるとは」
+> CONTEXT: Map002/events/62/pages/0/15/Dialogue
+\\N[12]. 「That's great. It is said to be blessed so much
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「そりゃー、武道大会優勝ともなれば
+こうなるのが当然でしょう」
+> CONTEXT: Map002/events/62/pages/0/22/Dialogue
+Jane. 「If it becomes the winner and the martial arts
+tournament winner. It will be natural to become like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「東の街道には、基本的には何もないぜー
+王都に行くんなら北の街道しか道はない。
+> CONTEXT: Map002/events/72/pages/0/0/Dialogue
+Youth. 「Basically there is nothing in the east road
+If you are going to the Kingdom, there is only one road in
+the north.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ、東の街道を行って海岸までたどり着けば
+もしかしたら、面白いものが見つかるかもしれない……
+ま、かなり腕を上げないと無理だとは思うがね」
+> CONTEXT: Map002/events/72/pages/0/4/Dialogue
+Just go through the eastern highway and reach the coast
+Maybe you can find interesting things ......
+Well, I think that it is impossible unless you raise your
+arm quite a bit」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ファナ
+「洞窟の盗賊団って、女の子ばかりだって噂よ。
+本当だとしたら、ちょっと凄いわよねぇ」
+> CONTEXT: Map002/events/18/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+※この中は回想部屋になっております。
+作中に登場する、Hシーンの存在する女性キャラと
+自由に戦ったり、Hシーンを鑑賞することができます。
+また、現在の状態を引き継いでニューゲームを始めることも可能です。
+> CONTEXT: Map002/events/21/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただし、一度入ったら現在プレイ中のゲーム本編に
+復帰することはできません。
+中に入った後にセーブする際は、
+もう出ることができない、ということに留意の上で行ってください。
+> CONTEXT: Map002/events/21/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING

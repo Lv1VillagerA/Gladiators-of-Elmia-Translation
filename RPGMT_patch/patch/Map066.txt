@@ -1,0 +1,457 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+地下牢
+> CONTEXT: Map066/display_name/
+Dungeon#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「地下牢には罪人が閉じ込められております。
+会話ぐらいはしてもよろしいですが、
+変なことはしないようにしてくださいね」
+> CONTEXT: Map066/events/3/pages/0/0/Dialogue
+A soldier. 「Sinners are confined in the dungeon.
+You may do as much as a conversation, Please do not do
+strange things」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「\\N[12]選手はお優しいですな。
+あのような盗賊ども、しばらく牢に入れておいたほうが
+世のためと存じますが……」
+> CONTEXT: Map066/events/3/pages/1/0/Dialogue
+A soldier. 「\\N[12] The players are gentle.
+Those thieves who put it in prison for a while
+I assume it is for the world ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「地下牢の罪人とは、鉄格子越しに話をすることが
+できますよ。
+罪人の正面に立って話しかけてみてください」
+> CONTEXT: Map066/events/4/pages/0/0/Dialogue
+A soldier. 「It is a thing to talk over a grid of irons
+with a sinner of a dungeon. I can do it.
+Please stand in front of the sinner and talk to him」#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「なんだァ、てめぇ……
+見せもんじゃねぇぞ」
+> CONTEXT: Map066/events/7/pages/0/0/Dialogue
+scary-looking man. 「What is it? You can not see it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「牢番がいねぇな……
+なにかあったのか？」
+> CONTEXT: Map066/events/7/pages/1/0/Dialogue
+scary-looking man. 「There is a suspicious daughter ......
+What happened?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あっ、あんた！」
+> CONTEXT: Map066/events/11/pages/1/2/Dialogue
+Bandit Girl. 「Oh, you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「おにーさんじゃん、やっほー」
+> CONTEXT: Map066/events/11/pages/1/16/Dialogue
+bandit teen. 「Ok, my job」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「あらあら、わざわざ私たちに会いにきてくれたの？」
+> CONTEXT: Map066/events/11/pages/1/19/Dialogue
+sexy bandit. 「oh no, expressly came to see us?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、そういうわけじゃないが……
+本当に捕まってたんだな、お前ら」
+> CONTEXT: Map066/events/11/pages/1/22/Dialogue
+\\N[12]. 「No, it's not like that .... You were really
+being caught, you guys」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ふん、だからどうしたってのよ。
+あたしらが捕まってるところを見物して
+笑いにでも来たわけ？」
+> CONTEXT: Map066/events/11/pages/1/26/Dialogue
+Bandit Girl. 「Hmm, so what's the matter.
+Watch over where we are caught. You came even to laugh?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まあ、少しはこれで反省してくれればいいとは
+思ってるけどな」
+> CONTEXT: Map066/events/11/pages/1/31/Dialogue
+\\N[12]. 「Well, somewhat it is good to reflect on this
+I am thinking.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「もう充分反省したよぉ～
+ねぇ、おにいさん、ここから出してくんない？
+もうあんなことしないからさぁ」
+> CONTEXT: Map066/events/11/pages/1/35/Dialogue
+bandit teen. 「I've reviewed enough of it already ~
+Hey, good luck, have you taken out of here?
+I will not do that anymore」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え？
+いや、そんなこと言われても」
+> CONTEXT: Map066/events/11/pages/1/40/Dialogue
+\\N[12]. 「Huh? No, even if such a thing is told」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「お頭を慕うあまり暴走しちゃったけれど、
+これからは心を入れ替えるから、出してくれないかしら？
+えっちなことをしてもいいから、ね？」
+> CONTEXT: Map066/events/11/pages/1/44/Dialogue
+sexy bandit. 「Although I cared for my head I went too much
+out of control, I will change my mind from now on, so may I
+take it out? You can do something obviously, are not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……
+い、いや、しかし……」
+> CONTEXT: Map066/events/11/pages/1/49/Dialogue
+\\N[12]. 「Wow .... No, no, but ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あたしは別に、お願いなんてしないけど。
+でも、出してくれたらもうあんたに危害は加えないって
+約束してもいいよ」
+> CONTEXT: Map066/events/11/pages/1/53/Dialogue
+Bandit Girl. 「I do not ask you otherwise.
+But if you let me out, I will not add any harm to you
+anymore. You can promise me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ど、どうしよう？）
+> CONTEXT: Map066/events/11/pages/1/58/Dialogue
+\\N[12]. (What should I do?#MTLed
+> END STRING
+
+> BEGIN STRING
+出す
+> CONTEXT: Map066/events/11/pages/1/61/Choice/0
+> CONTEXT: Map066/events/11/pages/2/8/Choice/0
+put out#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あの、看守さん。
+この三人、出してやってくれますか？」
+> CONTEXT: Map066/events/11/pages/1/65/Dialogue
+> CONTEXT: Map066/events/11/pages/2/12/Dialogue
+\\N[12]. 「Um, the guard. Can these three people please
+get out?」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「あなたは武道大会に出ている\\N[12]選手ですね？
+この三人は武道大会の進行を妨げようとした罪人です、
+大会の信用にかかわりますし、出すわけにはまいりません」
+> CONTEXT: Map066/events/11/pages/1/69/Dialogue
+> CONTEXT: Map066/events/11/pages/2/18/Dialogue
+A soldier. 「You are out on martial arts tournament
+\\N[12] You are a player, are not you? These three are
+sinners who tried to hinder the progress of martial arts
+tournament, It involves the credibility of tournament and I
+can not afford to give it out」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そこを曲げてお願いします。
+被害者の俺としても、もうこの三人の頭目と話をつけてますし
+これ以上、罰を与えなくても問題ないんですよ」
+> CONTEXT: Map066/events/11/pages/1/74/Dialogue
+> CONTEXT: Map066/events/11/pages/2/23/Dialogue
+\\N[12]. 「Please bend it. As a victim I already have
+talked with the heads of these three people
+No problem without punishing any more」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「ふむ……少々お待ちください」
+> CONTEXT: Map066/events/11/pages/1/79/Dialogue
+> CONTEXT: Map066/events/11/pages/2/28/Dialogue
+A soldier. 「Hmm ... Please wait a moment.」#MTLed
+> END STRING
+
+> BEGIN STRING
+～数十分後～
+> CONTEXT: Map066/events/11/pages/1/90/Dialogue
+> CONTEXT: Map066/events/11/pages/2/39/Dialogue
+~ A few tens of minutes later ~#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「お待たせいたしました。
+被害者が解放の意向であるのならば、それに従うべき
+と上も言っておりますので、解放することにいたしましょう」
+> CONTEXT: Map066/events/11/pages/1/101/Dialogue
+A soldier. 「Sorry to keep you waiting. If the victim is
+intending to release, it should follow it
+I'm telling you that, let's release it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとうございます、
+すみません、手間を取らせてしまって」
+> CONTEXT: Map066/events/11/pages/1/106/Dialogue
+> CONTEXT: Map066/events/11/pages/2/54/Dialogue
+\\N[12]. 「Thank you, I'm sorry, I have to take time and
+effort」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「いえいえ。
+それでは、失礼いたします」
+> CONTEXT: Map066/events/11/pages/1/110/Dialogue
+> CONTEXT: Map066/events/11/pages/2/58/Dialogue
+A soldier. 「. Well then, I will excuse you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「三人とも出ろ！
+被害者の\\N[12]選手の意向により、恩赦とする！
+彼に感謝するんだぞ！」
+> CONTEXT: Map066/events/11/pages/1/134/Dialogue
+> CONTEXT: Map066/events/11/pages/2/82/Dialogue
+A soldier. 「Both of us get out! The victim's \\N[12]
+Depending on the intention of the players, we will take
+pardon! Please thank him!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うーん……
+やっぱりやめておく。
+きっちりと反省してもらいたいしな」
+> CONTEXT: Map066/events/11/pages/1/144/Dialogue
+> CONTEXT: Map066/events/11/pages/2/92/Dialogue
+\\N[12]. 「Well ... Stop it. I would like you to reflect
+it exactly」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「なんだい、ドケチ！」
+> CONTEXT: Map066/events/11/pages/1/150/Dialogue
+> CONTEXT: Map066/events/11/pages/2/98/Dialogue
+Bandit Girl. 「How do you do, Dookie!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「あっ、おにいさん！
+出してくれる気になった？」
+> CONTEXT: Map066/events/11/pages/2/4/Dialogue
+bandit teen. 「Oh, a big brother! Did you become interested
+in taking out?」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「お待たせいたしました。
+被害者が解放の意向であるのならば、それに従うべき
+とのことでしたので、解放することにいたしましょう」
+> CONTEXT: Map066/events/11/pages/2/49/Dialogue
+A soldier. 「Sorry to keep you waiting. If the victim is
+intending to release, it should follow it
+So it was time to release it」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あんたが優勝したんだってね。
+たいしたもんだよ、
+あたしらの妨害なんて通用するはずもなかったわけだ。
+> CONTEXT: Map066/events/11/pages/3/0/Dialogue
+Bandit Girl. 「You said you won the championship.
+It's a big deal, Our interference was never acceptable.#MTLed
+> END STRING
+
+> BEGIN STRING
+しっかし、あたしらはいつ出してもらえるやら……」
+> CONTEXT: Map066/events/11/pages/3/5/Dialogue
+I can not wait to see you ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お前ら、やっぱりまだここに捕まってたか！」
+> CONTEXT: Map066/events/11/pages/5/2/Dialogue
+\\N[12]. 「You guys were still caught here yet!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あんた、\\N[12]じゃないか。
+なんでこんなトコに？」
+> CONTEXT: Map066/events/11/pages/5/13/Dialogue
+Bandit Girl. 「You, \\N[12] is not it. Why are you into
+this kind of toko?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「話は後だ、とにかくここから出してやるからな」
+> CONTEXT: Map066/events/11/pages/5/17/Dialogue
+\\N[12]. 「The story is back, I will put out from here
+anyway」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「え、助けてくれるの？　どうして？」
+> CONTEXT: Map066/events/11/pages/5/20/Dialogue
+bandit teen. 「Will you help me? why?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「詳しく説明してる暇はないが、
+俺はベルベットに助けてもらったんでな。
+その礼に、お前らを助けることになったんだ」
+> CONTEXT: Map066/events/11/pages/5/23/Dialogue
+\\N[12]. 「I do not have time to explain in detail,
+I got Velvet to help me. To that end, I decided to help you
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、開いた」
+> CONTEXT: Map066/events/11/pages/5/31/Dialogue
+\\N[12]. 「Okay, opened.」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「助けてくれるのは嬉しいけれど、
+坊やはどうするのかしら？」
+> CONTEXT: Map066/events/11/pages/5/34/Dialogue
+sexy bandit. 「I am glad to help you, I wonder what the boy
+will do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺にはまだ、やることがあるんだ。
+今、城中は兵士がたくさんうろついてるが、
+それらは俺を狙ってる。
+> CONTEXT: Map066/events/11/pages/5/38/Dialogue
+\\N[12]. 「I still have something to do. Now, in the
+castle there are a lot of soldiers hanging around,
+They are aiming at me.#MTLed
+> END STRING
+
+> BEGIN STRING
+お前らなら、俺に兵士たちが襲いかかってくる隙に
+脱出もできるだろう」
+> CONTEXT: Map066/events/11/pages/5/43/Dialogue
+If you are, in the moment the soldiers attack me
+You can also escape」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「それはたぶん、だいじょうぶだけど。
+おにいさんは平気なの？」
+> CONTEXT: Map066/events/11/pages/5/46/Dialogue
+bandit teen. 「Perhaps, it is all right. Are your old
+people scary?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まあな。
+とにかく、あとはうまく逃げてくれ。
+ベルベットに礼を言っといてくれよな」
+> CONTEXT: Map066/events/11/pages/5/50/Dialogue
+\\N[12]. 「Well. Anyway, please escape well.
+Please give thanks to velvet」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「わかったよ、ありがと。
+今さらだけど、武道大会のとき
+あんたを襲撃したこと、悪かったね」
+> CONTEXT: Map066/events/11/pages/5/55/Dialogue
+Bandit Girl. 「Ok, thanks. Although it is now, when the
+martial arts tournament. It was bad that you attacked you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ま、いいさ。
+達者でやれよ、三人とも」
+> CONTEXT: Map066/events/11/pages/5/60/Dialogue
+\\N[12]. 「Well, good. Be a good master, both of us」#MTLed
+> END STRING
+
+> BEGIN STRING
+盗賊三人組を救出した！
+> CONTEXT: Map066/events/11/pages/5/65/Dialogue
+We rescued thieves threesome!#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「いやー、まいったまいった。
+武道大会で痴漢しようとしたら女兵士に捕まってしまったよ。
+だが、女兵士と密着できて少し嬉しかったなあ、うへへ」
+> CONTEXT: Map066/events/16/pages/0/0/Dialogue
+Youth. 「Well, I have not made it before.
+I was caught by a female soldier if I tried to mourn in
+martial arts tournament. However, I was a little happy to
+be able to get in close contact with female soldiers, hey」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「なんだか、ものものしい雰囲気だね。
+なにかあったのかな？」
+> CONTEXT: Map066/events/16/pages/1/0/Dialogue
+Youth. 「It is kind of awful atmosphere. I wonder what
+happened?」#MTLed
+> END STRING

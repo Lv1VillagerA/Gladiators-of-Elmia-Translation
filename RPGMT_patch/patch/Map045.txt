@@ -1,0 +1,348 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エルミア王立学院　1階
+> CONTEXT: Map045/display_name/
+Royal College of Elmia 1st floor#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「この学院で講義を受ければ、
+聴講生でも魔法のひとつくらいは
+覚えることができると思うわよ」
+> CONTEXT: Map045/events/2/pages/0/0/Dialogue
+A student. 「If you take a lecture at this
+academy, Even in the audience one of the magic is
+I think you can remember it」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「学生食堂は安いわりにウマい！
+俺は毎日ここで三食済ませてるぜ！」
+> CONTEXT: Map045/events/3/pages/0/0/Dialogue
+A student. 「Student cafeteria is cheap for cheap!
+I have finished three meals here everyday!」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「ここのご飯も素朴でおいしいけれど、
+街の南端にあるアーロンハウスっていうレストランにも
+たまには行ってみたいなぁ。絶品って評判だし」
+> CONTEXT: Map045/events/5/pages/0/0/Dialogue
+A student. 「Rice here is also nice and tasty,
+Also at the Aaron House at the southern end of the city
+Sometimes I want to go. It's a reputation for excellence」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「あなた聴講に来たの？
+なら、最初は2階の一番東の教室で
+講義を受けてみるといいわよ」
+> CONTEXT: Map045/events/8/pages/0/0/Dialogue
+A student. 「Did you come to audition? If so, the first
+classroom in the east of the second floor
+You should take a lecture」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばちゃん
+「いらっしゃい。
+学生じゃなくても、食事は自由に取れるよ。
+注文があったら言ってちょうだい」
+> CONTEXT: Map045/events/9/pages/0/0/Dialogue
+Aunt. 「welcome. Even if you are not a student, you can
+have your meal at ease. Please say it when you have an
+order」#MTLed
+> END STRING
+
+> BEGIN STRING
+受付
+「王立学院へ、ようこそいらっしゃいました。
+どの講座も聴講は自由となっておりますので、
+ご興味があればぜひ各教室へどうぞ」
+> CONTEXT: Map045/events/10/pages/0/0/Dialogue
+> CONTEXT: Map045/events/10/pages/1/0/Dialogue
+Receptionist. 「Welcome to the Royal College.
+Since any lecture is auditor free, If you are interested,
+please go to each classroom」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へぇ、自由に講義を受けられるのか。
+勉強には縁がなかったし、
+気が向いたら教室に行ってみようかな？」
+> CONTEXT: Map045/events/10/pages/0/5/Dialogue
+\\N[12]. 「Well, can you give lectures freely?
+I did not have a connection to study, Would you like to go
+to the classroom if you feel like it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+教師
+「ここは一般教養を学ぶための教室です。
+学院の中でも、外部からの聴講生が多い講座ですな」
+> CONTEXT: Map045/events/11/pages/0/0/Dialogue
+Instructor. 「This is a classroom to learn general culture.
+Even in the academy, there are many lecturers from outside」#MTLed
+> END STRING
+
+> BEGIN STRING
+教師
+「ここは一般教養を学ぶための教室です。
+学院の中でも、外部からの聴講生が多い講座ですな。
+あなたもぜひ、またお越しください」
+> CONTEXT: Map045/events/11/pages/1/0/Dialogue
+Instructor. 「This is a classroom to learn general culture.
+Even in the academy, it is a lecture with many audiences
+from outside. You are welcome to come again.」#MTLed
+> END STRING
+
+> BEGIN STRING
+講師
+「ここは魔法学について学ぶ講座です。
+魔法も、正しい知識を習得してこそ正しい効果を発揮できますし、
+実践の前の座学も大切なんですよ」
+> CONTEXT: Map045/events/12/pages/0/0/Dialogue
+Lecturer. 「This is a course to learn about magic.
+Magic is also the right effect can be demonstrated by
+mastering correct knowledge, The classroom before practice
+is also important」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「あー
+座学なんかより、さっさと魔法ぶっぱなしてぇ～」
+> CONTEXT: Map045/events/13/pages/0/0/Dialogue
+A student. 「Ah ~. From lectures or something, I will not
+leave magic once more ~」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「魔法は暴走の危険もあるというし、
+正しい理論を学んでからでないとね」
+> CONTEXT: Map045/events/14/pages/0/0/Dialogue
+A student. 「Magic is said to have a danger of runaway,
+I have to learn the correct theory」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「高度な魔法を習得するには、
+実践だけでなく理論を知っていることが不可欠だ。
+この講座は学院の中でも特に重要だと思うよ」
+> CONTEXT: Map045/events/15/pages/0/0/Dialogue
+A student. 「To master advanced magic, It is essential to
+know the theory as well as practice. I think this course is
+particularly important in the academy」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「基礎知識をおろそかにしてはいけない。
+高等な知識を得るためにも、
+この講座がすべての基本となるだろうね」
+> CONTEXT: Map045/events/16/pages/0/0/Dialogue
+A student. 「Do not neglect basic knowledge.
+In order to obtain higher knowledge, This course will be
+the basis for everything」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「俺は制服を着てないことからも分かると思うが
+正式に入学していない。
+だけど、市民なら聴講だけは自由にできるんだぜ」
+> CONTEXT: Map045/events/17/pages/0/0/Dialogue
+Youth. 「I think that I can understand it from not wearing
+a uniform. I have not officially enrolled.
+However, if you are a citizen, you can only listen to them
+freely」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「はやく専門的な講座に移りたいなぁ……」
+> CONTEXT: Map045/events/18/pages/0/0/Dialogue
+A student. 「I want to quickly move to a specialized
+lecture ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「武道大会を見に他国から来たけれど、
+この国はこんな立派な学院があるのね。
+ここで知識を得ることのほうが主目的になりそうだわ」
+> CONTEXT: Map045/events/20/pages/0/0/Dialogue
+Woman. 「I came from another country to see the martial
+arts tournament, This country has such a wonderful school.
+Getting the knowledge here is likely to be the main purpose
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+教師
+「魔法の実技は空き教室を使って教えておりますが、
+できれば専用の施設が欲しいですね。
+あと、体育館も増設してもらいたい。あと……」
+> CONTEXT: Map045/events/21/pages/0/0/Dialogue
+Instructor. 「Magical practical skills are taught using
+empty classrooms, I would like a private facility if
+possible. Also, I would like the gymnasium to be expanded.
+after……」#MTLed
+> END STRING
+
+> BEGIN STRING
+教師
+「そんなに予算がおりるとは思えませんけど……
+現実的な要望をしたほうがよいのでは？」
+> CONTEXT: Map045/events/22/pages/0/0/Dialogue
+Instructor. 「I do not think that the budget is so much ...
+... Why should we do realistic requests?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シスター
+「神学の講座もありますので、教会から派遣されてきました。
+若者に神の教えを説くことができるだなんて、
+とても素晴らしい場を与えていただいたと感じておりますわ」
+> CONTEXT: Map045/events/23/pages/0/0/Dialogue
+Sister. 「Since there is a theology course, it has been
+dispatched from the church. I can preach the teachings of
+God to young people, I think that you gave me a very
+wonderful place」#MTLed
+> END STRING
+
+> BEGIN STRING
+校長
+「エルミア王立学院は、国民に知を行き渡らせることを
+目的として創立されました。
+あなたも、よろしければ講義を受けていってくだされ」
+> CONTEXT: Map045/events/24/pages/0/0/Dialogue
+> CONTEXT: Map043/events/119/pages/0/0/Dialogue
+head teacher. 「The Royal Academy of Elmia is committed to
+making the knowledge spread to the people
+It was founded as a purpose. You too, if you do not mind,
+take a lecture」#MTLed
+> END STRING
+
+> BEGIN STRING
+『職員室』
+と書いてある。
+> CONTEXT: Map045/events/25/pages/0/0/Dialogue
+"Staff room". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+『食堂』
+と書いてある。
+> CONTEXT: Map045/events/26/pages/0/0/Dialogue
+> CONTEXT: Map031/events/11/pages/0/0/Dialogue
+"Dining room". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「勉強って、すごく楽しいのねぇ。
+もっと若い頃に学院に通ってみたかったわぁ」
+> CONTEXT: Map045/events/27/pages/0/0/Dialogue
+Woman. 「Studying is a lot of fun. I wanted to go to the
+academy at a younger age」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「ラウンジで学友とダベる。
+これもまた学生生活の醍醐味だよね」
+> CONTEXT: Map045/events/28/pages/0/0/Dialogue
+A student. 「Dave with alumnus in the lounge.
+This is also the real pleasure of student life ne」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「授業の合間のひと休み……
+次は魔法理論の講座に行かなきゃ」
+> CONTEXT: Map045/events/29/pages/0/0/Dialogue
+A student. 「Temporary break between classes ......
+Next we have to go to the magic theory course」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今日はここの授業を受けるか？」
+> CONTEXT: Map045/events/30/pages/0/7/Dialogue
+> CONTEXT: Map045/events/31/pages/0/7/Dialogue
+\\N[12]. 「Do you take a lesson here today?」#MTLed
+> END STRING
+
+> BEGIN STRING
+講師
+「今日も魔法の理論を学んでいきましょう。
+まず、魔法の仕組みの根本を解説していきますが……」
+> CONTEXT: Map045/events/30/pages/0/18/Dialogue
+Lecturer. 「Let's learn the theory of magic today as well.
+First of all, I will explain the fundamentals of magic
+system ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の魔法力と魔法防御力が５上がった！
+> CONTEXT: Map045/events/30/pages/0/27/Dialogue
+\\N[12] The magical power and the magic defense power of
+5 went up!#MTLed
+> END STRING
+
+> BEGIN STRING
+講師
+「えー、エルミア王国の産業と経済について……」
+> CONTEXT: Map045/events/31/pages/0/18/Dialogue
+Lecturer. 「Er, About the industry and economy of the Elmia
+kingdom ... ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は知識を得た！
+> CONTEXT: Map045/events/31/pages/0/26/Dialogue
+\\N[12] I gained knowledge!#MTLed
+> END STRING
+
+> BEGIN STRING
+教師
+「いろいろな授業を熱心に受けていただき、
+私ども教師一同、心より感謝いたします。
+ささやかですが、記念品をお受け取りください」
+> CONTEXT: Map045/events/31/pages/0/31/Dialogue
+Instructor. 「We received enthusiastic lessons,
+Thank you for all my instructors. Please accept a little
+souvenir though it is modest」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、どうも」
+> CONTEXT: Map045/events/31/pages/0/36/Dialogue
+\\N[12]. 「Oh, huh」#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア王立学園の学生証を貰った！
+> CONTEXT: Map045/events/31/pages/0/41/Dialogue
+I got a student ID card at the Elmia Royal College!#MTLed
+> END STRING
+
+> BEGIN STRING
+教師
+「エルミア王立学園は、広く国民に知を広めることを
+目的としております。
+ぜひ、また足をお運びくださいね」
+> CONTEXT: Map045/events/31/pages/0/43/Dialogue
+Instructor. 「Royal School of Elmia, broadly spreading
+knowledge to the people. It is the purpose.
+Please do carry your feet again」#MTLed
+> END STRING

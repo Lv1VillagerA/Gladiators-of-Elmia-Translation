@@ -1,0 +1,370 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ミリーナ
+> CONTEXT: Map023/events/7/pages/0/0/Dialogue
+Mileena#MTLed
+> CONTEXT: Actors/16/name/
+> CONTEXT: Enemies/111/name/
+> CONTEXT: Enemies/154/name/
+> CONTEXT: Map152/events/24/pages/6/700/Label
+> CONTEXT: Map152/events/24/pages/6/777/Label
+> CONTEXT: Troops/200/name/
+> CONTEXT: Map043/events/24/pages/6/701/Label
+> CONTEXT: Map043/events/24/pages/6/778/Label
+> CONTEXT: Enemies/163/name/
+Mileena#MTLed
+> END STRING
+
+> BEGIN STRING
+勃起ポイント表示
+> CONTEXT: Map023/events/12/pages/0/0/Dialogue
+Erection point display#MTLed
+> END STRING
+
+> BEGIN STRING
+\\V[5]
+> CONTEXT: Map023/events/12/pages/0/4/Dialogue
+\\V[5]#MTLed
+> END STRING
+
+> BEGIN STRING
+モンスターテストする？
+> CONTEXT: Map023/events/21/pages/0/0/Dialogue
+Do you test a monster?#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリンバット
+> CONTEXT: Map023/events/21/pages/0/2/Choice/1
+Goblin Butt#MTLed
+> END STRING
+
+> BEGIN STRING
+蜂
+> CONTEXT: Map023/events/21/pages/0/2/Choice/2
+bee#MTLed
+> END STRING
+
+> BEGIN STRING
+スライム２
+> CONTEXT: Map023/events/21/pages/0/2/Choice/3
+Slime 2#MTLed
+> END STRING
+
+> BEGIN STRING
+なぎ払い
+> CONTEXT: Map023/events/22/pages/0/0/Dialogue
+Nagashiro#MTLed
+> END STRING
+
+> BEGIN STRING
+MPを１にする？
+> CONTEXT: Map023/events/23/pages/0/0/Dialogue
+Make MP 1?#MTLed
+> END STRING
+
+> BEGIN STRING
+レベルを上下させられるよ
+> CONTEXT: Map023/events/24/pages/0/0/Dialogue
+You can level up and down#MTLed
+> END STRING
+
+> BEGIN STRING
+上げる
+> CONTEXT: Map023/events/24/pages/0/2/Choice/0
+increase#MTLed
+> END STRING
+
+> BEGIN STRING
+下げる
+> CONTEXT: Map023/events/24/pages/0/2/Choice/1
+To lower#MTLed
+> END STRING
+
+> BEGIN STRING
+MPを10にする？？
+> CONTEXT: Map023/events/25/pages/0/0/Dialogue
+Will MP be 10? What?#MTLed
+> END STRING
+
+> BEGIN STRING
+HPを下げる？
+> CONTEXT: Map023/events/27/pages/0/0/Dialogue
+Lower HP?#MTLed
+> END STRING
+
+> BEGIN STRING
+性感度を上げる？
+> CONTEXT: Map023/events/33/pages/0/0/Dialogue
+Increase sexual sensitivity?#MTLed
+> END STRING
+
+> BEGIN STRING
+勃起する？
+> CONTEXT: Map023/events/34/pages/0/0/Dialogue
+Erect?#MTLed
+> END STRING
+
+> BEGIN STRING
+イエロースライム
+> CONTEXT: Map023/events/39/pages/0/0/Dialogue
+Yellow slime#MTLed
+> CONTEXT: Enemies/66/name/
+Yellow slime#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ここは私と一緒に行くバランスのダンジョンの敵だし、
+私を仲間にする？」
+> CONTEXT: Map023/events/43/pages/0/0/Dialogue
+Purim. 「This is the enemy of the balance dungeon who goes
+with me, Do you want me to join you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+入れる
+> CONTEXT: Map023/events/43/pages/0/4/Choice/0
+Put in#MTLed
+> END STRING
+
+> BEGIN STRING
+外す
+> CONTEXT: Map023/events/43/pages/0/4/Choice/1
+remove#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムを適正レベルにする
+> CONTEXT: Map023/events/43/pages/0/4/Choice/2
+Set Purim to the appropriate level#MTLed
+> END STRING
+
+> BEGIN STRING
+なにもしない
+> CONTEXT: Map023/events/43/pages/0/4/Choice/3
+do nothing#MTLed
+> END STRING
+
+> BEGIN STRING
+イエロースライム２
+> CONTEXT: Map023/events/44/pages/0/0/Dialogue
+Yellow slime 2#MTLed
+> END STRING
+
+> BEGIN STRING
+人食いｗ
+> CONTEXT: Map023/events/48/pages/0/0/Dialogue
+Man eating w#MTLed
+> END STRING
+
+> BEGIN STRING
+かわす
+> CONTEXT: Map023/events/51/pages/0/5/Choice/0
+> CONTEXT: Commonevents/85/5/Choice/0
+> CONTEXT: Commonevents/86/15/Choice/0
+> CONTEXT: Commonevents/92/5/Choice/0
+> CONTEXT: Commonevents/135/12/Choice/0
+> CONTEXT: Commonevents/139/12/Choice/0
+> CONTEXT: Commonevents/143/12/Choice/0
+> CONTEXT: Commonevents/192/11/Choice/0
+> CONTEXT: Commonevents/284/12/Choice/0
+> CONTEXT: Commonevents/288/20/Choice/0
+> CONTEXT: Commonevents/288/20/Choice/0
+> CONTEXT: Commonevents/311/12/Choice/0
+> CONTEXT: Commonevents/311/12/Choice/0
+To dodge#MTLed
+> END STRING
+
+> BEGIN STRING
+受け止める
+> CONTEXT: Map023/events/51/pages/0/5/Choice/1
+> CONTEXT: Commonevents/85/5/Choice/1
+> CONTEXT: Commonevents/86/15/Choice/1
+> CONTEXT: Commonevents/92/5/Choice/1
+> CONTEXT: Commonevents/135/12/Choice/1
+> CONTEXT: Commonevents/139/12/Choice/1
+> CONTEXT: Commonevents/143/12/Choice/1
+> CONTEXT: Commonevents/192/11/Choice/1
+> CONTEXT: Commonevents/284/12/Choice/1
+> CONTEXT: Commonevents/288/20/Choice/1
+> CONTEXT: Commonevents/288/20/Choice/1
+> CONTEXT: Commonevents/311/12/Choice/1
+> CONTEXT: Commonevents/311/12/Choice/1
+To accept#MTLed
+> END STRING
+
+> BEGIN STRING
+サンプル１
+> CONTEXT: Map023/events/51/pages/0/5/Choice/2
+Sample 1#MTLed
+> END STRING
+
+> BEGIN STRING
+サンプル２
+> CONTEXT: Map023/events/51/pages/0/5/Choice/3
+Sample 2#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリン２
+> CONTEXT: Map023/events/52/pages/0/0/Dialogue
+Goblin 2#MTLed
+> END STRING
+
+> BEGIN STRING
+装備とレベルを
+王都到着時の推奨状態にする？
+> CONTEXT: Map023/events/57/pages/0/0/Dialogue
+Equipment and level. Are you in the recommended state at
+the arrival of the Kingdom?#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会決勝トーナメントレベルにする？
+> CONTEXT: Map023/events/57/pages/0/16/Dialogue
+> CONTEXT: Map023/events/81/pages/0/8/Dialogue
+Martial arts tournament Make it to the finals tournament
+level?#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+> CONTEXT: Map023/events/60/pages/0/0/Dialogue
+> CONTEXT: Map023/events/92/pages/0/0/Dialogue
+alumina#MTLed
+> CONTEXT: Enemies/39/name/
+> CONTEXT: Enemies/109/name/
+> CONTEXT: Enemies/112/name/
+> CONTEXT: Enemies/122/name/
+Alumina#MTLed
+> END STRING
+
+> BEGIN STRING
+剣あげる
+> CONTEXT: Map023/events/61/pages/0/0/Dialogue
+Give a sword#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナノーマル
+> CONTEXT: Map023/events/62/pages/0/0/Dialogue
+Diana Normal#MTLed
+> END STRING
+
+> BEGIN STRING
+マリーカ
+> CONTEXT: Map023/events/65/pages/0/0/Dialogue
+> CONTEXT: Troops/205/name/
+Mallik#MTLed
+> CONTEXT: Enemies/52/name/
+Mallik#MTLed
+> END STRING
+
+> BEGIN STRING
+女不良
+> CONTEXT: Map023/events/67/pages/0/0/Dialogue
+Woman fault#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士
+> CONTEXT: Map023/events/70/pages/0/0/Dialogue
+Female soldier#MTLed
+> CONTEXT: Enemies/120/name/
+> CONTEXT: Enemies/121/name/
+> CONTEXT: Enemies/123/name/
+> CONTEXT: Enemies/141/name/
+> CONTEXT: Enemies/190/name/
+> CONTEXT: Enemies/191/name/
+> CONTEXT: Enemies/199/name/
+> CONTEXT: Enemies/200/name/
+> CONTEXT: Troops/204/name/
+> CONTEXT: Enemies/217/name/
+> CONTEXT: Enemies/220/name/
+Female soldier#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤル
+> CONTEXT: Map023/events/71/pages/0/0/Dialogue
+Royal#MTLed
+> END STRING
+
+> BEGIN STRING
+見習い
+> CONTEXT: Map023/events/72/pages/0/0/Dialogue
+apprentice#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+> CONTEXT: Map023/events/76/pages/0/0/Dialogue
+Purim#MTLed
+> CONTEXT: Actors/15/name/
+> CONTEXT: Enemies/103/name/
+> CONTEXT: Enemies/137/name/
+> CONTEXT: Enemies/138/name/
+> CONTEXT: Enemies/139/name/
+> CONTEXT: Enemies/140/name/
+> CONTEXT: Enemies/142/name/
+> CONTEXT: Enemies/152/name/
+> CONTEXT: Enemies/180/name/
+> CONTEXT: Enemies/181/name/
+> CONTEXT: Troops/199/name/
+> CONTEXT: Enemies/210/name/
+> CONTEXT: Enemies/221/name/
+> CONTEXT: Enemies/228/name/
+Purim#MTLed
+> CONTEXT: Commonevents/283/10/Dialogue
+Purim#MTLed
+> END STRING
+
+> BEGIN STRING
+大会優勝にする？
+> CONTEXT: Map023/events/81/pages/0/0/Dialogue
+Turnament to win?#MTLed
+> END STRING
+
+> BEGIN STRING
+改良版プリムテスト
+> CONTEXT: Map023/events/82/pages/0/0/Dialogue
+Improved Purim test#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ誘惑
+> CONTEXT: Map023/events/83/pages/0/0/Dialogue
+Diana temptation#MTLed
+> END STRING
+
+> BEGIN STRING
+三人組
+> CONTEXT: Map023/events/84/pages/0/0/Dialogue
+Threesome#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ改良版
+> CONTEXT: Map023/events/85/pages/0/0/Dialogue
+Mileena improved version#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン改良版
+> CONTEXT: Map023/events/86/pages/0/0/Dialogue
+Jane improved version#MTLed
+> END STRING
+
+> BEGIN STRING
+女王
+> CONTEXT: Map023/events/88/pages/0/0/Dialogue
+The queen#MTLed
+> END STRING
+
+> BEGIN STRING
+女王服破れVer
+> CONTEXT: Map023/events/90/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/91/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

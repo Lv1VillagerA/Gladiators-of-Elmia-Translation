@@ -1,0 +1,142 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エルミア西海道
+> CONTEXT: None < UNUSED
+Elmia Saikai road#MTLed
+> END STRING
+
+> BEGIN STRING
+『北：ディラント高原
+南西：レヴァストゥの森入口
+東：王都』
+> CONTEXT: None < UNUSED
+"North: Dirant Plateau. Southwest: Levastou's forest
+entrance. East: The Kingdom "#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「西の街道から北のディラント高原にかけては
+魔物が活性化していますので、お気をつけください。
+街道沿いは比較的安全ですので、外れないことをお勧めします」
+> CONTEXT: Map073/events/7/pages/0/0/Dialogue
+A soldier. 「From the western highway to the north Dirant
+plateau. Since monster is activated, please be careful.
+Because it is relatively safe along the highway, we
+recommend not to come off」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「すみません、西の街道に魔物が発生しているって
+聞いたんですけど」
+> CONTEXT: Map073/events/7/pages/1/0/Dialogue
+\\N[12]. 「I'm sorry, I heard that a monster is
+occurring on the west road. I heard it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「ギルドの方ですか？
+はい、西から北西の街道にかけて、街道を塞ぐくらいに
+凶暴な魔物が現れているんです。
+> CONTEXT: Map073/events/7/pages/1/4/Dialogue
+A soldier. 「Are you guild? Yes, across the road from the
+west to the northwest, to close the highway
+A ferocious monster is appearing.#MTLed
+> END STRING
+
+> BEGIN STRING
+現状、王国軍でも見つけ次第退治しておりますが、
+我々だけでは手が回らない状況です。
+手をお貸しいただけるなら、とても助かります」
+> CONTEXT: Map073/events/7/pages/1/9/Dialogue
+The current situation, even the King's army has found up as
+soon as it finds out, It is a situation where we can not
+reach by hand alone. If you can lend a hand, it will be
+very helpful」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました。
+その、発生している凶暴な魔物っていうのは
+普通の魔物と区別できるんですか？」
+> CONTEXT: Map073/events/7/pages/1/13/Dialogue
+\\N[12]. 「understood. That ferocious monster that is
+occurring is. Can you distinguish it from ordinary monster?
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「はい、近づいてみればすぐに分かると思います。
+ちなみに、女性型の魔物は男性には危険ですから、
+充分に気をつけて戦ってください」
+> CONTEXT: Map073/events/7/pages/1/18/Dialogue
+A soldier. 「Yes, I think you will know soon as you
+approach it. By the way, female monster is dangerous for
+men, Please be careful enough and fight」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、分かりました。
+それじゃ、協力させてもらいます」
+> CONTEXT: Map073/events/7/pages/1/23/Dialogue
+\\N[12]. 「Ok, I understand. Then I will cooperate with
+you」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「凶暴化した魔物は、怒りの意志を発していますから
+普通の魔物と区別がつきやすいと思います」
+> CONTEXT: Map073/events/7/pages/2/0/Dialogue
+A soldier. 「Because monster who became ferocious is
+willing to anger. I think that it is easy to distinguish
+from an ordinary monster」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「ウィギスへの街道はほぼ安全になりました。
+道を外れると魔物が生息しておりますので、ご注意ください」
+> CONTEXT: Map073/events/7/pages/3/0/Dialogue
+A soldier. 「The road to Wigheis has become almost safe.
+Since the monster inhabits as it goes out of the way,
+please be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ちわっす、街道に陣取ってた魔物は
+あらかた片付けておきました」
+> CONTEXT: Map073/events/7/pages/4/0/Dialogue
+\\N[12]. 「Chisun, monster who came up on the highway
+I left it tidy up」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「それは素晴らしい。
+ご協力ありがとうございます。
+あとは、我々が残存する魔物を掃討しておきますので」
+> CONTEXT: Map073/events/7/pages/4/4/Dialogue
+A soldier. 「It's great. Thanks for your cooperation.
+Afterwards, we will clean up the remaining monster」#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア西街道
+> CONTEXT: Map073/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『北：ディラント高原
+南西：レヴァスティの森入口
+東：王都』
+> CONTEXT: Map073/events/1/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

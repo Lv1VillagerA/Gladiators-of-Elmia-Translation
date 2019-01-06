@@ -1,0 +1,157 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ティシアの家
+> CONTEXT: Map048/display_name/
+Titia's House#MTLed
+> END STRING
+
+> BEGIN STRING
+ティシア
+「こんにちは。
+最近、地下水道から変な物音がして困るわ。
+息子も怖がっているし……」
+> CONTEXT: Map048/events/4/pages/0/0/Dialogue
+> CONTEXT: Map048/events/4/pages/1/0/Dialogue
+Titia. 「Hello. Recently, I have trouble getting
+strange sounds from the underground water supply.
+My son is also scared ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そのことについて、ギルドに依頼を出されましたよね？
+俺、依頼を受け負った\\N[12]っていいます、
+詳しい話を聞かせていただきたいんですが」
+> CONTEXT: Map048/events/4/pages/1/5/Dialogue
+\\N[12]. 「You asked the guild about that, did not he?
+I, I received a request \\N[12] I say that,
+I'd like to hear a detailed story」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はギルドメンバーズカードを見せた。
+> CONTEXT: Map048/events/4/pages/1/10/Dialogue
+\\N[12] He showed guild member cards.#MTLed
+> END STRING
+
+> BEGIN STRING
+ティシア
+「あら、ギルドの方なのね、助かるわ。
+ギルドの掲示板にも書いた通り、地下水道から変な音がするの。
+まるで怪物の鳴き声みたいな、不気味な声なのよ」
+> CONTEXT: Map048/events/4/pages/1/12/Dialogue
+Titia. 「Oh, it is towards the guild, I will be saved.
+As I wrote on the bulletin board of the guild, there is a
+strange sound from the underground water supply.
+It's a creepy voice like a cry of a monster」#MTLed
+> END STRING
+
+> BEGIN STRING
+ティシア
+「この家の地下に、地下水道への入口があるから、
+下りて原因を調査して、できれば解決してもらいたいの」
+> CONTEXT: Map048/events/4/pages/1/17/Dialogue
+Titia. 「Because there is an entrance to the underground
+water supply in the basement of this house,
+I'd like to go down and investigate the cause and get it
+resolved if possible」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました。
+地下水道を調べてみますね」
+> CONTEXT: Map048/events/4/pages/1/21/Dialogue
+\\N[12]. 「understood. I will check the underground
+water supply」#MTLed
+> END STRING
+
+> BEGIN STRING
+ティシア
+「入口は開けておくわ。
+武道大会準決勝の日から、家族で旅行に行くから
+それまでに片付けてちょうだいね」
+> CONTEXT: Map048/events/4/pages/1/25/Dialogue
+Titia. 「I will leave the entrance open. From the day of
+the semifinals, I will go on a trip with my family
+Please clean up before then.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（うなり声か……
+魔物がいる可能性が高いし、それなりの準備をしてから
+乗り込んだほうがいいかもしれないな）
+> CONTEXT: Map048/events/4/pages/1/30/Dialogue
+\\N[12]. Is there a groaning voice ...? There is a high
+possibility that there is a monster, and after preparing it
+as it is. You may as well get on board)#MTLed
+> END STRING
+
+> BEGIN STRING
+ティシア
+「よろしくお願いするわね
+期限は武道大会準決勝の前日までだからね」
+> CONTEXT: Map048/events/4/pages/2/0/Dialogue
+Titia. 「Thank you for your consideration.
+Because the deadline is until the day before the martial
+arts tournament semi-finals」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ちわっす、地下水道の魔物を……
+ええと、退治してきましたよ。
+これで、唸り声に悩まされることはなくなると思います」
+> CONTEXT: Map048/events/4/pages/3/0/Dialogue
+\\N[12]. 「Chisun, underground water monster ......
+Well, I've been ruined. With this, I think that you will
+not be bothered by groaning voice」#MTLed
+> END STRING
+
+> BEGIN STRING
+ティシア
+「まあ、すごいわ！
+本当にありがとう、これで地下の怪物に怯えずに済むわ。
+> CONTEXT: Map048/events/4/pages/3/5/Dialogue
+Titia. 「Well, that's amazing! Thank you so much, this will
+not frighten me underground monsters.#MTLed
+> END STRING
+
+> BEGIN STRING
+あなたみたいな若い男の子じゃ頼りないかなーって思って
+他の人にも依頼を受けてもらっちゃったけど、
+ごめんなさい、余計なことだったみたいね」
+> CONTEXT: Map048/events/4/pages/3/9/Dialogue
+I thought that it would not be relied on a young boy like
+you. Even though others got my request, I'm sorry, she
+seems unnecessary」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いえ……
+それじゃ、俺はこれで。
+また何かあればギルドにお願いしますね」
+> CONTEXT: Map048/events/4/pages/3/13/Dialogue
+\\N[12]. 「House……. Well then, I am with this.
+If there is something again, I'd like to ask the guild」#MTLed
+> END STRING
+
+> BEGIN STRING
+ティシア
+「地下の怪物を退治してくれて、
+本当にありがとうね。
+これで息子も怖がらずに寝てくれるわ」
+> CONTEXT: Map048/events/4/pages/4/0/Dialogue
+Titia. 「They exterminate underground monsters,
+Thank you so much. My son will sleep without fear.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ティシア
+「女の子が解決してくれたし、
+依頼はもういいわよ」
+> CONTEXT: Map048/events/4/pages/5/0/Dialogue
+Titia. 「The girl solved it, I can ask for it.」#MTLed
+> END STRING

@@ -1,0 +1,45 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+海岸への街道
+> CONTEXT: Map017/display_name/
+The road to the coast#MTLed
+> END STRING
+
+> BEGIN STRING
+スピードリングⅠを手に入れた！
+> CONTEXT: Map017/events/5/pages/0/9/Dialogue
+I got Speed Ring I!#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ティエリ
+「街道から外れると魔物が徘徊しているが……
+逆に言えば、街道沿いを行けばまず安全だ。
+覚えておくといいぞ」
+> CONTEXT: Map017/events/8/pages/0/0/Dialogue
+militia member Thierry. 「Although the monster is wandering
+around when it is out of the highway ... ...
+Conversely, it is safe if you go along the highway.
+You should remember it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ティエリ
+「ところで\\N[12]、海にでも行くのか？
+そういえば、最近海について変な噂を聞くんだよな。
+人が消えることがあるとか……眉唾だが、気をつけろよ」
+> CONTEXT: Map017/events/8/pages/1/0/Dialogue
+militia member Thierry. 「by the way \\N[12] Are you
+going to the sea? By the way, listen to strange rumors
+about the ocean recently. People say that there is a thing
+to disappear ...... I am surprised, but be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+『西：レストンの村
+　東：東レストン海岸』
+と書いてある。
+> CONTEXT: Map017/events/15/pages/0/0/Dialogue
+"West: Reston village. East: East Reston Coast "
+It is written.#MTLed
+> END STRING

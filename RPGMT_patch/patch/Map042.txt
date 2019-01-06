@@ -1,0 +1,2723 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ディアーナ
+「あら、どなた？
+レディの部屋にことわりもなく入るだなんて、
+失礼な殿方ねっ」
+> CONTEXT: Map042/events/2/pages/0/0/Dialogue
+> CONTEXT: Map042/events/2/pages/1/0/Dialogue
+> CONTEXT: Map042/events/2/pages/13/0/Dialogue
+Diana. 「Oh, who is it? I do not even have to
+enter the room of Lady, A rude fairy tale」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、突然すまない。
+俺は\\N[12]、ギルドへの依頼を見て来たんだが……」
+> CONTEXT: Map042/events/2/pages/1/7/Dialogue
+\\N[12]. 「No, I am suddenly sorry. I am \\N[12] , I
+saw the request to the guild......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（まさか、こんな小さな子だったとは……
+貴族ってのは初めてだが、すげえ可愛いな。
+しかし、この体格でまともに勝負になるのか？）
+> CONTEXT: Map042/events/2/pages/1/12/Dialogue
+\\N[12]. (No way, it was such a small child.......
+The nobleman is the first time, but it's cute.
+But is it a solid match for this physique? )#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あら、そういえばお父様が
+ギルドに依頼していたのだったわね。
+ふうん、あなたが私の練習相手になってくれるの？」
+> CONTEXT: Map042/events/2/pages/1/17/Dialogue
+Diana. 「Oh my God, my father. I was asking the
+guild to do it. Well, will you be my practice
+partner?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああ。これでも武道大会に出る予定だし、
+剣の腕には自信があるぜ」
+> CONTEXT: Map042/events/2/pages/1/22/Dialogue
+\\N[12]. 「Oh, oh. Even this is going to be on the
+martial arts tournament, I have confidence in the arms of
+the sword」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふん、武道大会は出るだけなら誰にでもできるわ。
+あなたみたいな冴えない男が、
+この私を満足させてくれるだけの腕を持っているのかしら？」
+> CONTEXT: Map042/events/2/pages/1/26/Dialogue
+Diana. 「Fuh, martial arts tournament can be done
+by anyone as long as it comes out.
+A man who is not sad like you,
+I wonder if you have enough arms to satisfy me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（な、なんだこの女の子、ずいぶん生意気だな。
+まあ、貴族の子みたいだから仕方がないんだろうが……）
+> CONTEXT: Map042/events/2/pages/1/31/Dialogue
+\\N[12]. (No, this girl is quite impudent.
+Well, it seems like a child of a nobility so it can not be
+helped......)#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「まあいいわ、さっそくあっちでお手合わせ願えるかしら。
+とうぜん、私より実戦経験があるんでしょうから、
+せいぜい楽しませてもらうわねっ」
+> CONTEXT: Map042/events/2/pages/1/35/Dialogue
+Diana. 「Oh no, I wish I could make a hand at
+once. Well, of course, you've got a real battle
+experience from me, I will have amusing at best」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかった。練習相手として、恥ずかしくない腕前を披露してやるさ」
+> CONTEXT: Map042/events/2/pages/1/40/Dialogue
+\\N[12]. 「all right. As a practicing partner, I will
+show off my embarrassing skills」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士レイア
+「私はお嬢様の指南役の者です。
+審判をつとめさせていただきます」
+> CONTEXT: Map042/events/2/pages/1/48/Dialogue
+Swordsman Leia. 「I am a girlfriend's director.
+I will do the referee」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あらためて名乗らせてもらうけど、
+私はディアーナ＝ベックフォード。
+ベックフォード侯爵の娘よ」
+> CONTEXT: Map042/events/2/pages/1/52/Dialogue
+Diana. 「I will reassess you, I am Diana =
+Beckford. Daughter of Beckford Marquis」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺は\\N[12]、レストン出身の剣士だ」
+> CONTEXT: Map042/events/2/pages/1/57/Dialogue
+\\N[12]. 「I am \\N[12] I am a swordsman from Reston.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「レストン？
+ふふん、あんな田舎から出てきた人なのね。
+どうりで芋くさい顔をしていると思ったわ」
+> CONTEXT: Map042/events/2/pages/1/60/Dialogue
+Diana. 「Reston? It is a person who came out of
+such a country. I thought that I had a tender red
+face」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（こ、このチビ……！
+くそぅ、金持ちだからって調子に乗りやがって
+田舎者の意地ってものを見せてやるぜ）
+> CONTEXT: Map042/events/2/pages/1/66/Dialogue
+\\N[12]. (Here, this midget ......! Damn, I'm rich so I
+got on feeling. I will show you the meaning of the redneck)#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「この私の華麗な剣技で、床に這いつくばらせてあげる。
+せいぜい頑張って、私を楽しませてね」
+> CONTEXT: Map042/events/2/pages/1/71/Dialogue
+Diana. 「I will crawl on the floor with this
+magnificent sword skill. Do your best at best,
+please entertain me」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士レイア
+「では、始め！」
+> CONTEXT: Map042/events/2/pages/1/75/Dialogue
+Swordsman Leia. 「Then, start!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「きゃっ……！」
+> CONTEXT: Map042/events/2/pages/1/94/Dialogue
+Diana. 「kyaa ......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「……ふんっ、まあまあね。
+年下の女を負かすことができる程度の腕は
+持っているみたいじゃない」
+> CONTEXT: Map042/events/2/pages/1/103/Dialogue
+Diana. 「......Hmm, that's right.
+Arm enough to beat the younger woman
+You do not seem to have it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「満足してもらえたんなら、何よりだけどな。
+田舎者も、そんなに捨てたもんじゃないだろう？」
+> CONTEXT: Map042/events/2/pages/1/108/Dialogue
+\\N[12]. 「If you were satisfied, nothing more.
+The hidden people did not throw away that much, did they?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「そうね、馬鹿にしたことは謝罪するわ。
+私は実力のある人間は認めることにしているから。
+> CONTEXT: Map042/events/2/pages/1/112/Dialogue
+Diana. 「Well, I apologize for being stupid.
+Because I am going to acknowledge humans with
+strength.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、私はベックフォード家の娘として
+誰にも遅れを取るわけにはいかないの。
+あなた、武道大会に出ると言ったわね」
+> CONTEXT: Map042/events/2/pages/1/116/Dialogue
+But, as I am the daughter of the Beckford family
+I can not afford to be late for anyone.
+You told me to go out to martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああ」
+> CONTEXT: Map042/events/2/pages/1/120/Dialogue
+\\N[12]. 「Ah ah」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「私も出場する予定なの。
+勝ち進んでいけば、対戦することもあるかもしれないわね」
+> CONTEXT: Map042/events/2/pages/1/123/Dialogue
+Diana. 「I am going to participate.
+If you keep going, you may have to play against
+the other」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうなのか……」
+> CONTEXT: Map042/events/2/pages/1/127/Dialogue
+\\N[12]. 「Oh really……」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あなたには、大勢の観客の前で
+この借りを返してあげるわ。
+私に当たるまで、絶対に勝ち残ってきなさい。いいわね？」
+> CONTEXT: Map042/events/2/pages/1/130/Dialogue
+Diana. 「To you, in front of a large audience
+I will give back this debt. Be absolutely
+victorious until you hit me. Good?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……まったく、負けん気の強いお嬢様だな。
+そっちこそ、俺と当たるまでに負けるなよな」
+> CONTEXT: Map042/events/2/pages/1/135/Dialogue
+\\N[12]. 「...... It is a lady who is strongly loser.
+Do not lose it until you hit it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふっ、誰に物を言っているの？
+次は今日のようにはいかないから、
+覚悟しておくことね。
+> CONTEXT: Map042/events/2/pages/1/139/Dialogue
+Diana. 「Who are you talking to?
+The next will not be like today,
+It is important to be prepared.#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、今日は悪くない稽古になったわ。
+報酬はギルドに預けておくから」
+> CONTEXT: Map042/events/2/pages/1/144/Dialogue
+Well, today it was not bad practice.
+I will keep my reward in the guild」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おう。じゃ、俺はこれで失礼するぜ」
+> CONTEXT: Map042/events/2/pages/1/147/Dialogue
+\\N[12]. 「Oh. Well, I will excuse myself.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「くっ……！
+こ、ここまで強い男がレストンみたいな田舎に
+いるだなんて……」
+> CONTEXT: Map042/events/2/pages/1/152/Dialogue
+Diana. 「Cut ...! Here, a strong man so far in
+the countryside like Reston. I do not know ......
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうだ？
+田舎者も、そんなに捨てたもんじゃないだろう」
+> CONTEXT: Map042/events/2/pages/1/157/Dialogue
+\\N[12]. 「How is it? Redneck would not have thrown away
+so much」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「……ふんっ、そうね。
+この私をここまで圧倒できるだなんて、
+侮っていたこと、謝罪するわ」
+> CONTEXT: Map042/events/2/pages/1/162/Dialogue
+Diana. 「......Hmm, that's right.
+I can overwhelm this far this far,
+I am sorry, apologies.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「意外と素直なんだな」
+> CONTEXT: Map042/events/2/pages/1/167/Dialogue
+\\N[12]. 「It is surprisingly straightforward」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「私は貴族の娘。
+実力ある者を認める度量を持つよう、教育されているの」
+> CONTEXT: Map042/events/2/pages/1/170/Dialogue
+Diana. 「I am a nobleman's daughter.
+It is being educated to have a measure to
+recognize those who are skilled.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、ただ偉そうにしてるだけってわけじゃないんだな。
+それで、俺との勝負で得るものはあったか？」
+> CONTEXT: Map042/events/2/pages/1/174/Dialogue
+\\N[12]. 「Indeed, it is not just to make it look great.
+So, was there anything you could get with a match with me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ええ。私も武道大会に出場する予定だけれど、
+今のままでは上位は目指せないと分かったわ。
+> CONTEXT: Map042/events/2/pages/1/178/Dialogue
+Diana. 「Yes. I am planning to participate in
+martial arts tournament, I learned that the top
+can not be aimed as it is now.#MTLed
+> END STRING
+
+> BEGIN STRING
+大会までに、本気で剣技に打ち込んで
+あなたに勝てるぐらいの腕になっておかないとね」
+> CONTEXT: Map042/events/2/pages/1/182/Dialogue
+By tournament, you are seriously devoting to
+sword skill. I have to be as big as I can win you
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか、キミも出場するのか」
+> CONTEXT: Map042/events/2/pages/1/185/Dialogue
+\\N[12]. 「I see, you still play」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふっ、もし大会で当たったなら
+今日の敗北の借りはきっちり返してあげるから、
+覚悟しておきなさいよねっ」
+> CONTEXT: Map042/events/2/pages/1/188/Dialogue
+Diana. 「Huh, if you hit the tournament
+Because I borrowed today's defeat I will return
+it exactly, Please be prepared for it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺も、そうならないように
+今よりもっと強くなっておくぜ」
+> CONTEXT: Map042/events/2/pages/1/193/Dialogue
+\\N[12]. 「I also do not like that. Let's be stronger
+than it is now」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「楽しみにしているわ。
+今日はありがとう、なかなか有意義な時間だったわ、
+報酬ははずんでおくから、ギルドで受け取っておいて」
+> CONTEXT: Map042/events/2/pages/1/197/Dialogue
+Diana. 「I am looking forward to it.
+Thank you for today, it was quite meaningful
+time, I will keep my reward, so I received it
+with a guild」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おう。それじゃ、俺は失礼するぜ」
+> CONTEXT: Map042/events/2/pages/1/202/Dialogue
+\\N[12]. 「Oh. Well then I will be rude.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あの男、\\N[12]といったわね。
+あんな男がいるだなんて……」
+> CONTEXT: Map042/events/2/pages/1/212/Dialogue
+Diana. 「That man, \\N[12] You said.
+I do not know that such a man is......」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士レイア
+「世間は広うございます。
+ご理解いただけましたでしょうか？」
+> CONTEXT: Map042/events/2/pages/1/216/Dialogue
+Swordsman Leia. 「The world is wide. Did you understand it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「そうね、これからは心を入れ替えて
+稽古をちゃんとやるわ。それでいいんでしょう？」
+> CONTEXT: Map042/events/2/pages/1/220/Dialogue
+Diana. 「Well, from now on change my mind
+I will practice well. Is that okay?」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士レイア
+「はい。
+ディアーナお嬢様が真面目に稽古なされば、
+必ずや国一番の剣士となりましょう」
+> CONTEXT: Map042/events/2/pages/1/224/Dialogue
+Swordsman Leia. 「Yes. Diana If the lady practices
+seriously, Be sure to become the country's best swordsman.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふんっ。
+とりあえず、大会であの男に借りを返せるくらいには
+強くなっておかないといけないわねっ」
+> CONTEXT: Map042/events/2/pages/1/229/Dialogue
+Diana. 「Honda. For the time being, to the extent
+that I can borrow that man in tournament
+You must be strong.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふーっ、勝ててよかったぜ。
+少しは庶民の意地ってものを見せられたかな。
+> CONTEXT: Map042/events/2/pages/1/238/Dialogue
+\\N[12]. 「Wow, it was nice to win. I wonder if I could
+show someone the commonsman's sense a little.#MTLed
+> END STRING
+
+> BEGIN STRING
+これで依頼も終わったことだし、
+ギルドで報酬を受け取るとするか」
+> CONTEXT: Map042/events/2/pages/1/242/Dialogue
+This is the end of the request, Would you like to receive
+rewards at the guild」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふっ、まあこんなものよね。
+あなたみたいな庶民ごときが、
+このわたくしに及ぶはずもないものね」
+> CONTEXT: Map042/events/2/pages/1/267/Dialogue
+Diana. 「Well, it's such a thing.
+As ordinary people like you, It is unlikely that
+I can extend to this one」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「く、くそっ、強い……
+俺よりも年下の女の子だっていうのに、
+なんていう鋭い剣さばきなんだ……」
+> CONTEXT: Map042/events/2/pages/1/272/Dialogue
+\\N[12]. 「Damn, it is strong...Even though I am a
+younger girl than me, What a sharp sword judgment ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふん、女に負けて倒れている姿、
+田舎者にふさわしい無様さというべきね」
+> CONTEXT: Map042/events/2/pages/1/277/Dialogue
+Diana. 「On the other hand, the appearance of
+losing to a woman, It should be said to be an
+unsightly fit for a country lady」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あなた……いえ、お前のような下男は、
+そうやって私の前にひれ伏しているのがお似合いね♪
+どうかしら、年下の女に負けた気分は」
+> CONTEXT: Map042/events/2/pages/1/284/Dialogue
+Diana. 「You...... No, the boy who is like you,
+That way I fell down in front of me suits me♪
+I wonder, I feel like I lost to my younger woman」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くそっ……！
+こんな年下の女に負けた上に、ここまで侮辱されるなんて……
+悔しすぎる……！）
+> CONTEXT: Map042/events/2/pages/1/289/Dialogue
+\\N[12]. (Damn it ...! Being lost to a woman like this
+and being insulted so far...I regret too...!.! )#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ま、暇つぶし程度にはなったわ。
+少しぐらいは報酬を出してあげる。
+ギルドに預けておくから、そこで受け取りなさいな。
+> CONTEXT: Map042/events/2/pages/1/294/Dialogue
+Diana. 「Well, it has become a time to kill time.
+I will reward you for a while.
+I will keep it in the guild, so please accept it.#MTLed
+> END STRING
+
+> BEGIN STRING
+せっかく練習台になってくれたんだもの。
+みじめな庶民に、少しはお金をめぐんであげないとね」
+> CONTEXT: Map042/events/2/pages/1/299/Dialogue
+It was a precautionary training platform.
+To the miserable common people, I have to spare
+money a little」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……ち、ちくしょう……」
+> CONTEXT: Map042/events/2/pages/1/302/Dialogue
+\\N[12]. 「Dammit...... Damn it ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あははははっ！　悔しそうね。
+ま、この私と手合わせできたことを誇りに思うといいわ。
+私はいずれ、国一番の剣士になる身だもの。
+> CONTEXT: Map042/events/2/pages/1/305/Dialogue
+Diana. 「Hahahahah! I feel bad.
+Well, I'd like to be proud of what I could do
+with me. I am the one who becomes the most
+swordsman in the country.#MTLed
+> END STRING
+
+> BEGIN STRING
+もし武道大会で当たることがあれば、
+また屈辱を味わわせてあげるわ。
+せいぜい、その日まで無駄な努力を積んでおくことねっ」
+> CONTEXT: Map042/events/2/pages/1/310/Dialogue
+If you can hit the martial arts tournament,
+I will taste humiliation again.
+At best, do not waste effort until that day」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は年下の少女に完敗し
+恥辱にまみれながら貴族の館を後にした……
+> CONTEXT: Map042/events/2/pages/1/315/Dialogue
+> CONTEXT: Map042/events/2/pages/1/367/Dialogue
+In this way, \\N[12] Is completely defeated by a younger
+girl. While leaving shame, he left the aristocracy......#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふっ、とっても華麗に決まったわね♪
+どうかしら、年下の女に手も足も出ず
+完全敗北した気分は」
+> CONTEXT: Map042/events/2/pages/1/325/Dialogue
+Diana. 「Heh, I decided very gorgeously♪
+I wonder, I can not handle my younger woman
+I feel completely defeated」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐうっ……ち、ちくしょう、
+なんて強い女の子なんだ、
+俺よりもずっと年下だっていうのに……」
+> CONTEXT: Map042/events/2/pages/1/330/Dialogue
+\\N[12]. 「So...hey, goddamn, What a strong girl,
+Even though I am a lot younger than I......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ちなみに、私は去年から剣術を始めたの。
+まだ剣を握って半年程度なのよ？」
+> CONTEXT: Map042/events/2/pages/1/335/Dialogue
+Diana. 「By the way, I started fencing from last
+year. It's about half a year since I grabbed my
+sword yet?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだって！」
+> CONTEXT: Map147/events/2/pages/19/30/Dialogue
+> CONTEXT: Map042/events/2/pages/1/341/Dialogue
+\\N[12]. 「?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、俺は小さい頃から
+ずっと修行に励んできたっていうのに、
+半年だけの経験で、その俺をここまでにしたっていうのか」
+> CONTEXT: Map042/events/2/pages/1/344/Dialogue
+\\N[12]. 「Oh, since I was a child. Even though I've
+always been trying to practice, With only half a year 's
+experience, did you mean that I've done so far?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「おどろくことはないわ、当然のことだもの。
+あなたのような庶民と、高貴なわたくしとでは
+もともと持って生まれた才能というものが違うのよ」
+> CONTEXT: Map042/events/2/pages/1/349/Dialogue
+Diana. 「There 's nothing to be surprised about,
+it' s obvious. With ordinary people like you and
+noble me. The talent that I was born with is
+different」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くっ、ううっ……
+実際に完敗しちまったから、言い返せない……）
+> CONTEXT: Map042/events/2/pages/1/354/Dialogue
+\\N[12]. (Come, uugh...... I can not reply because it
+has actually been completely defeated......)#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「それにしても時間の無駄だったわ。
+恥を知っているのなら、
+さっさとわたくしの前から消えなさい、下郎」
+> CONTEXT: Map042/events/2/pages/1/358/Dialogue
+Diana. 「Even so, it was a waste of time.
+If you know shame, Hold off quickly before me,
+Shiro」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……く、くそっ……」
+> CONTEXT: Map042/events/2/pages/1/363/Dialogue
+\\N[12]. 「Dammit...damn ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あら、誰かと思えば、私がズタボロにしてあげた庶民じゃない。
+何の用かしら？　また私の剣の練習台になりにきたの？
+ふふふっ」
+> CONTEXT: Map042/events/2/pages/3/0/Dialogue
+Diana. 「Oh, if you think someone, I am not a
+common people I made a stick. What is it for?
+Also, did you become a practice base for my
+sword? Hehuhu」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あら、確か\\N[12]と言ったわね。
+稽古で私に勝ったからって、いい気にならないことねっ。
+武道大会では借りを返してあげるんだから」
+> CONTEXT: Map042/events/2/pages/4/0/Dialogue
+Diana. 「Oh sure \\N[12] You said that.
+Because I won over me with practice, things I do
+not mind bothering me. I will return the owner
+with martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「今年の武道大会では、上位に進出してみせるわ。
+周りは年上ばかりと言っても二流の庶民ばかり。
+私の才能を見せつけてやるんだから」
+> CONTEXT: Map042/events/2/pages/5/0/Dialogue
+Diana. 「In this year's martial arts tournament,
+I will make it to the top. Even if it says only
+to be older, it is only the second - rate common
+people. I will show off my talent」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「こ、この私がプリムのような庶民の娘に負けるなんて……
+くっ、こんな不覚を取ることが二度とないように
+今まで以上に特訓してやるんだから！」
+> CONTEXT: Map042/events/2/pages/6/0/Dialogue
+Diana. 「Here, this I will lose to the daughter
+of the common people like Purim ......
+Cuddly, never ever take such a sensation
+Because I'm doing special training more than
+ever!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あら、\\N[12]じゃない。
+ゆっくりしていくといいわ。
+私の召使いになりたいなら、いつでも歓迎だからね」
+> CONTEXT: Map042/events/2/pages/7/0/Dialogue
+Diana. 「Oh, \\N[12] not. You should go slowly.
+If you want to be my servant, you are always
+welcome」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あら、\\N[12]じゃない。
+決勝戦、見ていたわよ。
+優勝おめでとう」
+> CONTEXT: Map042/events/2/pages/8/6/Dialogue
+Diana. 「Oh, \\N[12] not. I was watching the
+final game. congratulations for winning」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、ありがとう」
+> CONTEXT: Map042/events/2/pages/8/11/Dialogue
+> CONTEXT: Map025/events/42/pages/3/9/Dialogue
+\\N[12]. 「Oh, thank you」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「この私に勝つぐらいだから
+ただ者じゃないとは思っていたけれど、
+あなた、庶民にしてはかなりの才能あるのねっ」
+> CONTEXT: None < UNUSED
+Diana. 「Because I will win this
+I thought that it was not merely a person,
+You, as a common people, are quite talented」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、優勝までしてみせたんだし、
+これで庶民だってやればできる、ってことは
+分かってもらえただろう？」
+> CONTEXT: Map042/events/2/pages/8/19/Dialogue
+\\N[12]. 「Oh, I made it to the victory, It can be done
+if you do even people. Did you understand?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ええ、たいしたものだわ。
+それで、優勝者であるあなたが
+どうして私を訪ねてきてくれたの？」
+> CONTEXT: Map042/events/2/pages/8/24/Dialogue
+Diana. 「Well, that's a big deal.
+So, the winner you are. Why did you visit me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え？　うーん、そうだな……
+まあ、あんたとは不思議と縁があるからな。
+一番に報告してみたいと思っただけだよ」
+> CONTEXT: Map042/events/2/pages/8/29/Dialogue
+\\N[12]. 「Huh? Well, I guess so .... Well, you know
+that it is wonderful with you. I just wanted to report the
+most」#MTLed
+> END STRING
+
+> BEGIN STRING
+一瞬のためらいの後、
+ディアーナは少し恥ずかしげに再び口を開く。
+> CONTEXT: Map042/events/2/pages/8/35/Dialogue
+After a momentary hesitation, Diana opens his mouth a
+little shy again.#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふうん……
+ねえ、\\N[12]。
+あなた、私と婚約してみる気はない？」
+> CONTEXT: Map042/events/2/pages/8/38/Dialogue
+Diana. 「Well ...... Hey you, \\N[12] .
+Do not you feel like engaging with me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え……えっ！？」
+> CONTEXT: Map042/events/2/pages/8/43/Dialogue
+\\N[12]. 「Er...um! ?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あなたのような強い剣士が、栄誉を得たとはいえ
+いつまでも庶民の身分でいるのはおかしいわ。
+いっそ私と結婚して貴族になってしまいなさいよ」
+> CONTEXT: Map042/events/2/pages/8/46/Dialogue
+Diana. 「Although a strong swordsmen like you got
+the honor. It is strange that it will remain a
+common person forever. Better to marry me and
+become a nobleman」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、おう……
+いきなりだな……
+うーん、俺が貴族っていうのは少し想像もつかないけど」
+> CONTEXT: Map042/events/2/pages/8/51/Dialogue
+\\N[12]. 「Ooh! Suddenly...Well, I can not imagine a
+noble being a bit」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「……もう、にぶいわねっ！
+愛の告白をしているのよ、私は」
+> CONTEXT: Map042/events/2/pages/8/56/Dialogue
+Diana. 「......It is already stupid!
+I'm confessing love, I」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ」
+> CONTEXT: Map042/events/2/pages/8/60/Dialogue
+> CONTEXT: Map005/events/6/pages/0/272/Dialogue
+\\N[12]. 「Ahh」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「年下の女にここまで言わせて、
+受けるにせよ断るにせよ、
+はっきり言わないつもりじゃないでしょうねっ！」
+> CONTEXT: Map042/events/2/pages/8/63/Dialogue
+Diana. 「Let the younger woman do so far,
+Whether it is received or refused,
+I do not mean to say it clearly!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「す、すまん、そうだな。
+いや、まさかキミにそんな風に
+思われているとは、意外だったもんでさ」
+> CONTEXT: Map042/events/2/pages/8/68/Dialogue
+\\N[12]. 「Sorry, I heard so. No, no way No way No way
+It is unexpected that it is thought that it is thought」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふんっ、まあ私も態度がナマイキだったと
+自覚してはいるし、仕方ないかもしれないけど。
+それで、どうなの？」
+> CONTEXT: Map042/events/2/pages/8/73/Dialogue
+Diana. 「Hmm, well I was also attitude cheeky
+I am aware of it, and maybe it can not be helped.
+So what about?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな、
+俺はあんたのことは可愛いと思ってるよ。
+さすが貴族っていうか、上品だしな」
+> CONTEXT: Map042/events/2/pages/8/78/Dialogue
+\\N[12]. 「I see. I think you are cute. Truly a
+nobleman, it is elegant」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「そ、そう」
+> CONTEXT: Map042/events/2/pages/8/83/Dialogue
+Diana. 「Same」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ただ、ちょっと年下すぎるから
+そういう相手として見たことは
+今までなかったんだ」
+> CONTEXT: Map042/events/2/pages/8/86/Dialogue
+\\N[12]. 「Just a bit too young. What I saw as such was
+I did not have it until now.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「じゃあ、今から見ればいいじゃない。
+言っとくけど、私はあなたに負けた瞬間から
+とっくに惚れていたんだからねっ！」
+> CONTEXT: Map042/events/2/pages/8/91/Dialogue
+Diana. 「Well then, you can just look at it from
+now. For the sake of my moment I lost to you
+I was falling in love with you long time ago!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうだったのか」
+> CONTEXT: Map042/events/2/pages/8/96/Dialogue
+\\N[12]. 「Was that right?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「男の人に負けたのなんて初めてだったし……
+なんか、どきどきしちゃって……
+それに、あなた庶民にしてはカッコいいし」
+> CONTEXT: Map042/events/2/pages/8/99/Dialogue
+Diana. 「It was my first time to lose to a man
+......I do something ...... Besides, it's cool
+for you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（な、なんだ？
+妙に可愛い顔をし始めたぞ……）
+> CONTEXT: Map042/events/2/pages/8/104/Dialogue
+\\N[12]. (? You started to make a cute face
+strangely......)#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「それで、どうなの？」
+> CONTEXT: Map042/events/2/pages/8/108/Dialogue
+Diana. 「So what about?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まあ……そうだな、
+婚約ということなら、俺も応えたいって思うよ」
+> CONTEXT: Map042/events/2/pages/8/111/Dialogue
+\\N[12]. 「Well...That's right. If it is an
+engagement, I think I want to respond」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「え？　本当？」
+> CONTEXT: Map042/events/2/pages/8/115/Dialogue
+Diana. 「Huh? Is it true?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ。
+俺は、大きなことを成し遂げたいと思って
+田舎から出てきた。
+> CONTEXT: Map042/events/2/pages/8/118/Dialogue
+\\N[12]. 「Oh. I want to accomplish big things
+I came out of the country.#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会に優勝してそれは成ったとも思ってるが、
+それに加え、貴族になれるっていうのなら
+頑張ってきた甲斐があったと思えるだろうし……
+> CONTEXT: Map042/events/2/pages/8/123/Dialogue
+I also thought that it went on winning the martial arts
+tournament, In addition to that, if you can become a
+nobleman. I guess that it was worth the effort I did well
+... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、なんていうか、
+ディアーナは将来必ず美人になると思うし、
+今日話してみて、性格も可愛いなって思った」
+> CONTEXT: Map042/events/2/pages/8/127/Dialogue
+Also, I think that Diana will surely become beautiful in
+the future, Today, I thought that personality is also cute」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「じゃあ、婚約してくれるのね？」
+> CONTEXT: Map042/events/2/pages/8/131/Dialogue
+Diana. 「Well then, do you get engaged?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、ディアーナの気持ちに応えたい。
+こんな俺でよければ、よろしく頼む」
+> CONTEXT: Map042/events/2/pages/8/134/Dialogue
+\\N[12]. 「Oh, I want to meet Diana's feelings.
+If you can do with me like this, I'm begging for you」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふ、ふんっ、それが当然の答えよねっ！
+この私を妻としたこと、将来必ず満足させてあげるわ。
+楽しみにしていなさいよね！」
+> CONTEXT: Map042/events/2/pages/8/138/Dialogue
+Diana. 「Hmm, this is the obvious answer!
+I will satisfy you in the future that I made this
+my wife. Please look forward to it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（この子と結婚か……まあ、いい話だよな。
+ちょっとナマイキで平民を見下しがちだけど、
+そういうところを俺が直していくのも面白いだろう。
+> CONTEXT: Map042/events/2/pages/8/144/Dialogue
+\\N[12]. (Marriage with this girl...Well, that's a
+good story. I tend to look down on the commoners with a
+little cheeky, It would be interesting to fix that kind of
+place.#MTLed
+> END STRING
+
+> BEGIN STRING
+何より、将来が本当に楽しみな女の子だ。
+美人になるだろうし、剣士としても超一流に育つだろう。
+俺も一緒にいることで大きな刺激を受けられそうだぜ）
+> CONTEXT: Map042/events/2/pages/8/149/Dialogue
+More than anything, the future is a really fun girl.
+It will be beautiful and as a swordsmen will grow up to a
+super class. I'm getting great stimulation by being with
+you as well)#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は
+ディアーナ＝ベックフォードの婚約者となった。
+> CONTEXT: Map042/events/2/pages/8/153/Dialogue
+In this way, \\N[12] Is. Became a fiancée of Diana =
+Beckford.#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナの父も\\N[12]の戦いぶりを見て
+その実力を認めていたこともあり、
+今後、貴族としての立ち居振る舞いを
+身につけるという条件で、結婚を認めてくれたのだった。
+> CONTEXT: Map042/events/2/pages/8/156/Dialogue
+Diana's father also \\N[12] Look at the fight of
+As I admitted that ability, From now on, behaving as a
+nobility behaviors. He admitted to marriage on condition
+that he got it.#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「お父様にも婚約を認めてもらえたことだし、
+あとはこれから毎日、\\N[12]に
+貴族にふさわしい礼節や気品を叩き込んであげないとね」
+> CONTEXT: Map042/events/2/pages/8/173/Dialogue
+Diana. 「Your father is also allowed to accept your
+engagement, Every day from now on, \\N[12] Into
+We must give down the courtesies and elegance that are
+suitable for the nobles」#MTLed
+> CONTEXT: Commonevents/264/3/Dialogue
+Diana. 「Your father is also allowed to accept
+your engagement, Every day from now on,
+\\N[12] Into. We must give down the courtesies
+and elegance that are suitable for the nobles」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よろしく頼むぜ。
+なにせ、生まれてからずっとレストン育ちだからなあ、
+貴族の立ち居振る舞いなんて、想像もつかないぜ」
+> CONTEXT: Map042/events/2/pages/8/178/Dialogue
+\\N[12]. 「I'm counting on you. Anyway, since I was
+brought up Reston since I was born, I can not imagine the
+behavior of the nobility」#MTLed
+> CONTEXT: Commonevents/264/8/Dialogue
+\\N[12]. 「I'm counting on you.
+Anyway, since I was brought up Reston since I was
+born, I can not imagine the behavior of the
+nobility」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「まかせておきなさい。
+私と一緒に暮らしていれば、いやでも上品になるわよ。
+それより……」
+> CONTEXT: Map042/events/2/pages/8/183/Dialogue
+Diana. 「Let me leave it alone. If you live with me, you
+will be refined. More than that ...」#MTLed
+> CONTEXT: Commonevents/264/13/Dialogue
+Diana. 「Let me leave it alone.
+If you live with me, you will be refined.
+More than that ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ん？」
+> CONTEXT: Map042/events/2/pages/8/188/Dialogue
+\\N[12]. 「Hmm?」#MTLed
+> CONTEXT: Commonevents/264/18/Dialogue
+\\N[12]. 「Hmm?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「今日は、お父様もお母様もお城の用事で留守。
+この2階は私たちしかいないわ」
+> CONTEXT: Map042/events/2/pages/8/191/Dialogue
+Diana. 「Today, both my father and mother are out for
+business at the castle. There are only us on this second
+floor」#MTLed
+> CONTEXT: Commonevents/264/21/Dialogue
+Diana. 「Today, both my father and mother are out
+for business at the castle. There are only us on
+this second floor」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああ……
+そうみたいだな」
+> CONTEXT: Map042/events/2/pages/8/195/Dialogue
+\\N[12]. 「Oh, ah ...... I do not think so.」#MTLed
+> CONTEXT: Commonevents/264/25/Dialogue
+\\N[12]. 「Oh, ah ...... I do not think so.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「だから……ね。
+えっちなことをしたいの、いいでしょ？」
+> CONTEXT: Map042/events/2/pages/8/199/Dialogue
+Diana. 「So I. I want to do something nice, is not it?」#MTLed
+> CONTEXT: Commonevents/264/29/Dialogue
+Diana. 「So I. I want to do something nice, is
+not it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、おう。
+でも、セックスは正式に結婚するまでは
+ベックフォード侯――義父上に禁じられているだろ？」
+> CONTEXT: Map042/events/2/pages/8/203/Dialogue
+\\N[12]. 「Okay. But until sex officially got married
+Beckford Hou - forbidden on your father - in - law, do you?
+」#MTLed
+> CONTEXT: Commonevents/264/33/Dialogue
+\\N[12]. 「Okay. But until sex officially got
+married. Beckford Hou - forbidden on your father
+- in - law, do you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「まあ、妊娠したりしたら困るものね。
+でも、そのかわり……」
+> CONTEXT: Map042/events/2/pages/8/208/Dialogue
+Diana. 「Well, if you get pregnant you are in trouble.
+But, instead......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おい、この体勢はいったい……」
+> CONTEXT: Map042/events/2/pages/8/215/Dialogue
+\\N[12]. 「Hey, what is this position ......」#MTLed
+> CONTEXT: Commonevents/264/45/Dialogue
+\\N[12]. 「Hey, what is this position ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「せっかくだし、勝負しましょうよ。
+そのほうが面白いと思うのよ」
+> CONTEXT: Map042/events/2/pages/8/218/Dialogue
+Diana. 「Let 's have a lot of fun and let' s compete.
+I think that way is more interesting」#MTLed
+> CONTEXT: Commonevents/264/48/Dialogue
+Diana. 「Let 's have a lot of fun and let' s
+compete. I think that way is more interesting」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「勝負って、いったいどうするんだ？」
+> CONTEXT: Map042/events/2/pages/8/222/Dialogue
+\\N[12]. 「What is going to do, what will you do?」#MTLed
+> CONTEXT: Commonevents/264/52/Dialogue
+\\N[12]. 「What is going to do, what will you
+do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「この体勢でお互いのアソコを責めて、
+先にイっちゃった方が負け、っていうルールで。
+もちろん、体のどこを愛撫してくれてもいいわよ？」
+> CONTEXT: Map042/events/2/pages/8/225/Dialogue
+Diana. 「In this posture each other's mutation was blamed,
+With the rule of losing who first caught it.
+Of course, you can caress anywhere in the body?」#MTLed
+> CONTEXT: Commonevents/264/55/Dialogue
+Diana. 「In this posture each other's mutation
+was blamed, With the rule of losing who first
+caught it. Of course, you can caress anywhere in
+the body?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、そういう勝負か……
+負けん気が強いやつだな、まったく」
+> CONTEXT: Map042/events/2/pages/8/230/Dialogue
+\\N[12]. 「I see, that kind of game ......
+He is a strong loser, absolutely」#MTLed
+> CONTEXT: Commonevents/264/60/Dialogue
+\\N[12]. 「I see, that kind of game ......
+He is a strong loser, absolutely」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「でも、受けてくれるわよね？」
+> CONTEXT: Map042/events/2/pages/8/234/Dialogue
+Diana. 「But you can accept it, do not you?」#MTLed
+> CONTEXT: Commonevents/264/64/Dialogue
+Diana. 「But you can accept it, do not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、もちろんだ。
+こうなったら絶対負けないぜ、
+年上のテクニックってもんを見せてやるからな」
+> CONTEXT: Map042/events/2/pages/8/237/Dialogue
+\\N[12]. 「Oh, of course. I will never be defeated in
+this way, I will show you the older technique」#MTLed
+> CONTEXT: Commonevents/264/67/Dialogue
+\\N[12]. 「Oh, of course. I will never be
+defeated in this way, I will show you the older
+technique」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふふっ、楽しみにしてるわよ」
+> CONTEXT: Map042/events/2/pages/8/242/Dialogue
+\\N[12]. 「Huh, I'm looking forward to it」#MTLed
+> CONTEXT: Commonevents/264/72/Dialogue
+\\N[12]. 「Huh, I'm looking forward to it」#MTLed
+> END STRING
+
+> BEGIN STRING
+ちろっ……
+> CONTEXT: Map042/events/2/pages/8/248/Dialogue
+Chichi#MTLed
+> CONTEXT: Commonevents/264/78/Dialogue
+Chichi#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナはペニスをくわえ、
+先端を軽く舐める。
+> CONTEXT: Map042/events/2/pages/8/253/Dialogue
+Diana keeps his penis in his hands, Lightly lick the tip.#MTLed
+> CONTEXT: Commonevents/264/83/Dialogue
+Diana keeps his penis in his hands,
+Lightly lick the tip.#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「んっ……変な味ね。
+でも、あなたの反応が可愛いから、
+いっぱい舐めてあげたくなってきたわ」
+> CONTEXT: Map042/events/2/pages/8/256/Dialogue
+Diana. 「It is a strange taste. But your reaction is cute,
+I want to lick a lot」#MTLed
+> CONTEXT: Commonevents/264/86/Dialogue
+Diana. 「It is a strange taste.
+But your reaction is cute, I want to lick a lot」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、そっちこそ
+ヒイヒイ言わせてやるから、覚悟しろよ」
+> CONTEXT: Map042/events/2/pages/8/261/Dialogue
+\\N[12]. 「Cow, that is it. I will say it, so let's
+resolve.」#MTLed
+> CONTEXT: Commonevents/264/91/Dialogue
+\\N[12]. 「Cow, that is it. I will say it, so
+let's resolve.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は、ディアーナの未熟な女性器のスジを
+舌で舐め始める。
+> CONTEXT: Map042/events/2/pages/8/265/Dialogue
+\\N[12] Diana's pretty female instrument stripe
+Start licking with your tongue.#MTLed
+> CONTEXT: Commonevents/264/95/Dialogue
+\\N[12] Diana's pretty female instrument
+stripe. Start licking with your tongue.#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「きゃっ！」
+> CONTEXT: Map042/events/2/pages/8/269/Dialogue
+Diana. 「kyaa!」#MTLed
+> CONTEXT: Commonevents/264/99/Dialogue
+Diana. 「kyaa!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんだか、しょっぱいな……」
+> CONTEXT: Map042/events/2/pages/8/272/Dialogue
+\\N[12]. 「Somehow, salty ...」#MTLed
+> CONTEXT: Commonevents/264/102/Dialogue
+\\N[12]. 「Somehow, salty ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「舌がザラザラして、変な感じっ……
+あっ、きゃんっ！
+舌をねじ込んでくるなんてぇっ！」
+> CONTEXT: Map042/events/2/pages/8/276/Dialogue
+Diana. 「The tongue gritty, I feel weird ...
+Oh, Nyan! I'm screwing in my tongue!」#MTLed
+> CONTEXT: Commonevents/264/106/Dialogue
+Diana. 「The tongue gritty, I feel weird ...
+Oh, Nyan! I'm screwing in my tongue!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんだ、その歳でずいぶん感じやすいもんだな。
+このまま、一方的にイかせてやろうか」
+> CONTEXT: Map042/events/2/pages/8/281/Dialogue
+\\N[12]. 「What a pity it is at that age.
+Would you like to keep it unilaterally as it is」#MTLed
+> CONTEXT: Commonevents/264/111/Dialogue
+\\N[12]. 「What a pity it is at that age.
+Would you like to keep it unilaterally as it is」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あ、甘く見ないでよね！
+\\N[12]のおちんちんだって、こうしてやれば……」
+> CONTEXT: Map042/events/2/pages/8/285/Dialogue
+Diana. 「Oh, do not look sweet! \\N[12] Even if you do
+this......」#MTLed
+> CONTEXT: Commonevents/264/115/Dialogue
+Diana. 「Oh, do not look sweet!
+\\N[12] Even if you do this......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナは、\\N[12]のペニスを
+口の中に深くくわえ込んだ！
+> CONTEXT: Map042/events/2/pages/8/290/Dialogue
+Diana, \\N[12] Penis of. I got into my mouth deeply!#MTLed
+> CONTEXT: Commonevents/264/120/Dialogue
+Diana, \\N[12] Penis of. I got into my mouth
+deeply!#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「んっ……じゅぷっ、れろっ……
+ちゅぷっ……んふっ、んっ……」
+> CONTEXT: Map042/events/2/pages/8/298/Dialogue
+Diana. 「___ . Chupt ...... ふ ふ っ ん ん ......」#MTLed
+> CONTEXT: Commonevents/264/128/Dialogue
+Diana. 「___ . Chupt ...... ふ ふ っ ん
+ん ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くっ、や、やばい……
+ディアーナの口の中の温かさが心地いいし、
+舌が絡んでジンジンしてくる……！）
+> CONTEXT: Map042/events/2/pages/8/302/Dialogue
+\\N[12]. (Come, yeah, yeah...... The warmth in the
+mouth of Diana is comfortable, Tongue entangled......!)#MTLed
+> CONTEXT: Commonevents/264/132/Dialogue
+\\N[12]. (Come, yeah, yeah......
+The warmth in the mouth of Diana is comfortable,
+Tongue entangled......!)#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「んうっ……
+どうしたの、責めてこなくなったけど。
+私の舌使いが気持ちよすぎて身動きもできないとか？」
+> CONTEXT: Map042/events/2/pages/8/307/Dialogue
+Diana. 「Huh...What happened, I did not blame you.
+Is my tongue use so comfortable that I can not move?」#MTLed
+> CONTEXT: Commonevents/264/137/Dialogue
+Diana. 「Huh...What happened, I did not blame
+you. Is my tongue use so comfortable that I can
+not move?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そんなことはないぜ、これからだっ！」
+> CONTEXT: Map042/events/2/pages/8/312/Dialogue
+\\N[12]. 「Well, there is not such a thing, now it is!」#MTLed
+> CONTEXT: Commonevents/264/142/Dialogue
+\\N[12]. 「Well, there is not such a thing,
+now it is!」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、\\N[12]とディアーナは
+お互いの性器を舌で刺激し合ってゆく。
+> CONTEXT: Map042/events/2/pages/8/315/Dialogue
+Then, \\N[12] And Diana. I stimulate each other's
+genitalia with the tongue.#MTLed
+> CONTEXT: Commonevents/264/145/Dialogue
+Then, \\N[12] And Diana. I stimulate each
+other's genitalia with the tongue.#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あっ、んんっ！
+ま、負けないわよ、私だってっ……！」
+> CONTEXT: Map042/events/2/pages/8/318/Dialogue
+Diana. 「Oh, no! Well, I will not lose, myself ...!」#MTLed
+> CONTEXT: Commonevents/264/148/Dialogue
+Diana. 「Oh, no! Well, I will not lose, myself
+...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+じゅぷっ、れろっ、ちゅっ……
+> CONTEXT: Map042/events/2/pages/8/322/Dialogue
+Ju-Put, Take a bath, ...#MTLed
+> CONTEXT: Commonevents/264/152/Dialogue
+Ju-Put, Take a bath, ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「んっ……こうやって、おちんちんの頭の部分を
+舐め回してあげる……」
+> CONTEXT: Map042/events/2/pages/8/327/Dialogue
+Diana. 「. I will lick you......」#MTLed
+> CONTEXT: Commonevents/264/157/Dialogue
+Diana. 「. I will lick you......」#MTLed
+> END STRING
+
+> BEGIN STRING
+じゅるるっ、ちゅぷっ、れろっ……
+> CONTEXT: Map042/events/2/pages/8/331/Dialogue
+Jueling, Chuptu, Reaper ......#MTLed
+> CONTEXT: Commonevents/264/161/Dialogue
+Jueling, Chuptu, Reaper ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あうっ、ぐっ……」
+> CONTEXT: Map042/events/2/pages/8/333/Dialogue
+\\N[12]. 「Huh, ugly ....」#MTLed
+> CONTEXT: Commonevents/264/163/Dialogue
+\\N[12]. 「Huh, ugly ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナの小さく温かな舌が、
+亀頭を激しく刺激してくる！
+> CONTEXT: Map042/events/2/pages/8/336/Dialogue
+Diana's small warm tongue, It stimulates the glans
+violently!#MTLed
+> CONTEXT: Commonevents/264/166/Dialogue
+Diana's small warm tongue, It stimulates the
+glans violently!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（や、やばい、ディアーナの舌の感触が
+気持ちよくて、体に電気が流れるみたいな感じだっ）
+> CONTEXT: Map042/events/2/pages/8/339/Dialogue
+\\N[12]. (And, Ya, the feeling of Diana's tongue
+It feels good and it feels like electricity flows in the
+body)#MTLed
+> CONTEXT: Commonevents/264/169/Dialogue
+\\N[12]. (And, Ya, the feeling of Diana's
+tongue. It feels good and it feels like
+electricity flows in the body)#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あ、責めを緩めたわねっ。
+なら、たたみかけさせてもらうから！」
+> CONTEXT: Map042/events/2/pages/8/343/Dialogue
+Diana. 「Oh, I loosened my blame. If you do, I will make
+you do so!」#MTLed
+> CONTEXT: Commonevents/264/173/Dialogue
+Diana. 「Oh, I loosened my blame.
+If you do, I will make you do so!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナはペニスを口に含み、
+亀頭を舐め回しながら先端に舌をねじ込むようにしてくる！
+> CONTEXT: Map042/events/2/pages/8/347/Dialogue
+Diana includes a penis in his mouth, While licking the
+glans head it will screw the tongue into the tip!#MTLed
+> CONTEXT: Commonevents/264/177/Dialogue
+Diana includes a penis in his mouth,
+While licking the glans head it will screw the
+tongue into the tip!#MTLed
+> END STRING
+
+> BEGIN STRING
+れろっ、ちゅっ、じゅぷっ！
+> CONTEXT: Map042/events/2/pages/8/350/Dialogue
+Let's get it, Ju-Put!#MTLed
+> CONTEXT: Commonevents/264/180/Dialogue
+Let's get it, Ju-Put!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、あああああぁぁっ！」
+> CONTEXT: Map042/events/2/pages/8/352/Dialogue
+\\N[12]. 「Waa, Aaaaahhh!」#MTLed
+> CONTEXT: Commonevents/264/182/Dialogue
+\\N[12]. 「Waa, Aaaaahhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「んんっ、んっ……！」
+> CONTEXT: Map042/events/2/pages/8/359/Dialogue
+Diana. 「Hmmm ...!」#MTLed
+> CONTEXT: Commonevents/264/189/Dialogue
+Diana. 「Hmmm ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナの口内に精液が放たれ、
+\\N[12]は快楽に腰を震わせる……
+> CONTEXT: Map042/events/2/pages/8/362/Dialogue
+Semen is released in the mouth of Diana,
+\\N[12] She tremble in pleasure ...#MTLed
+> CONTEXT: Commonevents/264/192/Dialogue
+Semen is released in the mouth of Diana,
+\\N[12] She tremble in pleasure ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふっ、射精してしまったわね、\\N[12]。
+こんな小娘にエッチで負けてしまうなんて、情けないわねっ」
+> CONTEXT: Map042/events/2/pages/8/366/Dialogue
+Diana. 「Huhuh, I did ejaculation, \\N[12] .
+It is miserable that you will lose to such a girl by lewd」#MTLed
+> CONTEXT: Commonevents/264/196/Dialogue
+Diana. 「Huhuh, I did ejaculation, \\N[12] .
+It is miserable that you will lose to such a girl
+by lewd」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くうっ……ま、まだまだ、
+こうなったらイかせた回数で上回ってやるっ」
+> CONTEXT: Map042/events/2/pages/8/370/Dialogue
+\\N[12]. 「Ku wat...In this way I will surpass it by
+the number of times I made it」#MTLed
+> CONTEXT: Commonevents/264/200/Dialogue
+\\N[12]. 「Ku wat...In this way I will
+surpass it by the number of times I made it」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あら、そう来るのね。
+いいわ、私だって負けないんだから」
+> CONTEXT: Map042/events/2/pages/8/374/Dialogue
+Diana. 「Oh, come on. No, I will not lose.」#MTLed
+> CONTEXT: Commonevents/264/204/Dialogue
+Diana. 「Oh, come on. No, I will not lose.」#MTLed
+> END STRING
+
+> BEGIN STRING
+れろっ、ちゅっ、じゅぷっ……
+> CONTEXT: Map042/events/2/pages/8/380/Dialogue
+Refractory, tight, ...#MTLed
+> CONTEXT: Commonevents/264/210/Dialogue
+Refractory, tight, ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はディアーナの未発達な女性器に
+舌を這わせ、舌先をねじ込むように刺激してゆく。
+> CONTEXT: Map042/events/2/pages/8/382/Dialogue
+\\N[12] To Diana's underdeveloped female instrument
+I will stimulate the tongue to crawl and screw the tongue.#MTLed
+> CONTEXT: Commonevents/264/212/Dialogue
+\\N[12] To Diana's underdeveloped female
+instrument. I will stimulate the tongue to crawl
+and screw the tongue.#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「きゃっ、んっ……！
+い、いいわよ、\\N[12]っ。
+そのまま、私のこともイかせなさいっ」
+> CONTEXT: Map042/events/2/pages/8/385/Dialogue
+Diana. 「kyaa, he ...! Do not go wrong. \\N[12] Huh.
+As it is, do not mention me」#MTLed
+> CONTEXT: Commonevents/264/215/Dialogue
+Diana. 「kyaa, he ...! Do not go wrong. \\N[12]
+ Huh. As it is, do not mention me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「望み通り、思いっきりイかせてやるぜっ」
+> CONTEXT: Map042/events/2/pages/8/390/Dialogue
+\\N[12]. 「As you wish, I will do it without thinking」#MTLed
+> CONTEXT: Commonevents/264/220/Dialogue
+\\N[12]. 「As you wish, I will do it without
+thinking」#MTLed
+> END STRING
+
+> BEGIN STRING
+二人は互いの性器を舐め合い、
+刺激し合ってゆく……
+> CONTEXT: Map042/events/2/pages/8/393/Dialogue
+They licked each other's genitals, I stimulate each other
+...#MTLed
+> CONTEXT: Commonevents/264/223/Dialogue
+They licked each other's genitals,
+I stimulate each other ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ディアーナのここ、つるつるしていて
+舐めているとヤバい気分になってくるな……
+とにかく、このまま今度こそ先にイかせてやる）
+> CONTEXT: Map042/events/2/pages/8/396/Dialogue
+\\N[12]. (Diana's here, doing it. Do not feel bad if you
+lick it ...... Anyhow, I will keep it up this time as it is
+this time)#MTLed
+> CONTEXT: Commonevents/264/226/Dialogue
+\\N[12]. (Diana's here, doing it
+Do not feel bad if you lick it ......
+Anyhow, I will keep it up this time as it is this
+time)#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「んっ……ふふっ、その程度？
+なら、また私が勝っちゃうわよ、\\N[12]っ」
+> CONTEXT: Map042/events/2/pages/8/402/Dialogue
+Diana. 「Huh...what about that degree? Then, I will win
+again, \\N[12] っ」#MTLed
+> CONTEXT: Commonevents/264/232/Dialogue
+Diana. 「Huh...what about that degree?
+Then, I will win again, \\N[12] っ」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだとっ？」
+> CONTEXT: Map042/events/2/pages/8/406/Dialogue
+\\N[12]. 「What is it?」#MTLed
+> CONTEXT: Commonevents/264/236/Dialogue
+\\N[12]. 「What is it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+じゅぷうううぅぅっ！
+> CONTEXT: Map042/events/2/pages/8/409/Dialogue
+Juu Puuuuuuuuuu!#MTLed
+> CONTEXT: Commonevents/264/239/Dialogue
+Juu Puuuuuuuuuu!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……うああああぁぁっ！」
+> CONTEXT: Map042/events/2/pages/8/411/Dialogue
+\\N[12]. 「Ugh ...... No! Aaaahhh」#MTLed
+> CONTEXT: Commonevents/264/241/Dialogue
+\\N[12]. 「Ugh ...... No! Aaaahhh」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「んっ、んうっ……
+ちゅぷっ、れろっ、ちゅっ、ちゅうっ……」
+> CONTEXT: Map042/events/2/pages/8/414/Dialogue
+Diana. 「Huh, uh ...... Chuptu, leave, tough, cu ...」#MTLed
+> CONTEXT: Commonevents/264/244/Dialogue
+Diana. 「Huh, uh ...... Chuptu, leave, tough, cu
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、ぐっ……そ、そんなに吸われたらっ……！」
+> CONTEXT: Map042/events/2/pages/8/418/Dialogue
+\\N[12]. 「Ah, huh...... that sucks so much ...!」#MTLed
+> CONTEXT: Commonevents/264/248/Dialogue
+\\N[12]. 「Ah, huh...... that sucks so much
+...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+じゅううううぅっ！
+> CONTEXT: Map042/events/2/pages/8/421/Dialogue
+Juuuuuuuu!#MTLed
+> CONTEXT: Commonevents/264/251/Dialogue
+Juuuuuuuu!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、あああああぁぁぁっ！」
+> CONTEXT: Map042/events/2/pages/8/423/Dialogue
+\\N[12]. 「Uh, Aaaaaahhhh!」#MTLed
+> CONTEXT: Commonevents/264/253/Dialogue
+\\N[12]. 「Uh, Aaaaaahhhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「んっ、んうっ……♪」
+> CONTEXT: Map042/events/2/pages/8/430/Dialogue
+Diana. 「Huh, uh ......♪」#MTLed
+> CONTEXT: Commonevents/264/260/Dialogue
+Diana. 「Huh, uh ......♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あうっ、ぐっ……」
+> CONTEXT: Map042/events/2/pages/8/433/Dialogue
+\\N[12]. 「Oh, ohhhhh, ohh ....」#MTLed
+> CONTEXT: Commonevents/264/263/Dialogue
+\\N[12]. 「Oh, ohhhhh, ohh ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「どうしたの？
+私を思いっきりイかせてくれるんじゃなかったの？
+\\N[12]ったら、自分だけ気持ちよくなってズルいじゃない♪」
+> CONTEXT: Map042/events/2/pages/8/437/Dialogue
+Diana. 「What's wrong? Were not you trying to keep me wrong?
+\\N[12] Then, it makes me feel comfortable only, I'm not
+scrupulous♪」#MTLed
+> CONTEXT: Commonevents/264/267/Dialogue
+Diana. 「What's wrong? Were not you trying to
+keep me wrong? \\N[12] Then, it makes me feel
+comfortable only, I'm not scrupulous♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、くそぅ……
+ディアーナの舌使い、気持ちよすぎる……」
+> CONTEXT: Map042/events/2/pages/8/442/Dialogue
+\\N[12]. 「Cut, damn .... Diana's tongue use, it feels
+too good ...」#MTLed
+> CONTEXT: Commonevents/264/272/Dialogue
+\\N[12]. 「Cut, damn .... Diana's tongue use,
+it feels too good ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ほらほら、弱音吐いてる暇があったらもっと頑張って。
+私のこともちゃんとイかせなさい、
+男としての意地をちゃんと見せてほしいものだわ」
+> CONTEXT: Map042/events/2/pages/8/446/Dialogue
+Diana. 「oh no, if you have time to vomit, try harder.
+Please do well about me, I would like you to show me the
+meaning as a man」#MTLed
+> CONTEXT: Commonevents/264/276/Dialogue
+Diana. 「oh no, if you have time to vomit, try
+harder. Please do well about me,
+I would like you to show me the meaning as a man」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「と、当然だっ」
+> CONTEXT: Map042/events/2/pages/8/451/Dialogue
+\\N[12]. 「And of course」#MTLed
+> CONTEXT: Commonevents/264/281/Dialogue
+\\N[12]. 「And of course」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あっ、ああああぁぁんっ！
+き、来ちゃうっ……！」
+> CONTEXT: Map042/events/2/pages/8/459/Dialogue
+Diana. 「Oh, Aaaahhhn! Come, come on!」#MTLed
+> CONTEXT: Commonevents/264/289/Dialogue
+Diana. 「Oh, Aaaahhhn! Come, come on!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナが絶頂すると同時に、\\N[12]も射精する。
+> CONTEXT: Map042/events/2/pages/8/463/Dialogue
+At the same time Diana culminates, \\N[12] Also
+ejaculate.#MTLed
+> CONTEXT: Commonevents/264/293/Dialogue
+At the same time Diana culminates, \\N[12]
+Also ejaculate.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あうっ、くっ……
+はぁ、はぁ……」
+> CONTEXT: Map042/events/2/pages/8/470/Dialogue
+\\N[12]. 「An owl,...Ah, Ah ...」#MTLed
+> CONTEXT: Commonevents/264/300/Dialogue
+\\N[12]. 「An owl,...Ah, Ah ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふうっ、なかなかよかったわ、\\N[12]。
+ま、私が一回イくまでに
+あなたは七回も射精しちゃったわけだけど」
+> CONTEXT: Map042/events/2/pages/8/474/Dialogue
+Diana. 「Fortunately, it was quite good, \\N[12] .
+Well, by the time I go through it once. You have ejaculated
+seven times, but」#MTLed
+> CONTEXT: Commonevents/264/304/Dialogue
+Diana. 「Fortunately, it was quite good,
+\\N[12] . Well, by the time I go through it
+once. You have ejaculated seven times, but」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふっ。
+\\N[12]って、剣の勝負ではあれだけ強いのに
+えっちなことになると全然たいしたことないのね」
+> CONTEXT: Map042/events/2/pages/8/483/Dialogue
+Diana. 「Heh. \\N[12] Even though the sword's game is
+that strong. It is not a big deal at all」#MTLed
+> CONTEXT: Commonevents/264/313/Dialogue
+Diana. 「Heh. \\N[12] Even though the sword's
+game is that strong. It is not a big deal at all」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（うう……
+ベッドの上で年下の女に手玉に取られるなんて、
+情けなさすぎる……）
+> CONTEXT: Map042/events/2/pages/8/488/Dialogue
+\\N[12]. (UU……. To be taken over by a young woman on the
+bed, It is too merciless ......)#MTLed
+> CONTEXT: Commonevents/264/318/Dialogue
+\\N[12]. (UU……. To be taken over by a young
+woman on the bed, It is too merciless ......)#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「勝負は私の圧勝に終わったことだし、
+ここからはオマケよ。
+もう一度だけ、あなたを絶頂させてあげる」
+> CONTEXT: Map042/events/2/pages/8/493/Dialogue
+Diana. 「The game is that I ended up winning my victory,
+From here on, I'm free. I will make you cum only once more」#MTLed
+> CONTEXT: Commonevents/264/323/Dialogue
+Diana. 「The game is that I ended up winning my
+victory, From here on, I'm free.
+I will make you cum only once more」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナは、もはや慣れた様子で
+\\N[12]のペニスを舌と唇で刺激してくる。
+> CONTEXT: Map042/events/2/pages/8/498/Dialogue
+Diana seems to have gotten used to it any longer
+\\N[12] I stimulate my penis with my tongue and lips.#MTLed
+> CONTEXT: Commonevents/264/328/Dialogue
+Diana seems to have gotten used to it any longer
+\\N[12] I stimulate my penis with my tongue
+and lips.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちゅっ、ちゅっ……
+れろっ、ちゅぷっ……
+> CONTEXT: Map042/events/2/pages/8/503/Dialogue
+Tsu, tutu ...... Let it be, Chuptu ......#MTLed
+> CONTEXT: Commonevents/264/333/Dialogue
+Tsu, tutu ...... Let it be, Chuptu ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、ああっ！」
+> CONTEXT: Map042/events/2/pages/8/506/Dialogue
+\\N[12]. 「Wow, aah!」#MTLed
+> CONTEXT: Commonevents/264/336/Dialogue
+\\N[12]. 「Wow, aah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふ、ここが弱いのよね、\\N[12]は。
+私の舌で責めてもらえること、光栄に思いなさい」
+> CONTEXT: Map042/events/2/pages/8/509/Dialogue
+Diana. 「Hehe, this is weak, do not you think? \\N[12]
+What. Please be honored to be blamed on my tongue」#MTLed
+> CONTEXT: Commonevents/264/339/Dialogue
+Diana. 「Hehe, this is weak, do not you think?
+\\N[12] What. Please be honored to be blamed
+on my tongue」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナの小さな舌が
+巧みにペニスの性感帯を舐めてくる！
+> CONTEXT: Map042/events/2/pages/8/513/Dialogue
+Diana's little tongue. Skillfully licking the erogenous
+band of the penis!#MTLed
+> CONTEXT: Commonevents/264/343/Dialogue
+Diana's little tongue. Skillfully licking the
+erogenous band of the penis!#MTLed
+> END STRING
+
+> BEGIN STRING
+れろおっ……！
+> CONTEXT: Map042/events/2/pages/8/516/Dialogue
+Re...Oh!#MTLed
+> CONTEXT: Commonevents/264/346/Dialogue
+Re...Oh!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くはっ、ああぁっ！」
+> CONTEXT: Map042/events/2/pages/8/518/Dialogue
+\\N[12]. 「Hey, hey!」#MTLed
+> CONTEXT: Commonevents/264/348/Dialogue
+\\N[12]. 「Hey, hey!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「体がびくって震えているわね。
+こうも簡単に気持ちよくなってくれると、
+こっちも興奮してきちゃうわ」
+> CONTEXT: Map042/events/2/pages/8/522/Dialogue
+Diana. 「I'm trembling as my body gets caught.
+This makes it easy to feel comfortable, I'm getting excited
+too.」#MTLed
+> CONTEXT: Commonevents/264/352/Dialogue
+Diana. 「I'm trembling as my body gets caught.
+This makes it easy to feel comfortable,
+I'm getting excited too.」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、ディアーナはひとしきりペニスを舐め回し、
+舌を竿に這わせると、
+いったん口を離す。
+> CONTEXT: Map042/events/2/pages/8/527/Dialogue
+And Diana licked his penis for a long time,
+When the tongue is made to spread around the rod,
+Take your mouth once.#MTLed
+> CONTEXT: Commonevents/264/357/Dialogue
+And Diana licked his penis for a long time,
+When the tongue is made to spread around the rod,
+Take your mouth once.#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「さて\\N[12]、イかせてほしいわよね？」
+> CONTEXT: Map042/events/2/pages/8/532/Dialogue
+Diana. 「Now \\N[12] Do you want me to lose it, do not
+you?」#MTLed
+> CONTEXT: Commonevents/264/362/Dialogue
+Diana. 「Now \\N[12] Do you want me to lose
+it, do not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「じゃ、ちゃんとお願いしなさい。
+イかせてください、ディアーナ様、ってね」
+> CONTEXT: Map042/events/2/pages/8/538/Dialogue
+Diana. 「OK, please do it properly. Please do not say,
+Diana, please」#MTLed
+> CONTEXT: Commonevents/264/368/Dialogue
+Diana. 「OK, please do it properly.
+Please do not say, Diana, please」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、そんな……」
+> CONTEXT: Map042/events/2/pages/8/542/Dialogue
+\\N[12]. 「Umm...that.」#MTLed
+> CONTEXT: Commonevents/264/372/Dialogue
+\\N[12]. 「Umm...that.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あなたは負けたんだから、そのくらい言ってもらわなきゃ。
+さあ、イかせてもらいたければ言いなさい。
+年下の女に懇願するのよ」
+> CONTEXT: Map042/events/2/pages/8/545/Dialogue
+Diana. 「You have lost, so you have to tell me that much.
+Now, if you want me to lose weight, say it.
+I beg for a young woman」#MTLed
+> CONTEXT: Commonevents/264/375/Dialogue
+Diana. 「You have lost, so you have to tell me
+that much. Now, if you want me to lose weight,
+say it. I beg for a young woman」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……
+お願いします、ディアーナさまっ……
+い、イかせてくださいぃっ！」
+> CONTEXT: Map042/events/2/pages/8/550/Dialogue
+\\N[12]. 「uugh...... Thank you, Diana-sama......
+Wait, please do!」#MTLed
+> CONTEXT: Commonevents/264/380/Dialogue
+\\N[12]. 「uugh...... Thank you, Diana-sama
+......Wait, please do!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あははっ、よく言えたわね！
+いいわ、それじゃ最後は手でイかせてあげる！」
+> CONTEXT: Map042/events/2/pages/8/555/Dialogue
+Diana. 「Hahahah, I could say it! Well, then I will give
+you a hand at the end at the end!」#MTLed
+> CONTEXT: Commonevents/264/385/Dialogue
+Diana. 「Hahahah, I could say it!
+Well, then I will give you a hand at the end at
+the end!」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、ディアーナは
+ペニスを細い手指で揉むように刺激してきた！
+> CONTEXT: Map042/events/2/pages/8/559/Dialogue
+And, Diana. I stimulated the penis to massage with thin
+fingers!#MTLed
+> CONTEXT: Commonevents/264/389/Dialogue
+And, Diana. I stimulated the penis to massage
+with thin fingers!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あひいいぃ……」
+> CONTEXT: Map042/events/2/pages/8/570/Dialogue
+\\N[12]. 「Oh, it is very delicious ......」#MTLed
+> CONTEXT: Commonevents/264/400/Dialogue
+\\N[12]. 「Oh, it is very delicious ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「手でも口でも、\\N[12]は素直にイってくれるわね。
+ふふっ、なんだかおちんちんも
+可愛く感じられてきちゃったわ」
+> CONTEXT: Map042/events/2/pages/8/573/Dialogue
+Diana. 「With hands or mouths, \\N[12] He will
+obediently wear it. Hahaha, what do you think?
+I came to feel cute」#MTLed
+> CONTEXT: Commonevents/264/403/Dialogue
+Diana. 「With hands or mouths, \\N[12] He will
+obediently wear it. Hahaha, what do you think?
+I came to feel cute」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナは再びペニスを口にふくむと、
+ついばむように
+ペニスにキスを繰り返す。
+> CONTEXT: Map042/events/2/pages/8/579/Dialogue
+Diana once again put the penis in her mouth,
+As you can see. I repeat the kiss on the penis.#MTLed
+> CONTEXT: Commonevents/264/409/Dialogue
+Diana once again put the penis in her mouth,
+As you can see. I repeat the kiss on the penis.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あうっ、あっ、あぁ……
+ディアーナの唇、柔らかくて、気持ちいい……」
+> CONTEXT: Map042/events/2/pages/8/583/Dialogue
+\\N[12]. 「Ooh, there, ah...... Diana's lips, soft and
+pleasant......」#MTLed
+> CONTEXT: Commonevents/264/413/Dialogue
+\\N[12]. 「Ooh, there, ah......
+Diana's lips, soft and pleasant......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「気持ちよくなってくれてよかったわ。
+これから、あなたとはいっぱいえっちなことを
+することになるけれど――
+> CONTEXT: Map042/events/2/pages/8/587/Dialogue
+Diana. 「It was nice to be comfortable. From now on, doing
+something nice with you. I will do it, though -#MTLed
+> CONTEXT: Commonevents/264/417/Dialogue
+Diana. 「It was nice to be comfortable.
+From now on, doing something nice with you
+I will do it, though -#MTLed
+> END STRING
+
+> BEGIN STRING
+どうやら、私が主導権を握ることになりそうね。
+毎晩のえっちが楽しみだわ、うふふっ♪」
+> CONTEXT: Map042/events/2/pages/8/592/Dialogue
+Apparently, I think I will take the initiative.
+I'm looking forward to the nightly meeting.♪」#MTLed
+> CONTEXT: Commonevents/264/422/Dialogue
+Apparently, I think I will take the initiative.
+I'm looking forward to the nightly meeting.♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は
+ディアーナとのシックスナイン勝負に敗れ、
+夜の生活の主導権を
+この小さな少女に奪われることになってしまったのである。
+> CONTEXT: Map042/events/2/pages/8/596/Dialogue
+In this way, \\N[12] Is. Lost in 69 matches with Diana,
+Lead the initiative in night life. It was decided to be
+robbed by this little girl.#MTLed
+> CONTEXT: Commonevents/264/426/Dialogue
+In this way, \\N[12] Is. Lost in 69 matches
+with Diana, Lead the initiative in night life
+It was decided to be robbed by this little girl.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（情けないことになっちまったが……
+まあ、気持ちよくなれるし、これも悪くないか……）
+> CONTEXT: Map042/events/2/pages/8/601/Dialogue
+\\N[12]. (I got to be miserable...... Well, I feel
+comfortable, this is not too bad ......)#MTLed
+> CONTEXT: Commonevents/264/431/Dialogue
+\\N[12]. (I got to be miserable......
+Well, I feel comfortable, this is not too bad
+......)#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナの舌の感触を下半身に感じながら、
+\\N[12]はそう思うのだった。
+> CONTEXT: Map042/events/2/pages/8/605/Dialogue
+Feeling the feeling of Diana's tongue in the lower body,
+\\N[12] I thought so.#MTLed
+> CONTEXT: Commonevents/264/435/Dialogue
+Feeling the feeling of Diana's tongue in the
+lower body, \\N[12] I thought so.#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ　グッドエンド：貴族少女の婿
+> CONTEXT: Map042/events/2/pages/8/608/Dialogue
+Diana Good End: Son of a nobleman girl#MTLed
+> CONTEXT: Commonevents/264/438/Dialogue
+Diana Good End: Son of a nobleman girl#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「まさか、あなたのような庶民が
+王女殿下の結婚相手になるだなんてね。
+でも、実力からいえばその座にふさわしいわ、おめでとう」
+> CONTEXT: Map042/events/2/pages/9/0/Dialogue
+Diana. 「No wonder the ordinary people like you
+It will not be a marriage partner of the
+Princess. But, from the point of view, I deserve
+that place, congratulations.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あら、\\N[12]じゃない。
+武道大会優勝、見事と言っておくわ」
+> CONTEXT: Map042/events/2/pages/10/1/Dialogue
+Diana. 「Oh, \\N[12] not. I will tell you that
+I won the martial arts tournament victory」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ま、この私を破って勝ち抜いていったんだもの、
+優勝するのも不自然なことではないわよねっ」
+> CONTEXT: Map042/events/2/pages/10/6/Dialogue
+Diana. 「Well, I broke this and won the
+tournament, It is not unnatural to win the
+victory」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとう、ディアーナ」
+> CONTEXT: Map042/events/2/pages/10/14/Dialogue
+\\N[12]. 「Thanks, Diana」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ところで、私になにか用かしら？」
+> CONTEXT: Map042/events/2/pages/10/17/Dialogue
+Diana. 「By the way, I wonder what it is for me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、実は折り入って相談したいことがあってさ」
+> CONTEXT: Map042/events/2/pages/10/20/Dialogue
+\\N[12]. 「Oh, in fact there are things I want to fold
+into and consult」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふうん、何かしら。
+いいわよ、優勝者のあなたが私に何を聞きたいのか
+興味深いわね」
+> CONTEXT: Map042/events/2/pages/10/23/Dialogue
+Diana. 「Well, something. Okay, what does the
+winner want to ask me? Interesting.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あら、あなた\\N[12]選手ね。
+優勝おめでとう、
+あの姫様に勝つだなんて、庶民にしてはやるじゃない。
+> CONTEXT: Map042/events/2/pages/10/30/Dialogue
+Diana. 「Oh, you \\N[12] It is a player.
+congratulations for winning, To have that
+princess win is not done for the common people.#MTLed
+> END STRING
+
+> BEGIN STRING
+いえ、もう庶民じゃなくなるんだったわね。
+姫様を娶るということは、王配になるんだから」
+> CONTEXT: Map042/events/2/pages/10/35/Dialogue
+No, it was not an ordinary people anymore.
+Because being a princess is going to be a royalty
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとう、まだあんまり実感はないけどな……」
+> CONTEXT: Map042/events/2/pages/10/38/Dialogue
+\\N[12]. 「Thank you, I have not realized so much yet ...
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ところで、私に何か用なのかしら？
+将来の王配たるあなたが訪問してくるだなんて、
+ただ事とは思えないのだけど」
+> CONTEXT: Map042/events/2/pages/10/41/Dialogue
+Diana. 「By the way, is there something for me?
+I wonder if you are going to visit future king
+owner, I do not think it's just a thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、実は誰か、身分の高い人に
+相談に乗って欲しいことがあってな。
+不躾だが、訪問させてもらったわけだ」
+> CONTEXT: Map042/events/2/pages/10/46/Dialogue
+\\N[12]. 「Oh, in fact someone, a high-profile person
+There is something I want you to get in consultation.
+It is unbalance, but I had him visit me」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふうん、何かしら。
+あなたほどの人が私に何を聞きたいというのか、
+興味深いわね」
+> CONTEXT: Map042/events/2/pages/10/51/Dialogue
+Diana. 「Well, something. I wonder what people
+like you want to ask me, Interesting.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「女王の試練……
+そんな慣習があるなんて初めて知ったわ」
+> CONTEXT: Map042/events/2/pages/10/60/Dialogue
+Diana. 「Queen's trial ...... I knew for the
+first time that such a custom existed」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「レイア、あなたはどう？」
+> CONTEXT: Map042/events/2/pages/10/66/Dialogue
+Diana. 「Leia, how about you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+レイア
+「存じております、
+私は一年前まではロイヤルガードでしたから。
+お嬢様がご存じないのは無理もありません。
+> CONTEXT: Map042/events/2/pages/10/70/Dialogue
+Leia. 「I know. Because I was a royal guard until one year
+ago. There is no impossibility that the lady does not know.#MTLed
+> END STRING
+
+> BEGIN STRING
+女王の試練は、
+平民を王族に迎え入れる際に行われる儀式。
+そんな事例は、ここ百年ほどありませんでしたから」
+> CONTEXT: Map042/events/2/pages/10/75/Dialogue
+The Queen's trial, A ceremony held when welcoming commoners
+into royalty. I have not had such a case for about a
+hundred years」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「なるほどね、確かに異例のことよね。
+あのアルミナ殿下の気まぐれがなかったら、
+たぶん他国から王子様を婿として迎えてたはずだもの」
+> CONTEXT: Map042/events/2/pages/10/79/Dialogue
+Diana. 「Indeed, it is certainly unusual.
+Without the capriciousness of His Highness
+alumna, Perhaps you should have picked up the
+prince from another country as a son-in-law」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「レイアさん、だったか。
+百年もやっていない慣習だというなら、
+逆に、あなたはよく知っていたな」
+> CONTEXT: Map042/events/2/pages/10/84/Dialogue
+\\N[12]. 「Mr. Leia, was that you? If it is said that it
+is a custom not done for hundred years, Conversely, you
+knew well」#MTLed
+> END STRING
+
+> BEGIN STRING
+レイア
+「私が知っているのは当然のことなのです。
+女王の試練においては、城に所属する兵士やロイヤルガードが
+挑戦者の前に障害として立ちふさがることになる。
+> CONTEXT: Map042/events/2/pages/10/89/Dialogue
+Leia. 「It is a matter of course that I know.
+In the trial of the Queen, soldiers belonging to the castle
+and royal guard. It will stand as an obstacle in front of
+the challenger.#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士もロイヤルガードも、そのときのために
+試練の詳細を教えられているのですよ」
+> CONTEXT: Map042/events/2/pages/10/94/Dialogue
+Soldiers and royal guards, for that time
+It is taught the details of the trial」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほどな。
+そうか、じゃあ兵士やロイヤルガードが
+俺の邪魔をしてくるのか……」
+> CONTEXT: Map042/events/2/pages/10/97/Dialogue
+\\N[12]. 「got it. Ok, then soldiers and royal guard
+Does it disturb me ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+レイア
+「兵士は数が多く、ロイヤルガードは腕が立つ。
+どちらも、あなたにとっては厄介な相手のはずです」
+> CONTEXT: Map042/events/2/pages/10/102/Dialogue
+Leia. 「There are a lot of soldiers and the royal guard is
+skillful. Both are supposed to be a nasty opponent for you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「心しておくよ」
+> CONTEXT: Map042/events/2/pages/10/106/Dialogue
+\\N[12]. 「I will keep it mind.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「レイアがここにいてよかったわね。
+それで、相談っていうのはこのことなの？」
+> CONTEXT: Map042/events/2/pages/10/111/Dialogue
+Diana. 「I am glad that Leia is here.
+So, is that consultation this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、いや、聞きたいことは別にあるんだ。
+俺はレストン出身だし、エルミア城のことは全然知らない。
+貴族であるキミなら、城の抜け道とかを知らないかと思ってな」
+> CONTEXT: Map042/events/2/pages/10/115/Dialogue
+\\N[12]. 「Oh no, I have something I want to ask.
+I'm from Reston and I do not know about Elmier castle at
+all. If you are a nobleman, do not you think that you do
+not know the way out of the castle?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「そうね……万が一のときの脱出路はあると聞いているわ。
+でも、私やお父様もどこにそれがあるかは知らないわよ。
+抜け道の位置を知っているのは王族だけなの」
+> CONTEXT: Map042/events/2/pages/10/120/Dialogue
+Diana. 「Well...I heard that there are escape
+routes when it should come. But I and the father
+do not know where it is. It is only the royal
+family who knows the location of the loophole」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうなのか……」
+> CONTEXT: Map042/events/2/pages/10/125/Dialogue
+> CONTEXT: Map025/events/42/pages/3/39/Dialogue
+\\N[12]. 「Well, maybe ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「力になれなくて申し訳ないけれど」
+> CONTEXT: Map042/events/2/pages/10/128/Dialogue
+Diana. 「I am sorry I can not become a force」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、興味深い話を聞けたよ、ありがとう。
+急に訪問してすまなかったな」
+> CONTEXT: Map042/events/2/pages/10/131/Dialogue
+\\N[12]. 「No, I heard an interesting story, thank you.
+Suddenly I was sorry to have visited you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「女王の試練……
+なかなか、王族になるというのも大変そうね」
+> CONTEXT: Map042/events/2/pages/11/0/Dialogue
+Diana. 「Queen's trial ...... It seems quite
+difficult to become a royal family」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士レイア
+「私は元ロイヤルガードのレイアと申します。
+ディアーナお嬢様の警護役でありますが、
+剣術指南役も同時に任されております」
+> CONTEXT: Map042/events/3/pages/0/0/Dialogue
+Swordsman Leia. 「My name is Leia, a former royal guard.
+Diana It is a guardian of the mistress, We are also
+entrusted with the role of fencing swordsmanship at the
+same time」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士レイア
+「あなたに負けたことが良い刺激になったようで、
+お嬢様はとても熱心に稽古をされるようになりました。
+私からもお礼申し上げます」
+> CONTEXT: Map042/events/3/pages/1/0/Dialogue
+Swordsman Leia. 「It seems that it was a good stimulation
+to be defeated by you, The girlfriend began practicing with
+enthusiasm very much. I also would like to thank you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士レイア
+「お嬢様を負かすとは、あなたもなかなかやりますね。
+でも、これでお嬢様もますます稽古に励まれるはず。
+敗北がお嬢様を強くすることでしょう」
+> CONTEXT: Map042/events/3/pages/2/0/Dialogue
+Swordsman Leia. 「You are going to do a lot to defeat the
+lady. But this time the girls will be encouraged to
+practice. Defeat will strengthen the lady」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士レイア
+「お嬢様は、あなたに大切な話があるようです。
+どうか、真剣に聞いてあげてください」
+> CONTEXT: Map042/events/3/pages/3/0/Dialogue
+Swordsman Leia. 「Your lady seems to have an important
+story to you. Please, please listen seriously」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士レイア
+「あなたは姫様の婿になられるのですね。
+剣の腕一本で王配の座を掴むとは、素晴らしいことです」
+> CONTEXT: Map042/events/3/pages/4/0/Dialogue
+Swordsman Leia. 「You become a son-in-law of the princess.
+It is wonderful to grab the king's seat with a sword's arm」#MTLed
+> END STRING
+
+> BEGIN STRING
+剣士レイア
+「お嬢様は外出なさいました」
+> CONTEXT: Map042/events/3/pages/5/0/Dialogue
+Swordsman Leia. 「The lady went out」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「こちらは来客用の寝室となっております」
+> CONTEXT: Map042/events/4/pages/0/0/Dialogue
+A maid. 「This is our bedroom for visitors」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード夫人
+「娘のディアーナは天才的な剣技を身につけていると
+指南役のレイアも言ってくれていますのよ。
+自慢の娘ですわ、ほほほ」
+> CONTEXT: Map042/events/5/pages/0/0/Dialogue
+Mrs. Beckford. 「My daughter Diana wears a genius sword
+technique. Leia of the guiding director also said.
+I am a proud daughter, hohoho」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「お嬢様は可憐さと強さを兼ね備えていて、
+とても魅力的な方なんですよ。
+まだ学院に通われる若さだというのに、凄いです」
+> CONTEXT: Map042/events/7/pages/0/0/Dialogue
+A maid. 「Milady combines cuddiness and strength,
+It is a very attractive person. Although it is still
+youthful to be attended to the academy, it is amazing」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「くすくす……
+あれだけ私に恥をかかされたというのに、
+自分から召使いになりたいだなんて、プライドないのね」
+> CONTEXT: Map042/events/10/pages/0/5/Dialogue
+Diana. 「... .... Even though that shame was
+brought to me by that much, You do not have a
+pride to want to be a servant from yourself」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「し、仕方ないだろう、
+国中の女が俺のことを軽蔑してるんだから……
+俺にはもう、居場所がないんだ」
+> CONTEXT: Map042/events/10/pages/0/10/Dialogue
+\\N[12]. 「Well, it can not be helped, A woman in the
+country is despising me...... I already have no
+whereabouts」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「あら、これから召使いになるというのに
+そういう言葉遣いはないんじゃない？
+ちゃんと敬語で喋ってくれないと示しがつかないわ」
+> CONTEXT: Map042/events/10/pages/0/15/Dialogue
+Diana. 「Oh, even though I will become a servant
+from now on. Is not that wording like that?
+I can not show it unless you speak properly in
+honorific.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……わ、わかりました……
+ディアーナ様……」
+> CONTEXT: Map042/events/10/pages/0/20/Dialogue
+\\N[12]. 「Oooh...ok, I understand......
+Dear Mr. Diana ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「結構。今日からお前は私の召使いよ。
+身の回りの警護とか使い走りとか、
+いろいろと役に立ってもらうわ」
+> CONTEXT: Map042/events/10/pages/0/24/Dialogue
+Diana. 「very well. From today you are my servant.
+Personal belongings such as guard and personal
+use, And I'll get it useful」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい……」
+> CONTEXT: Map042/events/10/pages/0/29/Dialogue
+\\N[12]. 「Yes……」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「年下の女に仕えるのは屈辱かもしれないけど、
+すぐに慣れるわ。
+もう武道大会で格の違いは思い知ったでしょうしね」
+> CONTEXT: Map042/events/10/pages/0/32/Dialogue
+Diana. 「It may be humiliation to serve a young
+woman, I will get used to it soon.
+You already realized the difference in the case
+in martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（この女の子は、俺よりも間違いなく才能で満ちている。
+俺みたいな平民じゃ
+貴族の女の子には歯が立つわけがなかったってことか……）
+> CONTEXT: Map042/events/10/pages/0/37/Dialogue
+\\N[12]. (This girl is definitely filled with talent
+better than I am. It is a commoner like me.
+I heard that it was impossible for a noble girl to have a
+tooth ......)#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は自分よりも年下の女の子に敗北し、
+大勢の前で性的な恥辱まで味わわされて屈服した。
+> CONTEXT: Map042/events/10/pages/0/43/Dialogue
+In this way, \\N[12] He was defeated by a younger girl
+than himself, I was brought down to taste even sexual shame
+in front of a lot of people.#MTLed
+> END STRING
+
+> BEGIN STRING
+その後は、ディアーナの召使いとして忠実に仕え、
+たまに彼女に性的ないたずらをされたりしながら
+貴族と庶民の格の違いを思い知らされる日々を
+送ることになるのだった……
+> CONTEXT: Map042/events/10/pages/0/46/Dialogue
+After that, serve faithfully as a servant of Diana,
+While occasionally being sexually mischievous with her
+Every day you will be aware of the differences between the
+nobility and common people. I will send it.......#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ バッドエンド：貴族の少女に屈服
+> CONTEXT: Map042/events/10/pages/0/51/Dialogue
+Diana bad end: yielding to a girl of aristocracy#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「この私に勝つぐらいだから
+ただ者じゃないとは思っていたけれど、
+あなた、庶民にしてはかなり才能あるのねっ」
+> CONTEXT: Map042/events/2/pages/8/14/Dialogue < UNTRANSLATED
+
+> END STRING

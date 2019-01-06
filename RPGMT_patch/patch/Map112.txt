@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ワームホール
+> CONTEXT: Map112/display_name/
+Wormhole#MTLed
+> END STRING

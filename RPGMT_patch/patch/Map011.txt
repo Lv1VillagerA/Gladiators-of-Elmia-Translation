@@ -1,0 +1,159 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+おじさん
+「よう、\\N[12]。
+なんだ、武具が欲しいのか？」
+> CONTEXT: Map011/events/1/pages/0/0/Dialogue
+old man. 「Yo, \\N[12] . What, do you want arms?」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「やっぱ、王都の武具は品質がいいのか？
+俺も、もっと頑張らなきゃなあ」
+> CONTEXT: Map011/events/1/pages/0/18/Dialogue
+old man. 「After all, is the quality of the weapon of the
+kingdom good? I also have to work harder」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「うちの武器や防具で武道大会に出るのは無茶だと思うぜ？
+王都に行けば、もっといいものが手に入るだろうさ」
+> CONTEXT: Map011/events/1/pages/0/24/Dialogue
+old man. 「I think that it is inconvenient to go out to
+martial arts tournament with our weapons and armor?
+If you go to Kingdom, you will get better things」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「いらっしゃい、\\N[12]君。
+道具が欲しいの？」
+> CONTEXT: Map011/events/4/pages/0/0/Dialogue
+Woman. 「welcome, \\N[12] You. Do you want tools?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「一人旅なら魔物も危険だし、回復薬と神々の羽は
+最低限持っていくことをお勧めするわ」
+> CONTEXT: Map011/events/4/pages/0/12/Dialogue
+Woman. 「Monster is dangerous when traveling alone,
+recovery drugs and feathers of the gods are
+I recommend you to take at least it」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ギル
+「この村で売ってる武器でも馬鹿にしたもんじゃない。
+外の魔物を退治するには充分すぎる品質だぜ。
+> CONTEXT: Map011/events/5/pages/0/0/Dialogue
+militia member Gill. 「I did not make a fool of the weapons
+I sold in this village. It is too much quality to get rid
+of the outside monster.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ、武道大会で通用するかどうかは
+微妙だけどな……」
+> CONTEXT: Map011/events/5/pages/0/4/Dialogue
+However, whether to pass in martial arts tournament
+It's subtle ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ギル
+「\\N[12]に続く武道大会優勝者を村から出すためには
+武具の質の向上も必須だと思うんだよな。
+俺、自警団やめて武器職人になろうかなあ……」
+> CONTEXT: Map011/events/5/pages/1/0/Dialogue
+militia member Gill. 「\\N[12] To bring out the martial
+arts tournament winner following the village
+I think that improving the quality of armor is also
+essential. I, I want to become a weapon craftworker by
+stopping a vigilante group ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+行商人
+「この村には魚などを仕入れによく来るんですがね……
+洞窟が盗賊団に閉鎖されているせいで、
+王都に戻ることができない。弱りましたよ」
+> CONTEXT: Map011/events/7/pages/0/0/Dialogue
+> CONTEXT: Map011/events/7/pages/1/0/Dialogue
+Peddler. 「I often come to purchase fish etc in this
+village ...... Because the cave is closed to bandits,
+I can not return to the kingdom. I am weak.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こんちわ。あんたが王都から来てるっていう行商の人かい？」
+> CONTEXT: Map011/events/7/pages/1/5/Dialogue
+\\N[12]. 「Hello. Are you a peddler who is coming from
+the king?」#MTLed
+> END STRING
+
+> BEGIN STRING
+行商人
+「ええ、そうですが……
+なにか、ご用でしょうか？」
+> CONTEXT: Map011/events/7/pages/1/8/Dialogue
+Peddler. 「Well, yes, but ... Is there anything you want?」#MTLed
+> END STRING
+
+> BEGIN STRING
+行商人
+「なんと、もう洞窟は通れるようになっているのですか。
+それは良かった、これで王都に帰れます。
+ようやく、仕入れた品物を売りに行ける……」
+> CONTEXT: Map011/events/7/pages/1/16/Dialogue
+Peddler. 「How come the cave can pass through it already?
+That was okay, we can return to the Kingdom with this.
+Finally, you can go for selling goods you purchased ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そういうわけだから、釣りのおっさんから川魚を受け取って
+アーロンさんのレストランに納品してもらえるかい？」
+> CONTEXT: Map011/events/7/pages/1/21/Dialogue
+\\N[12]. 「That's why, I received a river fish from a
+fishing guy. Can you deliver it to a restaurant in
+Aaron-san?」#MTLed
+> END STRING
+
+> BEGIN STRING
+行商人
+「承りました、もともとアーロンハウスに魚を納品するのは
+私としても良い稼ぎになりますからな。
+間違いなく、お届けいたしましょう」
+> CONTEXT: Map011/events/7/pages/1/25/Dialogue
+Peddler. 「We are delighted to deliver fish to Aaron House
+I will make a good earnings as well. No doubt, let's
+deliver」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがたい、よろしく頼むぜ」
+> CONTEXT: Map011/events/7/pages/1/30/Dialogue
+\\N[12]. 「Thankfully, I'm begging for you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、これで川魚については何とかなりそうだな。
+> CONTEXT: Map011/events/7/pages/1/34/Dialogue
+\\N[12]. 「Alright, this seems to work for river fish.#MTLed
+> END STRING
+
+> BEGIN STRING
+あとは海魚か……
+さっきの釣りのおじさんに
+もう一度話をしてみようかな？」
+> CONTEXT: Map011/events/7/pages/1/37/Dialogue
+Is it a sea fish? To the old man of the previous fishing
+Let's talk again.」#MTLed
+> END STRING

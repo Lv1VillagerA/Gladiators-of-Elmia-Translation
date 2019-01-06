@@ -1,0 +1,1108 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ミリーナ
+「やっぱり、女が男の子にお礼をするって言ったら
+こういうことだよねー」
+> CONTEXT: Map142/events/2/pages/0/6/Dialogue
+Mileena. 「After all, if a woman says that she will thank a
+boy. It is such a thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おいおい、いいのか？
+ただ一緒に鉱石探しをしただけの仲なのに
+体を許すなんて」
+> CONTEXT: Map142/events/2/pages/0/10/Dialogue
+\\N[12]. 「Hey you, is it okay? Just being together with
+just looking for ore. To forgive your body」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あたしだって、誰でもいいわけじゃないよ。
+> CONTEXT: Map142/events/2/pages/0/15/Dialogue
+Mileena. 「Even I do not mean anyone.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「み、ミリーナ……
+ベッドで待ってたっていうことは、
+やっぱり、そういうことをさせてくれるのか？」
+> CONTEXT: Map142/events/3/pages/0/3/Dialogue
+\\N[12]. 「Mi, Mileena ...... Waiting at bed,
+After all, will you let me do that?」#MTLed
+> CONTEXT: Commonevents/261/1/Dialogue
+\\N[12]. 「Mi, Mileena ...... Waiting at bed,
+After all, will you let me do that?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うん、もちろん。
+\\N[12]には、こういうお礼がいいかなって」
+> CONTEXT: Map142/events/3/pages/0/8/Dialogue
+> CONTEXT: Commonevents/261/6/Dialogue
+Mileena. 「Yes, of course. \\N[12] I wonder if
+I can thank this kind of thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いいのか？
+俺に体を許すなんて」
+> CONTEXT: Map142/events/3/pages/0/12/Dialogue
+\\N[12]. 「Is it okay? I can not forgive my body」#MTLed
+> CONTEXT: Commonevents/261/10/Dialogue
+\\N[12]. 「Is it okay? I can not forgive my
+body」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「いやあ、短い間とはいえ一緒に死線をくぐったし、
+お互いの背中を守りあったわけじゃん。
+結構、あたしはその気になっちゃったんだよね」
+> CONTEXT: Map142/events/3/pages/0/16/Dialogue
+> CONTEXT: Commonevents/261/14/Dialogue
+Mileena. 「Well, I came across the death line for
+a short while, You guarded each other's back.
+I'm pretty sure I felt that way」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだったのか……」
+> CONTEXT: Map142/events/3/pages/0/21/Dialogue
+> CONTEXT: Map130/events/40/pages/0/248/Dialogue
+> CONTEXT: Map130/events/40/pages/1/128/Dialogue
+> CONTEXT: Map130/events/41/pages/0/248/Dialogue
+> CONTEXT: Map130/events/41/pages/1/128/Dialogue
+\\N[12]. 「Is that so……」#MTLed
+> CONTEXT: Commonevents/261/19/Dialogue
+\\N[12]. 「Is that so……」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ま、ホント言うと武道大会で負けたときから
+この人結構いいなって思ってたんだよ。
+> CONTEXT: Map142/events/3/pages/0/24/Dialogue
+> CONTEXT: Commonevents/261/22/Dialogue
+Mileena. 「Well, to be honest, from when we lost
+in martial arts tournament. I thought that this
+person is fine.#MTLed
+> END STRING
+
+> BEGIN STRING
+えっちなこと要求してこなかったし、
+この大会に本気で臨んでるんだなって思った。
+かっこいい男の子だなって感じたんだよ」
+> CONTEXT: Map142/events/3/pages/0/28/Dialogue
+> CONTEXT: Commonevents/261/26/Dialogue
+I have not requested anything illegitimate,
+I thought that I am seriously going to this
+tournament. I felt it was a cool boy」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんだか照れくさいな、そう言われると」
+> CONTEXT: Map142/events/3/pages/0/32/Dialogue
+\\N[12]. 「It's kind of embarrassing, as I told you」#MTLed
+> CONTEXT: Commonevents/261/30/Dialogue
+\\N[12]. 「It's kind of embarrassing, as I
+told you」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「もちろん、\\N[12]が嫌なら
+他のことでお礼しようと思ってるけど？」
+> CONTEXT: Map142/events/3/pages/0/35/Dialogue
+> CONTEXT: Commonevents/261/33/Dialogue
+Mileena. 「of course, \\N[12] If I do not like
+it. I am planning to thank you for other things?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「嫌っていうことはないよ、
+俺だってお前のことは可愛いと思ってる。
+お前がいいっていうんなら……
+> CONTEXT: Map142/events/3/pages/0/39/Dialogue
+\\N[12]. 「I do not dislike it, I think that you are
+cute. If you say that you are okay ...#MTLed
+> CONTEXT: Commonevents/261/37/Dialogue
+\\N[12]. 「I do not dislike it,
+I think that you are cute. If you say that you
+are okay ...#MTLed
+> END STRING
+
+> BEGIN STRING
+その、そういうことをさせてもらうからな。
+後から嫌だって言っても聞かないぞ」
+> CONTEXT: Map142/events/3/pages/0/44/Dialogue
+I will let you do that kind of thing. I will not ask you
+even if I say I do not want it later」#MTLed
+> CONTEXT: Commonevents/261/42/Dialogue
+I will let you do that kind of thing.
+I will not ask you even if I say I do not want it
+later」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「それこそ嫌だなんて言わないって、
+むしろこっちからサービスしてあげちゃう。
+ほらほら、ベッドに上がってよ」
+> CONTEXT: Map142/events/3/pages/0/47/Dialogue
+> CONTEXT: Commonevents/261/45/Dialogue
+Mileena. 「I do not say that I do not want it,
+I'm going to serve you from here.
+oh no, go up to bed」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、おう……」
+> CONTEXT: Map142/events/3/pages/0/52/Dialogue
+> CONTEXT: Map058/events/11/pages/1/10/Dialogue
+\\N[12]. 「Ooh!」#MTLed
+> CONTEXT: Commonevents/261/50/Dialogue
+\\N[12]. 「Ooh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そんじゃ、このままで失礼するねー
+パンツは脱いでるから、ちゃんとセックスできるよ」
+> CONTEXT: Map142/events/3/pages/0/61/Dialogue
+> CONTEXT: Commonevents/261/53/Dialogue
+Mileena. 「Then, I will excuse myself as it is
+I am taking off my panties, so I can have sex
+properly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんか、思ったよりミリーナって
+こいういうことに開放的な性格してたんだなあ……」
+> CONTEXT: Map142/events/3/pages/0/65/Dialogue
+\\N[12]. 「Something, Mileena is more than I thought
+It was an open-minded personality ...」#MTLed
+> CONTEXT: Commonevents/261/57/Dialogue
+\\N[12]. 「Something, Mileena is more than I
+thought. It was an open-minded personality ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「どうかなー、いいなって思った人相手じゃなきゃ
+こういうことはしないけどね、さすがに。
+じゃ、服を脱がせてあげる」
+> CONTEXT: Map142/events/3/pages/0/69/Dialogue
+> CONTEXT: Commonevents/261/61/Dialogue
+Mileena. 「I do not care, who I thought was a
+nice person. I will not do such a thing, but it's
+truly. Well, I will take my clothes off」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、おお……」
+> CONTEXT: Map142/events/3/pages/0/74/Dialogue
+\\N[12]. 「Oh, oh ......」#MTLed
+> CONTEXT: Commonevents/261/66/Dialogue
+\\N[12]. 「Oh, oh ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そんでもって、あたしが上になるからね」
+> CONTEXT: Map142/events/3/pages/0/77/Dialogue
+> CONTEXT: Commonevents/261/69/Dialogue
+Mileena. 「Then I will be on top」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は裸にされ、ミリーナに組み敷かれた。
+> CONTEXT: Map142/events/3/pages/0/83/Dialogue
+\\N[12] It was naked and covered in Mileena.#MTLed
+> CONTEXT: Commonevents/261/75/Dialogue
+\\N[12] It was naked and covered in Mileena.#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「おっ、もう勃起してるじゃん。
+感心感心、受け入れ準備万端だね」
+> CONTEXT: Map142/events/3/pages/0/86/Dialogue
+Mileena. 「Hey, he's already erecting. A sense of
+admiration, it's ready to accept」#MTLed
+> CONTEXT: Commonevents/261/78/Dialogue
+Mileena. 「Hey, he's already erecting.
+A sense of admiration, it's ready to accept」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それは、お前みたいな女に誘われたら
+こうなっちまうって」
+> CONTEXT: Map142/events/3/pages/0/90/Dialogue
+\\N[12]. 「If it is invited by a woman like you
+Cutting like this」#MTLed
+> CONTEXT: Commonevents/261/82/Dialogue
+\\N[12]. 「If it is invited by a woman like you
+Cutting like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「嬉しいこと言ってくれるね、ふふっ。
+さて、今日はお礼だし、キミは何もしなくて大丈夫。
+あたしがキミをたっぷり気持ちよくしてあげるからね」
+> CONTEXT: Map142/events/3/pages/0/94/Dialogue
+Mileena. 「He will say something happy, heh heh.
+Well, thanks for today, Kimi is fine without doing
+anything. I will make you feel good with plenty」#MTLed
+> CONTEXT: Commonevents/261/86/Dialogue
+Mileena. 「He will say something happy, heh heh.
+Well, thanks for today, Kimi is fine without
+doing anything. I will make you feel good with
+plenty」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、ミリーナはためらいもなく
+腰を落として\\N[12]のペニスを膣で飲み込む！
+> CONTEXT: Map142/events/3/pages/0/99/Dialogue
+And Mileena has no hesitation. Sit down \\N[12] Swallow
+the penis in his vagina!#MTLed
+> CONTEXT: Commonevents/261/91/Dialogue
+And Mileena has no hesitation. Sit down
+\\N[12] Swallow the penis in his vagina!#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅううううぅぅっ！
+> CONTEXT: Map142/events/3/pages/0/103/Dialogue
+It's hard!#MTLed
+> CONTEXT: Commonevents/261/95/Dialogue
+It's hard!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くううぅっ！」
+> CONTEXT: Map142/events/3/pages/0/106/Dialogue
+\\N[12]. 「Kuuuuuuu!」#MTLed
+> CONTEXT: Commonevents/261/98/Dialogue
+\\N[12]. 「Kuuuuuuu!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「んっ……お、おっきい……！
+でも、奥まで入った、かな……」
+> CONTEXT: Map142/events/3/pages/0/109/Dialogue
+Mileena. 「Huh ...... Oh, oh! ...! But, I wonder if I came
+all the way ......」#MTLed
+> CONTEXT: Commonevents/261/101/Dialogue
+Mileena. 「Huh ...... Oh, oh! ...!
+But, I wonder if I came all the way ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（せ、狭い……
+それに、こいつの膣内、温かくて……
+このままじゃ、すぐにでもイっちまいそうだ）
+> CONTEXT: Map142/events/3/pages/0/113/Dialogue
+\\N[12]. (Well, narrow ... Besides, inside of his
+vagina, warm ... ... It seems like it will be impatient as
+soon as it is as it is)#MTLed
+> CONTEXT: Commonevents/261/105/Dialogue
+\\N[12]. (Well, narrow ... Besides, inside of
+his vagina, warm ... ... It seems like it will be
+impatient as soon as it is as it is)#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うーん、切ない顔してるねえ、\\N[12]君。
+そんなに気持ちいいの？」
+> CONTEXT: Map142/events/3/pages/0/118/Dialogue
+Mileena. 「Well, I have a bad face. \\N[12] You.
+Do you feel so comfortable?」#MTLed
+> CONTEXT: Commonevents/261/110/Dialogue
+Mileena. 「Well, I have a bad face. \\N[12]
+You. Do you feel so comfortable?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああ……すげえ心地いい……」
+> CONTEXT: Map142/events/3/pages/0/122/Dialogue
+\\N[12]. 「Oh, oh ...... I feel comfortable ... ...」#MTLed
+> CONTEXT: Commonevents/261/114/Dialogue
+\\N[12]. 「Oh, oh ...... I feel comfortable
+... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「だったら、我慢しないで出しちゃってもいいのに。
+とりあえず、このまま動くからね」
+> CONTEXT: Map142/events/3/pages/0/125/Dialogue
+Mileena. 「Then, you can put it without putting it up.
+Anyway, because it moves like this」#MTLed
+> CONTEXT: Commonevents/261/117/Dialogue
+Mileena. 「Then, you can put it without putting
+it up. Anyway, because it moves like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅっ、ずっ……ずぷっ……
+> CONTEXT: Map142/events/3/pages/0/132/Dialogue
+Absolutely ... ....#MTLed
+> CONTEXT: Commonevents/261/124/Dialogue
+Absolutely ... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、あああぁぁっ！」
+> CONTEXT: Map142/events/3/pages/0/134/Dialogue
+\\N[12]. 「Cut, Aaahhh!」#MTLed
+> CONTEXT: Commonevents/261/126/Dialogue
+\\N[12]. 「Cut, Aaahhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「え、もう出しちゃったの？」
+> CONTEXT: Map142/events/3/pages/0/141/Dialogue
+Mileena. 「Well, have you taken out already?」#MTLed
+> CONTEXT: Commonevents/261/133/Dialogue
+Mileena. 「Well, have you taken out already?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、ううっ……」
+> CONTEXT: Map142/events/3/pages/0/144/Dialogue
+> CONTEXT: Map042/events/2/pages/8/479/Dialogue
+> CONTEXT: Map025/events/267/pages/1/291/Dialogue
+\\N[12]. 「Uoo, uugh ... ...」#MTLed
+> CONTEXT: Commonevents/9/196/Dialogue
+> CONTEXT: Commonevents/227/197/Dialogue
+> CONTEXT: Commonevents/261/136/Dialogue
+> CONTEXT: Commonevents/264/309/Dialogue
+> CONTEXT: Map149/events/38/pages/1/246/Dialogue
+\\N[12]. 「Uoo, uugh ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そっかぁ、そんなに気持ちよかったんだ。
+あたしも結構心地いいよ、
+中に出される感覚って悪くないなあ。
+> CONTEXT: Map142/events/3/pages/0/148/Dialogue
+Mileena. 「I see, I felt so comfortable. I feel pretty
+comfortable, I do not feel bad in being sent out.#MTLed
+> CONTEXT: Commonevents/261/140/Dialogue
+Mileena. 「I see, I felt so comfortable.
+I feel pretty comfortable, I do not feel bad in
+being sent out.#MTLed
+> END STRING
+
+> BEGIN STRING
+さて、じゃあもっと気持ちよくしてあげる。
+\\N[12]の精液、あたしの中で
+いっぱい受け止めてあげるからね」
+> CONTEXT: Map142/events/3/pages/0/153/Dialogue
+Well, then I will make it more pleasant.
+\\N[12] Sperm, in me. I will accept it a lot」#MTLed
+> CONTEXT: Commonevents/261/145/Dialogue
+Well, then I will make it more pleasant.
+\\N[12] Sperm, in me. I will accept it a lot」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、ミリーナは腰を
+激しく上下に動かし始める。
+> CONTEXT: Map142/events/3/pages/0/157/Dialogue
+And Mileena waist. Start moving violently up and down.#MTLed
+> CONTEXT: Commonevents/261/149/Dialogue
+And Mileena waist. Start moving violently up and
+down.#MTLed
+> END STRING
+
+> BEGIN STRING
+ずちゅっ、ずちゅっ、ぐちゅっ……
+> CONTEXT: Map142/events/3/pages/0/161/Dialogue
+> CONTEXT: Map057/events/22/pages/0/228/Dialogue
+A couple of hours later, ...#MTLed
+> CONTEXT: Commonevents/260/81/Dialogue
+> CONTEXT: Commonevents/261/153/Dialogue
+A couple of hours later, ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「たまに横に動かしてあげちゃったりして」
+> CONTEXT: Map142/events/3/pages/0/163/Dialogue
+Mileena. 「Sometimes you move it sideways and give it up」#MTLed
+> CONTEXT: Commonevents/261/155/Dialogue
+Mileena. 「Sometimes you move it sideways and
+give it up」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐちゅううぅっ！
+> CONTEXT: Map142/events/3/pages/0/168/Dialogue
+Chubu Wow!#MTLed
+> CONTEXT: Commonevents/261/160/Dialogue
+Chubu Wow!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くはっ！」
+> CONTEXT: Map142/events/3/pages/0/170/Dialogue
+\\N[12]. 「Hello!」#MTLed
+> CONTEXT: Commonevents/261/162/Dialogue
+\\N[12]. 「Hello!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はミリーナのグラインドの刺激に
+たまらず絶頂してしまった。
+> CONTEXT: Map142/events/3/pages/0/176/Dialogue
+\\N[12] To stimulate the grind of Mileena
+I got caught without dying.#MTLed
+> CONTEXT: Commonevents/261/168/Dialogue
+\\N[12] To stimulate the grind of Mileena
+I got caught without dying.#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うーん、\\N[12]君の精液
+熱くて子宮がきゅんきゅんしちゃうなあ。
+さあ、まだまだこれからだよ」
+> CONTEXT: Map142/events/3/pages/0/180/Dialogue
+Mileena. 「Well, \\N[12] Your semen. I wish that my
+uterus is hot. Come on now.」#MTLed
+> CONTEXT: Commonevents/261/172/Dialogue
+Mileena. 「Well, \\N[12] Your semen
+I wish that my uterus is hot. Come on now.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ううっ、気持ちいいけど
+ミリーナの責めが激しすぎて、
+体力的にキツいぜ……）
+> CONTEXT: Map142/events/3/pages/0/185/Dialogue
+\\N[12]. (OHh, I feel good. Mileena 's blame was too
+aggressive, Physically it's hard to know ... ...)#MTLed
+> CONTEXT: Commonevents/261/177/Dialogue
+\\N[12]. (OHh, I feel good. Mileena 's blame
+was too aggressive, Physically it's hard to know
+... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「さあ、今度は抱きつきながら
+小刻みに責めてイかせてあげる」
+> CONTEXT: Map142/events/3/pages/0/190/Dialogue
+Mileena. 「Now, hugging this time. I blunt you on a small
+note and let it go.」#MTLed
+> CONTEXT: Commonevents/261/182/Dialogue
+Mileena. 「Now, hugging this time
+I blunt you on a small note and let it go.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナが優しく抱きついてくると
+女の子らしい香りと柔らかみに包まれ
+\\N[12]は心臓が高鳴ってしまう――
+> CONTEXT: Map142/events/3/pages/0/194/Dialogue
+When Mileena gently hugs. Wrapped in a girlish scent and
+softness. \\N[12] My heart will beat high -#MTLed
+> CONTEXT: Commonevents/261/186/Dialogue
+When Mileena gently hugs. Wrapped in a girlish
+scent and softness. \\N[12] My heart will beat
+high -#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あ、すっごいドキドキしてるね、\\N[12]。
+女の子に抱きしめられて
+こんな風になっちゃうなんて、純情だなあ」
+> CONTEXT: Map142/events/3/pages/0/198/Dialogue
+Mileena. 「Oh, they are doing awesome, are not they?
+\\N[12] . Girls hugged. It is a pure situation to make
+it like this」#MTLed
+> CONTEXT: Commonevents/261/190/Dialogue
+Mileena. 「Oh, they are doing awesome, are not
+they? \\N[12] . Girls hugged. It is a pure
+situation to make it like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ううっ、ミリーナの胸の柔らかみが
+伝わってくる……
+こんなのを味わいながらセックスできるなんて……）
+> CONTEXT: Map142/events/3/pages/0/203/Dialogue
+\\N[12]. (OHh, Mileena's chest softness. It comes down
+... ... I can sex while I taste like this ...)#MTLed
+> CONTEXT: Commonevents/261/195/Dialogue
+\\N[12]. (OHh, Mileena's chest softness
+It comes down ... ... I can sex while I taste
+like this ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+ずっ、ずっ、ずぷっ、ずちゅっ……！
+> CONTEXT: Map142/events/3/pages/0/209/Dialogue
+Huh, always, forever, after a while ...!#MTLed
+> CONTEXT: Commonevents/261/201/Dialogue
+Huh, always, forever, after a while ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はぁ、はぁ……
+き、気持ちいい……」
+> CONTEXT: Map142/events/3/pages/0/211/Dialogue
+\\N[12]. 「Ah, Ah ... Kimi is comfortable ...」#MTLed
+> CONTEXT: Commonevents/261/203/Dialogue
+\\N[12]. 「Ah, Ah ... Kimi is comfortable ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「こういうじわじわした責めもいいもんでしょ？
+さらに、こうやって締めを強くしたら、
+どうなっちゃうかなー」
+> CONTEXT: Map142/events/3/pages/0/215/Dialogue
+Mileena. 「You have a blame like this, do not you?
+Furthermore, if you do tighten up this way,
+What is it supposed to be」#MTLed
+> CONTEXT: Commonevents/261/207/Dialogue
+Mileena. 「You have a blame like this, do not you?
+Furthermore, if you do tighten up this way,
+What is it supposed to be」#MTLed
+> END STRING
+
+> BEGIN STRING
+きゅっ……
+> CONTEXT: Map142/events/3/pages/0/220/Dialogue
+Kyu ...#MTLed
+> CONTEXT: Commonevents/261/212/Dialogue
+Kyu ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ……！」
+> CONTEXT: Map142/events/3/pages/0/222/Dialogue
+> CONTEXT: Map152/events/24/pages/8/499/Dialogue
+> CONTEXT: Map152/events/24/pages/10/178/Dialogue
+> CONTEXT: Map042/events/2/pages/8/324/Dialogue
+> CONTEXT: Map043/events/24/pages/8/525/Dialogue
+> CONTEXT: Map043/events/24/pages/9/398/Dialogue
+> CONTEXT: Map043/events/24/pages/11/195/Dialogue
+> CONTEXT: Map043/events/121/pages/1/525/Dialogue
+\\N[12]. 「Well ...!」#MTLed
+> CONTEXT: Commonevents/155/37/Dialogue
+> CONTEXT: Commonevents/223/225/Dialogue
+> CONTEXT: Commonevents/261/214/Dialogue
+> CONTEXT: Commonevents/264/154/Dialogue
+> CONTEXT: Map043/events/24/pages/9/706/Dialogue
+> CONTEXT: Map043/events/121/pages/0/447/Dialogue
+> CONTEXT: Commonevents/251/129/Dialogue
+> CONTEXT: Commonevents/320/192/Dialogue
+> CONTEXT: Commonevents/320/500/Dialogue
+\\N[12]. 「Well ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ふふっ、\\N[12]がイくときの顔、
+可愛いなあ……♪
+なんか、何度でもイかせたくなってきちゃった」
+> CONTEXT: Map142/events/3/pages/0/230/Dialogue
+Mileena. 「Hehe \\N[12] The face when it goes out,
+It's cute ...♪. Something, I wanted to make it over and
+over again」#MTLed
+> CONTEXT: Commonevents/261/222/Dialogue
+Mileena. 「Hehe \\N[12] The face when it goes
+out, It's cute ...♪. Something, I wanted to make
+it over and over again」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……そ、そろそろ勘弁してくれ、
+もう充分気持ちよくなったから……」
+> CONTEXT: Map142/events/3/pages/0/235/Dialogue
+\\N[12]. 「uugh ... ... that was a while,
+I already feel good enough ......」#MTLed
+> CONTEXT: Commonevents/261/227/Dialogue
+\\N[12]. 「uugh ... ... that was a while,
+I already feel good enough ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うん、じゃあ次で終わりにしてあげる。
+あたしに抱きしめられながら、
+思いっきりイっちゃえ！」
+> CONTEXT: Map142/events/3/pages/0/239/Dialogue
+Mileena. 「Well, then I'll finish with the next one.
+While hugging me, I know it's alright!」#MTLed
+> CONTEXT: Commonevents/261/231/Dialogue
+Mileena. 「Well, then I'll finish with the next
+one. While hugging me, I know it's alright!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ずっ、ずっ、ずちゅっ、ずちゅっ、ぎゅうううぅっ！
+> CONTEXT: Map142/events/3/pages/0/245/Dialogue
+A lot, a lot, a couple of times, a couple of days, a couple
+of days!#MTLed
+> CONTEXT: Commonevents/261/237/Dialogue
+A lot, a lot, a couple of times, a couple of
+days, a couple of days!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あああああぁぁぁっ！」
+> CONTEXT: Map142/events/3/pages/0/247/Dialogue
+> CONTEXT: Map113/events/9/pages/0/363/Dialogue
+> CONTEXT: Map152/events/24/pages/12/459/Dialogue
+> CONTEXT: Map109/events/5/pages/0/97/Dialogue
+> CONTEXT: Map109/events/6/pages/0/97/Dialogue
+> CONTEXT: Map106/events/6/pages/0/97/Dialogue
+> CONTEXT: Map109/events/9/pages/0/97/Dialogue
+> CONTEXT: Map152/events/24/pages/12/935/Dialogue
+> CONTEXT: Map103/events/10/pages/0/97/Dialogue
+> CONTEXT: Map103/events/11/pages/0/97/Dialogue
+> CONTEXT: Map103/events/14/pages/0/97/Dialogue
+> CONTEXT: Map042/events/2/pages/8/562/Dialogue
+> CONTEXT: Map041/events/56/pages/0/272/Dialogue
+> CONTEXT: Map041/events/5/pages/5/618/Dialogue
+> CONTEXT: Map041/events/5/pages/5/1300/Dialogue
+> CONTEXT: Map043/events/24/pages/13/483/Dialogue
+> CONTEXT: Map043/events/24/pages/13/983/Dialogue
+\\N[12]. 「Oh, Aaaaaahhhh!」#MTLed
+> CONTEXT: Commonevents/238/206/Dialogue
+> CONTEXT: Commonevents/239/298/Dialogue
+> CONTEXT: Commonevents/240/298/Dialogue
+> CONTEXT: Commonevents/261/239/Dialogue
+> CONTEXT: Commonevents/264/392/Dialogue
+> CONTEXT: Commonevents/242/260/Dialogue
+> CONTEXT: Commonevents/242/944/Dialogue
+\\N[12]. 「Oh, Aaaaaahhhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、くっ……
+はぁ、はぁっ……もう、出ない……」
+> CONTEXT: Map142/events/3/pages/0/254/Dialogue
+\\N[12]. 「Ugh, huh ... .... Ah, Ahh ... I will not come
+out anymore ......」#MTLed
+> CONTEXT: Commonevents/261/246/Dialogue
+\\N[12]. 「Ugh, huh ... .... Ah, Ahh ... I
+will not come out anymore ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「うん、お疲れさま。
+あたしも気持ちよかったよー、
+キミとは体の相性もよさそう♪
+> CONTEXT: Map142/events/3/pages/0/259/Dialogue
+Mileena. 「Yes, thank you. I felt good too,
+Body compatibility looks good with you♪#MTLed
+> CONTEXT: Commonevents/261/251/Dialogue
+Mileena. 「Yes, thank you. I felt good too,
+Body compatibility looks good with you♪#MTLed
+> END STRING
+
+> BEGIN STRING
+また冒険もセックスも一緒にしようね。
+なんか、あたしキミのこと
+すっごく気に入っちゃったからさ」
+> CONTEXT: Map142/events/3/pages/0/264/Dialogue
+Let 's make adventure and sex together. Something like me
+I really liked it.」#MTLed
+> CONTEXT: Commonevents/261/256/Dialogue
+Let 's make adventure and sex together.
+Something like me. I really liked it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そいつはありがたい……
+けど、次はもうちょっと加減してくれよな」
+> CONTEXT: Map142/events/3/pages/0/268/Dialogue
+\\N[12]. 「That's ... thanks ... ... But, next time you
+are going to change it a bit more」#MTLed
+> CONTEXT: Commonevents/261/260/Dialogue
+\\N[12]. 「That's ... thanks ... ...
+But, next time you are going to change it a bit
+more」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あはは、了解♪」
+> CONTEXT: Map142/events/3/pages/0/272/Dialogue
+Mileena. 「Haha, okay♪」#MTLed
+> CONTEXT: Commonevents/261/264/Dialogue
+Mileena. 「Haha, okay♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「優勝おめでとう、\\N[12]君！
+キミが優勝しちゃうだなんてねー、
+あの姫様にも勝っちゃうだなんて凄すぎるよ」
+> CONTEXT: Map142/events/4/pages/0/6/Dialogue
+Mileena. 「congratulations for winning, \\N[12]
+ You! I guess you have won the championship,
+It is too terrible to have won that Princess」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとな。
+これも、お前の店で作ってもらった武具のおかげだぜ」
+> CONTEXT: Map142/events/4/pages/0/11/Dialogue
+\\N[12]. 「Thank you. This is also thanks to the weapons
+that you made at your store」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ううん、キミの実力だよ。
+あたしも、負けたときは悔しかったけど
+優勝した人に負けたっていうんなら納得できるし嬉しいなあ。
+> CONTEXT: Map142/events/4/pages/0/15/Dialogue
+Mileena. 「No, it is your ability.
+I was sorry when I lost, though
+I am happy if you can be satisfied if you lose to
+the winner.#MTLed
+> END STRING
+
+> BEGIN STRING
+ところで\\N[12]君、優勝したとき
+よく姫様のこと求めなかったね」
+> CONTEXT: Map142/events/4/pages/0/20/Dialogue
+by the way \\N[12] When you win the prize
+Often I did not ask the princess for things」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、
+べつに姫様と結婚したかったわけじゃないし、
+そういうんで戦ってたわけじゃないからなぁ」
+> CONTEXT: Map142/events/4/pages/0/23/Dialogue
+\\N[12]. 「Oh, He did not want to marry the
+princess, That's why I was fighting in that way」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「優勝っていう結果だけでオッケーだったって感じ？」
+> CONTEXT: Map142/events/4/pages/0/28/Dialogue
+Mileena. 「You feel ok with just the result of
+winning?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな、なにか大きなことを成し遂げたいと思って
+村から出てきたけど、
+それが武道大会優勝っていうことなら、もう叶っちまった」
+> CONTEXT: Map142/events/4/pages/0/31/Dialogue
+\\N[12]. 「That's right, I want to accomplish something
+big. I came out from the village, If that is the martial
+arts tournament winning, it has already come true」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「それでちょっと気の抜けた感じの顔してるんだね」
+> CONTEXT: Map142/events/4/pages/0/36/Dialogue
+Mileena. 「That's why I felt a bit missed」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「気が……そうだな、抜けてるかもな。
+今後なにをしたらいいのか、分からなくなっちまってる」
+> CONTEXT: Map142/events/4/pages/0/39/Dialogue
+\\N[12]. 「Feelings ... That seems to be coming out.
+I do not know what to do in the future」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「それじゃあさ、\\N[12]君。
+あたしと旅に出てみない？」
+> CONTEXT: Map142/events/4/pages/0/43/Dialogue
+Mileena. 「Well then, \\N[12] You.
+Why do not you go on a trip with me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え？　旅？」
+> CONTEXT: Map142/events/4/pages/0/47/Dialogue
+\\N[12]. 「Huh? Journey?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そう、冒険者になるんだよ。
+エルミアだけじゃなく、他のいろんな国を巡るの。
+きっと楽しいよ！」
+> CONTEXT: Map142/events/4/pages/0/51/Dialogue
+Mileena. 「Yes, you become an adventurer.
+Not only Elmia, it's going round other countries.
+Surely fun!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「冒険者か……」
+> CONTEXT: Map142/events/4/pages/0/57/Dialogue
+\\N[12]. 「An adventurer ... ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あれ、なんか反応が鈍いね。
+気が乗らない？」
+> CONTEXT: Map142/events/4/pages/0/60/Dialogue
+Mileena. 「That, that reaction is sluggish.
+I do not care.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや。実は、俺の両親は冒険者だったんだ。
+今になって、俺にもそういう道があるのかって思ったら
+なんか感慨深くなっちまってさ」
+> CONTEXT: Map142/events/4/pages/0/64/Dialogue
+\\N[12]. 「Disagreeable. Actually, my parents were
+adventurers. If I think now that there is such a way
+Something became deeply impressed」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そうだったんだ。
+じゃ、前向きに考えてくれてる感じ？」
+> CONTEXT: Map142/events/4/pages/0/69/Dialogue
+Mileena. 「Oh I see. Well, are you thinking
+positively?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだなあ。
+ミリーナと一緒に旅をするってのは悪くないな。
+でも、この店のことはいいのか？」
+> CONTEXT: Map142/events/4/pages/0/73/Dialogue
+\\N[12]. 「I see. Traveling with Mileena is not bad.
+But is this store nice?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「新しい商品のおかげでお店も持ち直したし、
+もう、お兄ちゃんに任せて大丈夫だと思うの。
+> CONTEXT: Map142/events/4/pages/0/78/Dialogue
+Mileena. 「The store also picked up thanks to the
+new product, I think it's okay to leave it to
+your older brother.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに――
+この旅自体がうちのお店のためにもなると思うんだよね」
+> CONTEXT: Map142/events/4/pages/0/82/Dialogue
+in addition--. I think that this journey itself
+will also be for our shops」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「というと？」
+> CONTEXT: Map142/events/4/pages/0/86/Dialogue
+\\N[12]. 「I mean?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「いろんなところを旅すればさ、エルミアでは珍しいような
+面白い武器とか、鉱石とかを探せると思うの。
+そうしたら、この店に持ち帰って売ったりできるでしょ？」
+> CONTEXT: Map142/events/4/pages/0/89/Dialogue
+Mileena. 「If you travel all over the place, like
+rare in Elmia. I think I can find funny weapons
+and ores. Then you can take it back to this store
+and sell it, do not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど。それならマルワイクにない個性を
+打ち出すこともできそうだな」
+> CONTEXT: Map142/events/4/pages/0/94/Dialogue
+\\N[12]. 「I see. Then, personality not found in Marvaick
+I could seem to be able to launch it」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「でしょ？
+だから、一緒に行こうよ！
+キミと一緒なら、なにがあっても大丈夫だって思えるし！」
+> CONTEXT: Map142/events/4/pages/0/98/Dialogue
+Mileena. 「right? So let's go together!
+If you are with Kimi, you can think of anything
+alright!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うん、面白そうだな。
+分かった、一緒に旅に出るか！」
+> CONTEXT: Map142/events/4/pages/0/103/Dialogue
+\\N[12]. 「Yes, it looks interesting. Ok, come on a
+journey together!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「やったぁ！
+一緒にいろんな国に行こうね！
+> CONTEXT: Map142/events/4/pages/0/108/Dialogue
+Mileena. 「I did it! Let's go to various
+countries together!#MTLed
+> END STRING
+
+> BEGIN STRING
+それでさ、よかったら
+私のパートナーになってくれたら嬉しいなあ、なんて……」
+> CONTEXT: Map142/events/4/pages/0/113/Dialogue
+Well, if it's okay. I am glad if you become my
+partner ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「エッチなこともした仲だしさ、
+この際、恋人同士になっちゃおうよ」
+> CONTEXT: Map142/events/4/pages/0/119/Dialogue
+Mileena. 「I have been doing things like lewd,
+In this case, let's be lovers」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（こ、恋人？
+このタイミングで告白されるなんて思わなかったけど……
+でも、ミリーナなら……）
+> CONTEXT: Map142/events/4/pages/0/124/Dialogue
+\\N[12]. Is this a couple? I did not expect to be
+confessed at this timing, but ... But if it is Mileena ...
+...)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな、なっちまうか。
+ミリーナみたいな可愛い子と付き合えるんなら、願ってもない。
+すげえ嬉しいぜ、これからよろしくな」
+> CONTEXT: Map142/events/4/pages/0/129/Dialogue
+\\N[12]. 「Oh yeah, it is getting it. I can not hope to
+go out with a cute girl like Mileena. I am glad I'm happy,
+nice to meet you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「ふふっ、あたしとのエッチであれだけ気持ちよくなってくれた
+キミなら、そう言ってくれると思ってた。
+旅先でもいっぱいエッチしようね」
+> CONTEXT: Map142/events/4/pages/0/135/Dialogue
+Mileena. 「Huhuh, it became pleasant just that
+with lewd with me. If you do, I thought that
+would say so. Let's lewd a lot even on our trip」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、おうっ」
+> CONTEXT: Map142/events/4/pages/0/140/Dialogue
+\\N[12]. 「Ooh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（なんだか妙な成り行きになったけど……
+ミリーナは明るくていいやつだし、なにより可愛いからな。
+> CONTEXT: Map142/events/4/pages/0/144/Dialogue
+\\N[12]. (It turned out somewhat strange, but ... ...
+Mileena is a bright fellow who is cute.#MTLed
+> END STRING
+
+> BEGIN STRING
+こんな女の子が恋人になってくれるなんて、
+頑張ってここまできた甲斐があったってもんだぜ）
+> CONTEXT: Map142/events/4/pages/0/148/Dialogue
+To make such girls become lovers, I worked hard and it was
+worth having come so far)#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]はミリーナと結ばれ、
+冒険者となって旅に出ることとなった。
+> CONTEXT: Map142/events/4/pages/0/151/Dialogue
+In this way, \\N[12] Is tied to Mileena,
+I decided to travel as an adventurer.#MTLed
+> END STRING
+
+> BEGIN STRING
+二人は各国を巡って活躍し、高品質な鉱石を次々と持ち帰り、
+ストレイン武具店はエルミアのみならず大陸屈指の武器屋として
+隆盛を誇ることとなるのであった――
+> CONTEXT: Map142/events/4/pages/0/154/Dialogue
+The two played active around each country, brought back
+high-quality ores one after another, Strein Armor Shop
+store as not only Elmia but also one of the best weapons
+shops in the continent. It was to be proud of the
+prosperity -#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ　グッドエンド：最高の鉱石を求めて
+> CONTEXT: Map142/events/4/pages/0/158/Dialogue
+Mileena Good End: Looking for the best ore#MTLed
+> END STRING

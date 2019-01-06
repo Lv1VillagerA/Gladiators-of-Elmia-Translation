@@ -1,0 +1,416 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+バンディットガール
+「ちっ、数が多すぎる……
+なんだって、こんな部屋に兵どもが
+ウジャウジャいるのよ、まったく！」
+> CONTEXT: Map143/events/14/pages/0/1/Dialogue
+> CONTEXT: Map143/events/50/pages/0/1/Dialogue
+> CONTEXT: Map143/events/51/pages/0/1/Dialogue
+> CONTEXT: Map143/events/52/pages/0/1/Dialogue
+> CONTEXT: Map143/events/53/pages/0/1/Dialogue
+Bandit Girl. 「Ring, there are too many......
+What do you mean, soldiers in this room. You are indeed!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「苦戦してるみたいだな」
+> CONTEXT: Map143/events/14/pages/0/6/Dialogue
+> CONTEXT: Map143/events/50/pages/0/6/Dialogue
+> CONTEXT: Map143/events/51/pages/0/6/Dialogue
+> CONTEXT: Map143/events/52/pages/0/6/Dialogue
+> CONTEXT: Map143/events/53/pages/0/6/Dialogue
+\\N[12]. 「It looks like he's struggling hard.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あ、\\N[12]？
+ちょうどよかった、加勢して！
+あたしが一人片付けるから！」
+> CONTEXT: Map143/events/14/pages/0/9/Dialogue
+> CONTEXT: Map143/events/50/pages/0/9/Dialogue
+> CONTEXT: Map143/events/51/pages/0/9/Dialogue
+> CONTEXT: Map143/events/52/pages/0/9/Dialogue
+> CONTEXT: Map143/events/53/pages/0/9/Dialogue
+Bandit Girl. 「Ah, \\N[12] ? Just good, please boost!
+Because I will clean up one person!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかった、任せろ！」
+> CONTEXT: Map143/events/14/pages/0/14/Dialogue
+> CONTEXT: Map143/events/50/pages/0/14/Dialogue
+> CONTEXT: Map143/events/51/pages/0/14/Dialogue
+> CONTEXT: Map143/events/52/pages/0/14/Dialogue
+> CONTEXT: Map143/events/53/pages/0/14/Dialogue
+\\N[12]. 「Ok, leave it to me!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「おりゃっ！」
+> CONTEXT: Map143/events/14/pages/0/34/Dialogue
+> CONTEXT: Map143/events/50/pages/0/34/Dialogue
+> CONTEXT: Map143/events/51/pages/0/34/Dialogue
+> CONTEXT: Map143/events/52/pages/0/34/Dialogue
+> CONTEXT: Map143/events/53/pages/0/34/Dialogue
+Bandit Girl. 「take that!」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「うぐっ……ぱ、パンツが……」
+> CONTEXT: Map143/events/14/pages/0/38/Dialogue
+> CONTEXT: Map143/events/50/pages/0/38/Dialogue
+> CONTEXT: Map143/events/51/pages/0/38/Dialogue
+> CONTEXT: Map143/events/52/pages/0/38/Dialogue
+> CONTEXT: Map143/events/53/pages/0/38/Dialogue
+A soldier. 「Ug ......, panties ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ふん、気持ちよく寝てなよ」
+> CONTEXT: Map143/events/14/pages/0/46/Dialogue
+> CONTEXT: Map143/events/50/pages/0/46/Dialogue
+> CONTEXT: Map143/events/51/pages/0/46/Dialogue
+> CONTEXT: Map143/events/52/pages/0/46/Dialogue
+> CONTEXT: Map143/events/53/pages/0/46/Dialogue
+Bandit Girl. 「Hmm, do not you sleep well?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「や、いいタイミングだったよ。
+わりかしピンチだったから助かったー」
+> CONTEXT: Map143/events/14/pages/0/52/Dialogue
+> CONTEXT: Map143/events/50/pages/0/52/Dialogue
+> CONTEXT: Map143/events/51/pages/0/52/Dialogue
+> CONTEXT: Map143/events/52/pages/0/52/Dialogue
+> CONTEXT: Map143/events/53/pages/0/52/Dialogue
+Bandit Girl. 「Or it was a good timing. It was awkward
+because it was a faint pinch」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ずいぶん派手にやったなあ、
+これだけの兵士を俺だけで相手にしたら大変だったろうし
+ありがたかったぜ」
+> CONTEXT: Map143/events/14/pages/0/58/Dialogue
+> CONTEXT: Map143/events/50/pages/0/58/Dialogue
+> CONTEXT: Map143/events/51/pages/0/58/Dialogue
+> CONTEXT: Map143/events/52/pages/0/58/Dialogue
+> CONTEXT: Map143/events/53/pages/0/58/Dialogue
+\\N[12]. 「I thought I did it very loudly,
+It would have been difficult if I only had this soldier
+with me alone. I was thankful.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ふふん、これがあたしたちの実力ってもんよ」
+> CONTEXT: Map143/events/14/pages/0/63/Dialogue
+> CONTEXT: Map143/events/50/pages/0/63/Dialogue
+> CONTEXT: Map143/events/51/pages/0/63/Dialogue
+> CONTEXT: Map143/events/52/pages/0/63/Dialogue
+> CONTEXT: Map143/events/53/pages/0/63/Dialogue
+Bandit Girl. 「Of course, this is our ability」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それにしても、なんでこんな部屋に
+兵士が何人もいたんだ？」
+> CONTEXT: Map143/events/14/pages/0/66/Dialogue
+> CONTEXT: Map143/events/50/pages/0/66/Dialogue
+> CONTEXT: Map143/events/51/pages/0/66/Dialogue
+> CONTEXT: Map143/events/52/pages/0/66/Dialogue
+> CONTEXT: Map143/events/53/pages/0/66/Dialogue
+\\N[12]. 「Anyway, why in a room like this
+How many soldiers did you have?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺のことを知っているのか、あんたたち」
+> CONTEXT: Map143/events/14/pages/0/86/Dialogue
+> CONTEXT: Map143/events/50/pages/0/86/Dialogue
+> CONTEXT: Map143/events/51/pages/0/86/Dialogue
+> CONTEXT: Map143/events/52/pages/0/86/Dialogue
+> CONTEXT: Map143/events/53/pages/0/86/Dialogue
+\\N[12]. 「Do you know me, you guys」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「いや、この国にはもう
+あんたのことを知らない人間なんていないから……」
+> CONTEXT: Map143/events/14/pages/0/92/Dialogue
+> CONTEXT: Map143/events/50/pages/0/92/Dialogue
+> CONTEXT: Map143/events/51/pages/0/92/Dialogue
+> CONTEXT: Map143/events/52/pages/0/92/Dialogue
+> CONTEXT: Map143/events/53/pages/0/92/Dialogue
+Bandit Girl. 「No, in this country anymore
+There is no human who does not know you......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうか……
+とにかく、あんたらはいったい何が目的で
+こんなところに？」
+> CONTEXT: Map143/events/14/pages/0/96/Dialogue
+> CONTEXT: Map143/events/50/pages/0/96/Dialogue
+> CONTEXT: Map143/events/51/pages/0/96/Dialogue
+> CONTEXT: Map143/events/52/pages/0/96/Dialogue
+> CONTEXT: Map143/events/53/pages/0/96/Dialogue
+\\N[12]. 「That's right. Anyway, you are the purpose for
+you. In a place like this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あ、そっか！　そういうことになるよね、
+\\N[12]、あったまいー！」
+> CONTEXT: Map143/events/14/pages/0/112/Dialogue
+> CONTEXT: Map143/events/50/pages/0/112/Dialogue
+> CONTEXT: Map143/events/51/pages/0/112/Dialogue
+> CONTEXT: Map143/events/52/pages/0/112/Dialogue
+> CONTEXT: Map143/events/53/pages/0/112/Dialogue
+Bandit Girl. 「Oh, that's right! That's it, you know,
+\\N[12] , I feel!」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「お主らがここに現れる直前まで、
+その道を塞ぐ作業を全員でやっていたのだ。
+ククク……」
+> CONTEXT: Map143/events/14/pages/0/128/Dialogue
+> CONTEXT: Map143/events/50/pages/0/128/Dialogue
+> CONTEXT: Map143/events/51/pages/0/128/Dialogue
+> CONTEXT: Map143/events/52/pages/0/128/Dialogue
+> CONTEXT: Map143/events/53/pages/0/128/Dialogue
+A soldier. 「Until your chief appears here,
+All the work was done to close that road.
+hehehe ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あんたたち、わざわざこんなことをしに来たっての？」
+> CONTEXT: Map143/events/14/pages/0/140/Dialogue
+> CONTEXT: Map143/events/50/pages/0/140/Dialogue
+> CONTEXT: Map143/events/51/pages/0/140/Dialogue
+> CONTEXT: Map143/events/52/pages/0/140/Dialogue
+> CONTEXT: Map143/events/53/pages/0/140/Dialogue
+Bandit Girl. 「You say, you expressly came to do this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、先手を打たれたってわけか」
+> CONTEXT: Map143/events/14/pages/0/148/Dialogue
+> CONTEXT: Map143/events/50/pages/0/148/Dialogue
+> CONTEXT: Map143/events/51/pages/0/148/Dialogue
+> CONTEXT: Map143/events/52/pages/0/148/Dialogue
+> CONTEXT: Map143/events/53/pages/0/148/Dialogue
+\\N[12]. 「Well, I guess I was hit hard」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「どうする？
+この瓦礫をどかして道を作る？」
+> CONTEXT: Map143/events/14/pages/0/153/Dialogue
+> CONTEXT: Map143/events/50/pages/0/153/Dialogue
+> CONTEXT: Map143/events/51/pages/0/153/Dialogue
+> CONTEXT: Map143/events/52/pages/0/153/Dialogue
+> CONTEXT: Map143/events/53/pages/0/153/Dialogue
+Bandit Girl. 「what will you do? Are you going to devise
+this road to make a road?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、ずいぶん徹底的に塞がれたように見える。
+俺たちだけじゃ瓦礫の撤去は無理だろう」
+> CONTEXT: Map143/events/14/pages/0/157/Dialogue
+> CONTEXT: Map143/events/50/pages/0/157/Dialogue
+> CONTEXT: Map143/events/51/pages/0/157/Dialogue
+> CONTEXT: Map143/events/52/pages/0/157/Dialogue
+> CONTEXT: Map143/events/53/pages/0/157/Dialogue
+\\N[12]. 「No, it seems to have been thoroughly blocked.
+It would be impossible for us to remove debris only by us」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「うーん、確かにずいぶん先まで瓦礫が続いてる……
+ったく、女王様もだけど兵士連中も性格が悪いね」
+> CONTEXT: Map143/events/14/pages/0/163/Dialogue
+> CONTEXT: Map143/events/50/pages/0/163/Dialogue
+> CONTEXT: Map143/events/51/pages/0/163/Dialogue
+> CONTEXT: Map143/events/52/pages/0/163/Dialogue
+> CONTEXT: Map143/events/53/pages/0/163/Dialogue
+Bandit Girl. 「Well, surely rubble continues a long way ...
+... There are queen, but also soldiers are bad personality」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「……我らの部隊は敗れた。この上は潔く負けを認め、
+この試練をめぐる戦いからは手を引く。
+それを条件に、撤収させてもらえまいか？」
+> CONTEXT: Map143/events/14/pages/0/167/Dialogue
+> CONTEXT: Map143/events/50/pages/0/167/Dialogue
+> CONTEXT: Map143/events/51/pages/0/167/Dialogue
+> CONTEXT: Map143/events/52/pages/0/167/Dialogue
+> CONTEXT: Map143/events/53/pages/0/167/Dialogue
+A soldier. 「......our unit was defeated. On top of this
+I am deeply admiring the defeat, I will withdraw from the
+battle over this trial. Could you withdraw it, subject to
+that condition?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ともあれ、あたしたちが協力できるのは
+ここまでかな。さすがに、兵士がいるとなると
+いろいろマズイねぇ」
+> CONTEXT: Map143/events/14/pages/0/201/Dialogue
+> CONTEXT: Map143/events/50/pages/0/201/Dialogue
+> CONTEXT: Map143/events/51/pages/0/201/Dialogue
+> CONTEXT: Map143/events/52/pages/0/201/Dialogue
+> CONTEXT: Map143/events/53/pages/0/201/Dialogue
+velvet. 「Anyway, what we can cooperate with
+Is it so far? As expected, when there are
+soldiers. Masui: Hey」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ま、まあ、あたしたちって恩赦を受けた直後だもんね。
+あんまり兵士連中をボコってたら、
+下手すると、また牢屋行きってことも……」
+> CONTEXT: Map143/events/14/pages/0/206/Dialogue
+> CONTEXT: Map143/events/50/pages/0/206/Dialogue
+> CONTEXT: Map143/events/51/pages/0/206/Dialogue
+> CONTEXT: Map143/events/52/pages/0/206/Dialogue
+> CONTEXT: Map143/events/53/pages/0/206/Dialogue
+Bandit Girl. 「Well, it is just after we received an
+amnesty. If I bothered soldiers very much,
+If you do not do well, you can go to prison......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ははっ、そうだったな、そういえば。
+お前たちにこれ以上負担はかけたくないし、
+ここからは俺ひとりで行くよ」
+> CONTEXT: Map143/events/14/pages/0/211/Dialogue
+> CONTEXT: Map143/events/50/pages/0/211/Dialogue
+> CONTEXT: Map143/events/51/pages/0/211/Dialogue
+> CONTEXT: Map143/events/52/pages/0/211/Dialogue
+> CONTEXT: Map143/events/53/pages/0/211/Dialogue
+\\N[12]. 「Haha, that was it, that remembered.
+I do not want to give you any further burden,
+From here I am going alone」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、ここまでやってくれただけでも充分すぎる。
+ありがとな、四人とも」
+> CONTEXT: Map143/events/14/pages/0/219/Dialogue
+> CONTEXT: Map143/events/50/pages/0/219/Dialogue
+> CONTEXT: Map143/events/51/pages/0/219/Dialogue
+> CONTEXT: Map143/events/52/pages/0/219/Dialogue
+> CONTEXT: Map143/events/53/pages/0/219/Dialogue
+\\N[12]. 「No, just enough to do so far is enough.
+Thanks, for 4 people」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「首尾よくお偉いさんになれたら、
+あたしたちを雇って
+いい仕事を回してよね」
+> CONTEXT: Map143/events/14/pages/0/224/Dialogue
+> CONTEXT: Map143/events/50/pages/0/224/Dialogue
+> CONTEXT: Map143/events/51/pages/0/224/Dialogue
+> CONTEXT: Map143/events/52/pages/0/224/Dialogue
+> CONTEXT: Map143/events/53/pages/0/224/Dialogue
+Bandit Girl. 「If you can successfully become a great man,
+Hire us. You have a good job, are not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「がんばってね、おにーさん！
+女王様なんかに負けちゃダメだよー！」
+> CONTEXT: Map143/events/14/pages/0/230/Dialogue
+> CONTEXT: Map143/events/50/pages/0/230/Dialogue
+> CONTEXT: Map143/events/51/pages/0/230/Dialogue
+> CONTEXT: Map143/events/52/pages/0/230/Dialogue
+> CONTEXT: Map143/events/53/pages/0/230/Dialogue
+bandit teen. 「Do your best, Oyo! Do not lose to the Queen!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「ちょっとだけだったけど、
+坊やのために戦えて嬉しかったわぁ」
+> CONTEXT: Map143/events/14/pages/0/235/Dialogue
+> CONTEXT: Map143/events/50/pages/0/235/Dialogue
+> CONTEXT: Map143/events/51/pages/0/235/Dialogue
+> CONTEXT: Map143/events/52/pages/0/235/Dialogue
+> CONTEXT: Map143/events/53/pages/0/235/Dialogue
+sexy bandit. 「It was only a bit, I was happy to be able to
+fight for the boy」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「あんたが試練を乗り越えられるよう祈ってるよ。
+あたしらは他の国に行っちまうが、
+縁があれば、また会うこともあるだろう」
+> CONTEXT: Map143/events/14/pages/0/240/Dialogue
+> CONTEXT: Map143/events/50/pages/0/240/Dialogue
+> CONTEXT: Map143/events/51/pages/0/240/Dialogue
+> CONTEXT: Map143/events/52/pages/0/240/Dialogue
+> CONTEXT: Map143/events/53/pages/0/240/Dialogue
+velvet. 「I pray that you can overcome the
+challenge. We will go to other countries,
+If there is a margin, there will be meetings
+again」#MTLed
+> END STRING
+
+> BEGIN STRING
+四人は去っていった――
+> CONTEXT: Map143/events/14/pages/0/246/Dialogue
+> CONTEXT: Map143/events/50/pages/0/246/Dialogue
+> CONTEXT: Map143/events/51/pages/0/246/Dialogue
+> CONTEXT: Map143/events/52/pages/0/246/Dialogue
+> CONTEXT: Map143/events/53/pages/0/246/Dialogue
+Four people left -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「行っちまったか……ここからは自分の力だけで
+道を切り開いていかないとな。
+まず、この部屋を少し探索してみるか」
+> CONTEXT: Map143/events/14/pages/0/250/Dialogue
+> CONTEXT: Map143/events/50/pages/0/250/Dialogue
+> CONTEXT: Map143/events/51/pages/0/250/Dialogue
+> CONTEXT: Map143/events/52/pages/0/250/Dialogue
+> CONTEXT: Map143/events/53/pages/0/250/Dialogue
+\\N[12]. 「I went there...... From here it's just my
+own power. I have to cut through the way.
+First I will explore this room a bit」#MTLed
+> END STRING

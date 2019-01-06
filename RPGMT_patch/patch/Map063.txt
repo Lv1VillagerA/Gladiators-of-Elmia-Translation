@@ -1,0 +1,754 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エルミア王立学院　2階
+> CONTEXT: Map063/display_name/
+Royal Academy of Elmia 2nd Floor#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「図書室の本は誰でも読んでいいことになっているのよ。
+先の王様が整備してくださった学院だけれど、
+本当にありがたいことだわ」
+> CONTEXT: Map063/events/3/pages/0/0/Dialogue
+Woman. 「Books in the library are supposed to be readable
+by anyone. Although it is a school that the former king
+repaired, I really appreciate it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「講座を受講するよりも、こうやって
+自由に本をむさぼり読む方が好きだなー」
+> CONTEXT: Map063/events/4/pages/0/0/Dialogue
+A student. 「Rather than taking a course, like this
+I prefer to read books freely and read」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「この図書室の本はすべて読み尽くしてやるわ。
+もっともっと知識が欲しいの……」
+> CONTEXT: Map063/events/5/pages/0/0/Dialogue
+A student. 「I will read all books in this library.
+I need some knowledge ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「この図書室、規模は小さいけど
+魔法書や実用書、物語など種類は豊富に揃っている。
+暇をつぶすには最適の場所だね」
+> CONTEXT: Map063/events/6/pages/0/0/Dialogue
+A student. 「This library, the scale is small, but
+Spellbooks, practical books, stories and so on are
+available in abundance. It's a great place to kill time」#MTLed
+> END STRING
+
+> BEGIN STRING
+司書
+「図書室の本は自由に読んでください。
+貸し出しをご希望なら、王都にお住まいの方に限り
+一回三冊まで可能ですよ」
+> CONTEXT: Map063/events/7/pages/0/0/Dialogue
+librarian. 「Please read the books of the library freely.
+If you wish to lend, only to those living in the Kingdom
+Up to three volumes are possible」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（俺は王都に住んでるんじゃないからムリか。
+ま、そもそも本なんて読むガラでもないけど……）
+> CONTEXT: Map063/events/7/pages/0/5/Dialogue
+\\N[12]. (Because I do not live in the kingdom, is it
+stiff? Well, it's not a book to read books ... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+教師
+「こちらは、古文書の解読法を習得する講座です」
+> CONTEXT: Map063/events/8/pages/0/0/Dialogue
+Instructor. 「This is a course to master the interpretation
+of ancient documents」#MTLed
+> END STRING
+
+> BEGIN STRING
+教師バロア
+「ここは実験室……
+錬金術や化学を学ぶ教室ですわ。
+うふふふ……」
+> CONTEXT: Map063/events/9/pages/0/0/Dialogue
+Instructor Baroa. 「This is a laboratory ...
+It is a classroom to study alchemy and chemistry.
+Hehehe ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+教師バロア
+「ここは実験室……
+錬金術や化学を学ぶ教室よぉ。
+うふふふ……」
+> CONTEXT: Map063/events/9/pages/1/0/Dialogue
+Instructor Baroa. 「This is a laboratory ...
+A classroom to study alchemy and chemistry.
+Hehehe ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あなたがバロアって人ですか？
+俺、ギルドからやってきた\\N[12]っていいます」
+> CONTEXT: Map063/events/9/pages/1/5/Dialogue
+\\N[12]. 「Are you a Baroa person? I came from the guild
+\\N[12] I say」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「あら、早いのね。助かるわぁ。
+さっそく依頼の詳細についてお話をさせてもらうわね」
+> CONTEXT: Map063/events/9/pages/1/9/Dialogue
+Baroa. 「Oh, it is early. I am saved. I will tell you the
+details of the request immediately」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい。
+なんでも、キノコを集めてきて欲しいとか？」
+> CONTEXT: Map063/events/9/pages/1/13/Dialogue
+\\N[12]. 「Yes. Why do you want me to collect mushrooms?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「そう。エルミア各地で採れる、三種類のキノコね。
+実験で使うから、一定の数を確保したいの。
+でも、私はこの通り授業で忙しいから――」
+> CONTEXT: Map063/events/9/pages/1/17/Dialogue
+Baroa. 「so. Three kinds of mushrooms that can be collected
+in Elmia everywhere. I want to secure a certain number as I
+use it for experiments. But, as I am busy in class this way
+-」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「誰かに集めてきて欲しいと思っていたのよ。
+欲しいキノコはシラタマタケ、エルミアシメジ、ユキミタケ」
+> CONTEXT: Map063/events/9/pages/1/22/Dialogue
+Baroa. 「I thought that I wanted someone to collect it.
+I want the mushroom ball mushroom, elmyr shimeji, snowy
+mushroom」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふむふむ。
+それぞれのキノコの特徴は？」
+> CONTEXT: Map063/events/9/pages/1/26/Dialogue
+\\N[12]. 「. What are the characteristics of each
+mushroom?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「シラタマタケは、赤いキノコよ。
+その名の通り白いストライプ模様がついている大きなキノコ。
+これは王都南西の、レヴァスティの森によく生えているわ」
+> CONTEXT: Map063/events/9/pages/1/30/Dialogue
+> CONTEXT: Map063/events/9/pages/2/5/Dialogue
+Baroa. 「The ball mushroom is a red mushroom.
+As the name suggests, it is a big mushroom with a white
+striped pattern. It grows well in the forest of Lavasti,
+southwest of the capital」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「エルミアシメジは茶色をしたキノコ。
+これもレヴァスティの森で見つかると思うわ。
+水の多い場所に生えていることが多いわねぇ」
+> CONTEXT: Map063/events/9/pages/1/35/Dialogue
+Baroa. 「elmyr shimeji is a brown mushroom.
+I think this will also be found in the forest of Lavasti.
+Often they are growing in places with plenty of water」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「最後のユキミタケは、雪の多い場所に生える純白のキノコ。
+これは他の2つとは違って、高原じゃないと採れないの。
+ちょっと集めるには苦労するかもしれないわ」
+> CONTEXT: Map063/events/9/pages/1/40/Dialogue
+Baroa. 「The last snowy mushroom is a pure white mushroom
+that grows in snowy places. Unlike the other two, this one
+can not be produced unless it is a plateau.
+It might be hard to collect a bit.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「これら 3種のキノコを、それぞれ 5本ずつ集めてきてね。
+報酬に、私が研究を重ねて編み出した魔法をひとつ、
+あなたに教えてあげるわよぉ」
+> CONTEXT: Map063/events/9/pages/1/45/Dialogue
+Baroa. 「Collect 5 mushrooms each of these three kinds.
+To the reward, one magic which I have studied repeatedly,
+I will tell you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……なるほど、分かりました。
+それじゃ、集めてきますね」
+> CONTEXT: Map063/events/9/pages/1/50/Dialogue
+\\N[12]. 「... I see, I understand. Well then, I'm
+collecting it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「よろしくお願いねぇ。
+時間がかかると思うけど、武道大会の開催日までには揃えてね。
+分からなくなったら、また聞きにきてちょうだい」
+> CONTEXT: Map063/events/9/pages/1/54/Dialogue
+Baroa. 「Thank you. I think it will take time, but please
+arrange by the date of the martial arts tournament.
+If you do not understand, please come and listen again.」#MTLed
+> END STRING
+
+> BEGIN STRING
+教師バロア
+「あらぁ、キノコについてまた聞きたいのぉ？」
+> CONTEXT: Map063/events/9/pages/2/0/Dialogue
+Instructor Baroa. 「Oh, I would like to ask about mushrooms
+again?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シラタマタケについて聞く
+> CONTEXT: Map063/events/9/pages/2/3/Choice/0
+Ask about ball mushroom#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミアシメジについて聞く
+> CONTEXT: Map063/events/9/pages/2/3/Choice/1
+Ask about elmyr shimeji#MTLed
+> END STRING
+
+> BEGIN STRING
+ユキミタケについて聞く
+> CONTEXT: Map063/events/9/pages/2/3/Choice/2
+Ask about snowy mushroom#MTLed
+> END STRING
+
+> BEGIN STRING
+集める数
+> CONTEXT: Map063/events/9/pages/2/3/Choice/3
+Number to collect#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「エルミアシメジは茶色をしたキノコ。
+レヴァスティの森で見つかると思うわ。
+水の多い場所に生えていることが多いわねぇ」
+> CONTEXT: Map063/events/9/pages/2/12/Dialogue
+Baroa. 「elmyr shimeji is a brown mushroom.
+I think you will find it in the forest of Lavasti.
+Often they are growing in places with plenty of water」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「ユキミタケは、雪の多い場所に生える純白のキノコ。
+これは他の2つとは違って、高原じゃないと採れないの。
+ちょっと集めるには苦労するかもしれないわ」
+> CONTEXT: Map063/events/9/pages/2/19/Dialogue
+Baroa. 「snowy mushroom is a pure white mushroom that grows
+in snowy places. Unlike the other two, this one can not be
+produced unless it is a plateau. It might be hard to
+collect a bit.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「3種類のキノコを、
+それぞれ5本ずつ。合計15本よぉ」
+> CONTEXT: Map063/events/9/pages/2/26/Dialogue
+Baroa. 「Three kinds of mushrooms, Five each each. A total
+of 15 books」#MTLed
+> END STRING
+
+> BEGIN STRING
+期限
+> CONTEXT: Map063/events/9/pages/2/32/Choice/0
+Due date#MTLed
+> END STRING
+
+> BEGIN STRING
+特になし
+> CONTEXT: Map063/events/9/pages/2/32/Choice/1
+> CONTEXT: Map026/events/3/pages/2/6/Choice/2
+nothing special#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「学院は武道大会の期間中は閉鎖されてしまうのよぉ。
+だから、開催日より前には届けてね」
+> CONTEXT: Map063/events/9/pages/2/34/Dialogue
+Baroa. 「The academy is closed during the martial arts
+tournament period. So, please deliver it before the event
+date」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「待たせたな、バロアさん。
+どうにかキノコを全部集めてきたぜ」
+> CONTEXT: Map063/events/9/pages/3/0/Dialogue
+\\N[12]. 「You made me wait, Baroa. I managed to collect
+all the mushrooms」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「あらぁ、ずいぶん早かったのね。
+ご苦労さま、さっそく確認させてもらうわね」
+> CONTEXT: Map063/events/9/pages/3/5/Dialogue
+Baroa. 「Oh, it was a long time ago. Thank you for your
+hard work, I will check it」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「ご苦労さま、大変だったでしょう。
+それじゃあ、確認させてもらうわね」
+> CONTEXT: Map063/events/9/pages/3/11/Dialogue
+Baroa. 「Thank you for your hard work. Well then, I will
+check it」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「うん、確かに15本あるわねぇ。
+ありがとう、本当に助かるわぁ」
+> CONTEXT: Map063/events/9/pages/3/19/Dialogue
+Baroa. 「Yeah, definitely 15 pieces. Thank you, I'm really
+saved」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よかった、ちゃんと目的のキノコだったか……
+これで依頼は完了っすね」
+> CONTEXT: Map063/events/9/pages/3/26/Dialogue
+\\N[12]. 「Was it good, was it a purposeful mushroom ...?
+This completes the request.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「ええ、ありがとう。
+報酬のお金はギルドで受け取ってちょうだい。
+それとは別に、最初に言った報酬をあげるわね」
+> CONTEXT: Map063/events/9/pages/3/30/Dialogue
+Baroa. 「Yeah, thanks. Please accept the reward money with
+the guild. Apart from that, I will give you the first
+reward I said」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あぁ、そういや言ってたっけ、魔法を教えてくれるとか。
+それで、どういう魔法なんだい？」
+> CONTEXT: Map063/events/9/pages/3/35/Dialogue
+\\N[12]. 「Oh, I told you that I will tell you magic.
+So, what kind of magic is it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「その前に、ちょっと待ってね。
+集めてきてもらったキノコを調合しちゃうから」
+> CONTEXT: Map063/events/9/pages/3/39/Dialogue
+Baroa. 「Before that, wait a moment. I will prepare the
+mushrooms that they gathered」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「さあ、できたわ」
+> CONTEXT: Map063/events/9/pages/3/51/Dialogue
+Baroa. 「Now, I can do it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なにやら不安になるような音が鳴っていたような……」
+> CONTEXT: Map063/events/9/pages/3/54/Dialogue
+\\N[12]. 「It sounds like a sound that makes you feel
+uneasy ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「気のせいよぉ。
+それより、このキノコを調合した薬を飲めば、
+あなたは新しい技を習得できるわ」
+> CONTEXT: Map063/events/9/pages/3/57/Dialogue
+Baroa. 「I'm curious. From that, if you take medicine that
+formulated this mushroom, You can master new skills」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ホントかよ……
+まあ、とにかく飲んでみるか」
+> CONTEXT: Map063/events/9/pages/3/62/Dialogue
+\\N[12]. 「Is it true? Well, why do not you drink it
+anyway」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こ、これはっ！
+体中から力が湧いてくるような気がする！」
+> CONTEXT: Map063/events/9/pages/3/70/Dialogue
+\\N[12]. 「Here, this! I feel like power comes from
+within my body!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「ふふっ、そうでしょう？
+人間の潜在能力を一時的に大きく引き出してくれるのよぉ、
+複数種のキノコを調合することで得られる効果なの。
+> CONTEXT: Map063/events/9/pages/3/74/Dialogue
+Baroa. 「Huh, is not it? It temporarily brings out the
+potential of human beings temporarily, It is an effect
+obtained by compounding several kinds of mushrooms.#MTLed
+> END STRING
+
+> BEGIN STRING
+人呼んで、スキル『マッシュブースト』よ。
+戦闘中に使えば、しばらく増強効果が持続するけれど、
+技力をかなり使うから、そこは注意してね」
+> CONTEXT: Map063/events/9/pages/3/79/Dialogue
+Call a man, you're a skill "mash boost".
+If you use it during battle, the reinforcement effect will
+last for a while, I use the skill considerably, so be
+careful there」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、気をつけて使わないといけないんだな。
+とにかく、こいつはありがたい報酬だぜ、
+頑張った甲斐があったな」
+> CONTEXT: Map063/events/9/pages/3/83/Dialogue
+\\N[12]. 「Indeed, you have to be careful and use it.
+Anyway, this is a thankful reward, I was worth the effort.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バロア
+「うふふっ、私も助かったわぁ。
+また魔法実験の材料が必要になったときはギルドにお願いするから、
+よかったら、またお願いねぇ」
+> CONTEXT: Map063/events/9/pages/3/88/Dialogue
+Baroa. 「Uhhhh, I was saved too. Also when you need
+materials for magic experiments ask the guilds,
+If you do not mind, please do not do it again.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はマッシュブーストを習得した！
+> CONTEXT: Map063/events/9/pages/3/94/Dialogue
+\\N[12] I mastered mash boost!#MTLed
+> END STRING
+
+> BEGIN STRING
+教師バロア
+「キノコを集めてくれてありがとうねぇ。
+おかげで、実験がはかどるわぁ。
+うふふふふ……」
+> CONTEXT: Map063/events/9/pages/4/0/Dialogue
+Instructor Baroa. 「Thank you for collecting mushrooms.
+Thanks to that, the experiment is easy. Hehehe ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+教師
+「ここは年少クラスの教室です。
+なかなか、この年頃の子たちを教えるのは
+奥の深いものがありますね」
+> CONTEXT: Map063/events/10/pages/0/0/Dialogue
+Instructor. 「This is a young classroom. It is quite easy
+to teach children of this age. There is something deep
+inside」#MTLed
+> END STRING
+
+> BEGIN STRING
+教師
+「授業を受けてくれて、ありがとうございます。
+基礎とはいえ、これほど早くサンダーの魔法を習得されるとは。
+あなたには魔法の素養があると思いますよ」
+> CONTEXT: Map063/events/10/pages/1/0/Dialogue
+Instructor. 「Thank you for taking the class.
+Despite its foundation, it is said that you will soon learn
+Thunder's magic. I think you have a magical element」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「ふむふむ……昔の人も、結構くだらないことを
+考えていたのねぇ……」
+> CONTEXT: Map063/events/11/pages/0/0/Dialogue
+A student. 「...... Old people also do something pretty crap
+I thought you ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「古代文字は文法が違うからなー
+外国語を勉強するのと変わらないよ」
+> CONTEXT: Map063/events/12/pages/0/0/Dialogue
+A student. 「Because ancient characters are different
+grammar. It is no different from studying a foreign
+language」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「うぅ……よ、読めない……」
+> CONTEXT: Map063/events/13/pages/0/0/Dialogue
+A student. 「Huh ...... I can not read it ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「古文書の解読は、先人の知識を蘇らせることにつながる。
+失われた古代魔法を発掘することだって、
+もしかしたらできるかもしれないんだ」
+> CONTEXT: Map063/events/14/pages/0/0/Dialogue
+A student. 「The decipherment of the old document leads to
+reviving the knowledge of the predecessor.
+To uncover lost ancient magic, Perhaps it could be possible
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「………………」
+（熱心に本を読んでいる）
+> CONTEXT: Map063/events/15/pages/0/0/Dialogue
+girl. 「..................」. (I am reading a book with
+enthusiasm)#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「字が読めないとこれからはこまるからって、
+おとーさんが学院に通わせてくれているんだ」
+> CONTEXT: Map063/events/16/pages/0/0/Dialogue
+boy. 「If you can not read the letters, My daughter allowed
+me to go to the academy」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「せんせー、火のまほうは
+どうやって遠くまで飛ばすのー？」
+> CONTEXT: Map063/events/17/pages/0/0/Dialogue
+girl. 「The teacher, fire magic. How do you fly far?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ご本を読むより、そとであそびたいなー」
+> CONTEXT: Map063/events/18/pages/0/0/Dialogue
+girl. 「I want to play with more than reading books」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「ふん、くだらない本だなあ。
+もっと、むずかしいものでべんきょうしたいよ」
+> CONTEXT: Map063/events/19/pages/0/0/Dialogue
+boy. 「Hmm, it is a silly book. I want to study more harder」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「先生はなんか不気味だけど、
+内容は本当に面白い講座だぜ」
+> CONTEXT: Map063/events/20/pages/0/0/Dialogue
+A student. 「The teacher is somewhat creepy,
+The content is really interesting course」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「魔法よりも、こういった技術のほうが
+後の世に残るような気がするのよね」
+> CONTEXT: Map063/events/21/pages/0/0/Dialogue
+A student. 「Than this magic, these techniques
+It seems like it will remain in later generations」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「うーん、なんで実験液の色が
+ちゃんと変わらないのかなぁ……」
+> CONTEXT: Map063/events/22/pages/0/0/Dialogue
+A student. 「Well, why is the color of the experimental
+solution. I wonder if it does not change properly ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「爆発しないように、慎重に混ぜなきゃ……」
+> CONTEXT: Map063/events/23/pages/0/0/Dialogue
+A student. 「I have to mix it carefully so as not to
+explode ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「どういう原理で金属が変質するのかしら？
+魔法とは違うと先生はおっしゃるけれど、
+不思議だわ」
+> CONTEXT: Map063/events/24/pages/0/0/Dialogue
+A student. 「What kind of principle does the metal
+degenerate? The teacher said that it is different from
+magic, It's strange.」#MTLed
+> END STRING
+
+> BEGIN STRING
+太った学生
+「食べ物を錬成することはできるのかしら……」
+> CONTEXT: Map063/events/25/pages/0/0/Dialogue
+A fat student. 「I wonder if I can train food ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「学院って誰でも授業を受けていくことができるんだよな。
+どうしよう？」
+> CONTEXT: Map063/events/28/pages/0/0/Dialogue
+\\N[12]. 「Everyone can take classes at school.
+What should I do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+受ける
+> CONTEXT: Map063/events/28/pages/0/4/Choice/0
+> CONTEXT: Map063/events/30/pages/0/11/Choice/0
+> CONTEXT: Map050/events/3/pages/1/5/Choice/0
+> CONTEXT: Map050/events/3/pages/1/49/Choice/0
+> CONTEXT: Map050/events/3/pages/2/5/Choice/0
+> CONTEXT: Map045/events/30/pages/0/10/Choice/0
+> CONTEXT: Map045/events/31/pages/0/10/Choice/0
+> CONTEXT: Map050/events/3/pages/2/49/Choice/0
+> CONTEXT: Map050/events/3/pages/3/5/Choice/0
+> CONTEXT: Map050/events/3/pages/3/49/Choice/0
+> CONTEXT: Map050/events/3/pages/4/5/Choice/0
+> CONTEXT: Map050/events/3/pages/4/49/Choice/0
+> CONTEXT: Map025/events/3/pages/2/73/Choice/0
+> CONTEXT: Map025/events/3/pages/3/11/Choice/0
+> CONTEXT: Map147/events/2/pages/19/85/Choice/0
+> CONTEXT: Map147/events/2/pages/19/85/Choice/0
+receive#MTLed
+> END STRING
+
+> BEGIN STRING
+受けない
+> CONTEXT: Map063/events/28/pages/0/4/Choice/1
+> CONTEXT: Map063/events/30/pages/0/11/Choice/1
+> CONTEXT: Map045/events/30/pages/0/10/Choice/1
+> CONTEXT: Map045/events/31/pages/0/10/Choice/1
+Not accept#MTLed
+> END STRING
+
+> BEGIN STRING
+講師
+「であるからして、古文書の解読には
+古代の魔法陣を解析するという意義が……」
+> CONTEXT: Map063/events/28/pages/0/12/Dialogue
+Lecturer. 「So to decipher the old documents
+The significance of analyzing the ancient magic team ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ふむふむ……）
+> CONTEXT: Map063/events/28/pages/0/16/Dialogue
+> CONTEXT: Map045/events/30/pages/0/22/Dialogue
+> CONTEXT: Map045/events/31/pages/0/21/Dialogue
+\\N[12]. (......)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の魔法力が５上がった！
+> CONTEXT: Map063/events/28/pages/0/21/Dialogue
+\\N[12] The magical power of 5 went up!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今日はもう授業を受けたし、
+また明日にしよう」
+> CONTEXT: Map063/events/30/pages/0/1/Dialogue
+> CONTEXT: Map045/events/30/pages/0/1/Dialogue
+> CONTEXT: Map045/events/31/pages/0/1/Dialogue
+\\N[12]. 「I already took classes today, Let's do it
+again tomorrow」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今日はここの授業を受けるか？
+なんか、小さい子に混じって受けることになりそうだが……」
+> CONTEXT: Map063/events/30/pages/0/7/Dialogue
+\\N[12]. 「Do you take a lesson here today?
+Something seems to be mixed with little children, but ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+講師
+「魔法は基礎から学ばねば身につきませんからね。
+今日もみんなで、魔力を練る練習をしましょう！」
+> CONTEXT: Map063/events/30/pages/0/19/Dialogue
+Lecturer. 「Because magic will not learn if you learn from
+the foundation. Let's practice to devise magical power
+today with everyone!」#MTLed
+> END STRING
+
+> BEGIN STRING
+生徒たち
+「はーい！」
+> CONTEXT: Map063/events/30/pages/0/23/Dialogue
+students. 「Yes!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（うーむ、なんかここに混じってるのは恥ずかしいが
+実際基礎ができてないからな、マジメに授業を受けよう）
+> CONTEXT: Map063/events/30/pages/0/26/Dialogue
+\\N[12]. (Hmm, it's embarrassing that somewhere in here
+Actually you can not have a foundation, let's take a lesson
+to Mahime)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はサンダーの魔法を習得した！
+> CONTEXT: Map063/events/30/pages/0/32/Dialogue
+\\N[12] I mastered Thunder's magic!#MTLed
+> END STRING

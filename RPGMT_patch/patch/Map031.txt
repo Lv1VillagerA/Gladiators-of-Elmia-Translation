@@ -1,0 +1,232 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ベックフォード家
+> CONTEXT: Map031/display_name/
+Beckford family#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード侯爵
+「わしがクライン＝ベックフォード侯爵だ。
+最近、娘のディアーナが剣に夢中なのだが、
+せっかくだからロイヤルガードを引き抜いて指南役につけてやった」
+> CONTEXT: Map031/events/5/pages/0/0/Dialogue
+Beckford Marquis. 「I am Klein = Beckford Marquis.
+Recently, my daughter Diana is crazy about the sword,
+I pull out the royal guard so I put it on my role as a
+director」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「すみません、ギルドへの依頼を見て来たんですが……」
+> CONTEXT: Map031/events/5/pages/1/0/Dialogue
+\\N[12]. 「I'm sorry I saw a request to the guild ... ...
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード侯爵
+「ふむ、来たか。
+実は、娘が稽古相手を求めておってな。
+ギルドの冒険者ならば腕が立つだろうと思い、依頼を出したのだ」
+> CONTEXT: Map031/events/5/pages/1/3/Dialogue
+Beckford Marquis. 「Hmm, did you come? Actually, my
+daughter is asking for a lesson. I thought that if an
+adventurer of a guild would stand up, I got a request」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード侯爵
+「キミは武道大会の出場者かね？」
+> CONTEXT: Map031/events/5/pages/1/8/Dialogue
+Beckford Marquis. 「Are you a competitor of martial arts
+tournament?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、すでに選手登録をしてますけど」
+> CONTEXT: Map031/events/5/pages/1/11/Dialogue
+\\N[12]. 「Yes, I already registered a player」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード侯爵
+「ならば腕にはそれなりに覚えがあろう。
+わしの娘だけあってディアーナは才にあふれており、
+並の男ではまったく相手にならん。
+> CONTEXT: Map031/events/5/pages/1/14/Dialogue
+Beckford Marquis. 「Then I will remember it in the arms as
+it is. There is only my daughter, Diana is full of talent,
+A parallel guy will not be a partner at all.#MTLed
+> END STRING
+
+> BEGIN STRING
+いい稽古相手になってくれることを期待しておるぞ。
+娘は2階にいるから、いつでも行ってみてくれ」
+> CONTEXT: Map031/events/5/pages/1/19/Dialogue
+I expect you to be a good practitioner. My daughter is on
+the second floor, so please go there anytime.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました、頑張ります」
+> CONTEXT: Map031/events/5/pages/1/22/Dialogue
+\\N[12]. 「I understand. I will do my best.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（貴族の娘か。
+どれだけ才能があるかは分からないけど、
+頑張って相手をしなくちゃな）
+> CONTEXT: Map031/events/5/pages/1/25/Dialogue
+\\N[12]. (A nobleman's daughter? I do not know how
+talented you are, I have to work hard and have an opponent)#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード侯爵
+「娘のディアーナは2階におるぞ。
+指南役であるレイアという者と一緒にいるだろうから、
+すぐにわかるはずだ」
+> CONTEXT: Map031/events/5/pages/2/0/Dialogue
+Beckford Marquis. 「My daughter Diana is on the second
+floor. Since he will be with a person named Leia who is a
+director of the team, It should be understood soon.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード侯爵
+「娘の稽古相手、ご苦労だったな。
+あれはわがままに育ってしまったから相手は大変だったであろう。
+報酬はギルドに預けておいたから、受け取ってくれ」
+> CONTEXT: Map031/events/5/pages/3/0/Dialogue
+Beckford Marquis. 「My daughter's lesson was hard work.
+That was raised to selfish so the partner would have been
+serious. I received the reward from the guild, so please
+accept it」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード侯爵
+「今年も武道大会は盛り上がっているようだな。
+いい人材がいれば、我が家で雇い入れてみようか」
+> CONTEXT: Map031/events/5/pages/5/0/Dialogue
+Beckford Marquis. 「Martial arts tournament seems to be
+excited this year too. If there are good talent, why do not
+you hire it at home」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード侯爵
+「もう武道大会期間に入ってしまったから
+娘も稽古相手を必要としていないようだ。
+すまんが依頼は取り下げさせてもらおう」
+> CONTEXT: Map031/events/5/pages/6/0/Dialogue
+Beckford Marquis. 「I already entered the martial arts
+tournament period. My daughter does not seem to need a
+practice opponent. Sorry let me withdraw the request」#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼：『娘の稽古相手』は
+期限が過ぎたため失敗となります。
+依頼票は所持品から消滅します。
+> CONTEXT: Map031/events/5/pages/6/5/Dialogue
+Request: "Daughter's Practice Partner". It will fail
+because the deadline has expired. The request form vanishes
+from belongings.#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード侯爵
+「おお、\\N[12]選手ではないか。
+武道大会での活躍、見事であったぞ」
+> CONTEXT: Map031/events/5/pages/7/0/Dialogue
+Beckford Marquis. 「Oh, \\N[12] Is not it a player?
+Activity at martial arts tournament, it was a splendid
+experience」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード侯爵
+「おお、\\N[12]選手ではないか。
+武道大会での活躍、見事であったぞ。
+そなたなら、うちの娘の婿にふさわしいかもしれんなあ」
+> CONTEXT: Map031/events/5/pages/8/0/Dialogue
+Beckford Marquis. 「Oh, \\N[12] Is not it a player?
+Activities at martial arts tournament, it was brilliant.
+Well, it may be suitable for my daughter's son-in-law」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード侯爵
+「おお、\\N[12]選手ではないか。
+武道大会での活躍、見事であったぞ。
+姫様とのことがなければ、うちの娘の婿に欲しかったぐらいだ」
+> CONTEXT: Map031/events/5/pages/9/0/Dialogue
+Beckford Marquis. 「Oh, \\N[12] Is not it a player?
+Activities at martial arts tournament, it was brilliant.
+If I had nothing to do with the princess, I wanted the
+son-in-law of my daughter」#MTLed
+> END STRING
+
+> BEGIN STRING
+使用人
+「ここのご主人は金払いがいいから働き甲斐があるね。
+ま、落ち目のグランレルム家とは違うわな」
+> CONTEXT: Map031/events/6/pages/0/0/Dialogue
+Servant. 「My husband here is worth working as he pays for
+it. Well, it's not like the fallen Grandrealm family」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「お嬢様は、以前は食の細い方だったんですけれど、
+剣技に熱中されるようになってからは
+しっかり食べていただけるようになりましたのよ」
+> CONTEXT: Map031/events/7/pages/0/0/Dialogue
+A maid. 「Milady used to be a thin meal in the past,
+Since I became enthusiastic about sword tricks
+You are now able to eat well」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「休むときはしっかり休まなくちゃね。
+ご主人様、けっこう人使いが荒いのよ」
+> CONTEXT: Map031/events/8/pages/0/0/Dialogue
+A maid. 「You have to take a good rest when you rest.
+Your master, pretty good people use it」#MTLed
+> END STRING
+
+> BEGIN STRING
+執事
+「ベックフォード家へ、ようこそいらっしゃいました。
+ご主人様はこちらの応接室におられます」
+> CONTEXT: Map031/events/9/pages/0/0/Dialogue
+Butler. 「Welcome to the Beckford family.
+The master is in this reception room」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「…………」
+> CONTEXT: Map031/events/10/pages/0/0/Dialogue
+A maid. 「............」#MTLed
+> END STRING
+
+> BEGIN STRING
+執事
+「以前は報酬が安くて料理人に逃げられたりしていたのですが、
+今の当家は飛ぶ鳥を落とす勢い。
+一流の者を引き抜き、高額な報酬を与えております」
+> CONTEXT: Map031/events/13/pages/0/0/Dialogue
+Butler. 「Previously, the reward was cheap and the cook was
+running away, The current house is the momentum to drop the
+flying bird. I pull out the top talent and give a high
+reward」#MTLed
+> END STRING

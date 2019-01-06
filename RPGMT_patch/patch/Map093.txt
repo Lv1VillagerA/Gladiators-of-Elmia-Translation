@@ -1,0 +1,58 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+主人
+「うちの娘たちは自立心が強くてね。
+手に職をつけたり早々に結婚したりと……
+本音では、もうちょっと甘えてくれてもよかったんだがね」
+> CONTEXT: Map093/events/3/pages/0/0/Dialogue
+master. 「Our girls are strong in self-reliance.
+With jobs in hand and married soon ... ...
+Even though I was a little bit alright with my real
+intention」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦
+「一階の寝室は娘夫婦に譲って、
+私たちはこの部屋で暮らしていますのよ。
+婿は気にしてるようだけど、毎日孫娘の顔が見られて幸せだわ」
+> CONTEXT: Map093/events/4/pages/0/0/Dialogue
+housewife. 「The bedroom on the first floor was transferred
+to my daughter's couple, We are living in this room.
+My son-in-law seems to be concerned, but every day my
+granddaughter's face is seen and I am happy」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦
+「上の娘が武道大会に出るって言っているのよ。
+大丈夫かしらねぇ、女の子なのに……
+怪我でもしなければいいんだけど」
+> CONTEXT: Map093/events/4/pages/1/0/Dialogue
+housewife. 「The upper daughter says that it will appear in
+the martial arts tournament. I wonder if it's okay, though
+I'm a girl ...... I do not have to do it even with an
+injury」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「俺の姉ちゃんたち、どっちも強いんだけど
+上の姉ちゃんは武道大会に出るらしいんだ。
+応援に行くのが楽しみだぜー！」
+> CONTEXT: Map093/events/5/pages/0/0/Dialogue
+boy. 「Both of my sisters are strong, though
+My older sister seems to come out to martial arts
+tournament. I'm looking forward to going to cheer!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「リネッタねえちゃん、準決勝まで行ったんだぜ！
+あんな強いなんて思わなかったなー、
+俺、これからねえちゃんに魔法教わるんだー！」
+> CONTEXT: Map093/events/5/pages/1/0/Dialogue
+boy. 「Linetta Nei-chan, I went to the semifinals!
+I did not think that such a strong one, I'm learning
+magical for Nei-chan from now!」#MTLed
+> END STRING

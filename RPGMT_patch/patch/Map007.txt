@@ -1,0 +1,314 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+自宅
+> CONTEXT: Map007/display_name/
+home#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア王国南部　レストンの村――
+> CONTEXT: Map007/events/4/pages/0/1/Dialogue
+The village of Reston in the southern part of Elmia Kingdom
+-#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ、今日の鍛錬はこのくらいにしとくか……
+> CONTEXT: Map007/events/4/pages/0/27/Dialogue
+\\N[12]. 「Fuu, I will do this for today's training
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「魔物も増えてるし、自警団員として村を守るためにも
+毎日しっかり剣の腕を鍛えないとな」
+> CONTEXT: Map007/events/4/pages/0/30/Dialogue
+\\N[12]. 「The number of monsters is increasing, and
+also to protect the village as a militia member
+I have to master the sword's arms firmly every day」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「だけど、この村だけで一生過ごすのも
+小さくまとまっちまっているような感じがするなぁ。
+男として、いずれデカイことを成し遂げたいぜ」
+> CONTEXT: Map007/events/4/pages/0/35/Dialogue
+\\N[12]. 「However, it is not easy to spend the whole
+life alone in this village. It feels like it's got tiny.
+As a man, I'd like to accomplish something big」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団に所属する少年、\\N[12]は
+毎日鍛錬に勤しみ、腕を磨く日々を送っていた。
+> CONTEXT: Map007/events/4/pages/0/40/Dialogue
+A boy belonging to a vigilante group, \\N[12] Is
+I worked hard for training every day, and I was sending
+days to brush my arms.#MTLed
+> END STRING
+
+> BEGIN STRING
+そんな彼の前に、
+この日、ある少女が訪れる――
+> CONTEXT: Map007/events/4/pages/0/43/Dialogue
+Before that, A girl visits this day -#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘テスト空間へ移動しますか？
+> CONTEXT: Map007/events/5/pages/0/0/Dialogue
+Do you want to move to the battle test space?#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「\\N[12]、ちょっといいか？」
+> CONTEXT: Map007/events/6/pages/1/12/Dialogue
+> CONTEXT: Map007/events/11/pages/1/12/Dialogue
+male. 「\\N[12] , A bit better?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え？　あ、団長。
+お疲れ様っす！」
+> CONTEXT: Map007/events/6/pages/1/17/Dialogue
+> CONTEXT: Map007/events/11/pages/1/17/Dialogue
+\\N[12]. 「Huh? Oh, my head. Good work!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ん？　そっちの女の子は誰ですか？」
+> CONTEXT: Map007/events/6/pages/1/22/Dialogue
+> CONTEXT: Map007/events/11/pages/1/22/Dialogue
+\\N[12]. 「Hmm? Who's that girl?」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団長アルバート
+「ああ、用事というのは彼女についてなんだが……」
+> CONTEXT: Map007/events/6/pages/1/25/Dialogue
+Self police captain albert. 「Oh, errands are about her ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「こんにちは！　私、シェリーっていうの。
+西の王国出身の剣士よ、よろしくねっ！」
+> CONTEXT: Map007/events/6/pages/1/32/Dialogue
+A girl. 「Hello! I, Sherry. I'm a swordsmen from
+the West Kingdom, please!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああ。
+俺は\\N[12]、よろしく」
+> CONTEXT: Map007/events/6/pages/1/36/Dialogue
+\\N[12]. 「Oh, oh. I am \\N[12] ,nice to meet you」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「修行の邪魔をしちゃってごめんなさい。
+私、エルミア王都で開催される武道大会に出場するために
+武者修行がてら、いろんな街を巡っているのよ」
+> CONTEXT: Map007/events/6/pages/1/40/Dialogue
+Sherry. 「I am sorry for interrupting my training.
+I, to participate in the martial arts tournament
+to be held in the Kingdom of Elmia
+Warriors practice and are traveling around
+various cities」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へえ、キミみたいな女の子が修行ね……
+それで、なにかウチに用なのかい？」
+> CONTEXT: Map007/events/6/pages/1/45/Dialogue
+\\N[12]. 「Oh, girls like you are going to train ... ...
+So, is there something for my house?」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団長アルバート
+「それについてだが、
+\\N[12]、この子と手合わせをしてやってくれないか？」
+> CONTEXT: Map007/events/6/pages/1/49/Dialogue
+Self police captain albert. 「About that,
+\\N[12] Will you do me a hand with this girl?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、手合わせ？　俺と、この子がですか？」
+> CONTEXT: Map007/events/6/pages/1/55/Dialogue
+\\N[12]. 「Well, are you going? Is this girl with me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「この村にも、せっかくこうして立ち寄ったんだし
+腕の立つ人と手合わせしたいなって思って
+自警団長さんに相談してみたの」
+> CONTEXT: Map007/events/6/pages/1/58/Dialogue
+Sherry. 「I visited this village with all my heart
+I thought that I wanted to meet someone with arms
+I tried consulting with the vigilante headmaster」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「そうしたら、あなたがいいって団長さんが言ってくれて。
+ここに連れてきてくれたってわけ」
+> CONTEXT: Map007/events/6/pages/1/63/Dialogue
+Sherry. 「In that case, the headmaster says you
+are okay. That's why you brought me here」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうん、そうだったのか。
+え、でも団長は？　自分で相手しないんですか？」
+> CONTEXT: Map007/events/6/pages/1/67/Dialogue
+\\N[12]. 「Huh, was that so? Well, but the headmaster?
+Do not you oppose yourself?」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団長アルバート
+「あ、いや、俺はちょっと、その……
+まあとにかく、俺の見立てでは自警団トップはお前なんだ。
+彼女の相手には適任だろうと思ってな」
+> CONTEXT: Map007/events/6/pages/1/72/Dialogue
+Self police captain albert. 「Oh, no, I guess that ... ...
+Well anyway, in my opinion the vigilante team top is you.
+I thought it would be qualified for her partner.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「そういうわけなの。
+突然で悪いけれど、相手をしてもらえないかな？」
+> CONTEXT: Map007/events/6/pages/1/77/Dialogue
+Sherry. 「That 's why. Suddenly bad, can I have
+someone with you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうん、まあいいけど……」
+> CONTEXT: Map007/events/6/pages/1/81/Dialogue
+\\N[12]. 「Well, well ... okay ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「でも、女の子と勝負か……
+自警団にも女の子はいるけど、ほとんど負けないんだよな。
+男と女じゃ、まともな勝負になるもんじゃないと思うぜ？」
+> CONTEXT: Map007/events/6/pages/1/84/Dialogue
+> CONTEXT: Map007/events/11/pages/1/56/Dialogue
+\\N[12]. 「But, is it a game against girls ...?
+There are girls in vigilante groups, but they do not lose
+much. Why do not men and women have a decent match?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「おっ、言ったね？
+女の子だと思って甘く見てると、痛い目見るんだから」
+> CONTEXT: Map007/events/6/pages/1/91/Dialogue
+Sherry. 「Oh, you said? Because I see painful
+eyes when I think sweetly thinking that it is a
+girl」#MTLed
+> CONTEXT: Map007/events/11/pages/1/61/Dialogue
+Sherry. 「Oh, you said? Because I see painful eyes when I
+think sweetly thinking that it is a girl」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[1]文字色テスト中　C1
+\\C[2]まだまだテスト中　C2
+\\C[3]もいっちょテスト中　C3
+\\C[4]最後　C4
+> CONTEXT: Map007/events/7/pages/0/0/Dialogue
+\\C[1]Text color Under test C1. \\C[2]Under test C2
+\\C[3]It is also being tested C3. \\C[4]Last C4#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「こんにちは！
+> CONTEXT: Map007/events/11/pages/1/25/Dialogue
+A girl. 「Hello!#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「突然ごめんなさい、私、シェリーっていうの。
+王都の武術大会で勝つために武者修行をしていて、
+いろんな街を巡っているのよ」
+> CONTEXT: Map007/events/11/pages/1/28/Dialogue
+A girl. 「Suddenly I am sorry, I, Sherry.
+I am training martial arts to win with the king's martial
+arts tournament, I'm traveling around various cities」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へえ、キミみたいな女の子が……
+それで、なにかウチに用なのかい？
+> CONTEXT: Map007/events/11/pages/1/33/Dialogue
+\\N[12]. 「Oh, girls like you ... ... So, is there
+something for my house?#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「腕の立つ人と手合わせしたいなって思って来たの。
+自警団の人たちがいいかなって思ったんだけれど、
+みんな忙しそうだったから……
+> CONTEXT: Map007/events/11/pages/1/37/Dialogue
+Sherry. 「I thought that I wanted to meet someone with arms.
+I thought that the vigilante 's people were good,
+Because everyone seemed to be busy ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、なるほど。人手不足でみんな忙しいからなあ。
+> CONTEXT: Map007/events/11/pages/1/42/Dialogue
+\\N[12]. 「ah I see. I am busy because of lack of
+workers.#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「村の人たちに聞いたら、あなたは今日お休みで
+自宅で鍛錬しているって聞いたから、
+ちょうどいいと思って来てみたの」
+> CONTEXT: Map007/events/11/pages/1/45/Dialogue
+Sherry. 「If you ask the villagers, you are off today
+Because I heard that he is exercising at home,
+I thought that it was just right」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「突然で悪いけれど、相手をしてもらえないかな？」
+> CONTEXT: Map007/events/11/pages/1/50/Dialogue
+Sherry. 「Suddenly bad, can I have someone with you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうん、まあいいけど……
+> CONTEXT: Map007/events/11/pages/1/53/Dialogue
+\\N[12]. 「Well, well ... okay ....#MTLed
+> END STRING

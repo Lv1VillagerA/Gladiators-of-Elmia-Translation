@@ -1,0 +1,781 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+戦闘不能
+> CONTEXT: States/1/name/
+Death#lvl1
+> END STRING
+
+> BEGIN STRING
+は倒れた！
+> CONTEXT: States/1/message1/
+ has fallen!#lvl1
+> END STRING
+
+> BEGIN STRING
+を倒した！
+> CONTEXT: States/1/message2/
+ is slain!#lvl1
+> END STRING
+
+> BEGIN STRING
+は立ち上がった！
+> CONTEXT: States/1/message4/
+ revives!#lvl1
+> END STRING
+
+> BEGIN STRING
+毒
+> CONTEXT: States/2/name/
+Poison#lvl1
+> END STRING
+
+> BEGIN STRING
+は毒に冒された！
+> CONTEXT: States/2/message1/
+> CONTEXT: States/2/message2/
+ is poisoned!#lvl1
+> END STRING
+
+> BEGIN STRING
+の毒が消えた！
+> CONTEXT: States/2/message4/
+ is freed of poison!#lvl1
+> END STRING
+
+> BEGIN STRING
+暗闇
+> CONTEXT: States/3/name/
+Blind#lvl1
+> END STRING
+
+> BEGIN STRING
+は暗闇に閉ざされた！
+> CONTEXT: States/3/message1/
+ becomes blind!#lvl1
+> END STRING
+
+> BEGIN STRING
+を暗闇に閉ざした！
+> CONTEXT: States/3/message2/
+ is blinded!#lvl1
+> END STRING
+
+> BEGIN STRING
+の暗闇が消えた！
+> CONTEXT: States/3/message4/
+ is no longer blinded!#lvl1
+> END STRING
+
+> BEGIN STRING
+沈黙
+> CONTEXT: States/4/name/
+Silence#lvl1
+> END STRING
+
+> BEGIN STRING
+は魔法を封じ込まれた！
+> CONTEXT: States/4/message1/
+ cannot cast Magic!#lvl1
+> END STRING
+
+> BEGIN STRING
+の魔法を封じ込めた！
+> CONTEXT: States/4/message2/
+Contained the magic of!#MTLed
+> END STRING
+
+> BEGIN STRING
+の魔法封じが解けた！
+> CONTEXT: States/4/message4/
+'s Magic is no longer sealed!#lvl1
+> END STRING
+
+> BEGIN STRING
+混乱
+> CONTEXT: States/5/name/
+Confusion#lvl1
+> END STRING
+
+> BEGIN STRING
+は混乱してしまった！
+> CONTEXT: States/5/message1/
+ becomes confused!#lvl1
+> END STRING
+
+> BEGIN STRING
+を混乱させた！
+> CONTEXT: States/5/message2/
+ is confused!#lvl1
+> END STRING
+
+> BEGIN STRING
+は我に返った！
+> CONTEXT: States/5/message4/
+> CONTEXT: States/28/message4/
+> CONTEXT: States/29/message4/
+> CONTEXT: States/30/message4/
+> CONTEXT: States/32/message4/
+> CONTEXT: States/52/message4/
+ is no longer confused!#lvl1
+> END STRING
+
+> BEGIN STRING
+睡眠
+> CONTEXT: States/6/name/
+Sleep#lvl1
+> END STRING
+
+> BEGIN STRING
+は眠ってしまった！
+> CONTEXT: States/6/message1/
+ falls asleep!#lvl1
+> END STRING
+
+> BEGIN STRING
+を眠らせた！
+> CONTEXT: States/6/message2/
+Sleeping!#MTLed
+> END STRING
+
+> BEGIN STRING
+は眠っている……
+> CONTEXT: States/6/message3/
+ is sleeping......#lvl1
+> END STRING
+
+> BEGIN STRING
+は目を覚ました！
+> CONTEXT: States/6/message4/
+ wakes up!#lvl1
+> END STRING
+
+> BEGIN STRING
+麻痺
+> CONTEXT: States/7/name/
+> CONTEXT: States/36/name/
+Paralysis#lvl1
+> END STRING
+
+> BEGIN STRING
+はしびれて動けなくなった！
+> CONTEXT: States/7/message1/
+> CONTEXT: States/36/message1/
+ becomes paralyzed!#lvl1
+> END STRING
+
+> BEGIN STRING
+を麻痺させた！
+> CONTEXT: States/7/message2/
+> CONTEXT: States/36/message2/
+ is paralyzed!#lvl1
+> END STRING
+
+> BEGIN STRING
+は体がしびれて動けない！
+> CONTEXT: States/7/message3/
+> CONTEXT: States/36/message3/
+ is unable to move!#lvl1
+> END STRING
+
+> BEGIN STRING
+の麻痺が解けた！
+> CONTEXT: States/7/message4/
+> CONTEXT: States/36/message4/
+ is no longer paralyzed!#lvl1
+> END STRING
+
+> BEGIN STRING
+スタン
+> CONTEXT: States/8/name/
+> CONTEXT: States/29/name/
+Stun#lvl1
+> END STRING
+
+> BEGIN STRING
+はバランスを崩した！
+> CONTEXT: States/8/message1/
+> CONTEXT: States/8/message2/
+ loses balance!#lvl1
+> END STRING
+
+> BEGIN STRING
+はバランスを崩している……
+> CONTEXT: States/8/message3/
+ hasn't regained balance......#lvl1
+> END STRING
+
+> BEGIN STRING
+は体勢を立て直した！
+> CONTEXT: States/8/message4/
+> CONTEXT: States/50/message4/
+ regains balance!#lvl1
+> END STRING
+
+> BEGIN STRING
+不死身
+> CONTEXT: States/10/name/
+Immortal#lvl1
+> END STRING
+
+> BEGIN STRING
+かばう
+> CONTEXT: States/11/name/
+> CONTEXT: Skills/90/name/
+Cover#lvl1
+> END STRING
+
+> BEGIN STRING
+挑発
+> CONTEXT: States/12/name/
+> CONTEXT: Skills/91/name/
+Provoke#lvl1
+> END STRING
+
+> BEGIN STRING
+隠れる
+> CONTEXT: States/13/name/
+> CONTEXT: Skills/110/name/
+Vanish#lvl1
+> END STRING
+
+> BEGIN STRING
+HP再生
+> CONTEXT: States/14/name/
+HP Regen#lvl1
+> END STRING
+
+> BEGIN STRING
+MP再生
+> CONTEXT: States/15/name/
+MP Regen#lvl1
+> END STRING
+
+> BEGIN STRING
+TP再生
+> CONTEXT: States/16/name/
+TP Regen#lvl1
+> END STRING
+
+> BEGIN STRING
+鉄壁
+> CONTEXT: States/17/name/
+Ironbody#lvl1
+> END STRING
+
+> BEGIN STRING
+反撃
+> CONTEXT: States/18/name/
+Counterattack#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法回避
+> CONTEXT: States/19/name/
+Magic Evade#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法反射
+> CONTEXT: States/20/name/
+> CONTEXT: Skills/119/name/
+Magic Reflect#lvl1
+> END STRING
+
+> BEGIN STRING
+炎の力
+> CONTEXT: States/21/name/
+Fire Force#lvl1
+> END STRING
+
+> BEGIN STRING
+は炎の力を身にまとった。
+> CONTEXT: States/21/message1/
+> CONTEXT: States/21/message2/
+ acquires the power of fire!#lvl1
+> END STRING
+
+> BEGIN STRING
+氷の力
+> CONTEXT: States/22/name/
+Ice Force#lvl1
+> END STRING
+
+> BEGIN STRING
+は氷の力を身にまとった。
+> CONTEXT: States/22/message1/
+> CONTEXT: States/22/message2/
+ acquires the power of ice!#lvl1
+> END STRING
+
+> BEGIN STRING
+雷の力
+> CONTEXT: States/23/name/
+Thunder Force#lvl1
+> END STRING
+
+> BEGIN STRING
+は雷の力を身にまとった。
+> CONTEXT: States/23/message1/
+> CONTEXT: States/23/message2/
+ acquires the power of thunder!#lvl1
+> END STRING
+
+> BEGIN STRING
+異常防止
+> CONTEXT: States/24/name/
+Ailment Guard#lvl1
+> END STRING
+
+> BEGIN STRING
+消費MP減
+> CONTEXT: States/25/name/
+MP Cost Down#lvl1
+> END STRING
+
+> BEGIN STRING
+勃起
+> CONTEXT: States/26/name/
+> CONTEXT: States/46/name/
+Erection#MTLed
+> CONTEXT: Map008/events/8/pages/0/42/Choice/0
+> CONTEXT: Map008/events/11/pages/0/42/Choice/0
+> CONTEXT: Map008/events/24/pages/0/42/Choice/0
+erection#MTLed
+> END STRING
+
+> BEGIN STRING
+は勃起してしまった！
+> CONTEXT: States/26/message1/
+I got an erection!#MTLed
+> END STRING
+
+> BEGIN STRING
+は勃起した！
+> CONTEXT: States/26/message2/
+He erected!#MTLed
+> END STRING
+
+> BEGIN STRING
+の勃起は収まらない！
+> CONTEXT: States/26/message3/
+The erection can not fit!#MTLed
+> END STRING
+
+> BEGIN STRING
+の勃起は収まった！
+> CONTEXT: States/26/message4/
+The erection of the house has stopped!#MTLed
+> END STRING
+
+> BEGIN STRING
+脱力
+> CONTEXT: States/27/name/
+Weakness#MTLed
+> CONTEXT: Map008/events/11/pages/0/97/Choice/0
+> CONTEXT: Map008/events/24/pages/0/97/Choice/0
+> CONTEXT: Map008/events/8/pages/0/96/Choice/0
+> CONTEXT: Map008/events/8/pages/0/96/Choice/0
+Weakness#MTLed
+> END STRING
+
+> BEGIN STRING
+は脱力している……
+> CONTEXT: States/27/message3/
+I am weak ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+は気力を取り戻した！
+> CONTEXT: States/27/message4/
+He regained his energy!#MTLed
+> END STRING
+
+> BEGIN STRING
+魅了
+> CONTEXT: States/28/name/
+> CONTEXT: States/32/name/
+Fascination#MTLed
+> CONTEXT: Map008/events/8/pages/0/42/Choice/1
+> CONTEXT: Map008/events/11/pages/0/42/Choice/1
+> CONTEXT: Map008/events/24/pages/0/42/Choice/1
+Fascination#MTLed
+> END STRING
+
+> BEGIN STRING
+は女の子に魅了されてしまった！
+> CONTEXT: States/28/message1/
+> CONTEXT: States/32/message1/
+I was fascinated by girls!#MTLed
+> END STRING
+
+> BEGIN STRING
+は敵の女の子に魅了されている……
+> CONTEXT: States/28/message3/
+Is fascinated by enemy girls ......#MTLed
+> END STRING
+
+> BEGIN STRING
+は女の子に見惚れてしまった！
+> CONTEXT: States/29/message1/
+I was fond of girls!#MTLed
+> END STRING
+
+> BEGIN STRING
+は呆けている……
+> CONTEXT: States/29/message3/
+I am shocked ...#MTLed
+> END STRING
+
+> BEGIN STRING
+恍惚
+> CONTEXT: States/30/name/
+> CONTEXT: States/52/name/
+Ecstasy#MTLed
+> CONTEXT: Map008/events/11/pages/0/42/Choice/2
+> CONTEXT: Map008/events/24/pages/0/42/Choice/2
+> CONTEXT: Map008/events/8/pages/0/42/Choice/3
+> CONTEXT: Map008/events/8/pages/0/42/Choice/3
+Ecstasy#MTLed
+> END STRING
+
+> BEGIN STRING
+は心地良さに恍惚としてしまった！
+> CONTEXT: States/30/message1/
+I was ecstatic to comfort!#MTLed
+> END STRING
+
+> BEGIN STRING
+は心地良さで呆けている！
+> CONTEXT: States/30/message3/
+> CONTEXT: States/52/message3/
+He is distressed with comfort!#MTLed
+> END STRING
+
+> BEGIN STRING
+悶絶
+> CONTEXT: States/31/name/
+Faint#MTLed
+> CONTEXT: Map008/events/11/pages/0/97/Choice/1
+> CONTEXT: Map008/events/24/pages/0/97/Choice/1
+> CONTEXT: Map008/events/8/pages/0/96/Choice/1
+> CONTEXT: Map008/events/8/pages/0/96/Choice/1
+Faint#MTLed
+> END STRING
+
+> BEGIN STRING
+は股間を打たれ、悶絶している！
+> CONTEXT: States/31/message1/
+He is beaten his crotch and is in agony!#MTLed
+> END STRING
+
+> BEGIN STRING
+「あぐうぅっ……！　う、うぅ～！」
+> CONTEXT: States/31/message3/
+「Ah huh! Well, ~!」#MTLed
+> END STRING
+
+> BEGIN STRING
+は落ち着いた！
+> CONTEXT: States/31/message4/
+> CONTEXT: States/33/message4/
+I calmed down!#MTLed
+> END STRING
+
+> BEGIN STRING
+は敵の女の子に見とれている！
+> CONTEXT: States/32/message3/
+He is accustomed to enemy girls!#MTLed
+> END STRING
+
+> BEGIN STRING
+催淫
+> CONTEXT: States/33/name/
+Aversion#MTLed
+> CONTEXT: Map008/events/8/pages/0/42/Choice/2
+> CONTEXT: Map008/events/11/pages/0/42/Choice/3
+> CONTEXT: Map008/events/24/pages/0/42/Choice/3
+Aversion#MTLed
+> END STRING
+
+> BEGIN STRING
+は性欲過多になってしまった！
+> CONTEXT: States/33/message1/
+He has become sexual desire too!#MTLed
+> END STRING
+
+> BEGIN STRING
+は性欲が抑えられない！
+> CONTEXT: States/33/message3/
+I can not suppress libido!#MTLed
+> END STRING
+
+> BEGIN STRING
+拘束
+> CONTEXT: States/34/name/
+Restraint#MTLed
+> CONTEXT: Map008/events/11/pages/0/97/Choice/2
+> CONTEXT: Map008/events/24/pages/0/97/Choice/2
+> CONTEXT: Map008/events/8/pages/0/96/Choice/2
+> CONTEXT: Map008/events/8/pages/0/96/Choice/2
+Restraint#MTLed
+> END STRING
+
+> BEGIN STRING
+は相手に拘束されてしまった！
+> CONTEXT: States/34/message1/
+He was locked by the opponent!#MTLed
+> END STRING
+
+> BEGIN STRING
+は拘束から脱した！
+> CONTEXT: States/34/message4/
+He is out of restraint!#MTLed
+> END STRING
+
+> BEGIN STRING
+ダミー
+> CONTEXT: States/35/name/
+Dummy#MTLed
+> END STRING
+
+> BEGIN STRING
+サンダー状態
+> CONTEXT: States/37/name/
+> CONTEXT: Skills/222/name/
+> CONTEXT: Skills/241/name/
+Thunder condition#MTLed
+> END STRING
+
+> BEGIN STRING
+氷結
+> CONTEXT: States/38/name/
+Freezing#MTLed
+> END STRING
+
+> BEGIN STRING
+は足元を凍らされてしまった！
+> CONTEXT: States/38/message1/
+He was frozen at my feet!#MTLed
+> END STRING
+
+> BEGIN STRING
+は足元が凍っていて動けない！
+> CONTEXT: States/38/message3/
+My feet are frozen and I can not move!#MTLed
+> END STRING
+
+> BEGIN STRING
+は動けるようになった！
+> CONTEXT: States/38/message4/
+You can move!#MTLed
+> END STRING
+
+> BEGIN STRING
+風盾
+> CONTEXT: States/39/name/
+Wind shield#MTLed
+> END STRING
+
+> BEGIN STRING
+の風の盾は消えた。
+> CONTEXT: States/39/message4/
+The wind shield has disappeared.#MTLed
+> END STRING
+
+> BEGIN STRING
+リジェネレイト
+> CONTEXT: States/40/name/
+> CONTEXT: Skills/259/name/
+Regenerate#MTLed
+> END STRING
+
+> BEGIN STRING
+太もも絞め
+> CONTEXT: States/41/name/
+Thigh strut#MTLed
+> CONTEXT: Map152/events/97/pages/7/86/Choice/1
+Thigh strut#MTLed
+> END STRING
+
+> BEGIN STRING
+はバニーガールの太ももに挟まれた！
+> CONTEXT: States/41/message1/
+He was caught in the thighs of bunny girl!#MTLed
+> END STRING
+
+> BEGIN STRING
+は太ももを振りほどいた！
+> CONTEXT: States/41/message4/
+He laid his thighs!#MTLed
+> END STRING
+
+> BEGIN STRING
+キスホールド
+> CONTEXT: States/42/name/
+> CONTEXT: States/47/name/
+> CONTEXT: Skills/283/name/
+> CONTEXT: Skills/349/name/
+Kiss hold#MTLed
+> END STRING
+
+> BEGIN STRING
+はバニーガールに抱きしめられた！
+> CONTEXT: States/42/message1/
+> CONTEXT: States/43/message1/
+I was hugged by bunny girl!#MTLed
+> END STRING
+
+> BEGIN STRING
+はバニーガールを振りほどいた！
+> CONTEXT: States/42/message4/
+> CONTEXT: States/43/message4/
+I took the bunny girl!#MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱいホールド
+> CONTEXT: States/43/name/
+> CONTEXT: Skills/290/name/
+> CONTEXT: States/55/name/
+Hold tits#MTLed
+> CONTEXT: Map152/events/97/pages/7/86/Choice/0
+Hold tits#MTLed
+> END STRING
+
+> BEGIN STRING
+水盾
+> CONTEXT: States/44/name/
+Water shield#MTLed
+> END STRING
+
+> BEGIN STRING
+の水の盾は消えた。
+> CONTEXT: States/44/message4/
+The water shield has disappeared.#MTLed
+> END STRING
+
+> BEGIN STRING
+は、幻影に与えられた性欲で勃起している。
+> CONTEXT: States/46/message3/
+He is erecting with sexuality given to illusion.#MTLed
+> END STRING
+
+> BEGIN STRING
+はサキュバスに抱きしめられた！
+> CONTEXT: States/47/message1/
+I was hugged by Succubus!#MTLed
+> END STRING
+
+> BEGIN STRING
+はサキュバスを振りほどいた！
+> CONTEXT: States/47/message4/
+He swung the succubus!#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗
+> CONTEXT: States/48/name/
+Facesitting#MTLed
+> END STRING
+
+> BEGIN STRING
+の顔はディアーナのお尻の下敷きにされた！
+> CONTEXT: States/48/message1/
+The face was made under the butt of Diana!#MTLed
+> END STRING
+
+> BEGIN STRING
+はディアーナの体をはねのけた！
+> CONTEXT: States/48/message4/
+He bounced off Diana's body!#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法盾
+> CONTEXT: States/49/name/
+Magic shield#MTLed
+> END STRING
+
+> BEGIN STRING
+よろけ
+> CONTEXT: States/50/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は体勢を崩されてしまった！
+> CONTEXT: States/50/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は体勢を崩している！
+> CONTEXT: States/50/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トリプルおっぱいプレス
+> CONTEXT: States/51/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の顔は三人のおっぱいに挟まれた！
+> CONTEXT: States/51/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はおっぱいから脱出した！
+> CONTEXT: States/51/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は髪の香りで恍惚としてしまった！
+> CONTEXT: States/52/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+操り人形
+> CONTEXT: States/53/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はデビルウィッチに魅了された！
+> CONTEXT: States/53/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は正気に戻った！
+> CONTEXT: States/53/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+100万戦闘時
+> CONTEXT: States/54/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はルフティナに抱きしめられた！
+> CONTEXT: States/55/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はルフティナの胸から脱出した！
+> CONTEXT: States/55/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+100万バニー用
+> CONTEXT: States/56/name/ < UNTRANSLATED
+
+> END STRING

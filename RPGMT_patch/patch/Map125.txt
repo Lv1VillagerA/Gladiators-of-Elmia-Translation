@@ -1,0 +1,458 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+サキュバスの巣
+> CONTEXT: Map125/display_name/
+Succubus nest#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物
+「あら、こんなところまで
+正気を保ったままたどり着く男がいるなんて
+珍しいこともあるものね」
+> CONTEXT: Map125/events/9/pages/0/3/Dialogue
+monster. 「Oh, to this place. I do not know that there is a
+man who keeps sanity. There are things that are rare」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お前が、この森に封印されていた魔物か。
+ずいぶん人を殺しているみたいだな」
+> CONTEXT: Map125/events/9/pages/0/8/Dialogue
+\\N[12]. 「Are you a monster that was sealed in this
+forest? It seems like I'm killing a lot of people」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物
+「ええ。私はサキュバス、いわゆる夢魔よ。
+人間の精気を吸う魔物……ということぐらいは、
+さすがに知っているわよね」
+> CONTEXT: Map125/events/9/pages/0/12/Dialogue
+monster. 「Yes. I am succubus, what is called a drama.
+Monster that sucks human's mind ... About that,
+You know exactly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まさか、こんな上位の悪魔が封印されていたなんてな……
+お前の討伐依頼が王宮から出ている。
+悪いが、倒させてもらうぞ」
+> CONTEXT: Map125/events/9/pages/0/17/Dialogue
+\\N[12]. 「No way that such a superior demon was sealed
+... ... Your subjugation request comes out from the royal
+palace. Bad, but let me down」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ふふっ、ちょっと封印をこじ開けて
+外の男を誘い込んで殺したぐらいで……
+相変わらず、エルミア王国って敏感な反応をするのね」
+> CONTEXT: Map125/events/9/pages/0/22/Dialogue
+Succubus. 「Hehu, open a little seal. I guessed the outside
+guy and killed him ... ... As usual, the Elmia kingdom has
+a sensitive response」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（とんでもない魔物だ……
+放置していたら犠牲者がどんどん出そうだぞ、
+これは絶対に倒してしまわねば）
+> CONTEXT: Map125/events/9/pages/0/27/Dialogue
+\\N[12]. (It's a ridiculous monster ......
+If left untreated, the victims are likely to appear more
+and more, As long as you have defeated this absolutely)#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ところで坊や、ここに来ているということは
+クリスタルを破壊してきたのよね？」
+> CONTEXT: Map125/events/9/pages/0/32/Dialogue
+Succubus. 「By the way, boy, that being here
+You have destroyed the crystal, do not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……ああ。
+あの悪趣味なクリスタルは、いったいどういう仕掛けだ？
+俺の知り合いの女たちの偽物が襲いかかってきたが」
+> CONTEXT: Map125/events/9/pages/0/36/Dialogue
+\\N[12]. 「……Oh. What exactly is the trick of that bad
+taste? Fake imitations of women of my acquaintance attacked
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「あのクリスタルは、男を引き込むための罠のひとつ。
+あれを覗き込むと、その男が今までの人生で
+魅力的だと感じた女の幻影が現れるのよ」
+> CONTEXT: Map125/events/9/pages/0/41/Dialogue
+Succubus. 「That crystal is one of the traps to pull a man.
+Looking into that, the man was in my life
+An illusion of a woman who felt attractive appears」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「幻影……
+そうか、やはり実体じゃなかったのか」
+> CONTEXT: Map125/events/9/pages/0/46/Dialogue
+\\N[12]. 「illusion……. I see, it was not really an
+entity either」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「幻影に惑わされて屈したら、
+永遠に甘い夢の中に閉じ込められていたところよ。
+ふふっ、よく跳ねのけてきたじゃない」
+> CONTEXT: Map125/events/9/pages/0/50/Dialogue
+Succubus. 「If you got deformed by illusion and bowed down,
+I was trapped in a sweet dream forever. Haha, I did not
+know why.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「さすが夢魔サキュバス、といったところか……
+悪趣味なもんだぜ。
+もう二度と、その魔力を振るえないようにしてやるっ！」
+> CONTEXT: Map125/events/9/pages/0/55/Dialogue
+\\N[12]. 「Truly Yumema Succubus, etc ....
+It is a bad taste. I will never let that magical power
+shake again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「うふふ……坊やにできるかしら？
+私は、外にいた眷属の夢魔たちとはモノが違うわよ。
+快楽の牢獄の中で、精気を搾り尽くしてあ・げ・る♪」
+> CONTEXT: Map125/events/9/pages/0/60/Dialogue
+Succubus. 「Uhufu ... Can you give a boy?
+I'm different from the other family members who were
+outside. In the pleasure of pleasure, I will squeeze out
+the madness♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「えぇ、嘘でしょ？
+こんな田舎の国に、こんな力を持った人間がいるなんて
+信じられないんだけど……」
+> CONTEXT: Map125/events/9/pages/0/75/Dialogue
+Succubus. 「Well, you must be kidding? I do not think
+anyone in this rural country has such a power
+I can not believe it ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうだ、まだやるのか？
+いくら誘惑しようが、俺は惑わされないぜ！」
+> CONTEXT: Map125/events/9/pages/0/81/Dialogue
+\\N[12]. 「How are you still doing? Whatever temptation
+I am, I will not be misled!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ずいぶん対策してきたのねぇ、
+そうでなきゃ私と対等に戦えるわけがないもの。
+なかなかやるのね、キミ」
+> CONTEXT: Map125/events/9/pages/0/85/Dialogue
+Succubus. 「A lot of measures have been taken,
+Otherwise there is no way I can fight equally with myself.
+It's quite easy, Kimi.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くっ、こいつ
+まだ余裕がありそうだ……）
+> CONTEXT: Map125/events/9/pages/0/90/Dialogue
+> CONTEXT: Map125/events/9/pages/1/53/Dialogue
+\\N[12]. (Ku, this guy. There is still room to be ...
+...)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「だったらどうした？
+まだやるっていうんなら、お前を叩きのめした上で
+教会に連れて行って昇天させてやるぞ」
+> CONTEXT: Map125/events/9/pages/0/94/Dialogue
+> CONTEXT: Map125/events/9/pages/1/57/Dialogue
+\\N[12]. 「So what? If you are still doing, beat you down
+I will take him to the church and let him ascend.」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「もう、わかったわよ、そうムキにならないで。
+ちゃんと負けを認めるから。
+これ以上、人間に害を加えなければいいんでしょ？」
+> CONTEXT: Map125/events/9/pages/0/99/Dialogue
+> CONTEXT: Map125/events/9/pages/1/62/Dialogue
+Succubus. 「I already understood, please do not be
+miserable. I will approve of losing properly.
+I do not have to hurt humans any more, do you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「キミの頑張りに免じて、魔界に帰ってあげる。
+この森は居心地がよかったんだけど、
+仕方ないから引き払うとするわ」
+> CONTEXT: Map125/events/9/pages/0/107/Dialogue
+> CONTEXT: Map125/events/9/pages/1/70/Dialogue
+Succubus. 「I will give up on your hard work and I will
+return to Makaikai. Although this forest was comfortable,
+I have no choice but to withdraw it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうか。ならいいんだ」
+> CONTEXT: Map125/events/9/pages/0/112/Dialogue
+> CONTEXT: Map125/events/9/pages/1/75/Dialogue
+\\N[12]. 「Is that so? I do not mind」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ふうん、キミは昔のエルミア騎士たちとは違うのね。
+あの連中なら、私が帰ると言っても聞かずに
+どっちかが死滅するまで戦おうとしたものだけど」
+> CONTEXT: Map125/events/9/pages/0/115/Dialogue
+> CONTEXT: Map125/events/9/pages/1/78/Dialogue
+Succubus. 「Huh, you are different from the old Elmier
+Knights. If those guys say that I will return, without
+asking. I tried to fight until either one died」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺はそこまでする義理はないよ、騎士じゃないしな。
+大人しく魔界に帰ってくれるってんなら
+それで充分だ」
+> CONTEXT: Map125/events/9/pages/0/120/Dialogue
+> CONTEXT: Map125/events/9/pages/1/83/Dialogue
+\\N[12]. 「I do not have obligation to do that, I'm not
+a knight. If you would return to Makai adultly
+That's enough」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「優しいのね。そういう男の子は好きよ、ふふっ。
+魔界で力を蓄えたら、キミに会うために
+またこの国に来ちゃおうかな」
+> CONTEXT: Map125/events/9/pages/0/125/Dialogue
+> CONTEXT: Map125/events/9/pages/1/88/Dialogue
+Succubus. 「Are you kind? I like that boy, heh heh.
+If you save your strength in Makai, to see you
+I will come to this country again」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、おいおい」
+> CONTEXT: Map125/events/9/pages/0/130/Dialogue
+> CONTEXT: Map125/events/9/pages/1/93/Dialogue
+\\N[12]. 「Hey you」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「冗談よ、一度魔界に帰ってしまったら
+次はもう百年ぐらいゲートを開くことができないから、
+キミが生きている間は人間界には出てこられないわ」
+> CONTEXT: Map125/events/9/pages/0/133/Dialogue
+> CONTEXT: Map125/events/9/pages/1/96/Dialogue
+Succubus. 「Joke, once you return to Makai
+Next time we can not open the gate for about a hundred
+years, I can not come to the human world while you are
+alive」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……へえ、そういうものなのか」
+> CONTEXT: Map125/events/9/pages/0/138/Dialogue
+> CONTEXT: Map125/events/9/pages/1/101/Dialogue
+\\N[12]. 「...... Oh, is that something like that?」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「だから安心していいわよ。
+もっとも、別の魔族が出てくる可能性は
+あるかもしれないけど。
+> CONTEXT: Map125/events/9/pages/0/141/Dialogue
+> CONTEXT: Map125/events/9/pages/1/104/Dialogue
+Succubus. 「So you can rest assured. However, the
+possibility that another demon comes out
+There may be.#MTLed
+> END STRING
+
+> BEGIN STRING
+それじゃ、私は帰るわね。
+何百年もここにいたけれど、
+最後に会ったのがキミみたいな子でよかったわ」
+> CONTEXT: Map125/events/9/pages/0/146/Dialogue
+> CONTEXT: Map125/events/9/pages/1/109/Dialogue
+Well then, I am going home. Although I have been here for
+hundreds of years, It was good that I met you at last」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバスは、暗黒のゲートを通り
+魔界に帰っていった――
+> CONTEXT: Map125/events/9/pages/0/167/Dialogue
+> CONTEXT: Map125/events/9/pages/1/130/Dialogue
+Succubus passes through the dark gate. I came back to
+Makaika -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……ふうっ、無事に勝つことができたか……
+やばかったな、相手がとことんまで戦うつもりだったら
+果たして勝てたかどうか。
+> CONTEXT: Map125/events/9/pages/0/170/Dialogue
+> CONTEXT: Map125/events/9/pages/1/133/Dialogue
+\\N[12]. 「...... Fuu, could you win successfully ...?
+It was ridiculous, if the other party was going to fight
+evenly. Whether you could win or not.#MTLed
+> END STRING
+
+> BEGIN STRING
+とにかく、これでこのレヴァスティの森の奥地も
+平穏になるだろう。
+ギルドでお姉さんに報告して、この依頼も終わりだな」
+> CONTEXT: Map125/events/9/pages/0/175/Dialogue
+> CONTEXT: Map125/events/9/pages/1/138/Dialogue
+Anyway, with this Lavasti forest backland too
+It will be peaceful. Reporting to your sister in the guild,
+this request is over」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「犠牲者はそれなりにいるんだし、
+あいつを滅ぼすまで戦い続けるのが
+本当は正しかったんだろうか？
+> CONTEXT: Map125/events/9/pages/0/180/Dialogue
+> CONTEXT: Map125/events/9/pages/1/143/Dialogue
+\\N[12]. 「The victims are as it is, I will keep
+fighting until I destroy him. Was it really right?#MTLed
+> END STRING
+
+> BEGIN STRING
+犠牲になった人たちには
+悪いことをしたかもしれないが……
+あいつが素直に帰ってくれた以上、
+これでよかったと思うしかないな……」
+> CONTEXT: Map125/events/9/pages/0/185/Dialogue
+> CONTEXT: Map125/events/9/pages/1/148/Dialogue
+To the victims. It may have done bad things ... ...
+As he returned straight to me, There is no choice but to
+think that this is good ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+森の魔物を魔界へ追い返した！
+> CONTEXT: Map125/events/9/pages/0/191/Dialogue
+> CONTEXT: Map125/events/9/pages/1/154/Dialogue
+I repelled the monster of the forest to the Makai!#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「あら、また来たの？
+私に力を吸いつくされたっていうのに
+懲りずに来るなんて、ちょっと驚いたわ」
+> CONTEXT: Map125/events/9/pages/1/3/Dialogue
+Succubus. 「Oh, have you come again? Although I was
+absorbed my power. It was a bit surprising that coming
+without discipline will come.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺は、お前を絶対に倒すっ！
+負けっぱなしじゃいられないからなっ！」
+> CONTEXT: Map125/events/9/pages/1/8/Dialogue
+\\N[12]. 「I will definitely defeat you! It is because
+it can not be defeated!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ふうん……ま、いいわ。
+ちゃんと鍛え直してきたみたいだし、また楽しめそう♪
+もう一度、いっぱい精液を搾ってあげるわね」
+> CONTEXT: Map125/events/9/pages/1/14/Dialogue
+Succubus. 「Well ... Well, good. It seems I've corrected it
+properly and I'm looking forward to it again♪
+I will squeeze a lot of semen once again」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ふうん、いいけど……
+じゃあ、かかってくるといいわ。
+今度私が勝ったら、もう容赦はしてあげないけどね」
+> CONTEXT: Map125/events/9/pages/1/21/Dialogue
+Succubus. 「Well, maybe .... Well then, I hope that it will
+take. I will not forgo mercy if I win next time」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「えぇ、嘘でしょ？
+一度私に力を吸いつくされておいて、
+ここまで鍛え直すことができるなんて、ありえないわよ……」
+> CONTEXT: Map125/events/9/pages/1/38/Dialogue
+Succubus. 「Well, you must be kidding? Once I have absorbed
+my strength, It is impossible to be able to train so far
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「たとえ力を吸いつくされようが、
+俺はあきらめないぜ。
+また鍛えればいいだけのことだからなっ！」
+> CONTEXT: Map125/events/9/pages/1/44/Dialogue
+\\N[12]. 「Even if you suck power, I will not give up.
+It will only be enough to train again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ずいぶん頑張ってきたのねぇ。
+たいしたものだわ、キミって」
+> CONTEXT: Map125/events/9/pages/1/49/Dialogue
+Succubus. 「I've worked quite well. It's a big deal, you」#MTLed
+> END STRING
+
+> BEGIN STRING
+チャームネックレスを手に入れた！
+> CONTEXT: Map125/events/10/pages/0/9/Dialogue
+I got a charm necklace!#MTLed
+> END STRING
+
+> BEGIN STRING
+カームネックレスを手に入れた！
+> CONTEXT: Map125/events/11/pages/0/9/Dialogue
+I got a cam necklace!#MTLed
+> END STRING

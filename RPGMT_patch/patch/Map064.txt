@@ -1,0 +1,1074 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+鍛冶コーナー
+> CONTEXT: Map064/display_name/
+Blacksmith corner#MTLed
+> END STRING
+
+> BEGIN STRING
+店員
+「こちらは倉庫となっておりますので、
+お客様はご遠慮くださいね」
+> CONTEXT: Map064/events/1/pages/0/0/Dialogue
+> CONTEXT: Map064/events/7/pages/0/0/Dialogue
+> CONTEXT: Map064/events/8/pages/0/0/Dialogue
+Clerk. 「Since it is a warehouse here, Please refrain from
+customers」#MTLed
+> END STRING
+
+> BEGIN STRING
+女剣士
+「高価で高品質な武具を購入するか、
+それとも元々持っている武具を鍛えるか……
+武道大会のためにどういった選択をするか、悩みどころだな」
+> CONTEXT: Map064/events/4/pages/0/0/Dialogue
+swordswoman. 「Buy an expensive and high quality armor,
+Or will you train the weapons you have.......
+What kind of choice to make for martial arts tournament, it
+is a worry」#MTLed
+> END STRING
+
+> BEGIN STRING
+女剣士
+「高価で高品質な武具を購入するか、
+それとも元々持っている武具を鍛えるか……
+悩みどころだな」
+> CONTEXT: Map064/events/4/pages/1/0/Dialogue
+swordswoman. 「Buy an expensive and high quality armor,
+Or will you train the weapons you have.......
+It is a worry far away.」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「武道大会までに良い武具を調達できればいいが、
+そうでなければ、ここで手持ちの武具を鍛えてもらうしかないな」
+> CONTEXT: Map064/events/5/pages/0/0/Dialogue
+Warrior. 「It would be nice if we could procure good
+weapons by martial arts tournament, Otherwise, I have no
+choice but to train my armor here」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「ここで手持ちの武具を鍛えてもらうことで
+元が市販品でも、一流の品になるのさ」
+> CONTEXT: Map064/events/5/pages/1/0/Dialogue
+Warrior. 「By having the exercised weapons here
+Even if the original is a commercial product, it will
+become a first-class product」#MTLed
+> END STRING
+
+> BEGIN STRING
+貴族の女性
+「こちらの鍛冶屋は、武器だけでなく
+アクセサリーの加工をさせても一流なんですのよ。
+わたくし、毎月ここで新作を注文しておりますの♪」
+> CONTEXT: Map064/events/9/pages/0/0/Dialogue
+Noble women. 「This blacksmith is not only a weapon
+Even if you process accessories it is top notch.
+I'm ordering a new work here every month♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+店員
+「こちらは鍛冶コーナーとなっておりまーす！」
+> CONTEXT: Map064/events/10/pages/0/0/Dialogue
+Clerk. 「This is a blacksmith corner!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「人魚の鱗が首尾よく手に入ったら、
+いいものを作ってやるぜ。
+ただ、くれぐれも気をつけてな」
+> CONTEXT: Map064/events/12/pages/0/0/Dialogue
+Dalet. 「If mermaid scales are successfully obtained,
+I will make good ones. Just be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+人魚の鱗を渡す
+> CONTEXT: Map064/events/12/pages/0/5/Choice/0
+Pass mermaid scales#MTLed
+> END STRING
+
+> BEGIN STRING
+ギブアップする
+> CONTEXT: Map064/events/12/pages/0/5/Choice/1
+> CONTEXT: Map064/events/12/pages/0/93/Choice/0
+To give up#MTLed
+> END STRING
+
+> BEGIN STRING
+今は用はない
+> CONTEXT: Map064/events/12/pages/0/5/Choice/2
+There is no use now#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おまたせしました、ダレットさん。
+人魚の鱗、無事に手に入れることができました」
+> CONTEXT: Map064/events/12/pages/0/8/Dialogue
+\\N[12]. 「I'm sorry to have you, Dalet-san.
+I could get the mermaid scales safely」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「お、本当か！」
+> CONTEXT: Map064/events/12/pages/0/12/Dialogue
+Dalet. 「Is it true?」#MTLed
+> END STRING
+
+> BEGIN STRING
+人魚の鱗を渡した。
+> CONTEXT: Map064/events/12/pages/0/15/Dialogue
+I gave mermaid scales.#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「おお、まさか手に入れてくるとは……
+この輝き、たしかに本物の人魚の鱗のようだ」
+> CONTEXT: Map064/events/12/pages/0/19/Dialogue
+Dalet. 「Oh, that's nothing to come by......
+This shine certainly seems to be the scale of a real
+mermaid」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「わたしたち、がんばって探したんだよー
+洞窟のすっごい奥に落ちてたの！」
+> CONTEXT: Map064/events/12/pages/0/23/Dialogue
+Purim. 「We tried hard and looked for it
+I was falling down in the caves awfully!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「そうか、まさかプリムが見つけてくるなんてなぁ。
+あのちんちくりんだったお前が、立派になったもんだ」
+> CONTEXT: Map064/events/12/pages/0/27/Dialogue
+Dalet. 「That's right, it does not matter that Purim finds
+it. That chicken you was a good supporter」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「えへへっ……」
+> CONTEXT: Map064/events/12/pages/0/31/Dialogue
+Purim. 「Well then ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ところで、この鱗はどうするんですか？」
+> CONTEXT: Map064/events/12/pages/0/34/Dialogue
+\\N[12]. 「By the way, what about this scales?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「武器職人のはしくれとして、
+人魚の鱗の加工品を一度は作ってみたいと思っていてな
+今回ようやく、その望みがかなうというわけだ。
+> CONTEXT: Map064/events/12/pages/0/37/Dialogue
+Dalet. 「As a weapon craftman's sweetheart,
+I wanted to make a processed product of mermaid scales at
+once. This time the hope will come true at last.#MTLed
+> END STRING
+
+> BEGIN STRING
+完成したら、報酬としてお前さんとプリムにやろう。
+防具としては２万Gはいただくクラスの高級品になるし、
+武道大会に出るお前さんには、悪くない報酬だと思うぜ？」
+> CONTEXT: Map064/events/12/pages/0/42/Dialogue
+Once completed, let 's do with you and Purim as a reward.
+As an armor, 20 thousand G will be a class of luxury goods
+to receive, I think you are a bad reward for you who goes
+to martial arts tournament?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それは、むしろ報酬としては高価すぎるのでは？
+なんだか申し訳ないですけど……」
+> CONTEXT: Map064/events/12/pages/0/46/Dialogue
+\\N[12]. 「Is it rather expensive as a reward?
+I am sorry somehow.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「ま、これは俺の個人的な趣味でもあるし、
+これほどの素材を手に入れてきた冒険者に対して
+高すぎる報酬とも思わん。気にせず使ってくれ」
+> CONTEXT: Map064/events/12/pages/0/50/Dialogue
+Dalet. 「Well, this is my personal hobby,
+For adventurers who have acquired such materials
+I do not think it is too expensive. Do not mind using it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとうございます、助かります」
+> CONTEXT: Map064/events/12/pages/0/55/Dialogue
+\\N[12]. 「Thank you very much. I appreciate it」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「ただ、完成までには少し時間がかかるだろう。
+武道大会の開幕日には完成しているはずだから、
+そのときになったら取りにきてくれるか」
+> CONTEXT: Map064/events/12/pages/0/58/Dialogue
+Dalet. 「However, it will take some time before completion.
+Because it should have been completed on the opening day of
+martial arts tournament, Will you come to pick me up at
+that time」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました！」
+> CONTEXT: Map064/events/12/pages/0/63/Dialogue
+\\N[12]. 「understood!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（まだ人魚の鱗は手に入れていないぞ）
+> CONTEXT: Map064/events/12/pages/0/74/Dialogue
+\\N[12]. (You have not gotten the mermaid scale yet)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（おいおい、人魚の鱗を手に入れているのに
+ギブアップを告げる必要はないぜ）
+> CONTEXT: Map064/events/12/pages/0/82/Dialogue
+\\N[12]. (Hey you, you got a mermaid scales
+I do not need to tell you about give up)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（本当にギブアップするのか？
+このクエストをあきらめたら、
+プリムとの可能性はなくなりそうな気がするが……）
+> CONTEXT: Map064/events/12/pages/0/88/Dialogue
+\\N[12]. (Do you really give up? If you give up this
+quest, I feel that the possibility with Purim is gone ...
+...)#MTLed
+> END STRING
+
+> BEGIN STRING
+続ける
+> CONTEXT: Map064/events/12/pages/0/93/Choice/1
+to continue#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「申し訳ありません、
+人魚の鱗はどうしても見つけることができませんでした」
+> CONTEXT: Map064/events/12/pages/0/95/Dialogue
+\\N[12]. 「I'm sorry, I could not find mermaid scalpes
+by any means」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「そうか、まあしょうがない。
+もともと運次第では見つからないだろうと思っていたしな。
+こっちこそ、時間を使わせてすまなかったな」
+> CONTEXT: Map064/events/12/pages/0/99/Dialogue
+Dalet. 「That's right, well well. I thought that it would
+not be found depending on luck. I am sorry this time to use
+time」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いえ……」
+> CONTEXT: Map064/events/12/pages/0/104/Dialogue
+\\N[12]. 「House……」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「ところでプリム、いい修行になったか？」
+> CONTEXT: Map064/events/12/pages/0/107/Dialogue
+Dalet. 「By the way Purim, did it become a good training?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「うんっ！　おにいさんと一緒に魔物とか倒して、
+なんだか今までよりもずっと強くなった気がするの！」
+> CONTEXT: Map064/events/12/pages/0/112/Dialogue
+\\N[15]. 「Wow! Together with an old man with
+monster, I feel like I feel much stronger than
+before!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「ほおぅ、そりゃよかったぜ。
+ま、今回はプリムの修行になったってんなら何よりだ、
+武道大会にも出るんだろ、頑張れよ」
+> CONTEXT: Map064/events/12/pages/0/116/Dialogue
+Dalet. 「Huo, that was good. Well, this time it's better
+than Purim's training, You may also go to martial arts
+tournament, do your best」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うーん、わかんない……」
+> CONTEXT: Map064/events/12/pages/0/123/Dialogue
+Purim. 「Well, I do not know......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「そうか？
+まあ、そういう手応えは掴みにくいからな。
+実際に大会になってみないと分かりにくいか」
+> CONTEXT: Map064/events/12/pages/0/126/Dialogue
+Dalet. 「Really? Well, that kind of response is hard to
+grasp. It is hard to understand unless you actually become
+tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「そう、なのかも」
+> CONTEXT: Map064/events/12/pages/0/131/Dialogue
+\\N[15]. 「Yes, maybe」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「ま、とにかく今回はご苦労だったな。
+大会、しっかり頑張れよ」
+> CONTEXT: Map064/events/12/pages/0/134/Dialogue
+Dalet. 「Well, anyway this time it was a pain.
+Turnament, work hard on you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「うん！
+おじさんも、絶対見に来てよね！」
+> CONTEXT: Map064/events/12/pages/0/140/Dialogue
+\\N[15]. 「Yup! Old man, please come to see
+absolutely!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（そうだ、引き受けたからには
+しっかり完遂しないとな。
+人魚の鱗は海岸を探すのがいいだろう）
+> CONTEXT: Map064/events/12/pages/0/150/Dialogue
+\\N[12]. (Yes, because I took over. I have to complete
+thoroughly. Mermaid scales would be good to look for coast)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（人魚っていうぐらいだし、
+鱗を探すなら海のあたりに行ってみるべきだろう。
+頑張らないとな）
+> CONTEXT: Map064/events/12/pages/0/161/Dialogue
+\\N[12]. (It is about a mermaid, If you are looking for
+scales you should go around the ocean. I hope not to work
+hard)#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「武道大会の開幕日に来てくれ。
+そのときまでには必ず完成させておくからな」
+> CONTEXT: Map064/events/12/pages/1/0/Dialogue
+Dalet. 「Come on the opening day of martial arts tournament.
+I will definitely complete it by that time」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「待たせたな、こいつがマーメイドバングルだ」
+> CONTEXT: Map064/events/12/pages/2/0/Dialogue
+Dalet. 「You kept me waiting, this one is a mermaid bangle」#MTLed
+> END STRING
+
+> BEGIN STRING
+マーメイドバングルを受け取った！
+> CONTEXT: Map064/events/12/pages/2/4/Dialogue
+I received a mermaid bangle!#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「こいつは装飾品で、精神を落ち着かせる効果がある。
+状態異常にかかりにくくなるぜ」
+> CONTEXT: Map064/events/12/pages/2/7/Dialogue
+Dalet. 「This is an adornment, it has the effect of calming
+the spirit. It will be less susceptible to condition
+abnormalities」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとうございます、とても助かりますよ」
+> CONTEXT: Map064/events/12/pages/2/11/Dialogue
+\\N[12]. 「Thank you very much, it will be very helpful」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「プリムのやつを鍛えてくれてありがとうな。
+改めて、武道大会での健闘を祈っているぜ」
+> CONTEXT: Map064/events/12/pages/2/14/Dialogue
+Dalet. 「Thank you for training Purim's guy.
+I am praying for a good fight again in martial arts
+tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「武道大会か……
+俺も、もうちっと若ければ目指したかったんだがなあ」
+> CONTEXT: Map064/events/12/pages/3/0/Dialogue
+> CONTEXT: Map064/events/12/pages/4/0/Dialogue
+Dalet. 「Martial arts tournament? .... I also wanted to aim
+if I was a little young」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「おう兄ちゃん、優勝したんだって？
+たいしたもんだ、俺も装備を作った身として
+鼻が高いってもんだぜ」
+> CONTEXT: Map064/events/12/pages/5/0/Dialogue
+Dalet. 「Ou-chan, you won the championship?
+It's a big deal, as I also built equipment
+My nose is expensive.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は青い鱗をダレットに見せた。
+> CONTEXT: Map064/events/12/pages/6/0/Dialogue
+\\N[12] He showed the blue scales to Dalet.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「これを海岸の洞窟で見つけたんですが、
+人魚の鱗ではありませんか？」
+> CONTEXT: Map064/events/12/pages/6/2/Dialogue
+\\N[12]. 「I found this in the coastal cave,
+Is not it mermaid scale?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「どれどれ？
+うーん……これは人魚じゃなく、他の魔物の鱗だな」
+> CONTEXT: Map064/events/12/pages/6/6/Dialogue
+Dalet. 「? Well...this is not mermaid, it's the
+scales of other monsters」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうでしたか、これは違ったのか……」
+> CONTEXT: Map064/events/12/pages/6/10/Dialogue
+\\N[12]. 「Was it so, was this different ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「だが、これはこれで質のいい素材だ。
+隣のカウンターに持っていけば、
+武器か防具の材料にしてくれると思うぜ」
+> CONTEXT: Map064/events/12/pages/6/13/Dialogue
+Dalet. 「But this is a good quality material.
+Take it to the next counter, I think it will be a material
+for weapons or armor」#MTLed
+> END STRING
+
+> BEGIN STRING
+鍛冶屋
+「そいつなら、ロングソードとエレメンタルコア（赤）を
+用意してくれれば、500Gで作ってやるぜ。
+作るかい？」
+> CONTEXT: Map064/events/14/pages/0/0/Dialogue
+> CONTEXT: Map064/events/17/pages/0/69/Dialogue
+blacksmith. 「In that case, long sword and elemental core
+(red). If you prepare, I will make it at 500G.
+Can you make it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「よしきた、フレイムソードだな。
+すぐできるから待っててくれ」
+> CONTEXT: Map064/events/14/pages/0/10/Dialogue
+> CONTEXT: Map064/events/17/pages/0/79/Dialogue
+old man. 「Okay, Flame sword. Please wait as soon as
+possible」#MTLed
+> END STRING
+
+> BEGIN STRING
+作業中――
+> CONTEXT: Map064/events/14/pages/0/20/Dialogue
+> CONTEXT: Map064/events/17/pages/0/28/Dialogue
+> CONTEXT: Map064/events/17/pages/0/89/Dialogue
+Working--#MTLed
+> CONTEXT: Commonevents/97/20/Dialogue
+> CONTEXT: Commonevents/98/20/Dialogue
+> CONTEXT: Commonevents/99/20/Dialogue
+> CONTEXT: Commonevents/102/20/Dialogue
+> CONTEXT: Commonevents/103/20/Dialogue
+> CONTEXT: Commonevents/104/20/Dialogue
+> CONTEXT: Commonevents/105/20/Dialogue
+> CONTEXT: Commonevents/106/21/Dialogue
+> CONTEXT: Commonevents/107/20/Dialogue
+> CONTEXT: Commonevents/108/21/Dialogue
+> CONTEXT: Commonevents/109/23/Dialogue
+> CONTEXT: Commonevents/110/23/Dialogue
+> CONTEXT: Commonevents/111/20/Dialogue
+> CONTEXT: Commonevents/112/20/Dialogue
+> CONTEXT: Commonevents/113/20/Dialogue
+> CONTEXT: Commonevents/114/20/Dialogue
+> CONTEXT: Commonevents/115/20/Dialogue
+> CONTEXT: Commonevents/116/20/Dialogue
+> CONTEXT: Commonevents/117/20/Dialogue
+> CONTEXT: Commonevents/118/20/Dialogue
+> CONTEXT: Commonevents/119/21/Dialogue
+> CONTEXT: Commonevents/120/23/Dialogue
+> CONTEXT: Commonevents/121/23/Dialogue
+> CONTEXT: Commonevents/123/20/Dialogue
+> CONTEXT: Commonevents/124/20/Dialogue
+Working--#MTLed
+> END STRING
+
+> BEGIN STRING
+鍛冶屋
+「できたぜ、フレイムソードだ！
+ちなみに、
+こいつを装備すると戦闘中に使えるスキルが1つ増えるぜ」
+> CONTEXT: Map064/events/14/pages/0/23/Dialogue
+> CONTEXT: Map064/events/17/pages/0/92/Dialogue
+blacksmith. 「You made it, Flame sword! By the way,
+If equipped with this one skill that can be used during
+battle will increase by one」#MTLed
+> END STRING
+
+> BEGIN STRING
+フレイムソードを手に入れた！
+> CONTEXT: Map064/events/14/pages/0/29/Dialogue
+> CONTEXT: Map064/events/17/pages/0/98/Dialogue
+I got a flame sword!#MTLed
+> END STRING
+
+> BEGIN STRING
+鍛冶屋
+「必要な素材が無いようだぜ」
+> CONTEXT: Map064/events/14/pages/0/37/Dialogue
+> CONTEXT: Map064/events/14/pages/0/44/Dialogue
+> CONTEXT: Map064/events/17/pages/0/44/Dialogue
+> CONTEXT: Map064/events/17/pages/0/51/Dialogue
+> CONTEXT: Map064/events/17/pages/0/106/Dialogue
+> CONTEXT: Map064/events/17/pages/0/113/Dialogue
+blacksmith. 「It seems there is no necessary material」#MTLed
+> CONTEXT: Commonevents/97/35/Dialogue
+> CONTEXT: Commonevents/97/42/Dialogue
+> CONTEXT: Commonevents/98/35/Dialogue
+> CONTEXT: Commonevents/98/42/Dialogue
+> CONTEXT: Commonevents/99/35/Dialogue
+> CONTEXT: Commonevents/99/42/Dialogue
+> CONTEXT: Commonevents/102/37/Dialogue
+> CONTEXT: Commonevents/102/44/Dialogue
+> CONTEXT: Commonevents/103/37/Dialogue
+> CONTEXT: Commonevents/103/44/Dialogue
+> CONTEXT: Commonevents/104/35/Dialogue
+> CONTEXT: Commonevents/104/42/Dialogue
+> CONTEXT: Commonevents/105/35/Dialogue
+> CONTEXT: Commonevents/105/42/Dialogue
+> CONTEXT: Commonevents/106/38/Dialogue
+> CONTEXT: Commonevents/106/45/Dialogue
+> CONTEXT: Commonevents/106/52/Dialogue
+> CONTEXT: Commonevents/107/36/Dialogue
+> CONTEXT: Commonevents/107/43/Dialogue
+> CONTEXT: Commonevents/108/38/Dialogue
+> CONTEXT: Commonevents/108/45/Dialogue
+> CONTEXT: Commonevents/108/52/Dialogue
+> CONTEXT: Commonevents/109/40/Dialogue
+> CONTEXT: Commonevents/109/48/Dialogue
+> CONTEXT: Commonevents/109/55/Dialogue
+> CONTEXT: Commonevents/109/62/Dialogue
+> CONTEXT: Commonevents/110/40/Dialogue
+> CONTEXT: Commonevents/110/48/Dialogue
+> CONTEXT: Commonevents/110/55/Dialogue
+> CONTEXT: Commonevents/110/62/Dialogue
+> CONTEXT: Commonevents/111/35/Dialogue
+> CONTEXT: Commonevents/111/42/Dialogue
+> CONTEXT: Commonevents/112/35/Dialogue
+> CONTEXT: Commonevents/112/42/Dialogue
+> CONTEXT: Commonevents/113/35/Dialogue
+> CONTEXT: Commonevents/113/42/Dialogue
+> CONTEXT: Commonevents/114/35/Dialogue
+> CONTEXT: Commonevents/114/42/Dialogue
+> CONTEXT: Commonevents/115/35/Dialogue
+> CONTEXT: Commonevents/115/42/Dialogue
+> CONTEXT: Commonevents/116/35/Dialogue
+> CONTEXT: Commonevents/116/42/Dialogue
+> CONTEXT: Commonevents/117/37/Dialogue
+> CONTEXT: Commonevents/117/44/Dialogue
+> CONTEXT: Commonevents/118/36/Dialogue
+> CONTEXT: Commonevents/118/43/Dialogue
+> CONTEXT: Commonevents/119/38/Dialogue
+> CONTEXT: Commonevents/119/45/Dialogue
+> CONTEXT: Commonevents/119/52/Dialogue
+> CONTEXT: Commonevents/120/40/Dialogue
+> CONTEXT: Commonevents/120/48/Dialogue
+> CONTEXT: Commonevents/120/55/Dialogue
+> CONTEXT: Commonevents/120/62/Dialogue
+> CONTEXT: Commonevents/121/40/Dialogue
+> CONTEXT: Commonevents/121/48/Dialogue
+> CONTEXT: Commonevents/121/55/Dialogue
+> CONTEXT: Commonevents/121/62/Dialogue
+> CONTEXT: Commonevents/123/35/Dialogue
+> CONTEXT: Commonevents/123/42/Dialogue
+> CONTEXT: Commonevents/124/35/Dialogue
+> CONTEXT: Commonevents/124/42/Dialogue
+blacksmith. 「It seems there is no necessary
+material」#MTLed
+> END STRING
+
+> BEGIN STRING
+鍛冶屋
+「金が足りないみたいだな」
+> CONTEXT: Map064/events/14/pages/0/51/Dialogue
+> CONTEXT: Map064/events/17/pages/0/58/Dialogue
+> CONTEXT: Map064/events/17/pages/0/120/Dialogue
+blacksmith. 「It sounds like money is not enough.」#MTLed
+> CONTEXT: Commonevents/97/49/Dialogue
+> CONTEXT: Commonevents/98/49/Dialogue
+> CONTEXT: Commonevents/99/49/Dialogue
+> CONTEXT: Commonevents/102/51/Dialogue
+> CONTEXT: Commonevents/103/51/Dialogue
+> CONTEXT: Commonevents/104/49/Dialogue
+> CONTEXT: Commonevents/105/49/Dialogue
+> CONTEXT: Commonevents/106/59/Dialogue
+> CONTEXT: Commonevents/107/50/Dialogue
+> CONTEXT: Commonevents/108/59/Dialogue
+> CONTEXT: Commonevents/109/69/Dialogue
+> CONTEXT: Commonevents/110/69/Dialogue
+> CONTEXT: Commonevents/111/49/Dialogue
+> CONTEXT: Commonevents/112/49/Dialogue
+> CONTEXT: Commonevents/113/49/Dialogue
+> CONTEXT: Commonevents/114/49/Dialogue
+> CONTEXT: Commonevents/115/49/Dialogue
+> CONTEXT: Commonevents/116/49/Dialogue
+> CONTEXT: Commonevents/117/51/Dialogue
+> CONTEXT: Commonevents/118/50/Dialogue
+> CONTEXT: Commonevents/119/59/Dialogue
+> CONTEXT: Commonevents/120/69/Dialogue
+> CONTEXT: Commonevents/121/69/Dialogue
+> CONTEXT: Commonevents/123/49/Dialogue
+> CONTEXT: Commonevents/124/49/Dialogue
+blacksmith. 「It sounds like money is not enough.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ところでテスト品をもらうかい
+> CONTEXT: Map064/events/16/pages/0/0/Dialogue
+By the way, do you want a test item#MTLed
+> END STRING
+
+> BEGIN STRING
+鍛冶屋
+「ここでは武器や防具を強化することができるぜ。
+なんの用だい？」
+> CONTEXT: Map064/events/17/pages/0/0/Dialogue
+blacksmith. 「Here we can strengthen weapons and armor.
+What do you want?」#MTLed
+> END STRING
+
+> BEGIN STRING
+武器を作ってもらう
+> CONTEXT: Map064/events/17/pages/0/4/Choice/0
+Have a weapon made#MTLed
+> END STRING
+
+> BEGIN STRING
+防具を作ってもらう
+> CONTEXT: Map064/events/17/pages/0/4/Choice/1
+Have armor made#MTLed
+> END STRING
+
+> BEGIN STRING
+その他
+> CONTEXT: Map064/events/17/pages/0/4/Choice/2
+> CONTEXT: Map008/events/11/pages/0/216/Choice/0
+> CONTEXT: Map008/events/24/pages/0/207/Choice/0
+> CONTEXT: Map008/events/8/pages/0/205/Choice/0
+> CONTEXT: Map008/events/8/pages/0/205/Choice/0
+Other#MTLed
+> END STRING
+
+> BEGIN STRING
+ロングソード＋1
+> CONTEXT: Map064/events/17/pages/0/6/Choice/0
+Longsword + 1#MTLed
+> END STRING
+
+> BEGIN STRING
+鍛冶屋
+「そいつなら、ロングソードとマジックコアを
+用意してくれれば、100Gで作ってやるぜ。
+作るかい？」
+> CONTEXT: Map064/events/17/pages/0/8/Dialogue
+blacksmith. 「In that case, Longsword and Magic Core
+If you prepare, I will make it at 100G. Can you make it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+鍛冶屋
+「よしきた、ロングソード＋1だな。
+すぐできるから待っててくれ」
+> CONTEXT: Map064/events/17/pages/0/18/Dialogue
+blacksmith. 「Okay, Longsword + 1. Please wait as soon as
+possible」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「できたぜ、ロングソード＋1だ！」
+> CONTEXT: Map064/events/17/pages/0/31/Dialogue
+old man. 「I made it, long sword + 1!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロングソード+1を手に入れた！
+> CONTEXT: Map064/events/17/pages/0/35/Dialogue
+I got a long sword 1!#MTLed
+> END STRING
+
+> BEGIN STRING
+ロングソード+2if(s[342])
+> CONTEXT: Map064/events/17/pages/0/137/Choice/3
+Longsword 2if(s[342])#MTLed
+> END STRING
+
+> BEGIN STRING
+ロングソード+3if(s[343])
+> CONTEXT: Map064/events/17/pages/0/151/Choice/0
+Longsword 3if(s[343])#MTLed
+> END STRING
+
+> BEGIN STRING
+ロングソード+4if(s[344])
+> CONTEXT: Map064/events/17/pages/0/151/Choice/1
+Longsword 4if(s[344])#MTLed
+> END STRING
+
+> BEGIN STRING
+デスソードif(s[429])
+> CONTEXT: Map064/events/17/pages/0/162/Choice/0
+Deathif(s[429])#MTLed
+> END STRING
+
+> BEGIN STRING
+キュイラス+1
+> CONTEXT: Map064/events/17/pages/0/171/Choice/0
+cuirasse 1#MTLed
+> CONTEXT: Armors/102/name/
+Cuirasse 1#MTLed
+> END STRING
+
+> BEGIN STRING
+キュイラス+2if(s[347])
+> CONTEXT: Map064/events/17/pages/0/171/Choice/1
+cuirasse 2if(s[347])#MTLed
+> END STRING
+
+> BEGIN STRING
+キュイラス+3if(s[348])
+> CONTEXT: Map064/events/17/pages/0/171/Choice/2
+cuirasse 3if(s[348])#MTLed
+> END STRING
+
+> BEGIN STRING
+キュイラス+4if(s[349])
+> CONTEXT: Map064/events/17/pages/0/171/Choice/3
+cuirasse 4if(s[349])#MTLed
+> END STRING
+
+> BEGIN STRING
+スケイルメイル
+> CONTEXT: Map064/events/17/pages/0/185/Choice/0
+Scale Mail#MTLed
+> CONTEXT: Armors/106/name/
+Scale Mail#MTLed
+> END STRING
+
+> BEGIN STRING
+フレイムアーマー
+> CONTEXT: Map064/events/17/pages/0/185/Choice/1
+Flame Armor#MTLed
+> CONTEXT: Armors/108/name/
+Flame Armor#MTLed
+> END STRING
+
+> BEGIN STRING
+コールドアーマー
+> CONTEXT: Map064/events/17/pages/0/185/Choice/2
+Cold Armor#MTLed
+> CONTEXT: Armors/109/name/
+Cold Armor#MTLed
+> END STRING
+
+> BEGIN STRING
+アースアーマー
+> CONTEXT: Map064/events/17/pages/0/185/Choice/3
+Earth armor#MTLed
+> CONTEXT: Armors/110/name/
+Earth armor#MTLed
+> END STRING
+
+> BEGIN STRING
+クリスタルメイル
+> CONTEXT: Map064/events/17/pages/0/199/Choice/0
+Crystal Mail#MTLed
+> CONTEXT: Armors/107/name/
+Crystal Mail#MTLed
+> END STRING
+
+> BEGIN STRING
+サンゴの指輪
+> CONTEXT: Map064/events/17/pages/0/208/Choice/0
+Coral ring#MTLed
+> CONTEXT: Armors/125/name/
+Coral ring#MTLed
+> END STRING
+
+> BEGIN STRING
+サフィスグレイスif(s[460])
+> CONTEXT: Map064/events/17/pages/0/208/Choice/1
+Safistira's Graceif(s[460])#MTLed
+> END STRING
+
+> BEGIN STRING
+手裏剣
+> CONTEXT: Map064/events/17/pages/0/208/Choice/2
+Throwing star#MTLed
+> CONTEXT: Items/99/name/
+Throwing star#MTLed
+> END STRING
+
+> BEGIN STRING
+アシッドアロー
+> CONTEXT: Map064/events/17/pages/0/208/Choice/3
+Acid Arrow#MTLed
+> CONTEXT: Items/133/name/
+Acid Arrow#MTLed
+> END STRING
+
+> BEGIN STRING
+堕天使の翼
+> CONTEXT: Map064/events/17/pages/0/222/Choice/0
+Wings of fallen angels#MTLed
+> CONTEXT: Items/140/name/
+Wings of fallen angels#MTLed
+> END STRING
+
+> BEGIN STRING
+鍛冶屋
+「ここでは武器や防具を鍛えることができるぜ。
+なんの用だい？」
+> CONTEXT: Map064/events/17/pages/1/0/Dialogue
+blacksmith. 「Here you can train weapons and armor.
+What do you want?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「こんにちは！
+ダレットおじさんいますか？」
+> CONTEXT: Map064/events/17/pages/1/4/Dialogue
+Purim. 「Hello! Do you have Dalet old man?」#MTLed
+> END STRING
+
+> BEGIN STRING
+鍛冶屋
+「おう、嬢ちゃんじゃないか」
+> CONTEXT: Map064/events/17/pages/1/8/Dialogue
+blacksmith. 「Oh, is not it, young lady?」#MTLed
+> END STRING
+
+> BEGIN STRING
+鍛冶屋
+「おうダレット、
+姪御さんが呼んでるぞ」
+> CONTEXT: Map064/events/17/pages/1/13/Dialogue
+blacksmith. 「O Dalet, Your niece calls you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「おう、プリムか。どうしたんだ？」
+> CONTEXT: Map064/events/17/pages/1/30/Dialogue
+Dalet. 「Ou, Purim? What happened?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「こんにちは、おじさん！
+じつはね……」
+> CONTEXT: Map064/events/17/pages/1/33/Dialogue
+Purim. 「Hello, old man! Well ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムは事情を話した。
+> CONTEXT: Map064/events/17/pages/1/37/Dialogue
+Purim told the situation.#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「ほおう、プリムが探索に行ってくれるのか。
+しかし、そりゃちょっと心配だな」
+> CONTEXT: Map064/events/17/pages/1/39/Dialogue
+Dalet. 「Will Purim go exploring? But, that's a little
+worried」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「だいじょうぶだよ、このおにいさんが
+一緒についてきてくれるから！」
+> CONTEXT: Map064/events/17/pages/1/43/Dialogue
+Purim. 「All right, this girlfriend
+Because we will be with you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「そうなのか。
+剣士の兄ちゃん、お前さん腕前のほどは？」
+> CONTEXT: Map064/events/17/pages/1/47/Dialogue
+Dalet. 「Oh really. Swordsmen's older brother, how old are
+you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は、モルデリア洞窟の盗賊団を
+退治したことを話した。
+> CONTEXT: Map064/events/17/pages/1/51/Dialogue
+\\N[12] Morderia cave thieves. I talked about having
+exterminated.#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「ほう、それはなかなか凄いもんだな。
+よし、それならプリムを預けても問題なかろう」
+> CONTEXT: Map064/events/17/pages/1/54/Dialogue
+Dalet. 「Well, that's pretty amazing. OK, then you can
+leave Purim without problems」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「じゃあさっそく本題だ。
+二人に頼みたいのは、人魚の鱗の採取だ」
+> CONTEXT: Map064/events/17/pages/1/58/Dialogue
+Dalet. 「Well then, it's the main subject.
+I want to ask two people is to collect mermaid scales」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「人魚、ですか？」
+> CONTEXT: Map064/events/17/pages/1/62/Dialogue
+\\N[12]. 「Mermaid, is it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダレット
+「ああ、レストン近海に棲息しているという噂の亜人だな。
+稀に、海のそばで人魚の鱗が採れることがあるという。
+虹色に光る美しい鱗さ。そいつを採ってきてもらいたい。
+> CONTEXT: Map064/events/17/pages/1/65/Dialogue
+Dalet. 「Oh, it is a rumor fellow who lives in Reston Sea.
+In rare cases, scales of mermaids can be taken near the
+sea, he says. Beautiful scales shining in rainbow color. I
+would like you to pick him up.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ、人魚の鱗なんてのはおいそれと手に入るもんじゃない。
+人魚自体にお目にかかるのはまず不可能と見ていいし、
+どこかで人魚が落としていったものを拾うしかないだろう。
+> CONTEXT: Map064/events/17/pages/1/70/Dialogue
+However, mermaid scales are not getting available at a late
+end. You can look at the mermaid itself as impossible
+first, There is no choice but to pick up somewhere that the
+mermaid dropped.#MTLed
+> END STRING
+
+> BEGIN STRING
+ぶっちゃけ運次第だから、
+手に入らなかったってんなら、それで依頼終了で構わない。
+もちろんその場合、報酬は安くなるがな」
+> CONTEXT: Map064/events/17/pages/1/74/Dialogue
+Because it depends on Bukkake, If you do not get it, you
+can end the request. Of course, in that case, the reward
+will be cheaper」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、わかりました」
+（人魚の鱗か、レストンでも噂だけは聞いたことがある。
+当然だが、探すなら海岸だろうな）
+> CONTEXT: Map064/events/17/pages/1/78/Dialogue
+\\N[12]. 「Ok, I understand」. (I heard rumors only on
+Scales of Mermaids or Reston. Naturally, if it sought it
+would be a coast)#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「人魚の鱗かぁ。
+虹色の鱗だなんて、すっごい綺麗そうだよね」
+> CONTEXT: Map064/events/17/pages/1/83/Dialogue
+Purim. 「Mermaid scale? It seems like a beautiful
+rainbow scale」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ。とにかく海に探しに行ってみるとするか。
+魔物と戦うこともあるだろうから、気を引き締めてな」
+> CONTEXT: Map064/events/17/pages/1/87/Dialogue
+\\N[12]. 「Oh. Anyway, would you go looking for me in
+the ocean? You may fight monster, so be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん、足を引っ張らないように頑張るね！」
+> CONTEXT: Map064/events/17/pages/1/91/Dialogue
+Purim. 「Yes, I will do my best not to pull my
+legs!」#MTLed
+> END STRING

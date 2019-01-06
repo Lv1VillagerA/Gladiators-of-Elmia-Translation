@@ -1,0 +1,756 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ジェーンの実家
+> CONTEXT: Map033/display_name/
+Jane's home#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おぉ、ジェーンの家ってこんな場所にあったのか。
+これはありがたい、活動拠点としてすごく都合がいいぜ」
+> CONTEXT: Map033/events/2/pages/0/9/Dialogue
+\\N[12]. 「Oh, the house of Jane was in such a place?
+This is grateful, it is very convenient as an activity base
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「さて、大会の日まで、どう過ごすか……」
+> CONTEXT: Map033/events/2/pages/0/13/Dialogue
+\\N[12]. 「Well, how do you spend until the day of
+tournament ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンの母
+「中央区は静かだから、
+私にとっては東区よりも住みやすいねぇ……」
+> CONTEXT: None < UNUSED
+Jane's mother. 「Because Chuo-ku is quiet,
+For me it's easier to live than East Ward ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「やっほ、\\N[12]。
+大会に向けて腕を磨くなら、この家の右隣にある
+\\C[2]冒険者ギルド\\C[0]に行ってみるのがオススメだよ」
+> CONTEXT: None < UNUSED
+Jane. 「Grind \\N[12] . If you brush your arm towards
+tournament, next to this house's right. \\C[2]Adventurer Guild\\C[0] It
+is recommended to go to」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「いよいよ大会が始まったね。
+ひとつでも多く勝ち抜きたいなあ、
+大会で当たったら手加減しないからね」
+> CONTEXT: Map033/events/4/pages/6/0/Dialogue
+Jane. 「tournament has started. I want to win more than one,
+Because I will not go back as I hit the tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「さすが\\N[12]、私のかなう相手じゃなかったね。
+レストンの代表として、
+決勝トーナメントも頑張って勝ち抜いてよね」
+> CONTEXT: Map033/events/4/pages/7/0/Dialogue
+Jane. 「As expected \\N[12] It was not my companion.
+As representative of Reston, You have to win in the finals
+tournament, right?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「いよいよ決勝戦だね。ここまで来ただけでも快挙だけど
+せっかくなら優勝しちゃおうよ。
+私も三階席で応援してるからね」
+> CONTEXT: Map033/events/4/pages/8/0/Dialogue
+Jane. 「It's the final game.Even just coming up to here is
+a wonderful thing. Let's win if you win.
+I also cheer on the third floor seat」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「すごいよ、\\N[12]！
+本当に優勝しちゃうだなんて、レストンの誇りだね」
+> CONTEXT: Map033/events/4/pages/9/0/Dialogue
+Jane. 「It is amazing, \\N[12] ! It's a pride of Reston
+to truly win the championship」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「すごいよ、\\N[12]！
+ホントに優勝しちゃうだなんて、レストンの誇りだね」
+> CONTEXT: Map033/events/4/pages/10/2/Dialogue
+> CONTEXT: Map033/events/4/pages/11/0/Dialogue
+Jane. 「It is amazing, \\N[12] ! It's a pride of Reston
+to have won the championship really」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「サンキュ、ジェーン。
+俺もレストンの人間として、王都の人たちに力を示せて
+すげえ嬉しいぜ。これで大手を振って帰れるなあ。
+> CONTEXT: Map033/events/4/pages/10/6/Dialogue
+\\N[12]. 「thanks, Jane. I also as a human of Reston,
+show the power to the people of the kingdom
+I am glad you are. With this I can swing and get home.#MTLed
+> END STRING
+
+> BEGIN STRING
+優勝できたのも、ジェーンが部屋を貸してくれたおかげだ。
+会場の近くでゆっくり心身を休められる環境があった、
+っていうのは、やっぱり大きかったぜ」
+> CONTEXT: Map033/events/4/pages/10/11/Dialogue
+Thanks to Jane for lending us the room we were able to win.
+There was an environment where you can rest your mind and
+body slowly near the venue, I mean, it was big after all」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「そう？　役に立てたならよかったよ。
+私も、短い間だけどひとつ屋根の下で暮らして
+なんだか\\N[12]を身近に感じてきたよ。
+> CONTEXT: Map033/events/4/pages/10/15/Dialogue
+Jane. 「so? I wish I had used it. I am also in a short
+time, but I live under one roof. what \\N[12] I felt
+familiar.#MTLed
+> END STRING
+
+> BEGIN STRING
+ともあれ、改めて優勝おめでとう。
+レストンのみんなもきっと喜んでくれるだろうね」
+> CONTEXT: Map033/events/4/pages/10/20/Dialogue
+Anyway, congratulations again for the victory.
+Everyone at Reston will surely be pleased」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか、そうだといいけどな」
+> CONTEXT: Map033/events/4/pages/10/23/Dialogue
+\\N[12]. 「I see, I hope so, but」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「明日になったら、一緒に帰ろうよ。
+村長とか、凱旋パーティ開いてくれるかもよ♪」
+> CONTEXT: Map033/events/4/pages/10/26/Dialogue
+Jane. 「Let's go home together tomorrow. Village head or it
+may open a trio party♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして\\N[12]とジェーンは
+連れ立ってレストンへと帰ることとなった。
+> CONTEXT: Map033/events/4/pages/10/31/Dialogue
+And \\N[12] And Jane. It was to take time to return to
+Reston.#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「\\N[12]、武道大会優勝おめでと！
+私も同じ自警団員として鼻が高いよ」
+> CONTEXT: Map033/events/4/pages/12/0/Dialogue
+Jane. 「\\N[12] , Martial arts tournament Winning
+congratulations! I have a high nose as the same militia
+member」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おう、サンキュ。
+本当に優勝できちまったぜ」
+> CONTEXT: Map033/events/4/pages/12/4/Dialogue
+\\N[12]. 「Oh, thanks. I really can not win it」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「そんでもって、お姫様と結婚するんでしょ？
+いやー、まさか自警団から
+こんな出世する人が出てくるなんてねぇ」
+> CONTEXT: Map033/events/4/pages/12/8/Dialogue
+Jane. 「Why do you get married to a princess, are not you?
+Well, no way from the vigilante group. I do not think
+people will get such a lifetime」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、お姫様のことは
+そうすんなりとはいかないようなんだ」
+> CONTEXT: Map033/events/4/pages/12/13/Dialogue
+\\N[12]. 「No, that of the princess. It seems that it
+can not be so easy」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「え？　どういうこと？」
+> CONTEXT: Map033/events/4/pages/12/17/Dialogue
+Jane. 「Huh? What do you mean?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「じつは……」
+> CONTEXT: Map033/events/4/pages/12/20/Dialogue
+\\N[12]. 「Well ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「へぇ、試練ねぇ。
+二人が納得してるならそれでいいのに、
+陛下もなんか感じ悪いなあ」
+> CONTEXT: Map033/events/4/pages/12/25/Dialogue
+Jane. 「Well, it is a trial. If two people are convinced it
+would be fine, Your Majesty feels something bad」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ジェーン、陛下に対して
+結構遠慮ないこと言うなあ」
+> CONTEXT: Map033/events/4/pages/12/30/Dialogue
+\\N[12]. 「Jane, against his majesty. I say pretty shy」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「陛下に敬意は持ってるけど、
+それとこれとは別だしね。
+で、\\N[12]は陛下に挑みに行くんだよね」
+> CONTEXT: Map033/events/4/pages/12/34/Dialogue
+Jane. 「I have respect for my majesty, And that's different.
+so, \\N[12] He is going to challenge his majestine ne」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、それについてなんだが、
+城の抜け道とか知らないか？
+ジェーンは王都出身だし……」
+> CONTEXT: Map033/events/4/pages/12/39/Dialogue
+\\N[12]. 「Oh, about that, Do not you know the castle's
+loophole? Jane is from the kingdom ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「うーん……ごめん、それはわかんないや。
+私もお城については詳しくないしなあ、
+私もレストンにいる期間のほうが長いし」
+> CONTEXT: Map033/events/4/pages/12/44/Dialogue
+Jane. 「Well ... I'm sorry, I do not know.
+I do not know about the castle in detail,
+I also have a longer period in Reston」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか、それもそうだな」
+> CONTEXT: Map033/events/4/pages/12/49/Dialogue
+\\N[12]. 「I see, that too」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「抜け道って、どうなんだろうね。
+やっぱり地下道とか洞窟があるのかな」
+> CONTEXT: Map033/events/4/pages/12/52/Dialogue
+Jane. 「I wonder what a loophole is. I wonder if there are
+caves and underpasses」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（地下道か……）
+> CONTEXT: Map033/events/4/pages/12/56/Dialogue
+\\N[12]. (Underground road ......)#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「私は地下道とか洞窟みたいな抜け道があると見るね。
+何にしても、試練なんて\\N[12]なら乗り越えられると思うし
+女王様をギャフンと言わせちゃいなよ」
+> CONTEXT: Map033/events/4/pages/13/0/Dialogue
+Jane. 「I see that there is a loophole like a cave or
+underpass. Whatever it is, a trial \\N[12] So I think I
+can get over it. I will make the Queen say Gafin」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「これからよろしくね、\\N[12]」
+> CONTEXT: Map033/events/5/pages/1/0/Dialogue
+Jane. 「I hope to hear from you. \\N[12]」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンの母
+「これからもジェーンと仲良くしてやってね」
+> CONTEXT: Map033/events/6/pages/1/0/Dialogue
+Jane's mother. 「Keep getting along with Jane from now on」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「泊めてもらっちまって悪いな、ジェーン。
+それに、おばさんも
+ご飯ありがとうございました」
+> CONTEXT: Map033/events/7/pages/0/0/Dialogue
+\\N[12]. 「It is bad to have me stay overnight, Jane.
+Besides, my lady. Thank you for a meal」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンの母
+「いいのよ、娘のお友達なんだもの。
+ジェーンと仲良くしてくれてありがとうね」
+> CONTEXT: Map033/events/7/pages/0/5/Dialogue
+Jane's mother. 「Sure, it's my daughter's friend.
+Thank you for making friends with Jane」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「\\N[12]、これからどうするの？」
+> CONTEXT: Map033/events/7/pages/0/9/Dialogue
+Jane. 「\\N[12] , What are you going to do now?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな、まず王都での活動拠点として
+宿泊場所を確保しようと思ってたんだ。
+今から中央区の宿屋にでも行ってみようかと……」
+> CONTEXT: Map033/events/7/pages/0/12/Dialogue
+\\N[12]. 「That's right, as an activity base in the
+Kingdom. I was thinking of securing accommodation space.
+Let's go to the inn in Chuo-ku from now ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「あ、そうなんだ。
+それなら、今日貸してた部屋を使ってもいいよ？」
+> CONTEXT: None < UNUSED
+Jane. 「Oh, that's right. If so, can I use the room I lent
+today?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンの母
+「そうねぇ、わざわざ宿屋を利用しなくても
+二階は誰も使っていないし、
+大会が終わるまで使ったらどうだい」
+> CONTEXT: Map033/events/7/pages/0/24/Dialogue
+Jane's mother. 「Oh yeah, you do not have to use the
+expressly inn. Nobody uses the second floor,
+How about when you use until tournament ends」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それは、俺にとってはありがたいですけど、
+いいんですか？」
+> CONTEXT: Map033/events/7/pages/0/29/Dialogue
+\\N[12]. 「It is appreciated to me, Is that ok?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンの母
+「ジェーンの友達なら何も問題ないさ。
+食事も出すし、ジェーンと一緒に頑張りなよ」
+> CONTEXT: Map033/events/7/pages/0/33/Dialogue
+Jane's mother. 「There is nothing wrong with Jane 's
+friends. We will have dinner and work hard with Jane」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「そういうこと。
+遠慮しないでウチを拠点にしちゃいなよ」
+> CONTEXT: None < UNUSED
+Jane. 「Such thing. Do not hold back so please base me!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そっか、ならせっかくだし世話になるよ。
+正直、すげえありがたいぜ。
+大会が終わるまでよろしくな、ジェーン」
+> CONTEXT: None < UNUSED
+\\N[12]. 「Well, if it is, it will be awfully taken care
+of. To be honest, I am grateful. Until tournament is over,
+Jane」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「うん。
+たまには、あたしとも手合わせしてよね」
+> CONTEXT: None < UNUSED
+Jane. 「Yup. Occasionally, you have me both with me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]※今後、ジェーンの家が拠点となります。
+2階のベッドで『休憩』『宿泊』コマンドが
+無料で使用可能です。
+『宿泊』は残り日数が減少しますので、ご注意ください。
+> CONTEXT: Map033/events/7/pages/0/57/Dialogue
+\\C[2]※ Jane's house will be the base from now.
+"Rest" "staying" command on the second floor bed
+It is available for free. Please note that "stay" will
+decrease the remaining days.#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンの母
+「ジェーンはちょっと実力主義が過ぎるところがあるから
+付き合いにくいかもしれないけど、
+どうか、仲良くしてあげてね」
+> CONTEXT: Map033/events/3/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「やっほ、\\N[12]。
+大会に向けて腕を磨くなら、この家の右隣にある
+\\C[2]冒険者ギルド\\C[0]に行ってみるのがオススメよ」
+> CONTEXT: Map033/events/4/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「\\N[12]、私と稽古してみる？」
+> CONTEXT: Map033/events/4/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「そうこなくっちゃ。
+私も最近は強くなってる手応えがあるし、
+油断してると怪我するわよ？」
+> CONTEXT: Map033/events/4/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「くっ、やるじゃない……さすが\\N[12]ね」
+> CONTEXT: Map033/events/4/pages/1/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ジェーンも、村でやったときより確実に強くなってるな。
+俺もうかうかしていられないぜ」
+> CONTEXT: Map033/events/4/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「またいつでも相手になるわ。
+大会までに、お互い強くならなきゃね」
+> CONTEXT: Map033/events/4/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ふふっ、私の新技、とっても効くでしょう。
+どんなにガードを固めても、
+貫いてダメージを与えることができるのよ」
+> CONTEXT: Map033/events/4/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くうっ、ジェーン、強くなってるな……
+負けちまうとは……」
+> CONTEXT: Map033/events/4/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「女の子に負けちゃって悔しいでしょ、\\N[12]？
+悔しいと思うなら、もっと頑張ってよね。
+村の男どもとは違うってところ、ちゃんと見せてほしいわ」
+> CONTEXT: Map033/events/4/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「あら、女相手に尻込みしてたらダメなんじゃない？
+そんなことじゃ大会も勝てないわよ、\\N[12]」
+> CONTEXT: Map033/events/4/pages/1/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「稽古してみる？
+最近、\\N[12]ってば負けてばかりだけど、
+そろそろ根性見せて欲しいなー」
+> CONTEXT: Map033/events/4/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「\\N[12]、また私と稽古してみる？」
+> CONTEXT: Map033/events/4/pages/2/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map033/events/4/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「そう。じゃあ、またボコボコにしてあげる。
+女の子に負ける情けなさを味わいたくないなら、
+頑張りなよね。さあ、勝負よ！」
+> CONTEXT: Map033/events/4/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ふふっ、また女の子に負ける屈辱を
+味わわせてあげるからね。
+さあ、勝負よ！」
+> CONTEXT: Map033/events/4/pages/2/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「や、やるわね、\\N[12]。
+さすがに、やられっぱなしじゃいないってところかしら」
+> CONTEXT: Map033/events/4/pages/2/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ジェーンも強くなってるけど、
+同じ奴に何度も負けてはいられないからな」
+> CONTEXT: Map033/events/4/pages/2/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「うん、男の子はそうでなくっちゃ。
+でも、私も次は負けないからね」
+> CONTEXT: Map033/events/4/pages/2/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ふふっ、てんでダメね、\\N[12]。
+あなたもしょせん、この程度の男だったのかしら？」
+> CONTEXT: Map033/events/4/pages/2/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……つ、強い……」
+> CONTEXT: Map033/events/4/pages/2/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「私も少しは強くなったとはいえ、
+こうも一方的になるなんて、ちょっとびっくりね。
+それとも、キミって本当はたいしたことなかったのかしら？
+> CONTEXT: Map033/events/4/pages/2/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、私も大会に向けて稽古相手がいるのは悪くないけど、
+これじゃ、人形を相手に素振りしてるのと
+たいして違いはないし、つまらないわ」
+> CONTEXT: Map033/events/4/pages/2/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……
+すまん、不甲斐なくて……」
+> CONTEXT: Map033/events/4/pages/2/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「そう思うなら、次こそは意地を見せてよ？
+ま、ギルドの仕事でもしていれば
+そのうち鍛えられると思うし、頑張りなよね」
+> CONTEXT: Map033/events/4/pages/2/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「あんまり失望させないでくれる、\\N[12]？
+私はキミだけは他の男と違うと信じているんだから。
+悔しいなら、次はちゃんと力を見せてね」
+> CONTEXT: Map033/events/4/pages/2/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「あら、連敗するのが怖いのかな？
+ふふっ、\\N[12]も思ったより臆病なのね。
+いつでも再挑戦は受けてあげるから、頑張って♪」
+> CONTEXT: Map033/events/4/pages/2/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「今度は私が勝たせてもらうからね。
+女の意地、その身で味わうといいわ。
+さあ、勝負よ！」
+> CONTEXT: Map033/events/4/pages/3/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「さ、さすが\\N[12]ね……また負けちゃうだなんて。
+やっぱりキミは他の男とは一味違うみたいね」
+> CONTEXT: Map033/events/4/pages/3/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「仮にも武道大会に出ようって身だからな……
+もう誰にも負けたくないし、頑張るぜ」
+> CONTEXT: Map033/events/4/pages/3/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「その意気よ、頑張ってね。
+私も、キミに追いつけるよう努力しなくちゃ」
+> CONTEXT: Map033/events/4/pages/3/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「今回は私の勝ちねっ。
+ふふっ、リベンジさせてもらったわよ♪」
+> CONTEXT: Map033/events/4/pages/3/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、負けちまったか……」
+> CONTEXT: Map033/events/4/pages/3/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「私も負けっぱなしじゃいられないもの。
+でも、こんなことじゃ、あのシェリーって子には
+勝てないんじゃない？　もっと頑張ってね、\\N[12]」
+> CONTEXT: Map033/events/4/pages/3/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「えーっ、勝ち逃げするのはずるいわよ、\\N[12]。
+忙しいならしょうがないけど、
+また絶対手合わせしてよね」
+> CONTEXT: Map033/events/4/pages/3/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「今は稽古をするには都合が悪そうね。
+修行に行くの？
+頑張ってね、\\N[12]」
+> CONTEXT: Map033/events/4/pages/4/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「あ、そうなんだ。
+それなら、今日貸してた部屋を使ったら？」
+> CONTEXT: Map033/events/7/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「私としては実利的な面もあるのよね。
+キミが家にいれば、ちょうどいい稽古相手が確保できるし。
+たまに私と手合わせしてくれると助かるわ」
+> CONTEXT: Map033/events/7/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そっか、ならせっかくだし世話になるよ。
+俺も手合わせできる相手がいるのは助かるぜ。
+大会が終わるまでよろしくな、ジェーン」
+> CONTEXT: Map033/events/7/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ええ、よろしく。
+私はね、弱い男は軽蔑するけど強い男には敬意を払いたいし、
+協力も惜しまないわ。
+> CONTEXT: Map033/events/7/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたには、大会で力を見せてくれることを期待してる。
+ウチでゆっくり休みながら、
+準備をしっかり整えてね」
+> CONTEXT: Map033/events/7/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING

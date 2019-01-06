@@ -1,0 +1,1005 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+王都エルミア・中央区
+> CONTEXT: Map021/display_name/
+Elmia / Chuo-ku, the capital#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「ここはエルミア城です。
+武道大会開催期間中は一般公開されております。
+どうぞ、ご自由にお通りください」
+> CONTEXT: Map021/events/1/pages/0/0/Dialogue
+> CONTEXT: Map021/events/1/pages/4/0/Dialogue
+> CONTEXT: Map021/events/2/pages/4/0/Dialogue
+A soldier. 「This is Elmia Castle. Martial arts tournament
+Open to the public during the holding period.
+Please, please do as you please」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「これは\\N[12]選手。
+姫様がお待ちでいらっしゃいますよ、
+どうぞ、お通りください」
+> CONTEXT: Map021/events/1/pages/2/0/Dialogue
+A soldier. 「this is \\N[12] player. The princess is
+waiting for you, Please, please」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「お祭りだからって王城を一般開放するのは警備上の問題が
+いろいろあるんだけどね。
+ま、今の王様は鷹揚な方だから……」
+> CONTEXT: Map021/events/2/pages/0/0/Dialogue
+A soldier. 「It is a festival to open the royal family to
+the public because security problems. I have it.
+Well, now the king is a hilarious person......」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「武道大会優勝、おめでとう。
+しかし、姫様との結婚の方に関しては、
+そう簡単な話ではないかもしれないよ」
+> CONTEXT: Map021/events/2/pages/2/0/Dialogue
+A soldier. 「Congratulations on winning the martial arts
+tournament. However, as for the person marrying with the
+princess, It might not be that easy story」#MTLed
+> END STRING
+
+> BEGIN STRING
+シスター
+「この城下町は水が綺麗ですから、
+こんな都会でも作物がよく育つんですよ」
+> CONTEXT: Map021/events/9/pages/0/0/Dialogue
+Sister. 「Water in this castle town is beautiful,
+Crops grow well in such cities」#MTLed
+> END STRING
+
+> BEGIN STRING
+太った人
+「ここはランニングコースとして最適なんだ。
+走っていて気持ちがいいからね」
+> CONTEXT: Map021/events/10/pages/0/0/Dialogue
+A fat man. 「This is the most suitable as a running course.
+Because I feel comfortable running」#MTLed
+> END STRING
+
+> BEGIN STRING
+メモ…ここは同僚の実家。
+ここの部屋を貸してくれる展開になり、
+王都に来るとここに拠点が移る。
+> CONTEXT: Map021/events/11/pages/0/0/Dialogue
+Memo...This is my parents' home. It became the
+development which lends room here, When I come to the
+kingdom, my base will move here.#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「ここは王都エルミア。
+今は武道大会の開催時期だから、賑わいが凄いぜ」
+> CONTEXT: Map021/events/12/pages/0/0/Dialogue
+Youth. 「This is Elmia the kingdom. Now it's time to hold
+the martial arts tournament, so the bustle is amazing」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「ここは王都エルミア。
+武道大会は終わったが、それでも活気が尽きない街だぜ」
+> CONTEXT: Map021/events/12/pages/1/0/Dialogue
+Youth. 「This is Elmia the kingdom. The martial arts
+tournament has ended but it is still a city full of
+liveliness」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「治安のいい街だけど、警備の仕事は結構忙しいんだ。
+特に、この時期は武道大会で人が押し寄せるからね」
+> CONTEXT: Map021/events/22/pages/0/0/Dialogue
+A soldier. 「It is a safe city, but security work is pretty
+busy. Especially, at this time people rush in martial arts
+tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「武道大会が終わっても、我々は暇にはならない。
+むしろ、ロイヤルガード選抜大会を来月に控えて
+みんな鍛錬を本格化させるから殺気立つんだよね」
+> CONTEXT: Map021/events/22/pages/1/0/Dialogue
+A soldier. 「Even if the martial arts tournament is over,
+we will not be bored. Rather, look forward to royal guard
+selection tournament next month. Everybody gets cheerful
+because it makes full-scale training」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「兵士独身寮に用があるのかい？
+独身寮はこの中央区の南の端にあるよ」
+> CONTEXT: Map021/events/22/pages/2/0/Dialogue
+A soldier. 「Is there a use for a soldier single dorm?
+A single dormitory is at the southern end of this central
+ward」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「この豪邸は王国貴族ベックフォード侯爵のものだよ。
+今もっとも勢いのある貴族と言えるだろうね」
+> CONTEXT: Map021/events/23/pages/0/0/Dialogue
+A soldier. 「This mansion belongs to the Kingdom nobility
+Beckford Marquis. I can say that it is the most momentous
+aristocrat right now」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「この中央区に居を構えることができるのは、
+富裕層か、昔から住んでいる人間くらいのものさ。
+庶民はたいてい東地区の住宅地に家を持っているぜ」
+> CONTEXT: Map021/events/38/pages/0/0/Dialogue
+male. 「The reason why I can stay in this central ward is
+that, It is a wealthy person, or a person who lives from
+ancient times. Most people usually have a house in a
+residential area in the east area」#MTLed
+> END STRING
+
+> BEGIN STRING
+『こちらエルミア冒険者組合。
+腕に自信のある方求む！』
+と書いてある。
+> CONTEXT: Map021/events/39/pages/0/0/Dialogue
+"Here Elmia Adventurer Association. Ask for those with
+confidence in your arms! ". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「この大きなおうちはグランレルム伯爵の邸宅よ。
+かつては王国でも随一の貴族だったんだけれど、
+今のご当主は跡継ぎがいなくて悩んでいるみたいね」
+> CONTEXT: Map021/events/40/pages/0/0/Dialogue
+Woman. 「This big house is a mansion of Earl Grandrealm.
+Once in the kingdom was the most aristocratic,
+It seems the current owner is suffering from having no
+successor」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばあさん
+「この城下町も立派になったけれど、
+これも今の女王様が寛容な方だからなのねぇ」
+> CONTEXT: Map021/events/53/pages/0/0/Dialogue
+Grandmother. 「This castle town has also become wonderful,
+This is because the Queen now is open-minded」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「訓練も兵士の仕事のうち！
+武道大会の出場者にも、腕っ節では負けないぜ！」
+> CONTEXT: Map021/events/55/pages/0/0/Dialogue
+A soldier. 「Training also out of work of soldiers!
+I can not lose to martial arts tournament contestants in a
+stupid way!」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「うおおおーーーーっ！
+来月のロイヤルガード選抜大会、
+必ず勝ち抜いて城づとめになるぞぉーーー！」
+> CONTEXT: Map021/events/55/pages/1/0/Dialogue
+A soldier. 「Ooooooooooooooooo! Next month 's royal guard
+selection tournament, Be sure to win and be a castle for
+you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「エルミアの街は商売が自由にできるようになっておるのじゃ
+現女王陛下の方針じゃが、結果として
+このように田舎の国とは思えぬ発展をみせておる」
+> CONTEXT: Map021/events/56/pages/0/0/Dialogue
+old man. 「In the city of Elmia you can do business freely.
+Her Majesty's current policy, as a result
+In this way I can see unexpected development as a country
+country」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「今の時期は東地区のホテルに客を取られちゃって
+ウチは苦しいんですけど……闘技場から遠い分、
+お代は安くなっていますから、よければご利用くださいね」
+> CONTEXT: Map021/events/57/pages/0/0/Dialogue
+A maid. 「At this time of the year I was taken to a hotel
+in the east area. Uchi is painful, but...far from the
+stadium, The generation is cheap, so please use it if you
+do not mind」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「武道大会も終わって、王都も静かになりそうです」
+> CONTEXT: Map021/events/57/pages/1/0/Dialogue
+A maid. 「The martial arts tournament is over and the
+capital is likely to be quiet」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさん、ちょっとここには
+入りたくないかな……」
+> CONTEXT: Map021/events/58/pages/4/0/Dialogue
+Purim. 「Older, a bit here. I do not want to
+enter ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか？
+じゃあ、この屋敷に入るのはやめておくか」
+> CONTEXT: Map021/events/58/pages/4/4/Dialogue
+\\N[12]. 「Really? Well then, are you not allowed to
+enter this mansion?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今はプリムとの武者修行を優先すべきだ」
+> CONTEXT: Map021/events/65/pages/1/0/Dialogue
+\\N[12]. 「Now we should give priority to warrior
+training with Purim」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今はミリーナのクエストを優先すべきだ」
+> CONTEXT: Map021/events/65/pages/2/0/Dialogue
+\\N[12]. 「Mileena's quest should be given priority now」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「正直、武道大会のおかげで
+街の中心が中央区から東区に移っちまった感があるんだよな。
+こっちはその分、閑静で過ごしやすくはあるけどさ」
+> CONTEXT: Map021/events/66/pages/0/0/Dialogue
+Youth. 「Honestly, thanks to martial arts tournament
+There is a feeling that the center of the city moved from
+Chuo Ward to East District. This place is quite easy to
+spend for that much」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「武道大会も終わったか……
+東区ほどじゃないが、祭りのあとは
+この中央区もどこか物寂しくなるんだよな」
+> CONTEXT: Map021/events/66/pages/1/0/Dialogue
+Youth. 「Is the martial arts tournament also over? ...
+It is not as good as the eastern district, but after the
+festival. This Chuo-ku also gets somewhere lonely」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「武道大会の時期は東区は騒がしいものね。
+この並木道、今はデートにぴったりね♪」
+> CONTEXT: Map021/events/80/pages/0/0/Dialogue
+girl. 「The timing of martial arts tournament is noisy in
+east. This avenue, this time is perfect for date♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「観光客もいなくなったことだし、
+東区のレストランでデートしたいわね♪」
+> CONTEXT: Map021/events/80/pages/1/0/Dialogue
+girl. 「Tourists are also gone, I'd like to date a
+restaurant in the East District♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「みんなが東区に行ってるおかげで、
+このあたりは静かでいいな」
+> CONTEXT: Map021/events/81/pages/0/0/Dialogue
+Youth. 「Thanks to everyone going to Higashi Ward,
+This area is quiet and nice」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「武道大会が終わったみたいだな。
+そうなると、東区も人が減って
+デートスポットとして楽しみやすくなるな♪」
+> CONTEXT: Map021/events/81/pages/1/0/Dialogue
+Youth. 「It seems that martial arts tournament has ended.
+Then, the number of people in East District also declined
+Do not be fun as a date spot♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「王都の水路を流れる水は、
+女神サフィスティラの祝福を受けていると言われる。
+要は、そのくらい綺麗だってことだな」
+> CONTEXT: Map021/events/82/pages/0/0/Dialogue
+Youth. 「The water flowing through the king's waterway,
+It is said to be blessed by the goddess Safistira.
+The point is that it's that beautiful」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法使い
+「ここは冒険者ギルド。
+王都の民が依頼を持ち込んでくる場所よ。
+腕に自信があれば、受けてみるのもいいんじゃないかしら」
+> CONTEXT: Map021/events/83/pages/0/0/Dialogue
+Witch. 「This is an adventurer guild. A place where the
+people of the kingdom bring in requests.
+If you have confidence in your arms, you might as well
+accept it」#MTLed
+> END STRING
+
+> BEGIN STRING
+騎士
+「ここは兵士と騎士の詰め所さ。
+ロイヤルガードだけは城内に詰めてる。
+まあ、役割を考えれば当然だな」
+> CONTEXT: Map021/events/84/pages/0/0/Dialogue
+Knight. 「This is a soldier and a knight stuff.
+Only the royal guard is packed inside the castle.
+Well, it's obvious if you think about the role」#MTLed
+> END STRING
+
+> BEGIN STRING
+騎士
+「騎士はロイヤルガードになれないんだよなあ」
+> CONTEXT: Map021/events/84/pages/1/0/Dialogue
+Knight. 「Knight can not become a royal guard」#MTLed
+> END STRING
+
+> BEGIN STRING
+騎士
+「あんたも女王の試練を受けるハメになるとは
+せっかく優勝したってのに大変だな。
+ま、王配位が欲しいなら、せいぜい頑張ることだ」
+> CONTEXT: Map021/events/84/pages/2/0/Dialogue
+Knight. 「You say that you will get a queen's trial
+It's tough to have won the prize. Well, if you want king
+coordination, you should do your best at best.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「ここは王都の中央区にあたるわ。
+闘技場？　東区にあるわよ」
+> CONTEXT: Map021/events/85/pages/0/0/Dialogue
+Woman. 「This is the central city of the kingdom.
+Arena? It's in Higashi Ward」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「西側出口は魔物が比較的強いエリアですので、
+どうぞ、お気をつけてお進みください」
+> CONTEXT: Map021/events/86/pages/0/0/Dialogue
+A soldier. 「Because the West exit is a relatively strong
+area of monster, Please, take care and proceed」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「私はこの門の警備担当です。
+あなたと戦う立場にはありません」
+> CONTEXT: Map021/events/86/pages/1/0/Dialogue
+A soldier. 「I am the security officer at this gate.
+I am not in a position to fight you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おっと、
+こんなところに来てる場合じゃないな」
+> CONTEXT: Map021/events/89/pages/2/0/Dialogue
+\\N[12]. 「Oops, It is not the case when you are coming
+to such a place」#MTLed
+> END STRING
+
+> BEGIN STRING
+『グランレルム伯爵家』
+と書いてある。
+> CONTEXT: Map021/events/93/pages/0/0/Dialogue
+"Earl Grandrealm House". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ここが王都か……
+やっぱり、レストンとは全然違って都会だなぁ」
+> CONTEXT: Map021/events/95/pages/0/0/Dialogue
+\\N[12]. 「Is this the kingdom ...? After all, it is
+totally different from Reston in the city」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「さて、まずは闘技場を探して
+武道大会の出場申し込みをしなきゃな。
+まだ受け付けてくれているといいんだが」
+> CONTEXT: Map021/events/95/pages/0/4/Dialogue
+\\N[12]. 「Well, first, look for a stadium
+I have to apply for martial arts tournament.
+I hope I still accept it」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「だから、心配はいらないと言っているでしょう？
+武道大会に出るだけの実力はついておりますわよ、
+あなたたちロイヤルガードが一番知っているでしょうに」
+> CONTEXT: Map021/events/96/pages/0/35/Dialogue
+blond haired girl. 「So, you say that you do not
+need to worry? The skill that is enough to go out
+to martial arts tournament is on,
+You guys royal guard probably knows best」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「そういう問題ではありません。
+大会出場自体が危険だと言っているんです、
+いくらでも手強い相手はいるんですから、もしお怪我でもされては」
+> CONTEXT: Map021/events/96/pages/0/40/Dialogue
+royal guard. 「It is not such a problem. I am saying
+tournament participation itself is dangerous,
+There are many other tough partners, so if you are injured」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「わたくしは怪我など恐れなくてよ。
+高貴な身の上であればこそ、自ら剣を取り
+戦う覚悟を示さなくては」
+> CONTEXT: Map021/events/96/pages/0/45/Dialogue
+blond haired girl. 「I am not afraid of injuries.
+If you are on a noble person, take your sword
+yourself. I have to show my preparedness to fight
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「なんと言われてもダメです。
+無茶をさせないようにと、お母上から厳しく言い含められておりますし
+どうか、ご自重いただきますよう」
+> CONTEXT: Map021/events/96/pages/0/50/Dialogue
+royal guard. 「Even if it is told what I say, it is useless.
+It is strictly told from your mother that you should not
+let it go unreasonable. Well, please take your own weight」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「ふう、母上もあなたも、つまらないことを……
+あら？」
+> CONTEXT: Map021/events/96/pages/0/55/Dialogue
+blond haired girl. 「Well, both mother and you,
+it is boring ...... Oh?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「確か、このへんに宿屋があったはずだよな……」
+> CONTEXT: Map021/events/96/pages/0/83/Dialogue
+\\N[12]. 「Certainly, there must have been an inn in
+this place ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「ちょっと、そこのあなた」
+> CONTEXT: Map021/events/96/pages/0/86/Dialogue
+blond haired girl. 「Hey, you there」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（うっ、なんて綺麗な女の子なんだ。
+レストンには絶対いないようなタイプだな……
+着ているドレスからすると、貴族か何かだろうか）
+> CONTEXT: Map021/events/96/pages/0/103/Dialogue
+\\N[12]. (Uh, how beautiful a girl. Reston is not a type
+that is absolutely...... From the dress you are wearing,
+is it a nobleman or something?#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「ちょっといいかしら。
+あなた、その出で立ちからすると
+武道大会に出場する方なのかしら？」
+> CONTEXT: Map021/events/96/pages/0/108/Dialogue
+blond haired girl. 「I wonder if it is a bit good.
+From you, from its departure. Is he the one who
+will participate in martial arts tournament?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああ、そうだけど」
+> CONTEXT: Map021/events/96/pages/0/113/Dialogue
+\\N[12]. 「Oh, yes, but that's right」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「ちょうどいいわ。
+あなた、わたくしと手合わせなさい」
+> CONTEXT: Map021/events/96/pages/0/116/Dialogue
+blond haired girl. 「Just right.
+You, please coordinate with me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へ？
+キミと俺が、手合わせを？
+ど、どうして」
+> CONTEXT: Map021/events/96/pages/0/120/Dialogue
+\\N[12]. 「? Will you and me meet? Why」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「わたくしも出場したいと思っているのだけど、
+武道大会に出る人間がどの程度のものか
+確かめさせてもらいたいのよ」
+> CONTEXT: Map021/events/96/pages/0/125/Dialogue
+blond haired girl. 「I also want to participate,
+How much human beings are in martial arts
+tournament. I want you to make sure」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「い、いや、
+いきなりそんなこと言われても……」
+> CONTEXT: Map021/events/96/pages/0/130/Dialogue
+\\N[12]. 「No, Even if such a thing is said suddenly
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「嫌なの？　ふふ、じゃあこうしましょう、
+もしあなたが勝てたなら、
+このわたくしを好きにしてもよろしくてよ？」
+> CONTEXT: Map021/events/96/pages/0/134/Dialogue
+blond haired girl. 「Do not like it? Huhu, let's
+do this, If you win, Would you mind if I like
+this one?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なっ！」
+> CONTEXT: Map021/events/96/pages/0/144/Dialogue
+\\N[12]. 「What it is!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「なにを言っているんですか、いったい！」
+> CONTEXT: Map021/events/96/pages/0/147/Dialogue
+royal guard. 「What are you talking about!」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「あなたは黙ってなさい。
+さあ、とにかく剣を抜きなさい。
+嫌だと言っても相手になっていただきますわ」
+> CONTEXT: Map021/events/96/pages/0/150/Dialogue
+blond haired girl. 「Keep silent.
+Now, pull out the sword anyway.
+Even if you say that you do not like it, you will
+become a partner」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（う、うーん……
+ちょっと戸惑っちまったが、すげえ美人なのは確かだし、
+こんな女の子を好きにできるってのはおいしい話だ）
+> CONTEXT: Map021/events/96/pages/0/155/Dialogue
+\\N[12]. (Well, hmm....... I was a bit puzzled, but it
+is certainly beautiful, It is a delicious story that you
+can like this girl)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（いや、でも、シェリーのときのこともある。
+もしかするとすげえ強いかもしれないし、
+そもそも、こんな往来で女の子と手合わせは、ちょっとなぁ……）
+> CONTEXT: Map021/events/96/pages/0/160/Dialogue
+\\N[12]. (No, but there is something about Sherry.
+Perhaps it might be strong, , With such girls to hand with
+girls, a bit......)#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「なにをためらっているのかしら？
+もしかして、こんな小娘に負けるのが
+怖いとか思っているのではなくて？」
+> CONTEXT: Map021/events/96/pages/0/165/Dialogue
+blond haired girl. 「I wonder what he is
+hesitating? Perhaps, such a losing girl is
+Do not you think it is scary?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだと！」
+> CONTEXT: Map021/events/96/pages/0/170/Dialogue
+\\N[12]. 「?」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「武道大会に出るような男なら
+腕に覚えがあるのかと思ったけれど、
+女相手に怖気づく程度なのかしら？」
+> CONTEXT: Map021/events/96/pages/0/173/Dialogue
+blond haired girl. 「If you are like a martial
+art tournament. Although I thought that there was
+a remember in my arm, Is it enough to make female
+partners noticeable?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……ば、馬鹿にしやがって……
+だいたい、そんなヒラヒラしたドレス着て戦えるつもりかっ！
+どこのお嬢か知らないが、戦いってものをナメるんじゃねぇぞ！」
+> CONTEXT: Map021/events/96/pages/0/179/Dialogue
+\\N[12]. 「Ha ha...... you're stupid ......
+Generally, I'm planning to fight wearing such a dress!
+I do not know where she is, but do not be fighting
+fighting!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「た、たしかに……
+馬鹿にしていると思われても、仕方ありませんね……」
+> CONTEXT: Map021/events/96/pages/0/185/Dialogue
+royal guard. 「Certainly...Even if you think you are
+stupid, it can not be helped ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「あら、これはわたくしのお気に入りのドレスでしてよ？
+確かに戦うには適した服では
+ないかもしれないけれど……」
+> CONTEXT: Map021/events/96/pages/0/189/Dialogue
+blond haired girl. 「Oh my, is this my favorite
+dress? Indeed clothing suitable for fighting
+It may not be there ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「無骨な鎧などを身にまとっては、
+わたくしの美しさが台無しになってしまいますもの。
+戦うに臨んでも、これがわたくしの正装ですわ」
+> CONTEXT: Map021/events/96/pages/0/194/Dialogue
+blond haired girl. 「Wearing rugged armor etc,
+Things that will ruin my beauty.
+Even if we fight, this is my formal dress.」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「それに……ふふっ、どうせ誰が相手であっても、
+わたくしの服に傷をつけるなど、
+できるはずがありませんもの。問題ありませんわ」
+> CONTEXT: Map021/events/96/pages/0/199/Dialogue
+blond haired girl. 「Also,...whatever, whatever
+the opponent is, Like scratching my clothes,
+What can not be done. There is no problem.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（こ、こいつ……
+なんてお高く止まった女なんだ。
+貴族の令嬢か何かなんだろうけど……）
+> CONTEXT: Map021/events/96/pages/0/204/Dialogue
+\\N[12]. (This guy ...... How wonderfully a woman has
+stopped. I guess it is a nobleman's daughter or something
+... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いいだろう、勝負を受けてやるっ！
+どれだけ自分に自信があるのか知らんが、
+考えが甘かったってことを思い知らせてやるぜ」
+> CONTEXT: Map021/events/96/pages/0/209/Dialogue
+\\N[12]. 「No wonder, I will accept a game!
+I do not know how confident my self is, I will let you know
+that my idea was sweet」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「あら、言いますわね。
+先ほどから大人しく聞いていれば、このわたくしに
+ここまで数々の侮辱を浴びせたのは、あなたが初めてですわ」
+> CONTEXT: Map021/events/96/pages/0/217/Dialogue
+blond haired girl. 「Oh, I guess.
+If you listen quietly from the previous time,
+this me. You are the first time that I've been
+exposed to numerous insults」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そっちから好きにしていいと言ったんだから、
+負けたらどんな目にあわされても後悔するなよっ！」
+> CONTEXT: Map021/events/96/pages/0/222/Dialogue
+\\N[12]. 「Because I told you to let me like it,
+Do not repent no matter what you look for if you lose!」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「もちろんですわ。
+ふふ、そうこなくてはね、楽しみですわ。
+外で誰かと手合わせするのは初めてですもの」
+> CONTEXT: Map021/events/96/pages/0/226/Dialogue
+blond haired girl. 「Of course.
+Huhu, if you do not have that, I'm looking
+forward to it. It is the first time to contact
+someone outside」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いくぞっ！」
+> CONTEXT: Map021/events/96/pages/0/231/Dialogue
+\\N[12]. 「here I go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「かかってらっしゃい。
+このわたくしの華麗なる剣で、
+あなたを這いつくばらせてさしあげますわ」
+> CONTEXT: Map021/events/96/pages/0/234/Dialogue
+blond haired girl. 「Take care. With this
+glorious sword, I will crawl you up and give you」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「ふっ、こんなところかしら。
+威勢が良かったわりには、
+たいした実力ではありませんのね」
+> CONTEXT: Map021/events/96/pages/0/256/Dialogue
+blond haired girl. 「Wonder, I wonder why this is
+the place. Despite its good draft,
+It is not really powerful」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、うぅっ……そ、そんなっ、
+手も足も出ないだなんて……」
+> CONTEXT: Map021/events/96/pages/0/261/Dialogue
+\\N[12]. 「Wow, that...... that, I do not have any
+hands or legs ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「どう？　出場選手を相手にしても、
+わたくしの実力にかかればこんなものよ。
+怪我の心配などないと、分かってくれたかしら？」
+> CONTEXT: Map021/events/96/pages/0/267/Dialogue
+blond haired girl. 「How? Even with the
+competitors, It is this kind of thing if it
+relates to my ability. Did you know I had no
+worries about injury?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「むぅ……仕方がありませんね、
+目の前で実力を証明されてしまっては……」
+> CONTEXT: Map021/events/96/pages/0/273/Dialogue
+royal guard. 「Muu ...... There is no choice,
+I have proven my ability in front of me ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「ふふっ、それにしても……」
+> CONTEXT: Map021/events/96/pages/0/279/Dialogue
+blond haired girl. 「Huhu, even so......」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「その程度の腕で、先ほどはよくもまあ
+わたくしを愚弄できたものですわね。
+どうかしら、身の程というものを理解できたかしら？」
+> CONTEXT: Map021/events/96/pages/0/288/Dialogue
+blond haired girl. 「With that extent of arms, I was
+wonderful. It was a mockery of me. I wonder, could you
+understand what it means?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ、うぅ……く、くそぉ……」
+> CONTEXT: Map021/events/96/pages/0/300/Dialogue
+\\N[12]. 「Damn it...damn ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「その程度では出場しても恥をかくだけではなくて？
+今からでも辞退したほうがいいと思いますわ」
+> CONTEXT: Map021/events/96/pages/0/303/Dialogue
+blond haired girl. 「Is not it not only to shame even if
+you participate in that degree? I think that it is better
+to decline even now」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「それとも、武道大会の出場者なんて
+みんなこの程度のものなのかしら。
+だとしたら、たやすく優勝できてしまいそうねぇ」
+> CONTEXT: Map021/events/96/pages/0/307/Dialogue
+blond haired girl. 「Or maybe you are a martial arts
+tournament contestant. I wonder if everyone is this level.
+If so, it seems likely to be able to win easily」#MTLed
+> END STRING
+
+> BEGIN STRING
+金髪の少女
+「ふふっ……あはははははっ！」
+> CONTEXT: Map021/events/96/pages/0/313/Dialogue
+blond haired girl. 「Huh...¡Hahahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うぅ……どこなんだ、ここは……
+内装からすると、宿屋、か……？」
+> CONTEXT: Map021/events/96/pages/0/349/Dialogue
+\\N[12]. 「Uoo...Where is it, here is ......
+From the interior, inn, or ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「武道大会期間は終了した。
+一般庶民の王城への入場はまかりならぬ」
+> CONTEXT: Map021/events/97/pages/0/0/Dialogue
+A soldier. 「The martial arts tournament period has ended.
+Entrance to the royal citizen of ordinary people is
+incomprehensible」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「女王陛下の命により、
+\\N[12]殿の王城への入場はまかりならぬ」
+> CONTEXT: Map021/events/97/pages/2/0/Dialogue
+A soldier. 「With the life of His Majesty the Queen,
+\\N[12] The entrance to the royal castle is
+incomprehensible」#MTLed
+> END STRING
+
+> BEGIN STRING
+『ベックフォード侯爵家』
+と書いてある。
+> CONTEXT: Map021/events/101/pages/0/0/Dialogue
+"Beckford Marquis House". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「もう城の一般公開は終わりさ。
+やれやれ、これで神経を尖らすこともなく済む」
+> CONTEXT: Map021/events/102/pages/0/0/Dialogue
+A soldier. 「The castle's public release is over.
+dear me, without having to sharpen the nerve with this」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「強行突破しようとすれば
+そこの詰め所から二十人は兵士が出てくる手はずなんだ。
+ここを抜けようとするのはやめときな」
+> CONTEXT: Map021/events/102/pages/2/0/Dialogue
+A soldier. 「If you try to break through. Twenty people
+from the packing place there are soldiers to come out.
+It is time to stop trying to get out of here」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「教会では、寄付をすれば聖水をもらえるよ！
+お化けや悪魔を追い払うことができるんだってさ！」
+> CONTEXT: Map021/events/103/pages/0/0/Dialogue
+boy. 「In the church, you can receive holy water by making
+a donation! You can get rid of ghosts and demons!」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「レヴァスティの森に危険な魔物が出現しました！
+一般の方は、しばらく森には近づかないように！」
+> CONTEXT: Map021/events/108/pages/0/12/Dialogue
+A soldier. 「A dangerous monster has emerged in the forest
+of Lavasti! For the general public, please do not approach
+the forest for a while!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（森……？　危険な魔物って、どんな奴だろう）
+> CONTEXT: Map021/events/108/pages/0/20/Dialogue
+\\N[12]. (Mori ......? What kind of guy is a dangerous
+monster?)#MTLed
+> END STRING
+
+> BEGIN STRING
+群衆
+「キノコ採りができなくなるのは困るな……
+エルミア軍が退治してくれるのかい？」
+> CONTEXT: Map021/events/108/pages/0/24/Dialogue
+crowd. 「I am in trouble getting mushroom harvesting......
+Does Elmier army get rid of it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「現在、エルミア軍は大会の警備に人員を割いているため
+対応が難しくなっております。
+冒険者ギルドに依頼をしておりますので、ご安心ください」
+> CONTEXT: Map021/events/108/pages/0/31/Dialogue
+A soldier. 「Currently, since the Elmier army is allocating
+personnel to guard the tournament. The correspondence
+becomes difficult. We are asking for the adventurer guild,
+so please rest assured」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ギルドに依頼が来ているのか。
+じゃあ、気が向いたら\\C[2]ギルドに依頼票を取りに行って\\C[0]
+詳細を確認してみようか）
+> CONTEXT: Map021/events/108/pages/0/37/Dialogue
+\\N[12]. Is there a request from the guild?
+Well, if you feel like it\\C[2] Go to the guild to pick up the
+request slip\\C[0]. Let's check the details)#MTLed
+> END STRING

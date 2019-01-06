@@ -1,0 +1,132 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「ご主人様っ、今日はレヴァスティの森で
+魔物を一日中狩り続けてきましたっ！
+これが稼ぎですっ！」
+> CONTEXT: Map145/events/2/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]は、魔物退治で得たお金を
+バニーガールに手渡す。
+> CONTEXT: Map145/events/2/pages/1/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バニー
+「ふふ、ご苦労さま。
+じゃ、お金に続いて
+鍛えてきた力も私に捧げなさい」
+> CONTEXT: Map145/events/2/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああぁ……
+や、やわらかいぃ……！」
+> CONTEXT: Map145/events/2/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「もうすっかり、私のおっぱいの虜ね。
+キミのそういうだらしない顔を見るの、
+私は結構楽しいわよ」
+> CONTEXT: Map145/events/2/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ありがとうございますっ！」
+> CONTEXT: Map145/events/2/pages/1/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むにっ、むにゅっ……！
+> CONTEXT: Map145/events/2/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あひいいぃぃっ！」
+> CONTEXT: Map145/events/2/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あがっ、あううぅっ……
+き、きもちいいっ……」
+> CONTEXT: Map145/events/2/pages/1/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「今日も力を貢いでくれてありがと。
+もうそろそろ、魔王の一人や二人
+倒せそうなくらい、力がついてきちゃった。
+> CONTEXT: Map145/events/2/pages/1/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふふっ、私自身は何の努力もしていないのに……
+毎日、キミから奪ったお金でおいしいものを食べて
+のんびりしているだけで、
+勝手に力とお金を貢ぎに来てくれるし」
+> CONTEXT: Map145/events/2/pages/1/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「このおっぱいの感触が忘れられないのよね？
+だから、私に搾取され続けると分かっていながら
+逃げることもせず奴隷に甘んじてる。
+> CONTEXT: Map145/events/2/pages/1/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、しょせんキミのような早漏の男の子は
+女のおっぱいにはかなわないものね。
+このまま一生、私がキミを飼い続けてあげる。
+> CONTEXT: Map145/events/2/pages/1/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+せいぜい頑張って、私のために力を貢ぎなさい。
+そう、一生ね……うふふっ……♪」
+> CONTEXT: Map145/events/2/pages/1/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]はバニーガールの奴隷となり
+彼女に力もお金も搾り取られ続けることになる。
+> CONTEXT: Map145/events/2/pages/1/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっぱいに屈服し、快楽の虜となった少年の
+これが末路であった――
+> CONTEXT: Map145/events/2/pages/1/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バニーガール　バッドエンド２：おっぱいに全てを奪われた少年剣士
+> CONTEXT: Map145/events/2/pages/1/104/Dialogue < UNTRANSLATED
+
+> END STRING

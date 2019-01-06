@@ -1,0 +1,32 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+女性
+「主人が庭付きの家にこだわる人だったから、
+ちょっといびつな形の家になってしまったわ」
+> CONTEXT: Map049/events/1/pages/0/0/Dialogue
+Woman. 「Because the master adhered to the gardened house,
+It has become a slightly irregular shaped house」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「武道大会では優勝者予想の賭け事も催されるんだが、
+これが毎年楽しみでね。
+今年はどんな選手が出場するのか、わくわくするよ」
+> CONTEXT: Map049/events/2/pages/0/0/Dialogue
+male. 「The martial arts tournament also holds gamble
+predictions of the winner, I look forward to this every
+year. I will do what kind of players will participate this
+year」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「お、優勝者の\\N[12]選手じゃないか。
+賭けは外れてしまったが、
+決勝はいい試合を見せてもらって満足だよ、ありがとう」
+> CONTEXT: Map049/events/2/pages/1/0/Dialogue
+male. 「Oh, the winner \\N[12] It is a player.
+The bet went off, I am satisfied that the final is to have
+a good game, thank you」#MTLed
+> END STRING

@@ -1,0 +1,38 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+可憐のクリスタルを破壊した！
+> CONTEXT: Map124/events/1/pages/0/18/Dialogue
+Destroy the pretty crystal!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、またこんな幻影を見せてくるとは……
+ミリーナの誘いは魅力的だったが、
+なんとか耐えきったぜ……」
+> CONTEXT: Map124/events/1/pages/0/24/Dialogue
+\\N[12]. 「Cut, and also to show such an illusion ... ...
+Mileena's invitation was attractive, I managed to end it
+... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだったんだ、今のは……
+くっ、魔物が俺を惑わせようとしているのか……？
+> CONTEXT: Map124/events/1/pages/0/31/Dialogue
+> CONTEXT: Map123/events/1/pages/0/32/Dialogue
+\\N[12]. 「What was it, what was it ......
+Cut, is the monster trying to distract me ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナの姿で挑発してくるとは、
+なかなか厄介だったな……
+他にもこういう罠があるかもしれないし、
+気を強く持たないと」
+> CONTEXT: Map124/events/1/pages/0/35/Dialogue
+To provoke in the form of Mileena, It was quite troublesome
+... There may be other such traps, If you do not have a
+strong feeling」#MTLed
+> END STRING

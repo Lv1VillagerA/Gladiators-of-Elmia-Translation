@@ -1,0 +1,857 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[12]
+「よろしくお願いします。
+三人を一度に相手するわけじゃないんですよね？」
+> CONTEXT: Map111/events/2/pages/0/0/Dialogue
+\\N[12]. 「Thank you. You do not have three people at
+once, do you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「もちろん一人ずつよ。
+まずはクレアからね」
+> CONTEXT: Map111/events/2/pages/0/4/Dialogue
+Rana. 「Of course, one by one. First off from Clair」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「よろしくねー
+ま、楽しくやろうよ」
+> CONTEXT: Map111/events/2/pages/0/10/Dialogue
+Clair. 「Thank you. Well, let's have fun」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「準備はいい？
+それじゃ、はじめっ！」
+> CONTEXT: Map111/events/2/pages/0/14/Dialogue
+Rana. 「Are you ready? Well then, I started!」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「きゃっ、もうっ
+私の負けだよー。
+やっぱ男の子相手に勝つのは無理だよぉ」
+> CONTEXT: Map111/events/2/pages/0/25/Dialogue
+Clair. 「kyaa, っ っ っ. I'm defeated. It is impossible to win
+the boy's opponent」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「何を言ってるの、
+そういう男相手の苦手意識をなくすための訓練でしょ！
+そんなことじゃ武道大会の警備任務なんてできないわよ！」
+> CONTEXT: Map111/events/2/pages/0/30/Dialogue
+Rana. 「What are you talking about? It is a training to
+eliminate such a bad man's conscience! You can not do the
+martial arts tournament security mission!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ま、クレアはマジメに訓練してないんだもん、
+負けて当然でしょ。
+でも、あたしはそう簡単にはいかないからね」
+> CONTEXT: Map111/events/2/pages/0/37/Dialogue
+Rise. 「Well, Clair has not trained in Majima,
+It's natural to lose. But I can not do that easily」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うぐっ……
+ま、参りました」
+> CONTEXT: Map111/events/2/pages/0/49/Dialogue
+\\N[12]. 「Ugly ... Well, I have come.」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「うん、ありがと♪
+やったねっ、男の子に勝っちゃった！
+まさか勝てるとは思わなかったなー」
+> CONTEXT: Map111/events/2/pages/0/53/Dialogue
+Clair. 「Yes, thanks♪. You did it, I won the boy!
+I never thought that I would win.」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ちょっとぉ、クレアに負けるのぉ？
+この子、うちの隊の中でも一番弱い子なんだよ？」
+> CONTEXT: Map111/events/2/pages/0/58/Dialogue
+Rise. 「A bit, you lose to Clair? This child, you are the
+weakest among our corps?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、す、すいません……」
+> CONTEXT: Map111/events/2/pages/0/62/Dialogue
+\\N[12]. 「Uooh, I'm sorry ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ま、いいけどー。
+次はあたしが相手だけど、
+ちょっとは手応えのあるところ見せてよねー」
+> CONTEXT: Map111/events/2/pages/0/65/Dialogue
+Rise. 「Well, good. Next time I'm an opponent,
+Hey, show me where the response is.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「次はリゼの番ね。
+じゃあ、始めてくれる？」
+> CONTEXT: Map111/events/2/pages/0/76/Dialogue
+Rana. 「Next is Rizé number. Well then, can you start?」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「あいたたた……や、やられちゃった。
+なかなかやるじゃん、キミ。
+これでもあたし、男兵士には結構勝ってるのに。
+> CONTEXT: Map111/events/2/pages/0/87/Dialogue
+Rise. 「Aita ... ... and, I got hurt. You do pretty well,
+Kimi. Even though I am pretty much against men soldiers.#MTLed
+> END STRING
+
+> BEGIN STRING
+さすがに武道大会の出場者だけのことはあるね。
+手応えのある訓練ができてよかったよ、
+ありがとね」
+> CONTEXT: Map111/events/2/pages/0/92/Dialogue
+As expected there is only one person participating in the
+martial arts tournament. I'm glad I could train with a good
+response, Thanks dear」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、お役に立てたなら良かったっす」
+> CONTEXT: Map111/events/2/pages/0/96/Dialogue
+\\N[12]. 「Yes, I wish I was of service」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「じゃ、最後は私ね。
+クレアやリゼのようにはいかないから、
+心してかかってきてよね」
+> CONTEXT: Map111/events/2/pages/0/101/Dialogue
+Rana. 「Well, the last one is me. Because it does not work
+like Clair or Rizzy, It's coming with my heart」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はいっ！」
+> CONTEXT: Map111/events/2/pages/0/106/Dialogue
+> CONTEXT: Map035/events/4/pages/8/286/Dialogue
+> CONTEXT: Map145/events/2/pages/1/25/Dialogue
+\\N[12]. 「Yes!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ま、負けました……」
+> CONTEXT: Map111/events/2/pages/0/113/Dialogue
+> CONTEXT: Map111/events/2/pages/0/147/Dialogue
+\\N[12]. 「Well, I lost ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「やっぱこんなもんか。
+クレアに負けてる程度なら、あたしが負けるわけないし。
+男の子なのに女に手も足も出ないとか、情けないねー」
+> CONTEXT: Map111/events/2/pages/0/116/Dialogue
+Rise. 「After all it is such a thing. If I lose to Clair, I
+will not lose. Even though he is a boy, she does not have
+hands or feet for a woman, I feel sorry」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ、面目ない……」
+> CONTEXT: Map111/events/2/pages/0/121/Dialogue
+\\N[12]. 「OHh, I have no face ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ほらほら、相手が弱いからってあんまりいじめない。
+かわいそうでしょ」
+> CONTEXT: Map111/events/2/pages/0/124/Dialogue
+Rana. 「oh no, I do not bully so much because my opponent
+is weak. You are sorry.」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「はいはい。
+ま、兵士以外との手合わせは貴重な経験ではあるから
+いちおうお礼は言っておくね、ボク」
+> CONTEXT: Map111/events/2/pages/0/128/Dialogue
+Rise. 「. Well, since the arrangements with non soldiers
+are valuable experiences. I will tell you the most, thanks.
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「さてと、じゃあ最後は私が相手をするわね。
+とはいえ、クレアやリゼ相手にこれじゃあ、
+期待はできないけど……少しは意地を見せてね」
+> CONTEXT: Map111/events/2/pages/0/137/Dialogue
+> CONTEXT: Map111/events/2/pages/0/166/Dialogue
+Rana. 「Well, then I will do the other in the end.
+Nonetheless, to Clair or Riza partner, I can not expect you
+... but ... show me a little bit」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「は、はい。いきます！」
+> CONTEXT: Map111/events/2/pages/0/142/Dialogue
+> CONTEXT: Map111/events/2/pages/0/171/Dialogue
+\\N[12]. 「Yes. To go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「やったー、あたしの勝ちー♪
+キミって武道大会の出場者なんでしょ？
+あの大会の選手ってのも、意外とたいしたことないね」
+> CONTEXT: Map111/events/2/pages/0/150/Dialogue
+Rise. 「All right, my win♪. You are a contestant of martial
+arts tournament, are not you? That tournament player is
+surprisingly a big deal」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うう……」
+> CONTEXT: Map111/events/2/pages/0/155/Dialogue
+> CONTEXT: Map152/events/24/pages/12/308/Dialogue
+> CONTEXT: Map152/events/24/pages/12/784/Dialogue
+> CONTEXT: Map074/events/27/pages/0/29/Dialogue
+> CONTEXT: Map074/events/41/pages/0/103/Dialogue
+> CONTEXT: Map074/events/45/pages/0/29/Dialogue
+> CONTEXT: Map074/events/46/pages/0/29/Dialogue
+> CONTEXT: Map074/events/47/pages/0/29/Dialogue
+> CONTEXT: Map074/events/48/pages/0/29/Dialogue
+> CONTEXT: Map074/events/49/pages/0/29/Dialogue
+> CONTEXT: Map149/events/38/pages/1/451/Dialogue
+> CONTEXT: Map025/events/267/pages/1/568/Dialogue
+> CONTEXT: Map043/events/24/pages/13/332/Dialogue
+> CONTEXT: Map043/events/24/pages/13/832/Dialogue
+\\N[12]. 「UU……」#MTLed
+> CONTEXT: Commonevents/136/145/Dialogue
+> CONTEXT: Commonevents/239/147/Dialogue
+> CONTEXT: Commonevents/240/147/Dialogue
+> CONTEXT: Commonevents/285/144/Dialogue
+\\N[12]. 「UU……」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ほらほら、勝ったからってあんまり得意にならないの。
+リゼはすぐ調子に乗るんだから」
+> CONTEXT: Map111/events/2/pages/0/158/Dialogue
+Rana. 「oh no, I do not get too good at winning.
+Rizze will get on very quickly」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「うっ……や、やられたわね、
+私の負けよ、\\N[12]君……」
+> CONTEXT: Map111/events/2/pages/0/182/Dialogue
+Rana. 「Oh ... or, it was done, My defeat, \\N[12] You……」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はぁ、はぁ……
+て、手ごわかった……」
+> CONTEXT: Map111/events/2/pages/0/186/Dialogue
+\\N[12]. 「Ah, Ah ... Well, it was awesome ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「うわー、すっごい強いじゃん。
+まさかラナに勝っちゃうなんて」
+> CONTEXT: Map111/events/2/pages/0/190/Dialogue
+Rise. 「Wow, that's awful strong. No wonder he will win Rana
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「ラナちゃん、男兵士相手でも
+めったに負けないぐらい強いのに。
+やっぱり武道大会の選手ってすごいんだねー」
+> CONTEXT: Map111/events/2/pages/0/194/Dialogue
+Clair. 「Rana-chan, even a male soldier. Even though it is
+rarely to be defeated. After all the martial arts
+tournament players are amazing」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いえ、そんな。
+ラナさんのような強い人がいるなんて、
+兵士っていうのもレベルが高いんですね」
+> CONTEXT: Map111/events/2/pages/0/199/Dialogue
+\\N[12]. 「No, such a thing. To have a strong person
+like Rana - san, The level of soldiers is also high」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ううん、そんなことないのよ。
+私もまだまだ。本当に強ければ
+ロイヤルガードになってるからね」
+> CONTEXT: Map111/events/2/pages/0/204/Dialogue
+Rana. 「No, that's not true. Me too  .If you are really
+strong. It's become a royal guard.」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「それにしても、ラナちゃんに勝てるとなると
+あたしたちに苦戦してたのは
+たまたまだった感じかな？」
+> CONTEXT: Map111/events/2/pages/0/210/Dialogue
+Clair. 「Even so, when you win against Rana-chan
+We fought hard. I guess it was occasionally?」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ま、そういうことでしょ。
+何にせよ、いい稽古相手見つかって良かったじゃん、ラナ」
+> CONTEXT: Map111/events/2/pages/0/215/Dialogue
+Rise. 「Well, that's right. Anyway, I was glad I found a
+good lesson, Rana」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ま、ラナなら遠からず昇格するだろうけどね。
+何にしても、いい稽古相手見つけたじゃん、ラナ」
+> CONTEXT: Map111/events/2/pages/0/221/Dialogue
+Rise. 「Well, Rana would probably be promoted a long time.
+Whatever it is, I found a good practice partner, Rana」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「そうね、今日は本当に助かったわ。
+武道大会の警備任務を前に、いい訓練になったと思う。
+> CONTEXT: Map111/events/2/pages/0/227/Dialogue
+Rana. 「Well, I was really saved today. I think that it
+became a good training before the security mission of the
+martial arts tournament.#MTLed
+> END STRING
+
+> BEGIN STRING
+あとはみんなで稽古をして、
+それでお開きにしましょうか」
+> CONTEXT: Map111/events/2/pages/0/231/Dialogue
+Afterwards everyone practiced, Would you like to open it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、\\N[12]は三人の女兵士との稽古に参加し、
+汗を流した――
+> CONTEXT: Map111/events/2/pages/0/235/Dialogue
+> CONTEXT: Map111/events/2/pages/0/499/Dialogue
+Then, \\N[12] He participated in practicing with three
+female soldiers, I sweat -#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「今日はありがとう。
+おかげで充実した訓練になったわ」
+> CONTEXT: Map111/events/2/pages/0/240/Dialogue
+> CONTEXT: Map111/events/2/pages/0/504/Dialogue
+Rana. 「Thank you for today. Thanks to that, I got a
+fulfilling training.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いえ、俺こそためになりました。
+ラナさんのような強い人と手合わせできて、
+大会前にいい経験になりましたよ」
+> CONTEXT: Map111/events/2/pages/0/244/Dialogue
+> CONTEXT: Map111/events/2/pages/0/508/Dialogue
+\\N[12]. 「No, I got better now. You can meet with a
+strong person like Rana - san, It was a nice experience
+before tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「お互い、得るものがあったということね。
+私としては、普段から不まじめなあの二人が
+キミとの勝負で刺激を受けてくれたのが嬉しいの。
+> CONTEXT: Map111/events/2/pages/0/249/Dialogue
+> CONTEXT: Map111/events/2/pages/0/513/Dialogue
+Rana. 「It means that there was something to gain with each
+other. As for me, those two who are unfriendly from usual
+I'm glad that you got inspired by the game with you.#MTLed
+> END STRING
+
+> BEGIN STRING
+また、なにかあったらお願いね。
+キミなら、この女子フロアも出入り自由でいいから、
+いつでも来てちょうだい」
+> CONTEXT: Map111/events/2/pages/0/254/Dialogue
+> CONTEXT: Map111/events/2/pages/0/518/Dialogue
+Also, please let me know if anything happens.
+If you are, this girls' floor is free to enter and leave,
+Please come at any time.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、それでは俺はこれで失礼します」
+> CONTEXT: Map111/events/2/pages/0/258/Dialogue
+> CONTEXT: Map111/events/2/pages/0/522/Dialogue
+\\N[12]. 「Yes, then I will excuse myself.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（よしっ、依頼は完了だぜ。
+あとはギルドに報告して終わりだな）
+> CONTEXT: Map111/events/2/pages/0/262/Dialogue
+> CONTEXT: Map094/events/4/pages/2/34/Dialogue
+> CONTEXT: Map094/events/4/pages/5/50/Dialogue
+> CONTEXT: Map063/events/9/pages/3/97/Dialogue
+> CONTEXT: Map050/events/4/pages/3/39/Dialogue
+> CONTEXT: Map026/events/3/pages/2/75/Dialogue
+> CONTEXT: Map026/events/3/pages/2/339/Dialogue
+\\N[12]. (Yosh, the request is complete.
+Afterwards I report it to the guild and it is the end)#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「よしっ。
+ま、こんなもんでしょ」
+> CONTEXT: Map111/events/2/pages/0/273/Dialogue
+> CONTEXT: Map111/events/2/pages/0/468/Dialogue
+Rana. 「Alright. Well, it's like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……ま、参りました。
+つ、強い……」
+> CONTEXT: Map111/events/2/pages/0/277/Dialogue
+> CONTEXT: Map111/events/2/pages/0/472/Dialogue
+\\N[12]. 「Cut ... Well, I came. One, strong ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ラナは女兵士の中じゃトップクラスだもん。
+あたしやクレア相手に苦戦しているような腕じゃ、
+かなうわけないよねー」
+> CONTEXT: Map111/events/2/pages/0/281/Dialogue
+Rise. 「Rana is a top class among female soldiers.
+It's like I'm struggling with me or Clair partner,
+I can not believe it」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「ラナは武道大会に出ても、
+普通に上位を狙える腕だって
+みんな言ってるぐらいなんだよー」
+> CONTEXT: Map111/events/2/pages/0/286/Dialogue
+> CONTEXT: Map111/events/2/pages/0/481/Dialogue
+Clair. 「Although Rana comes out to martial arts tournament,
+Arms that can normally be aimed at the top
+Everyone is saying that」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「それにしても、本当に弱っちいわね、あんた。
+ホントに武道大会に出る選手なのー？」
+> CONTEXT: Map111/events/2/pages/0/293/Dialogue
+Rise. 「Even so, it is really weak, you. Is it really a
+player who will appear in the martial arts tournament?」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「リゼ、武道大会は出るだけなら
+誰でも出られるんだよ」
+> CONTEXT: Map111/events/2/pages/0/297/Dialogue
+> CONTEXT: Map111/events/2/pages/0/402/Dialogue
+Clair. 「Risé, if martial arts tournament only comes out
+Everyone can come out」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「なあんだ、じゃあ記念に参加するだけの男なわけね。
+さすがに女相手にこんな体たらくの男が
+まともに勝ち抜けるわけないもんねぇ」
+> CONTEXT: Map111/events/2/pages/0/301/Dialogue
+> CONTEXT: Map111/events/2/pages/0/406/Dialogue
+Rise. 「Noza, then it's just a man to participate in the
+memorial. This guy like this is a woman opponent
+I can not beat it properly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ううっ……言いたい放題言われてるけど、
+実際、情けない結果に終わっちまったんだから
+仕方ない……）
+> CONTEXT: Map111/events/2/pages/0/306/Dialogue
+> CONTEXT: Map111/events/2/pages/0/411/Dialogue
+\\N[12]. (Uugh ... ... All you want to say is said,
+Actually, it ended up being a miserable result
+it can not be helped……)#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ふう、せっかく来てくれて悪いけれど……
+正直言って、期待はずれだったわね」
+> CONTEXT: Map111/events/2/pages/0/311/Dialogue
+> CONTEXT: Map111/events/2/pages/0/416/Dialogue
+Rana. 「Well, it's bad though I came all the way ......
+To be honest, I was disappointed」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ま、男をボコボコにできたことで
+自信もついたし、無駄ではなかったでしょ」
+> CONTEXT: Map111/events/2/pages/0/315/Dialogue
+Rise. 「Well, as I was able to be a man. I got confidence
+and I was not in vain」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「そうそう。
+なんか男の人相手でも怖くないかも、
+って思えてきちゃったー」
+> CONTEXT: Map111/events/2/pages/0/319/Dialogue
+Clair. 「Yes Yes. It may not be afraid even by a male
+person, I came to think of it」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「クレアが自信をつけられたのなら、
+まあ良かったのかな。
+でも……」
+> CONTEXT: Map111/events/2/pages/0/324/Dialogue
+Rana. 「If Clair was confident, Was it good?
+But ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「その程度で、よくもまあ
+兵士の稽古相手なんて依頼を受けようと思ったわね。
+これじゃ報酬は払い損みたいなものだし、どうしてくれるの？」
+> CONTEXT: Map111/events/2/pages/0/335/Dialogue
+Rana. 「To that extent, good evening. I thought of
+receiving a request for a soldier's lesson.
+In this case, the reward is like a loss of payment, and
+what will you do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「す、すみませんっ、不甲斐なくて……」
+> CONTEXT: Map111/events/2/pages/0/340/Dialogue
+\\N[12]. 「Sorry, I'm sorry, ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「あ、あたしにも踏ませてー」
+> CONTEXT: Map111/events/2/pages/0/343/Dialogue
+Rise. 「Oh, let me trouble you too -」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「私も私もー」
+> CONTEXT: Map111/events/2/pages/0/348/Dialogue
+Clair. 「I and I」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「弱い男を踏みつけるのって、
+なんか気持ちいいねー♪」
+> CONTEXT: Map111/events/2/pages/0/356/Dialogue
+Clair. 「To trample a weak man, I do not feel anything♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ふふっ、女によってたかって踏みつけられて、
+さぞ屈辱でしょうね。
+でも、キミが弱すぎるのが悪いんだからね」
+> CONTEXT: Map111/events/2/pages/0/360/Dialogue
+Rana. 「Fuhuu, trampled by a woman, I guess you are
+humiliated. But, it is bad that you are too weak」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「そんじゃ、あとはあたしらだけで稽古するから、
+キミはとっとと帰ってね」
+> CONTEXT: Map111/events/2/pages/0/365/Dialogue
+Rise. 「Then, since we practice only with us,
+You must go home naturally」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「ここはあくまで女子寮だもんねー
+ばいばい、よわっちい剣士クン♪」
+> CONTEXT: Map111/events/2/pages/0/369/Dialogue
+Clair. 「This is a girls' dorm to the end
+, Goodbye Swordsman Kung♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は女兵士三人に惨敗し、
+稽古相手としての役目を果たせず
+踏みつけられて嘲られた上で叩き出された……
+> CONTEXT: Map111/events/2/pages/0/374/Dialogue
+In this way, \\N[12] He was defeated by three female
+soldiers, I can not fulfill my role as a referee
+I was beaten up after being stepped on ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ううっ、女兵士ってあんなに強いのか……
+まるで歯が立たなかったけど、こんなことで
+俺、武道大会で通用するんだろうか。
+> CONTEXT: Map111/events/2/pages/0/384/Dialogue
+\\N[12]. (OHh, is a female soldier so strong ...?
+It was as if my teeth did not stand, but with this
+I wonder if it will pass in martial arts tournament.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼は終了扱いだから、
+いちおうギルドの受付に報告はしておかないとな……）
+> CONTEXT: Map111/events/2/pages/0/389/Dialogue
+Since the request is terminated, I have to report to the
+acceptance of the one guild ... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「にしても……
+悪いけど、たいしたことないねー、あんた。
+ホントに武道大会に出る選手なのー？」
+> CONTEXT: Map111/events/2/pages/0/397/Dialogue
+Rise. 「even if……. It's bad, but it's not a big deal, you.
+Is it really a player who will appear in the martial arts
+tournament?」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ま、あたしやクレアにとっては
+ちょうどいいレベルの相手だったし、
+クレアが男相手に自信つけたんなら、いいんじゃない？」
+> CONTEXT: Map111/events/2/pages/0/420/Dialogue
+Rise. 「Well, for me and Clair. It was just the right
+partner, If Clair got confidence in the male opponent, is
+not it okay?」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「そうそう。
+なんか、男の人もたいして怖くないのかも、
+って思えてきちゃった」
+> CONTEXT: Map111/events/2/pages/0/425/Dialogue
+Clair. 「Yes Yes. Somehow, a man is not too scary,
+I came to think of it」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「そう？
+それならまあ、よかったけど……
+じゃ、少しは報酬を支払っておきましょうか」
+> CONTEXT: Map111/events/2/pages/0/430/Dialogue
+Rana. 「so? Well, it was good, but ... Well, let's pay a
+little bit」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ありがとうございます……」
+> CONTEXT: Map111/events/2/pages/0/435/Dialogue
+\\N[12]. 「Oh, thank you……」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「そんじゃ、あとはあたしらだけで稽古するから、
+キミはとっとと出て行ってよね」
+> CONTEXT: Map111/events/2/pages/0/438/Dialogue
+Rise. 「Then, since we practice only with us,
+You are going to get away quickly」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「ここはあくまで女子寮だもんねー
+ばいばい、弱い剣士クン♪」
+> CONTEXT: Map111/events/2/pages/0/442/Dialogue
+Clair. 「This is a girls' dorm to the end
+, Weak swordsman Kung♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は女兵士三人に力を示せず、
+稽古相手としての役割を
+充分に果たせずに終わった……
+> CONTEXT: Map111/events/2/pages/0/447/Dialogue
+\\N[12] He could not show power to three female
+soldiers, Role as a training partner. It ended without
+being able to achieve enough ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（情けない結果になっちまった、女兵士があんな強いとは……
+ともあれ、依頼はいちおう完了扱いになるはずだから、
+ギルドの受付に報告しないと……）
+> CONTEXT: Map111/events/2/pages/0/456/Dialogue
+\\N[12]. (It became a miserable result, that a female
+soldier is such a strong ... ... Anyway, since the request
+will be handled completely, I have to report it to the
+receptionist of the guild ......)#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ラナは女兵士の中じゃトップクラスだもん。
+キミの腕ならもしかして、って思ったけど
+やっぱりかなわなかったか」
+> CONTEXT: Map111/events/2/pages/0/476/Dialogue
+Rise. 「Rana is a top class among female soldiers.
+I thought you might be your arms though. Did not it come
+true?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうだったんですか。
+それは、いい経験をさせてもらいました」
+> CONTEXT: Map111/events/2/pages/0/486/Dialogue
+\\N[12]. 「Well, was that so? That made me have a good
+experience」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「私としても、キミのような腕の立つ人が来てくれて
+とても助かったわ。
+武道大会の警備任務を前に、いい訓練になったと思う」
+> CONTEXT: Map111/events/2/pages/0/490/Dialogue
+Rana. 「Even I, someone with arms like you came
+It was very helpful. I think that it became a good training
+before the martial arts tournament security mission」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「あとはみんなで稽古して、お開きにしましょうか」
+> CONTEXT: Map111/events/2/pages/0/495/Dialogue
+Rana. 「Let's practice with others and leave it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（よしっ、依頼は完了だぜ。
+あとはギルドに報告して終わりだな。
+> CONTEXT: Map111/events/2/pages/0/526/Dialogue
+\\N[12]. (Yosh, the request is complete.
+The rest is over after reporting to the guild.#MTLed
+> END STRING
+
+> BEGIN STRING
+それにしても、あのラナって人、強かったなあ……
+負けたのは悔しいし、
+俺ももっと強くならなくては）
+> CONTEXT: Map111/events/2/pages/0/530/Dialogue
+Anyway, that person was strong, that Rana ... ...
+It is a shame that I lost, I must also be stronger)#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士ラナ
+「私は次のロイヤルガード選抜大会で優勝を狙っているわ。
+そのためには一人でも多くの強者と手合わせしたかったし、
+キミみたいな強い人が来てくれて嬉しかったわ」
+> CONTEXT: Map111/events/5/pages/0/0/Dialogue
+Female soldier Rana. 「I am trying to win the next royal
+guard selection tournament. For that I wanted to meet with
+as many as one strong man, I was glad that a strong person
+like you came.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士
+「すー……」
+> CONTEXT: Map111/events/6/pages/0/0/Dialogue
+Female soldier. 「Wow ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士クレア
+「あ、\\N[12]君、こないだはありがとね。
+わたし、もうちょっと強くなりたいなぁ。
+みんなの足を引っ張ってる気がするし」
+> CONTEXT: Map111/events/7/pages/0/0/Dialogue
+Female soldier Clair. 「Ah, \\N[12] Thank you, last time.
+I want to be a little stronger. I feel like I'm pulling
+everyone's legs」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士
+「寮が狭いのは男どもがいるからよ。
+この寮、女子専用にならないかしら」
+> CONTEXT: Map111/events/8/pages/0/0/Dialogue
+Female soldier. 「Because the dormitory is narrow because
+there are men. I wonder if this dorm will be exclusively
+for girls」#MTLed
+> END STRING

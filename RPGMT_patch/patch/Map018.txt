@@ -1,0 +1,408 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+東レストン海岸
+> CONTEXT: Map018/display_name/
+East Reston coast#MTLed
+> END STRING
+
+> BEGIN STRING
+『東レストン海岸』
+と書いてある。
+> CONTEXT: Map018/events/1/pages/0/0/Dialogue
+"East Reston coast". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「海もたまにはよいものだね。
+息子や娘が喜んでくれるのが
+なにより嬉しいんだ」
+> CONTEXT: Map018/events/4/pages/0/0/Dialogue
+old man. 「Ocean is something good once in a while.
+My son and daughter will be pleased. I am glad at all」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「すぐそこの橋を渡って北に行くと岩場があるでしょ？
+なんだか、そこから変なうなり声が聞こえるんだぁ。
+ちょっとこわかったなぁ」
+> CONTEXT: Map018/events/5/pages/0/0/Dialogue
+girl. 「If you cross the bridge and go north on the bridge
+there is a rocky place, do not you? Somehow, a strange
+voice is heard from there. I was a bit scared.」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「すっげー！　うみってひろいなー！」
+> CONTEXT: Map018/events/6/pages/0/0/Dialogue
+boy. 「Wow! Umi is sweet!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「岩場から風が吹いてきてるみたいなんだよなー
+どっかに入口があるぜ、絶対！」
+> CONTEXT: Map018/events/6/pages/1/0/Dialogue
+boy. 「It looks like the wind is blowing from the rocks
+Somewhere there is an entrance, absolutely!」#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人
+「私は西方から旅をしてきました。
+この国の海風は温かで心地がよいですね」
+> CONTEXT: Map018/events/7/pages/0/0/Dialogue
+traveller. 「I have traveled from the west.
+The sea breeze of this country is warm and comfortable」#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人
+「このあたりを見て回ったら、
+王都にも行ってみたいと思っているんですよ。
+噂に聞く武道大会、ぜひ観戦してみたいものです」
+> CONTEXT: Map018/events/7/pages/1/1/Dialogue
+traveller. 「When I look around this area,
+I am thinking of going to the Kingdom. Martial arts to hear
+rumors tournament, I definitely would like to watch the
+game」#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人
+「このあたりを見て回ったら、
+王都にも行ってみたいと思っているんですよ。
+え？　盗賊団に道が封鎖されているんですか？　弱ったなァ」
+> CONTEXT: Map018/events/7/pages/1/8/Dialogue
+traveller. 「When I look around this area,
+I am thinking of going to the Kingdom. Huh? Is the road
+blocked by the bandits? Weak weapon」#MTLed
+> END STRING
+
+> BEGIN STRING
+異国の旅人
+「セイレーンの歌声は魔性の響き……
+男がその声を聞けば抗うことはできず、
+膝を折るしかないと聞きます」
+> CONTEXT: Map018/events/7/pages/2/0/Dialogue
+A foreign traveler. 「Siren's singing voice resonates with
+magic ... ... If a man listens to his voice, he can not
+defend himself, I hear that you only have to break your
+knees」#MTLed
+> END STRING
+
+> BEGIN STRING
+異国の旅人
+「そろそろ冬の気配が近づいてきましたね。
+さて、次は北のリコシア王国でも目指すとしましょうか」
+> CONTEXT: Map018/events/7/pages/3/0/Dialogue
+A foreign traveler. 「It is almost time for winter signs to
+come. Well, let's suppose that I will also aim at the North
+Licosa kingdom」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おっ、潮溜まりに魚が何匹かいるようだな。
+ここで釣りをしてみるか？」
+> CONTEXT: Map018/events/8/pages/0/0/Dialogue
+\\N[12]. 「Oh, it seems there are some fish in the tidal
+pool. Will you try fishing here?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うぬぬ……
+こう、じっとしてるのは性に合わねぇ……
+いっそ手で捕っちまおうかな」
+> CONTEXT: Map018/events/8/pages/0/13/Dialogue
+\\N[12]. 「Inappropriate ... ... This is not suitable
+for sexuality ...... I might as well catch it by hand」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「かかったっ！
+よしっ、思いっきり釣り上げるっ！」
+> CONTEXT: Map018/events/8/pages/0/20/Dialogue
+\\N[12]. 「It took! Alright, I'll fish it up!」#MTLed
+> END STRING
+
+> BEGIN STRING
+マディンフィッシュ を釣り上げた！
+> CONTEXT: Map018/events/8/pages/0/25/Dialogue
+I caught maduin fish!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふーっ、なんとか釣れたか。
+この魚はサンプルになるかなぁ」
+> CONTEXT: Map018/events/8/pages/0/28/Dialogue
+> CONTEXT: Map018/events/14/pages/0/28/Dialogue
+\\N[12]. 「Huh, you managed to catch it? I wonder if
+this fish will be a sample」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おや……？」
+> CONTEXT: Map018/events/8/pages/0/37/Dialogue
+\\N[12]. 「Gee」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「魚が岩陰に消えた……
+そうか、あの洞窟にも自然の水路が通ってたもんな。
+あの中に行ったんだろう」
+> CONTEXT: Map018/events/8/pages/0/48/Dialogue
+\\N[12]. 「The fish disappeared in the shade of the rock
+...... That's right, a natural waterway passed through that
+cave. You probably went inside」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「魚が岩陰の方に消えた……
+あっちに何かあるのかな」
+> CONTEXT: Map018/events/8/pages/0/55/Dialogue
+\\N[12]. 「The fish disappeared toward the rocky side
+... ... I wonder if there is something there」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「別のポイントでやるか」
+> CONTEXT: Map018/events/8/pages/0/66/Dialogue
+> CONTEXT: Map018/events/12/pages/0/36/Dialogue
+> CONTEXT: Map018/events/13/pages/0/35/Dialogue
+> CONTEXT: Map018/events/14/pages/0/36/Dialogue
+\\N[12]. 「Do it at another point?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、こんなところに洞窟があったのか。
+入ってみるとするか」
+> CONTEXT: Map018/events/9/pages/0/1/Dialogue
+\\N[12]. 「Did you have a cave in such a place?
+I guess I should try it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（今はこんなところに来てる場合じゃないな）
+> CONTEXT: Map018/events/9/pages/2/0/Dialogue
+\\N[12]. (It is not the case that you are coming to this
+place now.)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんか、この岩は動かせそうだな」
+> CONTEXT: Map018/events/10/pages/0/0/Dialogue
+> CONTEXT: Map018/events/10/pages/1/0/Dialogue
+\\N[12]. 「Something, this rock seems to move」#MTLed
+> END STRING
+
+> BEGIN STRING
+押してみる
+> CONTEXT: Map018/events/10/pages/0/3/Choice/0
+> CONTEXT: Map018/events/10/pages/1/6/Choice/0
+To push#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぬっ……うおおおおーーーーっ！」
+> CONTEXT: Map018/events/10/pages/0/7/Dialogue
+> CONTEXT: Map018/events/10/pages/1/8/Dialogue
+\\N[12]. 「Cool ...... Ooooooooooooooooooooo!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふう、これで通れるようになったが……
+この先に、なにかあるんだろうか」
+> CONTEXT: Map018/events/10/pages/0/18/Dialogue
+\\N[12]. 「Well, I came to be able to pass by this ...
+... I wonder if there is anything to come」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……うおおおおぉぉっ！」
+> CONTEXT: Map018/events/10/pages/0/24/Dialogue
+\\N[12]. 「Cut ...... Ooooooooooo!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ダメだ、動かない。
+もっと力をつけてから、また来てみるか」
+> CONTEXT: Map018/events/10/pages/0/28/Dialogue
+\\N[12]. 「It is useless, it will not move.
+Do you try to come again after putting more effort」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まあいいや、こんな岩を動かしたところで
+べつにいいこともないだろうし」
+> CONTEXT: Map018/events/10/pages/0/36/Dialogue
+\\N[12]. 「Okay, I moved this rock. There will not be
+any good things」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「いっしょに押してみようか？」
+> CONTEXT: Map018/events/10/pages/1/3/Dialogue
+Purim. 「Shall we press it together?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ええーーいっ！」
+> CONTEXT: Map018/events/10/pages/1/11/Dialogue
+Purim. 「Well!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「やったぁ、こんな大きな岩を動かしちゃった！
+おにいさん、力あるんだねー！」
+> CONTEXT: Map018/events/10/pages/1/22/Dialogue
+Purim. 「I did it, I moved such a big rock!
+Hey, there is power!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いや、たぶん一人じゃ難しかったさ、
+プリムがいてくれたおかげだ。
+> CONTEXT: Map018/events/10/pages/1/26/Dialogue
+\\N[12]. 「No, probably it was difficult by one person,
+I owe it to Purim.#MTLed
+> END STRING
+
+> BEGIN STRING
+それにしても、これで道ができたが……
+この先に、なにかあるかな？」
+> CONTEXT: Map018/events/10/pages/1/30/Dialogue
+Even so, although this made a way ... ...
+Is there anything further down there?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まあやめておこう、こんな岩を動かしたところで
+べつにいいこともないだろうしな」
+> CONTEXT: Map018/events/10/pages/1/35/Dialogue
+\\N[12]. 「Well let's stop it, I moved this rock
+I guess there will not be any good things」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「このへんで釣ってみようかな？」
+> CONTEXT: Map018/events/12/pages/0/0/Dialogue
+> CONTEXT: Map018/events/13/pages/0/0/Dialogue
+\\N[12]. 「Let's try to catch it with this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふあぁ……
+なかなか釣れないなぁ……」
+> CONTEXT: Map018/events/12/pages/0/12/Dialogue
+\\N[12]. 「Fua ... .... I can not catch it ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「かかったっ！
+うっ……おっ、重いっ！」
+> CONTEXT: Map018/events/12/pages/0/18/Dialogue
+\\N[12]. 「It took! Uh ...... Hey, heavy!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くそっ、負けるかっ！
+ぬっ、ぬおおおおーーーっ！」
+> CONTEXT: Map018/events/12/pages/0/22/Dialogue
+\\N[12]. 「Damn, you can lose! N, Ooooooooooooooooooooo!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サンゴ を釣り上げた！
+> CONTEXT: Map018/events/12/pages/0/27/Dialogue
+I caught a coral!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「海魚かぁ。
+釣れたら、俺もひとつ食ってみたいもんだ」
+> CONTEXT: Map018/events/13/pages/0/12/Dialogue
+\\N[12]. 「Is it sea fish? I want to try one if I can
+catch it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「かかったっ！
+よしっ、いただき！」
+> CONTEXT: Map018/events/13/pages/0/18/Dialogue
+\\N[12]. 「It took! Alright, let's have it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+レストニアオクトパス を釣り上げた！
+> CONTEXT: Map018/events/13/pages/0/23/Dialogue
+I caught restonian octopus!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「タコかぁ……
+まあ、一応持っていってみるか」
+> CONTEXT: Map018/events/13/pages/0/27/Dialogue
+\\N[12]. 「Octopus ...... Well, why do not you bring it
+in for a moment」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ここは汽水域ってやつか。
+このへんで釣ってみようかな？」
+> CONTEXT: Map018/events/14/pages/0/0/Dialogue
+\\N[12]. 「Is this brackish water area here?
+Let's try to catch it with this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……………………
+………………………」
+> CONTEXT: Map018/events/14/pages/0/13/Dialogue
+\\N[12]. 「........................ 
+...........................」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おっしゃ、かかったぜ！」
+> CONTEXT: Map018/events/14/pages/0/19/Dialogue
+\\N[12]. 「You said, it took!」#MTLed
+> END STRING
+
+> BEGIN STRING
+パルムフィッシュ を釣り上げた！
+> CONTEXT: Map018/events/14/pages/0/23/Dialogue
+I caught a palm fish!#MTLed
+> END STRING

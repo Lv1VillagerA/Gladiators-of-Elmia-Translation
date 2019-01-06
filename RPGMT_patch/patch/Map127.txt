@@ -1,0 +1,786 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大精神薬を手に入れた！
+> CONTEXT: Map127/events/3/pages/0/9/Dialogue
+> CONTEXT: Map116/events/18/pages/0/9/Dialogue
+> CONTEXT: Map105/events/19/pages/0/9/Dialogue
+> CONTEXT: Map098/events/4/pages/0/9/Dialogue
+> CONTEXT: Map071/events/47/pages/0/9/Dialogue
+I got a psychoactive medicine!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐうっ……！」
+> CONTEXT: Map127/events/4/pages/0/17/Dialogue
+> CONTEXT: Map127/events/5/pages/0/17/Dialogue
+> CONTEXT: Map119/events/21/pages/0/16/Dialogue
+> CONTEXT: Map119/events/22/pages/0/16/Dialogue
+> CONTEXT: Map097/events/19/pages/0/17/Dialogue
+> CONTEXT: Map092/events/21/pages/0/227/Dialogue
+> CONTEXT: Map097/events/25/pages/0/17/Dialogue
+> CONTEXT: Map075/events/6/pages/0/17/Dialogue
+> CONTEXT: Map097/events/26/pages/0/17/Dialogue
+> CONTEXT: Map075/events/7/pages/0/17/Dialogue
+> CONTEXT: Map075/events/16/pages/0/17/Dialogue
+> CONTEXT: Map075/events/17/pages/0/17/Dialogue
+> CONTEXT: Map075/events/21/pages/0/17/Dialogue
+> CONTEXT: Map069/events/25/pages/0/16/Dialogue
+> CONTEXT: Map075/events/22/pages/0/17/Dialogue
+> CONTEXT: Map071/events/30/pages/0/16/Dialogue
+> CONTEXT: Map071/events/31/pages/0/16/Dialogue
+> CONTEXT: Map071/events/32/pages/0/16/Dialogue
+\\N[12]. 「So ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミア
+「ふふっ、この程度なのかしら？」
+> CONTEXT: Map127/events/4/pages/0/21/Dialogue
+> CONTEXT: Map127/events/5/pages/0/21/Dialogue
+> CONTEXT: Map097/events/19/pages/0/21/Dialogue
+> CONTEXT: Map097/events/25/pages/0/21/Dialogue
+> CONTEXT: Map075/events/6/pages/0/21/Dialogue
+> CONTEXT: Map097/events/26/pages/0/21/Dialogue
+> CONTEXT: Map075/events/7/pages/0/21/Dialogue
+> CONTEXT: Map075/events/16/pages/0/21/Dialogue
+> CONTEXT: Map075/events/17/pages/0/21/Dialogue
+> CONTEXT: Map075/events/21/pages/0/21/Dialogue
+> CONTEXT: Map075/events/22/pages/0/21/Dialogue
+lamia. 「Huh, is this the level?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミアは、\\N[12]の体に
+尻尾を巻き付けて強烈に絞め上げてくる！
+> CONTEXT: Map127/events/4/pages/0/33/Dialogue
+> CONTEXT: Map127/events/5/pages/0/33/Dialogue
+> CONTEXT: Map097/events/19/pages/0/33/Dialogue
+> CONTEXT: Map097/events/25/pages/0/33/Dialogue
+> CONTEXT: Map075/events/6/pages/0/33/Dialogue
+> CONTEXT: Map097/events/26/pages/0/33/Dialogue
+> CONTEXT: Map075/events/7/pages/0/33/Dialogue
+> CONTEXT: Map075/events/16/pages/0/33/Dialogue
+> CONTEXT: Map075/events/17/pages/0/33/Dialogue
+> CONTEXT: Map075/events/21/pages/0/33/Dialogue
+> CONTEXT: Map075/events/22/pages/0/33/Dialogue
+Lamia, \\N[12] In the body. It wraps up the tail and
+pushes it up intensely!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐあああああぁぁっ！」
+> CONTEXT: Map127/events/4/pages/0/37/Dialogue
+> CONTEXT: Map127/events/5/pages/0/37/Dialogue
+> CONTEXT: Map097/events/19/pages/0/37/Dialogue
+> CONTEXT: Map097/events/25/pages/0/37/Dialogue
+> CONTEXT: Map075/events/6/pages/0/37/Dialogue
+> CONTEXT: Map097/events/26/pages/0/37/Dialogue
+> CONTEXT: Map075/events/7/pages/0/37/Dialogue
+> CONTEXT: Map075/events/16/pages/0/37/Dialogue
+> CONTEXT: Map075/events/17/pages/0/37/Dialogue
+> CONTEXT: Map075/events/21/pages/0/37/Dialogue
+> CONTEXT: Map075/events/22/pages/0/37/Dialogue
+\\N[12]. 「ghaarghhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミア
+「私の力に抗えないの？
+それとも、おっぱいを押し付けられてるから
+力が入らないのかしら？　クスクス……♪」
+> CONTEXT: Map127/events/4/pages/0/41/Dialogue
+> CONTEXT: Map127/events/5/pages/0/41/Dialogue
+> CONTEXT: Map097/events/19/pages/0/41/Dialogue
+> CONTEXT: Map097/events/25/pages/0/41/Dialogue
+> CONTEXT: Map075/events/6/pages/0/41/Dialogue
+> CONTEXT: Map097/events/26/pages/0/41/Dialogue
+> CONTEXT: Map075/events/7/pages/0/41/Dialogue
+> CONTEXT: Map075/events/16/pages/0/41/Dialogue
+> CONTEXT: Map075/events/17/pages/0/41/Dialogue
+> CONTEXT: Map075/events/21/pages/0/41/Dialogue
+> CONTEXT: Map075/events/22/pages/0/41/Dialogue
+lamia. 「Can not you stand against my power?
+Or I'm being pressed on my breasts. I wonder if the power
+does not enter?* Giggle * ......♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そんなのっ、感じてる余裕があるわけがっ……！
+うっ、あああああぁぁぁっ！」
+> CONTEXT: Map127/events/4/pages/0/48/Dialogue
+> CONTEXT: Map127/events/5/pages/0/48/Dialogue
+> CONTEXT: Map097/events/19/pages/0/48/Dialogue
+> CONTEXT: Map097/events/25/pages/0/48/Dialogue
+> CONTEXT: Map075/events/6/pages/0/48/Dialogue
+> CONTEXT: Map097/events/26/pages/0/48/Dialogue
+> CONTEXT: Map075/events/7/pages/0/48/Dialogue
+> CONTEXT: Map075/events/16/pages/0/48/Dialogue
+> CONTEXT: Map075/events/17/pages/0/48/Dialogue
+> CONTEXT: Map075/events/21/pages/0/48/Dialogue
+> CONTEXT: Map075/events/22/pages/0/48/Dialogue
+\\N[12]. 「That's what I feel, I can afford ... ....!
+Uh, Aaaaaahhhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はラミアの尻尾を振りほどけず、
+一方的に締め上げられるだけになっていた。
+> CONTEXT: Map127/events/4/pages/0/52/Dialogue
+> CONTEXT: Map127/events/5/pages/0/52/Dialogue
+> CONTEXT: Map097/events/19/pages/0/52/Dialogue
+> CONTEXT: Map097/events/25/pages/0/52/Dialogue
+> CONTEXT: Map075/events/6/pages/0/52/Dialogue
+> CONTEXT: Map097/events/26/pages/0/52/Dialogue
+> CONTEXT: Map075/events/7/pages/0/52/Dialogue
+> CONTEXT: Map075/events/16/pages/0/52/Dialogue
+> CONTEXT: Map075/events/17/pages/0/52/Dialogue
+> CONTEXT: Map075/events/21/pages/0/52/Dialogue
+> CONTEXT: Map075/events/22/pages/0/52/Dialogue
+\\N[12] He could not sway the tail of lamia,
+It was only unilaterally tightened up.#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミア
+「どうやら、もう抵抗できないようね。
+ま、人間ごときが私に勝てるはずがないけれど」
+> CONTEXT: Map127/events/4/pages/0/55/Dialogue
+> CONTEXT: Map127/events/5/pages/0/55/Dialogue
+> CONTEXT: Map097/events/19/pages/0/55/Dialogue
+> CONTEXT: Map097/events/25/pages/0/55/Dialogue
+> CONTEXT: Map075/events/6/pages/0/55/Dialogue
+> CONTEXT: Map097/events/26/pages/0/55/Dialogue
+> CONTEXT: Map075/events/7/pages/0/55/Dialogue
+> CONTEXT: Map075/events/16/pages/0/55/Dialogue
+> CONTEXT: Map075/events/17/pages/0/55/Dialogue
+> CONTEXT: Map075/events/21/pages/0/55/Dialogue
+> CONTEXT: Map075/events/22/pages/0/55/Dialogue
+lamia. 「Apparently, I can not resist it anymore.
+Well, as human beings can not beat me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……はぁ、はぁっ……」
+> CONTEXT: Map127/events/4/pages/0/59/Dialogue
+> CONTEXT: Map127/events/5/pages/0/59/Dialogue
+> CONTEXT: Map097/events/19/pages/0/59/Dialogue
+> CONTEXT: Map097/events/25/pages/0/59/Dialogue
+> CONTEXT: Map075/events/6/pages/0/59/Dialogue
+> CONTEXT: Map097/events/26/pages/0/59/Dialogue
+> CONTEXT: Map075/events/7/pages/0/59/Dialogue
+> CONTEXT: Map075/events/16/pages/0/59/Dialogue
+> CONTEXT: Map075/events/17/pages/0/59/Dialogue
+> CONTEXT: Map075/events/21/pages/0/59/Dialogue
+> CONTEXT: Map075/events/22/pages/0/59/Dialogue
+\\N[12]. 「Ugh ...... Ah, Ahh ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミア
+「今や、この地下水道は私たちのテリトリー。
+ここがどうなっているかも知らず、
+不用意に迷い込んできたのが悪いのよ、坊や」
+> CONTEXT: Map127/events/4/pages/0/62/Dialogue
+> CONTEXT: Map127/events/5/pages/0/62/Dialogue
+> CONTEXT: Map097/events/19/pages/0/62/Dialogue
+> CONTEXT: Map097/events/25/pages/0/62/Dialogue
+> CONTEXT: Map075/events/6/pages/0/62/Dialogue
+> CONTEXT: Map097/events/26/pages/0/62/Dialogue
+> CONTEXT: Map075/events/7/pages/0/62/Dialogue
+> CONTEXT: Map075/events/16/pages/0/62/Dialogue
+> CONTEXT: Map075/events/17/pages/0/62/Dialogue
+> CONTEXT: Map075/events/21/pages/0/62/Dialogue
+> CONTEXT: Map075/events/22/pages/0/62/Dialogue
+lamia. 「This underground tap is now our territory.
+I do not even know what is going on here,
+It is bad that you came in unintentionally, the boy」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだと……
+いったい、どうしてそんなことに……」
+> CONTEXT: Map127/events/4/pages/0/67/Dialogue
+> CONTEXT: Map127/events/5/pages/0/67/Dialogue
+> CONTEXT: Map097/events/19/pages/0/67/Dialogue
+> CONTEXT: Map097/events/25/pages/0/67/Dialogue
+> CONTEXT: Map075/events/6/pages/0/67/Dialogue
+> CONTEXT: Map097/events/26/pages/0/67/Dialogue
+> CONTEXT: Map075/events/7/pages/0/67/Dialogue
+> CONTEXT: Map075/events/16/pages/0/67/Dialogue
+> CONTEXT: Map075/events/17/pages/0/67/Dialogue
+> CONTEXT: Map075/events/21/pages/0/67/Dialogue
+> CONTEXT: Map075/events/22/pages/0/67/Dialogue
+\\N[12]. 「What, what .... Why on earth, why ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミア
+「私たちのような魔物がここにいるのは人間の行いのせい。
+あなたは今から私に喰われることになるけれど、
+自らの行いの報いと思うことね」
+> CONTEXT: Map127/events/4/pages/0/71/Dialogue
+> CONTEXT: Map127/events/5/pages/0/71/Dialogue
+> CONTEXT: Map097/events/19/pages/0/71/Dialogue
+> CONTEXT: Map097/events/25/pages/0/71/Dialogue
+> CONTEXT: Map075/events/6/pages/0/71/Dialogue
+> CONTEXT: Map097/events/26/pages/0/71/Dialogue
+> CONTEXT: Map075/events/7/pages/0/71/Dialogue
+> CONTEXT: Map075/events/16/pages/0/71/Dialogue
+> CONTEXT: Map075/events/17/pages/0/71/Dialogue
+> CONTEXT: Map075/events/21/pages/0/71/Dialogue
+> CONTEXT: Map075/events/22/pages/0/71/Dialogue
+lamia. 「It is because of human actions that monster like
+us is here. Although you will be eaten by me now,
+It is a reward for your own actions」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「く、喰われ……
+そんな、い、嫌だ……！」
+> CONTEXT: Map127/events/4/pages/0/76/Dialogue
+> CONTEXT: Map127/events/5/pages/0/76/Dialogue
+> CONTEXT: Map097/events/19/pages/0/76/Dialogue
+> CONTEXT: Map097/events/25/pages/0/76/Dialogue
+> CONTEXT: Map075/events/6/pages/0/76/Dialogue
+> CONTEXT: Map097/events/26/pages/0/76/Dialogue
+> CONTEXT: Map075/events/7/pages/0/76/Dialogue
+> CONTEXT: Map075/events/16/pages/0/76/Dialogue
+> CONTEXT: Map075/events/17/pages/0/76/Dialogue
+> CONTEXT: Map075/events/21/pages/0/76/Dialogue
+> CONTEXT: Map075/events/22/pages/0/76/Dialogue
+\\N[12]. 「It is eaten ... ... I do not like that ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミア
+「今さら遅いわよ、ふふっ……
+若い男の子の肉、とってもおいしそうね。
+いただきます……♪」
+> CONTEXT: Map127/events/4/pages/0/80/Dialogue
+> CONTEXT: Map127/events/5/pages/0/80/Dialogue
+> CONTEXT: Map097/events/19/pages/0/80/Dialogue
+> CONTEXT: Map097/events/25/pages/0/80/Dialogue
+> CONTEXT: Map075/events/6/pages/0/80/Dialogue
+> CONTEXT: Map097/events/26/pages/0/80/Dialogue
+> CONTEXT: Map075/events/7/pages/0/80/Dialogue
+> CONTEXT: Map075/events/16/pages/0/80/Dialogue
+> CONTEXT: Map075/events/17/pages/0/80/Dialogue
+> CONTEXT: Map075/events/21/pages/0/80/Dialogue
+> CONTEXT: Map075/events/22/pages/0/80/Dialogue
+lamia. 「It is too late now, heh .... The meat of a young
+boy seems to be very delicious. Let us eat♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う……うわあああぁぁ……！」
+> CONTEXT: Map127/events/4/pages/0/85/Dialogue
+> CONTEXT: Map127/events/5/pages/0/85/Dialogue
+> CONTEXT: Map097/events/19/pages/0/85/Dialogue
+> CONTEXT: Map097/events/25/pages/0/85/Dialogue
+> CONTEXT: Map075/events/6/pages/0/85/Dialogue
+> CONTEXT: Map097/events/26/pages/0/85/Dialogue
+> CONTEXT: Map075/events/7/pages/0/85/Dialogue
+> CONTEXT: Map075/events/16/pages/0/85/Dialogue
+> CONTEXT: Map075/events/17/pages/0/85/Dialogue
+> CONTEXT: Map075/events/21/pages/0/85/Dialogue
+> CONTEXT: Map075/events/22/pages/0/85/Dialogue
+\\N[12]. 「Well ...... no aaahh ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]はラミアの圧倒的な力の前に
+締め上げられて屈し――
+そのまま捕食され、人知れず生を終えた……
+> CONTEXT: Map127/events/4/pages/0/91/Dialogue
+> CONTEXT: Map127/events/5/pages/0/91/Dialogue
+> CONTEXT: Map097/events/19/pages/0/91/Dialogue
+> CONTEXT: Map097/events/25/pages/0/91/Dialogue
+> CONTEXT: Map075/events/6/pages/0/91/Dialogue
+> CONTEXT: Map097/events/26/pages/0/91/Dialogue
+> CONTEXT: Map075/events/7/pages/0/91/Dialogue
+> CONTEXT: Map075/events/16/pages/0/91/Dialogue
+> CONTEXT: Map075/events/17/pages/0/91/Dialogue
+> CONTEXT: Map075/events/21/pages/0/91/Dialogue
+> CONTEXT: Map075/events/22/pages/0/91/Dialogue
+In this way, \\N[12] Before lamia's overwhelming power
+Tightened up and give in -. It was predated as it was,
+unexpectedly finished life ...#MTLed
+> END STRING
+
+> BEGIN STRING
+メイジラミアは\\N[12]に電撃を浴びせながら
+尾で彼の体を締め上げる！
+> CONTEXT: Map127/events/4/pages/2/18/Dialogue
+> CONTEXT: Map127/events/5/pages/2/18/Dialogue
+> CONTEXT: Map119/events/16/pages/0/18/Dialogue
+> CONTEXT: Map119/events/17/pages/0/18/Dialogue
+> CONTEXT: Map119/events/19/pages/0/18/Dialogue
+> CONTEXT: Map097/events/17/pages/0/23/Dialogue
+> CONTEXT: Map097/events/19/pages/2/18/Dialogue
+> CONTEXT: Map097/events/25/pages/2/18/Dialogue
+> CONTEXT: Map075/events/6/pages/2/18/Dialogue
+> CONTEXT: Map097/events/26/pages/2/18/Dialogue
+> CONTEXT: Map075/events/7/pages/2/18/Dialogue
+> CONTEXT: Map075/events/21/pages/2/18/Dialogue
+lamia mage \\N[12] While shooting electric shocks
+Tighten his body with the tail!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あぐっ、ううっ……」
+> CONTEXT: Map127/events/4/pages/2/23/Dialogue
+> CONTEXT: Map127/events/5/pages/2/23/Dialogue
+> CONTEXT: Map119/events/16/pages/0/23/Dialogue
+> CONTEXT: Map119/events/17/pages/0/23/Dialogue
+> CONTEXT: Map119/events/19/pages/0/23/Dialogue
+> CONTEXT: Map097/events/17/pages/0/28/Dialogue
+> CONTEXT: Map097/events/19/pages/2/23/Dialogue
+> CONTEXT: Map097/events/25/pages/2/23/Dialogue
+> CONTEXT: Map075/events/6/pages/2/23/Dialogue
+> CONTEXT: Map097/events/26/pages/2/23/Dialogue
+> CONTEXT: Map075/events/7/pages/2/23/Dialogue
+> CONTEXT: Map075/events/21/pages/2/23/Dialogue
+> CONTEXT: Map147/events/2/pages/6/144/Dialogue
+> CONTEXT: Map147/events/2/pages/6/154/Dialogue
+> CONTEXT: Map147/events/2/pages/6/339/Dialogue
+> CONTEXT: Map147/events/24/pages/0/674/Dialogue
+\\N[12]. 「Thanks, uugh ...」#MTLed
+> CONTEXT: Commonevents/4/19/Dialogue
+> CONTEXT: Commonevents/258/19/Dialogue
+\\N[12]. 「Thanks, uugh ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイジラミア
+「ふふっ、どうしたの？
+ぐったりとしちゃって、
+もう抵抗できないのかしら？
+> CONTEXT: Map127/events/4/pages/2/27/Dialogue
+> CONTEXT: Map127/events/5/pages/2/27/Dialogue
+> CONTEXT: Map119/events/16/pages/0/27/Dialogue
+> CONTEXT: Map119/events/17/pages/0/27/Dialogue
+> CONTEXT: Map119/events/19/pages/0/27/Dialogue
+> CONTEXT: Map097/events/17/pages/0/32/Dialogue
+> CONTEXT: Map097/events/19/pages/2/27/Dialogue
+> CONTEXT: Map097/events/25/pages/2/27/Dialogue
+> CONTEXT: Map075/events/6/pages/2/27/Dialogue
+> CONTEXT: Map097/events/26/pages/2/27/Dialogue
+> CONTEXT: Map075/events/7/pages/2/27/Dialogue
+> CONTEXT: Map075/events/21/pages/2/27/Dialogue
+lamia mage. 「Huh, what happened? I'm tired,
+I wonder if I can resist it any longer?#MTLed
+> END STRING
+
+> BEGIN STRING
+まあ、ラミアの尾に締め上げられながら
+電撃を食らってはね。
+人間ごときの力じゃ耐えられるはずもないか」
+> CONTEXT: Map127/events/4/pages/2/32/Dialogue
+> CONTEXT: Map127/events/5/pages/2/32/Dialogue
+> CONTEXT: Map119/events/16/pages/0/32/Dialogue
+> CONTEXT: Map119/events/17/pages/0/32/Dialogue
+> CONTEXT: Map119/events/19/pages/0/32/Dialogue
+> CONTEXT: Map097/events/17/pages/0/37/Dialogue
+> CONTEXT: Map097/events/19/pages/2/32/Dialogue
+> CONTEXT: Map097/events/25/pages/2/32/Dialogue
+> CONTEXT: Map075/events/6/pages/2/32/Dialogue
+> CONTEXT: Map097/events/26/pages/2/32/Dialogue
+> CONTEXT: Map075/events/7/pages/2/32/Dialogue
+> CONTEXT: Map075/events/21/pages/2/32/Dialogue
+Well, being tightened up to the lamia's tail
+Do not take electric shock. You can not bear with the power
+of human beings」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、くそっ……
+はぁ、はぁっ……」
+> CONTEXT: Map127/events/4/pages/2/45/Dialogue
+> CONTEXT: Map127/events/5/pages/2/45/Dialogue
+> CONTEXT: Map119/events/16/pages/0/45/Dialogue
+> CONTEXT: Map119/events/17/pages/0/45/Dialogue
+> CONTEXT: Map119/events/19/pages/0/45/Dialogue
+> CONTEXT: Map097/events/17/pages/0/50/Dialogue
+> CONTEXT: Map097/events/19/pages/2/45/Dialogue
+> CONTEXT: Map097/events/25/pages/2/45/Dialogue
+> CONTEXT: Map075/events/6/pages/2/45/Dialogue
+> CONTEXT: Map097/events/26/pages/2/45/Dialogue
+> CONTEXT: Map075/events/7/pages/2/45/Dialogue
+> CONTEXT: Map075/events/21/pages/2/45/Dialogue
+\\N[12]. 「Come, damn ...... Ah, Ahh ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイジラミア
+「このまま締め殺してあげてもいいんだけど、
+せっかくだし、もう少し痛めつけてあげるわ」
+> CONTEXT: Map127/events/4/pages/2/49/Dialogue
+> CONTEXT: Map127/events/5/pages/2/49/Dialogue
+> CONTEXT: Map119/events/16/pages/0/49/Dialogue
+> CONTEXT: Map119/events/17/pages/0/49/Dialogue
+> CONTEXT: Map119/events/19/pages/0/49/Dialogue
+> CONTEXT: Map097/events/17/pages/0/54/Dialogue
+> CONTEXT: Map097/events/19/pages/2/49/Dialogue
+> CONTEXT: Map097/events/25/pages/2/49/Dialogue
+> CONTEXT: Map075/events/6/pages/2/49/Dialogue
+> CONTEXT: Map097/events/26/pages/2/49/Dialogue
+> CONTEXT: Map075/events/7/pages/2/49/Dialogue
+> CONTEXT: Map075/events/21/pages/2/49/Dialogue
+lamia mage. 「You can just kill it as it is,
+It's been awkward and I'm going to hurt a little more.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐああああぁぁっ！」
+> CONTEXT: Map127/events/4/pages/2/55/Dialogue
+> CONTEXT: Map127/events/5/pages/2/55/Dialogue
+> CONTEXT: Map119/events/16/pages/0/55/Dialogue
+> CONTEXT: Map119/events/17/pages/0/55/Dialogue
+> CONTEXT: Map119/events/19/pages/0/55/Dialogue
+> CONTEXT: Map097/events/17/pages/0/60/Dialogue
+> CONTEXT: Map097/events/19/pages/2/55/Dialogue
+> CONTEXT: Map097/events/25/pages/2/55/Dialogue
+> CONTEXT: Map075/events/6/pages/2/55/Dialogue
+> CONTEXT: Map097/events/26/pages/2/55/Dialogue
+> CONTEXT: Map075/events/7/pages/2/55/Dialogue
+> CONTEXT: Map075/events/21/pages/2/55/Dialogue
+\\N[12]. 「ghaarghhh!」#MTLed
+> CONTEXT: Commonevents/183/99/Dialogue
+> CONTEXT: Commonevents/243/109/Dialogue
+\\N[12]. 「ghaarghhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイジラミア
+「そうそう、いい声で鳴きなさい。
+人間の若い男の子が悶え苦しむ声、
+とても甘美だわ。たまらなくゾクゾクしちゃう」
+> CONTEXT: Map127/events/4/pages/2/58/Dialogue
+> CONTEXT: Map127/events/5/pages/2/58/Dialogue
+> CONTEXT: Map119/events/16/pages/0/58/Dialogue
+> CONTEXT: Map119/events/17/pages/0/58/Dialogue
+> CONTEXT: Map119/events/19/pages/0/58/Dialogue
+> CONTEXT: Map097/events/17/pages/0/63/Dialogue
+> CONTEXT: Map097/events/19/pages/2/58/Dialogue
+> CONTEXT: Map097/events/25/pages/2/58/Dialogue
+> CONTEXT: Map075/events/6/pages/2/58/Dialogue
+> CONTEXT: Map097/events/26/pages/2/58/Dialogue
+> CONTEXT: Map075/events/7/pages/2/58/Dialogue
+> CONTEXT: Map075/events/21/pages/2/58/Dialogue
+lamia mage. 「Oh yeah, squeal in a good voice.
+A voice that a young boy suffers agitated,
+It is very sweet.I will tremble unbearably」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐううっ……は、放せっ！」
+> CONTEXT: Map127/events/4/pages/2/63/Dialogue
+> CONTEXT: Map127/events/5/pages/2/63/Dialogue
+> CONTEXT: Map119/events/16/pages/0/63/Dialogue
+> CONTEXT: Map119/events/17/pages/0/63/Dialogue
+> CONTEXT: Map119/events/19/pages/0/63/Dialogue
+> CONTEXT: Map097/events/17/pages/0/68/Dialogue
+> CONTEXT: Map097/events/19/pages/2/63/Dialogue
+> CONTEXT: Map097/events/25/pages/2/63/Dialogue
+> CONTEXT: Map075/events/6/pages/2/63/Dialogue
+> CONTEXT: Map097/events/26/pages/2/63/Dialogue
+> CONTEXT: Map075/events/7/pages/2/63/Dialogue
+> CONTEXT: Map075/events/21/pages/2/63/Dialogue
+\\N[12]. 「Ugh uugh ... ..., let's go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイジラミア
+「あら、もう私が慈悲をかけなければ脱出できないくせに、
+よくそんな攻撃的な口が叩けるわね。
+しかも、下半身は勃起しちゃってるくせに」
+> CONTEXT: Map127/events/4/pages/2/66/Dialogue
+> CONTEXT: Map127/events/5/pages/2/66/Dialogue
+> CONTEXT: Map119/events/16/pages/0/66/Dialogue
+> CONTEXT: Map119/events/17/pages/0/66/Dialogue
+> CONTEXT: Map119/events/19/pages/0/66/Dialogue
+> CONTEXT: Map097/events/17/pages/0/71/Dialogue
+> CONTEXT: Map097/events/19/pages/2/66/Dialogue
+> CONTEXT: Map097/events/25/pages/2/66/Dialogue
+> CONTEXT: Map075/events/6/pages/2/66/Dialogue
+> CONTEXT: Map097/events/26/pages/2/66/Dialogue
+> CONTEXT: Map075/events/7/pages/2/66/Dialogue
+> CONTEXT: Map075/events/21/pages/2/66/Dialogue
+lamia mage. 「Oh, no I can not escape without compassion,
+Such an offensive mouth can beat well. Moreover, although
+the lower body is erecting」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイジラミアに胸を押し付けられている上、
+彼女の女性的な匂いを嗅がされていたことで
+\\N[12]はいつしか勃起してしまっていたのだった。
+> CONTEXT: Map127/events/4/pages/2/74/Dialogue
+> CONTEXT: Map127/events/5/pages/2/74/Dialogue
+> CONTEXT: Map119/events/16/pages/0/74/Dialogue
+> CONTEXT: Map119/events/17/pages/0/74/Dialogue
+> CONTEXT: Map119/events/19/pages/0/74/Dialogue
+> CONTEXT: Map097/events/17/pages/0/79/Dialogue
+> CONTEXT: Map097/events/19/pages/2/74/Dialogue
+> CONTEXT: Map097/events/25/pages/2/74/Dialogue
+> CONTEXT: Map075/events/6/pages/2/74/Dialogue
+> CONTEXT: Map097/events/26/pages/2/74/Dialogue
+> CONTEXT: Map075/events/7/pages/2/74/Dialogue
+> CONTEXT: Map075/events/21/pages/2/74/Dialogue
+Breasts are pressed on lamia mage, By being smelled of her
+feminine smell. \\N[12] He had erected everyday.#MTLed
+> END STRING
+
+> BEGIN STRING
+メイジラミア
+「魔物のおっぱいで興奮しちゃうだなんて、
+とんだ変態ね。いつ殺されるかも分からない状況なのに」
+> CONTEXT: Map127/events/4/pages/2/78/Dialogue
+> CONTEXT: Map127/events/5/pages/2/78/Dialogue
+> CONTEXT: Map119/events/16/pages/0/78/Dialogue
+> CONTEXT: Map119/events/17/pages/0/78/Dialogue
+> CONTEXT: Map119/events/19/pages/0/78/Dialogue
+> CONTEXT: Map097/events/17/pages/0/83/Dialogue
+> CONTEXT: Map097/events/19/pages/2/78/Dialogue
+> CONTEXT: Map097/events/25/pages/2/78/Dialogue
+> CONTEXT: Map075/events/6/pages/2/78/Dialogue
+> CONTEXT: Map097/events/26/pages/2/78/Dialogue
+> CONTEXT: Map075/events/7/pages/2/78/Dialogue
+> CONTEXT: Map075/events/21/pages/2/78/Dialogue
+lamia mage. 「I'm excited about the monster 's boobs,
+It's a perverted thing. I do not even know when you will be
+killed」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ち、違っ……！」
+> CONTEXT: Map127/events/4/pages/2/82/Dialogue
+> CONTEXT: Map127/events/5/pages/2/82/Dialogue
+> CONTEXT: Map119/events/16/pages/0/82/Dialogue
+> CONTEXT: Map119/events/17/pages/0/82/Dialogue
+> CONTEXT: Map119/events/19/pages/0/82/Dialogue
+> CONTEXT: Map097/events/17/pages/0/87/Dialogue
+> CONTEXT: Map097/events/19/pages/2/82/Dialogue
+> CONTEXT: Map097/events/25/pages/2/82/Dialogue
+> CONTEXT: Map075/events/6/pages/2/82/Dialogue
+> CONTEXT: Map097/events/26/pages/2/82/Dialogue
+> CONTEXT: Map075/events/7/pages/2/82/Dialogue
+> CONTEXT: Map075/events/21/pages/2/82/Dialogue
+\\N[12]. 「Different ......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あがああああああぁぁっ！」
+> CONTEXT: Map127/events/4/pages/2/87/Dialogue
+> CONTEXT: Map127/events/5/pages/2/87/Dialogue
+> CONTEXT: Map119/events/16/pages/0/87/Dialogue
+> CONTEXT: Map119/events/17/pages/0/87/Dialogue
+> CONTEXT: Map119/events/19/pages/0/87/Dialogue
+> CONTEXT: Map097/events/17/pages/0/92/Dialogue
+> CONTEXT: Map097/events/19/pages/2/87/Dialogue
+> CONTEXT: Map097/events/25/pages/2/87/Dialogue
+> CONTEXT: Map075/events/6/pages/2/87/Dialogue
+> CONTEXT: Map097/events/26/pages/2/87/Dialogue
+> CONTEXT: Map075/events/7/pages/2/87/Dialogue
+> CONTEXT: Map075/events/21/pages/2/87/Dialogue
+\\N[12]. 「Aaaaahhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あううううううぅうぅっ！」
+> CONTEXT: Map127/events/4/pages/2/92/Dialogue
+> CONTEXT: Map127/events/5/pages/2/92/Dialogue
+> CONTEXT: Map119/events/16/pages/0/92/Dialogue
+> CONTEXT: Map119/events/17/pages/0/92/Dialogue
+> CONTEXT: Map119/events/19/pages/0/92/Dialogue
+> CONTEXT: Map097/events/17/pages/0/97/Dialogue
+> CONTEXT: Map097/events/19/pages/2/92/Dialogue
+> CONTEXT: Map097/events/25/pages/2/92/Dialogue
+> CONTEXT: Map075/events/6/pages/2/92/Dialogue
+> CONTEXT: Map097/events/26/pages/2/92/Dialogue
+> CONTEXT: Map075/events/7/pages/2/92/Dialogue
+> CONTEXT: Map075/events/21/pages/2/92/Dialogue
+\\N[12]. 「Ah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあ……あ、あぁっ……」
+> CONTEXT: Map127/events/4/pages/2/98/Dialogue
+> CONTEXT: Map127/events/5/pages/2/98/Dialogue
+> CONTEXT: Map119/events/16/pages/0/98/Dialogue
+> CONTEXT: Map119/events/17/pages/0/98/Dialogue
+> CONTEXT: Map119/events/19/pages/0/98/Dialogue
+> CONTEXT: Map097/events/17/pages/0/103/Dialogue
+> CONTEXT: Map097/events/19/pages/2/98/Dialogue
+> CONTEXT: Map097/events/25/pages/2/98/Dialogue
+> CONTEXT: Map075/events/6/pages/2/98/Dialogue
+> CONTEXT: Map097/events/26/pages/2/98/Dialogue
+> CONTEXT: Map075/events/7/pages/2/98/Dialogue
+> CONTEXT: Map075/events/21/pages/2/98/Dialogue
+\\N[12]. 「Well ... ... Ah, huh ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイジラミア
+「うふふっ、射精しちゃったわね。
+電撃拷問を受けながら絶頂したあなたの姿、
+これ以上なく滑稽で情けなかったわよ」
+> CONTEXT: Map127/events/4/pages/2/102/Dialogue
+> CONTEXT: Map127/events/5/pages/2/102/Dialogue
+> CONTEXT: Map119/events/16/pages/0/102/Dialogue
+> CONTEXT: Map119/events/17/pages/0/102/Dialogue
+> CONTEXT: Map119/events/19/pages/0/102/Dialogue
+> CONTEXT: Map097/events/17/pages/0/107/Dialogue
+> CONTEXT: Map097/events/19/pages/2/102/Dialogue
+> CONTEXT: Map097/events/25/pages/2/102/Dialogue
+> CONTEXT: Map075/events/6/pages/2/102/Dialogue
+> CONTEXT: Map097/events/26/pages/2/102/Dialogue
+> CONTEXT: Map075/events/7/pages/2/102/Dialogue
+> CONTEXT: Map075/events/21/pages/2/102/Dialogue
+lamia mage. 「He hesitated, he chewed. Your appearance
+culminating while receiving electric shock torture,
+I was nothing more comical and miserable」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（だ、だめだ……い、痛いのに、気持ちいいなんて……
+なぜか、こいつの電撃を受けると
+体に痛み以外の痺れが走って、性感が強くなってくる……）
+> CONTEXT: Map127/events/4/pages/2/107/Dialogue
+> CONTEXT: Map127/events/5/pages/2/107/Dialogue
+> CONTEXT: Map119/events/16/pages/0/107/Dialogue
+> CONTEXT: Map119/events/17/pages/0/107/Dialogue
+> CONTEXT: Map119/events/19/pages/0/107/Dialogue
+> CONTEXT: Map097/events/17/pages/0/112/Dialogue
+> CONTEXT: Map097/events/19/pages/2/107/Dialogue
+> CONTEXT: Map097/events/25/pages/2/107/Dialogue
+> CONTEXT: Map075/events/6/pages/2/107/Dialogue
+> CONTEXT: Map097/events/26/pages/2/107/Dialogue
+> CONTEXT: Map075/events/7/pages/2/107/Dialogue
+> CONTEXT: Map075/events/21/pages/2/107/Dialogue
+\\N[12]. (Oh no ... but it hurts, but it feels good ...
+... Somehow, when you receive this electric shock
+The numbness other than the pain runs in the body, the
+sexual feeling becomes strong ... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+メイジラミア
+「なんてね。
+ラミアの香りと感触に当てられ続けたら、
+人間の男なんてこうなってしまうのが当然なのよ」
+> CONTEXT: Map127/events/4/pages/2/112/Dialogue
+> CONTEXT: Map127/events/5/pages/2/112/Dialogue
+> CONTEXT: Map119/events/16/pages/0/112/Dialogue
+> CONTEXT: Map119/events/17/pages/0/112/Dialogue
+> CONTEXT: Map119/events/19/pages/0/112/Dialogue
+> CONTEXT: Map097/events/17/pages/0/117/Dialogue
+> CONTEXT: Map097/events/19/pages/2/112/Dialogue
+> CONTEXT: Map097/events/25/pages/2/112/Dialogue
+> CONTEXT: Map075/events/6/pages/2/112/Dialogue
+> CONTEXT: Map097/events/26/pages/2/112/Dialogue
+> CONTEXT: Map075/events/7/pages/2/112/Dialogue
+> CONTEXT: Map075/events/21/pages/2/112/Dialogue
+lamia mage. 「How come? If it continues to be hit by the
+scent and feel of lamia, It is natural for a human man to
+become like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、んな……」
+> CONTEXT: Map127/events/4/pages/2/117/Dialogue
+> CONTEXT: Map127/events/5/pages/2/117/Dialogue
+> CONTEXT: Map119/events/16/pages/0/117/Dialogue
+> CONTEXT: Map119/events/17/pages/0/117/Dialogue
+> CONTEXT: Map119/events/19/pages/0/117/Dialogue
+> CONTEXT: Map097/events/17/pages/0/122/Dialogue
+> CONTEXT: Map097/events/19/pages/2/117/Dialogue
+> CONTEXT: Map097/events/25/pages/2/117/Dialogue
+> CONTEXT: Map075/events/6/pages/2/117/Dialogue
+> CONTEXT: Map097/events/26/pages/2/117/Dialogue
+> CONTEXT: Map075/events/7/pages/2/117/Dialogue
+> CONTEXT: Map075/events/21/pages/2/117/Dialogue
+\\N[12]. 「I guess ...」#MTLed
+> CONTEXT: Commonevents/200/234/Dialogue
+> CONTEXT: Commonevents/205/241/Dialogue
+> CONTEXT: Commonevents/248/254/Dialogue
+\\N[12]. 「I guess ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイジラミア
+「痺れるような性感、気持ちよかったでしょう？
+死ぬ前に絶頂を味わえたのは、せめてもの救いよね。
+さあ、それじゃあなたの肉、味わわせてもらうわね……♪」
+> CONTEXT: Map127/events/4/pages/2/120/Dialogue
+> CONTEXT: Map127/events/5/pages/2/120/Dialogue
+> CONTEXT: Map119/events/16/pages/0/120/Dialogue
+> CONTEXT: Map119/events/17/pages/0/120/Dialogue
+> CONTEXT: Map119/events/19/pages/0/120/Dialogue
+> CONTEXT: Map097/events/17/pages/0/125/Dialogue
+> CONTEXT: Map097/events/19/pages/2/120/Dialogue
+> CONTEXT: Map097/events/25/pages/2/120/Dialogue
+> CONTEXT: Map075/events/6/pages/2/120/Dialogue
+> CONTEXT: Map097/events/26/pages/2/120/Dialogue
+> CONTEXT: Map075/events/7/pages/2/120/Dialogue
+> CONTEXT: Map075/events/21/pages/2/120/Dialogue
+lamia mage. 「Feeling numb, it feels good, is not it?
+It was at least a salvation to taste the culm before dying.
+Well then, you'll taste your meat ...♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、あ……」
+> CONTEXT: Map127/events/4/pages/2/127/Dialogue
+> CONTEXT: Map127/events/5/pages/2/127/Dialogue
+> CONTEXT: Map119/events/16/pages/0/127/Dialogue
+> CONTEXT: Map119/events/17/pages/0/127/Dialogue
+> CONTEXT: Map119/events/19/pages/0/127/Dialogue
+> CONTEXT: Map097/events/17/pages/0/132/Dialogue
+> CONTEXT: Map097/events/19/pages/2/127/Dialogue
+> CONTEXT: Map097/events/25/pages/2/127/Dialogue
+> CONTEXT: Map075/events/6/pages/2/127/Dialogue
+> CONTEXT: Map097/events/26/pages/2/127/Dialogue
+> CONTEXT: Map075/events/7/pages/2/127/Dialogue
+> CONTEXT: Map075/events/21/pages/2/127/Dialogue
+\\N[12]. 「Well ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、\\N[12]はメイジラミアに
+苦痛と快楽を味わわされながら彼女に捕食され
+人知れず生を終えた……
+> CONTEXT: Map127/events/4/pages/2/131/Dialogue
+> CONTEXT: Map127/events/5/pages/2/131/Dialogue
+> CONTEXT: Map119/events/16/pages/0/131/Dialogue
+> CONTEXT: Map119/events/17/pages/0/131/Dialogue
+> CONTEXT: Map119/events/19/pages/0/131/Dialogue
+> CONTEXT: Map097/events/17/pages/0/136/Dialogue
+> CONTEXT: Map097/events/19/pages/2/131/Dialogue
+> CONTEXT: Map097/events/25/pages/2/131/Dialogue
+> CONTEXT: Map075/events/6/pages/2/131/Dialogue
+> CONTEXT: Map097/events/26/pages/2/131/Dialogue
+> CONTEXT: Map075/events/7/pages/2/131/Dialogue
+> CONTEXT: Map075/events/21/pages/2/131/Dialogue
+Then, \\N[12] To lamia mage. She is predisposed to pain
+and pleasure while being tasted. I have finished life
+unexpectedly ... ...#MTLed
+> END STRING

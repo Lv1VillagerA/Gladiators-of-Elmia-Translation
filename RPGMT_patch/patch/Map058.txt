@@ -1,0 +1,1002 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+闘技場コンコース三階
+> CONTEXT: Map058/display_name/
+tournament arena 3rd floor#MTLed
+> END STRING
+
+> BEGIN STRING
+老兵士
+「うーむ、さすがにこの席からでは観戦しづらいのう。
+本番では場内の席を取りたいものじゃわい」
+> CONTEXT: Map058/events/9/pages/0/0/Dialogue
+Old soldier. 「Hmm, it is difficult to watch from this seat
+as expected. I'd like to take a seat inside the floor in
+the production」#MTLed
+> END STRING
+
+> BEGIN STRING
+老兵士
+「結局、三階席しか取ることができんかったわい……」
+> CONTEXT: Map058/events/9/pages/1/0/Dialogue
+Old soldier. 「After all, I could only take the third floor
+seat ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「今は閑散としていますけど、
+この３階も大会の日は立ち見客で賑わいますよ」
+> CONTEXT: Map058/events/10/pages/0/0/Dialogue
+A soldier. 「Although it is deserted now,
+On the 3rd floor also the day of tournament is crowded with
+standing guests」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「今年もかなりの人出で、警備も大変ですよ」
+> CONTEXT: Map058/events/10/pages/1/0/Dialogue
+A soldier. 「This year it is quite a lot of people,
+security is also hard」#MTLed
+> END STRING
+
+> BEGIN STRING
+女剣士
+「どれ、どれだけの強者が出ているのか
+とくと見せてもらうとしようか！」
+> CONTEXT: Map058/events/11/pages/0/0/Dialogue
+> CONTEXT: Map058/events/11/pages/2/0/Dialogue
+swordswoman. 「Which strong man is out there
+Would you let me show it to you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あれ？　あんた、大会前に闘技場前で
+出場するつもりだって言ってなかったっけ。
+なんで客席に？　出ないのか？」
+> CONTEXT: Map058/events/11/pages/1/0/Dialogue
+\\N[12]. 「that? You, before the tournament in front of
+the stadium. I did not say I intended to participate.
+Why in the audience seats? Is not it coming out?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女剣士
+「えっ？　い、いやぁ、迷ったんだが、その、あ……
+足首の調子が悪くてな！
+いやあ残念だ、足首さえ良ければ出たんだがな！」
+> CONTEXT: Map058/events/11/pages/1/5/Dialogue
+swordswoman. 「eh? Oh, well, I got lost, that, Ah ... ...
+My ankle is in a bad condition! I'm sorry, even if my ankle
+is fine I went out!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（なぜか偉そうだ……）
+> CONTEXT: Map058/events/11/pages/2/4/Dialogue
+\\N[12]. (Somehow seems to be great ...).#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「おーし、三階とはいえ良い席が取れた！
+全試合じっくり観戦してやるぜ！」
+> CONTEXT: Map058/events/12/pages/0/0/Dialogue
+> CONTEXT: Map058/events/22/pages/0/0/Dialogue
+> CONTEXT: Map058/events/34/pages/0/0/Dialogue
+Warrior. 「Oh, I could have a good seat even though it was
+the third floor! I will watch all games over all the time!」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員
+「あ、\\N[12]、やっほ。
+活躍、期待してるわよ」
+> CONTEXT: Map058/events/13/pages/0/0/Dialogue
+militia member. 「Ah, \\N[12] , Yao. I'm active, I'm
+expecting you」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「ここなら、女の選手をじっくり視姦しても
+気取られないからいいよなあ」
+> CONTEXT: Map058/events/14/pages/0/0/Dialogue
+Warrior. 「In this case, even if you witness the woman's
+carefully. I wish I could not get it off.」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「すっげー、たかいなー！」
+> CONTEXT: Map058/events/15/pages/0/0/Dialogue
+boy. 「It's tall, tall!」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「本当は妻や息子たちのためにも二階席を取りたかったが、
+まあ、三階席でも喜んでくれているようでよかったよ」
+> CONTEXT: Map058/events/16/pages/0/0/Dialogue
+old man. 「Actually I wanted to take the second floor seat
+for my wife and sons, Well, it seems like I'm happy also on
+the second floor seat」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「高いところからの方が全体が見えやすくて
+むしろ観戦しやすいかもしれないねぇ」
+> CONTEXT: Map058/events/17/pages/0/0/Dialogue
+Aunt. 「The one from the high place is easier to see the
+whole. Rather it may be easier to watch the game」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「わーいわーい！」
+> CONTEXT: Map058/events/18/pages/0/0/Dialogue
+girl. 「!」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「僕は高原の村ウィギスから観戦に来ました。
+エルミアはさすがに暖かいですね」
+> CONTEXT: Map058/events/19/pages/0/0/Dialogue
+Youth. 「I came to watch from the plateau village Wigheis.
+Elmia is truly warm」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「ガヤガヤ」
+> CONTEXT: Map058/events/20/pages/0/0/Dialogue
+Warrior. 「」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「女性のファイターの活躍が近年目立ってきているが、
+今年は可愛い選手がどれだけ見られるかなあ」
+> CONTEXT: Map058/events/21/pages/0/0/Dialogue
+Youth. 「Activities of female fighters have become
+conspicuous in recent years, I wonder how much cute players
+can be watched this year」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦
+「三階席をあえて取る人も多いんですのよ」
+> CONTEXT: Map058/events/23/pages/0/0/Dialogue
+housewife. 「Many people dare to take third floor seats」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「決勝トーナメントになれば、
+もっと人が増えるぜ」
+> CONTEXT: Map058/events/24/pages/0/0/Dialogue
+Youth. 「If it becomes the final tournament,
+More people will increase」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「三階席は混んでないから快適でいいぜ」
+> CONTEXT: Map058/events/24/pages/1/0/Dialogue
+Youth. 「The third floor seats are not crowded so
+comfortable and nice」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「武道大会のレベルをこの目で確認しておきたいと思って
+チケットを買ってしまったよ」
+> CONTEXT: Map058/events/25/pages/0/0/Dialogue
+royal guard. 「I want to confirm the level of martial arts
+tournament with this eyes. I bought a ticket」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「どの試合も面白くて最高だね」
+> CONTEXT: Map058/events/26/pages/0/0/Dialogue
+Warrior. 「Every game is fun and awesome」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「せっかく来たんだもの、
+たっくさん試合を見たいわ～！」
+> CONTEXT: Map058/events/27/pages/0/0/Dialogue
+girl. 「Things came, I'd like to see the match a bit!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「後ろにいた男、痴漢だったみたい。
+未遂で捕まってくれたみたいで、よかったわ～」
+> CONTEXT: Map058/events/27/pages/1/0/Dialogue
+girl. 「A man who was behind it seems to be a molester.
+It seemed that he was caught and attempted, it was good.」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「……………………」
+> CONTEXT: Map058/events/28/pages/0/0/Dialogue
+Youth. 「........................」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「ここの観客は、重要な台詞を喋ることはほぼないぞ。
+あんたの知り合いがいるようなら、
+その人にだけ話しかければ事足りるだろうさ」
+> CONTEXT: Map058/events/29/pages/0/0/Dialogue
+Warrior. 「The audience here is almost never speaking
+important words. If you know your acquaintance,
+It will be enough if we only talk to that person.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「試合はいつ始まるのかなー」
+> CONTEXT: Map058/events/30/pages/0/0/Dialogue
+Woman. 「When will the game start?」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「魔術を使う選手は現れますかねぇ……」
+> CONTEXT: Map058/events/31/pages/0/0/Dialogue
+male. 「Will players who use magic will appear ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「…………ちょっと高すぎて怖いかも」
+> CONTEXT: Map058/events/32/pages/0/0/Dialogue
+girl. 「............ It might be a bit too high and scary」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「おばあちゃんの付き添いで来たんだけれど……
+なんか、必要なかった気がするわ」
+> CONTEXT: Map058/events/33/pages/0/0/Dialogue
+girl. 「I came with grandma's attendance ....
+I feel like I did not need it」#MTLed
+> END STRING
+
+> BEGIN STRING
+金持ちおじさん
+「武道大会にはあまり興味がないのだが、
+このバニーちゃんと一日中寄り添っていられると思うと……
+グフフ……」
+> CONTEXT: Map058/events/35/pages/0/0/Dialogue
+Rich man old man. 「I do not have much interest in martial
+arts tournament, I think that I can stay close to this
+Bunny-chan all day ... ... Gufufu ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「ガヤガヤ」
+> CONTEXT: Map058/events/36/pages/0/0/Dialogue
+Aunt. 「」#MTLed
+> END STRING
+
+> BEGIN STRING
+老人
+「試合はまだかいのう！
+血が騒ぐぞよ！」
+> CONTEXT: Map058/events/37/pages/0/0/Dialogue
+Old man. 「We still have games! The blood will make a noise!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員
+「女の子と試合できることもあるんだな。
+俺も出ればよかったかも……」
+> CONTEXT: Map058/events/38/pages/0/0/Dialogue
+militia member. 「There are things you can do with girls.
+I wish I could have gotten it ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「武道大会を見ると、
+若返ったような気分になるのう！」
+> CONTEXT: Map058/events/39/pages/0/0/Dialogue
+old man. 「Looking at martial arts tournament,
+I feel like I'm rejuvenated!」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員
+「お、\\N[12]じゃないか。
+村の代表として、いい戦いをしてくれよ」
+> CONTEXT: Map058/events/40/pages/0/0/Dialogue
+militia member. 「Contact \\N[12] is not it.
+As a representative of the village, do a good fight」#MTLed
+> END STRING
+
+> BEGIN STRING
+学生
+「観戦できない人が発生しないんですよね、この大会
+これも女王陛下のお心遣い、ありがたいことです」
+> CONTEXT: Map058/events/41/pages/0/0/Dialogue
+A student. 「People who can not watch can not be seen, is
+not this tournament. This is also thankful to your majesty
+of your majesty」#MTLed
+> END STRING
+
+> BEGIN STRING
+商人
+「今日は観客に徹してます」
+> CONTEXT: Map058/events/42/pages/0/0/Dialogue
+merchant. 「I am devoted to the audience today.」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「ワイワイ」
+> CONTEXT: Map058/events/43/pages/0/0/Dialogue
+Warrior. 「lively」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「俺より強い奴がいるかどうか見てやるぜ！」
+> CONTEXT: Map058/events/44/pages/0/0/Dialogue
+Warrior. 「I will see if there is a stronger guy than me!」#MTLed
+> END STRING
+
+> BEGIN STRING
+主婦
+「主人が出場しているのよ。
+ひとつでも勝ってくれるよう応援しなくちゃ」
+> CONTEXT: Map058/events/45/pages/0/0/Dialogue
+housewife. 「My husband is playing. I have to cheer for
+even one to win」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「わー、たかいたかーい！」
+> CONTEXT: Map058/events/46/pages/0/0/Dialogue
+girl. 「Wow, Tall!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「ワイワイ」
+> CONTEXT: Map058/events/48/pages/0/0/Dialogue
+Woman. 「lively」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーさん
+「隣のおじさまにおねだりして、連れてきてもらったの。
+可愛いとこういうときに得よね♪」
+> CONTEXT: Map058/events/49/pages/0/0/Dialogue
+Bunny-san. 「I asked for the next uncle and brought him.
+When it's cute, you can get it at such times♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「三階は立ち見だから、長時間の観戦は辛いわねぇ」
+> CONTEXT: Map058/events/50/pages/0/0/Dialogue
+Woman. 「It's standing on the third floor, so watching it
+for a long time is painful」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「三階は、いいチケットが取れなかった連中の
+吹き溜まりみたいな感じだよ。
+かくいう僕も安チケットさ」
+> CONTEXT: Map058/events/61/pages/0/0/Dialogue
+Youth. 「On the third floor, those who did not get a good
+ticket. It feels like a cold. I also like to ticket as well
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「ビールは売ってないのかい」
+> CONTEXT: Map058/events/65/pages/1/0/Dialogue
+male. 「Do not you sell beer?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ピエロ
+「ワイワイ」
+> CONTEXT: Map058/events/67/pages/1/0/Dialogue
+Clown. 「lively」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員
+「休みもらってジェーンの応援に来ちゃった。
+\\N[12]のことも、ついでに応援してあげるね」
+> CONTEXT: Map058/events/74/pages/0/0/Dialogue
+militia member. 「I got a holiday and came to support Jane.
+\\N[12] I will support you at the same time」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「前にいるおばあさん、めっちゃエキサイトしてるなぁ」
+> CONTEXT: Map058/events/75/pages/0/0/Dialogue
+Attendant. 「The old woman, I am really excited」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「私は警備係です。
+こういう人混みだと痴漢行為を働く人が
+必ず現れますから、客席警備は必要なんですよ」
+> CONTEXT: Map058/events/76/pages/0/0/Dialogue
+Attendant. 「I am a security officer. A person working a
+molestation act like this in a crowd. It always comes up,
+so we need a seat guard」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「案の定でしたね。
+痴漢を一名検挙。
+今後も監視につとめなければいけません」
+> CONTEXT: Map058/events/76/pages/1/0/Dialogue
+Attendant. 「It was a guess. One murderer was arrested.
+We must continue to monitor」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「私は北の国からやってきたのですが……
+いやあ、これがエルミアの闘技場ですか、
+聞きしに勝る立派な建物ですなあ」
+> CONTEXT: Map058/events/77/pages/0/0/Dialogue
+> CONTEXT: Map025/events/125/pages/0/0/Dialogue
+male. 「I have come from the North of the country ... ...
+Well, is this the Elmia Stadium? A wonderful building that
+is better than listening」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「すっげー、でっかいなぁ！
+お父さん、早く入ろうよ！」
+> CONTEXT: Map058/events/78/pages/0/0/Dialogue
+> CONTEXT: Map025/events/126/pages/0/0/Dialogue
+boy. 「How tall, huh! Dad, let's get on soon!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サムライ
+「強者の試合をひとつでも多く見て帰りたいでござる」
+> CONTEXT: Map058/events/79/pages/0/0/Dialogue
+Samurai. 「I want to watch a lot of strong man's games and
+return home」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「目線が高いから試合がよく見えるわ」
+> CONTEXT: Map058/events/80/pages/0/0/Dialogue
+Woman. 「I can see the game well because my line of sight
+is high」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーちゃん
+「男の子の悶え苦しむ顔を見るのが好きなの♪
+うふふ……」
+> CONTEXT: Map058/events/81/pages/0/0/Dialogue
+Bunny-chan. 「Boys' agony He likes to see suffering faces♪
+Ufufu ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「俺たちロイヤルガードを上回る戦士が
+一人でも出ているかな？」
+> CONTEXT: Map058/events/82/pages/0/0/Dialogue
+royal guard. 「A warrior who surpasses us royal guard
+I wonder if even one of them is out?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「姫様が出場するとは……
+それでは姫様の優勝は見えているな。
+なにしろ、姫様にはこの俺が手も足も出ないのだからな」
+> CONTEXT: Map058/events/82/pages/1/0/Dialogue
+royal guard. 「What does the princess appear in ......
+Then the princess's victory is visible. Anyway, I do not
+have any hands or feet for this princess」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（情けないことを偉そうに言っている……）
+> CONTEXT: Map058/events/82/pages/1/5/Dialogue
+\\N[12]. (I say greatly to misbehaving ... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「ま、三階席でも
+観戦は充分できるし、ここでいいか」
+> CONTEXT: Map058/events/83/pages/0/0/Dialogue
+old man. 「Well, even at the third floor seat
+Watching can be enough and I can do it here」#MTLed
+> END STRING
+
+> BEGIN STRING
+係員
+「決着後には性的な行為が行われることもありうる。
+でも、不思議と女性客もそういうのを嫌がらず
+食い入るように見ていたりするんだよね」
+> CONTEXT: Map058/events/84/pages/0/0/Dialogue
+Attendant. 「Sometimes sexual acts may be done after the
+settlement. But, wonderfully, female customers do not
+dislike it. You are watching as if you like it」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「3階席も選手の動きがよく見えて素晴らしいな！
+席を移ってみて正解だ！」
+> CONTEXT: Map058/events/85/pages/0/0/Dialogue
+old man. 「The third floor seating is also wonderful as the
+movement of the athlete can be seen well!
+Try moving your seat and you are right!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「上で見てみたいって、
+わたしがお父さんに頼んだの～」
+> CONTEXT: Map058/events/86/pages/0/0/Dialogue
+girl. 「I want to see it above, I asked my father ~」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「やはり、観客として楽しむのが
+一番気楽かもしれんな。ほっほっほ」
+> CONTEXT: Map058/events/88/pages/0/0/Dialogue
+male. 「After all, enjoying as an audience
+It may be easiest.Ho」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「ここだけの話、俺は痴漢なんだが、
+目の前にいるロイヤルガードを狙っている。
+だが、さすがに隙がまったくないぜ……」
+> CONTEXT: Map058/events/89/pages/0/0/Dialogue
+male. 「Talk of only here, I am a molester,
+I aim at the royal guard in front of me.
+But there is no gap indeed ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「よく死人が出ないわよねぇ」
+> CONTEXT: Map058/events/90/pages/0/0/Dialogue
+girl. 「There will not be dead people well」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「ガヤガヤ」
+> CONTEXT: Map058/events/92/pages/0/0/Dialogue
+> CONTEXT: Map058/events/95/pages/0/0/Dialogue
+male. 「」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「３階にも売店が欲しいな」
+> CONTEXT: Map058/events/93/pages/0/0/Dialogue
+old man. 「I also want a shop on the 3rd floor」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ワイワイ」
+> CONTEXT: Map058/events/94/pages/0/0/Dialogue
+girl. 「lively」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「トイレはどこかしら」
+> CONTEXT: Map058/events/96/pages/0/0/Dialogue
+bunny girl. 「Where is the rest room?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「３階は広いわねえ」
+> CONTEXT: Map058/events/97/pages/0/0/Dialogue
+Woman. 「The third floor is wide」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「次の試合は女が勝つといいな♪」
+> CONTEXT: Map058/events/98/pages/0/0/Dialogue
+A maid. 「I hope the woman will win the next game♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「よう\\N[12]、頑張っているようだな」
+> CONTEXT: Map058/events/99/pages/0/0/Dialogue
+Captain Albert. 「Yo \\N[12] You seem to be doing your
+best」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「だ、団長？
+どうしてここに？」
+> CONTEXT: Map058/events/99/pages/0/3/Dialogue
+\\N[12]. 「Is not it a headmaster? Why are you here?」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「うむ、お前の戦いぶりがどうしても気になってな。
+決して、盗賊団がいなくなったのをいいことに
+武道大会を見物しに来たわけではないぞ」
+> CONTEXT: Map058/events/99/pages/0/7/Dialogue
+Captain Albert. 「Well, I'm curious about your fighting.
+Never, that the bandits are gone. You did not come to see
+the martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「は、はあ……
+ありがとうございます。
+俺、がんばりますよ」
+> CONTEXT: Map058/events/99/pages/0/12/Dialogue
+\\N[12]. 「Haha ... Thank you very much. I will do my
+best.」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「俺はいろいろな選手の情報を
+そこらで入手してきているんだ。
+試合前に来れば、次に当たる選手の弱点を教えてやるぞ」
+> CONTEXT: Map058/events/99/pages/1/0/Dialogue
+Captain Albert. 「I do not know the information of the
+athlete. I'm getting it around. If you come before the
+game, I will tell you the weaknesses of the next competitor
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へえ、そいつはありがたいっす」
+> CONTEXT: Map058/events/99/pages/1/5/Dialogue
+\\N[12]. 「Oh, thanks for that.」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「初戦の相手は拳闘士のようだな。
+脳天割りという技は防御力を無視するので
+気をぬくと体力を持っていかれてしまうぞ。
+> CONTEXT: Map058/events/99/pages/2/0/Dialogue
+Captain Albert. 「The other party is like a fighter.
+Because the skill called brain-healing neglects defense
+power. Once you are careful, you will be brought up with
+physical strength.#MTLed
+> END STRING
+
+> BEGIN STRING
+体力は低めだが、回避力がやや高いようだ。
+充分な魔法力と魔法系スキルを身につけている自信があるなら、
+魔法で攻めることを考えてみるのも
+いいかもしれんな」
+> CONTEXT: Map058/events/99/pages/2/5/Dialogue
+My physical strength is low but the evasive power seems to
+be somewhat higher. If you are confident that you acquire
+sufficient magical power and magical skill,
+Think about thinking to attack with magic
+It might be nice.」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「予選2戦目の相手は……
+\\C[2]聖属性の攻撃\\C[0]を乱発してくるみたいだぞ。
+属性対策ができれば一気に楽になるだろう」
+> CONTEXT: Map058/events/99/pages/3/0/Dialogue
+Captain Albert. 「The opponent of the second round of
+qualifying ... ... \\C[2]St. Attack of Attack\\C[0] You seem to be
+getting ruined. It will be easier at a stroke if attribute
+measures can be taken」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「予選3戦目の相手は……
+強烈な魔法を連発してくるようだな。
+対策となる技を覚えていなければ苦戦するかもしれん。
+> CONTEXT: Map058/events/99/pages/4/0/Dialogue
+Captain Albert. 「The opponent of the third game in
+qualifying ... ... It seems that intense magic is going on
+in a row. It may be difficult to fight if you do not
+remember the technique that will be a countermeasure.#MTLed
+> END STRING
+
+> BEGIN STRING
+だが、ここまで2連勝で来ているようなら、
+ここは負けても突破できる。
+そういう状況を作れていれば気楽に戦えるはずだ」
+> CONTEXT: Map058/events/99/pages/4/5/Dialogue
+However, if it seems that you have come up with two
+consecutive victories so far, You can break through here
+even if you lose. If you can make such a situation you
+ought to be able to fight comfortably」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「一次予選突破か、さすが\\N[12]だ。
+俺のアドバイスも、少しは役に立ったかな？」
+> CONTEXT: Map058/events/99/pages/6/0/Dialogue
+Captain Albert. 「Whether the break through primary
+qualifying \\N[12] It is. Was my advice a little
+helpful?」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「二次予選の初戦の相手は、
+かなりの攻撃力を誇る剣士のようだ。
+体力は高くないようだから、さっさと押し切るのが得策だろう」
+> CONTEXT: Map058/events/99/pages/7/0/Dialogue
+Captain Albert. 「The opponent of the first round of the
+second preliminary round, It seems like a swordsman who
+boasts considerable attack power. Strength seems not to be
+high, so it would be a good idea to push it off quickly」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「予選最終戦の相手は……ふむ、そう来たか。
+相手の服は意外と破れやすいからな、
+\\C[2]手数の多い斬撃\\C[0]などを繰り出すと破れるかもしれん。
+> CONTEXT: Map058/events/99/pages/8/0/Dialogue
+Captain Albert. 「The opponent of the final race in
+qualifying ... ... Hm, have you come so?
+The other's clothes are easy to break unexpectedly,
+\\C[2]Slash with a lot of hands\\C[0] You might be torn if you extend
+out.#MTLed
+> END STRING
+
+> BEGIN STRING
+そうなると、対戦相手は逆上して
+強くなってしまうかもしれんぞ。
+注意したほうがいいかもな。
+> CONTEXT: Map058/events/99/pages/8/5/Dialogue
+Then, the opponent got upside down. It may become stronger.
+You may as well be careful.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ、\\C[2]服を破いたかどうかで
+敗北時のイベントが分岐する\\C[0]ようだぞ。
+ま、残念ながら
+この相手にはイベントCGは無いけどな」
+> CONTEXT: Map058/events/99/pages/8/9/Dialogue
+However,\\C[2] Whether you broke clothes or not
+Events at defeat branch\\C[0] Looks like.
+Well, unfortunately. There is no event CG for this opponent
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんだか、少し意味の分からない言葉が
+混じっていたようですが……」
+> CONTEXT: Map058/events/99/pages/8/14/Dialogue
+\\N[12]. 「Somehow, some meaningless words
+It seems they were mixed ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「まあ気にするな、必要な情報なのでな」
+> CONTEXT: Map058/events/99/pages/8/18/Dialogue
+Captain Albert. 「Do not worry, it's necessary information」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「予選突破か、\\N[12]も強くなったものだな。
+決勝トーナメントもしっかり見せてもらうぞ」
+> CONTEXT: Map058/events/99/pages/10/0/Dialogue
+Captain Albert. 「Whether qualifying breakthrough,
+\\N[12] It is also strengthened. I will have a solid
+show of the final tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（やっぱり武道大会の観戦を楽しんでるよなあ、
+この人……）
+> CONTEXT: Map058/events/99/pages/10/4/Dialogue
+\\N[12]. (I love watching the martial arts tournament
+after all. this person……)#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「決勝トーナメント1回戦の相手は、
+どうやら典型的なパワータイプらしいな。
+予備動作のような行動を取ったときは注意が必要だ」
+> CONTEXT: Map058/events/99/pages/11/0/Dialogue
+Captain Albert. 「The opponent of the first round of the
+finals tournament, Apparently it seems to be a typical
+power type. Be careful when you take action like
+preliminary action」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「2回戦の相手の特徴は……
+お前が一番、よく知っているのではないか？
+地力で勝負するしかあるまい」
+> CONTEXT: Map058/events/99/pages/12/0/Dialogue
+Captain Albert. 「What is the characteristic of the
+opponent in the second round ... ... I guess you are the
+best, do not you know well? There is no choice but to
+compete on the ground」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「2回戦の相手の特徴は……
+威力の高い必殺技を駆使してくるが、
+その多くは\\C[2]雷属性\\C[0]であるようだぞ」
+> CONTEXT: Map058/events/99/pages/13/0/Dialogue
+Captain Albert. 「What is the characteristic of the
+opponent in the second round ... ... Although it makes full
+use of the powerful deathblow technique,
+Many of them\\C[2] Lightning attribute\\C[0] It seems to be」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「3回戦の相手の特徴は……
+魅了状態になってしまう攻撃や、お前を拘束状態にしてしまう
+技が多いようだ。対策しないと勝つのは難しいぞ。
+> CONTEXT: Map058/events/99/pages/14/0/Dialogue
+Captain Albert. 「What is the characteristic of the third
+round match ... ... Attack that becomes attracted and put
+you in a restrained state. It seems that there are a lot of
+techniques. It is difficult to win if you do not take
+measures.#MTLed
+> END STRING
+
+> BEGIN STRING
+王都の店をまわって、
+装飾品を物色してみるといいのではないか。
+役に立つものが売っているかもしれんぞ。
+> CONTEXT: Map058/events/99/pages/14/5/Dialogue
+I went around the shop of the kingdom, You should try
+decorating the accessories. It may be selling useful
+things.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちなみに、\\C[2]体力と精神力、どちらが0になって負けたかで
+敗北シーンが変化する\\C[0]ようだな。
+無用な情報かもしれないが、いちおう伝えておこう」
+> CONTEXT: Map058/events/99/pages/14/9/Dialogue
+By the way,\\C[2] Physical strength and mental strength, which is
+0 and lost. The defeat scene changes\\C[0] It seems.
+It may be unnecessary information, but let's tell it once.」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「4回戦の相手は……
+基本的には打撃戦となるだろうが、
+精神力へのダメージにも注意しておかねばならんぞ。
+> CONTEXT: Map058/events/99/pages/15/0/Dialogue
+Captain Albert. 「The opponent of the fourth round ......
+Basically it will be a battle, You should also pay
+attention to damage to mental strength.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちなみに、3回戦と同様、体力と精神力の
+どちらが0になって負けたかで、敗北シーンが変化するようだな。
+まあ、お前が負けるわけはないだろうが……
+いちおう覚えておくといいかもな」
+> CONTEXT: Map058/events/99/pages/15/5/Dialogue
+Incidentally, as with the third round, physical strength
+and mental power. It seems that the defeat scene changes
+depending on which one got 0 and lost. Well, you will not
+lose ... ... Maybe I should remember it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「準決勝の相手は……あの女の子か……
+ん？　お前、彼女と剣の奪い合いをして敗れているのか。
+なら、その剣を使ってくるはず。かえって対策しやすいだろう」
+> CONTEXT: Map058/events/99/pages/16/1/Dialogue
+Captain Albert. 「The opponent of the semifinal ... ...
+that girl ... .... Hmm? Are you losing with a sword fight
+with her? Then, you should use that sword. It would rather
+be easier to deal with」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「準決勝の相手は……彼女か……
+おおまかには1回戦の相手と似た傾向を持っているようだが
+今回は長期戦を想定しておくといいかもしれんぞ」
+> CONTEXT: Map058/events/99/pages/16/8/Dialogue
+Captain Albert. 「The opponent of the semifinal ... ....
+her ... ... Roughly it seems to have a tendency similar to
+that of the first round. It may be a good idea to assume a
+long-term battle this time.」#MTLed
+> END STRING
+
+> BEGIN STRING
+団長アルバート
+「決勝の相手は姫様か……
+\\C[2]あのドレスは破れやすそう\\C[0]だから、
+気をつけたほうがいいかもな。
+> CONTEXT: Map058/events/99/pages/17/0/Dialogue
+Captain Albert. 「Is the principal in the final the
+princess ...? \\C[2]That dress looks easy to break\\C[0] Therefore,
+You may as well be careful.#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、ジェーンのときと同じく
+\\C[2]ドレスを破いたかどうかで
+敗北時のイベントが変化する\\C[0]わけだが……
+> CONTEXT: Map058/events/99/pages/17/5/Dialogue
+Well, just like Jane. \\C[2]Whether you broke the dress or not
+Events at defeat change\\C[0] What do you mean?#MTLed
+> END STRING
+
+> BEGIN STRING
+それと、姫様の最終奥義であるサフィスティセイバーだがな。
+ここだけの話、\\C[2]水属性\\C[0]らしいぞ」
+> CONTEXT: Map058/events/99/pages/17/9/Dialogue
+Also, it is the princess' s final mystery, Safty Sa Tiber.
+Between ourselves,\\C[2] Water attribute\\C[0] It seems like」#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員
+「反対側に団長もいたわよ。
+あの人もヒマよねー」
+> CONTEXT: Map058/events/100/pages/0/0/Dialogue
+militia member. 「There was a headmaster on the other side.
+That person is also a free time」#MTLed
+> END STRING

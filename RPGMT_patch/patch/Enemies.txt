@@ -1,0 +1,216 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大グモ
+> CONTEXT: Enemies/4/name/
+Spider#lvl1
+> END STRING
+
+> BEGIN STRING
+ウィスプ
+> CONTEXT: Enemies/6/name/
+Wisp#lvl1
+> END STRING
+
+> BEGIN STRING
+海ヘビ
+> CONTEXT: Enemies/7/name/
+> CONTEXT: Enemies/90/name/
+Large Snake#lvl1
+> END STRING
+
+> BEGIN STRING
+インプ
+> CONTEXT: Enemies/14/name/
+Imp#lvl1
+> END STRING
+
+> BEGIN STRING
+ゲイザー
+> CONTEXT: Enemies/15/name/
+Gazer#lvl1
+> END STRING
+
+> BEGIN STRING
+パペット
+> CONTEXT: Enemies/16/name/
+Puppet#lvl1
+> END STRING
+
+> BEGIN STRING
+ゾンビ
+> CONTEXT: Enemies/17/name/
+Zombie#lvl1
+> END STRING
+
+> BEGIN STRING
+コカトリス
+> CONTEXT: Enemies/18/name/
+Cockatrice#lvl1
+> END STRING
+
+> BEGIN STRING
+ガーゴイル
+> CONTEXT: Enemies/24/name/
+Gargoyle#lvl1
+> END STRING
+
+> BEGIN STRING
+女盗賊ベルベット
+> CONTEXT: Enemies/32/name/
+> CONTEXT: Enemies/37/name/
+> CONTEXT: Enemies/182/name/
+> CONTEXT: Enemies/183/name/
+> CONTEXT: Enemies/184/name/
+> CONTEXT: Enemies/185/name/
+Female thief velvet#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員ジェーン
+> CONTEXT: Enemies/33/name/
+Militia member Jane#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+> CONTEXT: Enemies/38/name/
+> CONTEXT: Enemies/87/name/
+> CONTEXT: Actors/13/name/
+> CONTEXT: Enemies/107/name/
+> CONTEXT: Enemies/108/name/
+> CONTEXT: Enemies/117/name/
+> CONTEXT: Troops/202/name/
+Sherry#MTLed
+> END STRING
+
+> BEGIN STRING
+不良少女
+> CONTEXT: Enemies/43/name/
+Deliquent girl#MTLed
+> END STRING
+
+> BEGIN STRING
+スノーミストレス
+> CONTEXT: Enemies/44/name/
+Snow mistress#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家アデット
+> CONTEXT: Enemies/50/name/
+Fighter Adette#MTLed
+> END STRING
+
+> BEGIN STRING
+デュバール
+> CONTEXT: Enemies/51/name/
+Duval#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミアクイーン
+> CONTEXT: Enemies/53/name/
+Lamia queen#MTLed
+> END STRING
+
+> BEGIN STRING
+ソードシーフ
+> CONTEXT: Enemies/56/name/
+> CONTEXT: Troops/194/name/
+> CONTEXT: Map065/events/7/pages/1/40/Choice/0
+> CONTEXT: Map065/events/7/pages/1/40/Choice/0
+Sword thief#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+> CONTEXT: Enemies/76/name/
+> CONTEXT: Enemies/116/name/
+Yuki Onna#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+> CONTEXT: Enemies/99/name/
+> CONTEXT: Enemies/104/name/
+> CONTEXT: Enemies/105/name/
+> CONTEXT: Enemies/106/name/
+> CONTEXT: Enemies/98/name/
+Jane#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+> CONTEXT: Enemies/100/name/
+> CONTEXT: Enemies/124/name/
+> CONTEXT: Enemies/129/name/
+> CONTEXT: Enemies/132/name/
+> CONTEXT: Enemies/153/name/
+> CONTEXT: Enemies/179/name/
+> CONTEXT: Enemies/226/name/
+> CONTEXT: Enemies/227/name/
+Diana#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+> CONTEXT: Enemies/101/name/
+> CONTEXT: Enemies/102/name/
+> CONTEXT: Enemies/155/name/
+> CONTEXT: Enemies/156/name/
+> CONTEXT: Enemies/195/name/
+> CONTEXT: Enemies/196/name/
+> CONTEXT: Enemies/197/name/
+> CONTEXT: Enemies/198/name/
+Bunny girl#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール・テスト
+> CONTEXT: Enemies/110/name/
+Bandit Girl Test#MTLed
+> END STRING
+
+> BEGIN STRING
+デス・マスター
+> CONTEXT: Enemies/114/name/
+Death Master#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+> CONTEXT: Enemies/160/name/
+> CONTEXT: Enemies/161/name/
+> CONTEXT: Enemies/229/name/
+Queen Luftina#MTLed
+> END STRING
+
+> BEGIN STRING
+↓ここから回想用
+> CONTEXT: Enemies/170/name/
+↓ For reminding from here#MTLed
+> END STRING
+
+> BEGIN STRING
+女魔法使い
+> CONTEXT: Enemies/134/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリムyobi
+> CONTEXT: Enemies/204/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソードシーフLv.5
+> CONTEXT: Enemies/213/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+↓ここから回想用２
+> CONTEXT: Enemies/225/name/ < UNTRANSLATED
+
+> END STRING

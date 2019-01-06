@@ -1,0 +1,1052 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+CG回想部屋
+> CONTEXT: Map153/display_name/
+CG recollection room#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「こちらではイベントCGを鑑賞することができます。
+キャラクターに話しかけて、見たいCGを選択してください。
+> CONTEXT: Map153/events/2/pages/0/0/Dialogue
+Maid. 「You can appreciate event CG here.
+Talk to the character and select the CG you want to see.#MTLed
+> END STRING
+
+> BEGIN STRING
+また、メッセージウィンドウを消去したい場合は
+Shiftキーを押してください」
+> CONTEXT: Map153/events/2/pages/0/4/Dialogue
+Also, if you want to delete the message window
+Please press Shift key」#MTLed
+> END STRING
+
+> BEGIN STRING
+足コキ1
+> CONTEXT: Map153/events/3/pages/0/5/Choice/0
+> CONTEXT: Map153/events/15/pages/0/5/Choice/0
+> CONTEXT: Map153/events/17/pages/0/5/Choice/2
+foojob 1#MTLed
+> CONTEXT: Map153/events/3/pages/0/8/Dialogue
+> CONTEXT: Map153/events/15/pages/0/8/Dialogue
+> CONTEXT: Map153/events/17/pages/0/20/Dialogue
+foojob 1#MTLed
+> END STRING
+
+> BEGIN STRING
+足コキ2
+> CONTEXT: Map153/events/3/pages/0/5/Choice/1
+> CONTEXT: Map153/events/15/pages/0/5/Choice/1
+> CONTEXT: Map153/events/17/pages/0/5/Choice/3
+foojob 2#MTLed
+> CONTEXT: Map153/events/3/pages/0/14/Dialogue
+> CONTEXT: Map153/events/15/pages/0/14/Dialogue
+> CONTEXT: Map153/events/17/pages/0/26/Dialogue
+foojob 2#MTLed
+> END STRING
+
+> BEGIN STRING
+足コキ3
+> CONTEXT: Map153/events/3/pages/0/5/Choice/2
+> CONTEXT: Map153/events/15/pages/0/5/Choice/2
+> CONTEXT: Map153/events/17/pages/0/31/Choice/0
+foojob 3#MTLed
+> CONTEXT: Map153/events/3/pages/0/20/Dialogue
+> CONTEXT: Map153/events/15/pages/0/20/Dialogue
+> CONTEXT: Map153/events/17/pages/0/34/Dialogue
+foojob 3#MTLed
+> END STRING
+
+> BEGIN STRING
+足コキ4
+> CONTEXT: Map153/events/3/pages/0/5/Choice/3
+> CONTEXT: Map153/events/15/pages/0/5/Choice/3
+foojob 4#MTLed
+> CONTEXT: Map153/events/3/pages/0/26/Dialogue
+> CONTEXT: Map153/events/15/pages/0/26/Dialogue
+foojob 4#MTLed
+> END STRING
+
+> BEGIN STRING
+足コキ5
+> CONTEXT: Map153/events/3/pages/0/31/Choice/0
+foojob 5#MTLed
+> CONTEXT: Map153/events/3/pages/0/34/Dialogue
+foojob 5#MTLed
+> END STRING
+
+> BEGIN STRING
+足コキ6
+> CONTEXT: Map153/events/3/pages/0/31/Choice/1
+foojob 6#MTLed
+> CONTEXT: Map153/events/3/pages/0/40/Dialogue
+foojob 6#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦1
+> CONTEXT: Map153/events/3/pages/0/31/Choice/2
+reverse gangbang 1#MTLed
+> CONTEXT: Map153/events/3/pages/0/46/Dialogue
+reverse gangbang 1#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦2
+> CONTEXT: Map153/events/3/pages/0/31/Choice/3
+reverse gangbang 2#MTLed
+> CONTEXT: Map153/events/3/pages/0/52/Dialogue
+reverse gangbang 2#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦3
+> CONTEXT: Map153/events/3/pages/0/57/Choice/0
+reverse gangbang 3#MTLed
+> CONTEXT: Map153/events/3/pages/0/60/Dialogue
+reverse gangbang 3#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦4
+> CONTEXT: Map153/events/3/pages/0/57/Choice/1
+reverse gangbang 4#MTLed
+> CONTEXT: Map153/events/3/pages/0/66/Dialogue
+reverse gangbang 4#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦5
+> CONTEXT: Map153/events/3/pages/0/57/Choice/2
+reverse gangbang 5#MTLed
+> CONTEXT: Map153/events/3/pages/0/72/Dialogue
+reverse gangbang 5#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦6
+> CONTEXT: Map153/events/3/pages/0/57/Choice/3
+reverse gangbang 6#MTLed
+> CONTEXT: Map153/events/3/pages/0/78/Dialogue
+reverse gangbang 6#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦7
+> CONTEXT: Map153/events/3/pages/0/83/Choice/0
+reverse gangbang 7#MTLed
+> CONTEXT: Map153/events/3/pages/0/86/Dialogue
+reverse gangbang 7#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦8
+> CONTEXT: Map153/events/3/pages/0/83/Choice/1
+reverse gangbang 8#MTLed
+> CONTEXT: Map153/events/3/pages/0/92/Dialogue
+reverse gangbang 8#MTLed
+> END STRING
+
+> BEGIN STRING
+カットイン
+> CONTEXT: Map153/events/3/pages/0/83/Choice/2
+> CONTEXT: Map153/events/4/pages/0/83/Choice/1
+cut-in#MTLed
+> CONTEXT: Map153/events/3/pages/0/98/Dialogue
+> CONTEXT: Map153/events/4/pages/0/92/Dialogue
+cut-in#MTLed
+> END STRING
+
+> BEGIN STRING
+手コキ1
+> CONTEXT: Map153/events/4/pages/0/5/Choice/0
+> CONTEXT: Map153/events/8/pages/0/5/Choice/3
+> CONTEXT: Map153/events/13/pages/0/31/Choice/0
+Handjob 1#MTLed
+> CONTEXT: Map153/events/4/pages/0/8/Dialogue
+> CONTEXT: Map153/events/8/pages/0/26/Dialogue
+> CONTEXT: Map153/events/13/pages/0/34/Dialogue
+Handjob 1#MTLed
+> END STRING
+
+> BEGIN STRING
+手コキ2
+> CONTEXT: Map153/events/4/pages/0/5/Choice/1
+> CONTEXT: Map153/events/8/pages/0/31/Choice/0
+> CONTEXT: Map153/events/13/pages/0/31/Choice/1
+Handjob 2#MTLed
+> CONTEXT: Map153/events/4/pages/0/14/Dialogue
+> CONTEXT: Map153/events/8/pages/0/34/Dialogue
+> CONTEXT: Map153/events/13/pages/0/40/Dialogue
+Handjob 2#MTLed
+> END STRING
+
+> BEGIN STRING
+手コキ3
+> CONTEXT: Map153/events/4/pages/0/5/Choice/2
+> CONTEXT: Map153/events/8/pages/0/31/Choice/1
+> CONTEXT: Map153/events/13/pages/0/31/Choice/2
+Handjob 3#MTLed
+> CONTEXT: Map153/events/4/pages/0/20/Dialogue
+> CONTEXT: Map153/events/8/pages/0/40/Dialogue
+> CONTEXT: Map153/events/13/pages/0/46/Dialogue
+Handjob 3#MTLed
+> END STRING
+
+> BEGIN STRING
+手コキ4
+> CONTEXT: Map153/events/4/pages/0/5/Choice/3
+Handjob 4#MTLed
+> CONTEXT: Map153/events/4/pages/0/26/Dialogue
+Handjob 4#MTLed
+> END STRING
+
+> BEGIN STRING
+手コキ5
+> CONTEXT: Map153/events/4/pages/0/31/Choice/0
+Handjob 5#MTLed
+> CONTEXT: Map153/events/4/pages/0/34/Dialogue
+Handjob 5#MTLed
+> END STRING
+
+> BEGIN STRING
+手コキ6
+> CONTEXT: Map153/events/4/pages/0/31/Choice/1
+Handjob 6#MTLed
+> CONTEXT: Map153/events/4/pages/0/40/Dialogue
+Handjob 6#MTLed
+> END STRING
+
+> BEGIN STRING
+手コキ7
+> CONTEXT: Map153/events/4/pages/0/31/Choice/2
+Handjob 7#MTLed
+> CONTEXT: Map153/events/4/pages/0/46/Dialogue
+Handjob 7#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦（大会）1
+> CONTEXT: Map153/events/4/pages/0/31/Choice/3
+reverse gangbang (tournament) 1#MTLed
+> CONTEXT: Map153/events/4/pages/0/52/Dialogue
+reverse gangbang (tournament) 1#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦（大会）2
+> CONTEXT: Map153/events/4/pages/0/57/Choice/0
+reverse gangbang (tournament) 2#MTLed
+> CONTEXT: Map153/events/4/pages/0/60/Dialogue
+reverse gangbang (tournament) 2#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦（大会）3
+> CONTEXT: Map153/events/4/pages/0/57/Choice/1
+reverse gangbang (tournament) 3#MTLed
+> CONTEXT: Map153/events/4/pages/0/66/Dialogue
+reverse gangbang (tournament) 3#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦（大会）4
+> CONTEXT: Map153/events/4/pages/0/57/Choice/2
+reverse gangbang (tournament) 4#MTLed
+> CONTEXT: Map153/events/4/pages/0/72/Dialogue
+reverse gangbang (tournament) 4#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦（大会）5
+> CONTEXT: Map153/events/4/pages/0/57/Choice/3
+reverse gangbang (tournament) 5#MTLed
+> CONTEXT: Map153/events/4/pages/0/78/Dialogue
+reverse gangbang (tournament) 5#MTLed
+> END STRING
+
+> BEGIN STRING
+逆輪姦（大会）6
+> CONTEXT: Map153/events/4/pages/0/83/Choice/0
+reverse gangbang (tournament) 6#MTLed
+> CONTEXT: Map153/events/4/pages/0/86/Dialogue
+reverse gangbang (tournament) 6#MTLed
+> END STRING
+
+> BEGIN STRING
+太ももコキ1
+> CONTEXT: Map153/events/5/pages/0/5/Choice/0
+> CONTEXT: Map153/events/13/pages/0/31/Choice/3
+Thighboat 1#MTLed
+> CONTEXT: Map153/events/5/pages/0/8/Dialogue
+> CONTEXT: Map153/events/13/pages/0/52/Dialogue
+Thighboat 1#MTLed
+> END STRING
+
+> BEGIN STRING
+太ももコキ2
+> CONTEXT: Map153/events/5/pages/0/5/Choice/1
+> CONTEXT: Map153/events/13/pages/0/57/Choice/0
+Thighboat 2#MTLed
+> CONTEXT: Map153/events/5/pages/0/14/Dialogue
+> CONTEXT: Map153/events/13/pages/0/60/Dialogue
+Thighboat 2#MTLed
+> END STRING
+
+> BEGIN STRING
+太ももコキ3
+> CONTEXT: Map153/events/5/pages/0/5/Choice/2
+> CONTEXT: Map153/events/13/pages/0/57/Choice/1
+Thighbooster 3#MTLed
+> CONTEXT: Map153/events/5/pages/0/20/Dialogue
+> CONTEXT: Map153/events/13/pages/0/66/Dialogue
+Thighbooster 3#MTLed
+> END STRING
+
+> BEGIN STRING
+太ももコキ4
+> CONTEXT: Map153/events/5/pages/0/5/Choice/3
+> CONTEXT: Map153/events/13/pages/0/57/Choice/2
+Thighboat 4#MTLed
+> CONTEXT: Map153/events/5/pages/0/26/Dialogue
+> CONTEXT: Map153/events/13/pages/0/72/Dialogue
+Thighboat 4#MTLed
+> END STRING
+
+> BEGIN STRING
+カットイン（胸押し付け）
+> CONTEXT: Map153/events/5/pages/0/31/Choice/0
+cut-in (chest compress)#MTLed
+> END STRING
+
+> BEGIN STRING
+カットイン（投げキッス）
+> CONTEXT: Map153/events/5/pages/0/31/Choice/1
+cut-in (throwing kiss)#MTLed
+> END STRING
+
+> BEGIN STRING
+立ち絵
+> CONTEXT: Map153/events/5/pages/0/31/Choice/2
+> CONTEXT: Map153/events/10/pages/0/57/Choice/1
+> CONTEXT: Map153/events/11/pages/0/161/Choice/2
+> CONTEXT: Map153/events/18/pages/0/83/Choice/0
+standing picture#MTLed
+> CONTEXT: Map153/events/5/pages/0/46/Dialogue
+> CONTEXT: Map153/events/10/pages/0/66/Dialogue
+> CONTEXT: Map153/events/11/pages/0/176/Dialogue
+> CONTEXT: Map153/events/18/pages/0/86/Dialogue
+standing picture#MTLed
+> END STRING
+
+> BEGIN STRING
+カットイン1
+> CONTEXT: Map153/events/5/pages/0/34/Dialogue
+cut-in 1#MTLed
+> END STRING
+
+> BEGIN STRING
+カットイン2
+> CONTEXT: Map153/events/5/pages/0/40/Dialogue
+cut-in 2#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「多人数プレイにつきましては、
+盗賊団の逆輪姦はバンディットガールとロリータバンディットに、
+年下コンビHについてはプリムに話しかければ選択できますよ。
+> CONTEXT: Map153/events/7/pages/0/0/Dialogue
+A maid. 「Regarding multiplayer play, The band gangbang's
+reverse gangbang to bandit girl and bandit teen,
+For younger combination H, you can choose it if you speak
+to Purim.#MTLed
+> END STRING
+
+> BEGIN STRING
+また、汎用CGについては
+ジェーンに話しかければ鑑賞できます」
+> CONTEXT: Map153/events/7/pages/0/5/Dialogue
+For general purpose CG. If you talk to Jane you can
+appreciate it」#MTLed
+> END STRING
+
+> BEGIN STRING
+対プリム敗北1
+> CONTEXT: Map153/events/8/pages/0/5/Choice/0
+Pair defeat 1#MTLed
+> CONTEXT: Map153/events/8/pages/0/8/Dialogue
+Pair defeat 1#MTLed
+> END STRING
+
+> BEGIN STRING
+対プリム敗北2
+> CONTEXT: Map153/events/8/pages/0/5/Choice/1
+Pair defeat 2#MTLed
+> CONTEXT: Map153/events/8/pages/0/14/Dialogue
+Pair defeat 2#MTLed
+> END STRING
+
+> BEGIN STRING
+対プリム敗北3
+> CONTEXT: Map153/events/8/pages/0/5/Choice/2
+Pair defeat vs 3#MTLed
+> CONTEXT: Map153/events/8/pages/0/20/Dialogue
+Pair defeat vs 3#MTLed
+> END STRING
+
+> BEGIN STRING
+年下コンビ1
+> CONTEXT: Map153/events/8/pages/0/31/Choice/2
+Youngest combination 1#MTLed
+> CONTEXT: Map153/events/8/pages/0/46/Dialogue
+Youngest combination 1#MTLed
+> END STRING
+
+> BEGIN STRING
+年下コンビ2
+> CONTEXT: Map153/events/8/pages/0/31/Choice/3
+Younger Combi 2#MTLed
+> CONTEXT: Map153/events/8/pages/0/52/Dialogue
+Younger Combi 2#MTLed
+> END STRING
+
+> BEGIN STRING
+年下コンビ3
+> CONTEXT: Map153/events/8/pages/0/57/Choice/0
+Younger Combi 3#MTLed
+> CONTEXT: Map153/events/8/pages/0/60/Dialogue
+Younger Combi 3#MTLed
+> END STRING
+
+> BEGIN STRING
+年下コンビ4
+> CONTEXT: Map153/events/8/pages/0/57/Choice/1
+Younger Combi 4#MTLed
+> CONTEXT: Map153/events/8/pages/0/66/Dialogue
+Younger Combi 4#MTLed
+> END STRING
+
+> BEGIN STRING
+年下コンビ5
+> CONTEXT: Map153/events/8/pages/0/57/Choice/2
+Younger Combi 5#MTLed
+> CONTEXT: Map153/events/8/pages/0/72/Dialogue
+Younger Combi 5#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗足コキ1
+> CONTEXT: Map153/events/9/pages/0/5/Choice/0
+Facesitting foojob 1#MTLed
+> CONTEXT: Map153/events/9/pages/0/8/Dialogue
+Facesitting foojob 1#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗足コキ2
+> CONTEXT: Map153/events/9/pages/0/5/Choice/1
+Facesitting foojob 2#MTLed
+> CONTEXT: Map153/events/9/pages/0/14/Dialogue
+Facesitting foojob 2#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗足コキ3
+> CONTEXT: Map153/events/9/pages/0/5/Choice/2
+Facesitting foojob 3#MTLed
+> CONTEXT: Map153/events/9/pages/0/20/Dialogue
+Facesitting foojob 3#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗足コキ4
+> CONTEXT: Map153/events/9/pages/0/5/Choice/3
+Facesitting foojob 4#MTLed
+> CONTEXT: Map153/events/9/pages/0/26/Dialogue
+Facesitting foojob 4#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗足コキ5
+> CONTEXT: Map153/events/9/pages/0/31/Choice/0
+Facesitting foojob 5#MTLed
+> CONTEXT: Map153/events/9/pages/0/34/Dialogue
+Facesitting foojob 5#MTLed
+> END STRING
+
+> BEGIN STRING
+シックスナイン1
+> CONTEXT: Map153/events/9/pages/0/31/Choice/1
+69 1#MTLed
+> CONTEXT: Map153/events/9/pages/0/40/Dialogue
+69 1#MTLed
+> END STRING
+
+> BEGIN STRING
+シックスナイン2
+> CONTEXT: Map153/events/9/pages/0/31/Choice/2
+69 2#MTLed
+> CONTEXT: Map153/events/9/pages/0/46/Dialogue
+69 2#MTLed
+> END STRING
+
+> BEGIN STRING
+シックスナイン3
+> CONTEXT: Map153/events/9/pages/0/31/Choice/3
+69 3#MTLed
+> CONTEXT: Map153/events/9/pages/0/52/Dialogue
+69 3#MTLed
+> END STRING
+
+> BEGIN STRING
+シックスナイン4
+> CONTEXT: Map153/events/9/pages/0/57/Choice/0
+69 4#MTLed
+> CONTEXT: Map153/events/9/pages/0/60/Dialogue
+69 4#MTLed
+> END STRING
+
+> BEGIN STRING
+シックスナイン5
+> CONTEXT: Map153/events/9/pages/0/57/Choice/1
+69 5#MTLed
+> CONTEXT: Map153/events/9/pages/0/66/Dialogue
+69 5#MTLed
+> END STRING
+
+> BEGIN STRING
+シックスナイン6
+> CONTEXT: Map153/events/9/pages/0/57/Choice/2
+69 6#MTLed
+> CONTEXT: Map153/events/9/pages/0/72/Dialogue
+69 6#MTLed
+> END STRING
+
+> BEGIN STRING
+シックスナイン7
+> CONTEXT: Map153/events/9/pages/0/57/Choice/3
+69 7#MTLed
+> CONTEXT: Map153/events/9/pages/0/78/Dialogue
+69 7#MTLed
+> END STRING
+
+> BEGIN STRING
+シックスナイン8
+> CONTEXT: Map153/events/9/pages/0/83/Choice/0
+69 8#MTLed
+> CONTEXT: Map153/events/9/pages/0/86/Dialogue
+69 8#MTLed
+> END STRING
+
+> BEGIN STRING
+シックスナイン9
+> CONTEXT: Map153/events/9/pages/0/83/Choice/1
+69 9#MTLed
+> CONTEXT: Map153/events/9/pages/0/92/Dialogue
+69 9#MTLed
+> END STRING
+
+> BEGIN STRING
+シックスナイン10
+> CONTEXT: Map153/events/9/pages/0/83/Choice/2
+69 10#MTLed
+> CONTEXT: Map153/events/9/pages/0/98/Dialogue
+69 10#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗手コキ1
+> CONTEXT: Map153/events/10/pages/0/5/Choice/0
+Facesitting handjob 1#MTLed
+> CONTEXT: Map153/events/10/pages/0/8/Dialogue
+Facesitting handjob 1#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗手コキ2
+> CONTEXT: Map153/events/10/pages/0/5/Choice/1
+Facesitting handjob 2#MTLed
+> CONTEXT: Map153/events/10/pages/0/14/Dialogue
+Facesitting handjob 2#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗手コキ3
+> CONTEXT: Map153/events/10/pages/0/5/Choice/2
+Facesitting handjob 3#MTLed
+> CONTEXT: Map153/events/10/pages/0/20/Dialogue
+Facesitting handjob 3#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗手コキ4
+> CONTEXT: Map153/events/10/pages/0/5/Choice/3
+Facesitting handjob 4#MTLed
+> CONTEXT: Map153/events/10/pages/0/26/Dialogue
+Facesitting handjob 4#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗手コキ5
+> CONTEXT: Map153/events/10/pages/0/31/Choice/0
+Facesitting handjob 5#MTLed
+> CONTEXT: Map153/events/10/pages/0/34/Dialogue
+Facesitting handjob 5#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗手コキ6
+> CONTEXT: Map153/events/10/pages/0/31/Choice/1
+Facesitting handjob 6#MTLed
+> CONTEXT: Map153/events/10/pages/0/40/Dialogue
+Facesitting handjob 6#MTLed
+> END STRING
+
+> BEGIN STRING
+セックス5
+> CONTEXT: Map153/events/11/pages/0/31/Choice/0
+> CONTEXT: Map153/events/13/pages/0/83/Choice/3
+> CONTEXT: Map153/events/16/pages/0/57/Choice/1
+> CONTEXT: Map153/events/17/pages/0/83/Choice/3
+Sex 5#MTLed
+> CONTEXT: Map153/events/11/pages/0/34/Dialogue
+> CONTEXT: Map153/events/13/pages/0/104/Dialogue
+> CONTEXT: Map153/events/16/pages/0/66/Dialogue
+> CONTEXT: Map153/events/17/pages/0/104/Dialogue
+Sex 5#MTLed
+> END STRING
+
+> BEGIN STRING
+セックス6
+> CONTEXT: Map153/events/11/pages/0/31/Choice/1
+> CONTEXT: Map153/events/13/pages/0/109/Choice/0
+> CONTEXT: Map153/events/17/pages/0/109/Choice/0
+Sex 6#MTLed
+> CONTEXT: Map153/events/11/pages/0/40/Dialogue
+> CONTEXT: Map153/events/13/pages/0/112/Dialogue
+> CONTEXT: Map153/events/17/pages/0/112/Dialogue
+Sex 6#MTLed
+> END STRING
+
+> BEGIN STRING
+セックス7
+> CONTEXT: Map153/events/11/pages/0/31/Choice/2
+> CONTEXT: Map153/events/13/pages/0/109/Choice/1
+> CONTEXT: Map153/events/17/pages/0/109/Choice/1
+Sex 7#MTLed
+> CONTEXT: Map153/events/11/pages/0/46/Dialogue
+> CONTEXT: Map153/events/13/pages/0/118/Dialogue
+> CONTEXT: Map153/events/17/pages/0/118/Dialogue
+Sex 7#MTLed
+> END STRING
+
+> BEGIN STRING
+セックス8
+> CONTEXT: Map153/events/11/pages/0/31/Choice/3
+> CONTEXT: Map153/events/13/pages/0/109/Choice/2
+> CONTEXT: Map153/events/17/pages/0/109/Choice/2
+Sex 8#MTLed
+> CONTEXT: Map153/events/11/pages/0/52/Dialogue
+> CONTEXT: Map153/events/13/pages/0/124/Dialogue
+> CONTEXT: Map153/events/17/pages/0/124/Dialogue
+Sex 8#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ7
+> CONTEXT: Map153/events/11/pages/0/83/Choice/2
+Fucking 7#MTLed
+> CONTEXT: Map153/events/11/pages/0/98/Dialogue
+Fucking 7#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ8
+> CONTEXT: Map153/events/11/pages/0/83/Choice/3
+Fucking 8#MTLed
+> CONTEXT: Map153/events/11/pages/0/104/Dialogue
+Fucking 8#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ9
+> CONTEXT: Map153/events/11/pages/0/109/Choice/0
+Fucking 9#MTLed
+> CONTEXT: Map153/events/11/pages/0/112/Dialogue
+Fucking 9#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ10
+> CONTEXT: Map153/events/11/pages/0/109/Choice/1
+Fucking 10#MTLed
+> CONTEXT: Map153/events/11/pages/0/118/Dialogue
+Fucking 10#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ11
+> CONTEXT: Map153/events/11/pages/0/109/Choice/2
+Fucking 11#MTLed
+> CONTEXT: Map153/events/11/pages/0/124/Dialogue
+Fucking 11#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ12
+> CONTEXT: Map153/events/11/pages/0/109/Choice/3
+Fucking 12#MTLed
+> CONTEXT: Map153/events/11/pages/0/130/Dialogue
+Fucking 12#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ13
+> CONTEXT: Map153/events/11/pages/0/135/Choice/0
+Fucking 13#MTLed
+> CONTEXT: Map153/events/11/pages/0/138/Dialogue
+Fucking 13#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ14
+> CONTEXT: Map153/events/11/pages/0/135/Choice/1
+Fucking 14#MTLed
+> CONTEXT: Map153/events/11/pages/0/144/Dialogue
+Fucking 14#MTLed
+> END STRING
+
+> BEGIN STRING
+カットイン（太もも絞め）
+> CONTEXT: Map153/events/11/pages/0/135/Choice/3
+cut-in (thigh tightening)#MTLed
+> CONTEXT: Map153/events/11/pages/0/156/Dialogue
+cut-in (thigh tightening)#MTLed
+> END STRING
+
+> BEGIN STRING
+カットイン（キス）
+> CONTEXT: Map153/events/11/pages/0/161/Choice/1
+> CONTEXT: Map153/events/18/pages/0/57/Choice/3
+cut-in (kiss)#MTLed
+> CONTEXT: Map153/events/11/pages/0/170/Dialogue
+> CONTEXT: Map153/events/18/pages/0/78/Dialogue
+cut-in (kiss)#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン立ち絵1
+> CONTEXT: Map153/events/12/pages/0/5/Choice/0
+Jane standing picture 1#MTLed
+> CONTEXT: Map153/events/12/pages/0/8/Dialogue
+Jane standing picture 1#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン立ち絵2
+> CONTEXT: Map153/events/12/pages/0/5/Choice/1
+Jane standing picture 2#MTLed
+> CONTEXT: Map153/events/12/pages/0/14/Dialogue
+Jane standing picture 2#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン立ち絵3
+> CONTEXT: Map153/events/12/pages/0/5/Choice/2
+Jane standing picture 3#MTLed
+> CONTEXT: Map153/events/12/pages/0/20/Dialogue
+Jane standing picture 3#MTLed
+> END STRING
+
+> BEGIN STRING
+踏みつけ（汎用）
+> CONTEXT: Map153/events/12/pages/0/5/Choice/3
+Trampling (general purpose)#MTLed
+> CONTEXT: Map153/events/12/pages/0/26/Dialogue
+Trampling (general purpose)#MTLed
+> END STRING
+
+> BEGIN STRING
+顔面騎乗（汎用）
+> CONTEXT: Map153/events/12/pages/0/31/Choice/0
+Facesitting (general purpose)#MTLed
+> CONTEXT: Map153/events/12/pages/0/34/Dialogue
+Facesitting (general purpose)#MTLed
+> END STRING
+
+> BEGIN STRING
+対シェリー敗北1
+> CONTEXT: Map153/events/13/pages/0/5/Choice/0
+Shelley defeat 1#MTLed
+> CONTEXT: Map153/events/13/pages/0/8/Dialogue
+Shelley defeat 1#MTLed
+> END STRING
+
+> BEGIN STRING
+対シェリー敗北2
+> CONTEXT: Map153/events/13/pages/0/5/Choice/1
+Sherry defeat 2#MTLed
+> CONTEXT: Map153/events/13/pages/0/14/Dialogue
+Sherry defeat 2#MTLed
+> END STRING
+
+> BEGIN STRING
+対シェリー敗北3
+> CONTEXT: Map153/events/13/pages/0/5/Choice/2
+Shelley defeat 3#MTLed
+> CONTEXT: Map153/events/13/pages/0/20/Dialogue
+Shelley defeat 3#MTLed
+> END STRING
+
+> BEGIN STRING
+対シェリー敗北4
+> CONTEXT: Map153/events/13/pages/0/5/Choice/3
+Shelley defeat 4#MTLed
+> CONTEXT: Map153/events/13/pages/0/26/Dialogue
+Shelley defeat 4#MTLed
+> END STRING
+
+> BEGIN STRING
+セックス9
+> CONTEXT: Map153/events/13/pages/0/109/Choice/3
+> CONTEXT: Map153/events/17/pages/0/109/Choice/3
+Sex 9#MTLed
+> CONTEXT: Map153/events/13/pages/0/130/Dialogue
+> CONTEXT: Map153/events/17/pages/0/130/Dialogue
+Sex 9#MTLed
+> END STRING
+
+> BEGIN STRING
+尻コキ1
+> CONTEXT: Map153/events/14/pages/0/5/Choice/0
+Hip hop 1#MTLed
+> CONTEXT: Map153/events/14/pages/0/8/Dialogue
+Hip hop 1#MTLed
+> END STRING
+
+> BEGIN STRING
+尻コキ2
+> CONTEXT: Map153/events/14/pages/0/5/Choice/1
+Hip hop 2#MTLed
+> CONTEXT: Map153/events/14/pages/0/14/Dialogue
+Hip hop 2#MTLed
+> END STRING
+
+> BEGIN STRING
+尻コキ3
+> CONTEXT: Map153/events/14/pages/0/5/Choice/2
+Ass fuck 3#MTLed
+> CONTEXT: Map153/events/14/pages/0/20/Dialogue
+Ass fuck 3#MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱいプレス1
+> CONTEXT: Map153/events/14/pages/0/5/Choice/3
+Breast Press 1#MTLed
+> CONTEXT: Map153/events/14/pages/0/26/Dialogue
+Breast Press 1#MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱいプレス2
+> CONTEXT: Map153/events/14/pages/0/31/Choice/0
+Breast Press 2#MTLed
+> CONTEXT: Map153/events/14/pages/0/34/Dialogue
+Breast Press 2#MTLed
+> END STRING
+
+> BEGIN STRING
+おっぱいプレス3
+> CONTEXT: Map153/events/14/pages/0/31/Choice/1
+Breast Press 3#MTLed
+> CONTEXT: Map153/events/14/pages/0/40/Dialogue
+Breast Press 3#MTLed
+> END STRING
+
+> BEGIN STRING
+立ち絵3（パンチラ）
+> CONTEXT: Map153/events/14/pages/0/57/Choice/0
+standing picture 3 (panty shot)#MTLed
+> END STRING
+
+> BEGIN STRING
+立ち絵3
+> CONTEXT: Map153/events/14/pages/0/60/Dialogue
+standing picture 3#MTLed
+> END STRING
+
+> BEGIN STRING
+立ち絵2（脱衣）
+> CONTEXT: Map153/events/15/pages/0/31/Choice/1
+> CONTEXT: Map153/events/16/pages/0/57/Choice/3
+standing picture 2 (undressing)#MTLed
+> END STRING
+
+> BEGIN STRING
+お尻ペンペン1
+> CONTEXT: Map153/events/16/pages/0/5/Choice/0
+Butt 1#MTLed
+> CONTEXT: Map153/events/16/pages/0/8/Dialogue
+Butt 1#MTLed
+> END STRING
+
+> BEGIN STRING
+お尻ペンペン2
+> CONTEXT: Map153/events/16/pages/0/5/Choice/1
+Butt 2#MTLed
+> CONTEXT: Map153/events/16/pages/0/14/Dialogue
+Butt 2#MTLed
+> END STRING
+
+> BEGIN STRING
+お尻ペンペン3
+> CONTEXT: Map153/events/16/pages/0/5/Choice/2
+Butt 3#MTLed
+> CONTEXT: Map153/events/16/pages/0/20/Dialogue
+Butt 3#MTLed
+> END STRING
+
+> BEGIN STRING
+お尻ペンペン4
+> CONTEXT: Map153/events/16/pages/0/5/Choice/3
+Butt 4#MTLed
+> CONTEXT: Map153/events/16/pages/0/26/Dialogue
+Butt 4#MTLed
+> END STRING
+
+> BEGIN STRING
+お尻ペンペン5
+> CONTEXT: Map153/events/16/pages/0/31/Choice/0
+Butt 5#MTLed
+> CONTEXT: Map153/events/16/pages/0/34/Dialogue
+Butt 5#MTLed
+> END STRING
+
+> BEGIN STRING
+対アルミナ敗北1
+> CONTEXT: Map153/events/17/pages/0/5/Choice/0
+Alone against defeat 1#MTLed
+> CONTEXT: Map153/events/17/pages/0/8/Dialogue
+Alone against defeat 1#MTLed
+> END STRING
+
+> BEGIN STRING
+対アルミナ敗北2
+> CONTEXT: Map153/events/17/pages/0/5/Choice/1
+Vs alumina defeat 2#MTLed
+> CONTEXT: Map153/events/17/pages/0/14/Dialogue
+Vs alumina defeat 2#MTLed
+> END STRING
+
+> BEGIN STRING
+椅子1
+> CONTEXT: Map153/events/17/pages/0/31/Choice/1
+Chair 1#MTLed
+> CONTEXT: Map153/events/17/pages/0/40/Dialogue
+Chair 1#MTLed
+> END STRING
+
+> BEGIN STRING
+椅子2
+> CONTEXT: Map153/events/17/pages/0/31/Choice/2
+Chair 2#MTLed
+> CONTEXT: Map153/events/17/pages/0/46/Dialogue
+Chair 2#MTLed
+> END STRING
+
+> BEGIN STRING
+椅子3
+> CONTEXT: Map153/events/17/pages/0/31/Choice/3
+Chair 3#MTLed
+> CONTEXT: Map153/events/17/pages/0/52/Dialogue
+Chair 3#MTLed
+> END STRING
+
+> BEGIN STRING
+椅子4
+> CONTEXT: Map153/events/17/pages/0/57/Choice/0
+Chair 4#MTLed
+> CONTEXT: Map153/events/17/pages/0/60/Dialogue
+Chair 4#MTLed
+> END STRING
+
+> BEGIN STRING
+椅子5
+> CONTEXT: Map153/events/17/pages/0/57/Choice/1
+Chair 5#MTLed
+> CONTEXT: Map153/events/17/pages/0/66/Dialogue
+Chair 5#MTLed
+> END STRING
+
+> BEGIN STRING
+椅子6
+> CONTEXT: Map153/events/17/pages/0/57/Choice/2
+Chair 6#MTLed
+> CONTEXT: Map153/events/17/pages/0/72/Dialogue
+Chair 6#MTLed
+> END STRING
+
+> BEGIN STRING
+立ち絵2（ドレス破れ）
+> CONTEXT: Map153/events/17/pages/0/135/Choice/1
+standing picture 2 (Dress tear)#MTLed
+> END STRING
+
+> BEGIN STRING
+立ち絵（大）
+> CONTEXT: Map153/events/17/pages/0/135/Choice/2
+standing picture (large)#MTLed
+> CONTEXT: Map153/events/17/pages/0/154/Dialogue
+standing picture (large)#MTLed
+> END STRING
+
+> BEGIN STRING
+キス手コキ1
+> CONTEXT: Map153/events/18/pages/0/5/Choice/0
+Kiss handjob 1#MTLed
+> CONTEXT: Map153/events/18/pages/0/8/Dialogue
+Kiss handjob 1#MTLed
+> END STRING
+
+> BEGIN STRING
+キス手コキ2
+> CONTEXT: Map153/events/18/pages/0/5/Choice/1
+Kiss handjob 2#MTLed
+> CONTEXT: Map153/events/18/pages/0/14/Dialogue
+Kiss handjob 2#MTLed
+> END STRING
+
+> BEGIN STRING
+キス手コキ3
+> CONTEXT: Map153/events/18/pages/0/5/Choice/2
+Kiss handjob 3#MTLed
+> CONTEXT: Map153/events/18/pages/0/20/Dialogue
+Kiss handjob 3#MTLed
+> END STRING
+
+> BEGIN STRING
+キス手コキ4
+> CONTEXT: Map153/events/18/pages/0/5/Choice/3
+Kiss handjob 4#MTLed
+> CONTEXT: Map153/events/18/pages/0/26/Dialogue
+Kiss handjob 4#MTLed
+> END STRING
+
+> BEGIN STRING
+キス手コキ5
+> CONTEXT: Map153/events/18/pages/0/31/Choice/0
+Kiss handjob 5#MTLed
+> CONTEXT: Map153/events/18/pages/0/34/Dialogue
+Kiss handjob 5#MTLed
+> END STRING
+
+> BEGIN STRING
+キス手コキ6
+> CONTEXT: Map153/events/18/pages/0/31/Choice/1
+Kiss Handjob 6#MTLed
+> CONTEXT: Map153/events/18/pages/0/40/Dialogue
+Kiss Handjob 6#MTLed
+> END STRING

@@ -1,0 +1,151 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エルミア南街道
+> CONTEXT: Map020/display_name/
+Elmia Minamichido#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「ここはレストン街道の警備のための詰め所です」
+> CONTEXT: Map020/events/2/pages/0/0/Dialogue
+A soldier. 「This is a packing room for security
+of the Reston highway」#MTLed
+> END STRING
+
+> BEGIN STRING
+↑：王都エルミア
+←：レヴァスティの森
+> CONTEXT: Map020/events/3/pages/0/0/Dialogue
+↑: Elmia the Kingdom. ←: Forest of Lavasti#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「こいつらを許してやってくれてありがとう、坊や。
+恩に着るよ、こんな連中でも
+あたしにとっちゃ身内なんでね」
+> CONTEXT: Map020/events/12/pages/0/1/Dialogue
+velvet. 「Thank you for forgiving these guys, boy.
+I will wear you, even these people
+For me it's my family」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ふんっ。
+礼なんて言わないからね！」
+> CONTEXT: Map020/events/12/pages/0/7/Dialogue
+Bandit Girl. 「Honda. I will not say bow!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「ありがとー、おにいさん！
+このお礼は、そのうち必ずするからね！」
+> CONTEXT: Map020/events/12/pages/0/12/Dialogue
+bandit teen. 「Thanks, brother! I will do for sure this
+thank you indeed!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「ふふっ、私たちを許してくれるだなんて、優しいのね。
+今度会ったときは、えっちなお礼をいっぱいしてあげる♪」
+> CONTEXT: Map020/events/12/pages/0/17/Dialogue
+sexy bandit. 「Huh, it is kind of you to forgive us.
+Next time I see you, I will fill up a nice gratitude♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ったく、あんたたち本当に反省してるんだろうね。
+今後はあたしらは真っ当にやっていくんだ、
+ちゃんと心を入れ替えるんだよ」
+> CONTEXT: Map020/events/12/pages/0/24/Dialogue
+velvet. 「Well, you guys are really reflective.
+In future we will be doing really,
+Try swapping your heart properly」#MTLed
+> END STRING
+
+> BEGIN STRING
+三人
+「はーい」
+> CONTEXT: Map020/events/12/pages/0/29/Dialogue
+Three people. 「Yes」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あんたたちは、これからどうするんだ？」
+> CONTEXT: Map020/events/12/pages/0/34/Dialogue
+\\N[12]. 「What are you going to do now?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ま、これからは傭兵でもして食っていくさ。
+あたしら全員、それだけの腕はあるからね」
+> CONTEXT: Map020/events/12/pages/0/37/Dialogue
+velvet. 「Well, from now on I will eat as a
+mercenary. Everyone, we have that much arm」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そっか。
+あんたとは、いいライバルでいられる気がするよ。
+またどこかで会ったら、手合わせ頼むぜ」
+> CONTEXT: Map020/events/12/pages/0/41/Dialogue
+\\N[12]. 「I see. I feel like I can be a good rival.
+If you meet again somewhere, I will ask you to give me a
+hand.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ふっ、坊やは不思議な男だね。
+こんなはぐれ者のあたしを、まるで武人のように扱う。
+そんな奴は初めてだよ。
+> CONTEXT: Map020/events/12/pages/0/46/Dialogue
+velvet. 「Fu, the boy is a strange man.
+I treat me like this as if it were a warrior.
+Such a guy is the first time.#MTLed
+> END STRING
+
+> BEGIN STRING
+いずれ、あんたはあたしの物にしたいもんだ。
+あたしにとって、あんたはそれだけの価値のある男だよ。
+そのときまで、他の女に負けるんじゃないよ」
+> CONTEXT: Map020/events/12/pages/0/51/Dialogue
+In any case, you want me to do it.
+For me, you are worth that much.
+Until then, do not lose to other girls」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ。
+そっちも、元気で」
+> CONTEXT: Map020/events/12/pages/0/55/Dialogue
+\\N[12]. 「Oh. Well, also how about you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「よし！
+あんたたち、今後は本腰入れて鍛えるからね。
+ビシビシいくから、そのつもりでいるんだよ！」
+> CONTEXT: Map020/events/12/pages/0/61/Dialogue
+velvet. 「All right! You guys are going to keep
+it going forward. I will do so because I'm going!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、ベルベット盗賊団は
+傭兵団となり、いずこかへと旅立っていった――
+> CONTEXT: Map020/events/12/pages/0/70/Dialogue
+Thus, the velvet thief. Became a mercenary group and left
+for somewhere -#MTLed
+> END STRING

@@ -1,0 +1,478 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+グランレルム家
+> CONTEXT: Map038/display_name/
+Grandrealm family#MTLed
+> END STRING
+
+> BEGIN STRING
+執事
+「ようこそ、グランレルム家へ。
+とはいえ、ご主人様はご不在ですが……」
+> CONTEXT: Map038/events/5/pages/0/0/Dialogue
+Butler. 「Welcome to the Grandrealm family.
+However, although the master is absent ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+執事
+「ようこそ、グランレルム家へ」
+> CONTEXT: Map038/events/5/pages/1/0/Dialogue
+> CONTEXT: Map038/events/5/pages/2/0/Dialogue
+Butler. 「Welcome to Grandrealm Home」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド
+「ご主人様は、お屋敷にいることがめっきり少なくなりました。
+奥様を亡くされてからというもの、
+この広いお屋敷にいることが寂しいみたいで……」
+> CONTEXT: Map038/events/6/pages/0/0/Dialogue
+A maid. 「Your husband got less clearly to be in the
+mansion. After having lost his wife, It seems lonesome to
+be in this large mansion ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+使用人
+「ご主人様には跡取りができなかった。
+このままじゃ、お家は断絶になっちまう様子でな。
+先行きを危うんでベックフォード家に転職した使用人も多い」
+> CONTEXT: Map038/events/7/pages/0/0/Dialogue
+Servant. 「The master could not trace. As it is, the house
+seems to be disconnected. Many servants have changed jobs
+to the Beckford family because they are in danger of the
+future」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「何か用かね？」
+> CONTEXT: Map038/events/9/pages/0/0/Dialogue
+> CONTEXT: Map038/events/9/pages/1/0/Dialogue
+Earl Grandrealm. 「Is it for something?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「失礼します。
+ギルドで養子候補を探しているという依頼を見て、
+詳細を聞きたいと思って来てみたんですが」
+> CONTEXT: Map038/events/9/pages/1/3/Dialogue
+\\N[12]. 「Excuse me. Looking at the request to search
+for a adopted candidate in the guild, I thought I would
+like to hear the details」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「ああ、そのことかね。
+じつは、私は妻を早くに亡くし、跡継ぎがいなくてね。
+> CONTEXT: Map038/events/9/pages/1/8/Dialogue
+Earl Grandrealm. 「Oh, that's right. Actually, I lost my
+wife early and have no successor.#MTLed
+> END STRING
+
+> BEGIN STRING
+このままでは当家は断絶してしまう。それを避けるために、
+養子にふさわしい人間を探しているんだ。
+手は尽くしたいと思って、ギルドにも依頼をしてみたんだよ」
+> CONTEXT: Map038/events/9/pages/1/12/Dialogue
+In this way the house will be severed. To avoid that,
+I am looking for a man to be adopted. I thought that I
+wanted to do my best and I asked for a guild」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（なるほど。ギルドへの依頼はダメ元って感じで、
+あんまり期待されてなさそうだが……
+どう答えようか？）
+> CONTEXT: Map038/events/9/pages/1/16/Dialogue
+\\N[12]. (Indeed, the request to the guild is a feeling
+that it was bad, It seems not to expect much though ... ...
+How shall we answer? )#MTLed
+> END STRING
+
+> BEGIN STRING
+どんな人物がいいんですか？
+> CONTEXT: Map038/events/9/pages/1/21/Choice/0
+What kind of person do you want?#MTLed
+> END STRING
+
+> BEGIN STRING
+俺じゃダメですか？
+> CONTEXT: Map038/events/9/pages/1/21/Choice/1
+Is not it useless?#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「グランレルム伯爵家はエルミア王国貴族の中でも
+名門中の名門なのだ。
+まあ、現在はやや陰りが見えているかもしれないが……
+> CONTEXT: Map038/events/9/pages/1/23/Dialogue
+Earl Grandrealm. 「Earl Grandrealm family is among the
+noblemen of Kingdom of Elmia. It is a prestige within the
+prestige. Well, now it may be somewhat negative, but ...#MTLed
+> END STRING
+
+> BEGIN STRING
+そのようなわけで、できれば当家にふさわしい気品が欲しいが
+しかし贅沢は言わない。
+気立てがよく、豊かな将来性を持つ子女であれば、
+迎え入れたいと思っている」
+> CONTEXT: Map038/events/9/pages/1/28/Dialogue
+For that reason, I would like a refinery suitable for our
+home if possible. But I do not say luxury.
+If you are a good-natured, rich and prospective child,
+I want to pick you up.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど。
+気立てと将来性ね……」
+> CONTEXT: Map038/events/9/pages/1/33/Dialogue
+\\N[12]. 「I see. I am kind and prospective ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「今のままでは、王宮におけるベックフォード家の地位が
+高まり続け、専横を許し続けることになってしまう。
+対抗するためにも、優秀な跡継ぎを育て上げねば……
+> CONTEXT: Map038/events/9/pages/1/37/Dialogue
+Earl Grandrealm. 「As it is now, the status of the Beckford
+family in the royal palace is. It continues to rise, I will
+continue to allow professionalism. In order to compete, you
+must raise excellent successors ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+そのようなわけだ。
+心当たりがあれば、いつでも知らせてくれたまえ」
+> CONTEXT: Map038/events/9/pages/1/42/Dialogue
+That's it. If you know it, please let me know at any time.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました。
+それらしい候補がいたらお知らせします」
+> CONTEXT: Map038/events/9/pages/1/45/Dialogue
+\\N[12]. 「understood. I will let you know when there
+are likely candidates like that」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（とは言ったものの、これは難しいなあ。
+貴族としてやっていけそうなぐらい将来性豊かな子女か……
+都合よく、そんなのが転がってるかなあ？
+> CONTEXT: Map038/events/9/pages/1/49/Dialogue
+\\N[12]. (Although it said, this is difficult.
+Is it a prospective progeny enough to be able to do as a
+nobleman ...... Conveniently, is such a thing rolling?#MTLed
+> END STRING
+
+> BEGIN STRING
+何となくだが、これは報酬を求めるようなものじゃなく
+\\C[2]冒険の終わりに関わる依頼\\C[0]のような気がする。
+武道大会が終わるまでに探せるかどうか怪しいし……
+気長に構えるとしよう）
+> CONTEXT: Map038/events/9/pages/1/54/Dialogue
+> CONTEXT: Map038/events/9/pages/1/108/Dialogue
+Somehow, this is not like asking for reward
+\\C[2]Requests related to the end of adventure\\C[0] I feel like.
+It is suspicious whether I can find it before martial arts
+tournament is over ...... Let's say that you are willing to
+be patient)#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「キミかね？
+ふむ、キミは確か武道大会の出場者だったな、
+貴賓席から戦いぶりを見たよ」
+> CONTEXT: Map038/events/9/pages/1/61/Dialogue
+Earl Grandrealm. 「Are not you? Hmm, you were a contestant
+of martial arts tournament, I saw the fight from the VIP
+seat」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、そうだったんですか」
+> CONTEXT: Map038/events/9/pages/1/66/Dialogue
+\\N[12]. 「Oh, was that so」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「一次予選を勝ち抜ける腕前を持っているのは、たいしたものだ。
+ただ、キミは王都の生まれではないね？
+高等教育は受けているのか？」
+> CONTEXT: Map038/events/9/pages/1/69/Dialogue
+Earl Grandrealm. 「It is a big deal to have the skills to
+win the primary preliminaries. But you are not born the
+kingdom? Have you received higher education?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、南のレストンから来ました。
+学校とかには、通ったことはないですね」
+> CONTEXT: Map038/events/9/pages/1/74/Dialogue
+\\N[12]. 「Yes, I came from Reston in the south.
+I have never gone to school」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「地方の生まれであることを蔑む意図はないが――
+しかし、キミの年齢であれば
+ある程度貴族として完成されていなければ、
+> CONTEXT: Map038/events/9/pages/1/78/Dialogue
+Earl Grandrealm. 「There is no intention to despise being
+born in rural areas -. However, if you are your age
+Unless it is completed to some extent as a nobleman,#MTLed
+> END STRING
+
+> BEGIN STRING
+王宮で貴族として振る舞うのは難しいだろう。
+せっかくだが、腕が立つというだけでは
+養子に迎え入れることはできないね」
+> CONTEXT: Map038/events/9/pages/1/83/Dialogue
+It would be difficult to act as a nobleman in the royal
+palace. Although it is troublesome, if you just say that
+your arms stand up. I can not adopt it for adoption」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうっすか、わかりました」
+> CONTEXT: Map038/events/9/pages/1/87/Dialogue
+\\N[12]. 「Ok, I understand.」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「若ければ、私がいくらでも貴族の心得を教えることができる。
+豊かな将来性と気立ての良さを兼ね備えた、
+これぞという子女を探してほしいのだ」
+> CONTEXT: Map038/events/9/pages/1/90/Dialogue
+Earl Grandrealm. 「If young, I can teach you how much
+aristocratic knowledge. Combining rich prospects and
+good-heartedness, I would like you to look for a child like
+this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、将来性と気立てを備えた、俺より若い奴ですね。
+分かりました。
+それらしい候補が見つかったらお知らせしますね」
+> CONTEXT: Map038/events/9/pages/1/95/Dialogue
+\\N[12]. 「Indeed, it's a younger guy than me who has a
+future and a cleverness. I understand. I will let you know
+when it seems like such a candidate」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「うむ、よろしく頼むよ」
+> CONTEXT: Map038/events/9/pages/1/100/Dialogue
+Earl Grandrealm. 「Yes, I'm counting on you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（とは言ったものの、難しいなあ。
+貴族としてやっていけそうなぐらい将来性豊かな子女……
+都合よく、そんなのが転がってるかなあ？
+> CONTEXT: Map038/events/9/pages/1/103/Dialogue
+\\N[12]. (Although it said, it is difficult.
+A prospective rich child who seems to be able to do as a
+nobleman ...... Conveniently, is such a thing rolling?#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「養子の件、よろしく頼むよ。
+将来性のある子女を探してきてくれたまえ」
+> CONTEXT: Map038/events/9/pages/2/0/Dialogue
+Earl Grandrealm. 「Regarding adoption, I beg you to do my
+best. Please find a future child.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「伯爵、例の話ですけど、
+いい感じの将来有望な女の子がいますよ。
+プリムというんですが、伯爵も見ていましたよね」
+> CONTEXT: Map038/events/9/pages/3/2/Dialogue
+\\N[12]. 「Earl, for example, There is a promising girl
+in the future with a good feeling. It is called Purim, but
+the Earl was also watching」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「ほほう、
+確かキミと２回戦で対戦していた女の子の名だな。
+知り合いだったのかね」
+> CONTEXT: Map038/events/9/pages/3/7/Dialogue
+Earl Grandrealm. 「hohoh, It is the name of a girl who was
+fighting against you in the second round surely.
+Did you know each other?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ええ、まあ。
+大会前から手合わせなどをする機会があったんですが、
+短期間での力の伸びがすさまじく、才能に満ちてます。
+> CONTEXT: Map038/events/9/pages/3/12/Dialogue
+\\N[12]. 「Well, well. I had a chance to make
+arrangements etc from before tournament,
+It is full of talent with tremendous force growth in a
+short period of time.#MTLed
+> END STRING
+
+> BEGIN STRING
+おまけに、素直でひたむきな女の子ですから
+伯爵が挙げた条件にもかなってると思いますよ」
+> CONTEXT: Map038/events/9/pages/3/17/Dialogue
+Besides, because it is an obedient and dedicated girl
+I think that it matches the conditions the Earl cited」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「なるほど、確かに有望そうな女の子だった。
+武道大会優勝者であるキミの推薦でもある、
+そういうことなら会って話をしてみたいな」
+> CONTEXT: Map038/events/9/pages/3/20/Dialogue
+Earl Grandrealm. 「Indeed, it certainly was a promising
+girl. It is also a recommendation of Kimi who is the winner
+of the martial arts tournament, I would like to meet and
+talk to you about that.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それなんですが、実は、
+まだプリムの方にはこの話を伝えてません」
+> CONTEXT: Map038/events/9/pages/3/25/Dialogue
+\\N[12]. 「That's it, actually, I have not told this
+story yet to Purim」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「なに？　なぜ、先に私に話を？」
+> CONTEXT: Map038/events/9/pages/3/30/Dialogue
+Earl Grandrealm. 「what? Why do you talk to me first?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それについては、プリムの家庭環境について――
+伯爵には、先に把握しておいてほしいと思ったからです」
+> CONTEXT: Map038/events/9/pages/3/33/Dialogue
+\\N[12]. 「About that, Purim's family environment -
+Because I thought that I want you to grasp the earlier to
+the Count」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はグランレルム伯爵に、
+プリムの境遇を話した。
+> CONTEXT: Map038/events/9/pages/3/38/Dialogue
+\\N[12] To Earl Grandrealm, I talked about Purim's
+circumstances.#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「ふむ、母子家庭……そして、かなり貧しい暮らしを
+しているということかね」
+> CONTEXT: Map038/events/9/pages/3/43/Dialogue
+Earl Grandrealm. 「Hmm, a mother's family home ... and a
+pretty poor living. I guess that it is」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうみたいっす。
+ですが、母娘の仲は睦まじく、幸せそうではあるんです。
+そこに、出し抜けに養子の話をするのはどうも……」
+> CONTEXT: Map038/events/9/pages/3/47/Dialogue
+\\N[12]. 「I see. But, the mother and daughter 's
+friends are squatting, it looks happy. Thank you for
+talking about adoption to go out ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「なるほど、よくわかった。
+確かに、それならば私が先に事情を把握しないまま
+母娘に話を持ちかけていたら、傷つけてしまっていたかもな」
+> CONTEXT: Map038/events/9/pages/3/52/Dialogue
+Earl Grandrealm. 「Indeed, I understood well.
+Certainly, in that case I will not grasp the circumstances
+first. I was talking to my mother and daughter, I guess he
+might have hurt」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ええ。で、俺は思うんですが……
+母娘を離れ離れにするようなことなく、
+プリムを養女として引き取る方法を探るべきだと――」
+> CONTEXT: Map038/events/9/pages/3/57/Dialogue
+\\N[12]. 「Yes. So, I think .... Without severing her
+mother and daughter, You should explore ways to take Purim
+as an adopted -」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はグランレルム伯爵に考えを説く。
+伯爵はそれを聞き、大きくうなずくこととなった。
+> CONTEXT: Map038/events/9/pages/3/63/Dialogue
+\\N[12] He preaches thought to Earl Grandrealm.
+When the Ear heard of it, it nodded greatly.#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「よかろう、その方向で話を進めよう」
+> CONTEXT: Map038/events/9/pages/3/68/Dialogue
+Earl Grandrealm. 「Let's go talk in that direction」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「では今から、プリムとその母親に
+会ってみますか？」
+> CONTEXT: Map038/events/9/pages/3/71/Dialogue
+\\N[12]. 「So now, Purim and his mother. Do you want to
+meet?」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「うむ。
+案内してくれたまえ」
+> CONTEXT: Map038/events/9/pages/3/75/Dialogue
+Earl Grandrealm. 「Yes. Show me the guide」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]はグランレルム伯爵を伴い
+プリムの家を訪れることとなった。
+> CONTEXT: Map038/events/9/pages/3/80/Dialogue
+In this way, \\N[12] Accompanied by Earl Grandrealm
+I decided to visit Purim's house.#MTLed
+> END STRING

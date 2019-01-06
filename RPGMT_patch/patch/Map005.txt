@@ -1,0 +1,1411 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+女性
+「娘のプリムは剣術に夢中でねぇ。
+もうちょっと女の子らしくして欲しいとも思うんだけど……
+ま、今は好きにさせてやるのが一番かね」
+> CONTEXT: Map005/events/1/pages/0/0/Dialogue
+> CONTEXT: Map005/events/1/pages/7/0/Dialogue
+> CONTEXT: Map005/events/4/pages/0/0/Dialogue
+Woman. 「My daughter Purim is crazy about swordsmanship.
+I also want you to make it like a girl a bit more ....
+Well, the best thing to let me like now」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「娘のプリムは剣術に熱心なんだけど、
+最近、なんだか悩んでいるみたいなんだよ。
+> CONTEXT: Map005/events/1/pages/1/1/Dialogue
+Woman. 「My daughter Purim is keen on swordsmanship,
+I seem to be suffering somewhat recently.#MTLed
+> END STRING
+
+> BEGIN STRING
+ところで、あんたアーロンさんの依頼を
+完遂してくれたらしいね。
+信頼できそうな人だし、よければでいいんだけど
+娘の話を聞いてやってくれないかい？」
+> CONTEXT: Map005/events/1/pages/1/5/Dialogue
+By the way, you requested Aaron-san. You seem to have
+completed it. He is a reliable person and I hope I do not
+mind. Will you listen to my daughter 's story?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「娘のプリムは剣術に熱心なんだけど、
+最近、なんだか悩んでいるみたいなんだよ。
+誰か、相談できる相手がいればいいんだけどねぇ」
+> CONTEXT: Map005/events/1/pages/1/14/Dialogue
+> CONTEXT: Map005/events/4/pages/1/1/Dialogue
+> CONTEXT: Map005/events/4/pages/1/13/Dialogue
+Woman. 「My daughter Purim is keen on swordsmanship,
+I seem to be suffering somewhat recently.
+Someone, I wish I had someone I could consult with」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺が話を聞きましょうか？」
+> CONTEXT: Map005/events/1/pages/1/19/Dialogue
+> CONTEXT: Map005/events/4/pages/1/18/Dialogue
+\\N[12]. 「Shall I ask the story?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「うーん、できれば実績のある人間に任せたいねぇ、
+あれでも大事な娘だから。
+冒険者ギルドで依頼をこなした経験のある人なら……」
+> CONTEXT: Map005/events/1/pages/1/22/Dialogue
+> CONTEXT: Map005/events/4/pages/1/21/Dialogue
+Woman. 「Well, if you can, I'd like to leave it to a man
+with a proven track record, Because that is an important
+girl. If you are experienced in doing a request in the
+adventurer guild......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（確かに、実績も何もない俺じゃ信用されないか。
+ギルドで実績を作ってから、また来ようかな？）
+> CONTEXT: Map005/events/1/pages/1/27/Dialogue
+> CONTEXT: Map005/events/4/pages/1/26/Dialogue
+\\N[12]. (Certainly, there is not any achievement I can
+not be trusted by me. Would you like to come back after
+making a track record with the guild? )#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「できれば、アーロンさんのレストランの
+依頼をこなしてくれるといいね。
+あの店が困っているのは、東地区住民として見逃せないんだ」
+> CONTEXT: Map005/events/1/pages/1/31/Dialogue
+Woman. 「Hopefully, in the restaurant of Aaron-san
+It would be nice to do the request. That store is in
+trouble, I can not miss it as residents of the east area」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「プリムについてやっててくれて、本当にありがとうね。
+心なしか、あの子が自信をつけたように感じられるよ」
+> CONTEXT: Map005/events/1/pages/2/0/Dialogue
+Prim's mother. 「Thank you so much for all about Purim.
+Without your heart, you can feel that she gave confidence」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「そうだ、プリムを手助けしてくれたお礼に
+これを受け取ってくれないかい？」
+> CONTEXT: Map005/events/1/pages/2/7/Dialogue
+Prim's mother. 「Yes, thank you for helping Purim
+Will you accept this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+輝石のネックレスを貰った！
+> CONTEXT: Map005/events/1/pages/2/13/Dialogue
+I got a pyroxene necklace!#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「これはあたしが持ってる数少ないジュエリーでね。
+輝石にサフィスティラ様の祝福がかけられているから、
+神聖属性のダメージを少し軽減してくれるはずだよ」
+> CONTEXT: Map005/events/1/pages/2/15/Dialogue
+Prim's mother. 「This is the few jewelry I have.
+Because the pyroxene is blessed by Lady Safistira,
+It should alleviate sacred attribute damage slightly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「これは、いいものをありがとうございます。
+いいんですか、いただいてしまって」
+> CONTEXT: Map005/events/1/pages/2/20/Dialogue
+\\N[12]. 「Thank you for this, something good.
+Is it OK, have you got it」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「ああ、あんたには感謝してるからねぇ。
+できれば、今後もあの子に目をかけてやっとくれよ」
+> CONTEXT: Map005/events/1/pages/2/24/Dialogue
+Prim's mother. 「Oh, I'm grateful to you.
+If you can, keep looking at that girl in the future and be
+ready」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました、俺にできることなら」
+> CONTEXT: Map005/events/1/pages/2/28/Dialogue
+\\N[12]. 「Okay, if I can do it」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「プリムについてやっててくれて、本当にありがとうね。
+これであの子が自信を持ってくれればいいんだけどね」
+> CONTEXT: Map005/events/1/pages/3/0/Dialogue
+Prim's mother. 「Thank you so much for all about Purim.
+I hope that she will have confidence in this」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「武道大会も終わって、
+この東地区も元通り静かになりそうだよ」
+> CONTEXT: Map005/events/1/pages/4/0/Dialogue
+> CONTEXT: Map005/events/4/pages/4/0/Dialogue
+Woman. 「The martial arts tournament is over,
+This eastern district is going to be quiet again as it is」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「プリム、怪我には気をつけるんだよ。
+剣士さんの言うことをよく聞いて、
+迷惑をかけないようにね」
+> CONTEXT: Map005/events/1/pages/6/0/Dialogue
+> CONTEXT: Map005/events/4/pages/6/0/Dialogue
+Woman. 「Purim, be careful about injuries.
+Listen to what Swordsman says often, Do not inconvenience.」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん、がんばってくるね！」
+> CONTEXT: Map005/events/1/pages/6/5/Dialogue
+Purim. 「Yes, I will do my best!」#MTLed
+> CONTEXT: Map005/events/4/pages/6/5/Dialogue
+Purim. 「Yes, I will do my best!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「剣士さん、うちの弟は\\C[2]マルワイク武具店の2階\\C[0]で
+働いているから、話を聞きに行っておくれ。
+武具店は闘技場のすぐ西にあるからね」
+> CONTEXT: Map005/events/1/pages/6/8/Dialogue
+> CONTEXT: Map005/events/4/pages/6/8/Dialogue
+Prim's mother. 「Swordsman, my brother\\C[2] 2nd Floor of
+Marvaick Armor Store\\C[0] so. Because I am working, please go
+and listen. The weapons shop is just west of the stadium」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「武道大会では私が勝ったのに、
+よく考えたら、命令をしていなかったよね」
+> CONTEXT: Map005/events/3/pages/0/1/Dialogue
+Purim. 「I won at martial arts tournament,
+After thinking carefully, you did not order it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そういえばそうだったな。
+いいぞ、俺にできることなら
+言うことを聞こう」
+> CONTEXT: Map005/events/3/pages/0/5/Dialogue
+\\N[12]. 「By the way it was. Okay, if I can do it
+Let's hear what you say」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「それじゃあ……
+おにいさんのおちんちん、
+いじってもいいかな？」
+> CONTEXT: Map005/events/3/pages/0/10/Dialogue
+Purim. 「Well then……. Older brothers,
+Can I mess around with you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え……
+な、なぜそんなことを……」
+> CONTEXT: Map005/events/3/pages/0/15/Dialogue
+\\N[12]. 「Huh……. Why, why ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「大会中、女に負けた男の人が
+よく射精させられてたのを見て気になってたの。
+> CONTEXT: Map005/events/3/pages/0/19/Dialogue
+Purim. 「During tournament, a man losing to a
+woman. I was curious to see you being well
+ejaculated.#MTLed
+> END STRING
+
+> BEGIN STRING
+女が男を屈服させた証、
+みたいな感じに見えたし、
+わたしもやってみたくなっちゃって」
+> CONTEXT: Map005/events/3/pages/0/23/Dialogue
+Proof that a woman subdued a man,
+It looked like it was, I want to try it too」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうかもしれないが、
+プリムにはまだちょっと早いんじゃないか」
+> CONTEXT: Map005/events/3/pages/0/27/Dialogue
+\\N[12]. 「Well, maybe so, It's still a bit early for
+Purim」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさんはわたしに負けたんだから
+口答えしちゃダメだよー」
+> CONTEXT: Map005/events/3/pages/0/39/Dialogue
+Purim. 「Because the old man lost to me
+You should not talk back.」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ほら、服を脱いでイスにすわって。
+そうしたら、わたしがおちんちんを
+いじらせてもらうから」
+> CONTEXT: Map005/events/3/pages/0/49/Dialogue
+Purim. 「Here, take off your clothes and sit in
+the chair. In that case, I will
+I will tease you」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、\\N[12]はプリムの言うことに逆らえず
+年下の女の子の前に裸を晒すことになった――
+> CONTEXT: Map005/events/3/pages/0/56/Dialogue
+Then, \\N[12] He can not resist Purim's saying
+I got to expose the nude in front of a young girl -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ううっ……こんな小さな子に命令されて
+裸にされちまうなんて、なんてみっともないんだ……）
+> CONTEXT: Map005/events/3/pages/0/59/Dialogue
+\\N[12]. (Uugh...... being commanded by such a little
+child. It is unbelievable to be naked......)#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「これがおにいさんの裸なんだ、結構たくましいね。
+こんなに大きな体をしてるのに
+わたしに勝てないなんて……ふふっ♪」
+> CONTEXT: Map005/events/3/pages/0/63/Dialogue
+Purim. 「This is a lot of nakedness, quite it is strong.
+Even though I have such a big body. I can not win against
+me ......♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あ、いじめるようなこと言っちゃってごめんね。
+でも、これからは力まかせだけじゃなくて、
+剣の技もちゃんとうまくならないとダメだよ？」
+> CONTEXT: Map005/events/3/pages/0/71/Dialogue
+Purim. 「Ah, sorry to say such things as bullying.
+But from now on it is not just forgetting,
+You do not have to do well with the skill of the sword?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わ、わかってる……」
+> CONTEXT: Map005/events/3/pages/0/76/Dialogue
+\\N[12]. 「I know, I know.」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「さてと、それじゃ……
+これがおちんちんかあ、なんか変な形してるね。
+これを触ればいいのかな？」
+> CONTEXT: Map005/events/3/pages/0/79/Dialogue
+Purim. 「Well, then...Oh, this is something strange shape.
+Should I touch this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの小さな手が、
+\\N[12]のペニスをためらいがちに握ってくる。
+> CONTEXT: Map005/events/3/pages/0/86/Dialogue
+Purim's little hand, \\N[12] I hesitate to hesitate the
+penis.#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あ、ぴくってした。
+やっぱり、女の子のあそこと同じで
+敏感なんだね。
+> CONTEXT: Map005/events/3/pages/0/94/Dialogue
+Purim. 「Oh, it pierced. After all, the same as that of a
+girl. You are sensitive.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、どうやれば射精させられるのかなあ。
+いじっていればいいのかな？」
+> CONTEXT: Map005/events/3/pages/0/99/Dialogue
+But how do we ejaculate? Should I be intimidated?」#MTLed
+> END STRING
+
+> BEGIN STRING
+くにっ、くにゅっ……
+> CONTEXT: Map005/events/3/pages/0/103/Dialogue
+Kuni Hut ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ああっ……プリムの柔らかくて小さな手が
+俺のアレを握って、弄り回してくる……
+なんか、すげえドキドキしちまうっ……！）
+> CONTEXT: Map005/events/3/pages/0/105/Dialogue
+\\N[12]. (AAh...... Purim's soft little hands
+I grab hold of me and tossing around......
+I am sorry, I will give you a damn smile!)#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あれ？　なんだか、ちょっとずつ大きくなってる……
+それに、だんだん熱くて固くなってきたよ？」
+> CONTEXT: Map005/events/3/pages/0/110/Dialogue
+Purim. 「that? Somehow, it got bigger ...
+Besides, it's getting hot and hard?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、それは……お前の手が、気持ちよくて、その……」
+> CONTEXT: Map005/events/3/pages/0/114/Dialogue
+\\N[12]. 「Well, that is...your hands are comfortable,
+that......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「これが気持ちいいの？
+ただいじってるだけなのに」
+> CONTEXT: Map005/events/3/pages/0/117/Dialogue
+Purim. 「Is this comfortable? I'm just just messing around」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あうっ！　そ、そうやって揉んだり、擦ったりされると
+だんだん気持ちよくなってくるものなんだ」
+> CONTEXT: Map005/events/3/pages/0/124/Dialogue
+\\N[12]. 「Ooh! Well, when you rub it or rub it
+It's getting pleasant」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ふうん、こんな感じかな？」
+> CONTEXT: Map005/events/3/pages/0/128/Dialogue
+Purim. 「Maybe it is like this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムはペニスを両手でいじくり回し、
+手で握りながら揉みしだいてくる。
+> CONTEXT: Map005/events/3/pages/0/131/Dialogue
+Purim scooped his penis with both hands,
+I grasp while grasping by hand.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くうっ……プリムの細い指に揉まれてると、
+すげえ感じてくる……）
+> CONTEXT: Map005/events/3/pages/0/134/Dialogue
+\\N[12]. (Kuu...... When Purim's thin fingers are
+massaged, I feel awesome......)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「プリムっ、に、握って
+前後に擦り上げてみてくれ、
+強めにしていいから」
+> CONTEXT: Map005/events/3/pages/0/138/Dialogue
+\\N[12]. 「Purim, hold on, Try rubbing back and forth,
+You can strengthen it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「え、こうかな？」
+> CONTEXT: Map005/events/3/pages/0/143/Dialogue
+Purim. 「Well, I guess like this?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あああぁっ！
+そ、それ、すげえ気持ちいいっ！」
+> CONTEXT: Map005/events/3/pages/0/150/Dialogue
+\\N[12]. 「Oh, Aaahh! Well, it feels good!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あはっ、おにいさんすっごく切ない顔してる。
+ホントに気持ちいいんだ、
+わたしみたいな年下の女の子にこんなことされて」
+> CONTEXT: Map005/events/3/pages/0/154/Dialogue
+Purim. 「Hahah, you have a lot of funny face.
+It really feels good, This is done for a young girl like me
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+しゅっ、しゅっ、ぐにっ、ぐにっ……
+> CONTEXT: Map005/events/3/pages/0/159/Dialogue
+Suspend, * rub *, * rub * ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、くっ……！」
+> CONTEXT: Map005/events/3/pages/0/161/Dialogue
+\\N[12]. 「Wow, hey ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「なんか、すっごいゾクゾクしてきちゃった。
+大人の男の人をエッチな気持ちにさせちゃってるんだ、
+わたしなんかが……ふふっ！」
+> CONTEXT: Map005/events/3/pages/0/164/Dialogue
+Purim. 「Something, I left a tremble. I'm making an adult
+man a lewd feeling, Something...... Huh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ぎゅうううぅっ！
+> CONTEXT: Map005/events/3/pages/0/170/Dialogue
+Kyudou!#MTLed
+> CONTEXT: Commonevents/7/228/Dialogue
+> CONTEXT: Commonevents/65/230/Dialogue
+> CONTEXT: Commonevents/152/88/Dialogue
+> CONTEXT: Commonevents/219/229/Dialogue
+> CONTEXT: Commonevents/228/495/Dialogue
+Kyudou!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ひぐっ！　そ、それは強すぎっ……
+あ、あああぁぁぁっ！」
+> CONTEXT: Map005/events/3/pages/0/172/Dialogue
+\\N[12]. 「Higuri! Well, that is too strong ......
+Oh, Aaahhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あがっ、あっ、あうううぅっ！」
+> CONTEXT: Map005/events/3/pages/0/182/Dialogue
+\\N[12]. 「Well, there, ah, oh yeah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うわ、なんか白いのがいっぱい出ちゃった！
+これが精液なの？　へんなにおい……」
+> CONTEXT: Map005/events/3/pages/0/185/Dialogue
+Purim. 「Wow, there are lots of white ones!
+Is this a semen? Strange smell ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あひっ……」
+> CONTEXT: Map005/events/3/pages/0/189/Dialogue
+\\N[12]. 「Oh, ahhh ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさん、がくがく震えてる。
+ホントに気持ちよさそうだねー」
+> CONTEXT: Map005/events/3/pages/0/192/Dialogue
+Purim. 「Hello, I'm trembling. It seems to be really
+pleasant」#MTLed
+> END STRING
+
+> BEGIN STRING
+くにっ、ぐにぐにっ……
+> CONTEXT: Map005/events/3/pages/0/197/Dialogue
+Glove, * rub * ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あうううっ！
+や、やめっ、今は敏感になってるから、いじられると……！」
+> CONTEXT: Map005/events/3/pages/0/199/Dialogue
+\\N[12]. 「Ohhh! Or, stop, now it is sensitive, so if
+you mess with it ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ふふっ、おにいさんがそんな可愛い顔するから悪いんだよ。
+なんか、もっともっといじめたくなってきちゃった」
+> CONTEXT: Map005/events/3/pages/0/203/Dialogue
+Purim. 「Huhuh, she is bad because her old cute face.
+Something is getting bullied」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そんな……ま、待って……」
+> CONTEXT: Map005/events/3/pages/0/207/Dialogue
+\\N[12]. 「Well, wait...wait ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさんは負けたんだから、
+わたしの気が済むまでなすがままにならなきゃダメだよ」
+> CONTEXT: Map005/events/3/pages/0/210/Dialogue
+Purim. 「Because the old man lost, You have to leave at the
+morning until my mind is finished」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ひぐうううぅっ！」
+> CONTEXT: Map005/events/3/pages/0/217/Dialogue
+\\N[12]. 「Higaou!」#MTLed
+> CONTEXT: Commonevents/153/130/Dialogue
+> CONTEXT: Commonevents/228/263/Dialogue
+\\N[12]. 「Higaou!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん、なんか満足しちゃった。
+大人の男の人がわたしの手なんかで気持ちよくなって
+悲鳴を上げちゃってるのを見てると、変な気分になっちゃうなー」
+> CONTEXT: Map005/events/3/pages/0/224/Dialogue
+Purim. 「Yeah, I am satisfied something. An adult man is
+comfortable with my hand. I'm screaming and I'm feeling
+weird」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あ、泣いちゃった。
+ごめんね、おにいさん、ちょっと調子に乗りすぎちゃった。
+> CONTEXT: Map005/events/3/pages/0/232/Dialogue
+Purim. 「Oh, I cried. I'm sorry, Hello, I got on a bit too
+much.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、気持ちよかったんでしょ？
+今度はもうちょっと優しくしてあげるから、
+またわたしの家にあそびにきてくれると嬉しいな♪」
+> CONTEXT: Map005/events/3/pages/0/236/Dialogue
+But it was pleasant, did not he? Now I will make it a bit
+more gentle, I am happy that you will come to my house
+again.♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、\\N[12]はこの後、足繁くプリムの家に通い、
+彼女に剣で叩きのめされた後に射精させられるという
+日々を送ることになる。
+> CONTEXT: Map005/events/3/pages/0/241/Dialogue
+Then, \\N[12] After this, I went to Purim 's house where
+my legs were busy, She is made to be ejaculated after being
+beaten by a sword with a sword. I will send my days.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あひっ、あっ、あああぁぁっ！」
+> CONTEXT: Map005/events/3/pages/0/250/Dialogue
+\\N[12]. 「Oh, there, Aaahhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさんのイキ顔、かわいいなあ♪
+わたしが大人になったら立派な剣士になって
+おにいさんを養ってあげるね」
+> CONTEXT: Map005/events/3/pages/0/256/Dialogue
+Purim. 「Many cute face, cute♪. Become a good swordsman
+when I become an adult. I will feed a big brother」#MTLed
+> END STRING
+
+> BEGIN STRING
+あんた武道大会の出場者かい？
+よかったら、娘の相談に乗ってあげてくれないか？」
+> CONTEXT: Map005/events/4/pages/1/6/Dialogue
+Are you a contestant of your martial arts tournament?
+Would not you give me a daughter 's consultation?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「できれば、アーロンさんの依頼をこなしてくれるといいね。
+あの人が困っているのは、
+東地区住民として見逃せないんだ」
+> CONTEXT: Map005/events/4/pages/1/30/Dialogue
+Woman. 「Hopefully, you can do Aaron-san's request.
+That person is in trouble, I can not miss it as residents
+of the east area」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「プリムについてやっててくれて、本当にありがとうね。
+心なしか、あの子が自信をつけたように感じられるよ」
+> CONTEXT: Map005/events/4/pages/2/0/Dialogue
+Woman. 「Thank you so much for all about Purim.
+Without your heart, you can feel that she gave confidence」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「プリムについてやっててくれて、本当にありがとうね。
+これであの子が自信を持ってくれればいいんだけどね」
+> CONTEXT: Map005/events/4/pages/3/0/Dialogue
+Woman. 「Thank you so much for all about Purim.
+I hope that she will have confidence in this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]、グランレルム伯爵、プリム、そしてプリムの母は
+テーブルを囲むこととなった。
+> CONTEXT: Map005/events/6/pages/0/0/Dialogue
+\\N[12] , Earl Grandrealm, Purim, and Prim's mother
+It was to surround the table.#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「あらあら、
+伯爵様がこんなおんぼろの家にいらっしゃるなんて
+なんだか恥ずかしいわねえ」
+> CONTEXT: Map005/events/6/pages/0/4/Dialogue
+Prim's mother. 「oh no, I wonder if Countess - same is
+coming to such an apartment house. Something embarrassing
+about me」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「いやいや、お気にめさるな。
+突然の訪問、ひらにご容赦願いたい」
+> CONTEXT: Map005/events/6/pages/0/10/Dialogue
+Earl Grandrealm. 「Do not be discouraged.
+Sudden visit, I'd like to ask you forgiveness」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「なんでも、私とプリムに
+大切な話がおありとか……
+うちのような一般家庭に、いったいどういったご用ですか？」
+> CONTEXT: Map005/events/6/pages/0/14/Dialogue
+Prim's mother. 「Anything, to me and Purim
+There is an important story...... What kind of home do
+you like home like?」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「うむ、実はな。
+我がグランレルム伯爵家には跡継ぎがおらず、
+このままでは断絶の憂き目にあってしまうかもしれぬのです。
+> CONTEXT: Map005/events/6/pages/0/19/Dialogue
+Earl Grandrealm. 「Well, actually. My Earl Grandrealm
+family has no successor, You may end up being at a loss of
+disconnection at this rate.#MTLed
+> END STRING
+
+> BEGIN STRING
+そのため、優れた将来性を持つ子女を養子に迎えたいと思い、
+ずっと国内を探しておりました」
+> CONTEXT: Map005/events/6/pages/0/24/Dialogue
+For that reason, I wanted to adopt a child with an
+excellent future potential, I have been looking for a
+country for a long time」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「というと……
+まさか、プリムをご所望なのですか？」
+> CONTEXT: Map005/events/6/pages/0/27/Dialogue
+Prim's mother. 「I mean .... No way, do you want Purim?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「え……わ、わたしが、伯爵様の……？」
+> CONTEXT: Map005/events/6/pages/0/33/Dialogue
+Purim. 「Eh...I, Countess-same.......?」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「こちらの\\N[12]君からも、人格も才能も優れた女の子だと
+聞かされましてな。
+彼の推薦ならば間違いなかろうと思い、こうして来た次第」
+> CONTEXT: Map005/events/6/pages/0/36/Dialogue
+Earl Grandrealm. 「this \\N[12] Even from you, you are a
+girl with excellent personality and talent
+It was heard. I think that if he recommends it will be no
+mistake, so as soon as it comes」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「でも、他の家の子になるなんて……
+おかあさんを置いていくなんて、わたし嫌だよ？」
+> CONTEXT: Map005/events/6/pages/0/41/Dialogue
+Purim. 「But, being a child of another house ...
+... I do not want to leave a mother?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「あら、いい話じゃないか。
+母さんのことは気にせず、伯爵様の世話になったほうが
+剣士として上を目指すにもいいんじゃないかい？」
+> CONTEXT: Map005/events/6/pages/0/47/Dialogue
+Prim's mother. 「Oh, it's a nice story. It is better not to
+worry about my mother, to take care of Countess-same
+Is not it okay to aim for a top as a sword fighter?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「で、でも」
+> CONTEXT: Map005/events/6/pages/0/53/Dialogue
+Purim. 「But,」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ちょっと待った。
+そういう流れになるんじゃないかと薄々思ってたけど、
+プリムお前、お母さんと離れ離れになると思ってるな？」
+> CONTEXT: Map005/events/6/pages/0/56/Dialogue
+\\N[12]. 「Wait a minute. I thought it was going to be
+like that, Purim Do you think you will be separated from
+your mother?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「え、う、うん。
+伯爵様のおうちの子になるっていうことは
+そういうことじゃないの？」
+> CONTEXT: Map005/events/6/pages/0/62/Dialogue
+Purim. 「Er, yeah. The thing called becoming a
+child of Countess - same 's house is
+Is not that the case?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「べつに離れる必要なんてないだろう。
+俺としては、プリムと一緒にお母さんも
+伯爵様の家に住み込ませてもらう形にすればいいと思う」
+> CONTEXT: Map005/events/6/pages/0/67/Dialogue
+\\N[12]. 「There is no need to leave. As myself, Mother
+along with Purim. I think that it should be in a form to
+let you live in the house of Countess-same」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「あらあら、あたしのことを気遣ってくれるなんて
+なんだか嬉しいねえ。
+でも伯爵様、よろしいのですか？」
+> CONTEXT: Map005/events/6/pages/0/74/Dialogue
+Prim's mother. 「oh no, I do not care about me
+I am kind of happy. But Countess - same, are you sure?」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「もちろんですとも。
+プリムさんを養女として引き取らせていただく上は、
+そのご母堂を悲しませるようなことはしたくありませぬ。
+> CONTEXT: Map005/events/6/pages/0/79/Dialogue
+Earl Grandrealm. 「Of course. In order to take Purim as an
+adopted daughter, I do not want to do sad things about that
+mother.#MTLed
+> END STRING
+
+> BEGIN STRING
+幸い、うちは家族がおらず部屋も余っております。
+今までどおり、プリムさんとご母堂には一緒に母娘として
+暮らしていただきたいと考えておるのです」
+> CONTEXT: Map005/events/6/pages/0/84/Dialogue
+Fortunately, my family does not have a room.
+As usual, Mr. Purim and her mother as a mother and daughter
+together. I think that you want to live」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それなら問題ないだろう、プリム？」
+> CONTEXT: Map005/events/6/pages/0/88/Dialogue
+\\N[12]. 「Then it would not be a problem, Purim?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「確かに、そうだけど……
+わたしが、伯爵様の子になるなんて、突然すぎて
+ちょっと戸惑っちゃうっていうか……」
+> CONTEXT: Map005/events/6/pages/0/91/Dialogue
+Purim. 「Sure, that's right ......
+It's too sudden that I will be a child of
+Countess-same. I am a bit confused......」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「もちろん無理強いするつもりはないとも。
+伯爵家の子となるからには、これからは貴族としての教養や
+立ち居振る舞いなどを身に着けてもらうことになる。
+> CONTEXT: Map005/events/6/pages/0/96/Dialogue
+Earl Grandrealm. 「Of course I do not mean to force it.
+In order to be a child of Earl's family, from now on the
+education as a nobleman. You will be wearing such as
+behaving behavior.#MTLed
+> END STRING
+
+> BEGIN STRING
+今まではおそらく、剣のみに邁進すればよかったことだろうが
+それだけでは済まなくなる。
+勉強も大変であろうし、貴族ならではの気苦労も出てこよう」
+> CONTEXT: Map005/events/6/pages/0/101/Dialogue
+Perhaps, until now, it would have been good to push forward
+only with the sword. It will not finish by itself.
+Studying will be difficult, too, and the difficulties
+unique to nobility will come out」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「う、うーん……なんだか、大変そう……」
+> CONTEXT: Map005/events/6/pages/0/106/Dialogue
+Purim. 「Well, oh ...... Somehow, it seems tough
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「そう、例えばベックフォード家のディアーナ嬢のような子と
+正面切って対決することもあるかもしれない。
+うちはベックフォード家とは長らく対立関係にあるからね」
+> CONTEXT: Map005/events/6/pages/0/109/Dialogue
+Earl Grandrealm. 「Yes, for example, a child like
+Beckford's Diana. It may be that you confront you face to
+face. We are in a confrontational relationship with the
+Beckford family for a long time」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「……………………」
+> CONTEXT: Map005/events/6/pages/0/115/Dialogue
+Purim. 「........................」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（お、雰囲気が変わったな。
+やはり、その名前が一番効くか）
+> CONTEXT: Map005/events/6/pages/0/118/Dialogue
+\\N[12]. (Oh, the atmosphere has changed.
+After all, is that name the most effective?)#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ディアーナちゃんも、貴族としての勉強を
+一生懸命しているんですよね」
+> CONTEXT: Map005/events/6/pages/0/122/Dialogue
+Purim. 「Diana-chan also studies as a nobleman
+You are trying hard, do not you think?」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「そうだろうね。私から見ても、あの子は利発で才もある。
+次代のベックフォード家、ひいては王国のために
+懸命に励んでいるのが分かるよ」
+> CONTEXT: Map005/events/6/pages/0/126/Dialogue
+Earl Grandrealm. 「I guess so. Even from my point of view,
+that girl is clever and clever. For the next generation of
+Beckford family and eventually the kingdom
+I know I am hard working」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「わたしが伯爵さまの子になったら、
+貴族としてもディアーナちゃんと
+ライバルになるのかぁ……」
+> CONTEXT: Map005/events/6/pages/0/131/Dialogue
+Purim. 「When I became the son of Earl,
+Even as a nobleman Diana-chan and
+Will it be a competitor ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「そうなるな。
+そういえば、ディアーナ嬢とキミは知り合いなのかね？
+確か、大会で対戦していたのは覚えているが」
+> CONTEXT: Map005/events/6/pages/0/136/Dialogue
+Earl Grandrealm. 「Do not do that. By the way, do you know
+Kimi and Miss Diana? Indeed, I remember having fought in
+tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「プリムとベックフォード侯の娘さんは
+前々から剣のライバル関係らしいんですよ」
+> CONTEXT: Map005/events/6/pages/0/143/Dialogue
+\\N[12]. 「Purim and Beckford Hou's daughter
+It seems to be a rivalry relationship of the sword from a
+long time ago」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「おお、そうであったのか。
+そんな子がうちの養女候補とは、因縁めいたものを感じるなあ」
+> CONTEXT: Map005/events/6/pages/0/148/Dialogue
+Earl Grandrealm. 「Oh, was that so? I feel that such a
+child meets a reason why it is related to our adopted
+candidate」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「そっか……
+ええと、伯爵さま、本当にお母さんと一緒に
+行っていいんですか？」
+> CONTEXT: Map005/events/6/pages/0/154/Dialogue
+Purim. 「I see……. Uh, Earl, really with my mum
+Can I go?」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「もちろんだとも。
+貴族として、豊かな暮らしを約束しよう」
+> CONTEXT: Map005/events/6/pages/0/159/Dialogue
+Earl Grandrealm. 「Of course. Let's promise a rich life as
+a nobleman」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「なんだか、なにもしていないのに
+貴族にしてもらうのは
+ちょっと気が引けちゃうなって思うけど……」
+> CONTEXT: Map005/events/6/pages/0/163/Dialogue
+Purim. 「Somehow, I have not done anything
+What makes a nobleman. I think that I feel a
+little sick.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なにもしてない、なんてことはないんだぞ。
+それこそ、武道大会でお前が頑張った結果として
+こうやって目をかけてくれる人が現れたんだ」
+> CONTEXT: Map005/events/6/pages/0/168/Dialogue
+\\N[12]. 「There is nothing you have not done anything.
+That is the result of you as a result of martial arts
+tournament. People who looked at this way appeared」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「まさしく\\N[12]君の言う通りだ。
+それに、私が望んでいるのだから引け目に感じることはない。
+> CONTEXT: Map005/events/6/pages/0/173/Dialogue
+Earl Grandrealm. 「Exactly \\N[12] You are right.
+Besides, because I am hoping for it, I feel no shrewd.#MTLed
+> END STRING
+
+> BEGIN STRING
+うちを継いでくれる優秀な子が来てくれるだけで、
+本当にありがたいことなのだ。
+それに、もし恩を返したいと思ってくれるならば
+貴族としての教育を受けて、立派に成長してくれれば嬉しい」
+> CONTEXT: Map005/events/6/pages/0/177/Dialogue
+Just because an excellent child who will succeed us comes,
+It is truly appreciated. Besides, if you would like to
+return your grace. I am pleased if you receive education as
+a nobility and grow up wonderfully」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「わかりました。
+わたし、伯爵さんの家の子になります！」
+> CONTEXT: Map005/events/6/pages/0/184/Dialogue
+Purim. 「understood. I will be the Earl's
+family's son!」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「おお、来てくれるか！
+ありがたい、これでグランレルム家も安泰だ」
+> CONTEXT: Map005/events/6/pages/0/188/Dialogue
+Earl Grandrealm. 「Oh, will you come! Thankfully, the
+Grandrealm family is safe now」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「と言いたいところだが、もうひとつ不安要素があるな」
+> CONTEXT: Map005/events/6/pages/0/192/Dialogue
+Earl Grandrealm. 「I would like to say that, there is
+another uncertain factor」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え？
+まだ何か問題がありましたっけ？」
+> CONTEXT: Map005/events/6/pages/0/197/Dialogue
+\\N[12]. 「Huh? Have you had any problems yet?」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「プリム――と呼ばせてもらうが、彼女が伯爵家を継ぐとして
+配偶者の問題がある。
+果たして、何者をもって将来、プリムの婿とするか」
+> CONTEXT: Map005/events/6/pages/0/201/Dialogue
+Earl Grandrealm. 「I will be called Purim - but as she
+succeeds the Earls. I have a problem with my spouse.
+Well, who will be your future son, Purim's son-in-law?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、それはまあ今後、ゆっくり考えてもらえれば
+それでいいんじゃ……」
+> CONTEXT: Map005/events/6/pages/0/206/Dialogue
+\\N[12]. 「Oh, well if I think slowly in the future
+Is that okay ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「考える必要ないよ、おにいさん」
+> CONTEXT: Map005/events/6/pages/0/210/Dialogue
+Purim. 「I do not need to think, Oka」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「わたしになんの相談もなく、いきなり伯爵さまを連れてきて
+話をいいように運んだよね、おにいさん」
+> CONTEXT: Map005/events/6/pages/0/221/Dialogue
+Purim. 「With no consultation with me, suddenly
+bringing Count Countess. You brought the story as
+nice as you like, brother」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……
+い、いや、それは……」
+> CONTEXT: Map005/events/6/pages/0/226/Dialogue
+\\N[12]. 「Wow .... No, no ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「まあ、わたしたちが傷つかないように
+気遣ってくれたっていうことは
+なんとなく分かるけどさ」
+> CONTEXT: Map005/events/6/pages/0/230/Dialogue
+Purim. 「Well, so that we do not get hurt
+Things that cared for me. Somehow I understand」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「それに、あたしら母娘が貧しいことを気にして
+この話を進めてくれたんだろうし、剣士さんには感謝しないとねぇ」
+> CONTEXT: Map005/events/6/pages/0/236/Dialogue
+Prim's mother. 「Besides, we care about our poor mother and
+daughter. I guessed this story forward, and I must thank
+swordsmen」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「でも、そこまでやったんなら最後まで責任を取ってもらわなきゃ。
+おにいさん……わたしの結婚相手になってよ」
+> CONTEXT: Map005/events/6/pages/0/240/Dialogue
+Purim. 「But, if I did that up I have to take
+responsibility to the end. Older brother......
+Become my marriage partner」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え……えええっ！？」
+> CONTEXT: Map005/events/6/pages/0/244/Dialogue
+\\N[12]. 「Huh...oh yeah! ?」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「おお、それはよい！
+\\N[12]君ならば武道大会優勝という実績もある。
+プリムとも親しいようだし、結婚相手として何の問題もあるまい」
+> CONTEXT: Map005/events/6/pages/0/248/Dialogue
+Earl Grandrealm. 「Oh, that's good! \\N[12] There is
+also a track record of winning the martial arts tournament
+if you are. It seems to be close to Purim, and there is no
+problem as a marriage partner」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、いや、俺が……？
+き、貴族だなんて、いくらなんでも無理がありますよ」
+> CONTEXT: Map005/events/6/pages/0/255/Dialogue
+\\N[12]. 「Well, no...I ...? Anything is impossible
+for aristocracy」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「わたしにだけ貴族になる話を振っておいて
+自分はなにもしないのは筋が通らないと思いまーす」
+> CONTEXT: Map005/events/6/pages/0/259/Dialogue
+Purim. 「Let me tell the story to be only a
+noblemet to me. I do not think anything goes
+wrong with not doing anything」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……し、しかしなあ」
+> CONTEXT: Map005/events/6/pages/0/266/Dialogue
+\\N[12]. 「uugh...... but, I wish」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「……ダメなの、おにいさん？」
+> CONTEXT: Map005/events/6/pages/0/269/Dialogue
+Purim. 「......Is it bad, Oka?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの視線を受け、\\N[12]はたじろいでしまう。
+> CONTEXT: Map005/events/6/pages/0/275/Dialogue
+In response to Purim's gaze, \\N[12] I get frightened.#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの母
+「ふふっ、観念しなよ、剣士さん。
+母親のあたしが言うのもなんだが、プリムは将来
+必ずいいオンナになるし、損はさせないよ？」
+> CONTEXT: Map005/events/6/pages/0/278/Dialogue
+Prim's mother. 「Fuhuu, do not mind, swordsman.
+I do not mind what my mother says, Purim said in the future
+I will definitely be a good teenager, I will not let you
+lose?」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「受け入れてくれたまえ\\N[12]君。
+キミとプリムが共に私の子になってくれるなら、
+今後の懸案が一挙に解決なのだ」
+> CONTEXT: Map005/events/6/pages/0/285/Dialogue
+Earl Grandrealm. 「Accept me \\N[12] You.
+If you and Purim both become my son, Future problems are
+solved at once」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううむ……」
+> CONTEXT: Map005/events/6/pages/0/291/Dialogue
+\\N[12]. 「No ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（確かに、プリムにだけ貴族になることを背負わせて
+俺はトンズラするなんてのは、冷たいよな……
+> CONTEXT: Map005/events/6/pages/0/294/Dialogue
+\\N[12]. (Certainly, let's bear only Purim becoming a
+nobleman. I'm cold like to get a shit ......#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、今はとにかく将来のプリムは確かに美人になりそうだ。
+いい奴なのは間違いないんだし、
+一緒に生きていくのも、悪くはないだろう）
+> CONTEXT: Map005/events/6/pages/0/298/Dialogue
+Besides, Purim in the future is certainly going to be a
+beauty anyhow. There is no doubt that a nice guy,
+It is not bad to live together)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「貴族か……
+レストンで生まれた俺が、そんな立場になるとは
+思ってもみなかったなあ」
+> CONTEXT: Map005/events/6/pages/0/302/Dialogue
+\\N[12]. 「Is it a nobleman ...? I was born in Reston,
+that it will be such a position. I thought I never thought」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさん、いいの？」
+> CONTEXT: Map005/events/6/pages/0/308/Dialogue
+Purim. 「Oh, are you okay?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、お前と一緒に生きていくのもいいだろう。
+年下の女の子からアプローチされて、っていうのは
+ちょっと情けないけど、お前となら面白くなりそうだ。
+> CONTEXT: Map005/events/6/pages/0/311/Dialogue
+\\N[12]. 「Oh, it would be nice to live with you.
+Approaching from a young girl, you mean. I am a little
+miserable, but it seems to be interesting with you.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ、さすがに伯爵家を継ぐのはプリムに頼むぜ。
+俺はあくまで、お前を支える立場でいたい」
+> CONTEXT: Map005/events/6/pages/0/316/Dialogue
+However, I trust Purim to inherit the Earls as expected.
+I just want to be in a position to support you」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うん、それはわたしが頑張るよ！
+これでディアーナちゃんと色んな意味で対等になるし
+負けないように頑張るぞー！」
+> CONTEXT: Map005/events/6/pages/0/320/Dialogue
+Purim. 「Yes, I will do my best!
+With this, it will become equal with Diana-chan
+in various ways. I will do my best not to lose!」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「\\N[12]君。けしかけるようなことを言っておいて何だが、
+貴族になることに納得してくれるのかね？
+他にやりたいことがあるとか……」
+> CONTEXT: Map005/events/6/pages/0/327/Dialogue
+Earl Grandrealm. 「\\N[12] You. What is it to say
+something to give up? Can you convince me to become a
+nobleman? Do you have anything else you want to do ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「もともと俺は大きなことを成し遂げたくて田舎から出てきて
+武道大会優勝でそれが叶っちまったんです。
+これからどうするか、正直、何も考えていなかった。
+> CONTEXT: Map005/events/6/pages/0/334/Dialogue
+\\N[12]. 「I wanted to accomplish big things and came
+out from the countryside. It won with martial arts
+tournament victory. To be honest, I did not think about
+anything to do.#MTLed
+> END STRING
+
+> BEGIN STRING
+突然の話なんで、まだ実感はないですけど
+プリムを見守っていくっていうのは、かなり楽しそうですし
+今後はそれを頑張ってみますよ」
+> CONTEXT: Map005/events/6/pages/0/339/Dialogue
+It's a sudden story and I have not realized it yet
+Watching Purim looks pretty fun. In the future I will try
+hard for it」#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム伯爵
+「そうか。うむ、それならよかった、
+私も、キミたちが貴族としてやっていけるようになるまで
+頑張るとしよう。これでグランレルム家も安泰だ……」
+> CONTEXT: Map005/events/6/pages/0/343/Dialogue
+Earl Grandrealm. 「Really. Well, that was good, then.
+I, too, until you are able to do as a nobleman
+Let's do our best. The Grandrealm family is also safe ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]はプリムと婚約し
+グランレルム家の一員となった。
+> CONTEXT: Map005/events/6/pages/0/349/Dialogue
+In this way, \\N[12] I am engaged to Purim
+Became a member of the Grandrealm family.#MTLed
+> END STRING
+
+> BEGIN STRING
+田舎から大志を抱いて王都にやってきた少年は、
+貴族の地位と結婚相手を得たのであった――
+> CONTEXT: Map005/events/6/pages/0/352/Dialogue
+A boy who came to the kingdom holding ambition from the
+country, I got the position of nobility and marriage
+partner -#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「早い？　よく言うよ、
+わたしに見とれて
+おちんちん大きくしてたのは誰だっけ？」
+> CONTEXT: Map005/events/3/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING

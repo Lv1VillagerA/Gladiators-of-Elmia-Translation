@@ -1,0 +1,32 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+銀鉱石を手に入れた！
+> CONTEXT: Map096/events/3/pages/0/1/Dialogue
+> CONTEXT: Map085/events/3/pages/0/1/Dialogue
+> CONTEXT: Map069/events/34/pages/0/1/Dialogue
+I got a silver ore!#MTLed
+> END STRING
+
+> BEGIN STRING
+600\\G 手に入れた！
+> CONTEXT: Map096/events/6/pages/0/9/Dialogue
+600 \\G I got!#MTLed
+> END STRING
+
+> BEGIN STRING
+死者の手記が落ちている。読みますか？
+> CONTEXT: Map096/events/8/pages/0/0/Dialogue
+The dead 's notes are falling. Do you read?#MTLed
+> END STRING
+
+> BEGIN STRING
+『グロッセル鉱石の採掘は危険極まる。
+あの魔法力を放出する鉱石は、それを餌とする魔獣を呼び寄せる。
+たとえ鉱石を発見したとしても、その近くには
+必ず大型の魔獣が棲み着いているのだ……』
+> CONTEXT: Map096/events/8/pages/0/4/Dialogue
+"The mining of Grossel ore is dangerous.
+The ore releasing that magical power attracts monsters that
+feed on it. Even if you discover an ore,
+A large demon surely arrives ... "#MTLed
+> END STRING

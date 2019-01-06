@@ -1,0 +1,187 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+海岸の洞窟
+> CONTEXT: Map027/display_name/
+Coastal cave#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ロープだ……3本あるな」
+> CONTEXT: Map027/events/1/pages/0/0/Dialogue
+\\N[12]. 「It's a rope ... there are three pieces」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「なにかの役に立つかもしれないし、
+持っていこうよ」
+> CONTEXT: Map027/events/1/pages/0/4/Dialogue
+\\N[15]. 「It might be useful for something,
+Let's take it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな。こんな海水に侵食された洞窟だ、
+どんな地形があるか分からないし、持っていて損はない」
+> CONTEXT: Map027/events/1/pages/0/8/Dialogue
+\\N[12]. 「That's right. It is a cave eroded by such sea
+water, I do not know what kind of terrain is, and I have no
+loss」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なにかの役に立つかもしれないし、
+一応持っていくとするか」
+> CONTEXT: Map027/events/1/pages/0/14/Dialogue
+\\N[12]. 「It might be useful for something,
+I suppose I should take it once」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロープを3本手に入れた！
+> CONTEXT: Map027/events/1/pages/0/21/Dialogue
+I got 3 ropes!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ここから下におりるのは無理そうだな……
+何かアイテムがないと」
+> CONTEXT: Map027/events/2/pages/0/0/Dialogue
+\\N[12]. 「It seems impossible to be down from here ...
+... Without any items」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この岩にロープをくくりつければ、
+おりられるかもしれないな……」
+> CONTEXT: Map027/events/2/pages/1/0/Dialogue
+\\N[12]. 「If you attach a rope to this rock,
+I might be able to do it ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、これで先に進むことができそうだ」
+> CONTEXT: Map027/events/2/pages/1/14/Dialogue
+\\N[12]. 「OK, it seems like we can go ahead」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「うーん、この下におりられないのかなあ。
+この岩を使って、どうにかできそうな気もするんだけど」
+> CONTEXT: Map027/events/2/pages/2/2/Dialogue
+\\N[15]. 「Well, I wonder if I can not keep it
+under this. Using this rock, I feel like I can do
+something」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな。
+まあ、現状では無理そうだし、他の場所を調べてみよう」
+> CONTEXT: Map027/events/2/pages/2/6/Dialogue
+\\N[12]. 「That's right. Well, it seems impossible under
+the present circumstances, let's examine other places」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「あ、おにーさん！
+さっきのロープをこの岩にくくりつければ、
+ここおりられるんじゃない？」
+> CONTEXT: Map027/events/2/pages/3/0/Dialogue
+\\N[15]. 「Oh, my older brother!
+If you attach the previous rope to this rock,
+You can be left here?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか、よし……！」
+> CONTEXT: Map027/events/2/pages/3/5/Dialogue
+\\N[12]. 「That's right, okay ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、これで先に進むことができそうだ。
+いい思いつきだったな、\\N[15]」
+> CONTEXT: Map027/events/2/pages/3/18/Dialogue
+\\N[12]. 「OK, that seems to be able to go ahead.
+It was a good idea, \\N[15]」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[15]
+「えへへ。
+役に立てて嬉しいなー」
+> CONTEXT: Map027/events/2/pages/3/22/Dialogue
+\\N[15]. 「Hehe. I am glad that it is useful.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「それじゃ、下りて進むとするか」
+> CONTEXT: Map027/events/2/pages/3/26/Dialogue
+\\N[12]. 「Well then, let's go down and go」#MTLed
+> END STRING
+
+> BEGIN STRING
+毒消しを3つ手に入れた！
+> CONTEXT: Map027/events/7/pages/0/9/Dialogue
+I got three poisons!#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うわー、すっごい広い洞窟だね……」
+> CONTEXT: Map027/events/26/pages/2/0/Dialogue
+Purim. 「Wow, it's a very wide cave ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「海水に侵食されてできた空間って感じだな、
+幸い、俺はここに来たことがある。
+後ろについてくるといい」
+> CONTEXT: Map027/events/26/pages/2/4/Dialogue
+\\N[12]. 「It is a feeling that it was made by
+erosion by sea water, Fortunately, I have been
+here. You should come in the back」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「海水に侵食されてできた空間って感じだな、
+俺もレストンの生まれだけど、こんなところがあるなんて
+知らなかったぜ」
+> CONTEXT: Map027/events/26/pages/2/14/Dialogue
+\\N[12]. 「It is a feeling that it was made by erosion
+by sea water, I was also born of Reston, but I do not know
+that there is such a place. I did not know that.」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ここになら、もしかして人魚さんも立ち寄るかもね！」
+> CONTEXT: Map027/events/26/pages/2/19/Dialogue
+Purim. 「Maybe mermaids may stop by here if it is
+here!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだな、探索してみるとしよう。
+だけど、見た感じ魔物が徘徊しているみたいだから
+気をひきしめていくぞ」
+> CONTEXT: Map027/events/26/pages/2/22/Dialogue
+\\N[12]. 「That's right, let's try exploring.
+But, as I saw it seems that monster is roaming
+I will take care of you.」#MTLed
+> END STRING

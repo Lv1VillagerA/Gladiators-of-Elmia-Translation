@@ -1,0 +1,41 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+闘技場コンコース南
+> CONTEXT: Map138/display_name/
+> CONTEXT: Map053/display_name/
+tournament arena South#MTLed
+> END STRING
+
+> BEGIN STRING
+扉を開けた。
+> CONTEXT: Map138/events/29/pages/0/3/Dialogue
+> CONTEXT: Map019/events/1/pages/0/2/Dialogue
+> CONTEXT: Map019/events/28/pages/0/2/Dialogue
+I opened the door.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ここは闘技場の受付窓口か。
+無事にここまでたどり着くことができたか……
+> CONTEXT: Map138/events/30/pages/0/8/Dialogue
+\\N[12]. 「Is this the reception desk for the stadium?
+Were you able to arrive safely so far ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+『この先、東側選手控室』
+と書いてある。
+> CONTEXT: Map138/events/39/pages/0/0/Dialogue
+> CONTEXT: Map053/events/66/pages/0/0/Dialogue
+"To the far, East side player waiting room"
+It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+『この先、西側選手控室』
+と書いてある。
+> CONTEXT: Map138/events/40/pages/0/0/Dialogue
+> CONTEXT: Map053/events/67/pages/0/0/Dialogue
+"West ahead players waiting room ahead". It is written.#MTLed
+> END STRING

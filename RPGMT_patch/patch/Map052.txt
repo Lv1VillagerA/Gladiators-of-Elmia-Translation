@@ -1,0 +1,398 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+占い師
+「なにか迷うようなことがあれば、
+相談に乗ってさしあげますよ？」
+> CONTEXT: Map052/events/1/pages/0/0/Dialogue
+> CONTEXT: Map052/events/1/pages/2/0/Dialogue
+> CONTEXT: Map052/events/1/pages/3/0/Dialogue
+> CONTEXT: Map052/events/1/pages/4/0/Dialogue
+> CONTEXT: Map052/events/1/pages/5/0/Dialogue
+> CONTEXT: Map052/events/1/pages/6/0/Dialogue
+> CONTEXT: Map052/events/1/pages/7/0/Dialogue
+> CONTEXT: Map052/events/1/pages/8/0/Dialogue
+> CONTEXT: Map052/events/1/pages/9/0/Dialogue
+> CONTEXT: Map052/events/1/pages/10/0/Dialogue
+> CONTEXT: Map052/events/1/pages/11/0/Dialogue
+> CONTEXT: Map052/events/1/pages/12/0/Dialogue
+> CONTEXT: Map052/events/1/pages/13/0/Dialogue
+> CONTEXT: Map052/events/1/pages/14/0/Dialogue
+> CONTEXT: Map052/events/1/pages/15/0/Dialogue
+fortune teller. 「If there is something confusing,
+I will give you a consultation?」#MTLed
+> END STRING
+
+> BEGIN STRING
+占ってもらう
+> CONTEXT: Map052/events/1/pages/0/4/Choice/0
+> CONTEXT: Map052/events/1/pages/2/4/Choice/0
+> CONTEXT: Map052/events/1/pages/3/4/Choice/0
+> CONTEXT: Map052/events/1/pages/4/4/Choice/0
+> CONTEXT: Map052/events/1/pages/5/4/Choice/0
+> CONTEXT: Map052/events/1/pages/6/4/Choice/0
+> CONTEXT: Map052/events/1/pages/7/4/Choice/0
+> CONTEXT: Map052/events/1/pages/8/4/Choice/0
+> CONTEXT: Map052/events/1/pages/9/4/Choice/0
+> CONTEXT: Map052/events/1/pages/10/4/Choice/0
+> CONTEXT: Map052/events/1/pages/11/4/Choice/0
+> CONTEXT: Map052/events/1/pages/12/4/Choice/0
+> CONTEXT: Map052/events/1/pages/13/4/Choice/0
+> CONTEXT: Map052/events/1/pages/14/4/Choice/0
+> CONTEXT: Map052/events/1/pages/15/4/Choice/0
+To be fortune-telled#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「さしあたって、まずは闘技場に行って
+武道大会の出場登録をすると、道が開けそうですよ」
+> CONTEXT: Map052/events/1/pages/0/6/Dialogue
+fortune teller. 「For the moment, first go to the stadium
+Registering martial arts tournament participation, it seems
+that way will open」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「なにか迷うようなことがあれば、
+占ってさしあげますよ？」
+> CONTEXT: Map052/events/1/pages/1/0/Dialogue
+fortune teller. 「If there is something confusing,
+I will give you a fortune?」#MTLed
+> END STRING
+
+> BEGIN STRING
+今後の指針について
+> CONTEXT: Map052/events/1/pages/1/4/Choice/0
+About future guidelines#MTLed
+> END STRING
+
+> BEGIN STRING
+人との出会いについて
+> CONTEXT: Map052/events/1/pages/1/4/Choice/1
+About meeting people#MTLed
+> END STRING
+
+> BEGIN STRING
+今はいい
+> CONTEXT: Map052/events/1/pages/1/4/Choice/2
+> CONTEXT: Map026/events/3/pages/5/110/Choice/3
+It is good now.#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「冒険者ギルドを訪ねてみるのが吉、
+と出ていますね。
+武道大会に向けた準備に最適であるようです」
+> CONTEXT: Map052/events/1/pages/1/6/Dialogue
+fortune teller. 「It is good to visit the adventurer guild,
+And it is out. It seems to be most suitable for preparation
+for martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「黒髪の少女と出会ったようですね。
+彼女と共に冒険をすることで、
+彼女との可能性を深めることができるようです。
+> CONTEXT: Map052/events/1/pages/1/14/Dialogue
+fortune teller. 「You seem to have met a girl with black
+hair. By adventuring with her, It seems that it is possible
+to deepen the possibilities with her.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ、黒髪の少女との仲を深めると、
+貴族の少女との可能性が消失してしまうようです。
+よく検討してから行動を選択するのが
+よろしいでしょう」
+> CONTEXT: Map052/events/1/pages/1/19/Dialogue
+However, deepening relationship with a girl with black
+hair, The possibility of aristocratic girl seems to
+disappear. It is important to carefully select actions
+Would be ok」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「ううむ……
+この王都東区の北部にある住宅街にて、
+黒髪の少女との出会いが暗示されていますね……
+> CONTEXT: Map052/events/1/pages/1/26/Dialogue
+fortune teller. 「No ... In the residential area in the
+northern part of the king East District,
+The encounter with a girl with a black hair is implied ...#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会が始まってしまうと、
+この少女との可能性が失われる、とも出ています。
+お気をつけください」
+> CONTEXT: Map052/events/1/pages/1/31/Dialogue
+When the martial arts tournament begins,
+There is also the possibility that this possibility with
+this girl is lost. Please take care.」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「武道大会の試合があるようですね。
+3試合のうち1敗までは許されるようですが、
+3試合目が手強いので、そこまで負け無しで行くのが重要です。
+> CONTEXT: Map052/events/1/pages/2/6/Dialogue
+fortune teller. 「It seems there is a game of martial arts
+tournament. Although it seems to be allowed up to 1 loss
+out of 3 games, The third game is tougher so it is
+important to go there without losing so much.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちなみに、闘技場の3階席に
+あなたの知り合いが来ているようですよ。
+\\C[2]対戦相手についてのヒントがもらえる\\C[0]ので、
+会っておいて損はないと思います」
+> CONTEXT: Map052/events/1/pages/2/11/Dialogue
+By the way, at the third floor seat of the stadium
+It seems that your acquaintance is coming.
+\\C[2]You get a hint about your opponent\\C[0] Because,
+I think that there is no loss after meeting」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「武道大会の試合があるようですね。
+2日目は、2戦目の相手が少し手強いでしょう。
+もし負けると、特別なシーンが見られるかもしれません」
+> CONTEXT: Map052/events/1/pages/3/6/Dialogue
+fortune teller. 「It seems there is a game of martial arts
+tournament. On the second day, the opponent of the second
+race will be a little tougher. If you lose, you may be able
+to see a special scene」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「決勝トーナメントは、これまでとはレベルが違うようですね。
+1回戦の相手は力任せの攻撃が特徴であるようです。
+相手が構えを取った時は、注意したほうがいいかもしれません。
+> CONTEXT: Map052/events/1/pages/4/6/Dialogue
+fortune teller. 「The level of the final tournament seems
+to be different from what you had before.
+It seems that the opponent in the first round is
+characterized by a powerful attack. It may be better to be
+careful when the other person took a stand.#MTLed
+> END STRING
+
+> BEGIN STRING
+もし負けてしまうと、
+そこであなたの冒険は終わってしまいますが……
+しかし、その場合、
+対戦相手との特別なシーンを見ることもできるようです」
+> CONTEXT: Map052/events/1/pages/4/11/Dialogue
+If you lose, Your adventure ends there ... ...
+However, in that case, It seems to be able to see a special
+scene with the opponent」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「戦士ミリーナに勝利したようですね。
+今、彼女の実家を訪れれば
+なにかが起こるかもしれませんよ」
+> CONTEXT: Map052/events/1/pages/5/6/Dialogue
+fortune teller. 「You seem to have won the warrior Mileena.
+Now, if you visit her parents' house. Something may happen」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「2回戦の相手は、これまで辿ってきた道によって
+対戦相手が変わることになるでしょう。
+金髪の少女が相手の場合、お尻に気をつけることです。
+> CONTEXT: Map052/events/1/pages/6/6/Dialogue
+fortune teller. 「The opponent of the second round depends
+on the way we have been following. Your opponents will
+change. If blond haired girl is your opponent, be careful
+of your ass.#MTLed
+> END STRING
+
+> BEGIN STRING
+どちらが相手であれ、負けた場合、
+その相手との特別なシーンを見ることができるでしょう。
+ただし、冒険はそこで終わってしまいますが」
+> CONTEXT: Map052/events/1/pages/6/11/Dialogue
+Whichever you are, if you lose, You will be able to see a
+special scene with that opponent. However, the adventure
+ends there」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「次の3回戦についてですが……
+試合前に妖しい気配があなたの前に現れる、とあります。
+選択によっては取り返しのつかないことになるやも……
+> CONTEXT: Map052/events/1/pages/7/6/Dialogue
+fortune teller. 「Regarding the next three rounds ... ...
+There is a mysterious sign before you will appear in front
+of you. Depending on your choice you will end up with
+irreparable ... or#MTLed
+> END STRING
+
+> BEGIN STRING
+もし、妖しい誘いを跳ねのけたとしても、
+3回戦の相手に勝つには対策が必要になるでしょう。
+正当な手段で挑んでくる相手ではありません」
+> CONTEXT: Map052/events/1/pages/7/11/Dialogue
+Even if you bounce off a magical invitation,
+Countermeasure will be needed to win against the third
+round partner. It is not an opponent who challenges with
+just means」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「次の4回戦についてですが……
+試合前に障害が現れる、と出ています。
+控室に入る前に、準備を整えておくのがよろしいかと。
+> CONTEXT: Map052/events/1/pages/8/6/Dialogue
+fortune teller. 「About the next four rounds ... ...
+An obstacle appears before the game, it is out.
+Before entering the waiting room, you should be prepared
+ready.#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、その障害を排除する際、
+できるだけ体力・精神をを消耗していない状態で
+戦闘を終わらせることが重要である、とも出ていますね。
+> CONTEXT: Map052/events/1/pages/8/11/Dialogue
+And in eliminating the obstacle, As much as possible do not
+wear physical strength / spirit. It is also said that it is
+important to end battle.#MTLed
+> END STRING
+
+> BEGIN STRING
+また、この4回戦の試合では
+体力と精神のどちらを失って敗北したかで
+その後の敗北シーンの内容が変化するようですよ」
+> CONTEXT: Map052/events/1/pages/8/15/Dialogue
+Also, in this 4th round match. In terms of losing either
+physical strength or spirit and defeat. It seems that the
+content of the subsequent defeat scene changes」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「武道大会優勝のためには、
+素直に力を伸ばし、装備品を整えるが吉、でしょう」
+> CONTEXT: Map052/events/1/pages/9/6/Dialogue
+fortune teller. 「For martial arts tournament victory,
+To obediently extend strength and arrange accessories, it
+will be good」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「武道大会優勝、おめでとうございます。
+今、特別な関係の女性の元に行くと、
+結ばれることができるかもしれませんね。
+> CONTEXT: Map052/events/1/pages/10/6/Dialogue
+fortune teller. 「Congratulations on winning the martial
+arts tournament. Now, going to a woman of special
+relationship, You may be able to get connected.#MTLed
+> END STRING
+
+> BEGIN STRING
+女性たちは、それぞれ普段の場所にいますが――
+青髪の剣士は中央区の宿屋に、
+盗賊の女性は高原の宿屋にいるかと思いますよ」
+> CONTEXT: Map052/events/1/pages/10/11/Dialogue
+Women are in their usual places -. The blue sword fighter
+is in the inn in Chuo-ku, I think that the woman of the
+bandit is in the inn at the plateau」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「武道大会優勝、おめでとうございます。
+王女殿下の元に向かうのが吉、と出ていますよ
+もちろん、殿下は王城におられます」
+> CONTEXT: Map052/events/1/pages/11/6/Dialogue
+fortune teller. 「Congratulations on winning the martial
+arts tournament. It is good to go to the princess of
+Princess. Of course, your Highness is in King's Castle」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「女王の試練を乗り越えるには、
+今まで仲を深めた女性たちの協力が必要になるでしょう。
+> CONTEXT: Map052/events/1/pages/12/6/Dialogue
+fortune teller. 「To overcome Queen's ordeal,
+It will be necessary to cooperate with women who have
+deepened their relationship.#MTLed
+> END STRING
+
+> BEGIN STRING
+そのほとんどは王都にいるようですが、
+盗賊の女性だけは高原の村にいると出ていますよ」
+> CONTEXT: Map052/events/1/pages/12/10/Dialogue
+Most of it seems to be in the kingdom, Only a woman's woman
+comes out in the village of Takahara」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「女王陛下との戦いは、熾烈なものになるでしょう。
+とはいえ、聖属性攻撃ばかり、と出ていますので
+対策は可能だと思います。
+> CONTEXT: Map052/events/1/pages/13/6/Dialogue
+fortune teller. 「The fight with the Queen's Majesty will
+be fierce. Nonetheless, since only Saint Attack attacks are
+out, I think that measures are possible.#MTLed
+> END STRING
+
+> BEGIN STRING
+敗北した場合、あなたが邪悪な剣を装備していたり
+あまり陛下の体力を減らせなかった場合、
+陛下を怒らせてしまうため、
+お仕置きのようなHシーンになってしまうようです。
+> CONTEXT: Map052/events/1/pages/13/11/Dialogue
+If you are defeated, you are equipped with an evil sword
+If you can not reduce your physical strength too much,
+In order to offend Majesty, It seems that it becomes an H
+scene like punishment.#MTLed
+> END STRING
+
+> BEGIN STRING
+邪悪な剣を装備せずに戦いに臨み、
+陛下の体力をある程度減らして負けると、
+優しくしていただけるかもしれませんよ」
+> CONTEXT: Map052/events/1/pages/13/16/Dialogue
+Without equipping the evil sword it faced a battle,
+If you lose by reducing your physical strength to some
+extent, You may be kind to me」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「探しものは、海のあたりにあると出ています。
+海岸にて、道を塞ぐ岩を調べてみてはいかがでしょう」
+> CONTEXT: Map052/events/1/pages/14/6/Dialogue
+fortune teller. 「If you are looking for something near the
+ocean, you are out. Why do not you look up the rocks that
+block the way on the coast」#MTLed
+> END STRING
+
+> BEGIN STRING
+占い師
+「ふむ、探しもののために荒野に行かれるのですね。
+地面が柔らかい場所で鉱石を採取することにより、
+思わぬ形で道が開ける、と出ていますよ」
+> CONTEXT: Map052/events/1/pages/15/6/Dialogue
+fortune teller. 「Hmm, are you going to the wilderness for
+what you are looking for? By collecting the ore at a place
+where the ground is soft, I can open the road in an
+unexpected way, it is out」#MTLed
+> END STRING

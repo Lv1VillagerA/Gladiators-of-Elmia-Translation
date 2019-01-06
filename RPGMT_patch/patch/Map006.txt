@@ -1,0 +1,21 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+『モルデリア洞窟』
+と書いてある。
+> CONTEXT: Map006/events/3/pages/0/0/Dialogue
+"Mordelia Cave". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ここから飛び降りられそうだが……どうする？」
+> CONTEXT: Map006/events/6/pages/0/0/Dialogue
+\\N[12]. 「It is likely to jump off here, but ... what
+do you do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+飛び降りる
+> CONTEXT: Map006/events/6/pages/0/3/Choice/0
+jump off#MTLed
+> END STRING

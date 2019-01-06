@@ -1,0 +1,136 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+マルワイク武具店
+> CONTEXT: Map046/display_name/
+Marvaick Armory shop#MTLed
+> END STRING
+
+> BEGIN STRING
+武闘家
+「武道大会の選手ならみんな、いい武具を揃えたい。
+そういった需要にうまく乗っている店だな、ここは。
+いい武具が揃っているが、その分値も張る……」
+> CONTEXT: Map046/events/2/pages/0/0/Dialogue
+Fighter. 「Everyone, if you are a martial arts tournament
+player, I would like to have good weapons.
+It is a shop that is well on such demand, here.
+There are good weapons, but it also sets a value
+accordingly ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+老戦士
+「うむ……よい鎧だが、ちと高いのう……」
+> CONTEXT: Map046/events/4/pages/0/0/Dialogue
+Old warrior. 「Well ... good armor, but high tu ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+店員
+「いらっしゃいませー！
+向かって正面が武器と防具、
+左手が道具のお店になりまーす！」
+> CONTEXT: Map046/events/5/pages/0/0/Dialogue
+Clerk. 「welcome! Weapons and armor against the front
+facing, The left hand will be a tool shop!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女戦士
+「ここの武器や防具のような高価なものを、
+出場者はみんな揃えているというのか……？
+くっ、とてもそんな金は……いや、勝つためには無理してでも……」
+> CONTEXT: Map046/events/6/pages/0/0/Dialogue
+Woman warrior. 「If you need expensive items like weapons
+and armor here, Is it that everyone has all the contestants
+...? Cut, very much such money ... No, I can not force to
+win ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「この店はリーズナブルなものから高価な一品物まで
+豊富に商品が取り揃えられている。
+まず、武道大会に備えるならここは申し分のない店だよ」
+> CONTEXT: Map046/events/7/pages/0/0/Dialogue
+A soldier. 「From this reasonable store to expensive items
+There are abundant products available. First, if you
+prepare for the martial arts tournament, this is an
+impressive store」#MTLed
+> END STRING
+
+> BEGIN STRING
+戦士
+「すぐ前にいる姉ちゃんみたいのは、いいカモだよ。
+この店はうまく武道大会出場者の不安を煽るんだよなー」
+> CONTEXT: Map046/events/8/pages/0/0/Dialogue
+Warrior. 「It is a nice duck, like older sister in front of
+you. This shop is going to fuck anxiety of martial arts
+tournament participants well」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「金があるなら、ここの店の高級武具を買えばいいが……
+金がなくても、素材として優秀な武具があるなら、
+二階で鍛えてもらえば同等のものに仕上げてもらえるぜ」
+> CONTEXT: Map046/events/10/pages/0/0/Dialogue
+Youth. 「If you have money, you can buy the luxury armor of
+this shop ... ... Even without money, if there is excellent
+weapon as a material, If you train on the second floor you
+will be finished with the same thing」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「キミも出場者か？　ならば忠告しておこう。
+武道大会を勝ち抜きたいなら、それなりの武具を揃えることは
+必須と言っていい。技を身につけることと同等に重要だぞ」
+> CONTEXT: Map046/events/11/pages/0/0/Dialogue
+royal guard. 「Are you also a contestant? Then let's advise.
+If you want to win the martial arts tournament, to arrange
+a reasonable amount of weapons. It can be said that it is
+essential. It is equally as important as learning skills」#MTLed
+> END STRING
+
+> BEGIN STRING
+店長マルワイク
+「さあさあ、当マルワイク武具店自慢の
+高級品が目白押し！
+こちらは鎧コーナーだよ！」
+> CONTEXT: Map046/events/12/pages/0/0/Dialogue
+Manager manager Marvaick. 「, We are proud of our Marvaick
+armor store. Luxury goods are pushing! This is an armor
+corner!」#MTLed
+> END STRING
+
+> BEGIN STRING
+店員
+「こちらは頭防具とアクセサリーのコーナーとなっております」
+> CONTEXT: Map046/events/14/pages/0/0/Dialogue
+Clerk. 「This is our head protection and accessories corner」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ここは道具のコーナーでーす！」
+> CONTEXT: Map046/events/15/pages/0/0/Dialogue
+girl. 「This is a tool corner!」#MTLed
+> END STRING
+
+> BEGIN STRING
+店員
+「武道大会出場者御用達、マルワイク武具店へようこそ！
+去年の優勝者も、当店で装備を購入されておりまーす！」
+> CONTEXT: Map046/events/18/pages/0/0/Dialogue
+Clerk. 「Martial arts tournament Welcome to the
+contestants, Marvaick armor store! Last year's winner also
+purchased equipment at our shop!」#MTLed
+> END STRING
+
+> BEGIN STRING
+店員
+「こちらは武器のコーナーです！」
+> CONTEXT: Map046/events/19/pages/0/0/Dialogue
+Clerk. 「This is the corner of the weapon!」#MTLed
+> END STRING

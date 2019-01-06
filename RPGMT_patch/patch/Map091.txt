@@ -1,0 +1,27 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+男の子
+「地下から変な声がして怖いんだ。
+最近、全然眠れないよぉ……」
+> CONTEXT: Map091/events/2/pages/0/0/Dialogue
+boy. 「I'm afraid of being strangled from the basement.
+Recently, I can not sleep at all ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「にーちゃんが地下の魔物を退治してくれたんだって？
+ありがとなっ！」
+> CONTEXT: Map091/events/2/pages/1/0/Dialogue
+boy. 「Did he exterminate the underworld monsters?
+Thank you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「剣士のねーちゃんが魔物を退治してくれたんだってさ！
+女なのにすげーよなー！」
+> CONTEXT: Map091/events/2/pages/2/0/Dialogue
+boy. 「Neko of swordsman exterminated the demon!
+I'm a woman I'm pretty good!」#MTLed
+> END STRING

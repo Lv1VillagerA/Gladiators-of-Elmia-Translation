@@ -1,0 +1,1825 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+回復薬
+> CONTEXT: Items/1/name/
+Potion#lvl1
+> END STRING
+
+> BEGIN STRING
+体力を３００ポイント回復する。
+> CONTEXT: Items/1/description/
+Recover 300 points of physical strength.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+大回復薬
+> CONTEXT: Items/2/name/
+Great recovery drug#MTLed
+> END STRING
+
+> BEGIN STRING
+体力を５００ポイント回復する。
+> CONTEXT: Items/2/description/
+Recovers 500 HP.#lvl1
+> END STRING
+
+> BEGIN STRING
+完全回復薬
+> CONTEXT: Items/3/name/
+Full Potion#lvl1
+> END STRING
+
+> BEGIN STRING
+体力を完全に回復する。
+> CONTEXT: Items/3/description/
+Recovers all HP.#lvl1
+> END STRING
+
+> BEGIN STRING
+精神薬
+> CONTEXT: Items/4/name/
+Mental drugs#MTLed
+> END STRING
+
+> BEGIN STRING
+精神を５０ポイント回復する。
+> CONTEXT: Items/4/description/
+Restore the spirit by 50 points.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+気付け薬
+> CONTEXT: Items/5/name/
+Reminder#MTLed
+> END STRING
+
+> BEGIN STRING
+毒消し
+> CONTEXT: Items/6/name/
+Poisoning#MTLed
+> END STRING
+
+> BEGIN STRING
+毒状態を治療する。
+> CONTEXT: Items/6/description/
+Treat the poison condition.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ディスペルハーブ
+> CONTEXT: Items/7/name/
+Dispel herb#MTLed
+> END STRING
+
+> BEGIN STRING
+エリクサー
+> CONTEXT: Items/8/name/
+Elixir#MTLed
+> END STRING
+
+> BEGIN STRING
+体力と精神を完全に回復する。
+> CONTEXT: Items/8/description/
+Completely recover your physical strength and spirit.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ライフアップ
+> CONTEXT: Items/9/name/
+Life Up#lvl1
+> END STRING
+
+> BEGIN STRING
+最大ＨＰを５０ポイント上げる。
+> CONTEXT: Items/9/description/
+Increases MaxHP by 50.#lvl1
+> END STRING
+
+> BEGIN STRING
+マナアップ
+> CONTEXT: Items/10/name/
+Mana Up#lvl1
+> END STRING
+
+> BEGIN STRING
+最大ＭＰを１０ポイント上げる。
+> CONTEXT: Items/10/description/
+Increases MaxMP by 10.#lvl1
+> END STRING
+
+> BEGIN STRING
+パワーアップ
+> CONTEXT: Items/11/name/
+Power Up#lvl1
+> END STRING
+
+> BEGIN STRING
+攻撃力を３ポイント上げる。
+> CONTEXT: Items/11/description/
+Increases ATK by 3.#lvl1
+> END STRING
+
+> BEGIN STRING
+ガードアップ
+> CONTEXT: Items/12/name/
+Guard Up#lvl1
+> END STRING
+
+> BEGIN STRING
+防御力を３ポイント上げる。
+> CONTEXT: Items/12/description/
+Increases DEF by 3.#lvl1
+> END STRING
+
+> BEGIN STRING
+マジックアップ
+> CONTEXT: Items/13/name/
+Magic Up#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法力を３ポイント上げる。
+> CONTEXT: Items/13/description/
+Increases MAT by 3.#lvl1
+> END STRING
+
+> BEGIN STRING
+レジストアップ
+> CONTEXT: Items/14/name/
+Resist Up#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法防御を３ポイント上げる。
+> CONTEXT: Items/14/description/
+Increases MDF by 3.#lvl1
+> END STRING
+
+> BEGIN STRING
+敏捷性を３ポイント上げる。
+> CONTEXT: Items/15/description/
+Increases AGI by 3.#lvl1
+> END STRING
+
+> BEGIN STRING
+ラックアップ
+> CONTEXT: Items/16/name/
+Luck Up#lvl1
+> END STRING
+
+> BEGIN STRING
+運を３ポイント上げる。
+> CONTEXT: Items/16/description/
+Increase your luck by 3 points.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+大精神薬
+> CONTEXT: Items/17/name/
+Psychoactive drug#MTLed
+> END STRING
+
+> BEGIN STRING
+精神を完全回復する。
+> CONTEXT: Items/17/description/
+Completely restore the spirit.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+神々の羽
+> CONTEXT: Items/18/name/
+Wings of the gods#MTLed
+> END STRING
+
+> BEGIN STRING
+一度行った場所に移動するためのアイテム。
+> CONTEXT: Items/18/description/
+Items to move to the place I went once.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+村長の紹介状
+> CONTEXT: Items/19/name/
+Introduction to village head#MTLed
+> END STRING
+
+> BEGIN STRING
+身分証明書として村長が持たせてくれたもの。
+> CONTEXT: Items/19/description/
+Those that village head gave me as an identity card.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ディラント高原ミルク
+> CONTEXT: Items/20/name/
+Dirant plateau milk#MTLed
+> END STRING
+
+> BEGIN STRING
+ウィギス村名物、新鮮なミルク。
+体力と精神を中程度回復できる。
+> CONTEXT: Items/20/description/
+Wigheis village specialty, fresh milk. Moderate physical
+strength and spirit can be recovered.#MTLed
+> END STRING
+
+> BEGIN STRING
+輝石のイヤリング
+> CONTEXT: Items/21/name/
+A pyroxene earring#MTLed
+> END STRING
+
+> BEGIN STRING
+ディラント高原で採取された輝石をあしらった
+きれいなイヤリング。
+> CONTEXT: Items/21/description/
+I treated a pyroxene collected at the Dirant plateau. 
+Pretty earrings.#MTLed
+> END STRING
+
+> BEGIN STRING
+鎮静剤
+> CONTEXT: Items/22/name/
+Sedative#MTLed
+> END STRING
+
+> BEGIN STRING
+溜まった性感を鎮める薬。
+性感度を0にし、勃起状態を治す。
+> CONTEXT: Items/22/description/
+A medicine that calms down the accumulated feeling. Sex
+sensitivity is set to 0, and the erection state is cured.#MTLed
+> END STRING
+
+> BEGIN STRING
+水路の鍵
+> CONTEXT: Items/23/name/
+Key of the waterway#MTLed
+> END STRING
+
+> BEGIN STRING
+地下水道の扉を開けるための鍵。
+> CONTEXT: Items/23/description/
+The key to opening the door of the underground water
+supply.#MTLed
+> END STRING
+
+> BEGIN STRING
+ロープ
+> CONTEXT: Items/24/name/
+Rope#MTLed
+> END STRING
+
+> BEGIN STRING
+何の変哲もないロープ。
+> CONTEXT: Items/24/description/
+Any rope that is irrelevant.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+釣り竿
+> CONTEXT: Items/25/name/
+Fishing rod#MTLed
+> END STRING
+
+> BEGIN STRING
+普通の釣り竿
+> CONTEXT: Items/25/description/
+Ordinary fishing rod
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+マディンフィッシュ
+> CONTEXT: Items/26/name/
+Maduin fish#MTLed
+> END STRING
+
+> BEGIN STRING
+レストン近海に生息する青魚。
+身がプリプリとして食べごたえがある。
+> CONTEXT: Items/26/description/
+Blue fish living in the sea near Reston. I have an eating
+habit as a person.#MTLed
+> END STRING
+
+> BEGIN STRING
+人魚の鱗
+> CONTEXT: Items/27/name/
+Mermaid scale#MTLed
+> END STRING
+
+> BEGIN STRING
+虹色に輝く美しい鱗。
+> CONTEXT: Items/27/description/
+> CONTEXT: Items/28/description/
+Beautiful scales shining in rainbow color.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+虹色の鱗?
+> CONTEXT: Items/28/name/
+Rainbow-colored scales?#MTLed
+> END STRING
+
+> BEGIN STRING
+シラタマタケ
+> CONTEXT: Items/29/name/
+Ball mushroom#MTLed
+> END STRING
+
+> BEGIN STRING
+赤地に白いストライプ模様がついたキノコ。
+> CONTEXT: Items/29/description/
+Mushrooms with red stripes with white stripes.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+エルミアシメジ
+> CONTEXT: Items/30/name/
+Elmyr shimeji#MTLed
+> END STRING
+
+> BEGIN STRING
+茶色いキノコ。水辺に生える。
+> CONTEXT: Items/30/description/
+Brown mushrooms. It grows on the waterside.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ユキミタケ
+> CONTEXT: Items/31/name/
+Snowy mushroom#MTLed
+> END STRING
+
+> BEGIN STRING
+高原に生える純白のキノコ。
+> CONTEXT: Items/31/description/
+Pure white mushrooms growing in the plateau.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+レストニアオクトパス
+> CONTEXT: Items/32/name/
+Restonian octopus#MTLed
+> END STRING
+
+> BEGIN STRING
+レストン近海に生息するタコ。
+> CONTEXT: Items/32/description/
+Octopus inhabiting the Reston Sea.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+パルムフィッシュ
+> CONTEXT: Items/33/name/
+Palm fish#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア近隣の河川で捕れる一般的な淡水魚。
+> CONTEXT: Items/33/description/
+General freshwater fish caught in rivers near Elmia.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+サンゴ
+> CONTEXT: Items/34/name/
+Coral#MTLed
+> END STRING
+
+> BEGIN STRING
+きれいなサンゴ。
+> CONTEXT: Items/34/description/
+Beautiful corals.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+アーロンハウス無料パスポート
+> CONTEXT: Items/35/name/
+Aaron House Free Passport#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会終了の日までの期間、
+アーロンハウスの料理を1日1食無料で食べられるパス。
+> CONTEXT: Items/35/description/
+Martial arts tournament period until the end of the day, 
+Pass to eat Aaron House cuisine free of charge per day.#MTLed
+> END STRING
+
+> BEGIN STRING
+マディンフィッシュのフリットサンド
+> CONTEXT: Items/36/name/
+Maduin fish's frit sandwich#MTLed
+> END STRING
+
+> BEGIN STRING
+マディンフィッシュのフリットをパンに挟んだ
+おいしいサンドイッチ。体力、精神、技力が回復する。
+> CONTEXT: Items/36/description/
+\\}I sandwiched the frit of maduin fish in the bread. A delicious sandwich.
+Your physical strength, mental and technical strength will recover.#MTLed
+> END STRING
+
+> BEGIN STRING
+雪うさぎのぬいぐるみ
+> CONTEXT: Items/37/name/
+Snow Rabbit Plushie#MTLed
+> END STRING
+
+> BEGIN STRING
+真っ白なうさぎのぬいぐるみ。
+> CONTEXT: Items/37/description/
+A stuffed animal with a white rabbit.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+オルゴール
+> CONTEXT: Items/38/name/
+Music Box#MTLed
+> END STRING
+
+> BEGIN STRING
+ウィギスの民謡のメロディが流れるオルゴール。
+> CONTEXT: Items/38/description/
+The melody of the folk song of Wigheis flows music box.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+木組みの馬車
+> CONTEXT: Items/39/name/
+Wooden carriage#MTLed
+> END STRING
+
+> BEGIN STRING
+木細工の馬車のおもちゃ。
+> CONTEXT: Items/39/description/
+Woodworking carriage toy.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+出場選手証
+> CONTEXT: Items/40/name/
+Participation player certificate#MTLed
+> END STRING
+
+> BEGIN STRING
+武道大会の出場選手であることを証明するパスカード。
+> CONTEXT: Items/40/description/
+Pass card to prove to be a competitor of martial arts
+tournament.#MTLed
+> END STRING
+
+> BEGIN STRING
+ギルドメンバーズカード
+> CONTEXT: Items/41/name/
+Guild Members Card#MTLed
+> END STRING
+
+> BEGIN STRING
+王都の冒険者ギルドの登録者であることを証明するカード。
+> CONTEXT: Items/41/description/
+A card to prove that you are a registrant of Kingdom
+Adventurer Guild.#MTLed
+> END STRING
+
+> BEGIN STRING
+マトック
+> CONTEXT: Items/42/name/
+Steel pick#MTLed
+> END STRING
+
+> BEGIN STRING
+鉱石を掘り出すためのマトック。
+> CONTEXT: Items/42/description/
+Steel pick for digging ores.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+グロッセル鉱石
+> CONTEXT: Items/43/name/
+Grossel ore#MTLed
+> END STRING
+
+> BEGIN STRING
+紫色に輝く硬度の高い鉱石。
+魔力を弾く性質があり、極めて加工しづらい。
+> CONTEXT: Items/43/description/
+High purity ore with high hardness. It has the property of
+playing magical power, and it is very hard to process.#MTLed
+> END STRING
+
+> BEGIN STRING
+ザウメル鉱石
+> CONTEXT: Items/44/name/
+Saumure ore#MTLed
+> END STRING
+
+> BEGIN STRING
+モルデリア山で採取できる緑色の鉱石。
+硬度が高いわりに軽いのが特徴。
+> CONTEXT: Items/44/description/
+A green ore that can be taken at the Morderia mountain. It
+is characterized by its lighter hardness.#MTLed
+> END STRING
+
+> BEGIN STRING
+鉄鉱石
+> CONTEXT: Items/45/name/
+Iron ore#MTLed
+> END STRING
+
+> BEGIN STRING
+鉄を含んだ鉱石。換金または素材に使う。
+> CONTEXT: Items/45/description/
+Ore containing iron. Use it for cash or materials.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+銅鉱石
+> CONTEXT: Items/46/name/
+Copper ore#MTLed
+> END STRING
+
+> BEGIN STRING
+銅を含んだ鉱石。換金または素材に使う。
+> CONTEXT: Items/46/description/
+Copper containing ore. Use it for cash or materials.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+銀鉱石
+> CONTEXT: Items/47/name/
+Silver ore#MTLed
+> END STRING
+
+> BEGIN STRING
+銀を含んだ鉱石。換金または素材に使う。
+> CONTEXT: Items/47/description/
+Ore containing silver. Use it for cash or materials.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『魔物退治：街道』
+> CONTEXT: Items/48/name/
+Request slip "monster extermination: Highway"#MTLed
+> END STRING
+
+> BEGIN STRING
+王都西～北西の街道にて凶暴な魔物が多数発生しています。
+軍だけでは手が回らないようなので、退治にご協力を。
+> CONTEXT: Items/48/description/
+\\}Many ferocious monsters have occurred in the roads of the king-nishi-northwest.
+It seems that hands do not turn around with the army alone,#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『娘の練習相手』
+> CONTEXT: Items/49/name/
+Request form "Daughter's practice partner"#MTLed
+> END STRING
+
+> BEGIN STRING
+娘の剣術の稽古相手を探している。我こそはと思う者は
+中央区南東のベックフォード邸へ来られたし。
+> CONTEXT: Items/49/description/
+\\}I am looking for a daughter's swordsmanship lesson. Those who think I am
+I came to Beckford residence in southeast Chuo-ku.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『特別な魚』
+> CONTEXT: Items/50/name/
+Request slip "Special fish"#MTLed
+> END STRING
+
+> BEGIN STRING
+王都周辺に生息していない魚を獲ってきてもらいたい。
+詳しくは東区・レストラン店主のアーロンまで。
+> CONTEXT: Items/50/description/
+\\}I would like you to catch fish not inhabiting the kingdom.
+For details, please east to Akira restaurant shop owner Aaron.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『地下水道の調査』
+> CONTEXT: Items/51/name/
+Request slip "Survey of underground water supply"#MTLed
+> END STRING
+
+> BEGIN STRING
+地下水道から不気味なうなり声が聞こえることがあります。
+調査してくれる人を募集します。詳細は東区・北側住宅街ティシアまで。
+> CONTEXT: Items/51/description/
+\\}You may hear an eerie groan from underground water supply.
+We are looking for people to investigate. For details,#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『三種のキノコ収集』
+> CONTEXT: Items/52/name/
+Request slip "Three mushroom collections"#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法の実験に使う三種類のキノコを5本ずつ集めてください。
+詳しくは東区・エルミア王立学院のバロアまで。
+> CONTEXT: Items/52/description/
+\\}Please collect 5 mushrooms to use for magical experiments.
+For details, please contact Baroa of Higashi-ku · Elmia Royal College.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『兵士の練習相手』
+> CONTEXT: Items/53/name/
+Request slip "Soldier practice partner"#MTLed
+> END STRING
+
+> BEGIN STRING
+外部の人と手合わせをしたいと思っています。腕の立つ方募集。
+詳しくは中央区・兵士独身寮のラナまでお願いいたします。
+> CONTEXT: Items/53/description/
+\\}I'd like to make an appointment with an outside person.
+Wanted people looking for arms. For details, please ask Rana in#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『魔物の体の一部を…』
+> CONTEXT: Items/54/name/
+Request form "Part of the body of monster ..."#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物の体の一部を採取してきてもらいたい。
+詳しくは中央区道具屋まで。
+> CONTEXT: Items/54/description/
+I would like you to collect a part of the monster's body. 
+For details, go to Chuuu-ku tool store.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『ミルクが欲しい』
+> CONTEXT: Items/55/name/
+Request slip "I want milk"#MTLed
+> END STRING
+
+> BEGIN STRING
+赤ちゃんのためのミルクを北の村で買ってきてほしいのです。
+詳しくは東区・東側住宅街ルゼット＝メルグまで。
+> CONTEXT: Items/55/description/
+\\}I would like you to buy milk for the baby in the village in the north.
+For details, please see East District / East side residential area Lzet = Merg.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『魔物の体の一部を…２』
+> CONTEXT: Items/56/name/
+Request form "Part of the body of monster ... 2"#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物の体の一部を、また採取してきてもらいたい。
+詳しくは中央区道具屋まで。
+> CONTEXT: Items/56/description/
+I would like you to collect some of the body of monster
+again. For details, go to Chuuu-ku tool store.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『カバンの盗難』
+> CONTEXT: Items/57/name/
+Request form "bag theft"#MTLed
+> END STRING
+
+> BEGIN STRING
+盗まれたカバンを探して欲しい。
+詳しくはホテル・リバーリーフ２階にて。
+> CONTEXT: Items/57/description/
+I would like you to look for a stolen bag. For more
+information on Hotel River Leaf 2nd floor.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『魔物退治：高原』
+> CONTEXT: Items/58/name/
+Request slip "monster extermination: plateau"#MTLed
+> END STRING
+
+> BEGIN STRING
+ディラント高原深部に出現した魔物を
+退治してください。
+> CONTEXT: Items/58/description/
+A monster that appeared in the Dirant Plateau deep. Please
+exterminate.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『魔物退治：森』
+> CONTEXT: Items/59/name/
+Request slip "monster extermination: forest"#MTLed
+> END STRING
+
+> BEGIN STRING
+レヴァスティの森・南西最深部に出現した魔物を
+退治してください。
+> CONTEXT: Items/59/description/
+Monster that appeared in the forest of Lavasti · deepest
+southwest. Please exterminate.#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼票『養子候補を探している』
+> CONTEXT: Items/60/name/
+Request form "I am looking for an adopted candidate"#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム家の跡取りにふさわしい養子の候補を探している。
+詳しくは私の家で。日中は留守なので、武道大会の試合後に来てくれ。
+> CONTEXT: Items/60/description/
+\\}I am looking for a candidate for adoption appropriate for
+the Grandrealm family's trace. For details, at my house. As I am out#MTLed
+> END STRING
+
+> BEGIN STRING
+スライムコア
+> CONTEXT: Items/61/name/
+Slime core#MTLed
+> END STRING
+
+> BEGIN STRING
+スライムの核。
+加工に使えるかも？
+> CONTEXT: Items/61/description/
+The nucleus of slime. Can it be used for processing?
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+蜂の毒針
+> CONTEXT: Items/62/name/
+Bee poisoned needle#MTLed
+> END STRING
+
+> BEGIN STRING
+凶悪な毒蜂が落とした針。
+加工に使えるかも？　戦闘で使用可能。
+> CONTEXT: Items/62/description/
+A needle dropped by a violent poison bee. Can it be used
+for processing? Can be used in battle.#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネの葉
+> CONTEXT: Items/63/name/
+Ala Leaves#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネの体からこぼれ落ちた葉。
+> CONTEXT: Items/63/description/
+Leaves spilled from the body of alraune.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+アマゾネスの下着
+> CONTEXT: Items/64/name/
+Amazon underwear#MTLed
+> END STRING
+
+> BEGIN STRING
+アマゾネスの下着。
+戦闘中に使用すると性感度と攻撃力が上がる。
+> CONTEXT: Items/64/description/
+amazon underwear. If you use it while fighting, the
+sexuality and attack power go up.#MTLed
+> END STRING
+
+> BEGIN STRING
+エレメンタルコア（青）
+> CONTEXT: Items/65/name/
+Elemental core (blue)#MTLed
+> END STRING
+
+> BEGIN STRING
+アイススピリットが落とすエレメンタルコア。
+鍛冶屋での武器・防具の強化に使用できる。
+> CONTEXT: Items/65/description/
+Ice spirit drops elemental core. Can be used to strengthen
+weapons and armor in blacksmith.#MTLed
+> END STRING
+
+> BEGIN STRING
+エレメンタルコア（赤）
+> CONTEXT: Items/66/name/
+Elemental core (red)#MTLed
+> END STRING
+
+> BEGIN STRING
+フレイムスピリットが落とすエレメンタルコア。
+鍛冶屋での武器・防具の強化に使用できる。
+> CONTEXT: Items/66/description/
+Flame Spirit drops elemental core. Can be used to
+strengthen weapons and armor in blacksmith.#MTLed
+> END STRING
+
+> BEGIN STRING
+エレメンタルコア（緑）
+> CONTEXT: Items/67/name/
+Elemental core (green)#MTLed
+> END STRING
+
+> BEGIN STRING
+ドリアードが落とすエレメンタルコア。
+鍛冶屋での武器・防具の強化に使用できる。
+> CONTEXT: Items/67/description/
+Dryad drops elemental core. Can be used to strengthen
+weapons and armor in blacksmith.#MTLed
+> END STRING
+
+> BEGIN STRING
+食人花の花弁
+> CONTEXT: Items/68/name/
+Flower petal of eating people#MTLed
+> END STRING
+
+> BEGIN STRING
+食人花の体の花弁。
+> CONTEXT: Items/68/description/
+Flower petal of flower body.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+触手
+> CONTEXT: Items/69/name/
+Tentacle#MTLed
+> END STRING
+
+> BEGIN STRING
+ゲイザーの触手。
+換金アイテム。
+> CONTEXT: Items/69/description/
+Geyser's tentacle. Cash item.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+コウモリの羽
+> CONTEXT: Items/70/name/
+Bat Feather#MTLed
+> END STRING
+
+> BEGIN STRING
+大コウモリが落とした羽。
+換金アイテム。
+> CONTEXT: Items/70/description/
+Feather dropped by a large bat. Cash item.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバスの翼
+> CONTEXT: Items/71/name/
+Succubus's wings#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバスが落とした翼。
+> CONTEXT: Items/71/description/
+The wing dropped by lesser succubus.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ブルークリスタル
+> CONTEXT: Items/72/name/
+Blue Crystal#MTLed
+> END STRING
+
+> BEGIN STRING
+青く透き通った冷たい水晶。
+鍛冶屋にて、武器の素材として利用できる。
+> CONTEXT: Items/72/description/
+Blue and clear cold crystal. In blacksmith, it can be used
+as a material for weapons.#MTLed
+> END STRING
+
+> BEGIN STRING
+インプの角
+> CONTEXT: Items/73/name/
+Horn of Imp#MTLed
+> END STRING
+
+> BEGIN STRING
+インプの角。
+> CONTEXT: Items/73/description/
+Horn of Imp.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+スライムゼリー
+> CONTEXT: Items/74/name/
+Slime jelly#MTLed
+> END STRING
+
+> BEGIN STRING
+スライムの体の一部。
+> CONTEXT: Items/74/description/
+A part of the body of slime.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+蜂の羽
+> CONTEXT: Items/75/name/
+Bee's feather#MTLed
+> END STRING
+
+> BEGIN STRING
+ホーネットの羽。透き通っている。
+> CONTEXT: Items/75/description/
+Feather of Hornet. It is transparent.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+食人花の葉
+> CONTEXT: Items/76/name/
+Food flowers leaves#MTLed
+> END STRING
+
+> BEGIN STRING
+食人花の葉。
+> CONTEXT: Items/76/description/
+Food flower leaves.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ゲイザーアイ
+> CONTEXT: Items/77/name/
+Gazer eye#MTLed
+> END STRING
+
+> BEGIN STRING
+ゲイザーの目玉。
+戦闘で使用可能。
+> CONTEXT: Items/77/description/
+Geyser's eyeball. Can be used in battle.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ポイズンゼリー
+> CONTEXT: Items/78/name/
+Poison jelly#MTLed
+> END STRING
+
+> BEGIN STRING
+グリーンスライムの体の一部。
+> CONTEXT: Items/78/description/
+Part of the body of green slime.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+アシッドゼリー
+> CONTEXT: Items/79/name/
+Acid jelly#MTLed
+> END STRING
+
+> BEGIN STRING
+イエロースライムの体の一部。
+> CONTEXT: Items/79/description/
+Part of Yellow Slime's body.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+女盗賊の下着
+> CONTEXT: Items/80/name/
+Female bandit underwear#MTLed
+> END STRING
+
+> BEGIN STRING
+女盗賊が履いていた下着。使用すると性感度が上昇する。
+レストンの村の南東にいる若者に渡すと……？
+> CONTEXT: Items/80/description/
+\\}Underwear the woman was wearing. Sex sensitivity increases when used.
+Give it to the young man in the southeast of Reston's village ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+精神安定剤
+> CONTEXT: Items/82/name/
+Tranquilizer#MTLed
+> END STRING
+
+> BEGIN STRING
+精神を５０回復し、同時に性感度を０に下げ、
+さらに勃起状態を治す。
+> CONTEXT: Items/82/description/
+Recovery of the spirit 50, at the same time to lower the
+sex sensitivity to 0, Further cure erection state.#MTLed
+> END STRING
+
+> BEGIN STRING
+毒薬
+> CONTEXT: Items/83/name/
+Poison#MTLed
+> END STRING
+
+> BEGIN STRING
+毒薬。飲むと大ダメージを受けてしまう。
+> CONTEXT: Items/83/description/
+poison. When you drink it gets heavy damage.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+劇薬
+> CONTEXT: Items/84/name/
+Powerful drug#MTLed
+> END STRING
+
+> BEGIN STRING
+体力を少量回復するが、精神を大きく摩耗させる劇薬。
+飲む量によってダメージが変わる。
+> CONTEXT: Items/84/description/
+\\}A dramatic drug that recovers a small amount of physical
+strength, but wears the spirit greatly. Damage changes according to the#MTLed
+> END STRING
+
+> BEGIN STRING
+妖精の羽
+> CONTEXT: Items/86/name/
+Fairy wings#MTLed
+> END STRING
+
+> BEGIN STRING
+フェアリーの羽。透き通っていて光り輝いている。
+> CONTEXT: Items/86/description/
+Faerie's wings. It is crystal clear and shiny.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+妖精の髪
+> CONTEXT: Items/87/name/
+Fairy hair#MTLed
+> END STRING
+
+> BEGIN STRING
+フェアリーの髪の毛。妖しい花の香りがする。
+戦闘中に\\N[12]に対して使うと『恍惚』状態になる。
+> CONTEXT: Items/87/description/
+Fairy's hair. The fragrant flowers smell. During battle
+\\N[12] If you use against "ecstatic" state.#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリンの角
+> CONTEXT: Items/88/name/
+The corner of the goblin#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリンの角。
+粉にすることで薬の元になる。
+> CONTEXT: Items/88/description/
+The horn of the goblin. Making powder makes it a source of
+medicine.#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミアの皮
+> CONTEXT: None < UNUSED
+Lamia's skin#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミアの蛇皮。魔力を帯びている。
+> CONTEXT: Items/89/description/
+Snake skin of lamia. It has magical power.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+マジックコア
+> CONTEXT: Items/90/name/
+Magic Core#MTLed
+> END STRING
+
+> BEGIN STRING
+魔導生物の魔力の源である魔石。
+鍛冶屋での武器・防具の強化に使用できる。
+> CONTEXT: Items/90/description/
+\\}A magic stone which is the source of magical power of a magical creature.
+Can be used to strengthen weapons and armor in blacksmith.#MTLed
+> END STRING
+
+> BEGIN STRING
+人喰い触手
+> CONTEXT: Items/91/name/
+Human eating tentacle#MTLed
+> END STRING
+
+> BEGIN STRING
+人喰い草の触手。ハエトリソウの葉が進化したもの。
+> CONTEXT: Items/91/description/
+Tentacles of human eating grass. The leaf of the fly is
+evolved.#MTLed
+> END STRING
+
+> BEGIN STRING
+人喰い草の根
+> CONTEXT: Items/92/name/
+Human eating grassroots#MTLed
+> END STRING
+
+> BEGIN STRING
+人喰い草の根っこ。薬の元になる。
+> CONTEXT: Items/92/description/
+Man eating grassroots. Become medicine.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+冷たい髪
+> CONTEXT: Items/93/name/
+Cold hair#MTLed
+> END STRING
+
+> BEGIN STRING
+雪娘の長い髪の毛。氷の魔力を帯びている。
+
+> CONTEXT: Items/93/description/
+Yuki Musume's long hair. I have magical power of ice. 
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+サハギンの鱗
+> CONTEXT: Items/94/name/
+Scale of Sahuagin#MTLed
+> END STRING
+
+> BEGIN STRING
+サハギンの鱗。
+> CONTEXT: Items/94/description/
+Scale of Sahuagin.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+サハギンの青鱗
+> CONTEXT: Items/95/name/
+Blue Scale of Sahuagin#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギンの鱗。
+> CONTEXT: Items/95/description/
+Scale of Lady Sahuagin.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギンの尾びれ
+> CONTEXT: Items/96/name/
+Lady Sahuagin's tail fin#MTLed
+> END STRING
+
+> BEGIN STRING
+頑丈かつしなやかな尾びれ。
+> CONTEXT: Items/96/description/
+Rugged and supple tail.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケンの脚
+> CONTEXT: Items/97/name/
+Kraken's legs#MTLed
+> END STRING
+
+> BEGIN STRING
+イカ娘の脚。かなりの肉厚。
+> CONTEXT: Items/97/description/
+Squid girl's leg. Considerable wall thickness.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+投擲武器。戦闘中にアイテムとして使用すると敵にダメージ。
+一度使うとなくなってしまう。
+> CONTEXT: Items/99/description/
+Throwing Weapon. Damage to enemies when used as items
+during battle. It disappears once it is used.#MTLed
+> END STRING
+
+> BEGIN STRING
+魅惑の香
+> CONTEXT: Items/100/name/
+Enchanted incense#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバスの発する魅惑の香を再現したとされる香水。
+男が嗅ぐと性的に興奮し、勃起してしまう。
+> CONTEXT: Items/100/description/
+\\}Perfume is said to reproduce the fascination incense emitted from Succubus.
+When a man sniffs, he is sexually excited and erects.#MTLed
+> END STRING
+
+> BEGIN STRING
+青い鱗
+> CONTEXT: Items/101/name/
+Blue Scale#MTLed
+> END STRING
+
+> BEGIN STRING
+青く輝く美しい鱗
+> CONTEXT: Items/101/description/
+Beautiful scales shining blue
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+水路非常口の鍵
+> CONTEXT: Items/103/name/
+Key of the waterway emergency exit#MTLed
+> END STRING
+
+> BEGIN STRING
+地下水道の非常口を開けるための鍵。
+> CONTEXT: Items/103/description/
+The key to opening the emergency exit of the underground
+water supply.#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場地下水路の鍵
+> CONTEXT: Items/104/name/
+Key of the Arena groundwater aisle#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場の地下水路にある
+小部屋の扉を開けるための鍵。
+> CONTEXT: Items/104/description/
+It is in the underground waterway of the stadium. The key
+to opening the door of the small room.#MTLed
+> END STRING
+
+> BEGIN STRING
+管理員の証
+> CONTEXT: Items/105/name/
+Certificate of manager#MTLed
+> END STRING
+
+> BEGIN STRING
+地下水道管理局の所属職員であることを証明するための
+マジックアイテム。
+> CONTEXT: Items/105/description/
+To prove that you are a staff member of the groundwater
+management office. Magic item.#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノタウロスの角
+> CONTEXT: Items/107/name/
+The horn of minotaur#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノタウロスの角。
+> CONTEXT: Items/107/description/
+The horn of minotaur.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+レッドキャップが被っている真紅の帽子。
+人の血で染め上げられている。
+> CONTEXT: Items/109/description/
+A crimson hat wearing red cap. It is dyed with human blood.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+人狼の爪
+> CONTEXT: Items/110/name/
+Human wolf nail#MTLed
+> END STRING
+
+> BEGIN STRING
+ウェアウルフの鋭い爪。
+> CONTEXT: Items/110/description/
+A sharp claw of werewolf.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+人狼の牙
+> CONTEXT: Items/111/name/
+Human wolf's fangs#MTLed
+> END STRING
+
+> BEGIN STRING
+ウェアウルフの鋭い牙。
+> CONTEXT: Items/111/description/
+A sharp tusk of werewolf.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+大サソリの針
+> CONTEXT: Items/112/name/
+Large scorpion needle#MTLed
+> END STRING
+
+> BEGIN STRING
+大サソリの毒針。
+> CONTEXT: Items/112/description/
+Poisonous needle of a big scorpion.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+大サソリのハサミ
+> CONTEXT: Items/113/name/
+Large scorpion scissors#MTLed
+> END STRING
+
+> BEGIN STRING
+大サソリのハサミ。
+> CONTEXT: Items/113/description/
+Scissors of a big scorpion.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+オークの角
+> CONTEXT: Items/114/name/
+Corner of oak#MTLed
+> END STRING
+
+> BEGIN STRING
+オークの角。
+> CONTEXT: Items/114/description/
+The horn of oak.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+聖水
+> CONTEXT: Items/115/name/
+Holy water#MTLed
+> END STRING
+
+> BEGIN STRING
+水神サフィスティラの加護を受けた聖水。
+戦闘で使うと敵に神聖属性ダメージを与える。
+> CONTEXT: Items/115/description/
+\\}Holy water receiving the protection of the water god Safistira.
+If you use it in battle it deals sacred attribute damage to enemies.#MTLed
+> END STRING
+
+> BEGIN STRING
+魔剣の柄
+> CONTEXT: Items/116/name/
+The handle of a magical sword#MTLed
+> END STRING
+
+> BEGIN STRING
+魔剣の柄の部分だけが残されたもの。
+特別な素材と組み合わせることで復活するかも……？
+> CONTEXT: Items/116/description/
+\\}Only the part of the handle of the devil sword was left. It may be
+resurrected by combining it with special materials ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバスの尻尾
+> CONTEXT: Items/117/name/
+Succubus tail#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバスの尻尾。
+> CONTEXT: Items/117/description/
+Succubus' tail.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+悪魔の翼
+> CONTEXT: Items/118/name/
+Devil's wing#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビルの翼の一部。
+> CONTEXT: Items/118/description/
+lesser A part of the wing of devil.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+悪魔の水晶
+> CONTEXT: Items/119/name/
+> CONTEXT: Armors/132/name/
+Devil's Crystal#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビルが魔法の触媒として
+使用していた水晶。
+> CONTEXT: Items/119/description/
+lesser devil as a magical catalyst. The crystal that I was
+using.#MTLed
+> END STRING
+
+> BEGIN STRING
+妖精の赤髪
+> CONTEXT: Items/120/name/
+Fairy red hair#MTLed
+> END STRING
+
+> BEGIN STRING
+ブラッドフェアリーの髪。
+強い魔力を秘めている。
+> CONTEXT: Items/120/description/
+Blood fairy hair. It has a strong magical power.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+妖精の服
+> CONTEXT: Items/121/name/
+Fairy clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+ブラッドフェアリーの服。
+> CONTEXT: Items/121/description/
+Clothes of blood fairy.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+火炎石
+> CONTEXT: Items/122/name/
+Flame stones#MTLed
+> END STRING
+
+> BEGIN STRING
+火の魔法を発生させる
+使い捨てのマジックアイテム。
+> CONTEXT: Items/122/description/
+Generate fire magic. Disposable magic item.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+氷雪石
+> CONTEXT: Items/123/name/
+Snow and stone#MTLed
+> END STRING
+
+> BEGIN STRING
+氷の魔法を発生させる
+使い捨てのマジックアイテム。
+> CONTEXT: Items/123/description/
+Generate ice magic. Disposable magic item.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+雷撃石
+> CONTEXT: Items/124/name/
+Lightning stone#MTLed
+> END STRING
+
+> BEGIN STRING
+雷の魔法を発生させる
+使い捨てのマジックアイテム。
+> CONTEXT: Items/124/description/
+Generate thunder magic. Disposable magic item.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+水流石
+> CONTEXT: Items/125/name/
+Water stone#MTLed
+> END STRING
+
+> BEGIN STRING
+水の魔法を発生させる
+使い捨てのマジックアイテム。
+> CONTEXT: Items/125/description/
+Generate water magic. Disposable magic item.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+技力薬
+> CONTEXT: Items/126/name/
+Skills medicine#MTLed
+> END STRING
+
+> BEGIN STRING
+技力を５０上昇させる薬。
+王都中央区専売商品。
+> CONTEXT: Items/126/description/
+Medicine to raise the skill by 50. Monopoly product of the
+King's capital.#MTLed
+> END STRING
+
+> BEGIN STRING
+大技力薬
+> CONTEXT: Items/127/name/
+Big skill medicine#MTLed
+> END STRING
+
+> BEGIN STRING
+技力を１００上昇させる薬。
+王都中央区専売商品。
+> CONTEXT: Items/127/description/
+Medicine that increases skills by 100. Monopoly product of
+the King's capital.#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールの黒タイツ
+> CONTEXT: Items/128/name/
+Bunny girl black tights#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールの黒タイツ。
+やや甘みのある体臭がほんのり残っている。
+> CONTEXT: Items/128/description/
+Black tights of bunny girl. There is a slightly sweet body
+odor remaining.#MTLed
+> END STRING
+
+> BEGIN STRING
+デスストーン
+> CONTEXT: Items/129/name/
+Death Stone#MTLed
+> END STRING
+
+> BEGIN STRING
+デスマスターの体のコア。
+加工に使えるかも？
+> CONTEXT: Items/129/description/
+Death master's body core. Can it be used for processing?
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+知識
+> CONTEXT: Items/130/name/
+Knowledge#MTLed
+> END STRING
+
+> BEGIN STRING
+雑多な知識。
+> CONTEXT: Items/130/description/
+Miscellaneous knowledge.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+サフィスジュエル
+> CONTEXT: Items/131/name/
+Suffer Jewel#MTLed
+> END STRING
+
+> BEGIN STRING
+主神サフィスティラの加護を受けた宝玉。
+装備の加工に利用できる。
+> CONTEXT: Items/131/description/
+Jewels who received the protection of the main god
+Safistira. It can be used for machining equipment.#MTLed
+> END STRING
+
+> BEGIN STRING
+イエロースライムの酸の力を利用した手投矢。消耗品。
+相手に小ダメージを与え、防御力を低下させる。
+> CONTEXT: Items/133/description/
+\\}Yellow slime using the power of the acid. the expendables.
+Inflicts minor damage to the opponent and reduces defense power.#MTLed
+> END STRING
+
+> BEGIN STRING
+マタンゴの傘
+> CONTEXT: Items/134/name/
+Matango's umbrella#MTLed
+> END STRING
+
+> BEGIN STRING
+マタンゴの傘の部分。
+> CONTEXT: Items/134/description/
+The part of the umbrella of matango.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+オニベニタケ
+> CONTEXT: Items/135/name/
+Onibenitake#MTLed
+> END STRING
+
+> BEGIN STRING
+マタンゴが魔物化する前の、キノコの姿。
+毒キノコ。
+> CONTEXT: Items/135/description/
+Form of mushrooms before matango turns into monster. Poison
+mushrooms.#MTLed
+> END STRING
+
+> BEGIN STRING
+やすらぎの香
+> CONTEXT: Items/136/name/
+Relaxing incense#MTLed
+> END STRING
+
+> BEGIN STRING
+セイレーンが落とした、心が安らかになる香。
+鎮静剤と同じ効果に加え、体力も少し回復する。
+> CONTEXT: Items/136/description/
+Sirene dropped, incense that makes the heart feel peaceful.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+海ヘビの抜け殻
+> CONTEXT: Items/137/name/
+Sea snake's shell#MTLed
+> END STRING
+
+> BEGIN STRING
+海ヘビの抜け殻。
+> CONTEXT: Items/137/description/
+The shrub of the sea snake.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+海ヘビエキス
+> CONTEXT: Items/138/name/
+Sea Snake Extract#MTLed
+> END STRING
+
+> BEGIN STRING
+海ヘビのエキス。使用すると短時間だが攻撃力が上がる。
+> CONTEXT: Items/138/description/
+Extract of sea snake. It takes a short time to use, but the
+attack power increases.#MTLed
+> END STRING
+
+> BEGIN STRING
+クラゲの触手
+> CONTEXT: Items/139/name/
+Jellyfish tentacles#MTLed
+> END STRING
+
+> BEGIN STRING
+クラゲの触手。
+> CONTEXT: Items/139/description/
+Jellyfish tentacles.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+一度行った場所に移動するためのアイテム。
+使ってもなくならない。
+> CONTEXT: Items/140/description/
+Items to move to the place I went once. I can not use it.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+自動ページ送りモード設定
+> CONTEXT: Items/148/name/
+Auto Dialogue Settings#MTLed
+> END STRING
+
+> BEGIN STRING
+自動ページ送りモードの
+1ページあたりの表示秒数について設定するアイテムです。
+> CONTEXT: Items/148/description/
+Automatic page feed mode. It is an item to set about
+display seconds per page.#MTLed
+> END STRING
+
+> BEGIN STRING
+開かずの扉の鍵
+> CONTEXT: Items/149/name/
+Key of the door without opening#MTLed
+> END STRING
+
+> BEGIN STRING
+レストンの村の、とある扉を開ける鍵。
+> CONTEXT: Items/149/description/
+The key to opening a certain door in the village of Reston.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+アイテム図鑑
+> CONTEXT: Items/150/name/
+Item picture book#MTLed
+> END STRING
+
+> BEGIN STRING
+アイテムの図鑑。
+> CONTEXT: Items/150/description/
+An illustration of items.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ラミアの蛇皮
+> CONTEXT: Items/89/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔女の髪
+> CONTEXT: Items/141/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔女の髪の毛。魔力を帯びて輝いている。
+> CONTEXT: Items/141/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白いニーソックス
+> CONTEXT: Items/142/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔女が履いていた白のニーソックス。
+> CONTEXT: Items/142/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黒いニーソックス
+> CONTEXT: Items/143/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔女が履いていた黒のニーソックス。
+> CONTEXT: Items/143/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黒いリボン
+> CONTEXT: Items/144/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチの髪を結んでいた黒いリボン。
+> CONTEXT: Items/144/description/ < UNTRANSLATED
+
+> END STRING

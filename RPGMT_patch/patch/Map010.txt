@@ -1,0 +1,94 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「あら、\\N[12]じゃないか。
+一泊 10\\G だけど、泊まっていくかい？」\\$
+> CONTEXT: Map010/events/1/pages/0/0/Dialogue
+「Oh, \\N[12] is not it. Per night 10 \\G But, are you
+going to stay?」\\$#MTLed
+> END STRING
+
+> BEGIN STRING
+「お金が足らないねぇ」
+> CONTEXT: Map010/events/1/pages/0/14/Dialogue
+「I do not have enough money.」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「おや、\\N[12]じゃないか。
+泊まっていくのかい？
+10Gだけど」
+> CONTEXT: Map010/events/2/pages/0/0/Dialogue
+Aunt. 「Gee \\N[12] is not it. Are you going to stay?
+Although it is 10 G」#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「お金が足りないねぇ。
+自分の家で休んだほうがいいんじゃないかい？
+> CONTEXT: Map010/events/2/pages/0/17/Dialogue
+Aunt. 「I do not have enough money. Is not it better to
+take a rest at your own home?#MTLed
+> END STRING
+
+> BEGIN STRING
+おばさん
+「そうかい。まあ\\N[12]には自分の家もあるものねぇ。
+外に行くのなら気をつけるんだよ」
+> CONTEXT: Map010/events/2/pages/0/25/Dialogue
+Aunt. 「That's right. Oh dear \\N[12] There is also my
+house. Be careful if you go outside」#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人
+「私は王都からやってきました。
+いやぁ、命からがら洞窟を抜けてきましたよ。
+盗賊団は女性ばかりとはいえ、私は戦う力がないもので……」
+> CONTEXT: Map010/events/3/pages/0/0/Dialogue
+traveller. 「I came from the kingdom. Well, since my life I
+came through the cave. Although the bandits are only women,
+I do not have the power to fight ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人
+「王都はそろそろ武道大会が迫っているので、
+ほとんどお祭りのようになっていますよ。
+私はこの村のような落ち着いた空気の方が好きですがね」
+> CONTEXT: Map010/events/3/pages/1/0/Dialogue
+traveller. 「Since the martial arts tournament is about to
+approach the Kingdom soon, It is almost like a festival.
+I like calming air like this village」#MTLed
+> END STRING
+
+> BEGIN STRING
+旅人
+「しばらく、この村に滞在することにしました。
+大会が終わるまで、ここでのんびり過ごしますよ」
+> CONTEXT: Map010/events/3/pages/2/0/Dialogue
+traveller. 「For a while, I decided to stay in this village.
+I will relax here until tournament is over」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「おう\\N[12]、元気か？
+ウチに泊まっていくなら、精のつくもん食わせてやるぜ！」
+> CONTEXT: Map010/events/4/pages/0/0/Dialogue
+old man. 「Ou \\N[12] How are you? If you stay at my
+place, I will give you a refreshing meal!」#MTLed
+> END STRING
+
+> BEGIN STRING
+『自警団員募集中！
+魔物退治、道案内、火消し、お祭りの運営など
+村の役に立つ仕事を皆で楽しくやりましょう！
+詳しくは自警団団長・アルバートまで』
+> CONTEXT: Map010/events/6/pages/0/0/Dialogue
+'Militia member wanted! monster extermination, directions,
+fire fighting, management of festivals, etc.
+Let 's have fun with the village' s useful work!
+For details, vigilante group leader · Albert "#MTLed
+> END STRING

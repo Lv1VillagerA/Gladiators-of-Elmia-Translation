@@ -1,0 +1,246 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+モルデリア洞窟
+> CONTEXT: Map004/display_name/
+Morderia cave#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、こんな岩があったんじゃ通れないな。
+遠回りするしかないか」
+> CONTEXT: Map004/events/1/pages/0/0/Dialogue
+\\N[12]. 「Uh, I can not pass through this rock.
+I have no choice but to take a detour」#MTLed
+> END STRING
+
+> BEGIN STRING
+『ベル盗賊団アジト入口』
+と書いてある。
+> CONTEXT: Map004/events/6/pages/0/0/Dialogue
+"Bell Rogue team hid entrance". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「堂々とアジトって書いてあるとは……
+大胆だなあ。
+> CONTEXT: Map004/events/6/pages/0/3/Dialogue
+\\N[12]. 「What is written dignifiedly as hid......
+It is bold.#MTLed
+> END STRING
+
+> BEGIN STRING
+『モルデリア洞窟南』
+と書いてある。
+> CONTEXT: Map004/events/7/pages/0/0/Dialogue
+"Morderia Cave South". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ここが王都への洞窟か……
+盗賊団の根城になっちまってるって話だったけど、
+やっぱり退治しないと通り抜けるのは難しいんだろうな」
+> CONTEXT: Map004/events/14/pages/0/1/Dialogue
+\\N[12]. 「Is this a cave to the capital......
+It was a story about becoming the root stronghold of the
+bandits, After all it is difficult to get through unless
+you exterminate」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どれだけ巣食っているのかは分からないが、
+とにかくリーダーを退治すれば……」
+> CONTEXT: Map004/events/14/pages/0/6/Dialogue
+\\N[12]. 「I do not know how much I hive,
+Anyway if you get rid of the leader......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ん？　誰か来る……？」
+> CONTEXT: Map004/events/14/pages/0/10/Dialogue
+\\N[12]. 「Hmm? Someone coming.......?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「あんた旅人？
+悪いけど、この洞窟はウチらベルベット盗賊団が
+アジトとして使わせてもらってるんだよねー」
+> CONTEXT: Map004/events/14/pages/0/37/Dialogue
+girl. 「Are you a traveler? It's bad, but this cave is a
+velvet thief team. I'm being asked to use it as hid」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「王都へ行きたいんなら、
+そうだねー、5000Gばかり払ってもらおうかなー
+どうせ払えないだろうけどね、あはははっ！」
+> CONTEXT: Map004/events/14/pages/0/42/Dialogue
+girl. 「If you want to go to Kingdom capital,
+That's right, I'd rather pay 5000 G. I will not be able to
+pay anything, but Hahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お前たちが、ここに巣食っているという盗賊団か」
+> CONTEXT: Map004/events/14/pages/0/48/Dialogue
+\\N[12]. 「It is a bandit group that you guys are eating
+here」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「そう。人呼んで、ベル盗賊団！
+女の子だけで構成された可憐な盗賊集団だよ♪」
+> CONTEXT: Map004/events/14/pages/0/51/Dialogue
+girl. 「so. Calling people, Bell bandits!
+It's a pretty thief group composed of only girls♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ま、さっき言ったような大金は持っていないだろうけど、
+それなら有り金全部でもいいよ？
+ほらほら、さっさと出しなよ」
+> CONTEXT: Map004/events/14/pages/0/56/Dialogue
+girl. 「Well, I do not think I have any big money like I
+said earlier, If so, can I have all the money?
+oh no, please do it quickly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「悪いが、金を渡す気はない。
+俺はお前たちを退治しに来たんだ」
+> CONTEXT: Map004/events/14/pages/0/61/Dialogue
+\\N[12]. 「It's bad, but I do not feel like giving money.
+I came to get rid of you」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「はあ？　マジで言ってんの？
+あんたみたいなヒョロっちい男が
+あたしたちに挑むっての？」
+> CONTEXT: Map004/events/14/pages/0/67/Dialogue
+girl. 「? You said seriously? A guy like you guys
+Are you trying to challenge us?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺はどうしても王都に行かなきゃならないんでな。
+悪いが、お前たちを倒して押し通らせてもらう！」
+> CONTEXT: Map004/events/14/pages/0/72/Dialogue
+\\N[12]. 「I must go to the kingdom by all means.
+It's bad, but you have to defeat you and push you through!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「はん、身の程知らずもいいかげんにしなよ。
+あんたみたいな青二才が、あたしらにかなうわけないじゃん」
+> CONTEXT: Map004/events/14/pages/0/76/Dialogue
+girl. 「Do not call yourself too much. You can not match us
+like a guy who is like you」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「この場で叩きのめして、身ぐるみ剥いでやる。
+覚悟しなっ！」
+> CONTEXT: Map004/events/14/pages/0/80/Dialogue
+girl. 「I knock it down on this occasion and do not wear it.
+Get ready!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ううっ……な、なかなかやるじゃん……」
+> CONTEXT: Map004/events/14/pages/0/92/Dialogue
+Bandit Girl. 「uugh...... Naha, you do pretty well ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「さあ、まだやるか？
+これ以上痛い目にあいたくなけりゃ、
+お前らのボスのところに案内し……」
+> CONTEXT: Map004/events/14/pages/0/95/Dialogue
+\\N[12]. 「Well, are you still done? If I do not want to
+hurt any more painful eyes, I will show you to your boss
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「ちっ、ちっくしょーっ！
+お頭ーっ！」
+> CONTEXT: Map004/events/14/pages/0/100/Dialogue
+Bandit Girl. 「Tiny, it is! Oh my goodness!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、逃げた」
+> CONTEXT: Map004/events/14/pages/0/119/Dialogue
+\\N[12]. 「Oh, I ran away」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「仕方ない……
+結局、自力でボスの居場所を探すしかないか。
+それとも、盗賊どもの目を盗んで北に抜ける道を探そうか？」
+> CONTEXT: Map004/events/14/pages/0/122/Dialogue
+\\N[12]. 「it can not be helped……. After all, do you
+have to find the boss's whereabouts on your own?
+Or should we steal thieves and look for a way to go north?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんにせよ、洞窟内を探索してみるか。
+女盗賊がうろついているだろうし、
+気を引き締めていこう」
+> CONTEXT: Map004/events/14/pages/0/127/Dialogue
+\\N[12]. 「Whatever you do, try exploring the inside of
+the cave. Woman thieves will be wandering,
+Let's keep tightening」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あはっ、その程度？
+イキがってた割には、全然たいしたことないじゃん。
+女一人相手にやられちゃうなんて、なっさけな～い♪」
+> CONTEXT: Map004/events/14/pages/0/150/Dialogue
+Bandit Girl. 「Hahah, that extent? It is quite totally true
+that I was caught. It is impossible for a woman to get hurt
+by a woman♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううぅっ……そ、そんな……」
+> CONTEXT: Map004/events/14/pages/0/155/Dialogue
+\\N[12]. 「Uuu...... such ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+100\\G 手に入れた！
+> CONTEXT: Map004/events/16/pages/0/9/Dialogue
+100 \\G I got!#MTLed
+> END STRING
+
+> BEGIN STRING
+キュイラスを手に入れた！
+> CONTEXT: Map004/events/17/pages/0/9/Dialogue
+I got cuirasse!#MTLed
+> END STRING

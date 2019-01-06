@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+鱗の指輪を手に入れた！
+> CONTEXT: Map106/events/10/pages/0/9/Dialogue
+I got a scaled ring!#MTLed
+> END STRING

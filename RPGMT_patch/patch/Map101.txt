@@ -1,0 +1,70 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+おじさん
+「なんだい、あんたは。
+地下水道は管理局の職員しか入っちゃいけないよ」
+> CONTEXT: Map101/events/1/pages/0/0/Dialogue
+old man. 「How old are you? Only the staff of the
+management office should enter the underground water
+service」#MTLed
+> END STRING
+
+> BEGIN STRING
+ここより東側は当面の間、通行止めとなります。
+――地下水道管理局
+> CONTEXT: Map101/events/2/pages/0/0/Dialogue
+From here east side will be closed for the time being.
+- Groundwater management office#MTLed
+> END STRING
+
+> BEGIN STRING
+スイッチはロックされていて動かない。
+> CONTEXT: Map101/events/5/pages/0/0/Dialogue
+> CONTEXT: Map101/events/6/pages/0/0/Dialogue
+> CONTEXT: Map101/events/7/pages/0/0/Dialogue
+> CONTEXT: Map101/events/8/pages/0/0/Dialogue
+> CONTEXT: Map101/events/9/pages/0/0/Dialogue
+The switch is locked and does not move.#MTLed
+> END STRING
+
+> BEGIN STRING
+どこかで物音がした。
+> CONTEXT: Map101/events/5/pages/1/4/Dialogue
+> CONTEXT: Map101/events/6/pages/1/4/Dialogue
+> CONTEXT: Map101/events/7/pages/1/4/Dialogue
+There was a noise somewhere.#MTLed
+> END STRING
+
+> BEGIN STRING
+ゲートが撤去された。
+> CONTEXT: Map101/events/8/pages/1/5/Dialogue
+The gate was removed.#MTLed
+> END STRING
+
+> BEGIN STRING
+錆びついていて動かない。
+> CONTEXT: Map101/events/9/pages/1/0/Dialogue
+It rusts and does not move.#MTLed
+> END STRING
+
+> BEGIN STRING
+赤はゲートの開閉、青は橋かけのスイッチです。
+なお、これらのスイッチは安全保持のためロックしてあり、
+『管理員の証』を所持していないと動きません。
+――地下水道管理局
+> CONTEXT: Map101/events/10/pages/0/0/Dialogue
+Red is gate opening and closing, and blue is bridging
+switch. Note that these switches are Rocked for safety
+preservation, It will not move unless you possess "proof of
+manager". - Groundwater management office#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「このベッドは使えそうだ。
+ここで休憩していこうか？」
+> CONTEXT: Map101/events/12/pages/0/0/Dialogue
+> CONTEXT: Map101/events/13/pages/0/0/Dialogue
+\\N[12]. 「I think this bed can be used. Let's rest here.
+」#MTLed
+> END STRING

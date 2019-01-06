@@ -1,0 +1,4499 @@
+﻿> CUSTOM COMMENT TL
+> BEGIN STRING
+海岸洞窟に出す
+> CONTEXT: Enemies/14/Note
+> CONTEXT: Enemies/20/Note
+> CONTEXT: Enemies/49/Note
+> CONTEXT: Enemies/208/Note
+> CONTEXT: Enemies/211/Note
+> CONTEXT: Enemies/214/Note
+海岸洞窟に出す#NoTL
+> END STRING
+
+> BEGIN STRING
+荒れ地で出す
+> CONTEXT: Enemies/17/Note
+> CONTEXT: Enemies/30/Note
+> CONTEXT: Enemies/226/Note
+> CONTEXT: Enemies/229/Note
+荒れ地で出す#NoTL
+> END STRING
+
+> BEGIN STRING
+森で出す
+> CONTEXT: Enemies/23/Note
+> CONTEXT: Enemies/158/Note
+> CONTEXT: Enemies/217/Note
+森で出す#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+60>
+プレイヤーのHP減少時
+> CONTEXT: Enemies/68/Note
+<初期Y座標調整:+60>
+プレイヤーのHP減少時#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+125>
+> CONTEXT: Enemies/71/Note
+> CONTEXT: Enemies/274/Note
+<初期Y座標調整:+125>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+145>
+<ani_id:13>
+サブリナ
+> CONTEXT: Enemies/74/Note
+<初期Y座標調整:+145>
+<ani_id:13>
+サブリナ#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+115>
+<ani_id:13>
+チロル
+> CONTEXT: Enemies/77/Note
+> CONTEXT: Enemies/424/Note
+<初期Y座標調整:+115>
+<ani_id:13>
+チロル#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:126>
+<初期Y座標調整:+135>
+シャイア
+> CONTEXT: Enemies/80/Note
+> CONTEXT: Enemies/433/Note
+<ani_id:126>
+<初期Y座標調整:+135>
+シャイア#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+130>
+> CONTEXT: Enemies/83/Note
+> CONTEXT: Enemies/106/Note
+> CONTEXT: Enemies/109/Note
+> CONTEXT: Enemies/112/Note
+> CONTEXT: Enemies/132/Note
+> CONTEXT: Enemies/150/Note
+> CONTEXT: Enemies/528/Note
+<初期Y座標調整:+130>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+120>
+OP用
+> CONTEXT: Enemies/86/Note
+<初期Y座標調整:+120>
+OP用#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+120>
+イベント戦闘用
+> CONTEXT: Enemies/89/Note
+<初期Y座標調整:+120>
+イベント戦闘用#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+145>
+<ani_id:13>
+三人用
+> CONTEXT: Enemies/92/Note
+<初期Y座標調整:+145>
+<ani_id:13>
+三人用#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+120>
+> CONTEXT: Enemies/95/Note
+> CONTEXT: Enemies/125/Note
+> CONTEXT: Enemies/138/Note
+> CONTEXT: Enemies/293/Note
+> CONTEXT: Enemies/296/Note
+> CONTEXT: Enemies/344/Note
+> CONTEXT: Enemies/347/Note
+> CONTEXT: Enemies/407/Note
+> CONTEXT: Enemies/410/Note
+> CONTEXT: Enemies/525/Note
+> CONTEXT: Enemies/540/Note
+<初期Y座標調整:+120>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+115>
+武道大会時
+> CONTEXT: Enemies/98/Note
+<初期Y座標調整:+115>
+武道大会時#NoTL
+> END STRING
+
+> BEGIN STRING
+路地裏で襲われて負けるとカツアゲされる
+<ani_id:13>
+<初期Y座標調整:+140>
+> CONTEXT: Enemies/101/Note
+路地裏で襲われて負けるとカツアゲされる
+<ani_id:13>
+<初期Y座標調整:+140>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+115>
+<ani_id:13>
+三人用
+> CONTEXT: Enemies/115/Note
+<初期Y座標調整:+115>
+<ani_id:13>
+三人用#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:126>
+<初期Y座標調整:+135>
+三人用
+> CONTEXT: Enemies/118/Note
+<ani_id:126>
+<初期Y座標調整:+135>
+三人用#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+130>
+<ani_id:7>
+> CONTEXT: Enemies/135/Note
+> CONTEXT: Enemies/522/Note
+<初期Y座標調整:+130>
+<ani_id:7>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+100>
+> CONTEXT: Enemies/147/Note
+> CONTEXT: Enemies/280/Note
+<初期Y座標調整:+100>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+115>
+> CONTEXT: Enemies/153/Note
+<初期Y座標調整:+115>#NoTL
+> END STRING
+
+> BEGIN STRING
+海岸で出す
+> CONTEXT: Enemies/161/Note
+海岸で出す#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+80>
+<ani_id:13>
+パンチラ姿
+> CONTEXT: Enemies/168/Note
+<初期Y座標調整:+80>
+<ani_id:13>
+パンチラ姿#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+120>
+<ani_id:13>
+サブリナ
+> CONTEXT: Enemies/171/Note
+<初期Y座標調整:+120>
+<ani_id:13>
+サブリナ#NoTL
+> END STRING
+
+> BEGIN STRING
+イベント戦闘用
+> CONTEXT: Enemies/180/Note
+イベント戦闘用#NoTL
+> END STRING
+
+> BEGIN STRING
+地下水道
+<初期Y座標調整:+120>
+> CONTEXT: Enemies/203/Note
+地下水道
+<初期Y座標調整:+120>#NoTL
+> END STRING
+
+> BEGIN STRING
+海岸洞窟ボス
+<初期Y座標調整:+50>
+> CONTEXT: Enemies/220/Note
+海岸洞窟ボス
+<初期Y座標調整:+50>#NoTL
+> END STRING
+
+> BEGIN STRING
+雪原
+> CONTEXT: Enemies/223/Note
+雪原#NoTL
+> END STRING
+
+> BEGIN STRING
+地下
+> CONTEXT: Enemies/232/Note
+地下#NoTL
+> END STRING
+
+> BEGIN STRING
+王都
+<初期Y座標調整:+125>
+> CONTEXT: Enemies/235/Note
+王都
+<初期Y座標調整:+125>#NoTL
+> END STRING
+
+> BEGIN STRING
+大会　恥ずかし
+<初期Y座標調整:+125>
+> CONTEXT: Enemies/238/Note
+大会　恥ずかし
+<初期Y座標調整:+125>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+115>
+
+> CONTEXT: Enemies/241/Note
+> CONTEXT: Enemies/314/Note
+> CONTEXT: Enemies/317/Note
+> CONTEXT: Enemies/320/Note
+> CONTEXT: Enemies/323/Note
+<初期Y座標調整:+115>
+#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+135>
+通常
+魅了中はホールド攻撃を確定で仕掛けてくるようにする。
+元はHP2100
+> CONTEXT: Enemies/244/Note
+<初期Y座標調整:+135>
+通常
+魅了中はホールド攻撃を確定で仕掛けてくるようにする。
+元はHP2100#NoTL
+> END STRING
+
+> BEGIN STRING
+セックスした後Ver
+<初期Y座標調整:+135>
+> CONTEXT: Enemies/247/Note
+セックスした後Ver
+<初期Y座標調整:+135>#NoTL
+> END STRING
+
+> BEGIN STRING
+手合わせイベント
+> CONTEXT: Enemies/250/Note
+手合わせイベント#NoTL
+> END STRING
+
+> BEGIN STRING
+大会
+<初期Y座標調整:+125>
+> CONTEXT: Enemies/253/Note
+> CONTEXT: Enemies/256/Note
+> CONTEXT: Enemies/259/Note
+大会
+<初期Y座標調整:+125>#NoTL
+> END STRING
+
+> BEGIN STRING
+大会
+<初期Y座標調整:+120>
+> CONTEXT: Enemies/262/Note
+大会
+<初期Y座標調整:+120>#NoTL
+> END STRING
+
+> BEGIN STRING
+大会：聖剣
+<初期Y座標調整:+120>
+> CONTEXT: Enemies/265/Note
+大会：聖剣
+<初期Y座標調整:+120>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+135>
+大会
+> CONTEXT: Enemies/268/Note
+<初期Y座標調整:+135>
+大会#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+145>
+<ani_id:13>
+テスト
+> CONTEXT: Enemies/271/Note
+<初期Y座標調整:+145>
+<ani_id:13>
+テスト#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+135>
+街・初対面イベント
+> CONTEXT: Enemies/277/Note
+<初期Y座標調整:+135>
+街・初対面イベント#NoTL
+> END STRING
+
+> BEGIN STRING
+ボス
+> CONTEXT: Enemies/287/Note
+ボス#NoTL
+> END STRING
+
+> BEGIN STRING
+高原
+<初期Y座標調整:+120>
+> CONTEXT: Enemies/290/Note
+高原
+<初期Y座標調整:+120>#NoTL
+> END STRING
+
+> BEGIN STRING
+剣
+<初期Y座標調整:+130>
+> CONTEXT: Enemies/299/Note
+剣
+<初期Y座標調整:+130>#NoTL
+> END STRING
+
+> BEGIN STRING
+槍
+<初期Y座標調整:+130>
+> CONTEXT: Enemies/302/Note
+槍
+<初期Y座標調整:+130>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+135>
+大会・脱衣
+> CONTEXT: Enemies/305/Note
+<初期Y座標調整:+135>
+大会・脱衣#NoTL
+> END STRING
+
+> BEGIN STRING
+パンチラ
+<初期Y座標調整:+130>
+> CONTEXT: Enemies/308/Note
+> CONTEXT: Enemies/362/Note
+パンチラ
+<初期Y座標調整:+130>#NoTL
+> END STRING
+
+> BEGIN STRING
+2回戦通常時
+<初期Y座標調整:+115>
+> CONTEXT: Enemies/311/Note
+2回戦通常時
+<初期Y座標調整:+115>#NoTL
+> END STRING
+
+> BEGIN STRING
+2回戦誘惑時
+<初期Y座標調整:+115>
+> CONTEXT: Enemies/326/Note
+2回戦誘惑時
+<初期Y座標調整:+115>#NoTL
+> END STRING
+
+> BEGIN STRING
+武道大会
+<初期Y座標調整:+130>
+> CONTEXT: Enemies/329/Note
+> CONTEXT: Enemies/332/Note
+武道大会
+<初期Y座標調整:+130>#NoTL
+> END STRING
+
+> BEGIN STRING
+地下水道
+<初期Y座標調整:+115>
+> CONTEXT: Enemies/335/Note
+地下水道
+<初期Y座標調整:+115>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+80>
+> CONTEXT: Enemies/338/Note
+> CONTEXT: Enemies/537/Note
+<初期Y座標調整:+80>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+110>
+> CONTEXT: Enemies/341/Note
+> CONTEXT: Enemies/517/Note
+<初期Y座標調整:+110>#NoTL
+> END STRING
+
+> BEGIN STRING
+手合わせ
+<初期Y座標調整:+100>
+> CONTEXT: Enemies/350/Note
+手合わせ
+<初期Y座標調整:+100>#NoTL
+> END STRING
+
+> BEGIN STRING
+2回戦
+<初期Y座標調整:+100>
+> CONTEXT: Enemies/353/Note
+> CONTEXT: Enemies/508/Note
+> CONTEXT: Enemies/557/Note
+2回戦
+<初期Y座標調整:+100>#NoTL
+> END STRING
+
+> BEGIN STRING
+地下水道
+<初期Y座標調整:+100>
+> CONTEXT: Enemies/356/Note
+> CONTEXT: Enemies/359/Note
+地下水道
+<初期Y座標調整:+100>#NoTL
+> END STRING
+
+> BEGIN STRING
+ディアーナ死んだ
+<初期Y座標調整:+100>
+> CONTEXT: Enemies/365/Note
+ディアーナ死んだ
+<初期Y座標調整:+100>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+145>
+<ani_id:13>
+三人用　武道大会
+> CONTEXT: Enemies/368/Note
+<初期Y座標調整:+145>
+<ani_id:13>
+三人用　武道大会#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+115>
+<ani_id:13>
+三人用　武道大会
+> CONTEXT: Enemies/371/Note
+<初期Y座標調整:+115>
+<ani_id:13>
+三人用　武道大会#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:126>
+<初期Y座標調整:+135>
+三人用　武道大会
+> CONTEXT: Enemies/374/Note
+<ani_id:126>
+<初期Y座標調整:+135>
+三人用　武道大会#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+130>
+最終章
+> CONTEXT: Enemies/377/Note
+> CONTEXT: Enemies/380/Note
+> CONTEXT: Enemies/383/Note
+<初期Y座標調整:+130>
+最終章#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+130>
+最終章・変身
+> CONTEXT: Enemies/386/Note
+<初期Y座標調整:+130>
+最終章・変身#NoTL
+> END STRING
+
+> BEGIN STRING
+幻影
+<初期Y座標調整:+100>
+> CONTEXT: Enemies/389/Note
+幻影
+<初期Y座標調整:+100>#NoTL
+> END STRING
+
+> BEGIN STRING
+幻影
+<初期Y座標調整:+115>
+> CONTEXT: Enemies/392/Note
+幻影
+<初期Y座標調整:+115>#NoTL
+> END STRING
+
+> BEGIN STRING
+幻影
+<初期Y座標調整:+125>
+> CONTEXT: Enemies/395/Note
+幻影
+<初期Y座標調整:+125>#NoTL
+> END STRING
+
+> BEGIN STRING
+幻影
+<初期Y座標調整:+135>
+> CONTEXT: Enemies/398/Note
+幻影
+<初期Y座標調整:+135>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+135>
+幻影・戦闘用
+> CONTEXT: Enemies/401/Note
+<初期Y座標調整:+135>
+幻影・戦闘用#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+100>
+紳士のネックレスを装備していた場合
+> CONTEXT: Enemies/404/Note
+<初期Y座標調整:+100>
+紳士のネックレスを装備していた場合#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+125>
+一時変身Ver
+> CONTEXT: Enemies/413/Note
+<初期Y座標調整:+125>
+一時変身Ver#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+145>
+<ani_id:13>
+パンチラキック
+> CONTEXT: Enemies/418/Note
+<初期Y座標調整:+145>
+<ani_id:13>
+パンチラキック#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+145>
+<ani_id:13>
+金的
+> CONTEXT: Enemies/421/Note
+<初期Y座標調整:+145>
+<ani_id:13>
+金的#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+80>
+<ani_id:13>
+ヒップアタック
+> CONTEXT: Enemies/427/Note
+<初期Y座標調整:+80>
+<ani_id:13>
+ヒップアタック#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+80>
+<ani_id:13>
+金的ヒップアタック
+> CONTEXT: Enemies/430/Note
+<初期Y座標調整:+80>
+<ani_id:13>
+金的ヒップアタック#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:126>
+<初期Y座標調整:+135>
+投げキッス
+> CONTEXT: Enemies/436/Note
+<ani_id:126>
+<初期Y座標調整:+135>
+投げキッス#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:126>
+<初期Y座標調整:+135>
+おっぱい
+> CONTEXT: Enemies/439/Note
+<ani_id:126>
+<初期Y座標調整:+135>
+おっぱい#NoTL
+> END STRING
+
+> BEGIN STRING
+地下水道
+<初期Y座標調整:+115>
+パンチラのみ
+> CONTEXT: Enemies/442/Note
+地下水道
+<初期Y座標調整:+115>
+パンチラのみ#NoTL
+> END STRING
+
+> BEGIN STRING
+地下水道
+<初期Y座標調整:+100>
+回想用
+> CONTEXT: Enemies/445/Note
+> CONTEXT: Enemies/448/Note
+地下水道
+<初期Y座標調整:+100>
+回想用#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+130>
+押し付け
+> CONTEXT: Enemies/451/Note
+<初期Y座標調整:+130>
+押し付け#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+130>
+おっぱいアタック
+> CONTEXT: Enemies/454/Note
+<初期Y座標調整:+130>
+おっぱいアタック#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+60>
+プレイヤーのHP減少時
+押し付け
+> CONTEXT: Enemies/457/Note
+<初期Y座標調整:+60>
+プレイヤーのHP減少時
+押し付け#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+60>
+プレイヤーのHP減少時
+おっぱいアタック
+> CONTEXT: Enemies/460/Note
+<初期Y座標調整:+60>
+プレイヤーのHP減少時
+おっぱいアタック#NoTL
+> END STRING
+
+> BEGIN STRING
+武道大会
+<初期Y座標調整:+130>
+おっぱいアタック
+> CONTEXT: Enemies/463/Note
+武道大会
+<初期Y座標調整:+130>
+おっぱいアタック#NoTL
+> END STRING
+
+> BEGIN STRING
+武道大会
+<初期Y座標調整:+130>
+お尻
+> CONTEXT: Enemies/466/Note
+武道大会
+<初期Y座標調整:+130>
+お尻#NoTL
+> END STRING
+
+> BEGIN STRING
+武道大会
+<初期Y座標調整:+130>
+おっぱいアタック笑み
+> CONTEXT: Enemies/469/Note
+武道大会
+<初期Y座標調整:+130>
+おっぱいアタック笑み#NoTL
+> END STRING
+
+> BEGIN STRING
+武道大会
+<初期Y座標調整:+130>
+お尻笑み
+> CONTEXT: Enemies/472/Note
+武道大会
+<初期Y座標調整:+130>
+お尻笑み#NoTL
+> END STRING
+
+> BEGIN STRING
+パンチラ
+<初期Y座標調整:+130>
+回想用
+> CONTEXT: Enemies/475/Note
+> CONTEXT: Enemies/478/Note
+パンチラ
+<初期Y座標調整:+130>
+回想用#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+100>
+チャームのみ
+> CONTEXT: Enemies/481/Note
+<初期Y座標調整:+100>
+チャームのみ#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+100>
+キスのみ
+> CONTEXT: Enemies/484/Note
+<初期Y座標調整:+100>
+キスのみ#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+100>
+キスホールドのみ
+> CONTEXT: Enemies/487/Note
+<初期Y座標調整:+100>
+キスホールドのみ#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+135>
+ヒップアタック
+魅了中はホールド攻撃を確定で仕掛けてくるようにする。
+
+> CONTEXT: Enemies/490/Note
+<初期Y座標調整:+135>
+ヒップアタック
+魅了中はホールド攻撃を確定で仕掛けてくるようにする。
+#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+135>
+キス
+魅了中はホールド攻撃を確定で仕掛けてくるようにする。
+> CONTEXT: Enemies/493/Note
+<初期Y座標調整:+135>
+キス
+魅了中はホールド攻撃を確定で仕掛けてくるようにする。#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+135>
+おっぱいホールド
+魅了中はホールド攻撃を確定で仕掛けてくるようにする。
+> CONTEXT: Enemies/496/Note
+<初期Y座標調整:+135>
+おっぱいホールド
+魅了中はホールド攻撃を確定で仕掛けてくるようにする。#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+135>
+太もも絞め
+魅了中はホールド攻撃を確定で仕掛けてくるようにする。
+> CONTEXT: Enemies/499/Note
+<初期Y座標調整:+135>
+太もも絞め
+魅了中はホールド攻撃を確定で仕掛けてくるようにする。#NoTL
+> END STRING
+
+> BEGIN STRING
+金的
+<初期Y座標調整:+130>
+回想用
+> CONTEXT: Enemies/502/Note
+> CONTEXT: Enemies/505/Note
+金的
+<初期Y座標調整:+130>
+回想用#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+90>
+> CONTEXT: Enemies/511/Note
+<初期Y座標調整:+90>#NoTL
+> END STRING
+
+> BEGIN STRING
+クエスト後の手合わせ
+<初期Y座標調整:+100>
+> CONTEXT: Enemies/514/Note
+クエスト後の手合わせ
+<初期Y座標調整:+100>#NoTL
+> END STRING
+
+> BEGIN STRING
+<初期Y座標調整:+110>
+闇闘技場
+> CONTEXT: Enemies/531/Note
+<初期Y座標調整:+110>
+闇闘技場#NoTL
+> END STRING
+
+> BEGIN STRING
+パンチラ闇闘技場
+<初期Y座標調整:+130>
+> CONTEXT: Enemies/534/Note
+> CONTEXT: Enemies/543/Note
+パンチラ闇闘技場
+<初期Y座標調整:+130>#NoTL
+> END STRING
+
+> BEGIN STRING
+闇闘技場弱いVer
+<初期Y座標調整:+100>
+> CONTEXT: Enemies/546/Note
+闇闘技場弱いVer
+<初期Y座標調整:+100>#NoTL
+> END STRING
+
+> BEGIN STRING
+胸見せつけ
+<初期Y座標調整:+115>
+> CONTEXT: Enemies/551/Note
+胸見せつけ
+<初期Y座標調整:+115>#NoTL
+> END STRING
+
+> BEGIN STRING
+ヒップドロップ
+<初期Y座標調整:+115>
+> CONTEXT: Enemies/554/Note
+ヒップドロップ
+<初期Y座標調整:+115>#NoTL
+> END STRING
+
+> BEGIN STRING
+おっぱい攻め
+<初期Y座標調整:+120>
+> CONTEXT: Enemies/560/Note
+おっぱい攻め
+<初期Y座標調整:+120>#NoTL
+> END STRING
+
+> BEGIN STRING
+<所持制限:20>
+> CONTEXT: Items/3/Note
+> CONTEXT: Items/27/Note
+<所持制限:20>#NoTL
+> END STRING
+
+> BEGIN STRING
+<所持制限:10>
+> CONTEXT: Items/8/Note
+> CONTEXT: Items/18/Note
+> CONTEXT: Items/95/Note
+> CONTEXT: Items/473/Note
+> CONTEXT: Items/478/Note
+> CONTEXT: Items/483/Note
+> CONTEXT: Items/488/Note
+> CONTEXT: Items/493/Note
+<所持制限:10>#NoTL
+> END STRING
+
+> BEGIN STRING
+<所持制限:5>
+> CONTEXT: Items/13/Note
+> CONTEXT: Items/36/Note
+> CONTEXT: Items/73/Note
+> CONTEXT: Items/332/Note
+> CONTEXT: Items/498/Note
+<所持制限:5>#NoTL
+> END STRING
+
+> BEGIN STRING
+＜TEREPORT＞
+> CONTEXT: Items/78/Note
+> CONTEXT: Items/547/Note
+＜TEREPORT＞#NoTL
+> END STRING
+
+> BEGIN STRING
+アイアンアーマーとブルークリスタルを所持していると作ってもらえる
+> CONTEXT: Items/1224/Note
+アイアンアーマーとブルークリスタルを所持していると作ってもらえる#NoTL
+> END STRING
+
+> BEGIN STRING
+歌関係の魅了のみ防ぐ
+> CONTEXT: Items/1277/Note
+歌関係の魅了のみ防ぐ#NoTL
+> END STRING
+
+> BEGIN STRING
+花粉攻撃、匂い攻撃を防ぐ
+> CONTEXT: Items/1342/Note
+花粉攻撃、匂い攻撃を防ぐ#NoTL
+> END STRING
+
+> BEGIN STRING
+キュイラス＋５
+> CONTEXT: Items/1375/Note
+> CONTEXT: Items/1380/Note
+キュイラス＋５#NoTL
+> END STRING
+
+> BEGIN STRING
+スキル１番は［攻撃］コマンドを選択したときに使用されます。
+<名前非表示>
+> CONTEXT: Skills/4/Note
+> CONTEXT: Skills/758/Note
+> CONTEXT: Skills/763/Note
+> CONTEXT: Skills/768/Note
+> CONTEXT: Skills/773/Note
+> CONTEXT: Skills/778/Note
+> CONTEXT: Skills/783/Note
+> CONTEXT: Skills/788/Note
+> CONTEXT: Skills/793/Note
+> CONTEXT: Skills/798/Note
+> CONTEXT: Skills/951/Note
+> CONTEXT: Skills/1107/Note
+> CONTEXT: Skills/1112/Note
+> CONTEXT: Skills/1380/Note
+スキル１番は［攻撃］コマンドを選択したときに使用されます。
+<名前非表示>#NoTL
+> END STRING
+
+> BEGIN STRING
+スキル２番は［防御］コマンドを選択したときに使用されます。
+> CONTEXT: Skills/9/Note
+スキル２番は［防御］コマンドを選択したときに使用されます。#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+> CONTEXT: Skills/204/Note
+> CONTEXT: Skills/520/Note
+> CONTEXT: Skills/526/Note
+> CONTEXT: Skills/530/Note
+> CONTEXT: Skills/545/Note
+> CONTEXT: Skills/550/Note
+> CONTEXT: Skills/555/Note
+> CONTEXT: Skills/585/Note
+> CONTEXT: Skills/590/Note
+> CONTEXT: Skills/611/Note
+> CONTEXT: Skills/616/Note
+> CONTEXT: Skills/621/Note
+> CONTEXT: Skills/635/Note
+> CONTEXT: Skills/648/Note
+> CONTEXT: Skills/656/Note
+> CONTEXT: Skills/666/Note
+> CONTEXT: Skills/671/Note
+> CONTEXT: Skills/676/Note
+> CONTEXT: Skills/680/Note
+> CONTEXT: Skills/685/Note
+> CONTEXT: Skills/690/Note
+> CONTEXT: Skills/727/Note
+> CONTEXT: Skills/738/Note
+> CONTEXT: Skills/743/Note
+> CONTEXT: Skills/748/Note
+> CONTEXT: Skills/846/Note
+> CONTEXT: Skills/850/Note
+> CONTEXT: Skills/877/Note
+> CONTEXT: Skills/933/Note
+> CONTEXT: Skills/1012/Note
+> CONTEXT: Skills/1051/Note
+> CONTEXT: Skills/1245/Note
+> CONTEXT: Skills/1397/Note
+<ani_id:115>#NoTL
+> END STRING
+
+> BEGIN STRING
+この技を使うと女の子の服が破れることがある。
+使うと外れたとしてもリッパー値（変数）が
+溜まり、一定値を超えると服が破ける。
+エッジストームだと値が大きく溜まるが、
+クイックスラッシュでも少量溜まる。
+> CONTEXT: Skills/560/Note
+この技を使うと女の子の服が破れることがある。
+使うと外れたとしてもリッパー値（変数）が
+溜まり、一定値を超えると服が破ける。
+エッジストームだと値が大きく溜まるが、
+クイックスラッシュでも少量溜まる。#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+ロリの技
+> CONTEXT: Skills/595/Note
+<ani_id:115>
+ロリの技#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+<マルチダメージ:147>
+> CONTEXT: Skills/600/Note
+> CONTEXT: Skills/1277/Note
+<ani_id:115>
+<マルチダメージ:147>#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+<マルチダメージ:148>
+> CONTEXT: Skills/604/Note
+> CONTEXT: Skills/732/Note
+> CONTEXT: Skills/813/Note
+> CONTEXT: Skills/1266/Note
+<ani_id:115>
+<マルチダメージ:148>#NoTL
+> END STRING
+
+> BEGIN STRING
+顔
+<ani_id:115>
+<マルチダメージ:148>
+> CONTEXT: Skills/626/Note
+> CONTEXT: Skills/1255/Note
+顔
+<ani_id:115>
+<マルチダメージ:148>#NoTL
+> END STRING
+
+> BEGIN STRING
+股間
+<ani_id:115>
+<マルチダメージ:147>
+> CONTEXT: Skills/631/Note
+> CONTEXT: Skills/1261/Note
+股間
+<ani_id:115>
+<マルチダメージ:147>#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+<マルチダメージ:145>
+> CONTEXT: Skills/639/Note
+> CONTEXT: Skills/1390/Note
+<ani_id:115>
+<マルチダメージ:145>#NoTL
+> END STRING
+
+> BEGIN STRING
+<名前非表示>
+<ani_id:115>
+> CONTEXT: Skills/644/Note
+<名前非表示>
+<ani_id:115>#NoTL
+> END STRING
+
+> BEGIN STRING
+敗北時専用
+<ani_id:115>
+> CONTEXT: Skills/660/Note
+敗北時専用
+<ani_id:115>#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+MP敗北時
+> CONTEXT: Skills/695/Note
+> CONTEXT: Skills/699/Note
+<ani_id:115>
+MP敗北時#NoTL
+> END STRING
+
+> BEGIN STRING
+顔
+<ani_id:115>
+MP負け時
+> CONTEXT: Skills/704/Note
+顔
+<ani_id:115>
+MP負け時#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+MP負け
+> CONTEXT: Skills/710/Note
+> CONTEXT: Skills/716/Note
+<ani_id:115>
+MP負け#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+<マルチダメージ:148>
+トドメ用
+> CONTEXT: Skills/721/Note
+<ani_id:115>
+<マルチダメージ:148>
+トドメ用#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+プリム用
+> CONTEXT: Skills/753/Note
+<ani_id:115>
+プリム用#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+三人用
+> CONTEXT: Skills/803/Note
+> CONTEXT: Skills/1271/Note
+<ani_id:115>
+三人用#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+三人負け用
+> CONTEXT: Skills/818/Note
+<ani_id:115>
+三人負け用#NoTL
+> END STRING
+
+> BEGIN STRING
+負け用
+> CONTEXT: Skills/824/Note
+負け用#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+<マルチダメージ:148>
+負け用
+> CONTEXT: Skills/829/Note
+<ani_id:115>
+<マルチダメージ:148>
+負け用#NoTL
+> END STRING
+
+> BEGIN STRING
+<マルチダメージ:147>
+> CONTEXT: Skills/884/Note
+> CONTEXT: Skills/903/Note
+> CONTEXT: Skills/1148/Note
+> CONTEXT: Skills/1443/Note
+> CONTEXT: Skills/1479/Note
+> CONTEXT: Skills/1525/Note
+<マルチダメージ:147>#NoTL
+> END STRING
+
+> BEGIN STRING
+デス
+> CONTEXT: Skills/946/Note
+デス#NoTL
+> END STRING
+
+> BEGIN STRING
+レディゴースト
+> CONTEXT: Skills/956/Note
+レディゴースト#NoTL
+> END STRING
+
+> BEGIN STRING
+2回戦時
+> CONTEXT: Skills/976/Note
+2回戦時#NoTL
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバス
+> CONTEXT: Skills/981/Note
+> CONTEXT: Skills/985/Note
+レッサーサキュバス#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+セイレーンバージョン
+> CONTEXT: Skills/990/Note
+<ani_id:115>
+セイレーンバージョン#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+
+> CONTEXT: Skills/995/Note
+> CONTEXT: Skills/1000/Note
+> CONTEXT: Skills/1421/Note
+<ani_id:115>
+#NoTL
+> END STRING
+
+> BEGIN STRING
+<マルチダメージ:148>
+> CONTEXT: Skills/1097/Note
+<マルチダメージ:148>#NoTL
+> END STRING
+
+> BEGIN STRING
+<マルチダメージ:145>
+> CONTEXT: Skills/1102/Note
+<マルチダメージ:145>#NoTL
+> END STRING
+
+> BEGIN STRING
+<マルチダメージ:146>
+> CONTEXT: Skills/1116/Note
+> CONTEXT: Skills/1348/Note
+> CONTEXT: Skills/1402/Note
+<マルチダメージ:146>#NoTL
+> END STRING
+
+> BEGIN STRING
+キスホールド中に出る
+> CONTEXT: Skills/1132/Note
+キスホールド中に出る#NoTL
+> END STRING
+
+> BEGIN STRING
+トドメ用
+> CONTEXT: Skills/1163/Note
+トドメ用#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+地下水道
+> CONTEXT: Skills/1198/Note
+<ani_id:115>
+地下水道#NoTL
+> END STRING
+
+> BEGIN STRING
+地下水道
+> CONTEXT: Skills/1203/Note
+> CONTEXT: Skills/1307/Note
+地下水道#NoTL
+> END STRING
+
+> BEGIN STRING
+ジェーン用
+> CONTEXT: Skills/1218/Note
+ジェーン用#NoTL
+> END STRING
+
+> BEGIN STRING
+プリム用
+> CONTEXT: Skills/1232/Note
+プリム用#NoTL
+> END STRING
+
+> BEGIN STRING
+<ani_id:115>
+<マルチダメージ:326>
+> CONTEXT: Skills/1283/Note
+<ani_id:115>
+<マルチダメージ:326>#NoTL
+> END STRING
+
+> BEGIN STRING
+\\N[12]用
+> CONTEXT: Skills/1294/Note
+> CONTEXT: Skills/1299/Note
+\\N[12]用#NoTL
+> END STRING
+
+> BEGIN STRING
+TP消費タイプ
+> CONTEXT: Skills/1321/Note
+TP消費タイプ#NoTL
+> END STRING
+
+> BEGIN STRING
+キスホールド中に出る
+<マルチダメージ:137>
+> CONTEXT: Skills/1368/Note
+キスホールド中に出る
+<マルチダメージ:137>#NoTL
+> END STRING
+
+> BEGIN STRING
+トドメ版
+> CONTEXT: Skills/1412/Note
+トドメ版#NoTL
+> END STRING
+
+> BEGIN STRING
+ヒップドロップ後のホールド技
+<マルチダメージ:146>
+> CONTEXT: Skills/1448/Note
+ヒップドロップ後のホールド技
+<マルチダメージ:146>#NoTL
+> END STRING
+
+> BEGIN STRING
+おっぱいホールド後の責め技
+<マルチダメージ:145>
+> CONTEXT: Skills/1484/Note
+> CONTEXT: Skills/1530/Note
+おっぱいホールド後の責め技
+<マルチダメージ:145>#NoTL
+> END STRING
+
+> BEGIN STRING
+ゲームオーバー時
+> CONTEXT: Skills/1517/Note
+ゲームオーバー時#NoTL
+> END STRING
+
+> BEGIN STRING
+ステート１番はＨＰが０になったときに自動的に付加されます。
+> CONTEXT: States/5/Note
+ステート１番はＨＰが０になったときに自動的に付加されます。#NoTL
+> END STRING
+
+> BEGIN STRING
+視覚Ver
+> CONTEXT: States/99/Note
+視覚Ver#NoTL
+> END STRING
+
+> BEGIN STRING
+誘惑の歌Ver
+> CONTEXT: States/120/Note
+誘惑の歌Ver#NoTL
+> END STRING
+
+> BEGIN STRING
+HP、MPどっちが0になるかで
+内容が分岐する。
+そのため、このステートになった場合
+HP0でも戦闘を続行させるために
+戦闘不能のステートを無効化する処置をする。
+
+
+> CONTEXT: States/154/Note
+HP、MPどっちが0になるかで
+内容が分岐する。
+そのため、このステートになった場合
+HP0でも戦闘を続行させるために
+戦闘不能のステートを無効化する処置をする。
+
+#NoTL
+> END STRING
+
+> BEGIN STRING
+永続・行動可能
+> CONTEXT: States/169/Note
+永続・行動可能#NoTL
+> END STRING
+
+> BEGIN STRING
+ダークウィッチヘアチャーム
+> CONTEXT: States/194/Note
+ダークウィッチヘアチャーム#NoTL
+> END STRING
+
+> BEGIN STRING
+女王
+> CONTEXT: States/205/Note
+女王#NoTL
+> END STRING
+
+> BEGIN STRING
+5ターン以内に倒せば完勝扱いになる。
+このスイッチが点いてしまったら通常勝利。
+> CONTEXT: Troops/1967/Comment
+5ターン以内に倒せば完勝扱いになる。
+このスイッチが点いてしまったら通常勝利。#NoTL
+> END STRING
+
+> BEGIN STRING
+このスイッチは敗北時に使う。
+ディアーナのHPを半分も削れなかった場合は完敗扱いとなる。
+> CONTEXT: Troops/1972/Comment
+このスイッチは敗北時に使う。
+ディアーナのHPを半分も削れなかった場合は完敗扱いとなる。#NoTL
+> END STRING
+
+> BEGIN STRING
+==行動前イベント:使用前==
+> CONTEXT: CommonEvent0015/3/Comment
+> CONTEXT: CommonEvent0017/3/Comment
+> CONTEXT: CommonEvent0022/3/Comment
+> CONTEXT: CommonEvent0024/3/Comment
+> CONTEXT: CommonEvent0050/3/Comment
+> CONTEXT: CommonEvent0051/3/Comment
+> CONTEXT: CommonEvent0052/3/Comment
+> CONTEXT: CommonEvent0054/3/Comment
+> CONTEXT: CommonEvent0055/3/Comment
+> CONTEXT: CommonEvent0056/3/Comment
+> CONTEXT: CommonEvent0057/3/Comment
+> CONTEXT: CommonEvent0058/3/Comment
+> CONTEXT: CommonEvent0067/3/Comment
+> CONTEXT: CommonEvent0145/3/Comment
+> CONTEXT: CommonEvent0146/3/Comment
+> CONTEXT: CommonEvent0147/3/Comment
+> CONTEXT: CommonEvent0148/3/Comment
+> CONTEXT: CommonEvent0158/3/Comment
+> CONTEXT: CommonEvent0162/3/Comment
+> CONTEXT: CommonEvent0163/3/Comment
+> CONTEXT: CommonEvent0167/3/Comment
+> CONTEXT: CommonEvent0168/3/Comment
+> CONTEXT: CommonEvent0169/3/Comment
+> CONTEXT: CommonEvent0170/3/Comment
+> CONTEXT: CommonEvent0173/3/Comment
+> CONTEXT: CommonEvent0174/3/Comment
+> CONTEXT: CommonEvent0175/3/Comment
+> CONTEXT: CommonEvent0176/3/Comment
+> CONTEXT: CommonEvent0193/3/Comment
+> CONTEXT: CommonEvent0194/3/Comment
+> CONTEXT: CommonEvent0202/3/Comment
+> CONTEXT: CommonEvent0217/3/Comment
+> CONTEXT: CommonEvent0218/3/Comment
+> CONTEXT: CommonEvent0220/3/Comment
+> CONTEXT: CommonEvent0230/3/Comment
+> CONTEXT: CommonEvent0231/3/Comment
+> CONTEXT: CommonEvent0232/3/Comment
+> CONTEXT: CommonEvent0233/3/Comment
+> CONTEXT: CommonEvent0234/3/Comment
+> CONTEXT: CommonEvent0235/3/Comment
+> CONTEXT: CommonEvent0236/3/Comment
+> CONTEXT: CommonEvent0237/3/Comment
+> CONTEXT: CommonEvent0247/3/Comment
+> CONTEXT: CommonEvent0252/3/Comment
+> CONTEXT: CommonEvent0253/3/Comment
+> CONTEXT: CommonEvent0254/3/Comment
+> CONTEXT: CommonEvent0255/3/Comment
+> CONTEXT: CommonEvent0281/3/Comment
+> CONTEXT: CommonEvent0290/3/Comment
+> CONTEXT: CommonEvent0291/3/Comment
+> CONTEXT: CommonEvent0292/3/Comment
+> CONTEXT: CommonEvent0314/3/Comment
+> CONTEXT: CommonEvent0321/3/Comment
+> CONTEXT: CommonEvent0322/3/Comment
+> CONTEXT: CommonEvent0323/3/Comment
+> CONTEXT: CommonEvent0324/3/Comment
+==行動前イベント:使用前==#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 37
+> CONTEXT: CommonEvent0015/4/Comment
+> CONTEXT: CommonEvent0017/4/Comment
+user.enemy? && user.enemy_id == 37#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 149
+> CONTEXT: CommonEvent0015/5/Comment
+> CONTEXT: CommonEvent0050/5/Comment
+> CONTEXT: CommonEvent0230/5/Comment
+> CONTEXT: CommonEvent0232/5/Comment
+use.id == 149#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 152
+> CONTEXT: CommonEvent0017/5/Comment
+> CONTEXT: CommonEvent0051/5/Comment
+> CONTEXT: CommonEvent0231/5/Comment
+> CONTEXT: CommonEvent0233/5/Comment
+use.id == 152#NoTL
+> END STRING
+
+> BEGIN STRING
+==行動前イベント:使用後==
+> CONTEXT: CommonEvent0021/3/Comment
+> CONTEXT: CommonEvent0028/3/Comment
+> CONTEXT: CommonEvent0029/3/Comment
+> CONTEXT: CommonEvent0184/3/Comment
+> CONTEXT: CommonEvent0185/3/Comment
+> CONTEXT: CommonEvent0212/3/Comment
+> CONTEXT: CommonEvent0213/3/Comment
+> CONTEXT: CommonEvent0244/3/Comment
+> CONTEXT: CommonEvent0268/3/Comment
+> CONTEXT: CommonEvent0325/3/Comment
+==行動前イベント:使用後==#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 35
+> CONTEXT: CommonEvent0021/4/Comment
+user.enemy? && user.enemy_id == 35#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 151
+> CONTEXT: CommonEvent0021/5/Comment
+use.id == 151#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 70
+> CONTEXT: CommonEvent0022/4/Comment
+> CONTEXT: CommonEvent0024/4/Comment
+user.enemy? && user.enemy_id == 70#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 158
+> CONTEXT: CommonEvent0022/5/Comment
+> CONTEXT: CommonEvent0217/5/Comment
+use.id == 158#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 159
+> CONTEXT: CommonEvent0024/5/Comment
+> CONTEXT: CommonEvent0218/5/Comment
+use.id == 159#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 34
+> CONTEXT: CommonEvent0028/4/Comment
+> CONTEXT: CommonEvent0029/4/Comment
+user.enemy? && user.enemy_id == 34#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 161
+> CONTEXT: CommonEvent0028/5/Comment
+> CONTEXT: CommonEvent0213/5/Comment
+use.id == 161#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 153
+> CONTEXT: CommonEvent0029/5/Comment
+> CONTEXT: CommonEvent0212/5/Comment
+use.id == 153#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 32
+> CONTEXT: CommonEvent0050/4/Comment
+> CONTEXT: CommonEvent0051/4/Comment
+user.enemy? && user.enemy_id == 32#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 36
+> CONTEXT: CommonEvent0052/4/Comment
+user.enemy? && user.enemy_id == 36#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 167
+> CONTEXT: CommonEvent0052/5/Comment
+> CONTEXT: CommonEvent0220/5/Comment
+use.id == 167#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 48
+> CONTEXT: CommonEvent0054/4/Comment
+> CONTEXT: CommonEvent0057/4/Comment
+user.enemy? && user.enemy_id == 48#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 195
+> CONTEXT: CommonEvent0054/5/Comment
+use.id == 195#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 40
+> CONTEXT: CommonEvent0055/4/Comment
+> CONTEXT: CommonEvent0058/4/Comment
+user.enemy? && user.enemy_id == 40#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 196
+> CONTEXT: CommonEvent0055/5/Comment
+use.id == 196#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 49
+> CONTEXT: CommonEvent0056/4/Comment
+> CONTEXT: CommonEvent0067/4/Comment
+user.enemy? && user.enemy_id == 49#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 156
+> CONTEXT: CommonEvent0056/5/Comment
+use.id == 156#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 198
+> CONTEXT: CommonEvent0057/5/Comment
+use.id == 198#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 199
+> CONTEXT: CommonEvent0058/5/Comment
+use.id == 199#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 197
+> CONTEXT: CommonEvent0067/5/Comment
+use.id == 197#NoTL
+> END STRING
+
+> BEGIN STRING
+ここは精神と性感度が同時に既定値に達した場合のイベント
+> CONTEXT: CommonEvent0081/8/Comment
+> CONTEXT: CommonEvent0304/8/Comment
+ここは精神と性感度が同時に既定値に達した場合のイベント#NoTL
+> END STRING
+
+> BEGIN STRING
+もう一回オナニーで射精する
+> CONTEXT: CommonEvent0081/40/Comment
+> CONTEXT: CommonEvent0081/199/Comment
+> CONTEXT: CommonEvent0304/39/Comment
+> CONTEXT: CommonEvent0304/192/Comment
+もう一回オナニーで射精する#NoTL
+> END STRING
+
+> BEGIN STRING
+精神がなくなって性欲が20に達していない場合は、
+オナニーに狂って射精に達してしまう負けを描く。
+> CONTEXT: CommonEvent0081/82/Comment
+> CONTEXT: CommonEvent0304/82/Comment
+精神がなくなって性欲が20に達していない場合は、
+オナニーに狂って射精に達してしまう負けを描く。#NoTL
+> END STRING
+
+> BEGIN STRING
+精神が0になっていないが
+性感度が20になっている場合、ここで射精描写する。
+> CONTEXT: CommonEvent0081/159/Comment
+> CONTEXT: CommonEvent0304/148/Comment
+精神が0になっていないが
+性感度が20になっている場合、ここで射精描写する。#NoTL
+> END STRING
+
+> BEGIN STRING
+ここは射精の結果精神が0になった場合の敗北イベント
+> CONTEXT: CommonEvent0081/176/Comment
+> CONTEXT: CommonEvent0304/170/Comment
+ここは射精の結果精神が0になった場合の敗北イベント#NoTL
+> END STRING
+
+> BEGIN STRING
+ここは射精したものの精神が0にならなかった場合。
+戦闘続行。
+> CONTEXT: CommonEvent0081/241/Comment
+> CONTEXT: CommonEvent0304/235/Comment
+ここは射精したものの精神が0にならなかった場合。
+戦闘続行。#NoTL
+> END STRING
+
+> BEGIN STRING
+ここは精神も性感度も規定に達していない場合。
+何もなしで戦闘続行
+> CONTEXT: CommonEvent0081/247/Comment
+> CONTEXT: CommonEvent0304/241/Comment
+ここは精神も性感度も規定に達していない場合。
+何もなしで戦闘続行#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 101
+> CONTEXT: CommonEvent0145/4/Comment
+> CONTEXT: CommonEvent0146/4/Comment
+> CONTEXT: CommonEvent0147/4/Comment
+> CONTEXT: CommonEvent0148/4/Comment
+user.enemy? && user.enemy_id == 101#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 290
+> CONTEXT: CommonEvent0145/5/Comment
+> CONTEXT: CommonEvent0252/5/Comment
+use.id == 290#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 286
+> CONTEXT: CommonEvent0146/5/Comment
+> CONTEXT: CommonEvent0253/5/Comment
+use.id == 286#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 281
+> CONTEXT: CommonEvent0147/5/Comment
+> CONTEXT: CommonEvent0254/5/Comment
+use.id == 281#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 280
+> CONTEXT: CommonEvent0148/5/Comment
+> CONTEXT: CommonEvent0255/5/Comment
+use.id == 280#NoTL
+> END STRING
+
+> BEGIN STRING
+ここで下着のアップ
+> CONTEXT: CommonEvent0155/71/Comment
+ここで下着のアップ#NoTL
+> END STRING
+
+> BEGIN STRING
+こっちにアルミナ用イベントを記述
+> CONTEXT: CommonEvent0156/8/Comment
+こっちにアルミナ用イベントを記述#NoTL
+> END STRING
+
+> BEGIN STRING
+こっちにジェーン用イベントを記述
+> CONTEXT: CommonEvent0156/39/Comment
+こっちにジェーン用イベントを記述#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 129
+> CONTEXT: CommonEvent0158/4/Comment
+> CONTEXT: CommonEvent0290/4/Comment
+> CONTEXT: CommonEvent0291/4/Comment
+> CONTEXT: CommonEvent0292/4/Comment
+user.enemy? && user.enemy_id == 129#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 310
+> CONTEXT: CommonEvent0158/5/Comment
+use.id == 310#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 102
+> CONTEXT: CommonEvent0162/4/Comment
+> CONTEXT: CommonEvent0163/4/Comment
+user.enemy? && user.enemy_id == 102#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 317
+> CONTEXT: CommonEvent0162/5/Comment
+use.id == 317#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 283
+> CONTEXT: CommonEvent0163/5/Comment
+use.id == 283#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 144
+> CONTEXT: CommonEvent0167/4/Comment
+> CONTEXT: CommonEvent0170/4/Comment
+user.enemy? && user.enemy_id == 144#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 318
+> CONTEXT: CommonEvent0167/5/Comment
+use.id == 318#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 143
+> CONTEXT: CommonEvent0168/4/Comment
+user.enemy? && user.enemy_id == 143#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 320
+> CONTEXT: CommonEvent0168/5/Comment
+use.id == 320#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 145
+> CONTEXT: CommonEvent0169/4/Comment
+user.enemy? && user.enemy_id == 145#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 321
+> CONTEXT: CommonEvent0169/5/Comment
+use.id == 321#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 319
+> CONTEXT: CommonEvent0170/5/Comment
+use.id == 319#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 130
+> CONTEXT: CommonEvent0173/4/Comment
+> CONTEXT: CommonEvent0174/4/Comment
+user.enemy? && user.enemy_id == 130#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 323
+> CONTEXT: CommonEvent0173/5/Comment
+> CONTEXT: CommonEvent0175/5/Comment
+> CONTEXT: CommonEvent0234/5/Comment
+> CONTEXT: CommonEvent0235/5/Comment
+use.id == 323#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 324
+> CONTEXT: CommonEvent0174/5/Comment
+> CONTEXT: CommonEvent0176/5/Comment
+> CONTEXT: CommonEvent0236/5/Comment
+> CONTEXT: CommonEvent0237/5/Comment
+use.id == 324#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 131
+> CONTEXT: CommonEvent0175/4/Comment
+> CONTEXT: CommonEvent0176/4/Comment
+user.enemy? && user.enemy_id == 131#NoTL
+> END STRING
+
+> BEGIN STRING
+エンディングをピクチャーなどで表現する
+> CONTEXT: CommonEvent0177/3/Comment
+エンディングをピクチャーなどで表現する#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 123
+> CONTEXT: CommonEvent0184/4/Comment
+> CONTEXT: CommonEvent0185/4/Comment
+user.enemy? && user.enemy_id == 123#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 338
+> CONTEXT: CommonEvent0184/5/Comment
+> CONTEXT: CommonEvent0244/5/Comment
+> CONTEXT: CommonEvent0325/5/Comment
+use.id == 338#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 357
+> CONTEXT: CommonEvent0185/5/Comment
+> CONTEXT: CommonEvent0268/5/Comment
+use.id == 357#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 156
+> CONTEXT: CommonEvent0193/4/Comment
+> CONTEXT: CommonEvent0194/4/Comment
+user.enemy? && user.enemy_id == 156#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 345
+> CONTEXT: CommonEvent0193/5/Comment
+use.id == 345#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 154
+> CONTEXT: CommonEvent0194/5/Comment
+use.id == 154#NoTL
+> END STRING
+
+> BEGIN STRING
+MP負けを記述
+> CONTEXT: CommonEvent0200/5/Comment
+> CONTEXT: CommonEvent0205/13/Comment
+> CONTEXT: CommonEvent0248/26/Comment
+> CONTEXT: CommonEvent0250/28/Comment
+> CONTEXT: Map043/4472/Comment
+> CONTEXT: Map152/3381/Comment
+MP負けを記述#NoTL
+> END STRING
+
+> BEGIN STRING
+チャームで負けた場合
+> CONTEXT: CommonEvent0200/44/Comment
+> CONTEXT: CommonEvent0205/52/Comment
+> CONTEXT: CommonEvent0248/64/Comment
+チャームで負けた場合#NoTL
+> END STRING
+
+> BEGIN STRING
+MP負け共通部分
+> CONTEXT: CommonEvent0200/61/Comment
+> CONTEXT: CommonEvent0205/68/Comment
+> CONTEXT: CommonEvent0248/81/Comment
+MP負け共通部分#NoTL
+> END STRING
+
+> BEGIN STRING
+体力負けをここに記述
+> CONTEXT: CommonEvent0200/287/Comment
+> CONTEXT: CommonEvent0205/273/Comment
+> CONTEXT: CommonEvent0248/308/Comment
+> CONTEXT: CommonEvent0250/548/Comment
+> CONTEXT: Map043/4992/Comment
+> CONTEXT: Map152/3901/Comment
+体力負けをここに記述#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 113
+> CONTEXT: CommonEvent0202/4/Comment
+user.enemy? && user.enemy_id == 113#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 350
+> CONTEXT: CommonEvent0202/5/Comment
+> CONTEXT: CommonEvent0247/5/Comment
+use.id == 350#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 171
+> CONTEXT: CommonEvent0212/4/Comment
+user.enemy? && user.enemy_id == 171#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 172
+> CONTEXT: CommonEvent0213/4/Comment
+user.enemy? && user.enemy_id == 172#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 174
+> CONTEXT: CommonEvent0217/4/Comment
+user.enemy? && user.enemy_id == 174#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 175
+> CONTEXT: CommonEvent0218/4/Comment
+user.enemy? && user.enemy_id == 175#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 178
+> CONTEXT: CommonEvent0220/4/Comment
+user.enemy? && user.enemy_id == 178#NoTL
+> END STRING
+
+> BEGIN STRING
+ここでCG表示
+> CONTEXT: CommonEvent0221/102/Comment
+> CONTEXT: CommonEvent0223/158/Comment
+> CONTEXT: CommonEvent0226/162/Comment
+> CONTEXT: CommonEvent0239/180/Comment
+> CONTEXT: CommonEvent0240/180/Comment
+> CONTEXT: CommonEvent0250/80/Comment
+> CONTEXT: CommonEvent0261/80/Comment
+> CONTEXT: CommonEvent0264/46/Comment
+> CONTEXT: CommonEvent0320/129/Comment
+> CONTEXT: CommonEvent0320/432/Comment
+> CONTEXT: Map042/645/Comment
+> CONTEXT: Map043/2038/Comment
+> CONTEXT: Map043/3107/Comment
+> CONTEXT: Map043/3702/Comment
+> CONTEXT: Map043/4005/Comment
+> CONTEXT: Map043/4524/Comment
+> CONTEXT: Map043/6472/Comment
+> CONTEXT: Map043/6964/Comment
+> CONTEXT: Map043/10693/Comment
+> CONTEXT: Map043/11410/Comment
+> CONTEXT: Map140/425/Comment
+> CONTEXT: Map140/1055/Comment
+> CONTEXT: Map142/111/Comment
+> CONTEXT: Map152/1989/Comment
+> CONTEXT: Map152/2932/Comment
+> CONTEXT: Map152/3433/Comment
+> CONTEXT: Map152/5318/Comment
+> CONTEXT: Map152/5787/Comment
+ここでCG表示#NoTL
+> END STRING
+
+> BEGIN STRING
+※パンチラ技実装後は以下のテキストにする
+プリム
+「負けちゃって残念だったね、おにいさん♪
+試合中に女の子のぱんつなんかに見とれてるから
+そういう目にあうんだよ？」
+> CONTEXT: CommonEvent0222/80/Comment
+> CONTEXT: Map043/2622/Comment
+※パンチラ技実装後は以下のテキストにする
+プリム
+「負けちゃって残念だったね、おにいさん♪
+試合中に女の子のぱんつなんかに見とれてるから
+そういう目にあうんだよ？」#NoTL
+> END STRING
+
+> BEGIN STRING
+稽古イベで勝ったルートの敗北シーンをここに入れる
+> CONTEXT: CommonEvent0223/39/Comment
+> CONTEXT: Map043/2964/Comment
+> CONTEXT: Map043/10550/Comment
+> CONTEXT: Map043/11267/Comment
+> CONTEXT: Map152/2813/Comment
+稽古イベで勝ったルートの敗北シーンをここに入れる#NoTL
+> END STRING
+
+> BEGIN STRING
+以前負けた
+> CONTEXT: CommonEvent0223/60/Comment
+> CONTEXT: Map043/2985/Comment
+> CONTEXT: Map043/10571/Comment
+> CONTEXT: Map043/11288/Comment
+> CONTEXT: Map152/2834/Comment
+以前負けた#NoTL
+> END STRING
+
+> BEGIN STRING
+面識なし
+> CONTEXT: CommonEvent0223/80/Comment
+> CONTEXT: Map043/3005/Comment
+> CONTEXT: Map043/10591/Comment
+> CONTEXT: Map043/11308/Comment
+> CONTEXT: Map130/422/Comment
+> CONTEXT: Map130/1359/Comment
+> CONTEXT: Map152/2854/Comment
+面識なし#NoTL
+> END STRING
+
+> BEGIN STRING
+以下共通
+> CONTEXT: CommonEvent0223/108/Comment
+> CONTEXT: CommonEvent0320/60/Comment
+> CONTEXT: Map043/3033/Comment
+> CONTEXT: Map043/3628/Comment
+> CONTEXT: Map043/10619/Comment
+> CONTEXT: Map043/11336/Comment
+> CONTEXT: Map152/2882/Comment
+以下共通#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 182
+> CONTEXT: CommonEvent0230/4/Comment
+user.enemy? && user.enemy_id == 182#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 183
+> CONTEXT: CommonEvent0231/4/Comment
+user.enemy? && user.enemy_id == 183#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 184
+> CONTEXT: CommonEvent0232/4/Comment
+user.enemy? && user.enemy_id == 184#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 185
+> CONTEXT: CommonEvent0233/4/Comment
+user.enemy? && user.enemy_id == 185#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 186
+> CONTEXT: CommonEvent0234/4/Comment
+user.enemy? && user.enemy_id == 186#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 188
+> CONTEXT: CommonEvent0235/4/Comment
+user.enemy? && user.enemy_id == 188#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 187
+> CONTEXT: CommonEvent0236/4/Comment
+user.enemy? && user.enemy_id == 187#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 189
+> CONTEXT: CommonEvent0237/4/Comment
+user.enemy? && user.enemy_id == 189#NoTL
+> END STRING
+
+> BEGIN STRING
+ここにCG表示
+> CONTEXT: CommonEvent0238/90/Comment
+> CONTEXT: CommonEvent0239/39/Comment
+> CONTEXT: CommonEvent0240/39/Comment
+> CONTEXT: Map043/6331/Comment
+> CONTEXT: Map043/6823/Comment
+> CONTEXT: Map113/442/Comment
+> CONTEXT: Map152/5177/Comment
+> CONTEXT: Map152/5646/Comment
+ここにCG表示#NoTL
+> END STRING
+
+> BEGIN STRING
+デスソード装備で戦い、
+HP半分まで削った場合
+> CONTEXT: CommonEvent0242/40/Comment
+> CONTEXT: Map041/611/Comment
+> CONTEXT: Map041/3604/Comment
+デスソード装備で戦い、
+HP半分まで削った場合#NoTL
+> END STRING
+
+> BEGIN STRING
+デスソード装備せず
+HP半分まで削った場合
+> CONTEXT: CommonEvent0242/355/Comment
+> CONTEXT: Map041/926/Comment
+> CONTEXT: Map041/3966/Comment
+デスソード装備せず
+HP半分まで削った場合#NoTL
+> END STRING
+
+> BEGIN STRING
+苦戦させられなかった場合、
+エロなしで叩き出される
+> CONTEXT: CommonEvent0242/1036/Comment
+> CONTEXT: Map041/1604/Comment
+> CONTEXT: Map041/4322/Comment
+苦戦させられなかった場合、
+エロなしで叩き出される#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 191
+> CONTEXT: CommonEvent0244/4/Comment
+user.enemy? && user.enemy_id == 191#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 194
+> CONTEXT: CommonEvent0247/4/Comment
+user.enemy? && user.enemy_id == 194#NoTL
+> END STRING
+
+> BEGIN STRING
+パイズリCG
+> CONTEXT: CommonEvent0251/122/Comment
+> CONTEXT: Map043/5656/Comment
+> CONTEXT: Map152/4548/Comment
+パイズリCG#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 197
+> CONTEXT: CommonEvent0252/4/Comment
+user.enemy? && user.enemy_id == 197#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 198
+> CONTEXT: CommonEvent0253/4/Comment
+user.enemy? && user.enemy_id == 198#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 196
+> CONTEXT: CommonEvent0254/4/Comment
+user.enemy? && user.enemy_id == 196#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 195
+> CONTEXT: CommonEvent0255/4/Comment
+user.enemy? && user.enemy_id == 195#NoTL
+> END STRING
+
+> BEGIN STRING
+服破いて敗北
+お仕置きエロシーンあり
+> CONTEXT: CommonEvent0256/24/Comment
+> CONTEXT: Map043/1270/Comment
+> CONTEXT: Map152/1223/Comment
+服破いて敗北
+お仕置きエロシーンあり#NoTL
+> END STRING
+
+> BEGIN STRING
+ここには何も置かない
+> CONTEXT: CommonEvent0256/30/Comment
+> CONTEXT: Map043/1277/Comment
+> CONTEXT: Map152/1229/Comment
+ここには何も置かない#NoTL
+> END STRING
+
+> BEGIN STRING
+自慰シーン
+> CONTEXT: CommonEvent0256/39/Comment
+> CONTEXT: Map043/1281/Comment
+> CONTEXT: Map152/1233/Comment
+自慰シーン#NoTL
+> END STRING
+
+> BEGIN STRING
+ここにバッドエンドを記述
+> CONTEXT: CommonEvent0256/263/Comment
+> CONTEXT: Map043/1505/Comment
+> CONTEXT: Map152/1457/Comment
+ここにバッドエンドを記述#NoTL
+> END STRING
+
+> BEGIN STRING
+通常敗北
+> CONTEXT: CommonEvent0256/319/Comment
+> CONTEXT: Map043/1550/Comment
+> CONTEXT: Map147/3987/Comment
+> CONTEXT: Map152/1501/Comment
+通常敗北#NoTL
+> END STRING
+
+> BEGIN STRING
+※射精演出
+> CONTEXT: CommonEvent0260/107/Comment
+> CONTEXT: CommonEvent0260/151/Comment
+> CONTEXT: CommonEvent0260/205/Comment
+> CONTEXT: CommonEvent0260/220/Comment
+> CONTEXT: CommonEvent0260/290/Comment
+> CONTEXT: Map057/1111/Comment
+> CONTEXT: Map057/1155/Comment
+> CONTEXT: Map057/1209/Comment
+> CONTEXT: Map057/1224/Comment
+> CONTEXT: Map057/1294/Comment
+※射精演出#NoTL
+> END STRING
+
+> BEGIN STRING
+※胸のアップ
+> CONTEXT: CommonEvent0260/321/Comment
+> CONTEXT: Map057/1325/Comment
+※胸のアップ#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 199
+> CONTEXT: CommonEvent0268/4/Comment
+user.enemy? && user.enemy_id == 199#NoTL
+> END STRING
+
+> BEGIN STRING
+ここにMP負けを書く
+> CONTEXT: CommonEvent0279/62/Comment
+ここにMP負けを書く#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 138
+> CONTEXT: CommonEvent0281/4/Comment
+user.enemy? && user.enemy_id == 138#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 361
+> CONTEXT: CommonEvent0281/5/Comment
+> CONTEXT: CommonEvent0324/5/Comment
+use.id == 361#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 368
+> CONTEXT: CommonEvent0290/5/Comment
+> CONTEXT: CommonEvent0322/5/Comment
+use.id == 368#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 370
+> CONTEXT: CommonEvent0291/5/Comment
+> CONTEXT: CommonEvent0323/5/Comment
+use.id == 370#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 371
+> CONTEXT: CommonEvent0292/5/Comment
+use.id == 371#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 161
+> CONTEXT: CommonEvent0314/4/Comment
+user.enemy? && user.enemy_id == 161#NoTL
+> END STRING
+
+> BEGIN STRING
+use.id == 393
+> CONTEXT: CommonEvent0314/5/Comment
+> CONTEXT: CommonEvent0321/5/Comment
+use.id == 393#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 229
+> CONTEXT: CommonEvent0321/4/Comment
+user.enemy? && user.enemy_id == 229#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 226
+> CONTEXT: CommonEvent0322/4/Comment
+user.enemy? && user.enemy_id == 226#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 227
+> CONTEXT: CommonEvent0323/4/Comment
+user.enemy? && user.enemy_id == 227#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 228
+> CONTEXT: CommonEvent0324/4/Comment
+user.enemy? && user.enemy_id == 228#NoTL
+> END STRING
+
+> BEGIN STRING
+user.enemy? && user.enemy_id == 217
+> CONTEXT: CommonEvent0325/4/Comment
+user.enemy? && user.enemy_id == 217#NoTL
+> END STRING
+
+> BEGIN STRING
+OPイベントについては、女性の同僚たちが見守る中で試合をする流れに
+変えたい。
+> CONTEXT: Map007/161/Comment
+OPイベントについては、女性の同僚たちが見守る中で試合をする流れに
+変えたい。#NoTL
+> END STRING
+
+> BEGIN STRING
+海のヒントを喋らせる
+> CONTEXT: Map012/27/Comment
+海のヒントを喋らせる#NoTL
+> END STRING
+
+> BEGIN STRING
+マディンフィッシュは潮溜まりでゲットできるが、他の場所で別の魚も
+ゲットできてしまう。魚の特徴をヒントに、いくつかの魚の中から正解
+を選ぶ。鑑定はこの執事にしてもらう。
+> CONTEXT: Map015/129/Comment
+マディンフィッシュは潮溜まりでゲットできるが、他の場所で別の魚も
+ゲットできてしまう。魚の特徴をヒントに、いくつかの魚の中から正解
+を選ぶ。鑑定はこの執事にしてもらう。#NoTL
+> END STRING
+
+> BEGIN STRING
+パルムフィッシュは汽水域に出ることもある。
+> CONTEXT: Map018/396/Comment
+パルムフィッシュは汽水域に出ることもある。#NoTL
+> END STRING
+
+> BEGIN STRING
+レヴァストゥの森。
+南西に向かって伸びる森林。（北は城だから）
+途中で川を渡る。
+> CONTEXT: Map020/58/Comment
+レヴァストゥの森。
+南西に向かって伸びる森林。（北は城だから）
+途中で川を渡る。#NoTL
+> END STRING
+
+> BEGIN STRING
+立ち絵をスクロール表示
+> CONTEXT: Map021/979/Comment
+立ち絵をスクロール表示#NoTL
+> END STRING
+
+> BEGIN STRING
+<namepop 自宅>
+> CONTEXT: Map023/5/Comment
+> CONTEXT: Map112/7/Comment
+<namepop home>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop モルデリア洞窟>
+> CONTEXT: Map023/34/Comment
+> CONTEXT: Map112/137/Comment
+<namepop Morderia_cave>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop レストンの村>
+> CONTEXT: Map023/44/Comment
+> CONTEXT: Map112/17/Comment
+<namepop Village_of_Reston>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 王都>
+> CONTEXT: Map023/85/Comment
+<namepop The_capital>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 闘技場前>
+> CONTEXT: Map023/94/Comment
+> CONTEXT: Map112/42/Comment
+<namepop Before_the_Arena>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop ウィギスの村>
+> CONTEXT: Map023/103/Comment
+> CONTEXT: Map112/54/Comment
+<namepop Village_of_Wigheis>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 海岸の洞窟>
+> CONTEXT: Map023/126/Comment
+> CONTEXT: Map112/162/Comment
+<namepop Coastal_cave>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 荒野>
+> CONTEXT: Map023/154/Comment
+> CONTEXT: Map112/150/Comment
+<namepop wilderness>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop エルミア地下水道>
+> CONTEXT: Map023/163/Comment
+> CONTEXT: Map112/186/Comment
+<namepop Elmia_groundwater_sewer>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 地下水道の敵>
+> CONTEXT: Map023/505/Comment
+<namepop Enemies_of_underground_water_supply>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 森の敵>
+> CONTEXT: Map023/736/Comment
+<namepop Forest_enemies>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 海岸奥>
+> CONTEXT: Map023/969/Comment
+<namepop Behind_the_coast>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 雪洞窟>
+> CONTEXT: Map023/978/Comment
+<namepop Snow_cavern>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 最終闘技場>
+> CONTEXT: Map023/1516/Comment
+<namepop Final_Stadium>#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムエンドをここに記述
+> CONTEXT: Map025/381/Comment
+プリムエンドをここに記述#NoTL
+> END STRING
+
+> BEGIN STRING
+プリムはディアーナと一回戦で対戦する。
+主人公がプリムを連れてダンジョンを攻略するクエストをこなしていれ
+ば、プリムが鍛えられていてディアーナに勝つ展開になり、
+２回戦で主人公と当たる。
+そうでなければディアーナが勝ち、主人公と当たる。
+プリム対ディアーナは主人公が観戦する形で描写する。
+> CONTEXT: Map025/1445/Comment
+プリムはディアーナと一回戦で対戦する。
+主人公がプリムを連れてダンジョンを攻略するクエストをこなしていれ
+ば、プリムが鍛えられていてディアーナに勝つ展開になり、
+２回戦で主人公と当たる。
+そうでなければディアーナが勝ち、主人公と当たる。
+プリム対ディアーナは主人公が観戦する形で描写する。#NoTL
+> END STRING
+
+> BEGIN STRING
+プリムと一緒に行うミッションは、舟に乗って対岸の平原の魔物を退治
+し、最奥部に魔物が出現する魔法陣がないかを調査する。行くと実際に
+それがあり、ギルドで受け取ったアイテムを使って封印を施して終わり
+。そのイベントで強制戦闘がいくつかあり、プリムのレベルが強制的に
+上がる。
+> CONTEXT: Map025/1451/Comment
+プリムと一緒に行うミッションは、舟に乗って対岸の平原の魔物を退治
+し、最奥部に魔物が出現する魔法陣がないかを調査する。行くと実際に
+それがあり、ギルドで受け取ったアイテムを使って封印を施して終わり
+。そのイベントで強制戦闘がいくつかあり、プリムのレベルが強制的に
+上がる。#NoTL
+> END STRING
+
+> BEGIN STRING
+ここに踏みつけ絵を表示
+> CONTEXT: Map025/3037/Comment
+> CONTEXT: Map025/3235/Comment
+> CONTEXT: Map025/3726/Comment
+> CONTEXT: Map149/1808/Comment
+> CONTEXT: Map149/2004/Comment
+> CONTEXT: Map149/2470/Comment
+ここに踏みつけ絵を表示#NoTL
+> END STRING
+
+> BEGIN STRING
+ここに踏みつけCGを入れる
+> CONTEXT: Map025/3374/Comment
+> CONTEXT: Map149/2139/Comment
+ここに踏みつけCGを入れる#NoTL
+> END STRING
+
+> BEGIN STRING
+※勝った次の勝負で負けたシチュを書く
+> CONTEXT: Map025/3683/Comment
+> CONTEXT: Map149/2427/Comment
+※勝った次の勝負で負けたシチュを書く#NoTL
+> END STRING
+
+> BEGIN STRING
+川魚、海魚の両方を満たしたタイミングで依頼完了イベントに移行でき
+るよう、川魚報告と海魚報告の両方にそのイベントを書く。
+> CONTEXT: Map026/89/Comment
+川魚、海魚の両方を満たしたタイミングで依頼完了イベントに移行でき
+るよう、川魚報告と海魚報告の両方にそのイベントを書く。#NoTL
+> END STRING
+
+> BEGIN STRING
+依頼完了後の魚渡しは、内容を変更する。
+> CONTEXT: Map026/605/Comment
+依頼完了後の魚渡しは、内容を変更する。#NoTL
+> END STRING
+
+> BEGIN STRING
+これを調べるとプリムがロープでもかければ渡れるのに、とか言い出す
+。ヒント。
+> CONTEXT: Map027/112/Comment
+これを調べるとプリムがロープでもかければ渡れるのに、とか言い出す
+。ヒント。#NoTL
+> END STRING
+
+> BEGIN STRING
+手合わせイベントをここに配置
+> CONTEXT: Map033/64/Comment
+> CONTEXT: Map033/126/Comment
+> CONTEXT: Map033/231/Comment
+手合わせイベントをここに配置#NoTL
+> END STRING
+
+> BEGIN STRING
+ここにエンディングを記述する
+> CONTEXT: Map033/337/Comment
+ここにエンディングを記述する#NoTL
+> END STRING
+
+> BEGIN STRING
+※ここにシェリーとのイベント
+> CONTEXT: Map034/485/Comment
+> CONTEXT: Map036/533/Comment
+※ここにシェリーとのイベント#NoTL
+> END STRING
+
+> BEGIN STRING
+※誘惑イベントを入れてもいいかも
+※お金をゲットするため、そして実家の武具で武道大会を勝ち抜いて店
+の評判を上げるために、ミリーナは大会出場を決意する。
+「ごめんね、ウチの武具の評判を上げるための噛ませ犬になって♪」
+みたいな感じの対戦前台詞がいいかも。
+> CONTEXT: Map035/25/Comment
+※誘惑イベントを入れてもいいかも
+※お金をゲットするため、そして実家の武具で武道大会を勝ち抜いて店
+の評判を上げるために、ミリーナは大会出場を決意する。
+「ごめんね、ウチの武具の評判を上げるための噛ませ犬になって♪」
+みたいな感じの対戦前台詞がいいかも。#NoTL
+> END STRING
+
+> BEGIN STRING
+ここにエンディングを記述
+> CONTEXT: Map035/227/Comment
+> CONTEXT: Map036/939/Comment
+ここにエンディングを記述#NoTL
+> END STRING
+
+> BEGIN STRING
+どうすれば日数を経過させてイベントを進められるか
+考える
+> CONTEXT: Map035/840/Comment
+どうすれば日数を経過させてイベントを進められるか
+考える#NoTL
+> END STRING
+
+> BEGIN STRING
+これは予備
+> CONTEXT: Map035/1474/Comment
+これは予備#NoTL
+> END STRING
+
+> BEGIN STRING
+ミリーナに負けるとこの武器屋の店員にされてエンド
+ミリーナのサブクエストに、武器の素材を探すダンジョンでも追加する
+？
+それがあればお礼にこの武器屋で東区の高級武器を上回るものを安価で
+提供してもらえる
+> CONTEXT: Map035/1517/Comment
+ミリーナに負けるとこの武器屋の店員にされてエンド
+ミリーナのサブクエストに、武器の素材を探すダンジョンでも追加する
+？
+それがあればお礼にこの武器屋で東区の高級武器を上回るものを安価で
+提供してもらえる#NoTL
+> END STRING
+
+> BEGIN STRING
+エルブメルクを奪われていたなら、ここでもらえる
+> CONTEXT: Map036/1340/Comment
+エルブメルクを奪われていたなら、ここでもらえる#NoTL
+> END STRING
+
+> BEGIN STRING
+村長からの添え状を見せることで信用される？
+> CONTEXT: Map037/38/Comment
+村長からの添え状を見せることで信用される？#NoTL
+> END STRING
+
+> BEGIN STRING
+報酬は5000
+> CONTEXT: Map037/447/Comment
+報酬は5000#NoTL
+> END STRING
+
+> BEGIN STRING
+最初から挑戦できる
+> CONTEXT: Map037/573/Comment
+> CONTEXT: Map037/641/Comment
+> CONTEXT: Map037/1006/Comment
+> CONTEXT: Map037/1071/Comment
+> CONTEXT: Map037/1373/Comment
+> CONTEXT: Map037/1438/Comment
+最初から挑戦できる#NoTL
+> END STRING
+
+> BEGIN STRING
+川魚のダイントラウトと海魚のマディンフィッシュを獲ってくれば報酬
+をもらえる
+> CONTEXT: Map037/579/Comment
+川魚のダイントラウトと海魚のマディンフィッシュを獲ってくれば報酬
+をもらえる#NoTL
+> END STRING
+
+> BEGIN STRING
+<namepop 未達成>
+> CONTEXT: Map037/607/Comment
+> CONTEXT: Map037/674/Comment
+> CONTEXT: Map037/740/Comment
+> CONTEXT: Map037/973/Comment
+> CONTEXT: Map037/1038/Comment
+> CONTEXT: Map037/1267/Comment
+> CONTEXT: Map037/1405/Comment
+<namepop Not_Achieved>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 達成>
+> CONTEXT: Map037/611/Comment
+> CONTEXT: Map037/678/Comment
+> CONTEXT: Map037/744/Comment
+> CONTEXT: Map037/977/Comment
+> CONTEXT: Map037/1042/Comment
+> CONTEXT: Map037/1103/Comment
+> CONTEXT: Map037/1163/Comment
+> CONTEXT: Map037/1223/Comment
+> CONTEXT: Map037/1271/Comment
+> CONTEXT: Map037/1337/Comment
+> CONTEXT: Map037/1409/Comment
+> CONTEXT: Map037/1474/Comment
+<namepop Achievement>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 失敗>
+> CONTEXT: Map037/632/Comment
+> CONTEXT: Map037/699/Comment
+> CONTEXT: Map037/765/Comment
+> CONTEXT: Map037/769/Comment
+> CONTEXT: Map037/998/Comment
+> CONTEXT: Map037/1063/Comment
+> CONTEXT: Map037/1292/Comment
+> CONTEXT: Map037/1430/Comment
+<namepop Failure>#MTLed
+> END STRING
+
+> BEGIN STRING
+南西の森で二種類、北の高原でユキミダケを獲ってくる。
+> CONTEXT: Map037/647/Comment
+南西の森で二種類、北の高原でユキミダケを獲ってくる。#NoTL
+> END STRING
+
+> BEGIN STRING
+依頼を3つこなした後に出現する
+> CONTEXT: Map037/708/Comment
+依頼を3つこなした後に出現する#NoTL
+> END STRING
+
+> BEGIN STRING
+難度2の依頼を複数クリアした後に挑戦できるようになる。
+女兵士と戦うことになる。負けたら色々言われる。
+> CONTEXT: Map037/940/Comment
+難度2の依頼を複数クリアした後に挑戦できるようになる。
+女兵士と戦うことになる。負けたら色々言われる。#NoTL
+> END STRING
+
+> BEGIN STRING
+魔物パーツ任務1をクリアしていること
+武道大会が始まっていること、の2つが条件
+> CONTEXT: Map037/1130/Comment
+魔物パーツ任務1をクリアしていること
+武道大会が始まっていること、の2つが条件#NoTL
+> END STRING
+
+> BEGIN STRING
+武道大会開始直後から受けられるが、
+依頼完遂はプリムエンドを迎えた時のみ。
+というかプリムエンドを迎えるにはこの依頼を受けている必要がある。
+> CONTEXT: Map037/1189/Comment
+武道大会開始直後から受けられるが、
+依頼完遂はプリムエンドを迎えた時のみ。
+というかプリムエンドを迎えるにはこの依頼を受けている必要がある。#NoTL
+> END STRING
+
+> BEGIN STRING
+武道大会の決勝トーナメント開始から受けられるようになる。
+この任務を受け、村長に話を聞くと
+高原奥地へと入れるようになる。
+> CONTEXT: Map037/1233/Comment
+武道大会の決勝トーナメント開始から受けられるようになる。
+この任務を受け、村長に話を聞くと
+高原奥地へと入れるようになる。#NoTL
+> END STRING
+
+> BEGIN STRING
+準々決勝ベル戦に勝利後から挑戦できる
+> CONTEXT: Map037/1301/Comment
+準々決勝ベル戦に勝利後から挑戦できる#NoTL
+> END STRING
+
+> BEGIN STRING
+依頼
+上段左から
+・娘の練習相手
+・特別な魚
+・地下水道の調査
+・兵士の練習相手
+> CONTEXT: Map037/1513/Comment
+依頼
+上段左から
+・娘の練習相手
+・特別な魚
+・地下水道の調査
+・兵士の練習相手#NoTL
+> END STRING
+
+> BEGIN STRING
+・ミルクが欲しい
+・魔物退治：高原
+・カバンの盗難　※ボツ
+> CONTEXT: Map037/1519/Comment
+・ミルクが欲しい
+・魔物退治：高原
+・カバンの盗難　※ボツ#NoTL
+> END STRING
+
+> BEGIN STRING
+下段
+・魔物退治：街道
+・魔物の体の一部を１
+・２
+・３種のキノコ収集
+・魔物退治：森
+> CONTEXT: Map037/1522/Comment
+下段
+・魔物退治：街道
+・魔物の体の一部を１
+・２
+・３種のキノコ収集
+・魔物退治：森#NoTL
+> END STRING
+
+> BEGIN STRING
+・養子探し
+> CONTEXT: Map037/1528/Comment
+・養子探し#NoTL
+> END STRING
+
+> BEGIN STRING
+ディアーナエンドをここに記述
+> CONTEXT: Map042/437/Comment
+ディアーナエンドをここに記述#NoTL
+> END STRING
+
+> BEGIN STRING
+ディアーナと面識があり、かつ勝っている
+> CONTEXT: Map043/2682/Comment
+> CONTEXT: Map043/10985/Comment
+> CONTEXT: Map152/2531/Comment
+ディアーナと面識があり、かつ勝っている#NoTL
+> END STRING
+
+> BEGIN STRING
+ディアーナと面識があり、かつ負けている
+> CONTEXT: Map043/2712/Comment
+> CONTEXT: Map043/11015/Comment
+> CONTEXT: Map152/2561/Comment
+ディアーナと面識があり、かつ負けている#NoTL
+> END STRING
+
+> BEGIN STRING
+ディアーナと面識がある場合の共通部分をここに入れる
+> CONTEXT: Map043/2743/Comment
+> CONTEXT: Map043/11046/Comment
+> CONTEXT: Map152/2592/Comment
+ディアーナと面識がある場合の共通部分をここに入れる#NoTL
+> END STRING
+
+> BEGIN STRING
+ディアーナと面識なし
+> CONTEXT: Map043/2746/Comment
+> CONTEXT: Map043/11049/Comment
+> CONTEXT: Map152/2595/Comment
+ディアーナと面識なし#NoTL
+> END STRING
+
+> BEGIN STRING
+※絶対に勝てない
+> CONTEXT: Map043/5532/Comment
+> CONTEXT: Map152/4440/Comment
+※絶対に勝てない#NoTL
+> END STRING
+
+> BEGIN STRING
+※太ももコキか手コキか選択させられる
+> CONTEXT: Map043/6286/Comment
+> CONTEXT: Map043/6778/Comment
+> CONTEXT: Map152/5154/Comment
+> CONTEXT: Map152/5623/Comment
+※太ももコキか手コキか選択させられる#NoTL
+> END STRING
+
+> BEGIN STRING
+氷の剣取られてない
+> CONTEXT: Map043/6646/Comment
+> CONTEXT: Map152/5492/Comment
+氷の剣取られてない#NoTL
+> END STRING
+
+> BEGIN STRING
+王女が挨拶に乱入して、勝ったら相手を好きにできるという条件を提案
+し、観客たちもノリノリで受け入れる
+> CONTEXT: Map043/7933/Comment
+> CONTEXT: Map043/9776/Comment
+> CONTEXT: Map152/7074/Comment
+王女が挨拶に乱入して、勝ったら相手を好きにできるという条件を提案
+し、観客たちもノリノリで受け入れる#NoTL
+> END STRING
+
+> BEGIN STRING
+どっちとも知り合いでない場合のイベントをここに最後まで貼る
+> CONTEXT: Map043/8647/Comment
+どっちとも知り合いでない場合のイベントをここに最後まで貼る#NoTL
+> END STRING
+
+> BEGIN STRING
+プリム勝ち。
+武者修行でプリムのレベルが一定以上になっており、
+かつミッションを成功させた場合にのみ
+この結果になる。
+> CONTEXT: Map043/8733/Comment
+プリム勝ち。
+武者修行でプリムのレベルが一定以上になっており、
+かつミッションを成功させた場合にのみ
+この結果になる。#NoTL
+> END STRING
+
+> BEGIN STRING
+ディアーナ勝ち。
+ディアーナとの稽古はこの試合の勝敗には影響しない。
+稽古イベントは主人公対ディアーナの勝負において
+ディアーナの行動の変化として現れる。
+主人公が勝っていたらディアーナが誘惑を使ってくる。
+> CONTEXT: Map043/8801/Comment
+ディアーナ勝ち。
+ディアーナとの稽古はこの試合の勝敗には影響しない。
+稽古イベントは主人公対ディアーナの勝負において
+ディアーナの行動の変化として現れる。
+主人公が勝っていたらディアーナが誘惑を使ってくる。#NoTL
+> END STRING
+
+> BEGIN STRING
+プリムとの面識判定、ディアーナとの面識判定の順にイベントを処理す
+る。
+複雑だが分岐はちゃんと作る。
+> CONTEXT: Map043/8834/Comment
+プリムとの面識判定、ディアーナとの面識判定の順にイベントを処理す
+る。
+複雑だが分岐はちゃんと作る。#NoTL
+> END STRING
+
+> BEGIN STRING
+※相手が倒れる
+> CONTEXT: Map043/9465/Comment
+※相手が倒れる#NoTL
+> END STRING
+
+> BEGIN STRING
+ここで分ける
+> CONTEXT: Map043/10168/Comment
+> CONTEXT: Map152/7466/Comment
+ここで分ける#NoTL
+> END STRING
+
+> BEGIN STRING
+ディアーナが誘惑してくる場合はこれ
+> CONTEXT: Map043/10326/Comment
+ディアーナが誘惑してくる場合はこれ#NoTL
+> END STRING
+
+> BEGIN STRING
+エレメンタルボム
+> CONTEXT: Map050/32/Comment
+エレメンタルボム#NoTL
+> END STRING
+
+> BEGIN STRING
+ウィンドシールド
+> CONTEXT: Map050/222/Comment
+ウィンドシールド#NoTL
+> END STRING
+
+> BEGIN STRING
+マジックバリア
+> CONTEXT: Map050/412/Comment
+マジックバリア#NoTL
+> END STRING
+
+> BEGIN STRING
+リジェネ
+> CONTEXT: Map050/602/Comment
+リジェネ#NoTL
+> END STRING
+
+> BEGIN STRING
+※ここでバニーの胸のアップを表示
+> CONTEXT: Map057/943/Comment
+※ここでバニーの胸のアップを表示#NoTL
+> END STRING
+
+> BEGIN STRING
+※係員はバニーが快楽責めで気絶させている
+> CONTEXT: Map057/976/Comment
+※係員はバニーが快楽責めで気絶させている#NoTL
+> END STRING
+
+> BEGIN STRING
+ここは今まで戦った女キャラと
+また戦える場所である
+> CONTEXT: Map065/242/Comment
+> CONTEXT: Map147/140/Comment
+ここは今まで戦った女キャラと
+また戦える場所である#NoTL
+> END STRING
+
+> BEGIN STRING
+痴漢シチュ。触ってると叩き出される
+> CONTEXT: Map065/252/Comment
+> CONTEXT: Map147/149/Comment
+痴漢シチュ。触ってると叩き出される#NoTL
+> END STRING
+
+> BEGIN STRING
+参加費返還含め合計１０００もらえる
+> CONTEXT: Map065/343/Comment
+> CONTEXT: Map065/1163/Comment
+> CONTEXT: Map147/5695/Comment
+参加費返還含め合計１０００もらえる#NoTL
+> END STRING
+
+> BEGIN STRING
+報酬２０００
+> CONTEXT: Map065/362/Comment
+報酬２０００#NoTL
+> END STRING
+
+> BEGIN STRING
+５０００
+> CONTEXT: Map065/382/Comment
+> CONTEXT: Map147/5730/Comment
+５０００#NoTL
+> END STRING
+
+> BEGIN STRING
+ヘアチャームで敗北した場合を記述
+> CONTEXT: Map065/462/Comment
+> CONTEXT: Map116/866/Comment
+ヘアチャームで敗北した場合を記述#NoTL
+> END STRING
+
+> BEGIN STRING
+普通に敗北した場合を記述
+> CONTEXT: Map065/484/Comment
+> CONTEXT: Map115/382/Comment
+> CONTEXT: Map116/888/Comment
+> CONTEXT: Map116/972/Comment
+> CONTEXT: Map116/1082/Comment
+普通に敗北した場合を記述#NoTL
+> END STRING
+
+> BEGIN STRING
+完敗した場合、お金を奪われる屈辱を演出できるよう
+追い打ち台詞を女の子に言わせたい
+> CONTEXT: Map065/601/Comment
+完敗した場合、お金を奪われる屈辱を演出できるよう
+追い打ち台詞を女の子に言わせたい#NoTL
+> END STRING
+
+> BEGIN STRING
+報酬1500
+> CONTEXT: Map065/1183/Comment
+報酬1500#NoTL
+> END STRING
+
+> BEGIN STRING
+報酬3000
+> CONTEXT: Map065/1209/Comment
+報酬3000#NoTL
+> END STRING
+
+> BEGIN STRING
+ここに盗賊団が囚われている？
+出してくれるならおっぱいを見せてあげると言われ、ハイと選択すると
+彼女たちを出してやる上でおっぱいを見せてもらえるクエストが発生す
+る。牢番と交渉？
+> CONTEXT: Map066/69/Comment
+ここに盗賊団が囚われている？
+出してくれるならおっぱいを見せてあげると言われ、ハイと選択すると
+彼女たちを出してやる上でおっぱいを見せてもらえるクエストが発生す
+る。牢番と交渉？#NoTL
+> END STRING
+
+> BEGIN STRING
+この森はエルミア王都南西に広がっている。
+エルミアの南側と西側にそれぞれ入口があり、中で繋がっている。
+> CONTEXT: Map069/7/Comment
+この森はエルミア王都南西に広がっている。
+エルミアの南側と西側にそれぞれ入口があり、中で繋がっている。#NoTL
+> END STRING
+
+> BEGIN STRING
+ここの入口から南ブロックへと行ける。
+> CONTEXT: Map069/34/Comment
+ここの入口から南ブロックへと行ける。#NoTL
+> END STRING
+
+> BEGIN STRING
+キノコ集めクエストでも導入する？
+依頼者は学園でキノコを使った研究をしている人
+シラタマタケ、エルミアシメジ、ユキミダケ
+> CONTEXT: Map070/7/Comment
+キノコ集めクエストでも導入する？
+依頼者は学園でキノコを使った研究をしている人
+シラタマタケ、エルミアシメジ、ユキミダケ#NoTL
+> END STRING
+
+> BEGIN STRING
+ここに雪ん子を配置
+> CONTEXT: Map076/114/Comment
+ここに雪ん子を配置#NoTL
+> END STRING
+
+> BEGIN STRING
+三人組を大会終了までに救出していなかった場合
+エンディングは見られない
+> CONTEXT: Map083/44/Comment
+三人組を大会終了までに救出していなかった場合
+エンディングは見られない#NoTL
+> END STRING
+
+> BEGIN STRING
+エンディングをここに記述
+> CONTEXT: Map083/55/Comment
+エンディングをここに記述#NoTL
+> END STRING
+
+> BEGIN STRING
+2回道具屋ミッションをこなすと、
+それ以後は珍しいドロップアイテムを
+いい薬と交換してくれるようになる。
+二度目のミッションは使用回数無限のワープアイテムを特典とする
+> CONTEXT: Map094/145/Comment
+2回道具屋ミッションをこなすと、
+それ以後は珍しいドロップアイテムを
+いい薬と交換してくれるようになる。
+二度目のミッションは使用回数無限のワープアイテムを特典とする#NoTL
+> END STRING
+
+> BEGIN STRING
+前回勝って＋３以上のときにここのセリフを表示
+> CONTEXT: Map095/298/Comment
+前回勝って＋３以上のときにここのセリフを表示#NoTL
+> END STRING
+
+> BEGIN STRING
+前回勝ったが＋２までの時にここのセリフを表示する
+> CONTEXT: Map095/305/Comment
+前回勝ったが＋２までの時にここのセリフを表示する#NoTL
+> END STRING
+
+> BEGIN STRING
+ここには何も入れない
+> CONTEXT: Map095/316/Comment
+> CONTEXT: Map095/340/Comment
+> CONTEXT: Map095/385/Comment
+> CONTEXT: Map095/454/Comment
+ここには何も入れない#NoTL
+> END STRING
+
+> BEGIN STRING
+前回負けた上、勝敗数がー３以下のときにこのセリフを表示
+> CONTEXT: Map095/321/Comment
+前回負けた上、勝敗数がー３以下のときにこのセリフを表示#NoTL
+> END STRING
+
+> BEGIN STRING
+前回負けたが、－２までのときにここのセリフを表示する
+> CONTEXT: Map095/329/Comment
+前回負けたが、－２までのときにここのセリフを表示する#NoTL
+> END STRING
+
+> BEGIN STRING
+＋３以上のときにここのセリフを表示
+> CONTEXT: Map095/359/Comment
+＋３以上のときにここのセリフを表示#NoTL
+> END STRING
+
+> BEGIN STRING
+＋２までの時にここのセリフを表示する
+> CONTEXT: Map095/366/Comment
+＋２までの時にここのセリフを表示する#NoTL
+> END STRING
+
+> BEGIN STRING
+勝敗数がー３以下のときにこのセリフを表示
+> CONTEXT: Map095/415/Comment
+勝敗数がー３以下のときにこのセリフを表示#NoTL
+> END STRING
+
+> BEGIN STRING
+－２までのときにここのセリフを表示する
+> CONTEXT: Map095/432/Comment
+－２までのときにここのセリフを表示する#NoTL
+> END STRING
+
+> BEGIN STRING
+落下地点
+> CONTEXT: Map096/5/Comment
+落下地点#NoTL
+> END STRING
+
+> BEGIN STRING
+ボスモンスター配置箇所
+> CONTEXT: Map097/186/Comment
+ボスモンスター配置箇所#NoTL
+> END STRING
+
+> BEGIN STRING
+このへんにロリ2人組の罠イベントを仕込む。
+ディアーナと稽古している＆プリムのイベントを完遂している
+を両方満たした場合のみ、ロリ2人が協力してくれる。
+> CONTEXT: Map105/73/Comment
+このへんにロリ2人組の罠イベントを仕込む。
+ディアーナと稽古している＆プリムのイベントを完遂している
+を両方満たした場合のみ、ロリ2人が協力してくれる。#NoTL
+> END STRING
+
+> BEGIN STRING
+プリムのレベルが一定以上の場合は主人公より強くなっている。
+その場合、会話の内容を条件分岐で変更させる。
+> CONTEXT: Map110/57/Comment
+プリムのレベルが一定以上の場合は主人公より強くなっている。
+その場合、会話の内容を条件分岐で変更させる。#NoTL
+> END STRING
+
+> BEGIN STRING
+強めのボスをこちらに配置
+> CONTEXT: Map110/84/Comment
+> CONTEXT: Map110/358/Comment
+強めのボスをこちらに配置#NoTL
+> END STRING
+
+> BEGIN STRING
+3連敗シーン
+> CONTEXT: Map111/294/Comment
+3連敗シーン#NoTL
+> END STRING
+
+> BEGIN STRING
+1勝2敗シーン
+ラナを含む2人に負け、失敗扱い
+> CONTEXT: Map111/397/Comment
+1勝2敗シーン
+ラナを含む2人に負け、失敗扱い#NoTL
+> END STRING
+
+> BEGIN STRING
+2勝1敗、ラナにのみ負けた場合のシーン。
+成功扱い
+> CONTEXT: Map111/468/Comment
+2勝1敗、ラナにのみ負けた場合のシーン。
+成功扱い#NoTL
+> END STRING
+
+> BEGIN STRING
+<namepop 王都南口>
+> CONTEXT: Map112/30/Comment
+<namepop King's_Cape_South_Exit>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 氷晶洞窟>
+> CONTEXT: Map112/67/Comment
+<namepop Ice_Cave>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 王都西口>
+> CONTEXT: Map112/86/Comment
+<namepop King's_capital_West>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 闘技場地下>
+> CONTEXT: Map112/98/Comment
+<namepop Aerobatic_ground_underground>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 森・封印区画>
+> CONTEXT: Map112/110/Comment
+<namepop Forest_/_sealed_area>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 森　西側入口>
+> CONTEXT: Map112/125/Comment
+<namepop West_entrance_of_woods>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 森　東側入口>
+> CONTEXT: Map112/174/Comment
+<namepop Entrance_of_eastern_side_of_forest>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop アルミナの部屋>
+> CONTEXT: Map112/207/Comment
+<namepop Alumina_room>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop サキュバスの巣>
+> CONTEXT: Map112/219/Comment
+<namepop Succubus_nest>#MTLed
+> END STRING
+
+> BEGIN STRING
+この最深部はベックフォード家の地下
+> CONTEXT: Map113/206/Comment
+この最深部はベックフォード家の地下#NoTL
+> END STRING
+
+> BEGIN STRING
+マリオネットで敗北した場合を記述
+> CONTEXT: Map115/366/Comment
+> CONTEXT: Map116/956/Comment
+> CONTEXT: Map116/1066/Comment
+マリオネットで敗北した場合を記述#NoTL
+> END STRING
+
+> BEGIN STRING
+プリムかディアーナの幻影と戦う
+> CONTEXT: Map122/27/Comment
+プリムかディアーナの幻影と戦う#NoTL
+> END STRING
+
+> BEGIN STRING
+バニーガールと戦う
+> CONTEXT: Map123/5/Comment
+バニーガールと戦う#NoTL
+> END STRING
+
+> BEGIN STRING
+ミリーナと戦う
+> CONTEXT: Map124/5/Comment
+ミリーナと戦う#NoTL
+> END STRING
+
+> BEGIN STRING
+兵士三人組とのバトル
+勝てば玉座裏のVIP通路の鍵を手に入れることができる
+> CONTEXT: Map130/179/Comment
+兵士三人組とのバトル
+勝てば玉座裏のVIP通路の鍵を手に入れることができる#NoTL
+> END STRING
+
+> BEGIN STRING
+稽古失敗時
+> CONTEXT: Map130/365/Comment
+> CONTEXT: Map130/1302/Comment
+稽古失敗時#NoTL
+> END STRING
+
+> BEGIN STRING
+共通部分？
+> CONTEXT: Map130/468/Comment
+> CONTEXT: Map130/850/Comment
+> CONTEXT: Map130/1405/Comment
+> CONTEXT: Map130/1786/Comment
+共通部分？#NoTL
+> END STRING
+
+> BEGIN STRING
+ここでMP負けの分岐をつくる。
+> CONTEXT: Map130/583/Comment
+ここでMP負けの分岐をつくる。#NoTL
+> END STRING
+
+> BEGIN STRING
+ミリーナとセックスした　がオンの状態でエンディング発生フラグ成立
+> CONTEXT: Map142/21/Comment
+ミリーナとセックスした　がオンの状態でエンディング発生フラグ成立#NoTL
+> END STRING
+
+> BEGIN STRING
+前回勝ったかどうかで条件分岐して台詞を変える
+> CONTEXT: Map147/196/Comment
+> CONTEXT: Map147/760/Comment
+前回勝ったかどうかで条件分岐して台詞を変える#NoTL
+> END STRING
+
+> BEGIN STRING
+精神敗北をここに書く
+> CONTEXT: Map147/840/Comment
+精神敗北をここに書く#NoTL
+> END STRING
+
+> BEGIN STRING
+リネッタ戦は優勝後のみ
+> CONTEXT: Map147/1154/Comment
+リネッタ戦は優勝後のみ#NoTL
+> END STRING
+
+> BEGIN STRING
+プリムは2回戦で当たった場合のみ、その後に出現
+> CONTEXT: Map147/1427/Comment
+> CONTEXT: Map147/1651/Comment
+プリムは2回戦で当たった場合のみ、その後に出現#NoTL
+> END STRING
+
+> BEGIN STRING
+体力負けの場合
+> CONTEXT: Map147/2240/Comment
+> CONTEXT: Map147/7443/Comment
+体力負けの場合#NoTL
+> END STRING
+
+> BEGIN STRING
+このキャラは３００をクリアすると個別たいせんできる
+そのため初対面時のテキストはここにはない
+> CONTEXT: Map147/3182/Comment
+このキャラは３００をクリアすると個別たいせんできる
+そのため初対面時のテキストはここにはない#NoTL
+> END STRING
+
+> BEGIN STRING
+バニーの口から下のアップを表示
+> CONTEXT: Map147/3970/Comment
+バニーの口から下のアップを表示#NoTL
+> END STRING
+
+> BEGIN STRING
+共通エロ
+> CONTEXT: Map147/4012/Comment
+共通エロ#NoTL
+> END STRING
+
+> BEGIN STRING
+前回勝利、MP負け
+> CONTEXT: Map147/4902/Comment
+前回勝利、MP負け#NoTL
+> END STRING
+
+> BEGIN STRING
+前回敗北、MP負け
+> CONTEXT: Map147/4947/Comment
+前回敗北、MP負け#NoTL
+> END STRING
+
+> BEGIN STRING
+初対面、MP負け
+> CONTEXT: Map147/5031/Comment
+初対面、MP負け#NoTL
+> END STRING
+
+> BEGIN STRING
+この変数操作と条件分岐はセットで使う
+> CONTEXT: Map147/5084/Comment
+この変数操作と条件分岐はセットで使う#NoTL
+> END STRING
+
+> BEGIN STRING
+２０００
+> CONTEXT: Map147/5712/Comment
+２０００#NoTL
+> END STRING
+
+> BEGIN STRING
+800は４戦
+> CONTEXT: Map147/5786/Comment
+800は４戦#NoTL
+> END STRING
+
+> BEGIN STRING
+ここに共通エロシーンを入れる
+> CONTEXT: Map147/7503/Comment
+ここに共通エロシーンを入れる#NoTL
+> END STRING
+
+> BEGIN STRING
+<namepop 大会>
+> CONTEXT: Map149/361/Comment
+> CONTEXT: Map149/374/Comment
+> CONTEXT: Map149/413/Comment
+> CONTEXT: Map149/682/Comment
+> CONTEXT: Map149/1169/Comment
+> CONTEXT: Map149/1527/Comment
+> CONTEXT: Map149/1633/Comment
+<namepop tournament>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 地下水道>
+> CONTEXT: Map149/389/Comment
+<namepop Underground_water_service>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 洞窟の三人組>
+> CONTEXT: Map149/470/Comment
+<namepop Cave_threesome>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 大会の三人組>
+> CONTEXT: Map149/601/Comment
+<namepop The_tournament's_threesome>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 女兵士三人組・最終章>
+> CONTEXT: Map149/802/Comment
+<namepop Female_soldier_threesome_·_final_chapter>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 地下>
+> CONTEXT: Map149/898/Comment
+<namepop underground>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 水道>
+> CONTEXT: Map149/934/Comment
+<namepop Water_supply>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 洞窟>
+> CONTEXT: Map149/1113/Comment
+<namepop cave>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop 出会い>
+> CONTEXT: Map149/1451/Comment
+> CONTEXT: Map149/1470/Comment
+<namepop encounter>#MTLed
+> END STRING
+
+> BEGIN STRING
+"OK:LNX11a_XPスタイルバトル ver1.14"
+> CONTEXT: Scripts/XPスタイル/18:3
+"OK:LNX11a_XPスタイルバトル ver1.14"#NoTL
+> END STRING
+
+> BEGIN STRING
+/(?:バトラーグラフィック|battler_graphic)\\s*=\\s*"([^"]*)"/i
+> CONTEXT: Scripts/XPスタイル/25:15
+/(?:バトラーグラフィック|battler_graphic)\\s*=\\s*"([^"]*)"/i#NoTL
+> END STRING
+
+> BEGIN STRING
+/(?:ヘルプ説明|short_description)\\s*=\\s*"([^"]*)"/i
+> CONTEXT: Scripts/XPスタイル/29:24
+/(?:ヘルプ説明|short_description)\\s*=\\s*"([^"]*)"/i#NoTL
+> END STRING
+
+> BEGIN STRING
+/(?:ポップアップ表示名|display_name)\\s*=\\s*"([^"]*)"/i
+> CONTEXT: Scripts/XPスタイル/41:21
+/(?:ポップアップ表示名|display_name)\\s*=\\s*"([^"]*)"/i#NoTL
+> END STRING
+
+> BEGIN STRING
+/(?:付加ポップアップ表示名|add_display_name)\\s*=\\s*"([^"]*)"/i
+> CONTEXT: Scripts/XPスタイル/65:2
+/(?:付加ポップアップ表示名|add_display_name)\\s*=\\s*"([^"]*)"/i#NoTL
+> END STRING
+
+> BEGIN STRING
+/(?:解除ポップアップ表示名|remove_display_name)\\s*=\\s*"([^"]*)"/i
+> CONTEXT: Scripts/XPスタイル/68:2
+/(?:解除ポップアップ表示名|remove_display_name)\\s*=\\s*"([^"]*)"/i#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11a:バトラーグラフィックを変更しました:ID\#{id} \#{filename}"
+> CONTEXT: Scripts/XPスタイル/159:7
+"LNX11a:バトラーグラフィックを変更しました:ID\#{id} \#{filename}"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11a:バトラーグラフィック指定の引数が正しくありません。"
+> CONTEXT: Scripts/XPスタイル/162:19
+"LNX11a:バトラーグラフィック指定の引数が正しくありません。"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11a:バトラーグラフィックの指定は行われませんでした。"
+> CONTEXT: Scripts/XPスタイル/163:19
+"LNX11a:バトラーグラフィックの指定は行われませんでした。"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11a:任意のポップアップの生成に失敗しました。バトラー指定が"
+> CONTEXT: Scripts/XPスタイル/178:9
+"LNX11a:任意のポップアップの生成に失敗しました。バトラー指定が"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11a:間違っているか、バトラーが存在していない可能性があります。"
+> CONTEXT: Scripts/XPスタイル/179:9
+"LNX11a:間違っているか、バトラーが存在していない可能性があります。"#NoTL
+> END STRING
+
+> BEGIN STRING
+" "
+> CONTEXT: Scripts/XPスタイル/281:57
+> CONTEXT: Scripts/XPスタイルコンフィグ/115:59
+" "#NoTL
+> END STRING
+
+> BEGIN STRING
+"Up4"
+> CONTEXT: Scripts/XPスタイル/289:29
+> CONTEXT: Scripts/XPスタイルコンフィグ/153:29
+"Up4"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Item3"
+> CONTEXT: Scripts/XPスタイル/290:29
+> CONTEXT: Scripts/XPスタイルコンフィグ/157:29
+"Item3"#NoTL
+> END STRING
+
+> BEGIN STRING
+""
+> CONTEXT: Scripts/XPスタイル/315:23
+> CONTEXT: Scripts/XPスタイル/415:23
+> CONTEXT: Scripts/XPスタイル/416:23
+> CONTEXT: Scripts/XPスタイル/417:23
+> CONTEXT: Scripts/XPスタイル/418:23
+> CONTEXT: Scripts/XPスタイル/510:14
+> CONTEXT: Scripts/XPスタイル/2487:42
+> CONTEXT: Scripts/XPスタイル/2562:36
+> CONTEXT: Scripts/XPスタイル/3371:29
+> CONTEXT: Scripts/XPスタイル/3447:23
+> CONTEXT: Scripts/XPスタイル/4789:28
+> CONTEXT: Scripts/XPスタイルコンフィグ/264:23
+> CONTEXT: Scripts/XPスタイルコンフィグ/334:23
+> CONTEXT: Scripts/XPスタイルコンフィグ/335:23
+> CONTEXT: Scripts/XPスタイルコンフィグ/337:23
+> CONTEXT: Scripts/XPスタイルコンフィグ/338:23
+> CONTEXT: Scripts/ステータス画面リフォーム/373:13
+> CONTEXT: Scripts/スピカ/42:15
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/459:24
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/544:33
+> CONTEXT: Scripts/マルチスキル/131:7
+> CONTEXT: Scripts/マルチスキル/145:7
+> CONTEXT: Scripts/マルチスキル/156:7
+> CONTEXT: Scripts/戦闘中変数表示/429:41
+> CONTEXT: Scripts/戦闘中変数表示/446:41
+> CONTEXT: Scripts/戦闘中変数表示/467:71
+""#NoTL
+> END STRING
+
+> BEGIN STRING
+"Arial Black"
+> CONTEXT: Scripts/XPスタイル/331:21
+> CONTEXT: Scripts/XPスタイル/332:21
+> CONTEXT: Scripts/XPスタイルコンフィグ/325:21
+> CONTEXT: Scripts/XPスタイルコンフィグ/328:21
+"Arial Black"#NoTL
+> END STRING
+
+> BEGIN STRING
+"VL Gothic"
+> CONTEXT: Scripts/XPスタイル/331:36
+> CONTEXT: Scripts/XPスタイル/332:36
+> CONTEXT: Scripts/XPスタイル/333:21
+> CONTEXT: Scripts/XPスタイルコンフィグ/325:36
+> CONTEXT: Scripts/XPスタイルコンフィグ/328:36
+> CONTEXT: Scripts/XPスタイルコンフィグ/329:21
+> CONTEXT: Scripts/スピカ/72:17
+"VL Gothic"#NoTL
+> END STRING
+
+> BEGIN STRING
+"CRITICAL"
+> CONTEXT: Scripts/XPスタイル/339:20
+> CONTEXT: Scripts/XPスタイルコンフィグ/363:20
+"CRITICAL"#NoTL
+> END STRING
+
+> BEGIN STRING
+"WEAKNESS"
+> CONTEXT: Scripts/XPスタイル/339:53
+> CONTEXT: Scripts/XPスタイルコンフィグ/364:20
+"WEAKNESS"#NoTL
+> END STRING
+
+> BEGIN STRING
+"RESIST"
+> CONTEXT: Scripts/XPスタイル/340:20
+> CONTEXT: Scripts/XPスタイルコンフィグ/365:20
+"RESIST"#NoTL
+> END STRING
+
+> BEGIN STRING
+"\\mp"
+> CONTEXT: Scripts/XPスタイル/340:52
+> CONTEXT: Scripts/XPスタイル/1331:15
+> CONTEXT: Scripts/XPスタイル/1331:55
+> CONTEXT: Scripts/XPスタイルコンフィグ/366:19
+"\\mp"#NoTL
+> END STRING
+
+> BEGIN STRING
+"\\mp+"
+> CONTEXT: Scripts/XPスタイル/341:19
+> CONTEXT: Scripts/XPスタイルコンフィグ/367:19
+"\\mp+"#NoTL
+> END STRING
+
+> BEGIN STRING
+"\\mp-"
+> CONTEXT: Scripts/XPスタイル/341:52
+> CONTEXT: Scripts/XPスタイルコンフィグ/368:19
+"\\mp-"#NoTL
+> END STRING
+
+> BEGIN STRING
+"\\tp+"
+> CONTEXT: Scripts/XPスタイル/342:19
+> CONTEXT: Scripts/XPスタイルコンフィグ/369:19
+"\\tp+"#NoTL
+> END STRING
+
+> BEGIN STRING
+"\\tp-"
+> CONTEXT: Scripts/XPスタイル/342:52
+> CONTEXT: Scripts/XPスタイルコンフィグ/370:19
+"\\tp-"#NoTL
+> END STRING
+
+> BEGIN STRING
+"+%s"
+> CONTEXT: Scripts/XPスタイル/344:19
+> CONTEXT: Scripts/XPスタイルコンフィグ/375:19
+"+%s"#NoTL
+> END STRING
+
+> BEGIN STRING
+"-%s"
+> CONTEXT: Scripts/XPスタイル/344:47
+> CONTEXT: Scripts/XPスタイルコンフィグ/376:19
+"-%s"#NoTL
+> END STRING
+
+> BEGIN STRING
+"%s UP"
+> CONTEXT: Scripts/XPスタイル/345:19
+> CONTEXT: Scripts/XPスタイルコンフィグ/377:19
+"%s UP"#NoTL
+> END STRING
+
+> BEGIN STRING
+"%s DOWN"
+> CONTEXT: Scripts/XPスタイル/345:47
+> CONTEXT: Scripts/XPスタイルコンフィグ/378:19
+"%s DOWN"#NoTL
+> END STRING
+
+> BEGIN STRING
+"-%s Buff"
+> CONTEXT: Scripts/XPスタイル/346:19
+> CONTEXT: Scripts/XPスタイルコンフィグ/379:19
+"-%s Buff"#NoTL
+> END STRING
+
+> BEGIN STRING
+"MISS!"
+> CONTEXT: Scripts/XPスタイル/348:19
+> CONTEXT: Scripts/XPスタイルコンフィグ/383:19
+"MISS!"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Counter"
+> CONTEXT: Scripts/XPスタイル/348:49
+> CONTEXT: Scripts/XPスタイルコンフィグ/384:19
+"Counter"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Reflection"
+> CONTEXT: Scripts/XPスタイル/349:19
+> CONTEXT: Scripts/XPスタイルコンフィグ/385:19
+"Reflection"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Substitute"
+> CONTEXT: Scripts/XPスタイル/349:49
+> CONTEXT: Scripts/XPスタイルコンフィグ/386:19
+"Substitute"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LEVELUP!"
+> CONTEXT: Scripts/XPスタイル/350:19
+> CONTEXT: Scripts/XPスタイルコンフィグ/387:19
+"LEVELUP!"#NoTL
+> END STRING
+
+> BEGIN STRING
+"MAX\\hp"
+> CONTEXT: Scripts/XPスタイル/352:2
+> CONTEXT: Scripts/XPスタイルコンフィグ/392:2
+"MAX\\hp"#NoTL
+> END STRING
+
+> BEGIN STRING
+"MAX\\mp"
+> CONTEXT: Scripts/XPスタイル/352:11
+> CONTEXT: Scripts/XPスタイルコンフィグ/393:2
+"MAX\\mp"#NoTL
+> END STRING
+
+> BEGIN STRING
+"ATK"
+> CONTEXT: Scripts/XPスタイル/352:21
+> CONTEXT: Scripts/XPスタイルコンフィグ/394:3
+"ATK"#NoTL
+> END STRING
+
+> BEGIN STRING
+"DEF"
+> CONTEXT: Scripts/XPスタイル/352:27
+> CONTEXT: Scripts/XPスタイルコンフィグ/395:3
+"DEF"#NoTL
+> END STRING
+
+> BEGIN STRING
+"MATK"
+> CONTEXT: Scripts/XPスタイル/352:33
+> CONTEXT: Scripts/XPスタイルコンフィグ/396:3
+"MATK"#NoTL
+> END STRING
+
+> BEGIN STRING
+"MDEF"
+> CONTEXT: Scripts/XPスタイル/352:40
+> CONTEXT: Scripts/XPスタイルコンフィグ/397:3
+"MDEF"#NoTL
+> END STRING
+
+> BEGIN STRING
+"AGI"
+> CONTEXT: Scripts/XPスタイル/352:47
+> CONTEXT: Scripts/XPスタイルコンフィグ/398:3
+"AGI"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LUCK"
+> CONTEXT: Scripts/XPスタイル/352:53
+> CONTEXT: Scripts/XPスタイルコンフィグ/399:3
+"LUCK"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11a:数字ビットマップのキャッシュを作成しました。"
+> CONTEXT: Scripts/XPスタイル/1164:7
+"LNX11a:数字ビットマップのキャッシュを作成しました。"#NoTL
+> END STRING
+
+> BEGIN STRING
+"\\hp"
+> CONTEXT: Scripts/XPスタイル/1330:15
+> CONTEXT: Scripts/XPスタイル/1330:55
+"\\hp"#NoTL
+> END STRING
+
+> BEGIN STRING
+"\\tp"
+> CONTEXT: Scripts/XPスタイル/1332:15
+> CONTEXT: Scripts/XPスタイル/1332:55
+"\\tp"#NoTL
+> END STRING
+
+> BEGIN STRING
+"_critcolor"
+> CONTEXT: Scripts/XPスタイル/1412:15
+"_critcolor"#NoTL
+> END STRING
+
+> BEGIN STRING
+"_damage"
+> CONTEXT: Scripts/XPスタイル/1418:55
+"_damage"#NoTL
+> END STRING
+
+> BEGIN STRING
+"_recovery"
+> CONTEXT: Scripts/XPスタイル/1419:55
+"_recovery"#NoTL
+> END STRING
+
+> BEGIN STRING
+"popup"
+> CONTEXT: Scripts/XPスタイル/1423:18
+"popup"#NoTL
+> END STRING
+
+> BEGIN STRING
+"_large"
+> CONTEXT: Scripts/XPスタイル/1423:53
+"_large"#NoTL
+> END STRING
+
+> BEGIN STRING
+"_small"
+> CONTEXT: Scripts/XPスタイル/1423:64
+"_small"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11a:カーソルビットマップを作成しました。"
+> CONTEXT: Scripts/XPスタイル/1831:9
+"LNX11a:カーソルビットマップを作成しました。"#NoTL
+> END STRING
+
+> BEGIN STRING
+'$'
+> CONTEXT: Scripts/XPスタイル/3405:30
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/552:10
+'$'#NoTL
+> END STRING
+
+> BEGIN STRING
+'0-9'
+> CONTEXT: Scripts/XPスタイル/4814:28
+'0-9'#NoTL
+> END STRING
+
+> BEGIN STRING
+'０-９'
+> CONTEXT: Scripts/XPスタイル/4814:34
+'０-９'#NoTL
+> END STRING
+
+> BEGIN STRING
+"味方全体"
+> CONTEXT: Scripts/XPスタイル/4823:32
+"味方全体"#NoTL
+> END STRING
+
+> BEGIN STRING
+"敵全体"
+> CONTEXT: Scripts/XPスタイル/4825:32
+"敵全体"#NoTL
+> END STRING
+
+> BEGIN STRING
+"敵全体 ランダム"
+> CONTEXT: Scripts/XPスタイル/4828:41
+"敵全体 ランダム"#NoTL
+> END STRING
+
+> BEGIN STRING
+"敵\#{random_number}体 ランダム"
+> CONTEXT: Scripts/XPスタイル/4829:40
+"敵\#{random_number}体 ランダム"#NoTL
+> END STRING
+
+> BEGIN STRING
+"OK:LNX11aconf_XPスタイルバトル\#コンフィグ"
+> CONTEXT: Scripts/XPスタイルコンフィグ/563:2
+"OK:LNX11aconf_XPスタイルバトル\#コンフィグ"#NoTL
+> END STRING
+
+> BEGIN STRING
+"NG:LNX11b_リフォーム・バトルステータス"
+> CONTEXT: Scripts/ステータス画面リフォーム/27:5
+"NG:LNX11b_リフォーム・バトルステータス"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11b: Error! LNX11a より下位のセクションに配置してください。"
+> CONTEXT: Scripts/ステータス画面リフォーム/28:10
+"LNX11b: Error! LNX11a より下位のセクションに配置してください。"#NoTL
+> END STRING
+
+> BEGIN STRING
+"OK:LNX11b_リフォーム・バトルステータス"
+> CONTEXT: Scripts/ステータス画面リフォーム/33:3
+"OK:LNX11b_リフォーム・バトルステータス"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11b:Error! LNX11bskin が導入されていません。"
+> CONTEXT: Scripts/ステータス画面リフォーム/48:14
+"LNX11b:Error! LNX11bskin が導入されていません。"#NoTL
+> END STRING
+
+> BEGIN STRING
+"name_\#{@name}"
+> CONTEXT: Scripts/ステータス画面リフォーム/391:33
+"name_\#{@name}"#NoTL
+> END STRING
+
+> BEGIN STRING
+"OK:LNX10_バトルスピード調整"
+> CONTEXT: Scripts/バトルスピード調整/48:3
+"OK:LNX10_バトルスピード調整"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Lnx11b_spc_mainskin_a"
+> CONTEXT: Scripts/スピカ/33:15
+"Lnx11b_spc_mainskin_a"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Lnx11b_spc_hp"
+> CONTEXT: Scripts/スピカ/89:15
+"Lnx11b_spc_hp"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Lnx11b_spc_mp"
+> CONTEXT: Scripts/スピカ/112:15
+"Lnx11b_spc_mp"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Lnx11b_spc_tp"
+> CONTEXT: Scripts/スピカ/135:15
+"Lnx11b_spc_tp"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Lnx11b_spc_largenumber"
+> CONTEXT: Scripts/スピカ/158:15
+> CONTEXT: Scripts/スピカ/175:15
+"Lnx11b_spc_largenumber"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Lnx11b_spc_smallnumber"
+> CONTEXT: Scripts/スピカ/192:15
+> CONTEXT: Scripts/スピカ/209:15
+> CONTEXT: Scripts/スピカ/226:15
+> CONTEXT: Scripts/スピカ/243:15
+"Lnx11b_spc_smallnumber"#NoTL
+> END STRING
+
+> BEGIN STRING
+"OK:LNX11bskin_リフォーム・バトルステータス\#スキン設定"
+> CONTEXT: Scripts/スピカ/263:2
+"OK:LNX11bskin_リフォーム・バトルステータス\#スキン設定"#NoTL
+> END STRING
+
+> BEGIN STRING
+"-------"
+> CONTEXT: Scripts/解像度/309:30
+> CONTEXT: Scripts/解像度/310:30
+"-------"#NoTL
+> END STRING
+
+> BEGIN STRING
+"後"
+> CONTEXT: Scripts/戦闘：行動前イベント/127:30
+"後"#NoTL
+> END STRING
+
+> BEGIN STRING
+"前"
+> CONTEXT: Scripts/戦闘：行動前イベント/127:36
+"前"#NoTL
+> END STRING
+
+> BEGIN STRING
+"==行動前イベント:使用\#{type}=="
+> CONTEXT: Scripts/戦闘：行動前イベント/128:40
+"==行動前イベント:使用\#{type}=="#NoTL
+> END STRING
+
+> BEGIN STRING
+"初期X座標調整"
+> CONTEXT: Scripts/敵座標変更/41:14
+"初期X座標調整"#NoTL
+> END STRING
+
+> BEGIN STRING
+"初期Y座標調整"
+> CONTEXT: Scripts/敵座標変更/43:14
+"初期Y座標調整"#NoTL
+> END STRING
+
+> BEGIN STRING
+"初期Z座標調整"
+> CONTEXT: Scripts/敵座標変更/45:14
+"初期Z座標調整"#NoTL
+> END STRING
+
+> BEGIN STRING
+"シンボルエンカウント補助"
+> CONTEXT: Scripts/シンボルエンカウント/180:6
+"シンボルエンカウント補助"#NoTL
+> END STRING
+
+> BEGIN STRING
+'Audio/SE/Decision1'
+> CONTEXT: Scripts/シンボルエンカウント/570:21
+'Audio/SE/Decision1'#NoTL
+> END STRING
+
+> BEGIN STRING
+"性感度"
+> CONTEXT: Scripts/メニューに変数表示/29:16
+> CONTEXT: Scripts/戦闘中変数表示/97:27
+> CONTEXT: Scripts/戦闘中変数表示/103:27
+> CONTEXT: Scripts/戦闘中変数表示/109:27
+> CONTEXT: Scripts/戦闘中変数表示/115:27
+> CONTEXT: Scripts/戦闘中変数表示/119:27
+> CONTEXT: Scripts/戦闘中変数表示/123:27
+> CONTEXT: Scripts/戦闘中変数表示/127:27
+> CONTEXT: Scripts/戦闘中変数表示/131:27
+> CONTEXT: Scripts/戦闘中変数表示/135:27
+> CONTEXT: Scripts/戦闘中変数表示/139:27
+> CONTEXT: Scripts/戦闘中変数表示/143:27
+> CONTEXT: Scripts/戦闘中変数表示/147:27
+> CONTEXT: Scripts/戦闘中変数表示/151:27
+> CONTEXT: Scripts/戦闘中変数表示/155:27
+> CONTEXT: Scripts/戦闘中変数表示/159:27
+> CONTEXT: Scripts/戦闘中変数表示/163:27
+> CONTEXT: Scripts/戦闘中変数表示/167:27
+> CONTEXT: Scripts/戦闘中変数表示/171:27
+> CONTEXT: Scripts/戦闘中変数表示/175:27
+> CONTEXT: Scripts/戦闘中変数表示/179:27
+> CONTEXT: Scripts/戦闘中変数表示/183:27
+> CONTEXT: Scripts/戦闘中変数表示/187:27
+> CONTEXT: Scripts/戦闘中変数表示/191:27
+> CONTEXT: Scripts/戦闘中変数表示/195:27
+> CONTEXT: Scripts/戦闘中変数表示/199:27
+> CONTEXT: Scripts/戦闘中変数表示/203:27
+> CONTEXT: Scripts/戦闘中変数表示/207:27
+> CONTEXT: Scripts/戦闘中変数表示/211:27
+> CONTEXT: Scripts/戦闘中変数表示/215:27
+> CONTEXT: Scripts/戦闘中変数表示/219:27
+> CONTEXT: Scripts/戦闘中変数表示/223:27
+> CONTEXT: Scripts/戦闘中変数表示/227:27
+"Sex sensitivity"#MTLed
+> END STRING
+
+> BEGIN STRING
+"pt"
+> CONTEXT: Scripts/メニューに変数表示/32:16
+"pt"#MTLed
+> CONTEXT: Scripts/戦闘中変数表示/97:47
+> CONTEXT: Scripts/戦闘中変数表示/103:47
+> CONTEXT: Scripts/戦闘中変数表示/109:47
+> CONTEXT: Scripts/戦闘中変数表示/115:47
+> CONTEXT: Scripts/戦闘中変数表示/119:47
+> CONTEXT: Scripts/戦闘中変数表示/123:47
+> CONTEXT: Scripts/戦闘中変数表示/127:47
+> CONTEXT: Scripts/戦闘中変数表示/131:47
+> CONTEXT: Scripts/戦闘中変数表示/135:47
+> CONTEXT: Scripts/戦闘中変数表示/139:47
+> CONTEXT: Scripts/戦闘中変数表示/143:47
+> CONTEXT: Scripts/戦闘中変数表示/147:47
+> CONTEXT: Scripts/戦闘中変数表示/151:47
+> CONTEXT: Scripts/戦闘中変数表示/155:47
+> CONTEXT: Scripts/戦闘中変数表示/159:47
+> CONTEXT: Scripts/戦闘中変数表示/163:47
+> CONTEXT: Scripts/戦闘中変数表示/167:47
+> CONTEXT: Scripts/戦闘中変数表示/171:47
+> CONTEXT: Scripts/戦闘中変数表示/175:47
+> CONTEXT: Scripts/戦闘中変数表示/179:47
+> CONTEXT: Scripts/戦闘中変数表示/183:47
+> CONTEXT: Scripts/戦闘中変数表示/187:47
+> CONTEXT: Scripts/戦闘中変数表示/191:47
+> CONTEXT: Scripts/戦闘中変数表示/195:47
+> CONTEXT: Scripts/戦闘中変数表示/199:47
+> CONTEXT: Scripts/戦闘中変数表示/203:47
+> CONTEXT: Scripts/戦闘中変数表示/207:47
+> CONTEXT: Scripts/戦闘中変数表示/211:47
+> CONTEXT: Scripts/戦闘中変数表示/215:47
+> CONTEXT: Scripts/戦闘中変数表示/219:47
+> CONTEXT: Scripts/戦闘中変数表示/223:47
+> CONTEXT: Scripts/戦闘中変数表示/227:47
+"pt"#NoTL
+> END STRING
+
+> BEGIN STRING
+"none"
+> CONTEXT: Scripts/イベントの上にメッセージ表示/110:27
+"none"#NoTL
+> END STRING
+
+> BEGIN STRING
+"所持制限"
+> CONTEXT: Scripts/所持数制限/38:12
+"所持制限"#NoTL
+> END STRING
+
+> BEGIN STRING
+"所持装備制限タイプ"
+> CONTEXT: Scripts/所持数制限/43:12
+"所持装備制限タイプ"#NoTL
+> END STRING
+
+> BEGIN STRING
+"預かり所込所持制限"
+> CONTEXT: Scripts/所持数制限/48:12
+"預かり所込所持制限"#NoTL
+> END STRING
+
+> BEGIN STRING
+"<"
+> CONTEXT: Scripts/所持数制限/222:45
+"<"#NoTL
+> END STRING
+
+> BEGIN STRING
+">"
+> CONTEXT: Scripts/所持数制限/222:73
+">"#NoTL
+> END STRING
+
+> BEGIN STRING
+"フキダシアイコン常時再生"
+> CONTEXT: Scripts/常時フキダシ/44:6
+"フキダシアイコン常時再生"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Balloon"
+> CONTEXT: Scripts/常時フキダシ/139:48
+"Balloon"#NoTL
+> END STRING
+
+> BEGIN STRING
+"選択肢ヘルプ"
+> CONTEXT: Scripts/選択肢拡張/97:10
+"選択肢ヘルプ"#NoTL
+> END STRING
+
+> BEGIN STRING
+"選択肢位置(メッセージ下)"
+> CONTEXT: Scripts/選択肢拡張/200:12
+"選択肢位置(メッセージ下)"#NoTL
+> END STRING
+
+> BEGIN STRING
+"ON"
+> CONTEXT: Scripts/選択肢拡張/206:50
+"ON"#NoTL
+> END STRING
+
+> BEGIN STRING
+"以下の条件判定でエラーが出ました。\\n\\n"
+> CONTEXT: Scripts/選択肢拡張/345:12
+"以下の条件判定でエラーが出ました。\\n\\n"#NoTL
+> END STRING
+
+> BEGIN STRING
+"被ダメージTPチャージ率"
+> CONTEXT: Scripts/TPチャージ率操作/19:10
+"被ダメージTPチャージ率"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Auto Mode"
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/94:8
+"Auto Mode"#NoTL
+> END STRING
+
+> BEGIN STRING
+"TextAuto"
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/110:8
+"TextAuto"#NoTL
+> END STRING
+
+> BEGIN STRING
+"TextHistory"
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/144:8
+"TextHistory"#NoTL
+> END STRING
+
+> BEGIN STRING
+"/"
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/540:66
+"/"#NoTL
+> END STRING
+
+> BEGIN STRING
+"\\n"
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/544:48
+"\\n"#NoTL
+> END STRING
+
+> BEGIN STRING
+'.'
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/553:10
+'.'#NoTL
+> END STRING
+
+> BEGIN STRING
+'|'
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/554:10
+'|'#NoTL
+> END STRING
+
+> BEGIN STRING
+'!'
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/555:10
+'!'#NoTL
+> END STRING
+
+> BEGIN STRING
+'>'
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/556:10
+'>'#NoTL
+> END STRING
+
+> BEGIN STRING
+'<'
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/557:10
+'<'#NoTL
+> END STRING
+
+> BEGIN STRING
+'^'
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/558:10
+'^'#NoTL
+> END STRING
+
+> BEGIN STRING
+"音量設定"
+> CONTEXT: Scripts/音量調節/47:25
+> CONTEXT: Scripts/音量調節/54:24
+"Volume setting"#MTLed
+> END STRING
+
+> BEGIN STRING
+"音量"
+> CONTEXT: Scripts/音量調節/63:24
+"volume"#MTLed
+> END STRING
+
+> BEGIN STRING
+"BGM"
+> CONTEXT: Scripts/音量調節/64:24
+"BGM"#MTLed
+> END STRING
+
+> BEGIN STRING
+"BGS"
+> CONTEXT: Scripts/音量調節/65:24
+"BGS"#MTLed
+> END STRING
+
+> BEGIN STRING
+"SE"
+> CONTEXT: Scripts/音量調節/66:24
+"SE"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ME"
+> CONTEXT: Scripts/音量調節/67:24
+"ME"#MTLed
+> END STRING
+
+> BEGIN STRING
+"決定"
+> CONTEXT: Scripts/音量調節/68:24
+"Decision"#MTLed
+> END STRING
+
+> BEGIN STRING
+"Audio/BGM/\#{music.name}"
+> CONTEXT: Scripts/音量調節/405:25
+"Audio/BGM/\#{music.name}"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ゲームの音量の調整ができます。（0：無音～100:最大）\\n←　音量を下げる　／　音量を上げる　→"
+> CONTEXT: Scripts/音量調節/462:30
+"You can adjust the volume of the game。（0：Silence～100:
+maximum）\\n←Decrease the volume／Increase volume→"#MTLed
+> END STRING
+
+> BEGIN STRING
+'AudioVol'
+> CONTEXT: Scripts/音量調節/471:29
+> CONTEXT: Scripts/音量調節/472:29
+> CONTEXT: Scripts/音量調節/473:29
+> CONTEXT: Scripts/音量調節/474:29
+> CONTEXT: Scripts/音量調節/501:38
+> CONTEXT: Scripts/音量調節/502:38
+> CONTEXT: Scripts/音量調節/503:38
+> CONTEXT: Scripts/音量調節/504:38
+'AudioVol'#MTLed
+> END STRING
+
+> BEGIN STRING
+'BGM'
+> CONTEXT: Scripts/音量調節/471:41
+> CONTEXT: Scripts/音量調節/501:50
+'BGM'#MTLed
+> END STRING
+
+> BEGIN STRING
+'BGS'
+> CONTEXT: Scripts/音量調節/472:41
+> CONTEXT: Scripts/音量調節/502:50
+'BGS'#MTLed
+> END STRING
+
+> BEGIN STRING
+'SE'
+> CONTEXT: Scripts/音量調節/473:41
+> CONTEXT: Scripts/音量調節/503:50
+'SE'#MTLed
+> END STRING
+
+> BEGIN STRING
+'ME'
+> CONTEXT: Scripts/音量調節/474:41
+> CONTEXT: Scripts/音量調節/504:50
+'ME'#MTLed
+> END STRING
+
+> BEGIN STRING
+'kernel32'
+> CONTEXT: Scripts/音量調節/486:45
+> CONTEXT: Scripts/音量調節/487:50
+'kernel32'#MTLed
+> END STRING
+
+> BEGIN STRING
+'GetPrivateProfileInt'
+> CONTEXT: Scripts/音量調節/486:57
+'GetPrivateProfileInt'#MTLed
+> END STRING
+
+> BEGIN STRING
+'i'
+> CONTEXT: Scripts/音量調節/486:94
+> CONTEXT: Scripts/音量調節/487:104
+'i'#MTLed
+> END STRING
+
+> BEGIN STRING
+'WritePrivateProfileString'
+> CONTEXT: Scripts/音量調節/487:62
+'WritePrivateProfileString'#MTLed
+> END STRING
+
+> BEGIN STRING
+'./Game.ini'
+> CONTEXT: Scripts/音量調節/490:24
+'./Game.ini'#MTLed
+> END STRING
+
+> BEGIN STRING
+"マルチダメージ"
+> CONTEXT: Scripts/マルチスキル/23:12
+"マルチダメージ"#NoTL
+> END STRING
+

@@ -1,0 +1,137 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+戦闘します
+> CONTEXT: Map001/events/1/pages/0/0/Dialogue
+Combat it.#MTLed
+> END STRING
+
+> BEGIN STRING
+主人公の名前を入力してください。
+> CONTEXT: Map001/events/2/pages/0/0/Dialogue
+Please enter the name of the hero.#MTLed
+> END STRING
+
+> BEGIN STRING
+オープニングを見ますか？
+> CONTEXT: Map001/events/2/pages/0/8/Dialogue
+Do you see the opening?#MTLed
+> END STRING
+
+> BEGIN STRING
+手短に見る
+> CONTEXT: Map001/events/2/pages/0/10/Choice/1
+> CONTEXT: Map001/events/2/pages/0/10/Choice/1
+Look briefly#MTLed
+> END STRING
+
+> BEGIN STRING
+見ない
+> CONTEXT: Map001/events/2/pages/0/10/Choice/2
+> CONTEXT: Map001/events/2/pages/0/10/Choice/2
+Do not look#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、まずは村長の家に行って王都に行く許可をもらおう。
+そして武道大会に出て、必ずあのナマイキな女にリベンジして
+優勝も勝ち取ってみせるぜ！
+> CONTEXT: Map001/events/2/pages/0/43/Dialogue
+> CONTEXT: Map001/events/2/pages/0/66/Dialogue
+\\N[12]. 「OK, let's get permission to go to the village
+head house and go to the kingdom. And go out to the martial
+arts tournament, certainly revenge for that cheeky girl
+Let's win the championship!#MTLed
+> END STRING
+
+> BEGIN STRING
+メッセージ自動送りモードを
+使用しますか？
+> CONTEXT: Map001/events/3/pages/0/0/Dialogue
+Message automatic feed mode. Do you use it?#MTLed
+> END STRING
+
+> BEGIN STRING
+自動送り使用時の、
+１ページの表示時間を設定してください。
+> CONTEXT: Map001/events/3/pages/0/6/Dialogue
+When using automatic feed, Please set the display time of
+one page.#MTLed
+> END STRING
+
+> BEGIN STRING
+２秒
+> CONTEXT: Map001/events/3/pages/0/9/Choice/0
+> CONTEXT: Commonevents/277/4/Choice/0
+> CONTEXT: Commonevents/277/43/Choice/0
+2 seconds#MTLed
+> END STRING
+
+> BEGIN STRING
+３秒
+> CONTEXT: Map001/events/3/pages/0/9/Choice/1
+> CONTEXT: Commonevents/277/4/Choice/1
+> CONTEXT: Commonevents/277/43/Choice/1
+3 seconds#MTLed
+> END STRING
+
+> BEGIN STRING
+４秒
+> CONTEXT: Map001/events/3/pages/0/9/Choice/2
+> CONTEXT: Commonevents/277/4/Choice/2
+> CONTEXT: Commonevents/277/43/Choice/2
+4 seconds#MTLed
+> END STRING
+
+> BEGIN STRING
+５秒
+> CONTEXT: Map001/events/3/pages/0/9/Choice/3
+> CONTEXT: Commonevents/277/4/Choice/3
+> CONTEXT: Commonevents/277/43/Choice/3
+5 seconds#MTLed
+> END STRING
+
+> BEGIN STRING
+６秒
+> CONTEXT: Map001/events/3/pages/0/23/Choice/0
+> CONTEXT: Commonevents/277/26/Choice/0
+> CONTEXT: Commonevents/277/65/Choice/0
+6 seconds#MTLed
+> END STRING
+
+> BEGIN STRING
+1ページあたりの待機秒数を設定しました。
+変更したい場合は、アイテム（大事な物）内にある
+「自動ページ送りモード設定」という名前のアイテムを
+使用してください。
+> CONTEXT: Map001/events/3/pages/0/28/Dialogue
+We set the number of seconds to wait per page.
+If you want to change, it is within items (important
+things). 「Auto Dialogue Settings」Items named
+Please use.#MTLed
+> END STRING
+
+> BEGIN STRING
+また、自動モードの使い方については
+自宅内の本棚にある「冒険の手引き」に項目がありますので
+そちらを参照してください。
+> CONTEXT: Map001/events/3/pages/0/33/Dialogue
+Also, regarding how to use the automatic mode
+I am in a bookshelf inside my home「Adventure Guide」There
+are items in. Please refer to that.#MTLed
+> CONTEXT: Commonevents/277/77/Dialogue
+Also, regarding how to use the automatic mode
+I am in a bookshelf inside my home「Adventure
+Guide」There are items in. Please refer to that.#MTLed
+> END STRING
+
+> BEGIN STRING
+設定しませんでした。
+なお、アイテム（大事な物）内にある
+「自動ページ送りモード設定」という名前のアイテムを使用すれば
+設定を変更することができます。
+> CONTEXT: Map001/events/3/pages/0/39/Dialogue
+I did not set it. In addition, it is within an item
+(important thing). 「Auto Dialogue Settings」If you use an
+item named. You can change the setting.#MTLed
+> END STRING

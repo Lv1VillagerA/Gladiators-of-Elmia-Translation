@@ -1,0 +1,33 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+猟師小屋
+> CONTEXT: Map090/display_name/
+Hunting house#MTLed
+> END STRING
+
+> BEGIN STRING
+猟師のおじさん
+「こんなところに客とは珍しいな。
+なにか探しものかね」
+> CONTEXT: Map090/events/3/pages/0/0/Dialogue
+old hunter. 「A customer is rare in such a place.
+Is not it something you are looking for?」#MTLed
+> END STRING
+
+> BEGIN STRING
+猟師のおじさん
+「台地？
+それなら、この平原の北東の端から上がれるが――
+迷いやすいところだから、行くのなら気をつけることだ」
+> CONTEXT: Map090/events/3/pages/1/0/Dialogue
+old hunter. 「plateau? Then you can go up from the
+northeast end of this plain -. It's easy to get lost, so be
+careful if you go.」#MTLed
+> END STRING
+
+> BEGIN STRING
+猟師のおじさん
+「ここで休憩していくかね？」
+> CONTEXT: Map090/events/3/pages/1/5/Dialogue
+old hunter. 「Would you like to rest here?」#MTLed
+> END STRING

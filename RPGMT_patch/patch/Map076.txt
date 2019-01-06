@@ -1,0 +1,449 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エルミア北西街道
+> CONTEXT: Map076/display_name/
+Elmere Northwest Highway#MTLed
+> END STRING
+
+> BEGIN STRING
+『ウィギスの村』
+と書いてある。
+> CONTEXT: Map076/events/5/pages/0/0/Dialogue
+"Village of Wigheis". It is written.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あうぅ……
+ち、力が吸い取られる……」
+> CONTEXT: Map076/events/6/pages/0/22/Dialogue
+> CONTEXT: Map076/events/8/pages/0/22/Dialogue
+> CONTEXT: Map076/events/13/pages/0/21/Dialogue
+> CONTEXT: Map076/events/14/pages/0/21/Dialogue
+> CONTEXT: Map073/events/17/pages/0/21/Dialogue
+> CONTEXT: Map073/events/18/pages/0/19/Dialogue
+> CONTEXT: Map073/events/19/pages/0/21/Dialogue
+> CONTEXT: Map069/events/19/pages/0/21/Dialogue
+> CONTEXT: Map069/events/21/pages/0/19/Dialogue
+> CONTEXT: Map069/events/26/pages/0/21/Dialogue
+> CONTEXT: Map070/events/39/pages/0/21/Dialogue
+> CONTEXT: Map071/events/49/pages/0/21/Dialogue
+> CONTEXT: Map028/events/21/pages/0/21/Dialogue
+> CONTEXT: Map023/events/31/pages/0/15/Dialogue
+> CONTEXT: Map020/events/9/pages/0/21/Dialogue
+> CONTEXT: Map020/events/10/pages/0/21/Dialogue
+> CONTEXT: Map020/events/11/pages/0/21/Dialogue
+> CONTEXT: Map017/events/11/pages/0/21/Dialogue
+> CONTEXT: Map023/events/50/pages/0/18/Dialogue
+> CONTEXT: Map006/events/9/pages/0/21/Dialogue
+\\N[12]. 「Oh no ...... Power is taken off ... ...」#MTLed
+> CONTEXT: Commonevents/48/21/Dialogue
+> CONTEXT: Commonevents/49/21/Dialogue
+> CONTEXT: Commonevents/53/21/Dialogue
+> CONTEXT: Commonevents/159/21/Dialogue
+> CONTEXT: Commonevents/160/21/Dialogue
+\\N[12]. 「Oh no ...... Power is taken off ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+フェアリー
+「くすくす……
+ごちそうさま、おにいさん。
+あなたの命、おいしかったよ♪」
+> CONTEXT: Map076/events/6/pages/0/27/Dialogue
+> CONTEXT: Map076/events/8/pages/0/27/Dialogue
+> CONTEXT: Map076/events/13/pages/0/26/Dialogue
+> CONTEXT: Map076/events/14/pages/0/26/Dialogue
+> CONTEXT: Map073/events/17/pages/0/26/Dialogue
+> CONTEXT: Map073/events/18/pages/0/24/Dialogue
+> CONTEXT: Map073/events/19/pages/0/26/Dialogue
+> CONTEXT: Map069/events/19/pages/0/26/Dialogue
+> CONTEXT: Map069/events/21/pages/0/24/Dialogue
+> CONTEXT: Map069/events/26/pages/0/26/Dialogue
+> CONTEXT: Map070/events/39/pages/0/26/Dialogue
+> CONTEXT: Map071/events/49/pages/0/26/Dialogue
+> CONTEXT: Map028/events/21/pages/0/26/Dialogue
+> CONTEXT: Map023/events/31/pages/0/19/Dialogue
+> CONTEXT: Map020/events/9/pages/0/26/Dialogue
+> CONTEXT: Map020/events/10/pages/0/26/Dialogue
+> CONTEXT: Map020/events/11/pages/0/26/Dialogue
+> CONTEXT: Map017/events/11/pages/0/26/Dialogue
+> CONTEXT: Map023/events/50/pages/0/23/Dialogue
+> CONTEXT: Map006/events/9/pages/0/26/Dialogue
+Fairy. 「... .... Thank you for the meal, brother.
+Your life was delicious♪」#MTLed
+> CONTEXT: Commonevents/48/25/Dialogue
+> CONTEXT: Commonevents/49/25/Dialogue
+> CONTEXT: Commonevents/53/25/Dialogue
+> CONTEXT: Commonevents/159/25/Dialogue
+> CONTEXT: Commonevents/160/25/Dialogue
+Fairy. 「... .... Thank you for the meal, brother.
+Your life was delicious♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は、美しいフェアリーに屈し、
+精気を吸いつくされて死んだ……
+> CONTEXT: Map076/events/6/pages/0/32/Dialogue
+> CONTEXT: Map076/events/8/pages/0/32/Dialogue
+> CONTEXT: Map076/events/13/pages/0/31/Dialogue
+> CONTEXT: Map076/events/14/pages/0/31/Dialogue
+> CONTEXT: Map073/events/17/pages/0/31/Dialogue
+> CONTEXT: Map073/events/18/pages/0/29/Dialogue
+> CONTEXT: Map073/events/19/pages/0/31/Dialogue
+> CONTEXT: Map069/events/19/pages/0/31/Dialogue
+> CONTEXT: Map069/events/21/pages/0/29/Dialogue
+> CONTEXT: Map069/events/26/pages/0/31/Dialogue
+> CONTEXT: Map070/events/39/pages/0/31/Dialogue
+> CONTEXT: Map071/events/49/pages/0/31/Dialogue
+> CONTEXT: Map028/events/21/pages/0/31/Dialogue
+> CONTEXT: Map023/events/31/pages/0/24/Dialogue
+> CONTEXT: Map020/events/9/pages/0/31/Dialogue
+> CONTEXT: Map020/events/10/pages/0/31/Dialogue
+> CONTEXT: Map020/events/11/pages/0/31/Dialogue
+> CONTEXT: Map017/events/11/pages/0/31/Dialogue
+> CONTEXT: Map023/events/50/pages/0/28/Dialogue
+> CONTEXT: Map006/events/9/pages/0/31/Dialogue
+\\N[12] Give in to the beautiful Fairy, Sucks inspired
+and died ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふーっ、これで凶悪そうなのは
+あらかた片付いたかな？
+ギルドの受付に報告するか」
+> CONTEXT: Map076/events/10/pages/0/4/Dialogue
+> CONTEXT: Map073/events/12/pages/0/4/Dialogue
+\\N[12]. 「Wow, that seems to be atrocious in this
+Have they gotten along? Would you like to report to the
+guild's reception?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリン
+「オマエ、ヨワイ……
+オンナヨリ　ヒヨワ　ダナンテ
+ニンゲンノオトコ、ナサケナイ……」
+> CONTEXT: Map076/events/15/pages/0/29/Dialogue
+> CONTEXT: Map076/events/19/pages/0/29/Dialogue
+> CONTEXT: Map073/events/14/pages/0/29/Dialogue
+> CONTEXT: Map069/events/17/pages/0/29/Dialogue
+> CONTEXT: Map073/events/15/pages/0/29/Dialogue
+> CONTEXT: Map071/events/16/pages/0/29/Dialogue
+> CONTEXT: Map071/events/17/pages/0/29/Dialogue
+> CONTEXT: Map069/events/24/pages/0/29/Dialogue
+> CONTEXT: Map069/events/29/pages/0/29/Dialogue
+> CONTEXT: Map070/events/31/pages/0/29/Dialogue
+> CONTEXT: Map070/events/32/pages/0/29/Dialogue
+Goblin. 「You, yo ... Onunori Hiyowa Danante
+Ningeno otoko, nasa kenai ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……
+こ、こんなっ、ゴブリンなんかに
+やられちまうなんて……」
+> CONTEXT: Map076/events/15/pages/0/34/Dialogue
+> CONTEXT: Map076/events/19/pages/0/34/Dialogue
+> CONTEXT: Map073/events/14/pages/0/34/Dialogue
+> CONTEXT: Map069/events/17/pages/0/34/Dialogue
+> CONTEXT: Map073/events/15/pages/0/34/Dialogue
+> CONTEXT: Map071/events/16/pages/0/34/Dialogue
+> CONTEXT: Map071/events/17/pages/0/34/Dialogue
+> CONTEXT: Map069/events/24/pages/0/34/Dialogue
+> CONTEXT: Map069/events/29/pages/0/34/Dialogue
+> CONTEXT: Map070/events/31/pages/0/34/Dialogue
+> CONTEXT: Map070/events/32/pages/0/34/Dialogue
+\\N[12]. 「uugh ... ... Something like this, goblin
+I can not stop being ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリン
+「デモ　オマエ、ナカナカ　イイオトコ……
+ワタシタチノ　イエ　ニ
+ツレテカエル」
+> CONTEXT: Map076/events/15/pages/0/39/Dialogue
+> CONTEXT: Map076/events/19/pages/0/39/Dialogue
+> CONTEXT: Map073/events/14/pages/0/39/Dialogue
+> CONTEXT: Map069/events/17/pages/0/39/Dialogue
+> CONTEXT: Map073/events/15/pages/0/39/Dialogue
+> CONTEXT: Map071/events/16/pages/0/39/Dialogue
+> CONTEXT: Map071/events/17/pages/0/39/Dialogue
+> CONTEXT: Map069/events/24/pages/0/39/Dialogue
+> CONTEXT: Map069/events/29/pages/0/39/Dialogue
+> CONTEXT: Map070/events/31/pages/0/39/Dialogue
+> CONTEXT: Map070/events/32/pages/0/39/Dialogue
+Goblin. 「Demo, Io Toko ...... Watashitachi no Yeni
+Turetekael」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだと……
+お、俺をどうするつもりだっ……！」
+> CONTEXT: Map076/events/15/pages/0/44/Dialogue
+> CONTEXT: Map076/events/19/pages/0/44/Dialogue
+> CONTEXT: Map073/events/14/pages/0/44/Dialogue
+> CONTEXT: Map069/events/17/pages/0/44/Dialogue
+> CONTEXT: Map073/events/15/pages/0/44/Dialogue
+> CONTEXT: Map071/events/16/pages/0/44/Dialogue
+> CONTEXT: Map071/events/17/pages/0/44/Dialogue
+> CONTEXT: Map069/events/24/pages/0/44/Dialogue
+> CONTEXT: Map069/events/29/pages/0/44/Dialogue
+> CONTEXT: Map070/events/31/pages/0/44/Dialogue
+> CONTEXT: Map070/events/32/pages/0/44/Dialogue
+\\N[12]. 「What, what .... Oh, what are you going to do
+with me ...?!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリンは、\\N[12]を抱え上げる。
+> CONTEXT: Map076/events/15/pages/0/48/Dialogue
+> CONTEXT: Map076/events/19/pages/0/48/Dialogue
+> CONTEXT: Map073/events/14/pages/0/48/Dialogue
+> CONTEXT: Map069/events/17/pages/0/48/Dialogue
+> CONTEXT: Map073/events/15/pages/0/48/Dialogue
+> CONTEXT: Map071/events/16/pages/0/48/Dialogue
+> CONTEXT: Map071/events/17/pages/0/48/Dialogue
+> CONTEXT: Map069/events/24/pages/0/48/Dialogue
+> CONTEXT: Map069/events/29/pages/0/48/Dialogue
+> CONTEXT: Map070/events/31/pages/0/48/Dialogue
+> CONTEXT: Map070/events/32/pages/0/48/Dialogue
+Goblin, \\N[12] I hold it.#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリン
+「トラエタ　ニンゲンハ
+セイドレイ　ト　キマッテイル……
+ワタシタチ　オンナゴブリンノ　ナグサミモノダ」
+> CONTEXT: Map076/events/15/pages/0/50/Dialogue
+> CONTEXT: Map076/events/19/pages/0/50/Dialogue
+> CONTEXT: Map073/events/14/pages/0/50/Dialogue
+> CONTEXT: Map069/events/17/pages/0/50/Dialogue
+> CONTEXT: Map073/events/15/pages/0/50/Dialogue
+> CONTEXT: Map071/events/16/pages/0/50/Dialogue
+> CONTEXT: Map071/events/17/pages/0/50/Dialogue
+> CONTEXT: Map069/events/24/pages/0/50/Dialogue
+> CONTEXT: Map069/events/29/pages/0/50/Dialogue
+> CONTEXT: Map070/events/31/pages/0/50/Dialogue
+> CONTEXT: Map070/events/32/pages/0/50/Dialogue
+Goblin. 「Toraeta ningenha. Seidleight Kimmittile ......
+Watashitachi Onna Goblin 'Nagsamonoida」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そんなっ……
+い、嫌だ、放せっ！」
+> CONTEXT: Map076/events/15/pages/0/55/Dialogue
+> CONTEXT: Map076/events/19/pages/0/55/Dialogue
+> CONTEXT: Map073/events/14/pages/0/55/Dialogue
+> CONTEXT: Map069/events/17/pages/0/55/Dialogue
+> CONTEXT: Map073/events/15/pages/0/55/Dialogue
+> CONTEXT: Map071/events/16/pages/0/55/Dialogue
+> CONTEXT: Map071/events/17/pages/0/55/Dialogue
+> CONTEXT: Map069/events/24/pages/0/55/Dialogue
+> CONTEXT: Map069/events/29/pages/0/55/Dialogue
+> CONTEXT: Map070/events/31/pages/0/55/Dialogue
+> CONTEXT: Map070/events/32/pages/0/55/Dialogue
+\\N[12]. 「Well, that's ... Well, I do not want it,
+let's go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は女ゴブリンに敗北し
+巣穴へと連れ込まれ、
+女ゴブリンの群れに犯されることとなった。
+> CONTEXT: Map076/events/15/pages/0/63/Dialogue
+> CONTEXT: Map076/events/19/pages/0/63/Dialogue
+> CONTEXT: Map073/events/14/pages/0/63/Dialogue
+> CONTEXT: Map069/events/17/pages/0/63/Dialogue
+> CONTEXT: Map073/events/15/pages/0/63/Dialogue
+> CONTEXT: Map071/events/16/pages/0/63/Dialogue
+> CONTEXT: Map071/events/17/pages/0/63/Dialogue
+> CONTEXT: Map069/events/24/pages/0/63/Dialogue
+> CONTEXT: Map069/events/29/pages/0/63/Dialogue
+> CONTEXT: Map070/events/31/pages/0/63/Dialogue
+> CONTEXT: Map070/events/32/pages/0/63/Dialogue
+In this way, \\N[12] He was defeated by a girl goblin
+Brought to the nest hole, It was to be committed by a group
+of girls goblins.#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリンＡ
+「オモッタトオリ……ウッ……
+ス、スゴク、キモチイイ……
+オマエノ　ペニス、イイグアイダ……！」
+> CONTEXT: Map076/events/15/pages/0/68/Dialogue
+> CONTEXT: Map076/events/19/pages/0/68/Dialogue
+> CONTEXT: Map073/events/14/pages/0/68/Dialogue
+> CONTEXT: Map069/events/17/pages/0/68/Dialogue
+> CONTEXT: Map073/events/15/pages/0/68/Dialogue
+> CONTEXT: Map071/events/16/pages/0/68/Dialogue
+> CONTEXT: Map071/events/17/pages/0/68/Dialogue
+> CONTEXT: Map069/events/24/pages/0/68/Dialogue
+> CONTEXT: Map069/events/29/pages/0/68/Dialogue
+> CONTEXT: Map070/events/31/pages/0/68/Dialogue
+> CONTEXT: Map070/events/32/pages/0/68/Dialogue
+Goblin A. 「Omotte toot ... ... Uh ......
+Su, suck, cheesy ... ... your penis, eaguida ......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あああぁぁ……！」
+> CONTEXT: Map076/events/15/pages/0/73/Dialogue
+> CONTEXT: Map076/events/19/pages/0/73/Dialogue
+> CONTEXT: Map073/events/14/pages/0/73/Dialogue
+> CONTEXT: Map069/events/17/pages/0/73/Dialogue
+> CONTEXT: Map073/events/15/pages/0/73/Dialogue
+> CONTEXT: Map071/events/16/pages/0/73/Dialogue
+> CONTEXT: Map071/events/17/pages/0/73/Dialogue
+> CONTEXT: Map069/events/24/pages/0/73/Dialogue
+> CONTEXT: Map069/events/29/pages/0/73/Dialogue
+> CONTEXT: Map070/events/31/pages/0/73/Dialogue
+> CONTEXT: Map070/events/32/pages/0/73/Dialogue
+\\N[12]. 「Oh, Aaaahh ... ...!」#MTLed
+> CONTEXT: Commonevents/287/27/Dialogue
+\\N[12]. 「Oh, Aaaahh ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリンＢ
+「ツギ、ワタシ……ハヤク、カワッテ……！」
+> CONTEXT: Map076/events/15/pages/0/78/Dialogue
+> CONTEXT: Map076/events/19/pages/0/78/Dialogue
+> CONTEXT: Map073/events/14/pages/0/78/Dialogue
+> CONTEXT: Map069/events/17/pages/0/78/Dialogue
+> CONTEXT: Map073/events/15/pages/0/78/Dialogue
+> CONTEXT: Map071/events/16/pages/0/78/Dialogue
+> CONTEXT: Map071/events/17/pages/0/78/Dialogue
+> CONTEXT: Map069/events/24/pages/0/78/Dialogue
+> CONTEXT: Map069/events/29/pages/0/78/Dialogue
+> CONTEXT: Map070/events/31/pages/0/78/Dialogue
+> CONTEXT: Map070/events/32/pages/0/78/Dialogue
+Goblin B. 「A cucumber, I ...... hayaku, kawatte ...!!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリンＣ
+「ワタシモ……」
+> CONTEXT: Map076/events/15/pages/0/81/Dialogue
+> CONTEXT: Map076/events/19/pages/0/81/Dialogue
+> CONTEXT: Map073/events/14/pages/0/81/Dialogue
+> CONTEXT: Map069/events/17/pages/0/81/Dialogue
+> CONTEXT: Map073/events/15/pages/0/81/Dialogue
+> CONTEXT: Map071/events/16/pages/0/81/Dialogue
+> CONTEXT: Map071/events/17/pages/0/81/Dialogue
+> CONTEXT: Map069/events/24/pages/0/81/Dialogue
+> CONTEXT: Map069/events/29/pages/0/81/Dialogue
+> CONTEXT: Map070/events/31/pages/0/81/Dialogue
+> CONTEXT: Map070/events/32/pages/0/81/Dialogue
+Goblin C. 「Watashimo ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（う、ううっ……気持ちいい、けどっ……
+一日で何人の女ゴブリンとセックスしなきゃいけないんだ……
+だ、誰か、助けてくれ……！）
+> CONTEXT: Map076/events/15/pages/0/84/Dialogue
+> CONTEXT: Map076/events/19/pages/0/84/Dialogue
+> CONTEXT: Map073/events/14/pages/0/84/Dialogue
+> CONTEXT: Map069/events/17/pages/0/84/Dialogue
+> CONTEXT: Map073/events/15/pages/0/84/Dialogue
+> CONTEXT: Map071/events/16/pages/0/84/Dialogue
+> CONTEXT: Map071/events/17/pages/0/84/Dialogue
+> CONTEXT: Map069/events/24/pages/0/84/Dialogue
+> CONTEXT: Map069/events/29/pages/0/84/Dialogue
+> CONTEXT: Map070/events/31/pages/0/84/Dialogue
+> CONTEXT: Map070/events/32/pages/0/84/Dialogue
+\\N[12]. (Uu, uugh ... ... feels good, burns ... ...
+I have to have sex with how many girls goblin in a day
+...... But, someone, please help me ...! )#MTLed
+> END STRING
+
+> BEGIN STRING
+しかし、ゴブリンの巣穴を訪れる人間はおらず――
+その後も女ゴブリンたちに毎日犯され続け、
+性奴隷として、生かさず殺さずの生活を強いられ続けた……
+> CONTEXT: Map076/events/15/pages/0/89/Dialogue
+> CONTEXT: Map076/events/19/pages/0/89/Dialogue
+> CONTEXT: Map073/events/14/pages/0/89/Dialogue
+> CONTEXT: Map069/events/17/pages/0/89/Dialogue
+> CONTEXT: Map073/events/15/pages/0/89/Dialogue
+> CONTEXT: Map071/events/16/pages/0/89/Dialogue
+> CONTEXT: Map071/events/17/pages/0/89/Dialogue
+> CONTEXT: Map069/events/24/pages/0/89/Dialogue
+> CONTEXT: Map069/events/29/pages/0/89/Dialogue
+> CONTEXT: Map070/events/31/pages/0/89/Dialogue
+> CONTEXT: Map070/events/32/pages/0/89/Dialogue
+However, there are no people visiting the goblins'
+Later girls continue to be fucked by goblins every day,
+As a sexual slave, I kept being forcibly living without
+killing ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+鎮静剤を手に入れた！
+> CONTEXT: Map076/events/17/pages/0/9/Dialogue
+> CONTEXT: Map075/events/20/pages/0/9/Dialogue
+> CONTEXT: Map019/events/39/pages/0/9/Dialogue
+I got a sedative!#MTLed
+> END STRING
+
+> BEGIN STRING
+パワーリングⅠを手に入れた！
+> CONTEXT: Map076/events/18/pages/0/9/Dialogue
+I got Power ring I!#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「はい、また私の勝ちー。
+一度くらいは私をピンチに追い込んでほしいなあ、
+そうじゃないと緊張感がなくてつまらないもん」
+> CONTEXT: Map076/events/20/pages/0/17/Dialogue
+Sherry. 「Yes, I also won. I want you to drive me
+into a pinch once, If it is not so, I am not
+feeling tense and it's boring」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……か、勝てない……」
+> CONTEXT: Map076/events/20/pages/0/22/Dialogue
+\\N[12]. 「uugh ... ... or can not win ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は幾度となくシェリーに挑戦するも、
+ことごとく跳ね返され、彼女の足元に這いつくばる。
+> CONTEXT: Map076/events/20/pages/0/25/Dialogue
+\\N[12] She will challenge Sherry several times,
+Everything is bouncing back and crawling on her feet.#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ま、懲りずにまた来てよ。
+頑張ってれば、そのうち一回ぐらいは勝てるかもよ？
+ふふっ……♪」
+> CONTEXT: Map076/events/20/pages/0/35/Dialogue
+Sherry. 「Well, come back without understanding.
+If you do your best, you may win around once.
+Hehu ......♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+余裕の笑顔で見下ろされ、\\N[12]は敗北の屈辱に沈む。
+> CONTEXT: Map076/events/20/pages/0/42/Dialogue
+It was overlooked with a smile of surplus, \\N[12] He
+sinks in the humiliation of defeat.#MTLed
+> END STRING

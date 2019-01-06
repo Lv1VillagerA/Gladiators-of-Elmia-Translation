@@ -1,0 +1,7 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+闘技場コンコース西
+> CONTEXT: Map137/display_name/
+> CONTEXT: Map055/display_name/
+tournament arena west#MTLed
+> END STRING

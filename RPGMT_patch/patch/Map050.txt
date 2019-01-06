@@ -1,0 +1,1426 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+メルグ邸
+> CONTEXT: Map050/display_name/
+Merg House#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「うちは色々と好きにさせてくれる家庭なの。
+私も学院に通わせてもらって、
+魔法使いになることができたわ」
+> CONTEXT: Map050/events/3/pages/0/0/Dialogue
+> CONTEXT: Map050/events/3/pages/6/7/Dialogue
+Woman. 「We are a family who makes me like various things.
+I was asked to go to the school, I was able to become a
+wizard」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「準備できた？　手合わせする？」
+> CONTEXT: Map050/events/3/pages/1/2/Dialogue
+> CONTEXT: Map050/events/3/pages/2/2/Dialogue
+> CONTEXT: Map050/events/3/pages/3/2/Dialogue
+> CONTEXT: Map050/events/3/pages/4/2/Dialogue
+Linetta. 「Ready? To arrange」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「い、今はちょっと準備できていないので、
+待ってもらってもいいですか？」
+> CONTEXT: Map050/events/3/pages/1/10/Dialogue
+> CONTEXT: Map050/events/3/pages/1/179/Dialogue
+> CONTEXT: Map050/events/3/pages/2/10/Dialogue
+> CONTEXT: Map050/events/3/pages/2/179/Dialogue
+> CONTEXT: Map050/events/3/pages/3/10/Dialogue
+> CONTEXT: Map050/events/3/pages/3/179/Dialogue
+> CONTEXT: Map050/events/3/pages/4/10/Dialogue
+> CONTEXT: Map050/events/3/pages/4/179/Dialogue
+\\N[12]. 「Well, now I am not ready for a moment,
+May I have you wait?」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「いいよー、いつでも声をかけてね！」
+> CONTEXT: Map050/events/3/pages/1/14/Dialogue
+> CONTEXT: Map050/events/3/pages/1/183/Dialogue
+> CONTEXT: Map050/events/3/pages/2/14/Dialogue
+> CONTEXT: Map050/events/3/pages/2/183/Dialogue
+> CONTEXT: Map050/events/3/pages/3/14/Dialogue
+> CONTEXT: Map050/events/3/pages/3/183/Dialogue
+> CONTEXT: Map050/events/3/pages/4/14/Dialogue
+> CONTEXT: Map050/events/3/pages/4/183/Dialogue
+Linetta. 「Okay, please call out anytime!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「あなたが\\N[12]君？　妹から話は聞いているわ、
+姪のために頑張ってくれて、ありがとね。
+私から報酬として、技をひとつ教えてあげるわ」
+> CONTEXT: Map050/events/3/pages/1/22/Dialogue
+> CONTEXT: Map050/events/3/pages/2/22/Dialogue
+> CONTEXT: Map050/events/3/pages/3/22/Dialogue
+> CONTEXT: Map050/events/3/pages/4/22/Dialogue
+Linetta. 「you \\N[12] You? I heard the story from my
+sister, Thank you for your good work for my niece.
+I will teach you one technique as a reward from me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとうございます。
+でもリネッタさんって魔法使いなんですよね？
+俺、魔法はちょっと才能がなくて……」
+> CONTEXT: Map050/events/3/pages/1/27/Dialogue
+> CONTEXT: Map050/events/3/pages/2/27/Dialogue
+> CONTEXT: Map050/events/3/pages/3/27/Dialogue
+> CONTEXT: Map050/events/3/pages/4/27/Dialogue
+\\N[12]. 「Thank you very much. But Linetta-san is a
+magician, is not it? I, magic is a little talented ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「それは大丈夫！
+本格的な魔法じゃなくて、一時的に精霊の力を借りて
+すごい技をぶっぱなすだけだから。魔力なくても使えるよ」
+> CONTEXT: Map050/events/3/pages/1/32/Dialogue
+Linetta. 「That's okay! It is not full-scale magic, borrow
+the power of a spirit temporarily. Because it's just
+leaving awesome skill. You can use it without magic」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうなんですか、それならいけそうですね。
+ぜひとも教えてください！」
+> CONTEXT: Map050/events/3/pages/1/37/Dialogue
+\\N[12]. 「I see, it looks like it will be OK.
+Please let me know!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「おっけー、ならさっそく実戦形式で伝授するわよ！
+この私、大魔導士リネッタがお相手するわ！
+勝っても負けても技は覚えられるから安心してね！」
+> CONTEXT: Map050/events/3/pages/1/41/Dialogue
+> CONTEXT: Map050/events/3/pages/2/41/Dialogue
+> CONTEXT: Map050/events/3/pages/3/41/Dialogue
+> CONTEXT: Map050/events/3/pages/4/41/Dialogue
+Linetta. 「Ooooo, I will transfer it in real battle format
+right away! This me, Daishinari Linetta is in for you!
+Even if you win or lose, you can relax your skills
+remember!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、実戦形式なんですか？」
+> CONTEXT: Map050/events/3/pages/1/46/Dialogue
+> CONTEXT: Map050/events/3/pages/2/46/Dialogue
+> CONTEXT: Map050/events/3/pages/3/46/Dialogue
+> CONTEXT: Map050/events/3/pages/4/46/Dialogue
+\\N[12]. 「Well, is it a real battle format?」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「じゃあ広いところに移動しましょうか」
+> CONTEXT: Map050/events/3/pages/1/52/Dialogue
+> CONTEXT: Map050/events/3/pages/2/52/Dialogue
+> CONTEXT: Map050/events/3/pages/3/52/Dialogue
+> CONTEXT: Map050/events/3/pages/4/52/Dialogue
+Linetta. 「So shall we move to a big place」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「それじゃ始めましょ！
+言っておくけど、女だからって油断はしちゃダメだからね。
+魔法の腕前には自信あるから、本気でやらないと怪我するわよ？」
+> CONTEXT: Map050/events/3/pages/1/60/Dialogue
+> CONTEXT: Map050/events/3/pages/2/60/Dialogue
+> CONTEXT: Map050/events/3/pages/3/60/Dialogue
+> CONTEXT: Map050/events/3/pages/4/60/Dialogue
+Linetta. 「Let's get started! I will tell you, because I'm
+a woman, I can not take care of it. I am confident in
+magical skill, so if you do not do it seriously you will
+get injured, do not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました、本気でいきます！」
+> CONTEXT: Map050/events/3/pages/1/65/Dialogue
+> CONTEXT: Map050/events/3/pages/2/65/Dialogue
+> CONTEXT: Map050/events/3/pages/3/65/Dialogue
+> CONTEXT: Map050/events/3/pages/4/65/Dialogue
+\\N[12]. 「Okay, I will go seriously!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「うーっ、やられちゃったかぁ。
+キミ、なかなか強いのねぇ」
+> CONTEXT: Map050/events/3/pages/1/77/Dialogue
+> CONTEXT: Map050/events/3/pages/2/77/Dialogue
+> CONTEXT: Map050/events/3/pages/3/77/Dialogue
+> CONTEXT: Map050/events/3/pages/4/77/Dialogue
+Linetta. 「Well, have you been hurt? You are quite strong,
+are not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ありがとうございました。
+なるほど、そういう技か……」
+> CONTEXT: Map050/events/3/pages/1/81/Dialogue
+> CONTEXT: Map050/events/3/pages/2/81/Dialogue
+> CONTEXT: Map050/events/3/pages/3/81/Dialogue
+> CONTEXT: Map050/events/3/pages/4/81/Dialogue
+\\N[12]. 「Oh, thank you. I see, that kind of technique
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+エレメンタルボムを習得した。
+> CONTEXT: Map050/events/3/pages/1/86/Dialogue
+> CONTEXT: Map050/events/3/pages/1/160/Dialogue
+I mastered Elemental Bomb.#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「どうやら使い方も分かったかな？
+結構使い勝手のいい技だと思うし、よかったら使ってね。
+> CONTEXT: Map050/events/3/pages/1/89/Dialogue
+> CONTEXT: Map050/events/3/pages/2/89/Dialogue
+> CONTEXT: Map050/events/3/pages/3/89/Dialogue
+> CONTEXT: Map050/events/3/pages/4/89/Dialogue
+Linetta. 「Apparently you know how to use it?
+I think that it is quite usable skill and if you do not
+mind, please use it.#MTLed
+> END STRING
+
+> BEGIN STRING
+ところで、ひとつ聞きたいんだけど、
+キミって武道大会に出るの？」
+> CONTEXT: Map050/events/3/pages/1/93/Dialogue
+> CONTEXT: Map050/events/3/pages/2/93/Dialogue
+> CONTEXT: Map050/events/3/pages/3/93/Dialogue
+> CONTEXT: Map050/events/3/pages/4/93/Dialogue
+By the way, I'd like to ask one thing, Are you going out to
+the martial arts tournament?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、出場する予定ですけど」
+> CONTEXT: Map050/events/3/pages/1/96/Dialogue
+> CONTEXT: Map050/events/3/pages/2/96/Dialogue
+> CONTEXT: Map050/events/3/pages/3/96/Dialogue
+> CONTEXT: Map050/events/3/pages/4/96/Dialogue
+\\N[12]. 「Yes, although I am planning to participate」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「そっかぁ、ふーん……
+これならひょっとしたら楽しめそうかな……
+あ、今回は妹のために頑張ってくれてありがとね、\\N[12]君」
+> CONTEXT: Map050/events/3/pages/1/99/Dialogue
+> CONTEXT: Map050/events/3/pages/2/99/Dialogue
+> CONTEXT: Map050/events/3/pages/3/99/Dialogue
+> CONTEXT: Map050/events/3/pages/4/99/Dialogue
+Linetta. 「I see, she is ... I guess I'm going to be able
+to enjoy it ... Oh, thanks for your efforts for my sister
+this time, \\N[12] You」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いえ、こちらこそいい技を教えていただいて
+ありがとうございました」
+> CONTEXT: Map050/events/3/pages/1/104/Dialogue
+> CONTEXT: Map050/events/3/pages/2/104/Dialogue
+> CONTEXT: Map050/events/3/pages/3/104/Dialogue
+> CONTEXT: Map050/events/3/pages/4/104/Dialogue
+\\N[12]. 「No, you can tell me a good technique
+Thank you very much」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「ちなみに、ルゼットも結構面白い技を持ってるから
+話しかけてみるといいかもしれないわよ？
+もしかしたら、教えてくれるかもね」
+> CONTEXT: Map050/events/3/pages/1/108/Dialogue
+> CONTEXT: Map050/events/3/pages/1/163/Dialogue
+> CONTEXT: Map050/events/3/pages/2/108/Dialogue
+> CONTEXT: Map050/events/3/pages/2/163/Dialogue
+> CONTEXT: Map050/events/3/pages/3/108/Dialogue
+> CONTEXT: Map050/events/3/pages/3/163/Dialogue
+> CONTEXT: Map050/events/3/pages/4/108/Dialogue
+> CONTEXT: Map050/events/3/pages/4/162/Dialogue
+Linetta. 「By the way, Lzet also has a fairly interesting
+technique. You might as well talk to me.
+Maybe you will tell me」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「ふふん、どう？
+お姉さんの魔法、すっごい効くでしょう」
+> CONTEXT: Map050/events/3/pages/1/131/Dialogue
+> CONTEXT: Map050/events/3/pages/2/131/Dialogue
+> CONTEXT: Map050/events/3/pages/3/131/Dialogue
+> CONTEXT: Map050/events/3/pages/4/131/Dialogue
+Linetta. 「How is that? Your sister's magic, it will be
+tremendously effective」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「つ、強い……俺の完敗です」
+> CONTEXT: Map050/events/3/pages/1/135/Dialogue
+> CONTEXT: Map050/events/3/pages/2/135/Dialogue
+> CONTEXT: Map050/events/3/pages/3/135/Dialogue
+> CONTEXT: Map050/events/3/pages/4/135/Dialogue
+\\N[12]. 「Strong ... ... It is my perfection」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「ま、戦闘中に使ってあげたし、精霊技のやり方は
+伝わったでしょ？　使い勝手のいい技だと思うし、
+活用してみてね。
+> CONTEXT: Map050/events/3/pages/1/138/Dialogue
+> CONTEXT: Map050/events/3/pages/2/138/Dialogue
+> CONTEXT: Map050/events/3/pages/3/138/Dialogue
+> CONTEXT: Map050/events/3/pages/4/138/Dialogue
+Linetta. 「Well, I used it during battle, and the way of
+spirit technique is. You got it transmitted? I think that
+it is a convenient skill, Try using it.#MTLed
+> END STRING
+
+> BEGIN STRING
+それと聞きたいんだけど、キミって武道大会に出るの？」
+> CONTEXT: Map050/events/3/pages/1/143/Dialogue
+> CONTEXT: Map050/events/3/pages/2/143/Dialogue
+> CONTEXT: Map050/events/3/pages/3/143/Dialogue
+> CONTEXT: Map050/events/3/pages/4/143/Dialogue
+I'd like to ask it, but are you going to martial arts
+tournament?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、はい。出場する予定でいますけど」
+> CONTEXT: Map050/events/3/pages/1/148/Dialogue
+> CONTEXT: Map050/events/3/pages/2/148/Dialogue
+> CONTEXT: Map050/events/3/pages/3/148/Dialogue
+> CONTEXT: Map050/events/3/pages/4/148/Dialogue
+\\N[12]. 「Oh, yes. I am planning to participate, but」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「ふーん、そっか……このレベルなら勝てるかな……
+あ、ごめんね、とりあえず勝負はこれで終わりね。
+それじゃ、改めて妹のために頑張ってくれて、ありがとね」
+> CONTEXT: Map050/events/3/pages/1/151/Dialogue
+> CONTEXT: Map050/events/3/pages/2/151/Dialogue
+> CONTEXT: Map050/events/3/pages/3/151/Dialogue
+> CONTEXT: Map050/events/3/pages/4/151/Dialogue
+Linetta. 「Hmm, that's ... I wonder if you can win this
+level ...... Oh, sorry, the game is over for now.
+Well then, thank you for working hard for my sister again」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、俺も技を教えていただいて、ありがとうございました！」
+> CONTEXT: Map050/events/3/pages/1/156/Dialogue
+> CONTEXT: Map050/events/3/pages/2/156/Dialogue
+> CONTEXT: Map050/events/3/pages/3/156/Dialogue
+> CONTEXT: Map050/events/3/pages/4/156/Dialogue
+\\N[12]. 「Yes, I also thank you for teaching me the
+technique!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「それは大丈夫！
+本格的な魔法じゃなくて、一時的に精霊の力を借りて
+シールドを張るだけだから。魔力より気力が必要よ」
+> CONTEXT: Map050/events/3/pages/2/32/Dialogue
+> CONTEXT: Map050/events/3/pages/3/32/Dialogue
+Linetta. 「That's okay! It is not full-scale magic, borrow
+the power of a spirit temporarily. Because I just lay a
+shield. I need more energy than magical power」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうなんですか、気力なら自信あるっす！
+それじゃぜひとも教えてください！」
+> CONTEXT: Map050/events/3/pages/2/37/Dialogue
+> CONTEXT: Map050/events/3/pages/3/37/Dialogue
+> CONTEXT: Map050/events/3/pages/4/37/Dialogue
+\\N[12]. 「Do you think so, I am confident if I am!
+Then let us know by all means!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ウィンドシールドを習得した。
+> CONTEXT: Map050/events/3/pages/2/86/Dialogue
+> CONTEXT: Map050/events/3/pages/2/160/Dialogue
+I mastered the windshield.#MTLed
+> END STRING
+
+> BEGIN STRING
+マジックバリアを習得した。
+> CONTEXT: Map050/events/3/pages/3/86/Dialogue
+> CONTEXT: Map050/events/3/pages/3/160/Dialogue
+I mastered Magic Barrier.#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「それは大丈夫！
+本格的な魔法じゃなくて、一時的に精霊の力を借りて
+癒しの力を発動するだけだから。魔力より気力が必要よ」
+> CONTEXT: Map050/events/3/pages/4/32/Dialogue
+Linetta. 「That's okay! It is not full-scale magic, borrow
+the power of a spirit temporarily. Because it just
+activates the power of healing. I need more energy than
+magical power」#MTLed
+> END STRING
+
+> BEGIN STRING
+リジェネレイトを習得した。
+> CONTEXT: Map050/events/3/pages/4/86/Dialogue
+> CONTEXT: Map050/events/3/pages/4/160/Dialogue
+I learned regeneration.#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「あ、\\N[12]君、やっほ。
+またお姉さんと戦ってみたいかな？
+なんてね、ふふっ」
+> CONTEXT: Map050/events/3/pages/5/0/Dialogue
+Linetta. 「Ah, \\N[12] You, the fuck. Or would you like
+to fight your older sister? Hey, hehehe.」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「あ、\\N[12]君、やっほ。
+またお姉さんと戦ってみたいかな？」
+> CONTEXT: Map050/events/3/pages/6/1/Dialogue
+> CONTEXT: Map050/events/3/pages/7/0/Dialogue
+Linetta. 「Ah, \\N[12] You, the fuck. Or would you like
+to fight your older sister?」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「あ、\\N[12]君、優勝おめでとう！
+でも、来年は私が優勝させてもらうもんね♪」
+> CONTEXT: Map050/events/3/pages/8/0/Dialogue
+Linetta. 「Ah, \\N[12] Congratulations on your winning!
+But next year I will be the winner♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「姉さんは魔法使いになったりして好きにやってるけど、
+私は若いうちに出産なんてしちゃったから
+子育てが大変なのよ～」
+> CONTEXT: Map050/events/4/pages/0/0/Dialogue
+> CONTEXT: Map050/events/4/pages/6/15/Dialogue
+Woman. 「My older sister is becoming a witch and doing
+whatever she likes, Because I gave birth to a young man
+Parenting is hard work ~」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こんちわっす。
+ギルドの張り紙を見て来たんですが」
+> CONTEXT: Map050/events/4/pages/1/0/Dialogue
+\\N[12]. 「Hello. I saw the guild's poster」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「あら、いらっしゃい。
+ありがとうね、私が依頼を出したルゼット＝メルグよ」
+> CONTEXT: Map050/events/4/pages/1/4/Dialogue
+Woman. 「Oh, welcome. Thank you, Lzet = Merg I asked for」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺は\\N[12]です、よろしくお願いします。
+それで依頼についてですが、
+なんでも、ミルクが欲しいとか？」
+> CONTEXT: Map050/events/4/pages/1/8/Dialogue
+\\N[12]. 「I am \\N[12] Is it, thanking you in.
+So about the request, Do you want anything, milk?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「そうなのよ、ちょっと最近お乳の出が悪くてね。
+かわりにディラント高原ミルクを、
+と思うんだけれど……
+> CONTEXT: Map050/events/4/pages/1/13/Dialogue
+Lzet. 「That's right, I've had some milk coming out
+recently. Instead of Dirant Kogen Milk, I think, but ....#MTLed
+> END STRING
+
+> BEGIN STRING
+主人も仕事で忙しいし、私は娘を見ていなきゃいけないし、
+私たちが自分で買いに行くのは難しいのよ。
+高原にあるウィギスの村に行って、買ってきてくれないかしら？」
+> CONTEXT: Map050/events/4/pages/1/18/Dialogue
+My husband is also busy with work, I have to watch my
+daughter, It is difficult for us to go buy on their own.
+Will you go to the village of Wigheis in the plateau and
+buy it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ウィギスの村ですね。
+わかりました、行ってきましょう」
+> CONTEXT: Map050/events/4/pages/1/22/Dialogue
+\\N[12]. 「It is a village in Wigheis. Okay, let's go.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「よろしくお願いするわね。
+あと、最近ちょっとうちの子が退屈そうにしてるから、
+お釣りでお土産を何か買ってきてくれたら嬉しいわ」
+> CONTEXT: Map050/events/4/pages/1/26/Dialogue
+Lzet. 「Thank you. Also, recently my child seems to be
+bored, I would be happy if you could buy something for
+souvenir by fishing」#MTLed
+> END STRING
+
+> BEGIN STRING
+1000G 預かった！
+> CONTEXT: Map050/events/4/pages/1/32/Dialogue
+I got a 1000G!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「俺のセンスでいいんですか？」
+> CONTEXT: Map050/events/4/pages/1/35/Dialogue
+\\N[12]. 「Is it okay with my sense?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ええ、予算内で自由に選んでくれていいわ。
+ウィギスにはお土産屋さんがあったはずだから、
+ちょうどいいと思うの」
+> CONTEXT: Map050/events/4/pages/1/38/Dialogue
+Lzet. 「Yes, you can choose freely within the budget.
+Since there was a souvenir shop at Wigheis,
+I think it's good.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、わかりました」
+> CONTEXT: Map050/events/4/pages/1/43/Dialogue
+\\N[12]. 「Ok, I understand」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ミルクとお土産か。
+とにかく、ウィギスの村に行ってみるとしよう。
+確か、街道を北の方へ向かえば着くはずだ）
+> CONTEXT: Map050/events/4/pages/1/46/Dialogue
+\\N[12]. (Milk and souvenirs. Anyway, let's go to the
+village of Wigheis. Certainly, you should reach the north
+by taking the highway)#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「よろしくお願いね。
+ミルクはウィギスの村で売っているわ。
+お土産も忘れないでね」
+> CONTEXT: Map050/events/4/pages/2/0/Dialogue
+Lzet. 「Thank you. Milk is sold in the village of Wigheis.
+Do not forget souvenirs, ne」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミルクを渡す
+> CONTEXT: Map050/events/4/pages/2/5/Choice/0
+Pass milk#MTLed
+> END STRING
+
+> BEGIN STRING
+おみやげを渡す
+> CONTEXT: Map050/events/4/pages/2/5/Choice/1
+Passing souvenirs#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ありがとうね、ミルクとても助かったわ。
+これで赤ちゃんの栄養もバッチリよ」
+> CONTEXT: Map050/events/4/pages/2/8/Dialogue
+Lzet. 「Thank you, milk I was very saved.
+Your baby 's nutrition is patchy with this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ちわっす、ミルク買ってきましたよー」
+> CONTEXT: Map050/events/4/pages/2/17/Dialogue
+\\N[12]. 「I bought it, I bought milk」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディラント高原ミルクを手渡した。
+> CONTEXT: Map050/events/4/pages/2/20/Dialogue
+I handed Dirant Kogen Milk.#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「これこれ、これがあれば安心だわ。
+ありがとう、本当に助かったわ」
+> CONTEXT: Map050/events/4/pages/2/22/Dialogue
+Lzet. 「It is safe if this is the case. Thank you, I was
+really saved.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（おっと、まだミルクは手に入れていなかったぜ）
+> CONTEXT: Map050/events/4/pages/2/28/Dialogue
+\\N[12]. (Oops, I have not gotten milk yet)#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ありがとう、おみやげはもう受け取ったわ」
+> CONTEXT: Map050/events/4/pages/2/39/Dialogue
+Lzet. 「Thank you, I received souvenirs already.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（なにを渡そうか？）
+> CONTEXT: Map050/events/4/pages/2/44/Dialogue
+\\N[12]. (What should I give?#MTLed
+> END STRING
+
+> BEGIN STRING
+木組みの馬車を渡す
+> CONTEXT: Map050/events/4/pages/2/47/Choice/0
+Pass a wagon carriage#MTLed
+> END STRING
+
+> BEGIN STRING
+輝石のイヤリングを渡す
+> CONTEXT: Map050/events/4/pages/2/47/Choice/1
+Pass the pyroxene earrings#MTLed
+> END STRING
+
+> BEGIN STRING
+雪うさぎのぬいぐるみを渡す
+> CONTEXT: Map050/events/4/pages/2/47/Choice/2
+Pass the stuffed snow rabbit#MTLed
+> END STRING
+
+> BEGIN STRING
+木組みの馬車を渡した。
+> CONTEXT: Map050/events/4/pages/2/51/Dialogue
+I handed a horse-drawn carriage.#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「へぇ、ウィギスの村は工芸品も有名だけれど、
+これは娘のおもちゃにちょうどいいわね。
+ありがとう、助かるわ」
+> CONTEXT: Map050/events/4/pages/2/53/Dialogue
+Lzet. 「Whehe, the village of Wigheis is also famous for
+craftworks, This is good for my daughter's toy.
+Thank you, I will be saved.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（かなり喜んでもらえたようだ）
+> CONTEXT: Map050/events/4/pages/2/58/Dialogue
+\\N[12]. (It seems they were pretty happy)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（それは持ってないぜ）
+> CONTEXT: Map050/events/4/pages/2/65/Dialogue
+> CONTEXT: Map050/events/4/pages/2/102/Dialogue
+> CONTEXT: Map050/events/4/pages/2/125/Dialogue
+> CONTEXT: Map050/events/4/pages/2/150/Dialogue
+\\N[12]. (I do not have that)#MTLed
+> END STRING
+
+> BEGIN STRING
+輝石のイヤリングを渡した。
+> CONTEXT: Map050/events/4/pages/2/74/Dialogue
+I handed the pyroxene earrings.#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「とても綺麗なイヤリングね、嬉しいわ。
+でも、これだとうちの娘のためのおみやげというより、
+私へのプレゼントみたいね」
+> CONTEXT: Map050/events/4/pages/2/76/Dialogue
+Lzet. 「Very beautiful earrings, I'm glad.
+However, rather than souvenirs for our daughter,
+It looks like a gift for me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、す、すみません、ご迷惑でしたか？」
+> CONTEXT: Map050/events/4/pages/2/81/Dialogue
+\\N[12]. 「Oooh, sorry, were you annoying?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ちょっと意図とは違ったけれど、これはこれで。
+キミみたいな若い男の子にこんなプレゼントを貰えた、
+っていうのもちょっとドキドキするかも♪
+> CONTEXT: Map050/events/4/pages/2/84/Dialogue
+Lzet. 「It was a bit different from my intention, but this
+is it. I got this gift for a young boy like you,
+It might be a little bit too♪#MTLed
+> END STRING
+
+> BEGIN STRING
+でも主人にはナイショね？
+さすがに体裁が悪いからね」
+> CONTEXT: Map050/events/4/pages/2/89/Dialogue
+But is it nice for my husband? It is indeed a bad form」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました、約束します」
+> CONTEXT: Map050/events/4/pages/2/92/Dialogue
+\\N[12]. 「Okay, I promise.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ちょっと、そぐわないおみやげだったかもしれないな）
+> CONTEXT: Map050/events/4/pages/2/95/Dialogue
+\\N[12]. (Maybe it was a sneaky souvenir)#MTLed
+> END STRING
+
+> BEGIN STRING
+雪うさぎのぬいぐるみを渡した。
+> CONTEXT: Map050/events/4/pages/2/111/Dialogue
+I handed over the snow rabbit stuffed animal.#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「まあ、可愛いわねぇ♪
+うんうん、うちの子は女の子だし、こういうのが欲しかったの。
+ありがとう、とてもいいプレゼントだわ」
+> CONTEXT: Map050/events/4/pages/2/113/Dialogue
+Lzet. 「Well, it's cute♪. , My child is a girl, I wanted
+something like this. Thank you, it's a nice present」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（すごく喜んでもらえたようだ）
+> CONTEXT: Map050/events/4/pages/2/118/Dialogue
+\\N[12]. (It seems they were very pleased)#MTLed
+> END STRING
+
+> BEGIN STRING
+オルゴールを渡す
+> CONTEXT: Map050/events/4/pages/2/132/Choice/0
+Passing a music box#MTLed
+> END STRING
+
+> BEGIN STRING
+オルゴールを渡した。
+> CONTEXT: Map050/events/4/pages/2/136/Dialogue
+I handed the music box.#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「へぇ、オルゴールだなんてお洒落ね。
+ウィギスは工芸品で有名だし、いいチョイスね。
+寝かしつけるのに使えるかな？」
+> CONTEXT: Map050/events/4/pages/2/138/Dialogue
+Lzet. 「Wow, it's fancy that it's an music box.
+Wigheis is famous for craftwork and it's a good choice.
+Can I use it for sleeping?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（そこそこ喜んでもらえたようだ）
+> CONTEXT: Map050/events/4/pages/2/143/Dialogue
+\\N[12]. (It seems they were pleased)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（まだおみやげを買ってきてはいないぞ）
+> CONTEXT: Map050/events/4/pages/2/163/Dialogue
+\\N[12]. (I have not bought souvenir yet)#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ミルクとおみやげ、どうもありがとうね。
+報酬はギルドで受け取ってちょうだい。
+> CONTEXT: Map050/events/4/pages/3/5/Dialogue
+Lzet. 「Milk and souvenirs, thank you very much.
+Please accept the rewards with the guild.#MTLed
+> END STRING
+
+> BEGIN STRING
+それと、最初に渡したお金が余ったかもしれないけれど、
+その場合でも、お釣りはとっておいて。
+今回はとても助かったわ。
+またなにかあれば、キミにお願いしたいわね」
+> CONTEXT: Map050/events/4/pages/3/9/Dialogue
+Also, although the first money I gave may have surplus,
+Even then, keep the fishing. It was a great help this time.
+If you have something again, I'd like to ask you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いやあ、お安いご用ですよ。
+またなにかあれば、いつでもご依頼ください」
+> CONTEXT: Map050/events/4/pages/3/14/Dialogue
+\\N[12]. 「Well, it is cheap. If you have anything else
+please ask at any time」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「そうそう、報酬がお金だけじゃ風情がないし、
+私の姉にお願いして、技を教えてもらえるようにしておいたわ」
+> CONTEXT: Map050/events/4/pages/3/18/Dialogue
+Lzet. 「Oh yeah, if the reward is only money,
+I asked my sister to let me know the skill」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お姉さん、ですか？」
+> CONTEXT: Map050/events/4/pages/3/22/Dialogue
+\\N[12]. 「Is it your older sister?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ええ、リネッタというんだけどね。腕の立つ魔法使いなのよ。
+役に立つ技を教えてもらえると思うし、
+隣の部屋にいるから、よかったら話してみてね」
+> CONTEXT: Map050/events/4/pages/3/25/Dialogue
+Lzet. 「Yes, it is called Linetta. It's a wizard of arms.
+I think that you can teach us useful techniques,
+I will be in the next room, so please try talking」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました、
+いろいろ気を回していただいて、ありがとうございます」
+> CONTEXT: Map050/events/4/pages/3/30/Dialogue
+\\N[12]. 「understood, Thank you for your attention.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ううん、いいのよ。
+それじゃ、またお願いね」
+> CONTEXT: Map050/events/4/pages/3/34/Dialogue
+Lzet. 「No, that's fine. Well then, please do again」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ただ、せっかくだし
+ルゼットさんの勧め通り、お姉さんにも話しかけてみようか？）
+> CONTEXT: Map050/events/4/pages/3/43/Dialogue
+\\N[12]. (But, it's okay. Let's talk to your sister, as
+Lzet-san recommends? )#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「あら\\N[12]君、こんにちは。
+ところで、キミって武道大会に出るのかしら？」
+> CONTEXT: Map050/events/4/pages/4/0/Dialogue
+> CONTEXT: Map050/events/8/pages/1/0/Dialogue
+Lzet. 「Oh \\N[12] Hello, you. By the way, are you going
+to martial arts tournament?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ええ、出場する予定です」
+> CONTEXT: Map050/events/4/pages/4/4/Dialogue
+> CONTEXT: Map050/events/8/pages/1/4/Dialogue
+\\N[12]. 「Yes, I am planning to participate.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「そうなのね。
+それじゃ、私が練習相手になってあげましょうか？」
+> CONTEXT: Map050/events/4/pages/4/7/Dialogue
+> CONTEXT: Map050/events/8/pages/1/7/Dialogue
+Lzet. 「that's it. Well then shall I become a practice
+partner?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「えっ、ルゼットさんが？
+戦えるんですか？」
+> CONTEXT: Map050/events/4/pages/4/11/Dialogue
+> CONTEXT: Map050/events/8/pages/1/11/Dialogue
+\\N[12]. 「Er, Lzet-san? Can you fight?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ええ、こう見えても格闘術と回復魔法には
+少し自信があるのよ。
+姉さんとは少しタイプが違うけど、戦う力はあるわ。
+> CONTEXT: Map050/events/4/pages/4/15/Dialogue
+> CONTEXT: Map050/events/8/pages/1/15/Dialogue
+Lzet. 「Yeah, even though it looks like this, to martial
+arts and recovery magic. I am a little confident.
+It is a bit different from my older sister, but I have the
+power to fight.#MTLed
+> END STRING
+
+> BEGIN STRING
+どうする？　やってみるかしら？」
+> CONTEXT: Map050/events/4/pages/4/20/Dialogue
+> CONTEXT: Map050/events/8/pages/1/20/Dialogue
+what will you do? I wonder if I try?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「それじゃ、始めましょう。
+子持ちのおばさんだと思って油断していると、
+痛い目を見るからね？」
+> CONTEXT: Map050/events/4/pages/4/27/Dialogue
+Lzet. 「Let's get started. I thought that she was a lady
+with a child, You see painful eyes, is not it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、よろしくお願いします」
+> CONTEXT: Map050/events/4/pages/4/32/Dialogue
+\\N[12]. 「Yes, thank you」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「あいたたた……
+私の腕じゃ、かなわないわね。
+\\N[12]君の勝ちよ」
+> CONTEXT: Map050/events/4/pages/4/43/Dialogue
+Lzet. 「Aitatan ...... My arm does not make sense.
+\\N[12] You win」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとうございました。
+ルゼットさん、魔法以外にも回復の術が使えるんですね」
+> CONTEXT: Map050/events/4/pages/4/48/Dialogue
+\\N[12]. 「Thank you very much. Lzet-san, you can use
+recovery techniques besides magic」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ええ、呼吸法で気を練って回復する術ね。
+なにかと便利だし、\\N[12]君も覚えてみる？」
+> CONTEXT: Map050/events/4/pages/4/52/Dialogue
+Lzet. 「Yes, it is a technique to recover by carefully
+breathing. It's anything useful, \\N[12] Will you also
+remember?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、ぜひ！」
+> CONTEXT: Map050/events/4/pages/4/56/Dialogue
+\\N[12]. 「Yes, certainly!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はルゼットから
+練気回復法を教えてもらった！
+> CONTEXT: Map050/events/4/pages/4/61/Dialogue
+> CONTEXT: Map050/events/4/pages/4/114/Dialogue
+> CONTEXT: Commonevents/271/59/Dialogue
+\\N[12] From Lzet. I was taught how to restore breath!#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「どうだったかしら？
+私との勝負、武道大会に向けて足しになればいいんだけど」
+> CONTEXT: Map050/events/4/pages/4/71/Dialogue
+Lzet. 「How was it? I hope to be a game against me, toward
+martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いい技も教えてもらいましたし、助かりましたよ。
+ルゼットさんとの勝負、
+必ず武道大会で活かしてみせます！」
+> CONTEXT: Map050/events/4/pages/4/75/Dialogue
+\\N[12]. 「I was taught a nice skill and it was saved.
+A match against Lzet-san, Always make use of martial arts
+tournament!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「お役に立てたならよかったわ。
+\\N[12]君のこと、応援させてもらうわね」
+> CONTEXT: Map050/events/4/pages/4/80/Dialogue
+Lzet. 「I wish I could have served you. \\N[12] I will
+be cheering for you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……ま、負けました……」
+> CONTEXT: Map050/events/4/pages/4/93/Dialogue
+> CONTEXT: Map050/events/4/pages/5/86/Dialogue
+> CONTEXT: Commonevents/271/3/Dialogue
+> CONTEXT: Commonevents/271/38/Dialogue
+\\N[12]. 「I heard ... lost ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ふうっ、なんとか勝てたわね。
+久々の実戦だったけれど、
+思ったより勘が鈍っていなくてよかったわ」
+> CONTEXT: Map050/events/4/pages/4/97/Dialogue
+> CONTEXT: Commonevents/271/42/Dialogue
+Lzet. 「Fortunately, I managed to win. Although it was a
+real battle for a long time, I was glad I did not feel more
+intuition than I thought」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（つ、強い……
+回復法と打撃をバランスよく繰り出してくるから
+仕留めきれずに、逆にトドメをさされちまった）
+> CONTEXT: Map050/events/4/pages/4/102/Dialogue
+> CONTEXT: Commonevents/271/47/Dialogue
+\\N[12]. (One, strong ... .... I will come out with a
+balanced recovery method and blow. I could not finish it,
+conversely I was told a finisher)#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「これだけだと、なんだか若い子をいじめちゃったみたいで
+ちょっとかわいそうだし、ひとつ技を教えてあげるわね。
+魔法が不得手でも回復ができる術だから、役に立つわよ？」
+> CONTEXT: Map050/events/4/pages/4/107/Dialogue
+> CONTEXT: Commonevents/271/52/Dialogue
+Lzet. 「Just like this, I seem to have bullied a young
+child somehow. I feel a little sorry and I will teach you
+one technique. It is useful because magic is a weak
+technique that can recover, is it useful?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「勝てたのは嬉しいけど……\\N[12]君、
+こんな何年も前に現役を退いた主婦に負けてるようじゃ
+ちょっと情けないわねぇ」
+> CONTEXT: Map050/events/4/pages/4/124/Dialogue
+> CONTEXT: Commonevents/271/64/Dialogue
+Lzet. 「I'm glad I could win ... .... \\N[12] You,
+You seem to be defeated by a housewife who retired from
+active service like this many years ago. I feel a little
+sorry.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ、不甲斐ないです……」
+> CONTEXT: Map050/events/4/pages/4/130/Dialogue
+> CONTEXT: Commonevents/271/70/Dialogue
+\\N[12]. 「OHh, it is not pretty ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「まあ、若いんだから、これからいくらでも伸びるわよね。
+私の戦い方が参考になるか分からないけれど、
+武道大会までに強くなれるよう、頑張ってね」
+> CONTEXT: Map050/events/4/pages/4/133/Dialogue
+> CONTEXT: Commonevents/271/73/Dialogue
+Lzet. 「Well, it's young, so you can grow as much as you
+want. I do not know if my way of fighting will be helpful,
+Good luck to be strong by the martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、ルゼットさんとの勝負、すごく勉強になりました。
+教えてもらった技も活かして、
+武道大会で勝てるように頑張ります！」
+> CONTEXT: Map050/events/4/pages/4/138/Dialogue
+> CONTEXT: Commonevents/271/78/Dialogue
+\\N[12]. 「Yes, I fought with Lzet-san, I learned a lot.
+Taking advantage of the technique taught,
+I will do my best to win the martial arts tournament!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「うんうん、その意気よ。
+私もキミのこと応援させてもらうわね」
+> CONTEXT: Map050/events/4/pages/4/143/Dialogue
+> CONTEXT: Commonevents/271/83/Dialogue
+Lzet. 「, That spirit. I will also be cheering for you
+about me」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「あら、そう？
+私ならいつでも相手になるから、遠慮なく言ってね」
+> CONTEXT: Map050/events/4/pages/4/153/Dialogue
+> CONTEXT: Map050/events/8/pages/1/26/Dialogue
+Lzet. 「Oh yeah? Because I will always be your opponent,
+please do not hesitate to say」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「あら\\N[12]君、ミルクありがとうね。
+おかげで、うちの娘もごきげんなのよ」
+> CONTEXT: Map050/events/4/pages/5/0/Dialogue
+> CONTEXT: Map050/events/4/pages/6/1/Dialogue
+Lzet. 「Oh \\N[12] Thank you, milk. Thanks, my daughter
+is getting excited too」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ところで\\N[12]君、
+また私と手合わせしてみる？」
+> CONTEXT: Map050/events/4/pages/5/7/Dialogue
+Lzet. 「by the way \\N[12] You, Would you like to try
+again with me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「そうそう、
+男の子なら、負けっぱなしでいちゃダメよ。
+キミが勝てるまでは、何度でも付き合ってあげるわ」
+> CONTEXT: Map050/events/4/pages/5/13/Dialogue
+Lzet. 「Yes Yes, If you are a boy, you should not lose.
+Until you can win, I will go out with you again and again」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「それじゃ、始めましょう。
+前回よりも強くなってるかしら、
+ちょっとわくわくするわね」
+> CONTEXT: Map050/events/4/pages/5/21/Dialogue
+Lzet. 「Let's get started. I wonder if it is getting
+stronger than last time, I guess hey」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いきますよ、ルゼットさん。
+今度こそ勝ってみせます！」
+> CONTEXT: Map050/events/4/pages/5/26/Dialogue
+\\N[12]. 「I will go, Lzet-san. I will show you this
+time next time!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「あいたたた……
+うん、よく頑張ったわね、\\N[12]君。
+キミの勝ちよ」
+> CONTEXT: Map050/events/4/pages/5/39/Dialogue
+Lzet. 「Aitatan ...... Yeah, I worked hard, \\N[12] You.
+Kimi wins」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「や、やった！
+ありがとうございました、ルゼットさん」
+> CONTEXT: Map050/events/4/pages/5/44/Dialogue
+\\N[12]. 「And he did it! Thank you, Lzet - san」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「やっぱり若い男の子は強くなるのが早いわね。
+負けちゃったのは少し悔しいけれど、
+成長したところを見せてくれて嬉しいわ」
+> CONTEXT: Map050/events/4/pages/5/48/Dialogue
+Lzet. 「After all the young boy is getting stronger early.
+I regret that I lost a bit, I'm glad you showed me where I
+grew up.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「最近、子育てや家事て手一杯で気疲れしてて
+体を動かせていなかったから、
+キミとの勝負は私も楽しかったわ。ありがとね」
+> CONTEXT: Map050/events/4/pages/5/59/Dialogue
+Lzet. 「I am getting tired of taking care of my childhood
+and housework lately. Because I was not moving my body,
+I enjoyed the game with you too. Thanks dear」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いえ、俺の方こそ、
+何度も手合わせしてもらって嬉しかったです。
+ルゼットさんのおかげで強くなれた気がしますし」
+> CONTEXT: Map050/events/4/pages/5/64/Dialogue
+\\N[12]. 「No, for me, I was pleased that you had me go
+through several times. I feel I became stronger thanks to
+Lzet-san」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「お役に立てたならよかったわ。
+武道大会、頑張って。
+\\N[12]君のこと、応援させてもらうからね」
+> CONTEXT: Map050/events/4/pages/5/69/Dialogue
+Lzet. 「I wish I could have served you. Good martial arts
+tournament, good luck. \\N[12] Because you will be
+cheering for you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、絶対に勝ち上がってみせます！」
+> CONTEXT: Map050/events/4/pages/5/74/Dialogue
+\\N[12]. 「Yes, I definitely will win!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ふふっ、また私の勝ちね。
+若い男の子相手に、こんなに何度も勝てちゃうなんて
+私もまだまだ現役でいけるかも♪」
+> CONTEXT: Map050/events/4/pages/5/90/Dialogue
+> CONTEXT: Commonevents/271/7/Dialogue
+Lzet. 「Haha, I also won. To a young boy who can win this
+many times. Maybe I can stay active♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼットとの手合わせにより
+100の経験値を得た。
+> CONTEXT: Map050/events/4/pages/5/97/Dialogue
+> CONTEXT: Commonevents/271/14/Dialogue
+By arranging with Lzet. I gained 100 experience points.#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「うーん、勝てたのは嬉しいんだけど、
+\\N[12]君、あんまり強くなっていなかったみたいね。
+私に勝てないようじゃ、武道大会は厳しいわよ？」
+> CONTEXT: Map050/events/4/pages/5/107/Dialogue
+> CONTEXT: Commonevents/271/19/Dialogue
+Lzet. 「Well, I'm glad I win, \\N[12] You seem to have
+not been getting stronger. If you do not win me, the
+martial arts tournament is tough?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「情けないところを見せて、不甲斐ないです……
+まだまだ鍛え方が足りないですね、俺」
+> CONTEXT: Map050/events/4/pages/5/113/Dialogue
+> CONTEXT: Commonevents/271/25/Dialogue
+\\N[12]. 「Showing miserable place, it is not pretty ...
+... How to train is not enough, I」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「もっと実戦経験を積めば、キミは必ず強くなると思うわ。
+次は成長したところを見せてね。
+私でよければ、いつでも相手になってあげるから」
+> CONTEXT: Map050/events/4/pages/5/117/Dialogue
+> CONTEXT: Commonevents/271/29/Dialogue
+Lzet. 「I think that you will definitely become stronger if
+you have more actual experience. Next time, show me where
+you have grown up. If you do not mind, I will always be
+your opponent」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「あら、そう？
+私でよければいつでも相手になるから、
+遠慮しないでね」
+> CONTEXT: Map050/events/4/pages/5/127/Dialogue
+Lzet. 「Oh yeah? Because you can always become a partner if
+you do not mind, Do not hold back.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「姉さんは魔法使いになったりして好きにやってるけど、
+私は若いうちに出産なんてしちゃったから
+子育てが大変なのよ～」
+> CONTEXT: Map050/events/4/pages/6/8/Dialogue
+Lzet. 「My older sister is becoming a witch and doing
+whatever she likes, Because I gave birth to a young man
+Parenting is hard work ~」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「準決勝は姉さんの試合だったから
+娘を主人に任せて見に行ったけれど、今日も行きたかったなぁ。
+娘が大きくなったら、一緒に見に行こうかな」
+> CONTEXT: Map050/events/4/pages/8/0/Dialogue
+Lzet. 「Because the semifinal was a sister's match
+I left my daughter to my husband and went to see it, but I
+wanted to go today as well. If my daughter gets bigger, I
+should go see it together」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「大会、キミが優勝したんですって？
+すごいわねぇ、若いのにたいしたものだわ」
+> CONTEXT: Map050/events/4/pages/9/0/Dialogue
+Lzet. 「tournament, you say you won the championship?
+It's amazing, it's a big deal though it's young」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ごめんなさいね。
+期限が過ぎてしまったから、依頼はキャンセルするわ」
+> CONTEXT: Map050/events/4/pages/10/0/Dialogue
+Lzet. 「Sorry. Because the deadline has expired, I will
+cancel the request」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうですか、こちらこそすみません、
+期限までに依頼を終わらせられず……」
+> CONTEXT: Map050/events/4/pages/10/4/Dialogue
+\\N[12]. 「That's right, I'm sorry, I can not finish the
+request by the deadline ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「ううん、気にしないで。
+ミルクはこちらで何とか都合をつけるわ」
+> CONTEXT: Map050/events/4/pages/10/8/Dialogue
+Lzet. 「No, do not mind. Milk can handle it here somehow」#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼：『ミルクが欲しい』は
+期限が過ぎたため失敗となります。
+依頼票は持ち物から消滅します。
+> CONTEXT: Map050/events/4/pages/10/12/Dialogue
+Request: "I want milk". It will fail because the deadline
+has expired. Request slips will disappear from their
+belongings.#MTLed
+> END STRING
+
+> BEGIN STRING
+預かった1000Gを返却しました。
+（足りない場合はギルドが建て替えた扱いとなります）
+> CONTEXT: Map050/events/4/pages/10/19/Dialogue
+I returned the 1000 G you got. (If it is missing, the guild
+will be rebuilt treatment)#MTLed
+> END STRING
+
+> BEGIN STRING
+赤ん坊
+「あー、うー」
+> CONTEXT: Map050/events/5/pages/0/0/Dialogue
+baby. 「Ahh」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「若い嫁さんと結婚できたのはいいが、
+嫁さんの実家に居候というのは居心地がちょっとね……」
+> CONTEXT: Map050/events/6/pages/0/0/Dialogue
+male. 「It was nice to have married a young bride,
+The coziness is a little indulgence at the bride's parents
+house ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「嫁さんと娘のために
+一生懸命稼いでこなきゃならんな」
+> CONTEXT: Map050/events/6/pages/3/0/Dialogue
+male. 「For my wife and my daughter. I have to earn a lot
+of hard work」#MTLed
+> END STRING

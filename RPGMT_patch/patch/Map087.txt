@@ -1,0 +1,303 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+村長
+「旅の方ですかな？　ようこそウィギスへ。
+辺鄙な村ですが、どうかくつろいでいってくだされ」
+> CONTEXT: Map087/events/2/pages/0/0/Dialogue
+> CONTEXT: Map087/events/2/pages/3/15/Dialogue
+village head. 「Are you traveling? Welcome to Wigheis.
+It is a remote village, please relax.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こんちわっす、俺、王都の冒険者ギルドから
+魔物退治の依頼を受けに来ました、\\N[12]っていいます。
+村長さん、お話いいですか？」
+> CONTEXT: Map087/events/2/pages/1/5/Dialogue
+\\N[12]. 「Hello, I, from King's Adventurer Guild
+I came to receive a request for monster extermination,
+\\N[12] I say. Village Head, are you talking?」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「おお、よろしいですとも。
+頼もしいことです、
+魔物退治、よろしく頼みますよ」
+> CONTEXT: Map087/events/2/pages/1/10/Dialogue
+village head. 「Oh, all right. It is reliable,
+monster extermination, I'm begging for you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「その魔物ですけど、いったいどんな？」
+> CONTEXT: Map087/events/2/pages/1/15/Dialogue
+\\N[12]. 「That monster, but what on earth?」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「どのような魔物なのかは分かりません。
+ですが、甲高く響く女のような金切り声を聞いた、
+という村人が何人もおりましてな」
+> CONTEXT: Map087/events/2/pages/1/18/Dialogue
+village head. 「I do not know what kind of monster it is.
+However, I heard a screech like a woman who resonates
+sharply, There were a lot of villagers called」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふむふむ。女の声ね……」
+> CONTEXT: Map087/events/2/pages/1/23/Dialogue
+\\N[12]. 「.A woman's voice ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「人型の魔物かもしれませんな。
+そして、その声が聞こえ始めてからというもの、
+猛烈な吹雪が収まりませんでな」
+> CONTEXT: Map087/events/2/pages/1/26/Dialogue
+village head. 「It may be a humanoid monster.
+And since that voice began to be heard, Fierce snowstorm
+does not fit」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ここいらは、いつもこのくらいの季節になると
+吹雪くらいは普通じゃないんですか？」
+> CONTEXT: Map087/events/2/pages/1/31/Dialogue
+\\N[12]. 「I guess this is when this season is always
+Is it like normal snowstorms?」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「いえいえ、まだ秋ですからな。
+雪が積もる程度のことは普通ですが、
+吹雪になるなど、ほぼありえないことです。
+> CONTEXT: Map087/events/2/pages/1/35/Dialogue
+village head. 「It is still autumn. It is normal for snow
+to accumulate, It is almost impossible to get a snowstorm.#MTLed
+> END STRING
+
+> BEGIN STRING
+ですが、ディラント高原は雪にまつわる魔物の伝説が
+いくつも残されている土地です。
+過去にはこういうこともあったでしょうな」
+> CONTEXT: Map087/events/2/pages/1/40/Dialogue
+However, Dirant Plateau is a monster legend about snow
+There are plenty of land left. There must have been such a
+thing in the past」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「その魔物のせいで天気が異常だということですか」
+> CONTEXT: Map087/events/2/pages/1/44/Dialogue
+\\N[12]. 「Does that monster mean that the weather is
+abnormal?」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「そう、このままでは作物の生育にも悪影響が出ますし、
+なにより牛たちの放牧期間が充分にとれません。
+> CONTEXT: Map087/events/2/pages/1/47/Dialogue
+village head. 「Yes, as it is, the growth of crops will be
+adversely affected, Most of all, cattle are not grazing
+period sufficiently.#MTLed
+> END STRING
+
+> BEGIN STRING
+加えて、街道や高原に雪娘が大量発生しております。
+あれは本来気弱な妖精で、人里近くに現れることは少ないはず。
+おそらく、魔物に使役されているのではないかと」
+> CONTEXT: Map087/events/2/pages/1/51/Dialogue
+In addition, Yuki Musume has occurred in large quantities
+on the highway and plateau. That is an inherently weak
+fairy, which should not appear near the village.
+Perhaps it is being used by monster」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「妖精の大量発生ですか、それじゃ観光なんかにも
+影響が出そうですね」
+> CONTEXT: Map087/events/2/pages/1/55/Dialogue
+\\N[12]. 「Is there a mass fairy accident, then
+sightseeing. It seems to be affected」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「そう、安全保障と産業、この村にとっては二重の打撃なのです。
+なんとか、魔物を退治していただきたいのですが」
+> CONTEXT: Map087/events/2/pages/1/59/Dialogue
+village head. 「Yes, security and industry, a double blow
+for this village. I'd like to get rid of monster somehow」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました、任せてください。
+それで、魔物がいるらしい場所というのは？」
+> CONTEXT: Map087/events/2/pages/1/63/Dialogue
+\\N[12]. 「Okay, please leave it. So what is the place
+where monster is supposed to be?」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「ディラント高原の北東部に、岩山に囲まれた
+台地のような場所がありましてな。
+その方向から声が響いてくると猟師が言っております。
+> CONTEXT: Map087/events/2/pages/1/67/Dialogue
+village head. 「Surrounded by rocky mountains in the
+northeastern part of the Dirant plateau. There was a place
+like a plateau. The hunter says the voice will echo from
+that direction.#MTLed
+> END STRING
+
+> BEGIN STRING
+台地には洞窟もあり、その最奥部には
+かつてエルミア建国の英雄となったクロスベイン公が
+愛用されたとも伝わる
+氷の魔剣が眠っているとされています」
+> CONTEXT: Map087/events/2/pages/1/72/Dialogue
+There is also a cave on the plateau, and in the innermost
+part. Democratic Crossbain, who once became the hero of
+Elmia's foundation. It is transmitted as being used
+favorably. It is said that the 魔 の 魔 sword is sleeping」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へぇ……」
+> CONTEXT: Map087/events/2/pages/1/77/Dialogue
+\\N[12]. 「Wow ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「とはいえ、あくまで伝説です。
+今まで村の者も幾度となく洞窟には足を踏み入れておりますが、
+そんな剣を見た者はおらんのですがね。
+> CONTEXT: Map087/events/2/pages/1/80/Dialogue
+village head. 「However, it is a legend to the last.
+Until now, people in the village have stepped into the cave
+many times, Those who saw such a sword, I heard.#MTLed
+> END STRING
+
+> BEGIN STRING
+とにかく、そのようないわくのある場所なのです。
+道もなく険しい場所ですので、
+大変かと思いますが……」
+> CONTEXT: Map087/events/2/pages/1/85/Dialogue
+Anyhow, it is such a somewhere. Because it is a steep place
+without roads, I think it's hard ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「大丈夫です、これでも洞窟を制覇した経験もありますから。
+魔獣はしっかり討伐してみせますよ」
+> CONTEXT: Map087/events/2/pages/1/89/Dialogue
+\\N[12]. 「It's okay, because I have experienced winning
+the cave. You can clearly dispel the demons」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「おお、これは頼もしい。
+よろしくお願いいたしますぞ」
+> CONTEXT: Map087/events/2/pages/1/93/Dialogue
+village head. 「Oh, this is reliable. Thank you for your
+consideration.」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「魔物退治、よろしくお願いいたします。
+魔物はディラント高原北東部の台地の奥に
+巣食っていると思われます」
+> CONTEXT: Map087/events/2/pages/2/0/Dialogue
+village head. 「monster extermination, Thank you.
+monster in the back of the plateau in the northeastern
+Dirant plateau. It seems to be eating a nest.」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「魔物退治の件につきましては、
+他の方が退治してくれたようですので
+もう結構ですじゃ」
+> CONTEXT: Map087/events/2/pages/3/1/Dialogue
+village head. 「Regarding the matter of monster
+extermination, It seems that the other person got rid of me
+All right.」#MTLed
+> END STRING
+
+> BEGIN STRING
+依頼：『魔物退治：高原』は
+期限が過ぎたため失敗となります。
+依頼票は所持品から消滅します。
+> CONTEXT: Map087/events/2/pages/3/6/Dialogue
+Request: "monster extermination: plateau"
+It will fail because the deadline has expired.
+The request form vanishes from belongings.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「村長、高原の魔物は退治しましたよ」
+> CONTEXT: Map087/events/2/pages/4/0/Dialogue
+\\N[12]. 「village head, the highland monster was
+exterminating」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「おお、おお！　よくやってくださいました。
+女剣士の方からも、あなたと共同で倒したとご報告いただきました。
+いや、さすが王都のギルドの方々、素晴らしい腕前ですな」
+> CONTEXT: Map087/events/2/pages/4/3/Dialogue
+village head. 「Oh, oh! I did well. We have also reported
+from swordswoman that you have killed in collaboration with
+you. No, as expected it is a wonderful skill by the king's
+guild people」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、シェリーも来たんですね。
+ま、とにかくこれで依頼は終わりってことで」
+> CONTEXT: Map087/events/2/pages/4/8/Dialogue
+\\N[12]. 「Oh, Sherry also came. Well, anyway, now that
+the request is over」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「これで牛たちもいい乳を出してくれることでしょう。
+重ね重ね、お礼申し上げまする。
+報酬はギルドにてお受け取りくだされ」
+> CONTEXT: Map087/events/2/pages/4/12/Dialogue
+village head. 「Cows will also serve you with good milk.
+Again, thank you. Receive the reward at the guild」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「これで牛たちもいい乳を出してくれることでしょう。
+重ね重ね、お礼申し上げまする。
+また何かの折には、ぜひあなたがたに依頼したいですな」
+> CONTEXT: Map087/events/2/pages/5/0/Dialogue
+village head. 「Cows will also serve you with good milk.
+Again, thank you. In addition, I would like to ask you to
+do something.」#MTLed
+> END STRING

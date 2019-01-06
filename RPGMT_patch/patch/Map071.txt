@@ -1,0 +1,471 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+レヴァスティの森　南
+> CONTEXT: Map071/display_name/
+Lavasti's Forest South#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「これはエルミアシメジだな。
+よし、ゲット」
+> CONTEXT: Map071/events/1/pages/1/0/Dialogue
+> CONTEXT: Map071/events/6/pages/1/0/Dialogue
+> CONTEXT: Map070/events/3/pages/1/0/Dialogue
+> CONTEXT: Map070/events/5/pages/1/0/Dialogue
+> CONTEXT: Map003/events/15/pages/1/0/Dialogue
+\\N[12]. 「This is elmyr shimeji. OK, get it」#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミアシメジを手に入れた！
+> CONTEXT: Map071/events/1/pages/1/5/Dialogue
+> CONTEXT: Map071/events/6/pages/1/5/Dialogue
+> CONTEXT: Map070/events/3/pages/1/5/Dialogue
+> CONTEXT: Map070/events/5/pages/1/5/Dialogue
+> CONTEXT: Map003/events/15/pages/1/5/Dialogue
+I got elmyr shimeji!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「このキノコを採ろうか？」
+> CONTEXT: Map071/events/5/pages/1/0/Dialogue
+> CONTEXT: Map070/events/2/pages/1/0/Dialogue
+> CONTEXT: Map069/events/15/pages/1/0/Dialogue
+> CONTEXT: Map070/events/4/pages/1/0/Dialogue
+> CONTEXT: Map069/events/16/pages/1/0/Dialogue
+> CONTEXT: Map071/events/11/pages/0/0/Dialogue
+> CONTEXT: Map070/events/8/pages/0/0/Dialogue
+> CONTEXT: Map071/events/12/pages/0/0/Dialogue
+> CONTEXT: Map071/events/13/pages/0/0/Dialogue
+> CONTEXT: Map070/events/23/pages/0/0/Dialogue
+> CONTEXT: Map070/events/24/pages/0/0/Dialogue
+> CONTEXT: Map070/events/25/pages/0/0/Dialogue
+> CONTEXT: Map069/events/31/pages/0/0/Dialogue
+> CONTEXT: Map069/events/32/pages/0/0/Dialogue
+\\N[12]. 「Shall take this mushroom?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よしよし。
+これがシラタマタケだな」
+> CONTEXT: Map071/events/5/pages/1/5/Dialogue
+> CONTEXT: Map070/events/2/pages/1/5/Dialogue
+> CONTEXT: Map069/events/15/pages/1/5/Dialogue
+> CONTEXT: Map070/events/4/pages/1/5/Dialogue
+> CONTEXT: Map069/events/16/pages/1/5/Dialogue
+\\N[12]. 「. This is a ball mushroom.」#MTLed
+> END STRING
+
+> BEGIN STRING
+シラタマタケを手に入れた！
+> CONTEXT: Map071/events/5/pages/1/10/Dialogue
+> CONTEXT: Map070/events/2/pages/1/10/Dialogue
+> CONTEXT: Map069/events/15/pages/1/10/Dialogue
+> CONTEXT: Map070/events/4/pages/1/10/Dialogue
+> CONTEXT: Map069/events/16/pages/1/10/Dialogue
+I got ball mushroom!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おや、こんなところに木材が……？
+ここに橋をかけることができそうだぞ」
+> CONTEXT: Map071/events/9/pages/0/0/Dialogue
+> CONTEXT: Map020/events/18/pages/0/0/Dialogue
+> CONTEXT: Map003/events/6/pages/0/0/Dialogue
+\\N[12]. 「Oh, wood in such a place.......?
+You can put a bridge here」#MTLed
+> END STRING
+
+> BEGIN STRING
+橋をかけますか？
+> CONTEXT: Map071/events/9/pages/0/4/Dialogue
+> CONTEXT: Map020/events/18/pages/0/4/Dialogue
+> CONTEXT: Map003/events/6/pages/0/4/Dialogue
+Do you put a bridge?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「これでよし！」
+> CONTEXT: Map071/events/9/pages/0/19/Dialogue
+> CONTEXT: Map020/events/18/pages/0/19/Dialogue
+> CONTEXT: Map003/events/6/pages/0/19/Dialogue
+\\N[12]. 「This is OK!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「じゃ、持っていくか……
+ん？　なんだか、様子がおかしいぞ？」
+> CONTEXT: Map071/events/11/pages/0/5/Dialogue
+> CONTEXT: Map071/events/12/pages/0/5/Dialogue
+> CONTEXT: Map070/events/8/pages/0/5/Dialogue
+> CONTEXT: Map071/events/13/pages/0/5/Dialogue
+> CONTEXT: Map070/events/23/pages/0/5/Dialogue
+> CONTEXT: Map070/events/24/pages/0/5/Dialogue
+> CONTEXT: Map070/events/25/pages/0/5/Dialogue
+> CONTEXT: Map069/events/31/pages/0/5/Dialogue
+> CONTEXT: Map069/events/32/pages/0/5/Dialogue
+\\N[12]. 「Well, why do not you bring it ...?
+Hmm? Something is wrong somewhat?」#MTLed
+> END STRING
+
+> BEGIN STRING
+？
+「ふふふ……
+まんまと引っかかったね、おにいさん！」
+> CONTEXT: Map071/events/11/pages/0/9/Dialogue
+> CONTEXT: Map070/events/8/pages/0/9/Dialogue
+> CONTEXT: Map071/events/12/pages/0/9/Dialogue
+> CONTEXT: Map071/events/13/pages/0/9/Dialogue
+> CONTEXT: Map070/events/23/pages/0/9/Dialogue
+> CONTEXT: Map070/events/24/pages/0/9/Dialogue
+> CONTEXT: Map070/events/25/pages/0/9/Dialogue
+> CONTEXT: Map069/events/31/pages/0/9/Dialogue
+> CONTEXT: Map069/events/32/pages/0/9/Dialogue
+? 「Hehu...I was caught out, brother!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだっ！
+なにかが襲いかかってくるっ！」
+> CONTEXT: Map071/events/11/pages/0/13/Dialogue
+> CONTEXT: Map071/events/12/pages/0/13/Dialogue
+> CONTEXT: Map070/events/8/pages/0/13/Dialogue
+> CONTEXT: Map071/events/13/pages/0/13/Dialogue
+> CONTEXT: Map070/events/23/pages/0/13/Dialogue
+> CONTEXT: Map070/events/24/pages/0/13/Dialogue
+> CONTEXT: Map070/events/25/pages/0/13/Dialogue
+> CONTEXT: Map069/events/31/pages/0/13/Dialogue
+> CONTEXT: Map069/events/32/pages/0/13/Dialogue
+\\N[12]. 「What! Something will come attacking!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アマゾネス
+「ふん、それでも男なのかい。
+ひ弱なもんだね」
+> CONTEXT: Map071/events/14/pages/0/21/Dialogue
+> CONTEXT: Map071/events/27/pages/0/21/Dialogue
+> CONTEXT: Map071/events/29/pages/0/21/Dialogue
+> CONTEXT: Map003/events/22/pages/0/21/Dialogue
+amazon. 「Hmm, is he still a man? It's a weak one」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……う、ううっ……
+な、なんてパワーだ……」
+> CONTEXT: Map071/events/14/pages/0/25/Dialogue
+> CONTEXT: Map071/events/27/pages/0/25/Dialogue
+> CONTEXT: Map071/events/29/pages/0/25/Dialogue
+> CONTEXT: Map003/events/22/pages/0/25/Dialogue
+\\N[12]. 「Happy ...... uugh...... How powerful it is
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アマゾネス
+「次はもっと体を鍛えて来るんだね。
+女に力で負けるような未熟な男が、
+よくこんなところまで足を踏み入れてきたもんだ」
+> CONTEXT: Map071/events/14/pages/0/29/Dialogue
+> CONTEXT: Map071/events/27/pages/0/29/Dialogue
+> CONTEXT: Map071/events/29/pages/0/29/Dialogue
+> CONTEXT: Map003/events/22/pages/0/29/Dialogue
+amazon. 「Next time you are training your body more.
+An immature man like losing power to a woman,
+I've been stepping into such a place often」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、くそっ……」
+> CONTEXT: Map071/events/14/pages/0/34/Dialogue
+> CONTEXT: Map071/events/27/pages/0/34/Dialogue
+> CONTEXT: Map071/events/29/pages/0/34/Dialogue
+> CONTEXT: Map003/events/22/pages/0/34/Dialogue
+\\N[12]. 「Come, damn ......」#MTLed
+> CONTEXT: Commonevents/6/45/Dialogue
+> CONTEXT: Commonevents/6/66/Dialogue
+> CONTEXT: Commonevents/9/155/Dialogue
+> CONTEXT: Commonevents/216/46/Dialogue
+> CONTEXT: Commonevents/216/67/Dialogue
+> CONTEXT: Commonevents/227/156/Dialogue
+\\N[12]. 「Come, damn ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アマゾネス
+「それじゃあね、坊や。
+金はもらっといてあげるよ、
+自分の弱さに対する罰金だとでも思っておきな」
+> CONTEXT: Map071/events/14/pages/0/37/Dialogue
+> CONTEXT: Map071/events/27/pages/0/37/Dialogue
+> CONTEXT: Map071/events/29/pages/0/37/Dialogue
+> CONTEXT: Map003/events/22/pages/0/37/Dialogue
+amazon. 「Well then, boy. I'll give you money,
+I thought it was a fine against my weaknesses」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッドキャップ
+「ククク……
+ニンゲンノ　オトコ　ナド
+コノテイド　ノ　モノカ」
+> CONTEXT: Map071/events/23/pages/0/18/Dialogue
+> CONTEXT: Map071/events/24/pages/0/18/Dialogue
+> CONTEXT: Map071/events/28/pages/0/18/Dialogue
+red cap. 「hehehe ...... Ningeno Otoconado
+Connoide No Monaca」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……や、やられた……」
+> CONTEXT: Map071/events/23/pages/0/23/Dialogue
+> CONTEXT: Map071/events/24/pages/0/23/Dialogue
+> CONTEXT: Map071/events/28/pages/0/23/Dialogue
+\\N[12]. 「Kugu ......, and it was done......」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッドキャップ
+「オマエノ　チ　モ
+ワタシノボウシヲ
+アカクソメルコトニナル」
+> CONTEXT: Map071/events/23/pages/0/35/Dialogue
+> CONTEXT: Map071/events/24/pages/0/35/Dialogue
+> CONTEXT: Map071/events/28/pages/0/35/Dialogue
+red cap. 「yourChimo. Watashino Gouche. Akusumerukoto ninal」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ、殺した相手の血で帽子を染めるという
+レッドキャップの噂は本当だったのか……」
+> CONTEXT: Map071/events/23/pages/0/40/Dialogue
+> CONTEXT: Map071/events/24/pages/0/40/Dialogue
+> CONTEXT: Map071/events/28/pages/0/40/Dialogue
+\\N[12]. 「OHh, dye the hat with the blood of the
+murderer. Was the rumor of red cap true?」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッドキャップ
+「ソノマエニ　オマエノ　ケツエキ
+アジミサセテモラウ」
+> CONTEXT: Map071/events/23/pages/0/44/Dialogue
+> CONTEXT: Map071/events/24/pages/0/44/Dialogue
+> CONTEXT: Map071/events/28/pages/0/44/Dialogue
+red cap. 「Sonomani ni no ketsuke. Ajimisasetamorau」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッドキャップは
+\\N[12]の腕に噛み付いた！
+> CONTEXT: Map071/events/23/pages/0/48/Dialogue
+> CONTEXT: Map071/events/24/pages/0/48/Dialogue
+> CONTEXT: Map071/events/28/pages/0/48/Dialogue
+red cap. \\N[12] I bit my arm!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぎゃあああぁぁっ！」
+> CONTEXT: Map071/events/23/pages/0/53/Dialogue
+> CONTEXT: Map071/events/24/pages/0/53/Dialogue
+> CONTEXT: Map071/events/28/pages/0/53/Dialogue
+\\N[12]. 「EEEiii!」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッドキャップ
+「ムグ……」
+> CONTEXT: Map071/events/23/pages/0/56/Dialogue
+> CONTEXT: Map071/events/24/pages/0/56/Dialogue
+> CONTEXT: Map071/events/28/pages/0/56/Dialogue
+red cap. 「Mug」#MTLed
+> END STRING
+
+> BEGIN STRING
+じゅるるるるっ……
+> CONTEXT: Map071/events/23/pages/0/61/Dialogue
+> CONTEXT: Map071/events/24/pages/0/61/Dialogue
+> CONTEXT: Map071/events/28/pages/0/61/Dialogue
+じ る る る る っ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「や、やめ……ち、血を、吸わないでくれ……！」
+> CONTEXT: Map071/events/23/pages/0/63/Dialogue
+> CONTEXT: Map071/events/24/pages/0/63/Dialogue
+> CONTEXT: Map071/events/28/pages/0/63/Dialogue
+\\N[12]. 「Or...stop...please, do not smoke the
+blood ...!!」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッドキャップ
+「ノウコウデ　ウマイ……
+フフ……カンタンニコロスノハ
+オシイナ……
+> CONTEXT: Map071/events/23/pages/0/66/Dialogue
+> CONTEXT: Map071/events/24/pages/0/66/Dialogue
+> CONTEXT: Map071/events/28/pages/0/66/Dialogue
+red cap. 「Northern appetizing ...... Huff...... Easy
+Nico Ross Noha. Oshina ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ワタシ　ノ　スニツレカエッテ
+マイニチ　チヲ　ノマセテモラオウカ」
+> CONTEXT: Map071/events/23/pages/0/71/Dialogue
+> CONTEXT: Map071/events/24/pages/0/71/Dialogue
+> CONTEXT: Map071/events/28/pages/0/71/Dialogue
+Watashi Nozunitsureketete. Mini Chiwo Nomase Temora Ohka」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そんな……
+い、嫌だ……」
+> CONTEXT: Map071/events/23/pages/0/74/Dialogue
+> CONTEXT: Map071/events/24/pages/0/74/Dialogue
+> CONTEXT: Map071/events/28/pages/0/74/Dialogue
+\\N[12]. 「Well...that. I do not want it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして\\N[12]は
+レッドキャップの巣に連れ帰られ、
+彼女たちに毎日噛みつかれ、血を吸われる。
+> CONTEXT: Map071/events/23/pages/0/79/Dialogue
+> CONTEXT: Map071/events/24/pages/0/79/Dialogue
+> CONTEXT: Map071/events/28/pages/0/79/Dialogue
+In this way \\N[12] Is. Taken back to the red cap's
+nest, They bite them everyday and suck blood.#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、衰弱しきったところで殺され、
+レッドキャップは彼の血を
+帽子に染み込ませるのだった……
+> CONTEXT: Map071/events/23/pages/0/83/Dialogue
+> CONTEXT: Map071/events/24/pages/0/83/Dialogue
+> CONTEXT: Map071/events/28/pages/0/83/Dialogue
+And it was killed in a weakened place, red cap tells his
+blood. It was to make it penetrate into a hat......#MTLed
+> END STRING
+
+> BEGIN STRING
+『閉鎖中
+　――エルミア王国軍』
+> CONTEXT: Map071/events/33/pages/0/0/Dialogue
+"Closed. - Kingdom of Elmia "#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「魔法に疎い俺でも分かる……
+これは厳重な封印だな。
+この奥には進めなさそうだ」
+> CONTEXT: Map071/events/34/pages/0/0/Dialogue
+\\N[12]. 「I know even magically disagreeable.......
+This is a strict seal. I do not think I can go forward in
+this」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「あ、\\N[12]君」
+> CONTEXT: Map071/events/42/pages/0/0/Dialogue
+Sherry. 「Ah, \\N[12] You」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、シェリー。
+お前もこの森の魔物を退治しに来たのか？」
+> CONTEXT: Map071/events/42/pages/0/3/Dialogue
+\\N[12]. 「Uh, Sherry. You also came to get rid of this
+forest monster?」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「うん、でも女が入っても迷わされて
+入口に戻されちゃって、魔物と戦えないみたい。
+ここの魔物は、男にしか興味ないみたいだね」
+> CONTEXT: Map071/events/42/pages/0/7/Dialogue
+Sherry. 「Yeah, but even if a woman enters you
+get lost. It seems not to be able to fight with
+monster as it is returned to the entrance.
+It seems that monster here is only interested in
+men」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか……それじゃ、ここは男の俺に任せてもらおうか」
+> CONTEXT: Map071/events/42/pages/0/12/Dialogue
+\\N[12]. 「That's right...Well then, let's leave this
+to me」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「意気込むのはいいけど、気をつけなよね。
+そこら中に転がってる骨は、みんな
+ここの魔物たちに挑んだ冒険者の末路みたいだし……
+> CONTEXT: Map071/events/42/pages/0/15/Dialogue
+Sherry. 「It's nice to be enthusiastic, but be
+careful. All the bones that are rolling around
+It seems like the end of the adventurer who
+challenged the monsters here......#MTLed
+> END STRING
+
+> BEGIN STRING
+なんでも、奥にいる魔物に負けると
+レベルを大きく吸い取られてしまうらしいから、気をつけてね」
+> CONTEXT: None < UNUSED
+Anything, if you lose to the monster in the back
+It seems that the level will be sucked up
+greatly, so be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「この奥に行くなら気をつけなよね。
+\\C[2]レベルを吸い取る魔物\\C[0]が出るらしいよ」
+> CONTEXT: Map071/events/42/pages/1/0/Dialogue
+Sherry. 「Be careful when you go back here.
+\\C[2]Monster smoke level\\C[0] It seems that it will come
+out」#MTLed
+> END STRING
+
+> BEGIN STRING
+毒消しを手に入れた！
+> CONTEXT: Map071/events/46/pages/0/9/Dialogue
+I got poisoning!#MTLed
+> END STRING
+
+> BEGIN STRING
+エレメンタルコア（緑）を手に入れた！
+> CONTEXT: Map071/events/48/pages/0/9/Dialogue
+I got elemental core (green)!#MTLed
+> END STRING
+
+> BEGIN STRING
+なんでも、奥にいる魔物に負けると
+レベルを大きく吸い取られてしまうらしいから、
+気をつけてね」
+> CONTEXT: Map071/events/42/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING

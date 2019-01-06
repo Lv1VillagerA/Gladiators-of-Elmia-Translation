@@ -1,0 +1,36 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+使用人
+「二階、がらんとしていますでしょう？
+ご主人様おひとりになってから、
+まったく使われていないんです」
+> CONTEXT: Map062/events/1/pages/0/0/Dialogue
+Servant. 「The second floor, you are getting scared?
+Master from your side, It is not used at all」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「これからよろしくね、おにいさん。
+じゃないや、未来の旦那さま♪」
+> CONTEXT: Map062/events/3/pages/0/1/Dialogue
+Purim. 「Good luck, good luck. Is not it, my
+future husband♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、おうっ。
+こうなったからには、ベックフォード家に負けないように
+二人で頑張っていくとするか！」
+> CONTEXT: Map062/events/3/pages/0/5/Dialogue
+\\N[12]. 「Oh, oh. Because of this, not to lose to the
+Beckford family. Would you like to work hard with two
+people!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム　グッドエンド：貴族、そして年下の婚約者
+> CONTEXT: Map062/events/3/pages/0/11/Dialogue
+Purim Good End: Aristocrat and younger fiance#MTLed
+> END STRING

@@ -1,0 +1,607 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+村長
+「やあ、\\N[12]か。今日はどうしたのかね」
+> CONTEXT: Map015/events/2/pages/0/1/Dialogue
+> CONTEXT: Map015/events/7/pages/0/1/Dialogue
+village head. 「Hey, \\N[12] ? What are you doing today?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「実は……」
+> CONTEXT: Map015/events/2/pages/0/4/Dialogue
+> CONTEXT: Map015/events/7/pages/0/4/Dialogue
+\\N[12]. 「In fact」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は事情を説明した。
+> CONTEXT: Map015/events/2/pages/0/7/Dialogue
+> CONTEXT: Map011/events/7/pages/1/12/Dialogue
+> CONTEXT: Map015/events/7/pages/0/7/Dialogue
+\\N[12] I explained the circumstances.#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「ふむふむ、武道大会に出たいのか。
+しかし、普段からよく稽古をしていて腕も立つ\\N[12]に
+勝ってしまうような女の子がいるとは、世の中は広いものだ」
+> CONTEXT: Map015/events/2/pages/0/9/Dialogue
+> CONTEXT: Map015/events/7/pages/0/9/Dialogue
+village head. 「Do you want to go out to martial arts
+tournament? However, I usually practice well and usually
+stand up \\N[12] Into. It is a world that there are
+girls that will win」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「その女剣士にリベンジするためにも、是非出場したいんです。
+自警団の仕事をしばらく休ませていただけませんか？」
+> CONTEXT: Map015/events/2/pages/0/14/Dialogue
+> CONTEXT: Map015/events/7/pages/0/14/Dialogue
+\\N[12]. 「I want to participate by all means to revenge
+for that swordswoman. Would you mind resting the
+vigilante's work for a while?」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「仕事については構わんよ。自分の志を優先するといい。
+ただ、武道大会に出場するのは難しいかもしれないよ」
+> CONTEXT: Map015/events/2/pages/0/18/Dialogue
+> CONTEXT: Map015/events/7/pages/0/18/Dialogue
+village head. 「I do not care about work. You should give
+priority to your will. However, it may be difficult to play
+martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「え、なぜですか？」
+> CONTEXT: Map015/events/2/pages/0/22/Dialogue
+> CONTEXT: Map015/events/7/pages/0/22/Dialogue
+\\N[12]. 「Well, why?」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「\\N[12]も耳にしていないかね？　王都への唯一の道である
+モルデリア洞窟に、盗賊団が住み着いて通れなくなってしまったんだ。
+そもそも王都に行けないのでは武道大会にも出られまい」
+> CONTEXT: Map015/events/2/pages/0/25/Dialogue
+> CONTEXT: Map015/events/7/pages/0/25/Dialogue
+village head. 「\\N[12] Have you not heard? It is the
+only way to the kingdom. In the Morderia cave, thieves flew
+away and it became impossible to pass. If you can not go to
+Kingdom, you can not go to martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+一応、王都の騎士団に討伐を依頼はしているが、
+もう武道大会が始まる時期だし、それの警備で忙しいようで
+盗賊退治は武道大会後になってしまいそうなんだ……」
+> CONTEXT: Map015/events/2/pages/0/30/Dialogue
+> CONTEXT: Map015/events/7/pages/0/30/Dialogue
+At one time, I have requested the knights of the kingdom to
+subdue, It is time for martial arts tournament to begin,
+and it seems that he is busy guarding it
+The thief extermination seems to be after martial arts
+tournament......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「噂の盗賊団ですか……」
+> CONTEXT: Map015/events/2/pages/0/34/Dialogue
+> CONTEXT: Map015/events/7/pages/0/34/Dialogue
+\\N[12]. 「Is it rumor thieves?」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「残念だが、今回は見送って
+来年の出場を目指してはどうかね？」
+> CONTEXT: Map015/events/2/pages/0/37/Dialogue
+> CONTEXT: Map015/events/7/pages/0/37/Dialogue
+village head. 「Sorry to keep you off this time
+How about aiming to participate next year?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（盗賊団か。騎士団は頼れないようだし、
+自警団は魔物から村を守る役目があるから遠征は難しい。
+となると……どうしようもないのか？
+> CONTEXT: Map015/events/2/pages/0/41/Dialogue
+> CONTEXT: Map015/events/7/pages/0/41/Dialogue
+\\N[12]. (The bandits, the Knights seem to be
+unreliable, The vigilante group has a role to protect the
+village from monster, so expedition is difficult.
+When it comes to...... What can I do?#MTLed
+> END STRING
+
+> BEGIN STRING
+いや、あきらめるわけにはいかないぜ。
+あんな屈辱を味わわされたまま、泣き寝入りなんて
+していられるわけがない！）
+> CONTEXT: Map015/events/2/pages/0/46/Dialogue
+> CONTEXT: Map015/events/7/pages/0/46/Dialogue
+No, I can not give up. With such humiliation being tasted,
+I'm crying. There is no way it can be done! )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……いえ、そういうことなら俺の手で
+盗賊団を退治してみせます！」
+> CONTEXT: Map015/events/2/pages/0/51/Dialogue
+> CONTEXT: Map015/events/7/pages/0/51/Dialogue
+\\N[12]. 「...... No, if that's the case, with my hand
+I will try to get rid of the bandits!」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「え？　ほ、本気なのかね？」
+> CONTEXT: Map015/events/2/pages/0/55/Dialogue
+> CONTEXT: Map015/events/7/pages/0/55/Dialogue
+village head. 「Huh? Is it serious?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「盗賊に勝てないのなら武道大会でも勝てるわけないですから！
+盗賊団を倒し、王都への道を自分で切り開いてみせます！」
+> CONTEXT: Map015/events/2/pages/0/58/Dialogue
+> CONTEXT: Map015/events/7/pages/0/58/Dialogue
+\\N[12]. 「If you can not win against a thief you can
+win even a martial arts tournament! I will defeat the
+bandits and open my way for the kingdom by myself!」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「そ、そうか……本当に盗賊団を退治してくれるなら
+村としてもありがたいことだが、無理はしないようにね。
+> CONTEXT: Map015/events/2/pages/0/62/Dialogue
+> CONTEXT: Map015/events/7/pages/0/62/Dialogue
+village head. 「Well, that's right ...... If you really
+want to kill the bandits. As a village I appreciate it, do
+not push yourself.#MTLed
+> END STRING
+
+> BEGIN STRING
+私からアドバイスできることがあるとすれば――
+一人旅は回復アイテムが重要だから、常に持っておきなさい。
+そして、戦闘では\\C[2]体力だけでなく精神力が尽きても負けになる\\C[0]から
+相手が精神面を攻めてくる場合は注意しておくといい。
+> CONTEXT: Map015/events/2/pages/0/66/Dialogue
+> CONTEXT: Map015/events/7/pages/0/66/Dialogue
+If there is something I can advise from -
+Recovery items are important for a single trip so always
+have it. And in battle\\C[2] It loses not only physical strength
+but also mental strength exhausted\\C[0] From
+Be careful when your opponent attacks the spiritual side.#MTLed
+> END STRING
+
+> BEGIN STRING
+何にせよ、私は君のことを応援しているよ。頑張りなさい」
+> CONTEXT: Map015/events/2/pages/0/71/Dialogue
+> CONTEXT: Map015/events/7/pages/0/71/Dialogue
+Either way, I'm rooting for you. do your best」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました、ありがとうございます。
+俺、絶対に武道大会に出場して優勝してみせます！」
+> CONTEXT: Map015/events/2/pages/0/73/Dialogue
+\\N[12]. 「I understand. Thank you very much.
+I will definitely participate in the martial arts
+tournament and win the championship!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、やるぞっ！
+武道大会出場のためにも、まずは北の洞窟に巣食っている
+盗賊団を退治しなきゃな」
+> CONTEXT: Map015/events/2/pages/0/80/Dialogue
+> CONTEXT: Map015/events/7/pages/0/80/Dialogue
+\\N[12]. 「Alright, go ahead! Even for the martial arts
+tournament appearance, I first hive in a cave in the north
+You have to get rid of the bandits」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「おお、\\N[12]か。頑張っているかね。
+命は大切にするのだよ」
+> CONTEXT: Map015/events/2/pages/1/0/Dialogue
+> CONTEXT: Map015/events/2/pages/2/0/Dialogue
+> CONTEXT: Map015/events/7/pages/1/0/Dialogue
+> CONTEXT: Map015/events/7/pages/2/0/Dialogue
+village head. 「Oh, \\N[12] ? Are you trying hard?
+Life is to cherish」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「本気で盗賊団を退治するつもりなら、そこにいる執事や
+１階にいるメイド達などに話を聞いてみるといい。
+彼らは洞窟を通った経験が多く、内部構造を知っているよ」
+> CONTEXT: Map015/events/2/pages/1/5/Dialogue
+> CONTEXT: Map015/events/7/pages/1/5/Dialogue
+village head. 「If you are seriously going to get rid of
+the bandits, the butler. You should try talking to the
+maids on the first floor. They have a lot of experiences
+going through the caves, they know the internal structure」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「村長、盗賊団は無事に洞窟から追い出すことができました。
+これで王都への行き来はできるようになりましたよ」
+> CONTEXT: Map015/events/2/pages/2/4/Dialogue
+> CONTEXT: Map015/events/7/pages/2/4/Dialogue
+\\N[12]. 「village head, the thieves team could safely
+be kicked out of the cave. With this you can come and go to
+the Kingdom」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「え、本当かね！？
+それはすごい、\\N[12]がひとりで討伐したのかね」
+> CONTEXT: Map015/events/2/pages/2/8/Dialogue
+> CONTEXT: Map015/events/7/pages/2/8/Dialogue
+village head. 「Well, really? ? That's great, \\N[12]
+ Were you suppressed by yourself」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、まあ」
+> CONTEXT: Map015/events/2/pages/2/12/Dialogue
+> CONTEXT: Map015/events/7/pages/2/12/Dialogue
+\\N[12]. 「Yes, well」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「いやあ、それは素晴らしい。
+\\N[12]なら本当に武道大会で活躍できるかもしれないな。
+村長として、お礼を言わせてもらうよ、本当にありがとう」
+> CONTEXT: Map015/events/2/pages/2/15/Dialogue
+> CONTEXT: Map015/events/7/pages/2/15/Dialogue
+village head. 「Well, that is wonderful. \\N[12] Then
+you may be able to be active in martial arts tournament.
+I will thank you as village head, thank you very much」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「ささやかだが、報酬を出そう。
+武道大会に向けての準備の足しにしてくれたまえ」
+> CONTEXT: Map015/events/2/pages/2/20/Dialogue
+> CONTEXT: Map015/events/7/pages/2/20/Dialogue
+village head. 「Small but let's make rewards.
+Please prepare for preparing for the martial arts
+tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+500G 貰った！
+> CONTEXT: Map015/events/2/pages/2/26/Dialogue
+> CONTEXT: Map015/events/7/pages/2/26/Dialogue
+I got 500 G!#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「おお、\\N[12]か。元気にしているかね。
+武道大会での活躍を祈っているよ」
+> CONTEXT: Map015/events/2/pages/3/0/Dialogue
+> CONTEXT: Map015/events/7/pages/3/0/Dialogue
+village head. 「Oh, \\N[12] ? Are you doing well?
+I'm praying for my success in martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「おお\\N[12]！
+村長として\\N[12]の優勝は本当に鼻が高いよ。
+まさにレストンの誇りだ！」
+> CONTEXT: Map015/events/2/pages/5/0/Dialogue
+> CONTEXT: Map015/events/7/pages/5/0/Dialogue
+village head. 「Oh \\N[12] ! As a village head
+\\N[12] It is truly nose-high.
+It is exactly the pride of Reston!」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「\\N[12]君、武道大会に出るの？
+そういえば、毎年この時期にやるのよね。
+開催時期の王都はお祭り騒ぎになるから、楽しいわよ」
+> CONTEXT: Map015/events/3/pages/0/0/Dialogue
+Maid. 「\\N[12] Are you going out to martial arts
+tournament? By the way, do it this time every year.
+The kingdom of the opening period will be a festive, so it
+will be fun」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイドさん
+「\\N[12]君が優勝しちゃうだなんて、
+本当にビックリしたわぁ。
+おめでとう、頑張ったのね」
+> CONTEXT: Map015/events/3/pages/1/0/Dialogue
+Maid. 「\\N[12] It seems that you won the championship,
+I was really surprised. Congratulations, you did your best」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長の娘
+「\\N[12]じゃない。
+何か用？」
+> CONTEXT: Map015/events/4/pages/0/0/Dialogue
+village head daughter. 「\\N[12] not. What's wrong?」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長の娘
+「\\N[12]、盗賊団を討伐したんですってね。
+なかなかやるじゃない。
+武道大会に出るらしいけど、いちおう応援しておいてあげるわ」
+> CONTEXT: Map015/events/4/pages/1/0/Dialogue
+village head daughter. 「\\N[12] , I suppressed the
+bandit group. It is not easy going. It seems to come out to
+martial arts tournament, but I'll support you one time」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長の娘
+「あら\\N[12]、おかえりなさい。
+今まであなたのこと、チンピラみたいに思ってたけど
+正直言って見直したわ」
+> CONTEXT: Map015/events/4/pages/3/0/Dialogue
+village head daughter. 「Oh \\N[12] ,Welcome back.
+I thought of you like you, small fry mob though
+To be honest I reviewed it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+執事
+「モルデリア洞窟の内部は、入ってからすぐ右に進み
+曲がり角からまっすぐ北に向かえば城下町側に抜けられます。
+が……今はそうはいかぬのでしょうな」
+> CONTEXT: Map015/events/5/pages/0/0/Dialogue
+Butler. 「The interior of the Morderia cave goes right
+after entering. If you go straight north from the corner
+you can pass to the castle town side. But...I guess
+that's not going to happen now」#MTLed
+> END STRING
+
+> BEGIN STRING
+執事
+「洞窟内の東側は、かつて採掘場があったようで、
+広い空間となっておるようです。
+入り込むと迷子になりかねませんので、お気をつけを」
+> CONTEXT: Map015/events/5/pages/1/0/Dialogue
+Butler. 「In the east side of the cave it seems there was a
+mining site in the past, It seems to be a wide space.
+As you get in, you get lost, so please be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こんちわ、執事さん。
+ちょっといいっすか？
+下で娘さんから聞いたんですが……」
+> CONTEXT: Map015/events/5/pages/2/1/Dialogue
+\\N[12]. 「Hello, the butler. A bit nice?
+I heard from my daughter under......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こんちわ、執事さん。
+ちょっといいっすか？
+釣りのおじさんから聞いたんですが……」
+> CONTEXT: Map015/events/5/pages/2/8/Dialogue
+\\N[12]. 「Hello, the butler. A bit nice?
+I heard from old man of fishing.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は事情を話した。
+> CONTEXT: Map015/events/5/pages/2/15/Dialogue
+\\N[12] He told the situation.#MTLed
+> END STRING
+
+> BEGIN STRING
+執事
+「海釣りのお話ですかな？
+たまの休みには娘と一緒に海岸に出向きますよ、
+あそこは潮の流れがちょうどよく、いい魚が釣れるのです」
+> CONTEXT: Map015/events/5/pages/2/17/Dialogue
+Butler. 「Is it story about sea fishing? I will go to the
+beach with my daughter on occasional break,
+The flow of the tide is just right there, and good fish can
+catch it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほどなぁ。
+それで、マディンフィッシュを釣るための竿とか、
+貸してもらえますか？」
+> CONTEXT: Map015/events/5/pages/2/22/Dialogue
+\\N[12]. 「I see. So, like a rod for fishing maduin fish,
+Can you lend me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+執事
+「よろしいですとも。
+貸すと言わず、使わなくなった古い釣り竿を
+さしあげましょう。こちらです」
+> CONTEXT: Map015/events/5/pages/2/27/Dialogue
+Butler. 「It is OK. Do not say, lend an old fishing rod
+that is no longer used. Let's give it. it's here」#MTLed
+> END STRING
+
+> BEGIN STRING
+釣り竿をもらった！
+> CONTEXT: Map015/events/5/pages/2/33/Dialogue
+I got a fishing rod!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「おおっ！
+こいつはありがたいっす、執事さん」
+> CONTEXT: Map015/events/5/pages/2/36/Dialogue
+\\N[12]. 「Huh! Thank you this guy, butler」#MTLed
+> END STRING
+
+> BEGIN STRING
+執事
+「海岸ではマディンフィッシュのみならず、
+様々な魚が釣れます。
+青魚がマディンフィッシュですので、お間違えのなきように……」
+> CONTEXT: Map015/events/5/pages/2/40/Dialogue
+Butler. 「On the coast, not only maduin fish,
+Various fish can catch. As the blue fish is maduin fish, so
+as to make no mistake ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「わかりました！
+いろいろありがとうございます。
+よーし、海岸行って釣るぞー！」
+> CONTEXT: Map015/events/5/pages/2/45/Dialogue
+\\N[12]. 「understood! Thank you very much.
+Alright, go fishing on the beach!」#MTLed
+> END STRING
+
+> BEGIN STRING
+執事
+「今度、娘と一緒に三人で
+海釣りと洒落込んでみませぬかな？
+釣り仲間が増えるのは喜ばしいことです」
+> CONTEXT: Map015/events/5/pages/3/0/Dialogue
+Butler. 「Next time, with three people with my daughter
+Why do not you join in fishing with sea fishing?
+It is a pleasure to have more fishing friends」#MTLed
+> END STRING
+
+> BEGIN STRING
+執事
+「優勝、おめでとうございます。
+\\N[12]殿のような方が娘を貰ってくだされば嬉しいのですが、
+どうやら、心に決めた方がおられるご様子ですな」
+> CONTEXT: Map015/events/5/pages/5/0/Dialogue
+Butler. 「Congratulations on winning. \\N[12] I would be
+happy if a person like Tono gets my daughter,
+Apparently, it seems that someone decided in mind」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド長
+「おやおや、\\N[12]じゃないか。
+旦那さまなら書斎にいるよ」
+> CONTEXT: Map015/events/6/pages/0/0/Dialogue
+Maid length. 「, \\N[12] is not it. If it is your
+husband, I will stay in my library」#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド長
+「おやおや、\\N[12]じゃないか。
+旦那さまなら書斎にいるよ。
+それと、武道大会優勝、本当におめでとうね」
+> CONTEXT: Map015/events/6/pages/1/0/Dialogue
+Maid length. 「, \\N[12] is not it. For my husband, I
+will stay in my study. Also, congratulations on martial
+arts tournament victory, ne」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ありがとうございます。
+俺、絶対に武道大会に出場して優勝してみせます！」
+> CONTEXT: Map015/events/7/pages/0/73/Dialogue
+\\N[12]. 「Thank you very much. I will definitely
+participate in the martial arts tournament and win the
+championship!」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長の娘
+「\\N[12]？　あんた、よく村に帰ってこられたわね。
+村の恥だし、出ていってくれないかな」
+> CONTEXT: Map015/events/8/pages/0/6/Dialogue
+village head daughter. 「\\N[12] ? You came back to
+the village often. It's a shame of the village, so I wonder
+if it will go out」#MTLed
+> END STRING
+
+> BEGIN STRING
+レストンの村では女性たちに蔑まれ、
+完全に居場所をなくしてしまう。
+> CONTEXT: Map015/events/8/pages/0/11/Dialogue
+In the village of Reston they were despised by women,
+I completely lost my place.#MTLed
+> END STRING
+
+> BEGIN STRING
+途方に暮れた\\N[12]は、
+王都のベックフォード家を訪れることになる。
+> CONTEXT: Map015/events/8/pages/0/14/Dialogue
+I was at a loss \\N[12] Is. I will visit the Kingdom's
+Beckford family.#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「\\N[12]、武道大会優勝
+本当におめでとう。
+キミはまさしくレストンの誇りだ！」
+> CONTEXT: Map015/events/9/pages/0/1/Dialogue
+village head. 「\\N[12] , Victory in martial arts
+tournament. Congratulations. Kimi is exactly the pride of
+Reston!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ありがとうございます」
+> CONTEXT: Map015/events/9/pages/0/6/Dialogue
+\\N[12]. 「Oh, thank you」#MTLed
+> END STRING
+
+> BEGIN STRING
+村長
+「レストンから優勝者が出たのは数十年ぶり。
+まさしく快挙と言ってよいだろう。
+\\N[12]にはぜひとも、今後も村の顔として頑張ってほしい」
+> CONTEXT: Map015/events/9/pages/0/9/Dialogue
+village head. 「The winner came out of Reston for the first
+time in decades. It may be said that this is a very merit.
+\\N[12] By all means, I want you to keep up as village
+face in the future」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、\\N[12]とジェーンのために盛大な宴が催され、
+村人総出で一晩中、祝われたのだった――
+> CONTEXT: Map015/events/9/pages/0/15/Dialogue
+Then, \\N[12] And a grand party was held for Jane,
+It was celebrated overnight at the village grotto -#MTLed
+> END STRING

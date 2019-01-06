@@ -1,0 +1,1495 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+普段着
+> CONTEXT: Armors/1/name/
+Casual Clothes#lvl1
+> END STRING
+
+> BEGIN STRING
+通気性の高い布の服。
+> CONTEXT: Armors/1/description/
+Very lightweight clothes.#lvl1
+> END STRING
+
+> BEGIN STRING
+レザーベスト
+> CONTEXT: Armors/2/name/
+> CONTEXT: Armors/62/name/
+Leather Top#lvl1
+> END STRING
+
+> BEGIN STRING
+なめし皮で作られたベスト。
+> CONTEXT: Armors/2/description/
+> CONTEXT: Armors/62/description/
+Made with the best leather.#lvl1
+> END STRING
+
+> BEGIN STRING
+冒険者の服
+> CONTEXT: Armors/3/name/
+Adventurer's Garb#lvl1
+> END STRING
+
+> BEGIN STRING
+過酷な旅にも耐えられる丈夫な服。
+> CONTEXT: Armors/3/description/
+Worn clothing that can withstand a harsh journey.#lvl1
+> END STRING
+
+> BEGIN STRING
+ハードレザー
+> CONTEXT: Armors/4/name/
+Hard Leather#lvl1
+> END STRING
+
+> BEGIN STRING
+にかわで固めた硬皮のベスト。
+> CONTEXT: Armors/4/description/
+Hardened leather vest.#lvl1
+> END STRING
+
+> BEGIN STRING
+ブリガンダイン
+> CONTEXT: Armors/5/name/
+Brigandine#lvl1
+> END STRING
+
+> BEGIN STRING
+鋼板で補強したなめし皮製の服。
+> CONTEXT: Armors/5/description/
+Clothing made with reinforced steel.#lvl1
+> END STRING
+
+> BEGIN STRING
+バンダナ
+> CONTEXT: Armors/6/name/
+> CONTEXT: Armors/70/name/
+Bandana#lvl1
+> END STRING
+
+> BEGIN STRING
+額を守る布製のハチマキ。
+> CONTEXT: Armors/6/description/
+Headband cloth that protects the head.#lvl1
+> END STRING
+
+> BEGIN STRING
+レザーバンダナ
+> CONTEXT: Armors/7/name/
+Leather Bandana#lvl1
+> END STRING
+
+> BEGIN STRING
+額を守る皮製のハチマキ。
+> CONTEXT: Armors/7/description/
+Headband made of leather to protect the head.#lvl1
+> END STRING
+
+> BEGIN STRING
+毛皮の帽子
+> CONTEXT: Armors/8/name/
+Fur Hat#lvl1
+> END STRING
+
+> BEGIN STRING
+毛皮で作られた帽子。
+> CONTEXT: Armors/8/description/
+Hat made of fur.#lvl1
+> END STRING
+
+> BEGIN STRING
+ターバン
+> CONTEXT: Armors/9/name/
+Turban#lvl1
+> END STRING
+
+> BEGIN STRING
+重ねて巻きつけて頭を守る厚手の布。
+> CONTEXT: Armors/9/description/
+Thick cloth wrapped repeatedly around one's head.#lvl1
+> END STRING
+
+> BEGIN STRING
+羽根付き帽子
+> CONTEXT: Armors/10/name/
+Feather Cap#lvl1
+> END STRING
+
+> BEGIN STRING
+極楽鳥の羽がついたオシャレな帽子。
+> CONTEXT: Armors/10/description/
+Stylish hat with feathers from many beautiful birds.#lvl1
+> END STRING
+
+> BEGIN STRING
+木綿のローブ
+> CONTEXT: Armors/11/name/
+Cotton Robe#lvl1
+> END STRING
+
+> BEGIN STRING
+木綿で作られた厚手のローブ。
+> CONTEXT: Armors/11/description/
+A robe made of thick cotton.#lvl1
+> END STRING
+
+> BEGIN STRING
+絹のマント
+> CONTEXT: Armors/12/name/
+Silk Cloak#lvl1
+> END STRING
+
+> BEGIN STRING
+絹で作られた上質なマント。
+> CONTEXT: Armors/12/description/
+A cloak made of fine silk.#lvl1
+> END STRING
+
+> BEGIN STRING
+術士のローブ
+> CONTEXT: Armors/13/name/
+Runed Robe#lvl1
+> END STRING
+
+> BEGIN STRING
+裏地にルーン文字が刻まれたローブ。
+> CONTEXT: Armors/13/description/
+A lined robe engraved with runes.#lvl1
+> END STRING
+
+> BEGIN STRING
+ハーミットローブ
+> CONTEXT: Armors/14/name/
+Hermit Robe#lvl1
+> END STRING
+
+> BEGIN STRING
+古の老賢者が身につけていたローブ。
+> CONTEXT: Armors/14/description/
+Robe worn by a wise old man.#lvl1
+> END STRING
+
+> BEGIN STRING
+エレメンタルマント
+> CONTEXT: Armors/15/name/
+Elemental Cloak#lvl1
+> END STRING
+
+> BEGIN STRING
+精霊王の力が宿る究極のマント。
+> CONTEXT: Armors/15/description/
+The power of the spirit king dwells in this robe.#lvl1
+> END STRING
+
+> BEGIN STRING
+銅の髪飾り
+> CONTEXT: Armors/16/name/
+Copper Brace#lvl1
+> END STRING
+
+> BEGIN STRING
+青銅で作られた髪飾り。
+> CONTEXT: Armors/16/description/
+Hair ornaments made of copper.#lvl1
+> END STRING
+
+> BEGIN STRING
+サークレット
+> CONTEXT: Armors/17/name/
+Circlet#lvl1
+> END STRING
+
+> BEGIN STRING
+鉄で作られたリング状の額飾り。
+> CONTEXT: Armors/17/description/
+A ring-shaped ornament made of iron.#lvl1
+> END STRING
+
+> BEGIN STRING
+銀の髪飾り
+> CONTEXT: Armors/18/name/
+Silver Hairpin#lvl1
+> END STRING
+
+> BEGIN STRING
+身につけた者の魔力を高める髪飾り。
+> CONTEXT: Armors/18/description/
+Hair accessory that enhances magic.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルサークレット
+> CONTEXT: Armors/19/name/
+Mithril Circlet#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた額飾り。
+> CONTEXT: Armors/19/description/
+Mithril circlet made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+賢者の額冠
+> CONTEXT: Armors/20/name/
+Magi's Crown#lvl1
+> END STRING
+
+> BEGIN STRING
+古代魔法文明の技術で作られた額飾り。
+> CONTEXT: Armors/20/description/
+Empowered by an ancient magical civilization's power.#lvl1
+> END STRING
+
+> BEGIN STRING
+レザーアーマー
+> CONTEXT: Armors/21/name/
+> CONTEXT: Armors/63/name/
+Leather Mail#lvl1
+> END STRING
+
+> BEGIN STRING
+なめし皮を重ねて組んだ鎧。
+
+> CONTEXT: Armors/21/description/
+Armour made with overlapping leather.#lvl1
+> END STRING
+
+> BEGIN STRING
+ブロンズブレスト
+> CONTEXT: Armors/22/name/
+Bronze Plate#lvl1
+> END STRING
+
+> BEGIN STRING
+青銅で作られた粗末な胸当て。
+> CONTEXT: Armors/22/description/
+A breastplate made of bronze.#lvl1
+> END STRING
+
+> BEGIN STRING
+アイアンブレスト
+> CONTEXT: Armors/23/name/
+Iron Plate#lvl1
+> END STRING
+
+> BEGIN STRING
+鋼板から打ち出した鉄の胸当て。
+> CONTEXT: Armors/23/description/
+A breastplate made of iron.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルブレスト
+> CONTEXT: Armors/24/name/
+Mithril Plate#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた胸当て。
+> CONTEXT: Armors/24/description/
+Mithril breastplate made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+ドラゴンスケイル
+> CONTEXT: Armors/25/name/
+Dragon Plate#lvl1
+> END STRING
+
+> BEGIN STRING
+竜の鱗から作られた胸当て。
+> CONTEXT: Armors/25/description/
+A breastplate made from dragon scales.#lvl1
+> END STRING
+
+> BEGIN STRING
+レザーキャップ
+> CONTEXT: Armors/26/name/
+Leather Hap#lvl1
+> END STRING
+
+> BEGIN STRING
+なめし皮で作られた帽子。
+> CONTEXT: Armors/26/description/
+A hat made out of leather.#lvl1
+> END STRING
+
+> BEGIN STRING
+ブロンズキャップ
+> CONTEXT: Armors/27/name/
+Bronze Cap#lvl1
+> END STRING
+
+> BEGIN STRING
+青銅で補強された帽子。
+> CONTEXT: Armors/27/description/
+A reinforced hat made with bronze.#lvl1
+> END STRING
+
+> BEGIN STRING
+サレット
+> CONTEXT: Armors/28/name/
+Sallet#lvl1
+> END STRING
+
+> BEGIN STRING
+鋼板を加工して作った帽子。
+> CONTEXT: Armors/28/description/
+A hat made with steel.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルキャップ
+> CONTEXT: Armors/29/name/
+Mithril Cap#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリル銀糸で編まれた帽子。
+> CONTEXT: Armors/29/description/
+Mithril cap made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+ドラゴンスキン
+> CONTEXT: Armors/30/name/
+Dragon Cap#lvl1
+> END STRING
+
+> BEGIN STRING
+竜の皮膚から作られた帽子。
+> CONTEXT: Armors/30/description/
+A hat made of dragon scales.#lvl1
+> END STRING
+
+> BEGIN STRING
+チェインメイル
+> CONTEXT: Armors/31/name/
+> CONTEXT: Armors/64/name/
+Chain Mail#lvl1
+> END STRING
+
+> BEGIN STRING
+鉄の鎖を組み上げて作った鎧。
+> CONTEXT: Armors/31/description/
+> CONTEXT: Armors/64/description/
+Armour made with iron chains.#lvl1
+> END STRING
+
+> BEGIN STRING
+アイアンメイル
+> CONTEXT: Armors/32/name/
+Iron Armour#lvl1
+> END STRING
+
+> BEGIN STRING
+鋼鉄製の鎧。
+> CONTEXT: Armors/32/description/
+Armour made of steel.#lvl1
+> END STRING
+
+> BEGIN STRING
+プレートメイル
+> CONTEXT: Armors/33/name/
+Plate Mail#lvl1
+> END STRING
+
+> BEGIN STRING
+騎士が身につける板金鎧。
+> CONTEXT: Armors/33/description/
+Knights wear plate mail.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルメイル
+> CONTEXT: Armors/34/name/
+Mithril Armour#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた鎧。
+> CONTEXT: Armors/34/description/
+Mithril armour made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+竜鱗の鎧
+> CONTEXT: Armors/35/name/
+Dragon Armour#lvl1
+> END STRING
+
+> BEGIN STRING
+竜の鱗から作られた鎧。
+> CONTEXT: Armors/35/description/
+Armour made from dragon scales.#lvl1
+> END STRING
+
+> BEGIN STRING
+チェインコイフ
+> CONTEXT: Armors/36/name/
+Chain Helm#lvl1
+> END STRING
+
+> BEGIN STRING
+頭部を覆う鉄鎖で編まれたフード。
+> CONTEXT: Armors/36/description/
+Helmet made of iron chains.#lvl1
+> END STRING
+
+> BEGIN STRING
+アイアンヘルム
+> CONTEXT: Armors/37/name/
+Iron Helm#lvl1
+> END STRING
+
+> BEGIN STRING
+鋼鉄製の兜。
+> CONTEXT: Armors/37/description/
+Helmet made of steel.#lvl1
+> END STRING
+
+> BEGIN STRING
+ナイトヘルム
+> CONTEXT: Armors/38/name/
+Knight Helm#lvl1
+> END STRING
+
+> BEGIN STRING
+騎士が身につける装飾された兜。
+> CONTEXT: Armors/38/description/
+Knights wear this helm.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルヘルム
+> CONTEXT: Armors/39/name/
+Mithril Helm#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた兜。
+> CONTEXT: Armors/39/description/
+Mithril helm made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+竜鱗の兜
+> CONTEXT: Armors/40/name/
+Dragon Helm#lvl1
+> END STRING
+
+> BEGIN STRING
+竜の鱗から作られた兜。
+> CONTEXT: Armors/40/description/
+Helmet made of dragon scales.#lvl1
+> END STRING
+
+> BEGIN STRING
+バックラー
+> CONTEXT: Armors/41/name/
+Buckler#lvl1
+> END STRING
+
+> BEGIN STRING
+攻撃を受け流すための小型盾。
+> CONTEXT: Armors/41/description/
+A small shield used to fend off attacks.#lvl1
+> END STRING
+
+> BEGIN STRING
+ラウンドシールド
+> CONTEXT: Armors/42/name/
+Round Shield#lvl1
+> END STRING
+
+> BEGIN STRING
+鉄の枠で補強した木製の円盾。
+> CONTEXT: Armors/42/description/
+A circular shield with a reinforced steel frame.#lvl1
+> END STRING
+
+> BEGIN STRING
+スパイクシールド
+> CONTEXT: Armors/43/name/
+Spike Shield#lvl1
+> END STRING
+
+> BEGIN STRING
+表面に攻撃用のトゲがついた円盾。
+> CONTEXT: Armors/43/description/
+A shield with spikes on its surface for offense.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルバックラー
+> CONTEXT: Armors/44/name/
+Mithril Buckler#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた小型盾。
+> CONTEXT: Armors/44/description/
+Mithril buckler made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+ドラゴンバックラー
+> CONTEXT: Armors/45/name/
+Dragon Buckler#lvl1
+> END STRING
+
+> BEGIN STRING
+竜の鱗から作られた小型盾。
+> CONTEXT: Armors/45/description/
+Buckler made of dragon scales.#lvl1
+> END STRING
+
+> BEGIN STRING
+ウッドシールド
+> CONTEXT: Armors/46/name/
+Wood Shield#lvl1
+> END STRING
+
+> BEGIN STRING
+堅木を重ね合わせて作った盾。
+> CONTEXT: Armors/46/description/
+A shield made with hard wood.#lvl1
+> END STRING
+
+> BEGIN STRING
+アイアンシールド
+> CONTEXT: Armors/47/name/
+Iron Shield#lvl1
+> END STRING
+
+> BEGIN STRING
+鋼鉄製の盾。
+> CONTEXT: Armors/47/description/
+Shield made of steel.#lvl1
+> END STRING
+
+> BEGIN STRING
+ナイトシールド
+> CONTEXT: Armors/48/name/
+Knight Shield#lvl1
+> END STRING
+
+> BEGIN STRING
+グリフォンの紋章が刻まれた鋼の盾。
+> CONTEXT: Armors/48/description/
+Knights use this shield.#lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルシールド
+> CONTEXT: Armors/49/name/
+Mithril Shield#lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた盾。
+> CONTEXT: Armors/49/description/
+Mithril shield made of the magic mineral.#lvl1
+> END STRING
+
+> BEGIN STRING
+竜鱗の盾
+> CONTEXT: Armors/50/name/
+Dragon Shield#lvl1
+> END STRING
+
+> BEGIN STRING
+竜の鱗を組み合わせて作った盾。
+> CONTEXT: Armors/50/description/
+Shield made of dragon scales.#lvl1
+> END STRING
+
+> BEGIN STRING
+闘神のベルト
+> CONTEXT: Armors/51/name/
+War God's Belt#lvl1
+> END STRING
+
+> BEGIN STRING
+闘神の名が刻まれた金属のベルト。
+
+> CONTEXT: Armors/51/description/
+Metal belt engraved with the War God's name.#lvl1
+> END STRING
+
+> BEGIN STRING
+守りのピアス
+> CONTEXT: Armors/52/name/
+Defense Piece#lvl1
+> END STRING
+
+> BEGIN STRING
+守りの魔法がかけられたピアス。
+
+> CONTEXT: Armors/52/description/
+Hung at the magic forest for defense.#lvl1
+> END STRING
+
+> BEGIN STRING
+ウィングブーツ
+> CONTEXT: Armors/53/name/
+Winged Boots#lvl1
+> END STRING
+
+> BEGIN STRING
+風の精霊の力が宿るブーツ。
+
+> CONTEXT: Armors/53/description/
+The holy spirit of the wind dwell in these boots.#lvl1
+> END STRING
+
+> BEGIN STRING
+大地のアミュレット
+> CONTEXT: Armors/54/name/
+Earth's Embrace#lvl1
+> END STRING
+
+> BEGIN STRING
+大地の精霊の力が宿るお守り。
+
+> CONTEXT: Armors/54/description/
+The power of the earth protects the wearer.#lvl1
+> END STRING
+
+> BEGIN STRING
+幸運のお守り
+> CONTEXT: Armors/55/name/
+Lucky Charm#lvl1
+> END STRING
+
+> BEGIN STRING
+幸運の女神の名が刻まれたお守り。
+
+> CONTEXT: Armors/55/description/
+A charm engraved with the name of the goddess of luck.#lvl1
+> END STRING
+
+> BEGIN STRING
+ホーリーシンボル
+> CONTEXT: Armors/56/name/
+Holy Symbol#lvl1
+> END STRING
+
+> BEGIN STRING
+神に仕える者がもつ聖なるシンボル。
+
+> CONTEXT: Armors/56/description/
+A symbol worn by those who serve God.#lvl1
+> END STRING
+
+> BEGIN STRING
+ソロモンの指輪
+> CONTEXT: Armors/57/name/
+Solomon's Ring#lvl1
+> END STRING
+
+> BEGIN STRING
+魔神の力を秘めた指輪。
+
+> CONTEXT: Armors/57/description/
+A ring with the hidden power of a genie.#lvl1
+> END STRING
+
+> BEGIN STRING
+戦乙女の首飾り
+> CONTEXT: Armors/58/name/
+Odin's Necklace#lvl1
+> END STRING
+
+> BEGIN STRING
+持つ者に戦う力を与える魔法の首飾り。
+
+> CONTEXT: Armors/58/description/
+A magic necklace that empowers those who fight.#lvl1
+> END STRING
+
+> BEGIN STRING
+狂戦士の眼帯
+> CONTEXT: Armors/59/name/
+Eyepatch of Fury#lvl1
+> END STRING
+
+> BEGIN STRING
+狂戦士の力が得られるアイパッチ。
+
+> CONTEXT: Armors/59/description/
+An eyepatch worn by powerful berserkers.#lvl1
+> END STRING
+
+> BEGIN STRING
+光のタリスマン
+> CONTEXT: Armors/60/name/
+Talisman of Light#lvl1
+> END STRING
+
+> BEGIN STRING
+神々の王の力が宿るお守り。
+> CONTEXT: Armors/60/description/
+The king of gods dwell in this talisman.#lvl1
+> END STRING
+
+> BEGIN STRING
+普通の革鎧。
+> CONTEXT: Armors/63/description/
+Ordinary leather armor.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+スプリントメイル
+> CONTEXT: Armors/65/name/
+Sprint Mail#MTLed
+> END STRING
+
+> BEGIN STRING
+レザーアーマーの上にマルワイク合金の板を貼った鎧。
+やや重い。
+> CONTEXT: Armors/65/description/
+Armor with a Marvaick alloy plate on the leather armor. 
+Slightly heavy.#MTLed
+> END STRING
+
+> BEGIN STRING
+バンデッドメイル
+> CONTEXT: Armors/66/name/
+Banded Mail#MTLed
+> END STRING
+
+> BEGIN STRING
+チェインメイルの上にマルワイク合金の板を貼った鎧。
+防御力が高いが、やや重い。
+> CONTEXT: Armors/66/description/
+Armor with Marvaick alloy plate on chain elem. High defense
+power, but somewhat heavy.#MTLed
+> END STRING
+
+> BEGIN STRING
+クリスタルアーマー
+> CONTEXT: Armors/67/name/
+Crystal Armor#MTLed
+> END STRING
+
+> BEGIN STRING
+クリスタルを鎧の各所に埋め込み、
+魔法防御力を高めた鎧。やや重い。
+> CONTEXT: Armors/67/description/
+Embed the crystal in various parts of the armor, Armor that
+increased magic defense power. Slightly heavy.#MTLed
+> END STRING
+
+> BEGIN STRING
+キュイラス
+> CONTEXT: Armors/68/name/
+Cuirasse#MTLed
+> END STRING
+
+> BEGIN STRING
+丸みのある胴鎧。
+> CONTEXT: Armors/68/description/
+Rounded armor.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+シルバーキュイラス
+> CONTEXT: Armors/69/name/
+Silver cuirasse#MTLed
+> END STRING
+
+> BEGIN STRING
+丸みのある胴鎧。銀製。
+> CONTEXT: Armors/69/description/
+Rounded armor. Made of silver.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+普通のバンダナ。
+> CONTEXT: Armors/70/description/
+An ordinary bandana.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+鉢金
+> CONTEXT: Armors/71/name/
+Bamboo grass#MTLed
+> END STRING
+
+> BEGIN STRING
+頭部を守る装備品。
+> CONTEXT: Armors/71/description/
+> CONTEXT: Armors/87/description/
+Equipment to protect the head.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+布の服
+> CONTEXT: Armors/72/name/
+Cloth clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+普通の服。
+> CONTEXT: Armors/72/description/
+Ordinary clothes.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+旅の服
+> CONTEXT: Armors/73/name/
+Travel clothing#MTLed
+> END STRING
+
+> BEGIN STRING
+旅に適した丈夫な服。
+> CONTEXT: Armors/73/description/
+Durable clothes suitable for traveling.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+銀糸の服
+> CONTEXT: Armors/74/name/
+Silver thread clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+銀糸で編まれた丈夫な服。
+動きやすく、魔法防御力が高い。
+> CONTEXT: Armors/74/description/
+Durable clothing woven with silver thread. It is easy to
+move and has high magic defense power.#MTLed
+> END STRING
+
+> BEGIN STRING
+風霊の服
+> CONTEXT: Armors/75/name/
+Blood spirit clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+風霊の力が込められた糸で編まれた服。
+敏捷性が大きく上がる。
+> CONTEXT: Armors/75/description/
+Clothes knitted with thread filled with spiritual force. 
+Agility is greatly increased.#MTLed
+> END STRING
+
+> BEGIN STRING
+水霊の服
+> CONTEXT: Armors/76/name/
+Mourning clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+水霊の力が込められた糸で編まれた服。
+魔法防御に優れる。
+> CONTEXT: Armors/76/description/
+Clothes woven from thread filled with the power of the
+water spirit. It is excellent in magic defense.#MTLed
+> END STRING
+
+> BEGIN STRING
+グロッセルアーマー
+> CONTEXT: Armors/78/name/
+Grossel armor#MTLed
+> END STRING
+
+> BEGIN STRING
+ストレイン武具店渾身の一作。
+グロッセル鉱石を用いて作られた動きやすく丈夫な鎧。
+> CONTEXT: Armors/78/description/
+Strein Armor Shop Store full of whole body. A moveable and
+durable armor made with grossel ore.#MTLed
+> END STRING
+
+> BEGIN STRING
+雪花のお守り
+> CONTEXT: Armors/79/name/
+Snow flower amulet#MTLed
+> END STRING
+
+> BEGIN STRING
+雪水晶で作られたお守り。
+魔力を帯びているため溶けない。氷結状態を防ぐ。
+> CONTEXT: Armors/79/description/
+Amulet made of snow crystal. Because it is magical, it does
+not melt. Prevent freezing.#MTLed
+> END STRING
+
+> BEGIN STRING
+熊よけの鈴
+> CONTEXT: Armors/80/name/
+Bear bell bell#MTLed
+> END STRING
+
+> BEGIN STRING
+澄んだ音色が精神の乱れを防止する。
+魅了状態に多少なりにくくなる。
+> CONTEXT: Armors/80/description/
+Clear tone color prevents mental disturbance. It becomes
+somewhat difficult to be attracted.#MTLed
+> END STRING
+
+> BEGIN STRING
+耳栓
+> CONTEXT: Armors/81/name/
+Earplug#MTLed
+> END STRING
+
+> BEGIN STRING
+音波攻撃を防ぐ、高性能な耳栓。
+街などでは外して行動している設定なのでよろしく。
+> CONTEXT: Armors/81/description/
+\\}A high performance earplug which prevents sound wave attack.
+Since it is a setting that is acting off the town etc.#MTLed
+> END STRING
+
+> BEGIN STRING
+防寒着
+> CONTEXT: Armors/82/name/
+Warm clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+寒さに強い毛皮の服。
+物理防御力は低いが、氷属性の魔法の威力を軽減する。
+> CONTEXT: Armors/82/description/
+Fur clothing resistant to cold. Physical defense power is
+low, but magic power of ice attribute is reduced.#MTLed
+> END STRING
+
+> BEGIN STRING
+防寒マント
+> CONTEXT: Armors/83/name/
+Winter cloak#MTLed
+> END STRING
+
+> BEGIN STRING
+寒さを防ぐためのマント。
+氷属性の魔法の威力を軽減する。
+> CONTEXT: Armors/83/description/
+Cloak to prevent cold. Reduce the power of magic with ice
+attributes.#MTLed
+> END STRING
+
+> BEGIN STRING
+アイアンアーマー
+> CONTEXT: Armors/84/name/
+Iron Armor#MTLed
+> END STRING
+
+> BEGIN STRING
+体を覆う、鉄製の重鎧。
+重いが防御力が高い。
+> CONTEXT: Armors/84/description/
+A heavy armor made of iron, covering the body. It is heavy
+but has high defense power.#MTLed
+> END STRING
+
+> BEGIN STRING
+ソルジャーアーマー
+> CONTEXT: Armors/85/name/
+Soldier Armor#MTLed
+> END STRING
+
+> BEGIN STRING
+マルワイク武具店がエルミア軍に納品している兵士鎧。
+重いが防御力が高い。
+> CONTEXT: Armors/85/description/
+Soldier armor that Marvaick armored shop is delivering to
+the Elmier army. It is heavy but has high defense power.#MTLed
+> END STRING
+
+> BEGIN STRING
+グレートアーマー
+> CONTEXT: Armors/86/name/
+Great Armor#MTLed
+> END STRING
+
+> BEGIN STRING
+マルワイク武具店の代表作である重鎧。
+頑丈かつ軽量の合金で作られている逸品。
+> CONTEXT: Armors/86/description/
+Heavy armor which is masterpiece work of Marvaick armor
+shop. A gem that is made of a rugged and lightweight alloy.#MTLed
+> END STRING
+
+> BEGIN STRING
+銀の鉢金
+> CONTEXT: Armors/87/name/
+Silver's bowl#MTLed
+> END STRING
+
+> BEGIN STRING
+ナイトアーマー
+> CONTEXT: Armors/88/name/
+Night armor#MTLed
+> END STRING
+
+> BEGIN STRING
+騎士用の重鎧。
+マルワイク製のハイエンドモデル。兵士用より軽量。
+> CONTEXT: Armors/88/description/
+Heavy armor for knights. High-end model made by Marvaick.
+Lightweight than for soldiers.#MTLed
+> END STRING
+
+> BEGIN STRING
+スピードリングⅠ
+> CONTEXT: Armors/89/name/
+Speedling Ⅰ#MTLed
+> END STRING
+
+> BEGIN STRING
+敏捷性が向上する魔法がかけられた指輪。
+> CONTEXT: Armors/89/description/
+> CONTEXT: Armors/113/description/
+Ring with magic that improves agility.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+パワーリングⅠ
+> CONTEXT: Armors/90/name/
+Power ring Ⅰ#MTLed
+> END STRING
+
+> BEGIN STRING
+力が向上する魔法がかけられた指輪。
+> CONTEXT: Armors/90/description/
+> CONTEXT: Armors/114/description/
+A magic-rings ring that improves power.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+ガードリングⅠ
+> CONTEXT: Armors/91/name/
+Guard ring Ⅰ#MTLed
+> END STRING
+
+> BEGIN STRING
+防御力が向上する魔法がかけられた指輪。
+> CONTEXT: Armors/91/description/
+> CONTEXT: Armors/115/description/
+A magic-rings ring that improves defense power.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+バリアリングⅠ
+> CONTEXT: Armors/92/name/
+Barrier ring Ⅰ#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法防御が向上する魔法がかけられた指輪。
+> CONTEXT: Armors/92/description/
+> CONTEXT: Armors/116/description/
+A magic-rings ring that improves magic defense.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+カームバングル
+> CONTEXT: Armors/93/name/
+Karm bangle#MTLed
+> END STRING
+
+> BEGIN STRING
+勃起状態に多少なりにくくなる腕輪。
+> CONTEXT: Armors/93/description/
+Bracelets become less likely to be in an erection state.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+アンチチャーム
+> CONTEXT: Armors/94/name/
+Anti-charm#MTLed
+> END STRING
+
+> BEGIN STRING
+魅了状態に多少なりにくくなる腕輪。
+> CONTEXT: Armors/94/description/
+Bracelets that become less likely to be fascinated.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+シルバーチェインメイル
+> CONTEXT: Armors/96/name/
+Silver chain mail#MTLed
+> END STRING
+
+> BEGIN STRING
+銀の鎖を組み上げて作った鎧。
+> CONTEXT: Armors/96/description/
+Armor made by assembling silver chains.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+シルバーアーマー
+> CONTEXT: Armors/97/name/
+Silver armor#MTLed
+> END STRING
+
+> BEGIN STRING
+体を覆う、銀製の重鎧。
+重いが防御力が高い。
+> CONTEXT: Armors/97/description/
+A silver heavy armor that covers the body. It is heavy but
+has high defense power.#MTLed
+> END STRING
+
+> BEGIN STRING
+フェイスマスク
+> CONTEXT: Armors/98/name/
+Face mask#MTLed
+> END STRING
+
+> BEGIN STRING
+顔を覆う防具。花粉・霧などの攻撃を防ぐこともできる。
+視界が悪くなるので攻撃の命中率がやや下がる。
+> CONTEXT: Armors/98/description/
+\\}Armor that covers the face. It can also prevent attacks such as pollen and fog.
+As the visibility gets worse, the hit rate of attack decreases somewhat.#MTLed
+> END STRING
+
+> BEGIN STRING
+ガントレット
+> CONTEXT: Armors/99/name/
+Gauntlet#MTLed
+> END STRING
+
+> BEGIN STRING
+腕を守る防具。
+> CONTEXT: Armors/99/description/
+Armor protector.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+シルバーガントレット
+> CONTEXT: Armors/100/name/
+Silver Gauntlet#MTLed
+> END STRING
+
+> BEGIN STRING
+腕を守る防具
+> CONTEXT: Armors/100/description/
+Armor protector
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+グロッセルキュイラス
+> CONTEXT: Armors/101/name/
+Grossel cuirasse#MTLed
+> END STRING
+
+> BEGIN STRING
+ストレイン武具店の新たな量産品。
+動きやすい軽量の鎧。雷属性をやや軽減する。
+> CONTEXT: Armors/101/description/
+\\}Strein Armor Shop A new mass-produced item at the store. Lightweight armor
+that is easy to move. Reduce the lightning attribute slightly.#MTLed
+> END STRING
+
+> BEGIN STRING
+丸みのある胴鎧。
+魔力が込められて防御力が上がっている。
+> CONTEXT: Armors/102/description/
+> CONTEXT: Armors/103/description/
+> CONTEXT: Armors/104/description/
+> CONTEXT: Armors/105/description/
+Rounded armor. Magical power is put in and the defense
+power is rising.#MTLed
+> END STRING
+
+> BEGIN STRING
+キュイラス+2
+> CONTEXT: Armors/103/name/
+Cuirasse 2#MTLed
+> END STRING
+
+> BEGIN STRING
+キュイラス+3
+> CONTEXT: Armors/104/name/
+Cuirasse 3#MTLed
+> END STRING
+
+> BEGIN STRING
+キュイラス+4
+> CONTEXT: Armors/105/name/
+Cuirasse 4#MTLed
+> END STRING
+
+> BEGIN STRING
+青い鱗を素材に使用した鎧。
+軽さと頑丈さを兼ね備え、炎属性をやや軽減する。
+> CONTEXT: Armors/106/description/
+\\}Armor using blue scales as a material. It combines lightness and
+ruggedness and slightly reduces flame attributes.#MTLed
+> END STRING
+
+> BEGIN STRING
+ブルークリスタルを加工して作られた鎧。
+高い魔法防御力を誇り、氷属性をやや軽減する。
+> CONTEXT: Armors/107/description/
+Armor made by processing blue crystal. It boasts high magic
+defense power and slightly reduces the ice attribute.#MTLed
+> END STRING
+
+> BEGIN STRING
+炎の力が込められた鎧。
+炎属性のダメージをやや軽減する。
+> CONTEXT: Armors/108/description/
+Armor with the power of fire. Slightly reduce the damage of
+flame attribute.#MTLed
+> END STRING
+
+> BEGIN STRING
+氷の力が込められた鎧。
+氷属性のダメージをやや軽減する。
+> CONTEXT: Armors/109/description/
+Armor with the power of ice. Slightly reduce ice attribute
+damage.#MTLed
+> END STRING
+
+> BEGIN STRING
+大地の力が込められた鎧。
+大地、雷属性のダメージをやや軽減する。
+> CONTEXT: Armors/110/description/
+Armor filled with the power of the earth. Reduce the damage
+of the earth, lightning attribute slightly.#MTLed
+> END STRING
+
+> BEGIN STRING
+スピードリングⅡ
+> CONTEXT: Armors/113/name/
+Speed ​​Ring II#MTLed
+> END STRING
+
+> BEGIN STRING
+パワーリングⅡ
+> CONTEXT: Armors/114/name/
+Power ring Ⅱ#MTLed
+> END STRING
+
+> BEGIN STRING
+ガードリングⅡ
+> CONTEXT: Armors/115/name/
+Guard ring Ⅱ#MTLed
+> END STRING
+
+> BEGIN STRING
+バリアリングⅡ
+> CONTEXT: Armors/116/name/
+Barrier ring Ⅱ#MTLed
+> END STRING
+
+> BEGIN STRING
+カームバングル＋
+> CONTEXT: Armors/117/name/
+Karm bangle +#MTLed
+> END STRING
+
+> BEGIN STRING
+勃起状態になりにくくなる腕輪。
+> CONTEXT: Armors/117/description/
+Bracelets that are less likely to get erected.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+アンチチャーム＋
+> CONTEXT: Armors/118/name/
+Anti-charm +#MTLed
+> END STRING
+
+> BEGIN STRING
+魅了状態になりにくくなる腕輪。
+> CONTEXT: Armors/118/description/
+Bracelets that become less fascinated.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+チャームネックレス
+> CONTEXT: Armors/119/name/
+Charm Necklace#MTLed
+> END STRING
+
+> BEGIN STRING
+魅了、勃起状態になりやすくなる。
+また、性感属性の攻撃を受けた際の精神ダメージが増える。
+> CONTEXT: Armors/119/description/
+Attracted, it tends to be in an erect state. Also, mental
+damage increases when attacked by sexual attributes.#MTLed
+> END STRING
+
+> BEGIN STRING
+カームネックレス
+> CONTEXT: Armors/120/name/
+Carm Necklace#MTLed
+> END STRING
+
+> BEGIN STRING
+魅了、勃起状態になりにくくなる。
+また、性感属性の攻撃を受けた際の精神ダメージを軽減する。
+> CONTEXT: Armors/120/description/
+\\}Attracted, it becomes hard to become an erection state. Also, reduce
+spiritual damage when attacked by sex attributes.#MTLed
+> END STRING
+
+> BEGIN STRING
+ホワイトブリム
+> CONTEXT: Armors/121/name/
+White Brim#MTLed
+> END STRING
+
+> BEGIN STRING
+頭部の装飾。
+> CONTEXT: Armors/121/description/
+Decoration of the head.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+メイド服
+> CONTEXT: Armors/122/name/
+Maid clothes#MTLed
+> END STRING
+
+> BEGIN STRING
+メイド服。
+> CONTEXT: Armors/122/description/
+Maid clothes.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+マーメイドバングル
+> CONTEXT: Armors/124/name/
+Mermaid bangle#MTLed
+> END STRING
+
+> BEGIN STRING
+勃起、魅了の各状態に
+少し耐性がつき、水属性のダメージを少し軽減する。
+> CONTEXT: None < UNUSED
+Erection, attraction to each state. Slightly resistant,
+slightly reduces water damage damage.#MTLed
+> END STRING
+
+> BEGIN STRING
+サンゴを使った指輪。
+水属性のダメージを大きく軽減し、最大精神を上昇させる。
+> CONTEXT: Armors/125/description/
+Ring with coral. It greatly reduces water damage and raises
+the maximum spirit.#MTLed
+> END STRING
+
+> BEGIN STRING
+鱗の指輪
+> CONTEXT: Armors/126/name/
+Scales ring#MTLed
+> END STRING
+
+> BEGIN STRING
+サハギンの鱗を使った指輪。防御力が上がり、
+水属性のダメージを少し軽減する。
+> CONTEXT: Armors/126/description/
+Ring with scales of Sahuagin. Defense power is increased, 
+We slightly reduce the damage of water attribute.#MTLed
+> END STRING
+
+> BEGIN STRING
+王立学園学生証
+> CONTEXT: Armors/127/name/
+Royal Gakuen student card#MTLed
+> END STRING
+
+> BEGIN STRING
+王立学園の学生証。
+正式な学園生のものではなく、聴講生用の記念品。
+> CONTEXT: Armors/127/description/
+Royal school student card. It is not an official school
+student's souvenir but a souvenir for auditors.#MTLed
+> END STRING
+
+> BEGIN STRING
+紳士のネックレス
+> CONTEXT: Armors/128/name/
+Gentleman's Necklace#MTLed
+> END STRING
+
+> BEGIN STRING
+魅了状態を完全に防止し、性感属性のダメージを軽減するが
+攻撃力、防御力、魔法防御が大きく下がる。
+> CONTEXT: Armors/128/description/
+\\}It completely prevents fascination and alleviates damage of sexual attribute
+Attack strength, defense power, magic defense greatly fall.#MTLed
+> END STRING
+
+> BEGIN STRING
+イベント用弱体防具
+> CONTEXT: Armors/129/name/
+Weak armor for events#MTLed
+> END STRING
+
+> BEGIN STRING
+サフィスグレイス
+> CONTEXT: Armors/130/name/
+Safistira's Grace#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア王国の主神サフィスティラの加護を受けた
+アクセサリー。神聖属性のダメージを軽減する。
+> CONTEXT: Armors/130/description/
+\\}I received the protection of the principal god Safistira of the Kingdom of Elmia
+Accessories. Reduce the damage of sacred attributes.#MTLed
+> END STRING
+
+> BEGIN STRING
+輝石のネックレス
+> CONTEXT: Armors/131/name/
+Akashiro Necklace#MTLed
+> END STRING
+
+> BEGIN STRING
+輝石があしらわれたネックレス。
+水神の祝福を受けており、神聖属性のダメージを少し軽減。
+> CONTEXT: Armors/131/description/
+\\}Necklace treated with pyroxene. It received the blessing of the
+water god and slightly reduces the damage of the sacred attribute.#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビルが魔法の触媒として使っていた水晶。
+装備するとスキルがひとつ増える。
+> CONTEXT: Armors/132/description/
+Crystal that lesser devil used as a magical catalyst. When
+equipped, the skill increases one.#MTLed
+> END STRING
+
+> BEGIN STRING
+勃起、魅了、恍惚の各状態に
+少し耐性がつき、水属性のダメージを少し軽減する。
+> CONTEXT: Armors/124/description/ < UNTRANSLATED
+
+> END STRING

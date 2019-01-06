@@ -1,0 +1,1397 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+女兵士Ａ
+「ふっ、よく来たわね\\N[12]君！」
+> CONTEXT: Map130/events/40/pages/0/1/Dialogue
+> CONTEXT: Map130/events/41/pages/0/1/Dialogue
+Female soldier A. 「Fu, I came often \\N[12] You!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、な、なんだ！？」
+> CONTEXT: Map130/events/40/pages/0/4/Dialogue
+> CONTEXT: Map130/events/41/pages/0/4/Dialogue
+\\N[12]. 「Why, what is it! ?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士Ｂ
+「女王の試練を受けてるってことは聞いてるわよ。
+この兵士で溢れてる闘技場を
+ただで通り抜けようっていうのは不届きじゃない？」
+> CONTEXT: Map130/events/40/pages/0/7/Dialogue
+> CONTEXT: Map130/events/41/pages/0/7/Dialogue
+Female soldier B. 「I heard that you are under the queen 's
+trials. The soldiers overflowing the stadium
+Is not it unreliable just to get through?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士Ｃ
+「どうせ王城直通の舟を利用しようとしてるんだろうけど、
+ここは私たちが通さないよー」
+> CONTEXT: Map130/events/40/pages/0/12/Dialogue
+> CONTEXT: Map130/events/41/pages/0/12/Dialogue
+Female soldier C. 「I wonder why he is trying to use the
+boat that is direct to Ogashiro, Here we are not going
+through」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あれっ？
+ラナさんたちじゃないですか」
+> CONTEXT: Map130/events/40/pages/0/19/Dialogue
+> CONTEXT: Map130/events/41/pages/0/19/Dialogue
+\\N[12]. 「That? Are not they Rana-san or something?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「そうね、久しぶりね。
+あのときの男の子が、まさか武道大会で
+優勝するだなんてね。驚いたわ」
+> CONTEXT: Map130/events/40/pages/0/23/Dialogue
+> CONTEXT: Map130/events/41/pages/0/23/Dialogue
+Rana. 「Well, it's been a long time. The boy at that time,
+no martial arts tournament. I do not believe in winning. I
+was surprised.」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「確かにキミって、かなりいい腕前してたもんね。
+でも、いくら強いとは言っても
+三人いっぺんに相手にして勝てるかな？」
+> CONTEXT: Map130/events/40/pages/0/28/Dialogue
+> CONTEXT: Map130/events/41/pages/0/28/Dialogue
+Rise. 「It certainly was pretty good skill.
+However, although it is said that it is strong
+I wonder if three people can win against each other at
+once?」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「私たちも、あのときよりも
+強くなってるもんね。負けないよー？」
+> CONTEXT: Map130/events/40/pages/0/33/Dialogue
+> CONTEXT: Map130/events/41/pages/0/33/Dialogue
+Clair. 「We are also more than. It is getting stronger. I
+will not lose?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くっ、やばいかもしれない……
+ラナさんは一対一でもきつい相手だったのに、
+さらにリゼさんとクレアさんまで同時に相手とは）
+> CONTEXT: Map130/events/40/pages/0/37/Dialogue
+> CONTEXT: Map130/events/41/pages/0/37/Dialogue
+\\N[12]. (It might be a crap,...... Rana-san was a
+tough opponent on a one-to-one basis, In addition, Mr. Rise
+and Clair at the same time at the same time)#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「さあ、ステージに上がりなさい。
+せっかく闘技場にいるんだから、
+あの舞台の上でやり合いましょう」
+> CONTEXT: Map130/events/40/pages/0/42/Dialogue
+> CONTEXT: Map130/events/40/pages/0/75/Dialogue
+> CONTEXT: Map130/events/41/pages/0/42/Dialogue
+> CONTEXT: Map130/events/41/pages/0/75/Dialogue
+Rana. 「Now, go up to the stage. Because I am in the
+stadium, Let's get together on that stage」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……いいでしょう」
+> CONTEXT: Map130/events/40/pages/0/47/Dialogue
+> CONTEXT: Map130/events/40/pages/0/80/Dialogue
+> CONTEXT: Map130/events/41/pages/0/47/Dialogue
+> CONTEXT: Map130/events/41/pages/0/80/Dialogue
+\\N[12]. 「Okay」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、ラナさんたち……」
+> CONTEXT: Map130/events/40/pages/0/53/Dialogue
+> CONTEXT: Map130/events/41/pages/0/53/Dialogue
+\\N[12]. 「U, Rana-san et al.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「そうね、久しぶりね。
+あのときの情けない男の子が、
+まさか武道大会に優勝するなんてね」
+> CONTEXT: Map130/events/40/pages/0/56/Dialogue
+> CONTEXT: Map130/events/41/pages/0/56/Dialogue
+Rana. 「Well, it's been a long time. The miserable boy at
+that time, No way to win the martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「まぐれで優勝できる大会じゃないし、
+よっぽど努力したのかな？
+でも、あたしたちには勝てないと思うよ」
+> CONTEXT: Map130/events/40/pages/0/61/Dialogue
+> CONTEXT: Map130/events/41/pages/0/61/Dialogue
+Rise. 「It is not a tournament that can win with a fluke,
+Have you made a good effort? But, I think we can not win」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「ふふっ、\\N[12]君の戦い方は
+ぜんぶお見通しだもんね」
+> CONTEXT: Map130/events/40/pages/0/66/Dialogue
+> CONTEXT: Map130/events/41/pages/0/66/Dialogue
+Clair. 「Hehe \\N[12] How you fight. We are all outlook」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くっ、やばいな……以前稽古の相手をしたときは
+三人ともかなりの腕だった。
+いっぺんに相手にするとなると、かなり手強いぞ）
+> CONTEXT: Map130/events/40/pages/0/70/Dialogue
+> CONTEXT: Map130/events/41/pages/0/70/Dialogue
+\\N[12]. (Cut, it is awful ...... When I took part in a
+lesson before. Both of us were quite a skill.
+You will be tough if you become opponent at once)#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ふふっ。
+私たちはさしずめ、若い男の子と姫様の結婚を邪魔する
+悪の女戦士って感じだね」
+> CONTEXT: Map130/events/40/pages/0/89/Dialogue
+> CONTEXT: Map130/events/40/pages/0/135/Dialogue
+> CONTEXT: Map130/events/41/pages/0/89/Dialogue
+> CONTEXT: Map130/events/41/pages/0/135/Dialogue
+Rise. 「Heh. We interfere with the marriage of a young boy
+and a princess. I feel like an evil woman warrior」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「気の毒だけど、女王陛下の命令だもんね」
+> CONTEXT: Map130/events/40/pages/0/94/Dialogue
+> CONTEXT: Map130/events/40/pages/0/140/Dialogue
+> CONTEXT: Map130/events/41/pages/0/94/Dialogue
+> CONTEXT: Map130/events/41/pages/0/140/Dialogue
+Clair. 「I feel sorry, but it is the command of His Majesty
+the Queen」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「どっちにしろ、あたしたちにも勝てないようなら
+未来の王配として認めるわけにはいかないからね。
+しっかり勝って、その資格ありと証明してみせなさい」
+> CONTEXT: Map130/events/40/pages/0/97/Dialogue
+> CONTEXT: Map130/events/40/pages/0/143/Dialogue
+> CONTEXT: Map130/events/41/pages/0/97/Dialogue
+> CONTEXT: Map130/events/41/pages/0/143/Dialogue
+Rana. 「Either way, if we can not win. It can not be
+accepted as a future king. Beat it firmly and prove it as
+qualified」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ええ、遠慮はしませんよ。
+俺はこんなところで倒れるわけにはいかない、
+あなたたちを倒して突破してみせます！」
+> CONTEXT: Map130/events/40/pages/0/102/Dialogue
+> CONTEXT: Map130/events/41/pages/0/102/Dialogue
+\\N[12]. 「Yes, I will not hold back. I can not fall
+down in such a place, I will defeat you and break through!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「さ、三人か……
+いっぺんに相手をするのは骨が折れそうだが……」
+> CONTEXT: Map130/events/40/pages/0/110/Dialogue
+> CONTEXT: Map130/events/41/pages/0/110/Dialogue
+\\N[12]. 「Well, three people ...... It seems tough to
+break the opponent at once.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士Ｂ
+「こうして見てもパッとしない男の子だけど、
+武道大会で優勝したからには実力者なんだろうね。
+でも、ここでキミの進撃は終わり」
+> CONTEXT: Map130/events/40/pages/0/114/Dialogue
+> CONTEXT: Map130/events/41/pages/0/114/Dialogue
+Female soldier B. 「Although it is a boy who does not
+disappoint in looking like this, I wonder if he won the
+martial arts tournament and he is a skilled man.
+But your advances are over here」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士Ｃ
+「私たちの連携プレイで、
+キミの心を折ってあげちゃうもんね♪」
+> CONTEXT: Map130/events/40/pages/0/119/Dialogue
+> CONTEXT: Map130/events/41/pages/0/119/Dialogue
+Female soldier C. 「With our cooperative play,
+I will break your heart♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士Ａ
+「さあ、ステージに上がりなさい。
+せっかく闘技場にいるんだから、
+あの舞台の上でやり合いましょう」
+> CONTEXT: Map130/events/40/pages/0/123/Dialogue
+> CONTEXT: Map130/events/41/pages/0/123/Dialogue
+Female soldier A. 「Now, go up to the stage.
+Because I am in the stadium, Let's get together on that
+stage」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「……よし、受けて立つぜ」
+> CONTEXT: Map130/events/40/pages/0/128/Dialogue
+> CONTEXT: Map130/events/41/pages/0/128/Dialogue
+\\N[12]. 「......OK, I will accept it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、遠慮はしないぜ。
+俺はこんなところで倒れるわけにはいかない、
+あんたたちを倒して突破してみせるっ！」
+> CONTEXT: Map130/events/40/pages/0/148/Dialogue
+> CONTEXT: Map130/events/41/pages/0/148/Dialogue
+\\N[12]. 「Oh, I do not hold back. I can not fall down
+in such a place, I will defeat you and break through!」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「きゃっ！」
+> CONTEXT: Map130/events/40/pages/0/164/Dialogue
+> CONTEXT: Map130/events/40/pages/1/44/Dialogue
+> CONTEXT: Map130/events/41/pages/0/164/Dialogue
+> CONTEXT: Map130/events/41/pages/1/44/Dialogue
+Clair. 「kyaa!」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「や、やられたっ」
+> CONTEXT: Map130/events/40/pages/0/169/Dialogue
+> CONTEXT: Map130/events/40/pages/1/49/Dialogue
+> CONTEXT: Map130/events/41/pages/0/169/Dialogue
+> CONTEXT: Map130/events/41/pages/1/49/Dialogue
+Rise. 「Or, it was done」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ぐっ……さ、さすが武道大会優勝者ね。
+三人がかりなのに、跳ねのけられてしまうなんて」
+> CONTEXT: Map130/events/40/pages/0/174/Dialogue
+> CONTEXT: Map130/events/40/pages/1/54/Dialogue
+> CONTEXT: Map130/events/41/pages/0/174/Dialogue
+> CONTEXT: Map130/events/41/pages/1/54/Dialogue
+Rana. 「Kutsu ......, as expected, it is the martial arts
+tournament winner. Though it is three people, I thought
+that it would be splashed」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ……
+俺の勝ちですね、ラナさん。
+ここは通してもらいますよ」
+> CONTEXT: Map130/events/40/pages/0/180/Dialogue
+> CONTEXT: Map130/events/40/pages/1/60/Dialogue
+> CONTEXT: Map130/events/41/pages/0/180/Dialogue
+> CONTEXT: Map130/events/41/pages/1/60/Dialogue
+\\N[12]. 「Fuu ...... I am the winner, Rana - san.
+I will let you through here」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「仕方ないわね。
+ま、ここまでやられたら納得するしかないし、
+女王陛下も私たちを責めはしないでしょう」
+> CONTEXT: Map130/events/40/pages/0/185/Dialogue
+> CONTEXT: Map130/events/40/pages/0/225/Dialogue
+> CONTEXT: Map130/events/40/pages/1/65/Dialogue
+> CONTEXT: Map130/events/40/pages/1/105/Dialogue
+> CONTEXT: Map130/events/41/pages/0/185/Dialogue
+> CONTEXT: Map130/events/41/pages/0/225/Dialogue
+> CONTEXT: Map130/events/41/pages/1/65/Dialogue
+> CONTEXT: Map130/events/41/pages/1/105/Dialogue
+Rana. 「It can not be helped. Well, there is no other
+choice but to convince if you get done so far,
+Her Majesty will not blame us」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「それにしても、ここを突破してどうすんの？」
+> CONTEXT: Map130/events/40/pages/0/190/Dialogue
+> CONTEXT: Map130/events/40/pages/1/70/Dialogue
+> CONTEXT: Map130/events/41/pages/0/190/Dialogue
+> CONTEXT: Map130/events/41/pages/1/70/Dialogue
+Rise. 「Anyway, how do you break through here?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「もちろん、船着場にある舟をいただきます。
+なんでも、自動的に城まで走ってくれるらしい、と
+聞いたものですから」
+> CONTEXT: Map130/events/40/pages/0/193/Dialogue
+> CONTEXT: Map130/events/40/pages/1/73/Dialogue
+> CONTEXT: Map130/events/41/pages/0/193/Dialogue
+> CONTEXT: Map130/events/41/pages/1/73/Dialogue
+\\N[12]. 「Of course, I will have a boat at the dock.
+Anything, it seems that it will automatically run to the
+castle, Because it is what I heard」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「やっぱりそうだよね。
+女王陛下も凄いわ、城に入るルートとして
+こっちをキミが選ぶって見抜いてたんだから」
+> CONTEXT: Map130/events/40/pages/0/198/Dialogue
+> CONTEXT: Map130/events/40/pages/0/239/Dialogue
+> CONTEXT: Map130/events/40/pages/1/78/Dialogue
+> CONTEXT: Map130/events/40/pages/1/119/Dialogue
+> CONTEXT: Map130/events/41/pages/0/198/Dialogue
+> CONTEXT: Map130/events/41/pages/0/239/Dialogue
+> CONTEXT: Map130/events/41/pages/1/78/Dialogue
+> CONTEXT: Map130/events/41/pages/1/119/Dialogue
+Rise. 「I guess that's true. Her Majesty the Queen is also
+amazing, as a route to enter the castle. I knew you were
+choosing this one」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「私たちの部隊は闘技場の清掃役をしてたんだけど、
+急にキミを迎え撃てって言われてビックリしたよー」
+> CONTEXT: Map130/events/40/pages/0/203/Dialogue
+> CONTEXT: Map130/events/40/pages/0/244/Dialogue
+> CONTEXT: Map130/events/40/pages/1/83/Dialogue
+> CONTEXT: Map130/events/40/pages/1/124/Dialogue
+> CONTEXT: Map130/events/41/pages/0/203/Dialogue
+> CONTEXT: Map130/events/41/pages/0/244/Dialogue
+> CONTEXT: Map130/events/41/pages/1/83/Dialogue
+> CONTEXT: Map130/events/41/pages/1/124/Dialogue
+Clair. 「Our unit was cleaning the stadium,
+I was surprised to be touched by you suddenly」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうだったんですか……」
+> CONTEXT: Map130/events/40/pages/0/207/Dialogue
+> CONTEXT: Map130/events/40/pages/1/87/Dialogue
+> CONTEXT: Map130/events/41/pages/0/207/Dialogue
+> CONTEXT: Map130/events/41/pages/1/87/Dialogue
+> CONTEXT: Map147/events/2/pages/7/59/Dialogue
+> CONTEXT: Map147/events/24/pages/0/195/Dialogue
+\\N[12]. 「Is that so……」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「\\N[12]君。私たちを倒したのはさすがだけど、
+ここから先は、兵士とは格の違う相手が出てくるわ。
+心して挑むことね」
+> CONTEXT: Map130/events/40/pages/0/210/Dialogue
+> CONTEXT: Map130/events/40/pages/1/90/Dialogue
+> CONTEXT: Map130/events/41/pages/0/210/Dialogue
+> CONTEXT: Map130/events/41/pages/1/90/Dialogue
+Rana. 「\\N[12] You. It is a good idea to beat us,
+From here onwards, opponents with different grades come out
+from soldiers. It is a challenge by heart.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「はい、俺はアルミナを嫁にするためにも
+誰にも負けません！」
+> CONTEXT: Map130/events/40/pages/0/215/Dialogue
+> CONTEXT: Map130/events/40/pages/1/95/Dialogue
+> CONTEXT: Map130/events/41/pages/0/215/Dialogue
+> CONTEXT: Map130/events/41/pages/1/95/Dialogue
+\\N[12]. 「Yes, I also want to marry alumina
+I will not lose to anyone!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ……俺の勝ちだな。
+ここは通してもらうぜ」
+> CONTEXT: Map130/events/40/pages/0/221/Dialogue
+> CONTEXT: Map130/events/40/pages/1/101/Dialogue
+> CONTEXT: Map130/events/41/pages/0/221/Dialogue
+> CONTEXT: Map130/events/41/pages/1/101/Dialogue
+\\N[12]. 「Fuu ...... I am the winner. I will let you
+through here」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「それにしてもキミ、
+ここを突破してどうすんの？」
+> CONTEXT: Map130/events/40/pages/0/230/Dialogue
+> CONTEXT: Map130/events/40/pages/1/110/Dialogue
+> CONTEXT: Map130/events/41/pages/0/230/Dialogue
+> CONTEXT: Map130/events/41/pages/1/110/Dialogue
+Rise. 「Anyway, How do you break through here?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「もちろん、船着場にある舟をいただくさ。
+なんでも、自動的に城まで走ってくれるらしい、と
+聞いたからな」
+> CONTEXT: Map130/events/40/pages/0/234/Dialogue
+> CONTEXT: Map130/events/40/pages/1/114/Dialogue
+> CONTEXT: Map130/events/41/pages/0/234/Dialogue
+> CONTEXT: Map130/events/41/pages/1/114/Dialogue
+\\N[12]. 「Of course, you should have a boat at the dock.
+Anything, it seems that it will automatically run to the
+castle, I heard it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「\\N[12]君。私たちを倒したのはさすがだけど、
+ここから先は、兵士とは格の違う相手が出てくるわ。
+いくらキミでも、そう簡単にいくとは思わないことね」
+> CONTEXT: Map130/events/40/pages/0/251/Dialogue
+> CONTEXT: Map130/events/40/pages/1/131/Dialogue
+> CONTEXT: Map130/events/41/pages/0/251/Dialogue
+> CONTEXT: Map130/events/41/pages/1/131/Dialogue
+Rana. 「\\N[12] You. It is a good idea to beat us,
+From here onwards, opponents with different grades come out
+from soldiers. No matter how much you are, I do not think
+that it will be so easy」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「もとより、どんな相手に対しても
+全力でいくつもりだぜ。
+後悔はしたくないからなっ！」
+> CONTEXT: Map130/events/40/pages/0/256/Dialogue
+> CONTEXT: Map130/events/40/pages/1/136/Dialogue
+> CONTEXT: Map130/events/41/pages/0/256/Dialogue
+> CONTEXT: Map130/events/41/pages/1/136/Dialogue
+Rana. 「In addition to any opponent. I will do it with full
+power. I do not want to regret it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士三人組を撃退した！
+> CONTEXT: Map130/events/40/pages/0/264/Dialogue
+> CONTEXT: Map130/events/40/pages/1/144/Dialogue
+> CONTEXT: Map130/events/41/pages/0/264/Dialogue
+> CONTEXT: Map130/events/41/pages/1/144/Dialogue
+Fight off the soldier threesome!#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「そらそらっ！」
+> CONTEXT: Map130/events/40/pages/0/274/Dialogue
+> CONTEXT: Map130/events/40/pages/1/153/Dialogue
+> CONTEXT: Map130/events/41/pages/0/273/Dialogue
+> CONTEXT: Map130/events/41/pages/1/153/Dialogue
+Rise. 「take that っ!」#MTLed
+> CONTEXT: Commonevents/245/1/Dialogue
+Rise. 「take that っ!」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「ええーいっ！」
+> CONTEXT: Map130/events/40/pages/0/278/Dialogue
+> CONTEXT: Map130/events/40/pages/1/157/Dialogue
+> CONTEXT: Map130/events/41/pages/0/277/Dialogue
+> CONTEXT: Map130/events/41/pages/1/157/Dialogue
+Clair. 「Well then!」#MTLed
+> CONTEXT: Commonevents/245/5/Dialogue
+Clair. 「Well then!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「これで、トドメよ！」
+> CONTEXT: Map130/events/40/pages/0/282/Dialogue
+> CONTEXT: Map130/events/40/pages/1/161/Dialogue
+> CONTEXT: Map130/events/41/pages/0/281/Dialogue
+> CONTEXT: Map130/events/41/pages/1/161/Dialogue
+Rana. 「This is finisher!」#MTLed
+> CONTEXT: Commonevents/245/9/Dialogue
+Rana. 「This is finisher!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、ぐっ……！」
+> CONTEXT: Map130/events/40/pages/0/286/Dialogue
+> CONTEXT: Map130/events/40/pages/1/165/Dialogue
+> CONTEXT: Map130/events/41/pages/0/285/Dialogue
+> CONTEXT: Map130/events/41/pages/1/165/Dialogue
+\\N[12]. 「Ugh ....!」#MTLed
+> CONTEXT: Commonevents/245/13/Dialogue
+\\N[12]. 「Ugh ....!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ふっ、さすがのキミも
+三人がかりじゃひとたまりもなかったわね」
+> CONTEXT: Map130/events/40/pages/0/309/Dialogue
+> CONTEXT: Map130/events/41/pages/0/308/Dialogue
+Rana. 「Whew, as expected. There were not three people
+lately」#MTLed
+> CONTEXT: Commonevents/245/35/Dialogue
+Rana. 「Whew, as expected. There were not three
+people lately」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「あはっ、どんな気分かな？
+女によってたかってボコボコにされちゃってさ」
+> CONTEXT: Map130/events/40/pages/0/313/Dialogue
+> CONTEXT: Map130/events/41/pages/0/312/Dialogue
+Rise. 「Hahah, how do you feel? I need you because I wanted
+a woman.」#MTLed
+> CONTEXT: Commonevents/245/39/Dialogue
+Rise. 「Hahah, how do you feel?
+I need you because I wanted a woman.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ、くそっ……
+こんなところで、負けるわけにはっ……！」
+> CONTEXT: Map130/events/40/pages/0/317/Dialogue
+> CONTEXT: Map130/events/41/pages/0/316/Dialogue
+\\N[12]. 「Damn, damn .... In such a place, I will lose
+... ...!」#MTLed
+> CONTEXT: Commonevents/245/43/Dialogue
+\\N[12]. 「Damn, damn .... In such a place, I
+will lose......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「まだあきらめてないの？
+そんなフラフラじゃ、もう無理だってば。
+キミの負け～♪」
+> CONTEXT: Map130/events/40/pages/0/321/Dialogue
+> CONTEXT: Map130/events/41/pages/0/320/Dialogue
+Clair. 「Have not you yet given up? It's impossible for
+dizzy like that. Your losing ~♪」#MTLed
+> CONTEXT: Commonevents/245/47/Dialogue
+Clair. 「Have not you yet given up?
+It's impossible for dizzy like that.
+Your losing ~♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「さて、敗者のキミには
+それに相応しい恥辱を与えてあげるわ」
+> CONTEXT: Map130/events/40/pages/0/329/Dialogue
+> CONTEXT: Map130/events/41/pages/0/328/Dialogue
+Rana. 「Well, to the loser Kimi. I will give you a good
+shame」#MTLed
+> CONTEXT: Commonevents/245/55/Dialogue
+Rana. 「Well, to the loser Kimi
+I will give you a good shame」#MTLed
+> END STRING
+
+> BEGIN STRING
+三人は\\N[12]を取り囲む――
+> CONTEXT: Map130/events/40/pages/0/334/Dialogue
+> CONTEXT: Map130/events/40/pages/1/214/Dialogue
+> CONTEXT: Map130/events/41/pages/0/333/Dialogue
+> CONTEXT: Map130/events/41/pages/1/214/Dialogue
+Three people \\N[12] Surrounds -#MTLed
+> CONTEXT: Commonevents/245/60/Dialogue
+Three people \\N[12] Surrounds -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、何を……！
+あ、あああぁぁっ！」
+> CONTEXT: Map130/events/40/pages/0/336/Dialogue
+> CONTEXT: Map130/events/41/pages/0/335/Dialogue
+\\N[12]. 「Ugh, what......! Oh, Aaahhh!」#MTLed
+> CONTEXT: Commonevents/245/62/Dialogue
+\\N[12]. 「Ugh, what......! Oh, Aaahhh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+むにゅううぅんっ！
+> CONTEXT: Map130/events/40/pages/0/344/Dialogue
+> CONTEXT: Map130/events/40/pages/1/224/Dialogue
+> CONTEXT: Map130/events/41/pages/0/343/Dialogue
+> CONTEXT: Map130/events/41/pages/1/224/Dialogue
+Muuuuuuuuu!#MTLed
+> CONTEXT: Commonevents/245/70/Dialogue
+Muuuuuuuuu!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、うあっ……！
+な、なんで、こんなことをっ……」
+> CONTEXT: Map130/events/40/pages/0/346/Dialogue
+> CONTEXT: Map130/events/41/pages/0/345/Dialogue
+\\N[12]. 「Well, ooooo ...! Why, such a thing ......」#MTLed
+> CONTEXT: Commonevents/245/72/Dialogue
+\\N[12]. 「Well, ooooo ...! Why, such a thing
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ふふっ、どう？
+おっぱいに包まれちゃったね」
+> CONTEXT: Map130/events/40/pages/0/350/Dialogue
+> CONTEXT: Map130/events/40/pages/1/226/Dialogue
+> CONTEXT: Map130/events/41/pages/0/349/Dialogue
+> CONTEXT: Map130/events/41/pages/1/226/Dialogue
+Rana. 「Huh, how are you? I was wrapped in boobs」#MTLed
+> CONTEXT: Commonevents/245/76/Dialogue
+Rana. 「Huh, how are you? I was wrapped in boobs」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（や、やわらかい……
+三人とも、少しずつ肌の質感が違ってるし
+これは、ヤバい……！）
+> CONTEXT: Map130/events/40/pages/0/354/Dialogue
+> CONTEXT: Map130/events/40/pages/1/230/Dialogue
+> CONTEXT: Map130/events/41/pages/0/353/Dialogue
+> CONTEXT: Map130/events/41/pages/1/230/Dialogue
+\\N[12]. (Or, soft...For both of us, the texture of
+the skin is different little by little. This is
+dangerous……! )#MTLed
+> CONTEXT: Commonevents/245/80/Dialogue
+\\N[12]. (Or, soft...For both of us, the
+texture of the skin is different little by little
+This is dangerous……! )#MTLed
+> END STRING
+
+> BEGIN STRING
+三人の女兵士は、ぐいぐいと胸を突き出して
+\\N[12]におっぱいの感触を味わわせてくる！
+> CONTEXT: Map130/events/40/pages/0/359/Dialogue
+> CONTEXT: Map130/events/40/pages/1/235/Dialogue
+> CONTEXT: Map130/events/41/pages/0/358/Dialogue
+> CONTEXT: Map130/events/41/pages/1/235/Dialogue
+Three female soldiers, strongly pulled and stick out my
+chest. \\N[12] I will taste the feel of boobs!#MTLed
+> CONTEXT: Commonevents/245/85/Dialogue
+Three female soldiers, strongly pulled and stick
+out my chest. \\N[12] I will taste the feel of
+boobs!#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「どうかなー？
+わたし、胸ならラナたちには負けてないって
+思ってるんだけどなー」
+> CONTEXT: Map130/events/40/pages/0/362/Dialogue
+> CONTEXT: Map130/events/40/pages/1/238/Dialogue
+> CONTEXT: Map130/events/41/pages/0/361/Dialogue
+> CONTEXT: Map130/events/41/pages/1/238/Dialogue
+Clair. 「How is it? In my heart, I do not think I'm
+defeated by Rana. I'm thinking about it.」#MTLed
+> CONTEXT: Commonevents/245/88/Dialogue
+Clair. 「How is it? In my heart, I do not think
+I'm defeated by Rana. I'm thinking about it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「大きさならクレアかもしれないけど、
+私は張りなら自信あるよ」
+> CONTEXT: Map130/events/40/pages/0/367/Dialogue
+> CONTEXT: Map130/events/40/pages/1/243/Dialogue
+> CONTEXT: Map130/events/41/pages/0/366/Dialogue
+> CONTEXT: Map130/events/41/pages/1/243/Dialogue
+Rise. 「Although it may be Clair if its size,
+I am confident if I can」#MTLed
+> CONTEXT: Commonevents/245/93/Dialogue
+Rise. 「Although it may be Clair if its size,
+I am confident if I can」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「あら、私のおっぱいが一番バランスいいのよ？
+やっぱり、大きさも張りも、
+柔らかさもすべて兼ね備えてないとねー」
+> CONTEXT: Map130/events/40/pages/0/371/Dialogue
+> CONTEXT: Map130/events/40/pages/1/247/Dialogue
+> CONTEXT: Map130/events/41/pages/0/370/Dialogue
+> CONTEXT: Map130/events/41/pages/1/247/Dialogue
+Rana. 「Oh my boobs are the best balance?
+After all, size and tension, I also have to combine all the
+softness」#MTLed
+> CONTEXT: Commonevents/245/97/Dialogue
+Rana. 「Oh my boobs are the best balance?
+After all, size and tension, I also have to
+combine all the softness」#MTLed
+> END STRING
+
+> BEGIN STRING
+三人のおっぱいが顔に押し付けられ、
+その柔らかな肉感と、そして乳首の固い感触に頬を撫でられ、
+\\N[12]の心臓は際限なくドキドキを高めてゆく。
+> CONTEXT: Map130/events/40/pages/0/376/Dialogue
+> CONTEXT: Map130/events/41/pages/0/375/Dialogue
+Three boobs were pressed against the face,
+Its soft feeling and stiff feeling of nipples stroked his
+cheeks, \\N[12] The heart will increase endlessly.#MTLed
+> CONTEXT: Commonevents/245/102/Dialogue
+Three boobs were pressed against the face,
+Its soft feeling and stiff feeling of nipples
+stroked his cheeks, \\N[12] The heart will
+increase endlessly.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（う、ううっ……
+おっぱいの感触と、女の子らしい匂いに
+くらくらしてくる……）
+> CONTEXT: Map130/events/40/pages/0/381/Dialogue
+> CONTEXT: Map130/events/40/pages/1/257/Dialogue
+> CONTEXT: Map130/events/41/pages/0/380/Dialogue
+> CONTEXT: Map130/events/41/pages/1/257/Dialogue
+\\N[12]. (U, uugh...... Feeling of tits and girls'
+smell. I will come......)#MTLed
+> CONTEXT: Commonevents/245/107/Dialogue
+\\N[12]. (U, uugh...... Feeling of tits and
+girls' smell. I will come......)#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「あ、この人、なんだかうっとりした顔になってきたよ」
+> CONTEXT: Map130/events/40/pages/0/386/Dialogue
+> CONTEXT: Map130/events/40/pages/1/262/Dialogue
+> CONTEXT: Map130/events/41/pages/0/385/Dialogue
+> CONTEXT: Map130/events/41/pages/1/262/Dialogue
+Clair. 「Oh, this person, it has become a fascinating face
+somehow」#MTLed
+> CONTEXT: Commonevents/245/112/Dialogue
+Clair. 「Oh, this person, it has become a
+fascinating face somehow」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あうっ、うっ、ああぁ……」
+> CONTEXT: Map130/events/40/pages/0/389/Dialogue
+> CONTEXT: Map130/events/40/pages/1/265/Dialogue
+> CONTEXT: Map130/events/41/pages/0/388/Dialogue
+> CONTEXT: Map130/events/41/pages/1/265/Dialogue
+\\N[12]. 「Oh, uh, ah......」#MTLed
+> CONTEXT: Commonevents/245/115/Dialogue
+\\N[12]. 「Oh, uh, ah......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「あらあら……負けるわけにはいかない、
+なんて言っていたくせに、
+だらしない顔になっちゃったわね」
+> CONTEXT: Map130/events/40/pages/0/392/Dialogue
+> CONTEXT: Map130/events/40/pages/1/268/Dialogue
+> CONTEXT: Map130/events/41/pages/0/391/Dialogue
+> CONTEXT: Map130/events/41/pages/1/268/Dialogue
+Rana. 「oh no ...... It can not be defeated,
+Although I was saying that, I got into a sloppy face」#MTLed
+> CONTEXT: Commonevents/245/118/Dialogue
+Rana. 「oh no ...... It can not be defeated,
+Although I was saying that, I got into a sloppy
+face」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「あははっ、堕ちるの早すぎでしょ！
+ま、あたしたちのおっぱいを顔に味わわされて
+平気でいられるわけないけどさぁ」
+> CONTEXT: Map130/events/40/pages/0/397/Dialogue
+> CONTEXT: Map130/events/40/pages/1/273/Dialogue
+> CONTEXT: Map130/events/41/pages/0/396/Dialogue
+> CONTEXT: Map130/events/41/pages/1/273/Dialogue
+Rise. 「Hahahah, it's too early to fall! Well, tasted our
+tits on my face. Although it can not keep being fine」#MTLed
+> CONTEXT: Commonevents/245/123/Dialogue
+Rise. 「Hahahah, it's too early to fall!
+Well, tasted our tits on my face
+Although it can not keep being fine」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「ふふっ、わたしたちに負けて悔しがってたくせに、
+おっぱいの感触を味わわされて興奮しちゃうんだー」
+> CONTEXT: Map130/events/40/pages/0/402/Dialogue
+> CONTEXT: Map130/events/40/pages/1/278/Dialogue
+> CONTEXT: Map130/events/41/pages/0/401/Dialogue
+> CONTEXT: Map130/events/41/pages/1/278/Dialogue
+Clair. 「Huh, despite being defeated by losing to us,
+I am excited to have the taste of the boobs tasted.」#MTLed
+> CONTEXT: Commonevents/245/128/Dialogue
+Clair. 「Huh, despite being defeated by losing to
+us, I am excited to have the taste of the boobs
+tasted.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「男なんて、みんなこんなものよ。
+女の体でちょっとサービスしてやれば、
+恥も外聞もなく性欲に流されて興奮しちゃうんだから」
+> CONTEXT: Map130/events/40/pages/0/406/Dialogue
+> CONTEXT: Map130/events/40/pages/1/282/Dialogue
+> CONTEXT: Map130/events/41/pages/0/405/Dialogue
+> CONTEXT: Map130/events/41/pages/1/282/Dialogue
+Rana. 「Everyone like this man. With a little service with
+a woman 's body, Because I'm excited by the sexual desire
+without shame or external hearing」#MTLed
+> CONTEXT: Commonevents/245/132/Dialogue
+Rana. 「Everyone like this man.
+With a little service with a woman 's body,
+Because I'm excited by the sexual desire without
+shame or external hearing」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「マジで男って性欲しか頭にないよねー
+負けた相手にこんなことされてんのに喜ぶとか、
+こんなのがよく武道大会で優勝できたもんだよ」
+> CONTEXT: Map130/events/40/pages/0/411/Dialogue
+> CONTEXT: Map130/events/40/pages/1/287/Dialogue
+> CONTEXT: Map130/events/41/pages/0/410/Dialogue
+> CONTEXT: Map130/events/41/pages/1/287/Dialogue
+Rise. 「Seriously there is only sexual desire for men
+I am pleased that the opponent loses such a thing,
+This kind of thing was able to win the martial arts
+tournament well」#MTLed
+> CONTEXT: Commonevents/245/137/Dialogue
+Rise. 「Seriously there is only sexual desire for
+men. I am pleased that the opponent loses such a
+thing, This kind of thing was able to win the
+martial arts tournament well」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「だらしなく弛んだ顔をしちゃって……
+ふふっ、女から見れば軽蔑しか感じられない姿だって
+分かっているのかしらね？」
+> CONTEXT: Map130/events/40/pages/0/416/Dialogue
+> CONTEXT: Map130/events/40/pages/1/292/Dialogue
+> CONTEXT: Map130/events/41/pages/0/415/Dialogue
+> CONTEXT: Map130/events/41/pages/1/292/Dialogue
+Rana. 「I gave a sloppy face .... Huhuh, if you see it from
+a woman you can feel only contempt. I wonder if you know
+that?」#MTLed
+> CONTEXT: Commonevents/245/142/Dialogue
+Rana. 「I gave a sloppy face ....
+Huhuh, if you see it from a woman you can feel
+only contempt. I wonder if you know that?」#MTLed
+> END STRING
+
+> BEGIN STRING
+三人の女の子たちに蔑みの目で見下ろされ、
+くすくす笑われてしまう\\N[12]――
+> CONTEXT: Map130/events/40/pages/0/421/Dialogue
+> CONTEXT: Map130/events/40/pages/1/297/Dialogue
+> CONTEXT: Map130/events/41/pages/0/420/Dialogue
+> CONTEXT: Map130/events/41/pages/1/297/Dialogue
+Three girls were overlooked with disdainful eyes,
+To be laughed \\N[12] -#MTLed
+> CONTEXT: Commonevents/245/147/Dialogue
+Three girls were overlooked with disdainful eyes,
+To be laughed \\N[12] -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くっ……な、なんて情けないんだ……
+で、でも……こんな状況じゃ逆らえないし、
+なにより、おっぱいの感触が心地よすぎて、力が入らない……）
+> CONTEXT: Map130/events/40/pages/0/424/Dialogue
+> CONTEXT: Map130/events/40/pages/1/300/Dialogue
+> CONTEXT: Map130/events/41/pages/0/423/Dialogue
+> CONTEXT: Map130/events/41/pages/1/300/Dialogue
+\\N[12]. (Kuu ......, I can not misunderstand......
+But...I can not go against this situation,
+Above all, the feeling of boobs is too comfortable, no
+power......)#MTLed
+> CONTEXT: Commonevents/245/150/Dialogue
+\\N[12]. (Kuu ......, I can not misunderstand
+......But...I can not go against this
+situation, Above all, the feeling of boobs is too
+comfortable, no power......)#MTLed
+> END STRING
+
+> BEGIN STRING
+三人はおっぱいで\\N[12]の顔を弄びながら、
+ニヤニヤと軽侮の笑みを浮かべるばかりだった。
+> CONTEXT: Map130/events/40/pages/0/429/Dialogue
+> CONTEXT: Map130/events/40/pages/1/305/Dialogue
+> CONTEXT: Map130/events/41/pages/0/428/Dialogue
+> CONTEXT: Map130/events/41/pages/1/305/Dialogue
+Three boobs \\N[12] While playing her face,
+I just smiled with a despair.#MTLed
+> CONTEXT: Commonevents/245/155/Dialogue
+Three boobs \\N[12] While playing her face,
+I just smiled with a despair.#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「きゃっ、鼻息がおっぱいにかかって気持ち悪い」
+> CONTEXT: Map130/events/40/pages/0/432/Dialogue
+> CONTEXT: Map130/events/40/pages/1/308/Dialogue
+> CONTEXT: Map130/events/41/pages/0/431/Dialogue
+> CONTEXT: Map130/events/41/pages/1/308/Dialogue
+Clair. 「kyaa, I feel uncomfortable with my tummy on my
+boobs」#MTLed
+> CONTEXT: Commonevents/245/158/Dialogue
+Clair. 「kyaa, I feel uncomfortable with my tummy
+on my boobs」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「どうせ、下半身はフル勃起してるんだろうねー
+こいつがこんなヘンタイだって知ったら
+姫様はどう思うやら」
+> CONTEXT: Map130/events/40/pages/0/435/Dialogue
+> CONTEXT: Map130/events/40/pages/1/311/Dialogue
+> CONTEXT: Map130/events/41/pages/0/434/Dialogue
+> CONTEXT: Map130/events/41/pages/1/311/Dialogue
+Rise. 「Anyway, I wonder why the lower body is full of
+erections. If you know that this is pervert
+What do you think of the princess」#MTLed
+> CONTEXT: Commonevents/245/161/Dialogue
+Rise. 「Anyway, I wonder why the lower body is
+full of erections. If you know that this is
+pervert. What do you think of the princess」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ぜひとも今の姿をお見せしてあげたいわよね、ふふっ。
+さてと、そろそろ強く締めつけてあげちゃいましょうか」
+> CONTEXT: Map130/events/40/pages/0/440/Dialogue
+> CONTEXT: Map130/events/40/pages/1/316/Dialogue
+> CONTEXT: Map130/events/41/pages/0/439/Dialogue
+> CONTEXT: Map130/events/41/pages/1/316/Dialogue
+Rana. 「I definitely want to show you the way I am now, heh.
+Well then, shall we tightly tighten it soon」#MTLed
+> CONTEXT: Commonevents/245/166/Dialogue
+Rana. 「I definitely want to show you the way I
+am now, heh. Well then, shall we tightly tighten
+it soon」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「そうだね、このままじゃキリがないし」
+> CONTEXT: Map130/events/40/pages/0/444/Dialogue
+> CONTEXT: Map130/events/40/pages/1/320/Dialogue
+> CONTEXT: Map130/events/41/pages/0/443/Dialogue
+> CONTEXT: Map130/events/41/pages/1/320/Dialogue
+Rise. 「That's right, there is no dust as it is」#MTLed
+> CONTEXT: Commonevents/245/170/Dialogue
+Rise. 「That's right, there is no dust as it is」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「じゃ、この人の顔、思いっきり潰しちゃおう♪」
+> CONTEXT: Map130/events/40/pages/0/447/Dialogue
+> CONTEXT: Map130/events/40/pages/1/323/Dialogue
+> CONTEXT: Map130/events/41/pages/0/446/Dialogue
+> CONTEXT: Map130/events/41/pages/1/323/Dialogue
+Clair. 「Okay, let's crush this person's face quite well♪」#MTLed
+> CONTEXT: Commonevents/245/173/Dialogue
+Clair. 「Okay, let's crush this person's face
+quite well♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、三人は息を合わせて\\N[12]の顔を
+三方向から強く締めつけ、潰しにかかってくる！
+> CONTEXT: Map130/events/40/pages/0/450/Dialogue
+> CONTEXT: Map130/events/40/pages/1/326/Dialogue
+> CONTEXT: Map130/events/41/pages/0/449/Dialogue
+> CONTEXT: Map130/events/41/pages/1/326/Dialogue
+And the three breathed in breath \\N[12] The face of
+Tighten strongly from three directions, it will come to
+crush!#MTLed
+> CONTEXT: Commonevents/245/176/Dialogue
+And the three breathed in breath \\N[12] The
+face of. Tighten strongly from three directions,
+it will come to crush!#MTLed
+> END STRING
+
+> BEGIN STRING
+ぎゅううううううぅぅっ！
+> CONTEXT: Map130/events/40/pages/0/454/Dialogue
+> CONTEXT: Map130/events/40/pages/0/469/Dialogue
+> CONTEXT: Map130/events/40/pages/1/330/Dialogue
+> CONTEXT: Map130/events/40/pages/1/345/Dialogue
+> CONTEXT: Map130/events/41/pages/0/453/Dialogue
+> CONTEXT: Map130/events/41/pages/0/468/Dialogue
+> CONTEXT: Map130/events/41/pages/1/330/Dialogue
+> CONTEXT: Map130/events/41/pages/1/345/Dialogue
+Kyudou!#MTLed
+> CONTEXT: Commonevents/245/180/Dialogue
+> CONTEXT: Commonevents/245/195/Dialogue
+Kyudou!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああああぁぁぁっ……！」
+> CONTEXT: Map130/events/40/pages/0/456/Dialogue
+> CONTEXT: Map130/events/40/pages/1/332/Dialogue
+> CONTEXT: Map130/events/41/pages/0/455/Dialogue
+> CONTEXT: Map130/events/41/pages/1/332/Dialogue
+\\N[12]. 「Oh, Aaaahhh......!」#MTLed
+> CONTEXT: Commonevents/245/182/Dialogue
+\\N[12]. 「Oh, Aaaahhh......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「どう？　苦しい？」
+> CONTEXT: Map130/events/40/pages/0/459/Dialogue
+> CONTEXT: Map130/events/40/pages/1/335/Dialogue
+> CONTEXT: Map130/events/41/pages/0/458/Dialogue
+> CONTEXT: Map130/events/41/pages/1/335/Dialogue
+Rana. 「How? Is it painful?」#MTLed
+> CONTEXT: Commonevents/245/185/Dialogue
+Rana. 「How? Is it painful?」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ふふっ、苦しいはずなのに心地よさそうな表情が消えないね」
+> CONTEXT: Map130/events/40/pages/0/462/Dialogue
+> CONTEXT: Map130/events/40/pages/1/338/Dialogue
+> CONTEXT: Map130/events/41/pages/0/461/Dialogue
+> CONTEXT: Map130/events/41/pages/1/338/Dialogue
+Rise. 「Huh, it looks comfortable though it should be
+painful」#MTLed
+> CONTEXT: Commonevents/245/188/Dialogue
+Rise. 「Huh, it looks comfortable though it
+should be painful」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「このまま気絶するまで締めちゃおうよ♪」
+> CONTEXT: Map130/events/40/pages/0/465/Dialogue
+> CONTEXT: Map130/events/40/pages/1/341/Dialogue
+> CONTEXT: Map130/events/41/pages/0/464/Dialogue
+> CONTEXT: Map130/events/41/pages/1/341/Dialogue
+Clair. 「Let's tighten until it faints like this♪」#MTLed
+> CONTEXT: Commonevents/245/191/Dialogue
+Clair. 「Let's tighten until it faints like this♪
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うぁ、あ……
+く、苦しい……
+けど、気持ち、いい……」
+> CONTEXT: Map130/events/40/pages/0/471/Dialogue
+> CONTEXT: Map130/events/40/pages/1/347/Dialogue
+> CONTEXT: Map130/events/41/pages/0/470/Dialogue
+> CONTEXT: Map130/events/41/pages/1/347/Dialogue
+\\N[12]. 「Wow, ah ...... It is painful. But, feelings,
+okay ....」#MTLed
+> CONTEXT: Commonevents/245/197/Dialogue
+\\N[12]. 「Wow, ah ...... It is painful.
+But, feelings, okay ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、\\N[12]は呼吸困難になり、
+女の子の感触と匂いに苛まれたまま
+気を失った――
+> CONTEXT: Map130/events/40/pages/0/476/Dialogue
+> CONTEXT: Map130/events/40/pages/1/352/Dialogue
+> CONTEXT: Map130/events/41/pages/0/475/Dialogue
+> CONTEXT: Map130/events/41/pages/1/352/Dialogue
+Then, \\N[12] It becomes difficult to breathe,
+It is tormented by the feel and smell of girls
+I fainted -#MTLed
+> CONTEXT: Commonevents/245/202/Dialogue
+Then, \\N[12] It becomes difficult to breathe,
+It is tormented by the feel and smell of girls
+I fainted -#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ねぇ、こいつどうする？
+天にも昇る心地、みたいな顔をしたまま
+気絶しちゃったけど」
+> CONTEXT: Map130/events/40/pages/0/480/Dialogue
+> CONTEXT: Map130/events/40/pages/1/356/Dialogue
+> CONTEXT: Map130/events/41/pages/0/479/Dialogue
+> CONTEXT: Map130/events/41/pages/1/356/Dialogue
+Rise. 「Hey, what about you doing this? With the face
+looking like, rising in the sky. I fainted though」#MTLed
+> CONTEXT: Commonevents/245/206/Dialogue
+Rise. 「Hey, what about you doing this?
+With the face looking like, rising in the sky
+I fainted though」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「清掃担当の子たちに協力してもらって、
+闘技場の外に放り出しちゃえばいいわよ」
+> CONTEXT: Map130/events/40/pages/0/485/Dialogue
+> CONTEXT: Map130/events/40/pages/1/361/Dialogue
+> CONTEXT: Map130/events/41/pages/0/484/Dialogue
+> CONTEXT: Map130/events/41/pages/1/361/Dialogue
+Rana. 「I asked the children in charge of cleaning to
+cooperate, You should just leave it outside the stadium」#MTLed
+> CONTEXT: Commonevents/245/211/Dialogue
+Rana. 「I asked the children in charge of
+cleaning to cooperate, You should just leave it
+outside the stadium」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「あははっ、最高にかっこわるいね、この人。
+男って、どんなに強くても
+おっぱいで責めてやればこんなものなんだー」
+> CONTEXT: Map130/events/40/pages/0/489/Dialogue
+> CONTEXT: Map130/events/40/pages/1/365/Dialogue
+> CONTEXT: Map130/events/41/pages/0/488/Dialogue
+> CONTEXT: Map130/events/41/pages/1/365/Dialogue
+Clair. 「Hahahah, I am not cool at the highest, this person.
+No matter how strong a man is. If you blame it on your
+breasts it's such a thing」#MTLed
+> CONTEXT: Commonevents/245/215/Dialogue
+Clair. 「Hahahah, I am not cool at the highest,
+this person. No matter how strong a man is
+If you blame it on your breasts it's such a thing
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は三人の女兵士に敗れ、
+おっぱいで顔を弄ばれたあげく
+散々に軽蔑の言葉を浴びせられ、闘技場を叩き出された。
+> CONTEXT: Map130/events/40/pages/0/495/Dialogue
+> CONTEXT: Map130/events/40/pages/1/371/Dialogue
+> CONTEXT: Map130/events/41/pages/0/494/Dialogue
+> CONTEXT: Map130/events/41/pages/1/371/Dialogue
+In this way, \\N[12] He was defeated by three soldiers,
+I got fiddled with my boobs. He was bathed in disgustingly
+contempted words and beaten the stadium.#MTLed
+> CONTEXT: Commonevents/245/221/Dialogue
+In this way, \\N[12] He was defeated by three
+soldiers, I got fiddled with my boobs
+He was bathed in disgustingly contempted words
+and beaten the stadium.#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「あ、ヘンタイ君がまた来たー♪」
+> CONTEXT: Map130/events/40/pages/1/1/Dialogue
+> CONTEXT: Map130/events/41/pages/1/1/Dialogue
+Clair. 「Oh, pervert, you came again♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ふふっ、あれだけ追い打ちしてやったのに
+よくまた来る気になったね。
+恥ずかしくて、私らの前に姿出せないだろうと思ってたよ」
+> CONTEXT: Map130/events/40/pages/1/4/Dialogue
+> CONTEXT: Map130/events/41/pages/1/4/Dialogue
+Rise. 「Huh, I thought I had chased that much
+Well I became interested in coming back again.
+I was ashamed and I thought that it would not be able to
+appear in front of us」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……た、確かに、
+前回はだらしない姿を見せてしまったけど……
+俺は、あんたたちに負けたままでいるわけにはいかないっ！」
+> CONTEXT: Map130/events/40/pages/1/9/Dialogue
+> CONTEXT: Map130/events/41/pages/1/9/Dialogue
+\\N[12]. 「Cut......, indeed, Although I showed a
+sloppy figure last time...... I can not let you lose to
+me!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「威勢だけはいいのよね。
+でも、また前回みたいにおっぱいで顔を挟まれたら
+どうせ弛んだ顔で興奮しちゃうくせに」
+> CONTEXT: Map130/events/40/pages/1/14/Dialogue
+> CONTEXT: Map130/events/41/pages/1/14/Dialogue
+Rana. 「It is good only for strength. But, if my face is
+caught on my breasts like my last time. Anyway I'm getting
+excited with a slack face」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「今回はそもそも、あんたたちには負けないっ！
+さあ、今度こそ、そこを通してもらうぜっ！」
+> CONTEXT: Map130/events/40/pages/1/19/Dialogue
+> CONTEXT: Map130/events/41/pages/1/19/Dialogue
+\\N[12]. 「This time, I will not lose to you!
+Now, this time, let's get through it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ふっ、いいわよ。闘技場に上がりなさい。
+また前回のように、
+私たちのコンビネーションでボコボコにしてあげるわ」
+> CONTEXT: Map130/events/40/pages/1/23/Dialogue
+> CONTEXT: Map130/events/41/pages/1/23/Dialogue
+Rana. 「Well, OK. Go up to the stadium. Also like the last
+time, I will do it with our combination」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「さあ、いざ勝負っ！」
+> CONTEXT: Map130/events/40/pages/1/32/Dialogue
+> CONTEXT: Map130/events/41/pages/1/32/Dialogue
+Rana. 「Now, it is a game!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「あはっ、やっぱり全然ダメじゃない」
+> CONTEXT: Map130/events/40/pages/1/188/Dialogue
+> CONTEXT: Map130/events/41/pages/1/188/Dialogue
+Rana. 「Hahah, after all it is not bad at all.」#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「女にボコられて這いつくばる姿、
+すっごく情けないねぇ。
+ふふっ、あんたみたいなヘンタイにはお似合いだけどね」
+> CONTEXT: Map130/events/40/pages/1/191/Dialogue
+> CONTEXT: Map130/events/41/pages/1/191/Dialogue
+Rise. 「A woman crawling in a bold manner,
+I feel so sad. Huh, it suits you like pervert pervert
+though」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ、くそっ……
+ま、また負けちまうなんて……
+この三人、強いっ……！」
+> CONTEXT: Map130/events/40/pages/1/196/Dialogue
+> CONTEXT: Map130/events/41/pages/1/196/Dialogue
+\\N[12]. 「Damn, damn .... Well, I will not lose again
+......These three people are strong ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「今回もあたしたちの勝ち～♪
+ごめんねぇ、よってたかっていじめちゃって。
+女の子にやられちゃうのって、悔しいよねぇ？」
+> CONTEXT: Map130/events/40/pages/1/201/Dialogue
+> CONTEXT: Map130/events/41/pages/1/201/Dialogue
+Clair. 「We win this time again ~♪. Sorry, I wanted to
+tease and bully. It is frustrating for girls to get stuck?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……ち、ちくしょう……」
+> CONTEXT: Map130/events/40/pages/1/206/Dialogue
+> CONTEXT: Map130/events/41/pages/1/206/Dialogue
+\\N[12]. 「uugh...... ち ち, ち ょ う ょ う ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「ふっ、しょせん男なんてこの程度よ。
+さあ、また恥辱を与えてあげるわ」
+> CONTEXT: Map130/events/40/pages/1/209/Dialogue
+> CONTEXT: Map130/events/41/pages/1/209/Dialogue
+Rana. 「It is this degree for a male, shooter.
+Now I will give you another shame」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、ま、また……
+あ、あああぁぁ……！」
+> CONTEXT: Map130/events/40/pages/1/216/Dialogue
+> CONTEXT: Map130/events/41/pages/1/216/Dialogue
+\\N[12]. 「Uh huh, also .... Oh, Aaaahh......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+三人のおっぱいが顔に押し付けられ、
+その柔らかな憎刊と、そして乳首の固い感触に頬を撫でられ、
+\\N[12]の心臓は際限なくドキドキを高めてゆく。
+> CONTEXT: Map130/events/40/pages/1/252/Dialogue
+> CONTEXT: Map130/events/41/pages/1/252/Dialogue
+Three boobs were pressed against the face,
+Its soft hatred and cupped on her cheeks with a solid
+nipple feel, \\N[12] The heart will increase endlessly.#MTLed
+> END STRING

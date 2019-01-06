@@ -1,0 +1,56 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ウィギスの村
+> CONTEXT: Map072/display_name/
+Village of Wigheis#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「あら、今の時期にここを訪れる人なんて珍しいわね。
+ここはウィギス、高原の村よ」
+> CONTEXT: Map072/events/5/pages/0/0/Dialogue
+Woman. 「Oh, it is unusual for those who visit here at this
+time of year. This is Wigheis, a highland village」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「ここはディラント高原唯一の人里なんだ。
+この通り、高原だけど凍らない川もあるし、
+見た目よりも温暖だから過ごしやすいんだぜ」
+> CONTEXT: Map072/events/6/pages/0/0/Dialogue
+Youth. 「This is the only villa in Dirant Takahara.
+As you can see, there are rivers that are highlands but not
+freezing, It's easier to spend because it's warmer than it
+looks.」#MTLed
+> END STRING
+
+> BEGIN STRING
+男性
+「ウィギス名物『ディラント高原ミルク』は
+この店で買えるぜ」
+> CONTEXT: Map072/events/8/pages/0/0/Dialogue
+male. 「Wigheis specialty "Dirant Kogen Milk"
+You can buy it at this store」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「この村から北西に出ればディラント高原よ。
+街道沿いは安全だけど、ちょっと外れると
+危険な魔物がいるから、行くなら気をつけてね」
+> CONTEXT: Map072/events/12/pages/0/0/Dialogue
+Woman. 「If you go northwest from this village, Dirant
+Highland. It's safe along the highway, but if you go out a
+bit. There is a dangerous monster, so be careful if you go」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（今はこっちに行ってる場合じゃないな）
+> CONTEXT: Map072/events/21/pages/1/0/Dialogue
+> CONTEXT: Map072/events/22/pages/1/0/Dialogue
+\\N[12]. (It is not the case that I am going on here
+now.)#MTLed
+> END STRING

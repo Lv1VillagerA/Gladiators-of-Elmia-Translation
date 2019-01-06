@@ -1,0 +1,4051 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+スライム
+> CONTEXT: Troops/1/name/
+> CONTEXT: System/elements/11/
+> CONTEXT: Map023/events/21/pages/0/2/Choice/0
+> CONTEXT: Enemies/1/name/
+Slime#lvl1
+> END STRING
+
+> BEGIN STRING
+こうもり
+> CONTEXT: Troops/2/name/
+> CONTEXT: Enemies/2/name/
+Bat#lvl1
+> END STRING
+
+> BEGIN STRING
+ホーネット
+> CONTEXT: Troops/3/name/
+> CONTEXT: Enemies/3/name/
+Hornet#lvl1
+> END STRING
+
+> BEGIN STRING
+スライム2
+> CONTEXT: Troops/4/name/
+Slime*2#lvl1
+> END STRING
+
+> BEGIN STRING
+レッドスライム
+> CONTEXT: Troops/5/name/
+> CONTEXT: Enemies/64/name/
+Red slime#MTLed
+> END STRING
+
+> BEGIN STRING
+ウィスプ*3
+> CONTEXT: Troops/6/name/
+Wisp*3#lvl1
+> END STRING
+
+> BEGIN STRING
+大蛇*2
+> CONTEXT: Troops/7/name/
+Large Snake*2#lvl1
+> END STRING
+
+> BEGIN STRING
+大サソリ*3
+> CONTEXT: Troops/8/name/
+Scorpion*3#lvl1
+> END STRING
+
+> BEGIN STRING
+大クラゲ*2
+> CONTEXT: Troops/9/name/
+Jellyfish*2#lvl1
+> END STRING
+
+> BEGIN STRING
+食人花*3
+> CONTEXT: Troops/10/name/
+Man-Eating Plant*3#lvl1
+> END STRING
+
+> BEGIN STRING
+ゴースト*3
+> CONTEXT: Troops/11/name/
+Ghost*3#lvl1
+> END STRING
+
+> BEGIN STRING
+スケルトン*2
+> CONTEXT: Troops/12/name/
+Skeleton*2#lvl1
+> END STRING
+
+> BEGIN STRING
+オーク*3
+> CONTEXT: Troops/13/name/
+Orc*3#lvl1
+> END STRING
+
+> BEGIN STRING
+インプ*2
+> CONTEXT: Troops/14/name/
+Imp*2#lvl1
+> END STRING
+
+> BEGIN STRING
+ゲイザー*3
+> CONTEXT: Troops/15/name/
+Gazer*3#lvl1
+> END STRING
+
+> BEGIN STRING
+パペット*2
+> CONTEXT: Troops/16/name/
+Puppet*2#lvl1
+> END STRING
+
+> BEGIN STRING
+ゾンビ*3
+> CONTEXT: Troops/17/name/
+Zombie*3#lvl1
+> END STRING
+
+> BEGIN STRING
+コカトリス*2
+> CONTEXT: Troops/18/name/
+Cockatrice*2#lvl1
+> END STRING
+
+> BEGIN STRING
+キマイラ
+> CONTEXT: Troops/19/name/
+> CONTEXT: Enemies/19/name/
+Chimera#lvl1
+> END STRING
+
+> BEGIN STRING
+ミミック
+> CONTEXT: Troops/20/name/
+> CONTEXT: Troops/138/name/
+> CONTEXT: Enemies/20/name/
+> CONTEXT: Enemies/84/name/
+Mimic#lvl1
+> END STRING
+
+> BEGIN STRING
+ウェアウルフ*2
+> CONTEXT: Troops/21/name/
+Werewolf*2#lvl1
+> END STRING
+
+> BEGIN STRING
+サハギン*2
+> CONTEXT: Troops/22/name/
+Sahagin*2#lvl1
+> END STRING
+
+> BEGIN STRING
+オーガ
+> CONTEXT: Troops/23/name/
+> CONTEXT: Enemies/23/name/
+Ogre#lvl1
+> END STRING
+
+> BEGIN STRING
+ガーゴイル*2
+> CONTEXT: Troops/24/name/
+Gargoyle*2#lvl1
+> END STRING
+
+> BEGIN STRING
+ラミア
+> CONTEXT: Troops/25/name/
+> CONTEXT: Troops/74/name/
+> CONTEXT: Map023/events/36/pages/0/1/Dialogue
+> CONTEXT: Enemies/25/name/
+> CONTEXT: Enemies/74/name/
+Lamia#lvl1
+> END STRING
+
+> BEGIN STRING
+ヴァンパイア
+> CONTEXT: Troops/26/name/
+> CONTEXT: Enemies/26/name/
+Vampire#lvl1
+> END STRING
+
+> BEGIN STRING
+サキュバス
+> CONTEXT: Troops/27/name/
+> CONTEXT: Troops/125/name/
+> CONTEXT: Map023/events/69/pages/0/0/Dialogue
+> CONTEXT: Enemies/27/name/
+> CONTEXT: Enemies/113/name/
+> CONTEXT: Enemies/157/name/
+> CONTEXT: Enemies/192/name/
+> CONTEXT: Enemies/193/name/
+> CONTEXT: Enemies/194/name/
+Succubus#lvl1
+> END STRING
+
+> BEGIN STRING
+デーモン
+> CONTEXT: Troops/28/name/
+> CONTEXT: Enemies/28/name/
+Demon#lvl1
+> END STRING
+
+> BEGIN STRING
+魔王
+> CONTEXT: Troops/29/name/
+> CONTEXT: Enemies/29/name/
+Demon King#lvl1
+> END STRING
+
+> BEGIN STRING
+魔神
+> CONTEXT: Troops/30/name/
+> CONTEXT: Enemies/30/name/
+Demon God#lvl1
+> END STRING
+
+> BEGIN STRING
+スライム３
+> CONTEXT: Troops/31/name/
+Slime 3#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団員・ジェーン
+> CONTEXT: Troops/33/name/
+Militia member · Jane#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は性感が溜まり、勃起してしまった！
+> CONTEXT: Troops/33/pages/2/4/Dialogue
+> CONTEXT: Troops/34/pages/2/4/Dialogue
+> CONTEXT: Troops/35/pages/0/4/Dialogue
+> CONTEXT: Troops/36/pages/2/4/Dialogue
+> CONTEXT: Troops/37/pages/3/4/Dialogue
+> CONTEXT: Troops/39/pages/1/4/Dialogue
+> CONTEXT: Troops/40/pages/1/4/Dialogue
+> CONTEXT: Troops/41/pages/1/4/Dialogue
+> CONTEXT: Troops/42/pages/1/4/Dialogue
+> CONTEXT: Troops/43/pages/1/4/Dialogue
+> CONTEXT: Troops/45/pages/0/4/Dialogue
+> CONTEXT: Troops/46/pages/1/4/Dialogue
+> CONTEXT: Troops/47/pages/2/4/Dialogue
+> CONTEXT: Troops/48/pages/1/4/Dialogue
+> CONTEXT: Troops/51/pages/0/4/Dialogue
+> CONTEXT: Troops/52/pages/0/4/Dialogue
+> CONTEXT: Troops/54/pages/0/4/Dialogue
+> CONTEXT: Troops/55/pages/0/4/Dialogue
+> CONTEXT: Troops/56/pages/1/4/Dialogue
+> CONTEXT: Troops/57/pages/1/4/Dialogue
+> CONTEXT: Troops/58/pages/1/4/Dialogue
+> CONTEXT: Troops/59/pages/0/4/Dialogue
+> CONTEXT: Troops/60/pages/0/4/Dialogue
+> CONTEXT: Troops/61/pages/0/4/Dialogue
+> CONTEXT: Troops/62/pages/1/4/Dialogue
+> CONTEXT: Troops/63/pages/3/4/Dialogue
+> CONTEXT: Troops/64/pages/1/4/Dialogue
+> CONTEXT: Troops/65/pages/1/4/Dialogue
+> CONTEXT: Troops/66/pages/1/4/Dialogue
+> CONTEXT: Troops/67/pages/2/4/Dialogue
+> CONTEXT: Troops/69/pages/1/4/Dialogue
+> CONTEXT: Troops/70/pages/0/4/Dialogue
+> CONTEXT: Troops/72/pages/0/4/Dialogue
+> CONTEXT: Troops/74/pages/1/4/Dialogue
+> CONTEXT: Troops/75/pages/1/4/Dialogue
+> CONTEXT: Troops/77/pages/1/4/Dialogue
+> CONTEXT: Troops/81/pages/1/4/Dialogue
+> CONTEXT: Troops/82/pages/1/4/Dialogue
+> CONTEXT: Troops/87/pages/0/4/Dialogue
+> CONTEXT: Troops/88/pages/0/4/Dialogue
+> CONTEXT: Troops/91/pages/0/4/Dialogue
+> CONTEXT: Troops/92/pages/0/4/Dialogue
+> CONTEXT: Troops/93/pages/1/4/Dialogue
+> CONTEXT: Troops/96/pages/0/4/Dialogue
+> CONTEXT: Troops/97/pages/0/4/Dialogue
+> CONTEXT: Troops/99/pages/0/4/Dialogue
+> CONTEXT: Troops/100/pages/2/4/Dialogue
+> CONTEXT: Troops/102/pages/1/4/Dialogue
+> CONTEXT: Troops/103/pages/1/4/Dialogue
+> CONTEXT: Troops/113/pages/0/4/Dialogue
+> CONTEXT: Troops/115/pages/1/4/Dialogue
+> CONTEXT: Troops/116/pages/1/4/Dialogue
+> CONTEXT: Troops/117/pages/1/4/Dialogue
+> CONTEXT: Troops/119/pages/0/4/Dialogue
+> CONTEXT: Troops/124/pages/4/4/Dialogue
+> CONTEXT: Troops/125/pages/0/4/Dialogue
+> CONTEXT: Troops/130/pages/0/4/Dialogue
+> CONTEXT: Troops/131/pages/0/4/Dialogue
+> CONTEXT: Troops/134/pages/0/4/Dialogue
+> CONTEXT: Troops/135/pages/0/4/Dialogue
+> CONTEXT: Troops/138/pages/1/4/Dialogue
+> CONTEXT: Troops/139/pages/1/4/Dialogue
+> CONTEXT: Troops/140/pages/1/4/Dialogue
+> CONTEXT: Troops/141/pages/1/4/Dialogue
+> CONTEXT: Troops/142/pages/1/4/Dialogue
+> CONTEXT: Troops/149/pages/0/4/Dialogue
+> CONTEXT: Troops/150/pages/0/4/Dialogue
+> CONTEXT: Troops/151/pages/0/4/Dialogue
+> CONTEXT: Troops/152/pages/0/4/Dialogue
+> CONTEXT: Troops/153/pages/0/4/Dialogue
+> CONTEXT: Troops/154/pages/1/4/Dialogue
+> CONTEXT: Troops/155/pages/2/4/Dialogue
+> CONTEXT: Troops/161/pages/1/4/Dialogue
+> CONTEXT: Troops/162/pages/1/4/Dialogue
+> CONTEXT: Troops/163/pages/0/4/Dialogue
+> CONTEXT: Troops/164/pages/0/4/Dialogue
+> CONTEXT: Troops/165/pages/2/4/Dialogue
+> CONTEXT: Troops/166/pages/2/4/Dialogue
+> CONTEXT: Troops/167/pages/0/4/Dialogue
+> CONTEXT: Troops/168/pages/1/4/Dialogue
+> CONTEXT: Troops/169/pages/1/4/Dialogue
+> CONTEXT: Troops/170/pages/3/4/Dialogue
+> CONTEXT: Troops/171/pages/3/4/Dialogue
+> CONTEXT: Troops/172/pages/3/4/Dialogue
+> CONTEXT: Troops/173/pages/3/4/Dialogue
+> CONTEXT: Troops/174/pages/0/4/Dialogue
+> CONTEXT: Troops/175/pages/0/4/Dialogue
+> CONTEXT: Troops/176/pages/0/4/Dialogue
+> CONTEXT: Troops/177/pages/0/4/Dialogue
+> CONTEXT: Troops/178/pages/1/4/Dialogue
+> CONTEXT: Troops/179/pages/1/4/Dialogue
+> CONTEXT: Troops/180/pages/1/4/Dialogue
+> CONTEXT: Troops/181/pages/1/4/Dialogue
+> CONTEXT: Troops/182/pages/0/4/Dialogue
+> CONTEXT: Troops/157/pages/2/4/Dialogue
+> CONTEXT: Troops/158/pages/2/4/Dialogue
+> CONTEXT: Troops/183/pages/0/4/Dialogue
+> CONTEXT: Troops/184/pages/0/4/Dialogue
+> CONTEXT: Troops/185/pages/0/4/Dialogue
+> CONTEXT: Troops/186/pages/1/4/Dialogue
+> CONTEXT: Troops/188/pages/3/4/Dialogue
+> CONTEXT: Troops/189/pages/0/4/Dialogue
+> CONTEXT: Troops/190/pages/0/4/Dialogue
+> CONTEXT: Troops/191/pages/0/4/Dialogue
+> CONTEXT: Troops/194/pages/0/4/Dialogue
+> CONTEXT: Troops/195/pages/0/4/Dialogue
+> CONTEXT: Troops/196/pages/0/4/Dialogue
+> CONTEXT: Troops/197/pages/0/4/Dialogue
+> CONTEXT: Troops/198/pages/1/4/Dialogue
+> CONTEXT: Troops/199/pages/0/4/Dialogue
+> CONTEXT: Troops/200/pages/0/4/Dialogue
+> CONTEXT: Troops/201/pages/3/4/Dialogue
+> CONTEXT: Troops/202/pages/1/4/Dialogue
+> CONTEXT: Troops/203/pages/1/4/Dialogue
+> CONTEXT: Troops/204/pages/0/4/Dialogue
+> CONTEXT: Troops/205/pages/0/4/Dialogue
+> CONTEXT: Troops/206/pages/1/4/Dialogue
+> CONTEXT: Troops/207/pages/1/4/Dialogue
+> CONTEXT: Troops/208/pages/1/4/Dialogue
+> CONTEXT: Troops/209/pages/1/4/Dialogue
+> CONTEXT: Troops/210/pages/1/4/Dialogue
+\\N[12] I got sexual feeling and I got an erection!#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+> CONTEXT: Troops/34/name/
+> CONTEXT: Enemies/34/name/
+> CONTEXT: Enemies/40/name/
+> CONTEXT: Enemies/71/name/
+> CONTEXT: Enemies/143/name/
+> CONTEXT: Enemies/171/name/
+> CONTEXT: Enemies/172/name/
+Bandit Girl#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あれぇ？　誰かと思えば、私にボッコボコにされて
+叩き出された情けない男の子じゃん。
+また負けに来たのぉ？　クスクス……♪」
+> CONTEXT: Troops/34/pages/3/1/Dialogue
+> CONTEXT: Troops/67/pages/3/1/Dialogue
+> CONTEXT: Troops/161/pages/2/1/Dialogue
+> CONTEXT: Troops/162/pages/2/1/Dialogue
+Bandit Girl. 「Why? If someone thinks, I am being bogged
+down. It is a bitch who was beaten out and bashfully.
+You came to lose again?* Giggle * ......♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+> CONTEXT: Troops/35/name/
+> CONTEXT: Enemies/35/name/
+> CONTEXT: Enemies/48/name/
+> CONTEXT: Enemies/70/name/
+> CONTEXT: Enemies/144/name/
+> CONTEXT: Enemies/173/name/
+> CONTEXT: Enemies/174/name/
+> CONTEXT: Enemies/175/name/
+Bandit teen#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリータバンディット
+「あっ、こないだあたしに負けたおにーさんだ！
+あれだけ情けない目にあったのに、まだ懲りないんだ。
+またボコボコにしてあげるね♪」
+> CONTEXT: Troops/35/pages/3/1/Dialogue
+> CONTEXT: Troops/163/pages/3/1/Dialogue
+> CONTEXT: Troops/164/pages/3/1/Dialogue
+bandit teen. 「Oh, it was my birthday lost to me!
+I have noticed that much in that way, yet I do not
+discipline it. I will do it again♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+> CONTEXT: Troops/36/name/
+> CONTEXT: Enemies/36/name/
+> CONTEXT: Enemies/49/name/
+> CONTEXT: Enemies/145/name/
+> CONTEXT: Enemies/176/name/
+> CONTEXT: Enemies/177/name/
+> CONTEXT: Enemies/178/name/
+Sexy bandit#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシーバンディット
+「あらあら、また来ちゃったの？
+お姉さんに気持ちよくしてもらったのが
+そんなに癖になっちゃったのかしら、ふふふ……」
+> CONTEXT: Troops/36/pages/3/1/Dialogue
+> CONTEXT: Troops/165/pages/3/1/Dialogue
+> CONTEXT: Troops/166/pages/3/1/Dialogue
+sexy bandit. 「oh no, have you come again?
+It was something my older sister felt comfortable
+I wonder if he got into such a habit, hehe he ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+> CONTEXT: Troops/37/name/
+> CONTEXT: Enemies/130/name/
+> CONTEXT: Enemies/131/name/
+> CONTEXT: Enemies/186/name/
+> CONTEXT: Enemies/187/name/
+> CONTEXT: Enemies/188/name/
+> CONTEXT: Enemies/189/name/
+> CONTEXT: Troops/201/name/
+Velvet#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ふふっ、そろそろ弱ってきたかい？
+その程度の腕前でこのあたしに勝とうだなんて
+10年早いよ、坊や」
+> CONTEXT: Troops/37/pages/1/1/Dialogue
+> CONTEXT: Troops/170/pages/1/1/Dialogue
+> CONTEXT: Troops/171/pages/1/1/Dialogue
+velvet. 「Huh, have we gotten weaker soon?
+I do not think that I should win against this skill
+10 years early, the boy」#MTLed
+> END STRING
+
+> BEGIN STRING
+OPシェリー
+> CONTEXT: Troops/38/name/
+OP Shelly#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ……！」
+> CONTEXT: Troops/38/pages/0/0/Dialogue
+> CONTEXT: Map152/events/24/pages/7/108/Dialogue
+> CONTEXT: Map141/events/4/pages/0/67/Dialogue
+> CONTEXT: Map141/events/37/pages/0/68/Dialogue
+> CONTEXT: Map152/events/24/pages/9/186/Dialogue
+> CONTEXT: Map139/events/2/pages/0/84/Dialogue
+> CONTEXT: Map125/events/9/pages/0/199/Dialogue
+> CONTEXT: Map152/events/24/pages/10/64/Dialogue
+> CONTEXT: Map125/events/9/pages/1/162/Dialogue
+> CONTEXT: Map152/events/24/pages/11/157/Dialogue
+> CONTEXT: Map113/events/9/pages/0/167/Dialogue
+> CONTEXT: Map057/events/25/pages/0/140/Dialogue
+> CONTEXT: Map041/events/27/pages/0/82/Dialogue
+> CONTEXT: Map043/events/99/pages/0/334/Dialogue
+> CONTEXT: Map149/events/38/pages/1/337/Dialogue
+> CONTEXT: Map042/events/2/pages/1/257/Dialogue
+> CONTEXT: Map043/events/24/pages/7/156/Dialogue
+> CONTEXT: Map041/events/26/pages/0/87/Dialogue
+> CONTEXT: Map041/events/28/pages/0/89/Dialogue
+> CONTEXT: Map041/events/29/pages/0/89/Dialogue
+> CONTEXT: Map041/events/30/pages/0/89/Dialogue
+> CONTEXT: Map025/events/267/pages/1/434/Dialogue
+> CONTEXT: Map043/events/24/pages/10/186/Dialogue
+> CONTEXT: Map043/events/24/pages/11/64/Dialogue
+> CONTEXT: Map043/events/24/pages/12/158/Dialogue
+\\N[12]. 「Dammit!」#MTLed
+> CONTEXT: Commonevents/205/1/Dialogue
+> CONTEXT: Commonevents/228/4/Dialogue
+> CONTEXT: Commonevents/238/1/Dialogue
+> CONTEXT: Commonevents/241/1/Dialogue
+> CONTEXT: Commonevents/246/4/Dialogue
+> CONTEXT: Commonevents/248/1/Dialogue
+> CONTEXT: Commonevents/249/1/Dialogue
+> CONTEXT: Commonevents/250/4/Dialogue
+> CONTEXT: Commonevents/251/2/Dialogue
+> CONTEXT: Commonevents/222/5/Dialogue
+> CONTEXT: Commonevents/225/2/Dialogue
+\\N[12]. 「Dammit!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「キミは団長さんよりはできると思う。
+でも、力任せで荒い、隙だらけの剣って感じだね」
+> CONTEXT: Troops/38/pages/0/3/Dialogue
+Sherry. 「I think you can do better than the headmaster.
+But, I feel like a sword with sweetness, rough with
+strength」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なにっ！」
+> CONTEXT: Troops/38/pages/0/7/Dialogue
+\\N[12]. 「What!」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「その程度じゃ、私の剣技には勝てないよ。
+キミが侮った女の剣、
+今から体に叩き込んであげる」
+> CONTEXT: Troops/38/pages/0/10/Dialogue
+Sherry. 「To that extent, I can not overcome my sword skill.
+The sword of a woman you despised, I will give it to my
+body from now」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「やっぱり女の子の剣は怖さがないな。
+この力の差じゃ勝負にならないぜ」
+> CONTEXT: Troops/38/pages/1/0/Dialogue
+\\N[12]. 「After all the girl 's sword is not afraid.
+This difference in power will not be a game」#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ふうん、そういうこと言っちゃうんだ。
+じゃ、女の剣の怖さっていうものを
+キミに教えてあげるよ」
+> CONTEXT: Troops/38/pages/1/4/Dialogue
+Sherry. 「Well, well, I will say something like that.
+Then, what is the fear of a woman 's sword
+I'll tell you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まだやる気か……
+早めに降参したほうがいいと思うけどな」
+> CONTEXT: Troops/38/pages/1/9/Dialogue
+\\N[12]. 「Are you still motivated? I think that it is
+better to take up early.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディット三人組
+> CONTEXT: Troops/39/name/
+Bandit threesome#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「いくよっ、あたしたちの連携攻撃っ！」
+> CONTEXT: Troops/39/pages/0/1/Dialogue
+> CONTEXT: Troops/62/pages/2/1/Dialogue
+> CONTEXT: Troops/168/pages/0/1/Dialogue
+> CONTEXT: Troops/169/pages/2/1/Dialogue
+Bandit Girl. 「Well, it's our cooperative attack!」#MTLed
+> END STRING
+
+> BEGIN STRING
+敵は連携攻撃を試みようとして
+失敗したようだ。
+> CONTEXT: Troops/39/pages/0/12/Dialogue
+> CONTEXT: Troops/62/pages/2/12/Dialogue
+> CONTEXT: Troops/168/pages/0/12/Dialogue
+> CONTEXT: Troops/169/pages/2/12/Dialogue
+The enemy is trying to cooperate attack. It seems to have
+failed.#MTLed
+> END STRING
+
+> BEGIN STRING
+負けイベアルミナ
+> CONTEXT: Troops/40/name/
+Losing Iberalmina#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「ふっ、この程度なのかしら？
+やはり、市井の剣士など
+たいしたものではないようね」
+> CONTEXT: Troops/40/pages/2/0/Dialogue
+alumina. 「Fu, I wonder if this is enough?
+After all, Ichiii swordsmen etc. It seems not to be a big
+deal」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだとっ！」
+> CONTEXT: Troops/40/pages/2/5/Dialogue
+> CONTEXT: Map152/events/24/pages/11/229/Dialogue
+> CONTEXT: Map043/events/24/pages/12/252/Dialogue
+\\N[12]. 「What is it!」#MTLed
+> CONTEXT: Commonevents/228/94/Dialogue
+\\N[12]. 「What is it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルミナ
+「今から、本物の剣術というもの
+あなたに見せてさしあげますわ！」
+> CONTEXT: Troops/40/pages/2/8/Dialogue
+alumina. 「From now on, genuine swordsmanship
+I will show you to you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+> CONTEXT: Troops/41/name/
+> CONTEXT: Enemies/41/name/
+Lzet#MTLed
+> CONTEXT: Map023/events/68/pages/0/0/Dialogue
+Lzet#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+> CONTEXT: Troops/42/name/
+> CONTEXT: Enemies/42/name/
+> CONTEXT: Enemies/125/name/
+> CONTEXT: Enemies/126/name/
+> CONTEXT: Enemies/127/name/
+> CONTEXT: Enemies/128/name/
+> CONTEXT: Troops/198/name/
+Linetta#MTLed
+> CONTEXT: Map023/events/66/pages/0/0/Dialogue
+Linetta#MTLed
+> END STRING
+
+> BEGIN STRING
+不良娘
+> CONTEXT: Troops/43/name/
+Bad girl#MTLed
+> END STRING
+
+> BEGIN STRING
+ソードアマゾネス
+> CONTEXT: Troops/45/name/
+Sword amazon#MTLed
+> END STRING
+
+> BEGIN STRING
+フェアリー
+> CONTEXT: Troops/46/name/
+> CONTEXT: Enemies/67/name/
+Fairy#MTLed
+> END STRING
+
+> BEGIN STRING
+ガールレバー前
+> CONTEXT: Troops/47/name/
+Front of girl lever#MTLed
+> END STRING
+
+> BEGIN STRING
+フェアリー2
+> CONTEXT: Troops/48/name/
+Fairy 2#MTLed
+> END STRING
+
+> BEGIN STRING
+ミノッチ
+> CONTEXT: Troops/49/name/
+> CONTEXT: Troops/107/name/
+> CONTEXT: Enemies/83/name/
+Minotaura#MTLed
+> END STRING
+
+> BEGIN STRING
+予選第一試合
+> CONTEXT: Troops/50/name/
+Qualifying first game#MTLed
+> END STRING
+
+> BEGIN STRING
+予選第2試合
+> CONTEXT: Troops/51/name/
+Qualifying 2nd game#MTLed
+> END STRING
+
+> BEGIN STRING
+予選第三試合リネッタ
+> CONTEXT: Troops/52/name/
+Qualifying third game Linetta#MTLed
+> END STRING
+
+> BEGIN STRING
+予選4試合目
+> CONTEXT: Troops/53/name/
+Fourth qualifying round#MTLed
+> END STRING
+
+> BEGIN STRING
+予選最終試合ジェーン
+> CONTEXT: Troops/54/name/
+Preliminary match final game Jane#MTLed
+> END STRING
+
+> BEGIN STRING
+大会ミリーナ
+> CONTEXT: Troops/55/name/
+Tournament Mileena#MTLed
+> END STRING
+
+> BEGIN STRING
+バニー　ノーマル
+> CONTEXT: Troops/56/name/
+Bunny normal#MTLed
+> CONTEXT: Map023/events/58/pages/0/0/Dialogue
+Bunny normal#MTLed
+> END STRING
+
+> BEGIN STRING
+バニー　セックス後
+> CONTEXT: Troops/57/name/
+After Bunny sex#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだ、これ……？
+体に力が入らないし、技もろくに繰り出せない。
+いったい、俺はどうしちまったんだ」
+> CONTEXT: Troops/57/pages/2/0/Dialogue
+\\N[12]. 「Wha, what is this ...? I do not have power in
+my body, I can not draw much skill. What on earth did you
+do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「うふふ、戸惑っているようね。
+今のあなたは、私には絶対に勝てないわ」
+> CONTEXT: Troops/57/pages/2/5/Dialogue
+bunny girl. 「Uhufu, you seem confused. Now you can not win
+against me absolutely」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「きゃっ、いたぁ～い♪」
+> CONTEXT: Troops/57/pages/3/0/Dialogue
+bunny girl. 「kyaa, it is terrible♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、なんて余裕の表情だ……
+全然効いてないのか……？」
+> CONTEXT: Troops/57/pages/3/3/Dialogue
+\\N[12]. 「What a comfortable look .... Is not it
+working at all ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「ふふっ、どうやらそこまでみたいね。
+それじゃ、そろそろこっちから仕掛けさせてもらおうかしら」
+> CONTEXT: Troops/57/pages/4/0/Dialogue
+bunny girl. 「Haha, apparently I do not think so.
+Well then, let's get it started from here」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……」
+> CONTEXT: Troops/57/pages/4/5/Dialogue
+> CONTEXT: Map152/events/24/pages/6/697/Dialogue
+> CONTEXT: Map141/events/4/pages/0/252/Dialogue
+> CONTEXT: Map152/events/24/pages/9/198/Dialogue
+> CONTEXT: Map141/events/37/pages/0/253/Dialogue
+> CONTEXT: Map152/events/24/pages/9/767/Dialogue
+> CONTEXT: Map139/events/2/pages/0/269/Dialogue
+> CONTEXT: Map089/events/5/pages/0/144/Dialogue
+> CONTEXT: Map089/events/12/pages/0/144/Dialogue
+> CONTEXT: Map089/events/14/pages/0/144/Dialogue
+> CONTEXT: Map089/events/15/pages/0/144/Dialogue
+> CONTEXT: Map089/events/16/pages/0/144/Dialogue
+> CONTEXT: Map089/events/17/pages/0/144/Dialogue
+> CONTEXT: Map077/events/22/pages/0/144/Dialogue
+> CONTEXT: Map077/events/23/pages/0/144/Dialogue
+> CONTEXT: Map043/events/24/pages/6/698/Dialogue
+> CONTEXT: Map041/events/27/pages/0/265/Dialogue
+> CONTEXT: Map025/events/267/pages/0/47/Dialogue
+> CONTEXT: Map041/events/56/pages/0/228/Dialogue
+> CONTEXT: Map041/events/56/pages/0/281/Dialogue
+> CONTEXT: Map041/events/56/pages/0/523/Dialogue
+> CONTEXT: Map149/events/38/pages/0/32/Dialogue
+> CONTEXT: Map147/events/2/pages/8/163/Dialogue
+> CONTEXT: Map149/events/38/pages/1/149/Dialogue
+> CONTEXT: Map149/events/38/pages/1/205/Dialogue
+> CONTEXT: Map147/events/2/pages/9/145/Dialogue
+> CONTEXT: Map147/events/2/pages/10/139/Dialogue
+> CONTEXT: Map149/events/38/pages/1/426/Dialogue
+> CONTEXT: Map149/events/38/pages/2/130/Dialogue
+> CONTEXT: Map147/events/24/pages/0/527/Dialogue
+> CONTEXT: Map041/events/5/pages/5/627/Dialogue
+> CONTEXT: Map041/events/5/pages/5/869/Dialogue
+> CONTEXT: Map041/events/5/pages/5/1258/Dialogue
+> CONTEXT: Map041/events/5/pages/5/1309/Dialogue
+> CONTEXT: Map041/events/26/pages/0/270/Dialogue
+> CONTEXT: Map041/events/28/pages/0/274/Dialogue
+> CONTEXT: Map041/events/29/pages/0/274/Dialogue
+> CONTEXT: Map025/events/267/pages/1/178/Dialogue
+> CONTEXT: Map025/events/267/pages/1/241/Dialogue
+> CONTEXT: Map025/events/267/pages/1/541/Dialogue
+> CONTEXT: Map041/events/30/pages/0/274/Dialogue
+> CONTEXT: Map043/events/24/pages/10/215/Dialogue
+> CONTEXT: Map025/events/267/pages/2/160/Dialogue
+> CONTEXT: Map043/events/24/pages/10/784/Dialogue
+\\N[12]. 「Uu ... ...」#MTLed
+> CONTEXT: Commonevents/14/7/Dialogue
+> CONTEXT: Commonevents/39/16/Dialogue
+> CONTEXT: Commonevents/39/48/Dialogue
+> CONTEXT: Commonevents/39/118/Dialogue
+> CONTEXT: Commonevents/40/17/Dialogue
+> CONTEXT: Commonevents/40/123/Dialogue
+> CONTEXT: Commonevents/41/43/Dialogue
+> CONTEXT: Commonevents/43/8/Dialogue
+> CONTEXT: Commonevents/45/7/Dialogue
+> CONTEXT: Commonevents/48/7/Dialogue
+> CONTEXT: Commonevents/49/7/Dialogue
+> CONTEXT: Commonevents/53/7/Dialogue
+> CONTEXT: Commonevents/93/8/Dialogue
+> CONTEXT: Commonevents/94/17/Dialogue
+> CONTEXT: Commonevents/94/89/Dialogue
+> CONTEXT: Commonevents/140/124/Dialogue
+> CONTEXT: Commonevents/149/43/Dialogue
+> CONTEXT: Commonevents/159/7/Dialogue
+> CONTEXT: Commonevents/160/7/Dialogue
+> CONTEXT: Commonevents/166/16/Dialogue
+> CONTEXT: Commonevents/166/63/Dialogue
+> CONTEXT: Commonevents/172/62/Dialogue
+> CONTEXT: Commonevents/179/54/Dialogue
+> CONTEXT: Commonevents/181/7/Dialogue
+> CONTEXT: Commonevents/182/7/Dialogue
+> CONTEXT: Commonevents/182/25/Dialogue
+> CONTEXT: Commonevents/187/35/Dialogue
+> CONTEXT: Commonevents/188/62/Dialogue
+> CONTEXT: Commonevents/189/23/Dialogue
+> CONTEXT: Commonevents/189/94/Dialogue
+> CONTEXT: Commonevents/189/179/Dialogue
+> CONTEXT: Commonevents/190/8/Dialogue
+> CONTEXT: Commonevents/200/4/Dialogue
+> CONTEXT: Commonevents/201/23/Dialogue
+> CONTEXT: Commonevents/201/94/Dialogue
+> CONTEXT: Commonevents/201/179/Dialogue
+> CONTEXT: Commonevents/203/61/Dialogue
+> CONTEXT: Commonevents/205/13/Dialogue
+> CONTEXT: Commonevents/206/17/Dialogue
+> CONTEXT: Commonevents/206/102/Dialogue
+> CONTEXT: Commonevents/226/431/Dialogue
+> CONTEXT: Commonevents/246/191/Dialogue
+> CONTEXT: Commonevents/248/26/Dialogue
+> CONTEXT: Commonevents/249/80/Dialogue
+> CONTEXT: Commonevents/280/7/Dialogue
+> CONTEXT: Commonevents/283/7/Dialogue
+> CONTEXT: Commonevents/287/7/Dialogue
+> CONTEXT: Commonevents/293/7/Dialogue
+> CONTEXT: Commonevents/166/135/Dialogue
+> CONTEXT: Commonevents/242/269/Dialogue
+> CONTEXT: Commonevents/242/508/Dialogue
+> CONTEXT: Commonevents/242/902/Dialogue
+> CONTEXT: Commonevents/242/953/Dialogue
+> CONTEXT: Commonevents/250/30/Dialogue
+> CONTEXT: Commonevents/250/599/Dialogue
+> CONTEXT: Commonevents/285/25/Dialogue
+> CONTEXT: Commonevents/298/7/Dialogue
+> CONTEXT: Commonevents/299/7/Dialogue
+> CONTEXT: Commonevents/312/25/Dialogue
+> CONTEXT: Commonevents/316/8/Dialogue
+> CONTEXT: Commonevents/317/8/Dialogue
+\\N[12]. 「Uu ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール
+「うふふっ
+おっぱいに見とれて棒立ちになっちゃって……♪
+スキだらけよ、坊や」
+> CONTEXT: Troops/57/pages/4/8/Dialogue
+bunny girl. 「Reshuffle. I became stubborn with my eyes
+full of tits ......♪. Lots of skis, little boy」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム手合わせ
+> CONTEXT: Troops/58/name/
+Meeting Purim#MTLed
+> END STRING
+
+> BEGIN STRING
+大会ディアーナノーマル
+> CONTEXT: Troops/59/name/
+Tournament Diana normal#MTLed
+> END STRING
+
+> BEGIN STRING
+大会ディアーナ誘惑
+> CONTEXT: Troops/60/name/
+Tournament Diana temptation#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム2回戦
+> CONTEXT: Troops/61/name/
+Purim 2 nd round#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「え、おにいさん、どうして股間が大きくなってるの？
+まさか、わたしと試合している最中に
+えっちなこと考えたりしているの……？」
+> CONTEXT: Troops/61/pages/2/4/Dialogue
+> CONTEXT: Troops/183/pages/2/4/Dialogue
+Purim. 「Oh, how are you getting bigger your groin?
+No way, during the game with me. Are you thinking about
+that ... ....?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ち、違……こ、これは、その」
+> CONTEXT: Troops/61/pages/2/9/Dialogue
+> CONTEXT: Troops/42/pages/2/8/Dialogue
+> CONTEXT: Troops/55/pages/2/10/Dialogue
+> CONTEXT: Troops/183/pages/2/9/Dialogue
+> CONTEXT: Troops/198/pages/2/8/Dialogue
+> CONTEXT: Troops/199/pages/2/9/Dialogue
+> CONTEXT: Troops/200/pages/2/10/Dialogue
+\\N[12]. 「Difference ...... Here, this」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさん、最低です……
+なんか、どうあっても負けたくなくなってきちゃった」
+> CONTEXT: Troops/61/pages/2/12/Dialogue
+> CONTEXT: Troops/183/pages/2/12/Dialogue
+Purim. 「Older, it is the lowest ... ... Something, I got
+it lost」#MTLed
+> END STRING
+
+> BEGIN STRING
+盗賊三人武道大会
+> CONTEXT: Troops/62/name/
+Thieves three martial arts tournament#MTLed
+> END STRING
+
+> BEGIN STRING
+大会ベルベット
+> CONTEXT: Troops/63/name/
+Tournament velvet#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ふふっ、弱ってきたようだね。
+女に追い詰められてる気分はどうだい？」
+> CONTEXT: Troops/63/pages/1/1/Dialogue
+> CONTEXT: Troops/172/pages/1/1/Dialogue
+> CONTEXT: Troops/173/pages/1/1/Dialogue
+velvet. 「He seems to be getting weakened.
+How is the feeling that a woman is being chased after?」#MTLed
+> END STRING
+
+> BEGIN STRING
+大会シェリー
+> CONTEXT: Troops/64/name/
+Tournament Sherry#MTLed
+> END STRING
+
+> BEGIN STRING
+大会シェリー聖剣Ver
+> CONTEXT: Troops/65/name/
+Tournament Sherry Seiken Ver#MTLed
+> END STRING
+
+> BEGIN STRING
+大会アルミナ
+> CONTEXT: Troops/66/name/
+Tournament alumina#MTLed
+> END STRING
+
+> BEGIN STRING
+テスト
+> CONTEXT: Troops/67/name/
+Test#MTLed
+> END STRING
+
+> BEGIN STRING
+マタンゴ
+> CONTEXT: Troops/69/name/
+> CONTEXT: Enemies/81/name/
+Matango#MTLed
+> CONTEXT: Map023/events/46/pages/0/1/Dialogue
+matango#MTLed
+> END STRING
+
+> BEGIN STRING
+マタンゴ
+「くすくす……♪
+えっちな気分になっちゃうでしょ？」
+> CONTEXT: Troops/69/pages/0/2/Dialogue
+matango. 「... ....♪. You do not feel like that, do you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……はぁ、はぁっ……
+せ、性欲が、抑えられないっ……！」
+> CONTEXT: Troops/69/pages/0/6/Dialogue
+\\N[12]. 「uugh ... ... Ah, Ahh ... Then, libido, I can
+not hold down ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はオナニーしたい衝動が抑えられない……
+可愛らしいマタンゴの姿を見つめながら、
+自分のペニスを手でしごきあげる！
+> CONTEXT: Troops/69/pages/0/12/Dialogue
+\\N[12] I can not suppress the urge I want to masturbate
+...... While staring at the pretty matango figure,
+I will squeeze my penis with hands!#MTLed
+> END STRING
+
+> BEGIN STRING
+性感度が 5上昇！
+精神力に 10のダメージ！
+> CONTEXT: Troops/69/pages/0/19/Dialogue
+> CONTEXT: Troops/188/pages/0/20/Dialogue
+Sex sensitivity rises by 5! 10 damage to mental strength!#MTLed
+> END STRING
+
+> BEGIN STRING
+雪娘街道イベ
+> CONTEXT: Troops/70/name/
+Yuki Musume Highway Ibe#MTLed
+> END STRING
+
+> BEGIN STRING
+グリーンスライム
+> CONTEXT: Troops/71/name/
+> CONTEXT: Enemies/65/name/
+Green slime#MTLed
+> END STRING
+
+> BEGIN STRING
+雪娘
+> CONTEXT: Troops/72/name/
+> CONTEXT: Enemies/73/name/
+Yuki Musume#MTLed
+> CONTEXT: Map023/events/35/pages/0/0/Dialogue
+Yuki Musume#MTLed
+> END STRING
+
+> BEGIN STRING
+大ネズミ
+> CONTEXT: Troops/73/name/
+> CONTEXT: Enemies/5/name/
+Rate#lvl1
+> END STRING
+
+> BEGIN STRING
+メイジラミア
+> CONTEXT: Troops/75/name/
+> CONTEXT: Enemies/75/name/
+Lamia mage#MTLed
+> CONTEXT: Map023/events/37/pages/0/0/Dialogue
+lamia mage#MTLed
+> END STRING
+
+> BEGIN STRING
+スライム軍団
+> CONTEXT: Troops/76/name/
+Slime Corps#MTLed
+> CONTEXT: Map023/events/38/pages/0/0/Dialogue
+Slime Corps#MTLed
+> END STRING
+
+> BEGIN STRING
+地下水道シェリー
+> CONTEXT: Troops/77/name/
+Shelly groundwater#MTLed
+> END STRING
+
+> BEGIN STRING
+クイーンラミア
+> CONTEXT: Troops/78/name/
+> CONTEXT: Enemies/88/name/
+Queen lamia#MTLed
+> END STRING
+
+> BEGIN STRING
+アイススピリット
+> CONTEXT: Troops/79/name/
+> CONTEXT: Enemies/58/name/
+Ice Spirit#MTLed
+> END STRING
+
+> BEGIN STRING
+サハギン
+> CONTEXT: Troops/80/name/
+> CONTEXT: Map023/events/40/pages/0/0/Dialogue
+> CONTEXT: Enemies/22/name/
+> CONTEXT: Enemies/89/name/
+Sahagin#lvl1
+> END STRING
+
+> BEGIN STRING
+レディサハギン
+> CONTEXT: Troops/81/name/
+> CONTEXT: Enemies/79/name/
+Lady Sahuagin#MTLed
+> CONTEXT: Map023/events/41/pages/0/0/Dialogue
+Lady Sahuagin#MTLed
+> END STRING
+
+> BEGIN STRING
+セイレーン
+> CONTEXT: Troops/82/name/
+> CONTEXT: Enemies/80/name/
+Siren#MTLed
+> CONTEXT: Map023/events/42/pages/0/0/Dialogue
+Siren#MTLed
+> END STRING
+
+> BEGIN STRING
+ウミヘビ
+> CONTEXT: Troops/83/name/
+Sea snake#MTLed
+> CONTEXT: Map023/events/45/pages/0/0/Dialogue
+Sea snake#MTLed
+> END STRING
+
+> BEGIN STRING
+大クラゲ
+> CONTEXT: Troops/84/name/
+> CONTEXT: Enemies/9/name/
+> CONTEXT: Enemies/91/name/
+Jellyfish#lvl1
+> END STRING
+
+> BEGIN STRING
+アシッドスライム
+> CONTEXT: Troops/85/name/
+Acid Slime#MTLed
+> END STRING
+
+> BEGIN STRING
+アシッドスライム２
+> CONTEXT: Troops/86/name/
+Acid Slime 2#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+> CONTEXT: Troops/87/name/
+> CONTEXT: Enemies/54/name/
+Alraune#MTLed
+> CONTEXT: Map023/events/47/pages/0/0/Dialogue
+alraune#MTLed
+> END STRING
+
+> BEGIN STRING
+ドリアード
+> CONTEXT: Troops/88/name/
+> CONTEXT: Enemies/60/name/
+Driad#MTLed
+> CONTEXT: Map023/events/49/pages/0/0/Dialogue
+Driad#MTLed
+> END STRING
+
+> BEGIN STRING
+人喰い草
+> CONTEXT: Troops/89/name/
+> CONTEXT: Enemies/78/name/
+Human eating grass#MTLed
+> END STRING
+
+> BEGIN STRING
+食人花
+> CONTEXT: Troops/90/name/
+> CONTEXT: Enemies/10/name/
+> CONTEXT: Enemies/92/name/
+Man-Eating Plant#lvl1
+> END STRING
+
+> BEGIN STRING
+ゴブリン
+> CONTEXT: Troops/91/name/
+> CONTEXT: Enemies/77/name/
+Goblin#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリン2
+> CONTEXT: Troops/92/name/
+Goblin 2#MTLed
+> END STRING
+
+> BEGIN STRING
+ブラッドフェアリー
+> CONTEXT: Troops/93/name/
+> CONTEXT: Enemies/68/name/
+Blood fairy#MTLed
+> END STRING
+
+> BEGIN STRING
+ラミア2
+> CONTEXT: Troops/94/name/
+Lamia 2#MTLed
+> END STRING
+
+> BEGIN STRING
+グリーンスライム2
+> CONTEXT: Troops/95/name/
+Green slime 2#MTLed
+> END STRING
+
+> BEGIN STRING
+アマゾネス
+> CONTEXT: Troops/96/name/
+> CONTEXT: Enemies/57/name/
+Amazon#MTLed
+> CONTEXT: Map023/events/54/pages/0/0/Dialogue
+> CONTEXT: Troops/195/name/
+> CONTEXT: Map065/events/7/pages/1/40/Choice/1
+> CONTEXT: Map065/events/7/pages/1/40/Choice/1
+> CONTEXT: Enemies/214/name/
+amazon#MTLed
+> END STRING
+
+> BEGIN STRING
+レッドキャップ
+> CONTEXT: Troops/97/name/
+> CONTEXT: Enemies/86/name/
+> CONTEXT: Items/109/name/
+Red cap#MTLed
+> CONTEXT: Map023/events/53/pages/0/0/Dialogue
+red cap#MTLed
+> END STRING
+
+> BEGIN STRING
+ウェアウルフ
+> CONTEXT: Troops/98/name/
+> CONTEXT: Enemies/21/name/
+> CONTEXT: Enemies/94/name/
+Werewolf#lvl1
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+> CONTEXT: Troops/99/name/
+> CONTEXT: Enemies/55/name/
+> CONTEXT: Troops/196/name/
+> CONTEXT: Map065/events/7/pages/1/40/Choice/2
+> CONTEXT: Map065/events/7/pages/1/40/Choice/2
+> CONTEXT: Enemies/215/name/
+Evil witch#MTLed
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+「あらぁ、また来たの、坊や？
+私のお尻、そんなに気に入っちゃったのかしら、クスクス……♪」
+> CONTEXT: Troops/99/pages/2/1/Dialogue
+evil witch. 「Oh, you came again, Boy? I wonder if I liked
+it so much, * Giggle * ......♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ稽古
+> CONTEXT: Troops/100/name/
+Diana lesson#MTLed
+> END STRING
+
+> BEGIN STRING
+セイレーンサハギン
+> CONTEXT: Troops/101/name/
+Siren Sin#MTLed
+> END STRING
+
+> BEGIN STRING
+クラーケン
+> CONTEXT: Troops/102/name/
+> CONTEXT: Enemies/82/name/
+Kraken#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴースト
+> CONTEXT: Troops/103/name/
+> CONTEXT: Enemies/11/name/
+> CONTEXT: Enemies/62/name/
+Ghost#lvl1
+> END STRING
+
+> BEGIN STRING
+クラゲ蛇
+> CONTEXT: Troops/104/name/
+Jellyfish snake#MTLed
+> END STRING
+
+> BEGIN STRING
+クラゲクラゲ
+> CONTEXT: Troops/105/name/
+Jellyfish#MTLed
+> END STRING
+
+> BEGIN STRING
+フレイムスピリット
+> CONTEXT: Troops/106/name/
+> CONTEXT: Enemies/59/name/
+Flame Spirit#MTLed
+> END STRING
+
+> BEGIN STRING
+オーク
+> CONTEXT: Troops/108/name/
+> CONTEXT: Enemies/13/name/
+> CONTEXT: Enemies/96/name/
+Orc#lvl1
+> END STRING
+
+> BEGIN STRING
+スケルトン
+> CONTEXT: Troops/109/name/
+> CONTEXT: Enemies/12/name/
+> CONTEXT: Enemies/97/name/
+Skeleton#lvl1
+> END STRING
+
+> BEGIN STRING
+スケルトン２
+> CONTEXT: Troops/110/name/
+Skeleton 2#MTLed
+> END STRING
+
+> BEGIN STRING
+デス
+> CONTEXT: Troops/111/name/
+> CONTEXT: Enemies/85/name/
+Death#MTLed
+> END STRING
+
+> BEGIN STRING
+大サソリ
+> CONTEXT: Troops/112/name/
+> CONTEXT: Enemies/8/name/
+> CONTEXT: Enemies/95/name/
+Scorpion#lvl1
+> END STRING
+
+> BEGIN STRING
+シープリンセス
+> CONTEXT: Troops/113/name/
+> CONTEXT: Enemies/93/name/
+Sea Princess#MTLed
+> CONTEXT: Map023/events/63/pages/0/0/Dialogue
+Sea Princess#MTLed
+> END STRING
+
+> BEGIN STRING
+オーク２
+> CONTEXT: Troops/114/name/
+Oak 2#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士クレア
+> CONTEXT: Troops/115/name/
+> CONTEXT: Enemies/45/name/
+> CONTEXT: Enemies/147/name/
+Female soldier Clair#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士リゼ
+> CONTEXT: Troops/116/name/
+> CONTEXT: Enemies/46/name/
+> CONTEXT: Enemies/148/name/
+Female soldier Rize#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士ラナ
+> CONTEXT: Troops/117/name/
+> CONTEXT: Enemies/47/name/
+> CONTEXT: Enemies/149/name/
+> CONTEXT: Enemies/150/name/
+Female soldier Rana#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバス
+> CONTEXT: Troops/119/name/
+> CONTEXT: Skills/333/name/
+> CONTEXT: Enemies/63/name/
+Lesser succubus#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバス
+「あらあら、また来るなんて懲りない男の子ね。
+また私のキスで力を吸い取られたいのかしら？
+ふふふ……♪」
+> CONTEXT: Troops/119/pages/2/1/Dialogue
+lesser succubus. 「oh no, a boy who does not understand to
+come again. I wonder if I can absorb power with my kiss?
+Hehu ...♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーデビル
+> CONTEXT: Troops/120/name/
+> CONTEXT: Enemies/61/name/
+Lesser devil#MTLed
+> END STRING
+
+> BEGIN STRING
+幻影プリム
+> CONTEXT: Troops/121/name/
+Phantom Purim#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「ふふふ……」
+> CONTEXT: Troops/121/pages/0/0/Dialogue
+Purim? 「Hehu ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、プリム……？
+また幻か何かなんだろうが……」
+> CONTEXT: Troops/121/pages/0/4/Dialogue
+\\N[12]. 「Cut, Purim ......? I wonder if it is a
+phantom or something ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「プリム……なのか？
+いや、こんなところにいるわけが……」
+> CONTEXT: Troops/121/pages/0/10/Dialogue
+\\N[12]. 「Purim ... ... is it? No, that's why I am in
+such a place ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……！」
+> CONTEXT: Troops/121/pages/1/1/Dialogue
+> CONTEXT: Troops/122/pages/1/1/Dialogue
+> CONTEXT: Troops/123/pages/1/1/Dialogue
+> CONTEXT: Troops/124/pages/1/1/Dialogue
+> CONTEXT: Map127/events/4/pages/2/71/Dialogue
+> CONTEXT: Map127/events/5/pages/2/71/Dialogue
+> CONTEXT: Map119/events/16/pages/0/71/Dialogue
+> CONTEXT: Map119/events/17/pages/0/71/Dialogue
+> CONTEXT: Map119/events/19/pages/0/71/Dialogue
+> CONTEXT: Map097/events/17/pages/0/76/Dialogue
+> CONTEXT: Map097/events/19/pages/2/71/Dialogue
+> CONTEXT: Map097/events/25/pages/2/71/Dialogue
+> CONTEXT: Map075/events/6/pages/2/71/Dialogue
+> CONTEXT: Map097/events/26/pages/2/71/Dialogue
+> CONTEXT: Map075/events/7/pages/2/71/Dialogue
+> CONTEXT: Map075/events/21/pages/2/71/Dialogue
+> CONTEXT: Map042/events/2/pages/8/250/Dialogue
+> CONTEXT: Map005/events/3/pages/0/91/Dialogue
+\\N[12]. 「Wow ...!」#MTLed
+> CONTEXT: Map032/events/50/pages/1/118/Dialogue
+> CONTEXT: Commonevents/263/43/Dialogue
+> CONTEXT: Commonevents/264/80/Dialogue
+\\N[12]. 「Wow ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「ふふ……どう……？
+おにいさんは、わたしとえっちなことがしたかったでしょ？」
+> CONTEXT: Troops/121/pages/1/4/Dialogue
+Purim? 「Heh he ......? Ok, you wanted to do something
+funny with me, did not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そんなことはない……
+お前のことは、純粋に剣士として気になったから……」
+> CONTEXT: Troops/121/pages/1/8/Dialogue
+\\N[12]. 「That's not true .... Because you care about
+you as pure swordsman ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「わたしと、えっちなことをしたくはないの……？
+ふふ、そう願えば、この続きは見せてあげるし……
+体験することも、できるんだけど……？」
+> CONTEXT: Troops/121/pages/1/12/Dialogue
+Purim? 「I do not want to do anything worth doing ......?
+Huhu, I hope so, I will show you the continuation ... ...
+I can do it, but ... ....?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「ふふ……さあ、どうするの？
+このビジョン、はっきりと見てみたい……？」
+> CONTEXT: Troops/121/pages/2/0/Dialogue
+Purim? 「Huh ... ... then, what are you going to do?
+I want to see this vision clearly ... ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+見たい
+> CONTEXT: Troops/121/pages/2/5/Choice/0
+> CONTEXT: Troops/122/pages/2/5/Choice/0
+> CONTEXT: Troops/123/pages/2/5/Choice/0
+> CONTEXT: Troops/124/pages/2/5/Choice/0
+Want to watch#MTLed
+> END STRING
+
+> BEGIN STRING
+見たくない
+> CONTEXT: Troops/121/pages/2/5/Choice/1
+> CONTEXT: Troops/122/pages/2/5/Choice/1
+> CONTEXT: Troops/123/pages/2/5/Choice/1
+> CONTEXT: Troops/124/pages/2/5/Choice/1
+do not want to see#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「そう……♪
+じゃ、見せてあげる……」
+> CONTEXT: Troops/121/pages/2/7/Dialogue
+Purim? 「so……♪. Well, I will show you ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……
+俺が、プリムみたいな小さい女の子の手で、
+手コキをされている……？」
+> CONTEXT: Troops/121/pages/2/12/Dialogue
+\\N[12]. 「uugh ... ... I, with the hands of a little
+girl like Purim, I have been handjob ... ....?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は誘惑に負け、勃起してしまった！
+> CONTEXT: Troops/121/pages/2/18/Dialogue
+> CONTEXT: Troops/122/pages/2/17/Dialogue
+> CONTEXT: Troops/123/pages/2/17/Dialogue
+> CONTEXT: Troops/124/pages/2/18/Dialogue
+\\N[12] I lost to temptation and I got an erection!#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「そうだよ……
+おにいさんが願えば、これを\\C[2]体験\\C[0]させてあげられるんだよ？
+さあ……わたしと一緒に、えっちなこと、しよう？」
+> CONTEXT: Troops/121/pages/2/20/Dialogue
+Purim? 「that's right……. If a big brother wants this,\\C[2]
+Experience\\C[0] Can you let me go? Come on ... ... Wanna do
+something we do with me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「どうして、拒むの……？
+わたしのこと、好きじゃないの……？」
+> CONTEXT: Troops/121/pages/2/27/Dialogue
+> CONTEXT: Troops/121/pages/3/45/Dialogue
+Purim? 「Why do you refuse ...? I do not like me, okay?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、お前とは、一緒に武者修行をして
+絆を深めたつもりだが……
+俺は、お前の母さんに信頼を受けて、任されたんだ。
+> CONTEXT: Troops/121/pages/2/31/Dialogue
+> CONTEXT: Troops/121/pages/3/49/Dialogue
+\\N[12]. 「Oh, you and you, you learn how to combat
+martial arts. I intended to strengthen ties ... ...
+I was trusted by your mother and I was left to it.#MTLed
+> END STRING
+
+> BEGIN STRING
+こういうことを、お前とするつもりはないっ！
+少なくとも、お前がもっと大きくなって、
+俺との関係が深くなるまではなっ！」
+> CONTEXT: Troops/121/pages/2/36/Dialogue
+> CONTEXT: Troops/121/pages/3/54/Dialogue
+I do not plan to do this kind of thing! At least you are
+getting bigger, It will not be deeply related to me!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「……………………」
+> CONTEXT: Troops/121/pages/2/42/Dialogue
+> CONTEXT: Troops/121/pages/3/58/Dialogue
+Purim? 「........................」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「そう……ざんねん……」
+> CONTEXT: Troops/121/pages/2/45/Dialogue
+> CONTEXT: Troops/121/pages/3/61/Dialogue
+Purim? 「Yes ... ... Sunday ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「さあ、おにいさん……
+わたしと一緒に、行こう……？」
+> CONTEXT: Troops/121/pages/3/0/Dialogue
+Purim? 「Now, a lot ... ... Let's go with me ... ....?」#MTLed
+> END STRING
+
+> BEGIN STRING
+はい
+> CONTEXT: Troops/121/pages/3/5/Choice/0
+> CONTEXT: Map148/events/1/pages/0/3/Choice/0
+> CONTEXT: Troops/122/pages/3/5/Choice/0
+> CONTEXT: Troops/123/pages/3/5/Choice/0
+> CONTEXT: Troops/124/pages/3/5/Choice/0
+> CONTEXT: Map141/events/1/pages/0/3/Choice/0
+> CONTEXT: Map141/events/3/pages/1/3/Choice/0
+> CONTEXT: Map143/events/54/pages/0/3/Choice/0
+> CONTEXT: Map139/events/1/pages/1/3/Choice/0
+> CONTEXT: Map101/events/12/pages/0/4/Choice/0
+> CONTEXT: Map101/events/13/pages/0/4/Choice/0
+> CONTEXT: Map097/events/4/pages/0/2/Choice/0
+> CONTEXT: Map097/events/5/pages/0/2/Choice/0
+> CONTEXT: Map096/events/8/pages/0/2/Choice/0
+> CONTEXT: Map152/events/25/pages/0/2/Choice/0
+> CONTEXT: Map090/events/3/pages/1/8/Choice/0
+> CONTEXT: Map079/events/3/pages/0/5/Choice/0
+> CONTEXT: Map075/events/4/pages/0/2/Choice/0
+> CONTEXT: Map076/events/15/pages/0/19/Choice/0
+> CONTEXT: Map076/events/19/pages/0/19/Choice/0
+> CONTEXT: Map071/events/5/pages/1/3/Choice/0
+> CONTEXT: Map070/events/2/pages/1/3/Choice/0
+> CONTEXT: Map073/events/14/pages/0/19/Choice/0
+> CONTEXT: Map069/events/15/pages/1/3/Choice/0
+> CONTEXT: Map071/events/9/pages/0/6/Choice/0
+> CONTEXT: Map070/events/4/pages/1/3/Choice/0
+> CONTEXT: Map069/events/16/pages/1/3/Choice/0
+> CONTEXT: Map071/events/11/pages/0/3/Choice/0
+> CONTEXT: Map069/events/17/pages/0/19/Choice/0
+> CONTEXT: Map071/events/12/pages/0/3/Choice/0
+> CONTEXT: Map070/events/8/pages/0/3/Choice/0
+> CONTEXT: Map073/events/15/pages/0/19/Choice/0
+> CONTEXT: Map071/events/13/pages/0/3/Choice/0
+> CONTEXT: Map070/events/23/pages/0/3/Choice/0
+> CONTEXT: Map070/events/24/pages/0/3/Choice/0
+> CONTEXT: Map070/events/25/pages/0/3/Choice/0
+> CONTEXT: Map071/events/16/pages/0/19/Choice/0
+> CONTEXT: Map071/events/17/pages/0/19/Choice/0
+> CONTEXT: Map074/events/43/pages/0/3/Choice/0
+> CONTEXT: Map069/events/24/pages/0/19/Choice/0
+> CONTEXT: Map069/events/29/pages/0/19/Choice/0
+> CONTEXT: Map069/events/31/pages/0/3/Choice/0
+> CONTEXT: Map069/events/32/pages/0/3/Choice/0
+> CONTEXT: Map064/events/14/pages/0/5/Choice/0
+> CONTEXT: Map070/events/31/pages/0/19/Choice/0
+> CONTEXT: Map064/events/16/pages/0/2/Choice/0
+> CONTEXT: Map059/events/3/pages/0/9/Choice/0
+> CONTEXT: Map064/events/17/pages/0/13/Choice/0
+> CONTEXT: Map070/events/32/pages/0/19/Choice/0
+> CONTEXT: Map064/events/17/pages/0/74/Choice/0
+> CONTEXT: Map044/events/12/pages/0/3/Choice/0
+> CONTEXT: Map044/events/12/pages/2/3/Choice/0
+> CONTEXT: Map037/events/3/pages/1/49/Choice/0
+> CONTEXT: Map037/events/3/pages/2/3/Choice/0
+> CONTEXT: Map036/events/2/pages/0/2/Choice/0
+> CONTEXT: Map036/events/2/pages/1/2/Choice/0
+> CONTEXT: Map036/events/2/pages/3/2/Choice/0
+> CONTEXT: Map035/events/1/pages/9/4/Choice/0
+> CONTEXT: Map036/events/2/pages/4/2/Choice/0
+> CONTEXT: Map036/events/2/pages/5/2/Choice/0
+> CONTEXT: Map036/events/2/pages/6/2/Choice/0
+> CONTEXT: Map036/events/2/pages/7/2/Choice/0
+> CONTEXT: Map035/events/4/pages/2/3/Choice/0
+> CONTEXT: Map037/events/4/pages/0/17/Choice/0
+> CONTEXT: Map036/events/2/pages/8/2/Choice/0
+> CONTEXT: Map037/events/5/pages/0/16/Choice/0
+> CONTEXT: Map036/events/2/pages/9/2/Choice/0
+> CONTEXT: Map037/events/6/pages/0/15/Choice/0
+> CONTEXT: Map050/events/4/pages/5/11/Choice/0
+> CONTEXT: Map037/events/15/pages/0/16/Choice/0
+> CONTEXT: Map037/events/16/pages/0/15/Choice/0
+> CONTEXT: Map036/events/2/pages/10/2/Choice/0
+> CONTEXT: Map036/events/2/pages/11/2/Choice/0
+> CONTEXT: Map037/events/17/pages/0/15/Choice/0
+> CONTEXT: Map037/events/18/pages/0/17/Choice/0
+> CONTEXT: Map034/events/4/pages/0/3/Choice/0
+> CONTEXT: Map037/events/19/pages/0/15/Choice/0
+> CONTEXT: Map037/events/20/pages/0/16/Choice/0
+> CONTEXT: Map037/events/22/pages/0/17/Choice/0
+> CONTEXT: Map037/events/23/pages/0/14/Choice/0
+> CONTEXT: Map037/events/24/pages/0/15/Choice/0
+> CONTEXT: Map037/events/25/pages/0/15/Choice/0
+> CONTEXT: Map034/events/4/pages/8/3/Choice/0
+> CONTEXT: Map034/events/4/pages/9/3/Choice/0
+> CONTEXT: Map034/events/4/pages/10/3/Choice/0
+> CONTEXT: Map025/events/3/pages/2/5/Choice/0
+> CONTEXT: Map023/events/7/pages/0/2/Choice/0
+> CONTEXT: Map023/events/12/pages/0/2/Choice/0
+> CONTEXT: Map023/events/21/pages/0/44/Choice/0
+> CONTEXT: Map023/events/23/pages/0/2/Choice/0
+> CONTEXT: Map023/events/25/pages/0/2/Choice/0
+> CONTEXT: Map023/events/27/pages/0/2/Choice/0
+> CONTEXT: Map023/events/33/pages/0/2/Choice/0
+> CONTEXT: Map023/events/34/pages/0/2/Choice/0
+> CONTEXT: Map023/events/35/pages/0/2/Choice/0
+> CONTEXT: Map023/events/36/pages/0/3/Choice/0
+> CONTEXT: Map023/events/37/pages/0/2/Choice/0
+> CONTEXT: Map023/events/38/pages/0/2/Choice/0
+> CONTEXT: Map023/events/39/pages/0/2/Choice/0
+> CONTEXT: Map023/events/40/pages/0/2/Choice/0
+> CONTEXT: Map025/events/42/pages/2/3/Choice/0
+> CONTEXT: Map023/events/41/pages/0/2/Choice/0
+> CONTEXT: Map023/events/42/pages/0/2/Choice/0
+> CONTEXT: Map020/events/18/pages/0/6/Choice/0
+> CONTEXT: Map025/events/42/pages/5/9/Choice/0
+> CONTEXT: Map023/events/44/pages/0/2/Choice/0
+> CONTEXT: Map023/events/45/pages/0/2/Choice/0
+> CONTEXT: Map023/events/46/pages/0/3/Choice/0
+> CONTEXT: Map023/events/47/pages/0/2/Choice/0
+> CONTEXT: Map023/events/48/pages/0/2/Choice/0
+> CONTEXT: Map023/events/49/pages/0/2/Choice/0
+> CONTEXT: Map018/events/8/pages/0/4/Choice/0
+> CONTEXT: Map019/events/19/pages/0/247/Choice/0
+> CONTEXT: Map023/events/52/pages/0/2/Choice/0
+> CONTEXT: Map016/events/5/pages/0/2/Choice/0
+> CONTEXT: Map023/events/53/pages/0/2/Choice/0
+> CONTEXT: Map023/events/54/pages/0/2/Choice/0
+> CONTEXT: Map023/events/57/pages/0/3/Choice/0
+> CONTEXT: Map023/events/57/pages/0/18/Choice/0
+> CONTEXT: Map023/events/58/pages/0/2/Choice/0
+> CONTEXT: Map018/events/12/pages/0/3/Choice/0
+> CONTEXT: Map023/events/60/pages/0/2/Choice/0
+> CONTEXT: Map023/events/62/pages/0/2/Choice/0
+> CONTEXT: Map018/events/13/pages/0/3/Choice/0
+> CONTEXT: Map019/events/26/pages/0/301/Choice/0
+> CONTEXT: Map023/events/65/pages/0/2/Choice/0
+> CONTEXT: Map023/events/66/pages/0/2/Choice/0
+> CONTEXT: Map018/events/14/pages/0/4/Choice/0
+> CONTEXT: Map023/events/67/pages/0/2/Choice/0
+> CONTEXT: Map023/events/68/pages/0/2/Choice/0
+> CONTEXT: Map023/events/69/pages/0/2/Choice/0
+> CONTEXT: Map023/events/70/pages/0/2/Choice/0
+> CONTEXT: Map023/events/71/pages/0/2/Choice/0
+> CONTEXT: Map010/events/1/pages/0/3/Choice/0
+> CONTEXT: Map023/events/72/pages/0/2/Choice/0
+> CONTEXT: Map023/events/73/pages/0/2/Choice/0
+> CONTEXT: Map010/events/2/pages/0/5/Choice/0
+> CONTEXT: Map023/events/74/pages/0/2/Choice/0
+> CONTEXT: Map023/events/75/pages/0/2/Choice/0
+> CONTEXT: Map008/events/3/pages/0/3/Choice/0
+> CONTEXT: Map023/events/76/pages/0/2/Choice/0
+> CONTEXT: Map008/events/4/pages/0/3/Choice/0
+> CONTEXT: Map023/events/81/pages/0/2/Choice/0
+> CONTEXT: Map007/events/5/pages/0/2/Choice/0
+> CONTEXT: Map023/events/81/pages/0/10/Choice/0
+> CONTEXT: Map023/events/82/pages/0/2/Choice/0
+> CONTEXT: Map023/events/83/pages/0/2/Choice/0
+> CONTEXT: Map023/events/84/pages/0/2/Choice/0
+> CONTEXT: Map023/events/85/pages/0/2/Choice/0
+> CONTEXT: Map023/events/86/pages/0/4/Choice/0
+> CONTEXT: Map003/events/6/pages/0/6/Choice/0
+> CONTEXT: Map023/events/88/pages/0/2/Choice/0
+> CONTEXT: Map023/events/89/pages/0/2/Choice/0
+> CONTEXT: Map001/events/1/pages/0/2/Choice/0
+> CONTEXT: Map001/events/3/pages/0/3/Choice/0
+> CONTEXT: Map002/events/20/pages/0/4/Choice/0
+> CONTEXT: Map002/events/20/pages/1/5/Choice/0
+> CONTEXT: Map002/events/20/pages/2/4/Choice/0
+> CONTEXT: Commonevents/5/54/Choice/0
+> CONTEXT: Commonevents/6/78/Choice/0
+> CONTEXT: Commonevents/7/58/Choice/0
+> CONTEXT: Commonevents/9/89/Choice/0
+> CONTEXT: Map043/events/25/pages/0/2/Choice/0
+> CONTEXT: Commonevents/10/88/Choice/0
+> CONTEXT: Commonevents/65/58/Choice/0
+> CONTEXT: Commonevents/97/5/Choice/0
+> CONTEXT: Commonevents/98/5/Choice/0
+> CONTEXT: Commonevents/99/5/Choice/0
+> CONTEXT: Commonevents/100/10/Choice/0
+> CONTEXT: Commonevents/102/5/Choice/0
+> CONTEXT: Commonevents/103/5/Choice/0
+> CONTEXT: Commonevents/104/5/Choice/0
+> CONTEXT: Commonevents/105/5/Choice/0
+> CONTEXT: Commonevents/106/5/Choice/0
+> CONTEXT: Commonevents/107/5/Choice/0
+> CONTEXT: Commonevents/108/5/Choice/0
+> CONTEXT: Commonevents/109/5/Choice/0
+> CONTEXT: Commonevents/110/5/Choice/0
+> CONTEXT: Commonevents/111/5/Choice/0
+> CONTEXT: Commonevents/112/5/Choice/0
+> CONTEXT: Commonevents/113/5/Choice/0
+> CONTEXT: Commonevents/114/5/Choice/0
+> CONTEXT: Commonevents/115/5/Choice/0
+> CONTEXT: Commonevents/116/5/Choice/0
+> CONTEXT: Commonevents/117/5/Choice/0
+> CONTEXT: Commonevents/118/5/Choice/0
+> CONTEXT: Commonevents/119/5/Choice/0
+> CONTEXT: Commonevents/120/5/Choice/0
+> CONTEXT: Commonevents/121/5/Choice/0
+> CONTEXT: Commonevents/123/5/Choice/0
+> CONTEXT: Commonevents/124/5/Choice/0
+> CONTEXT: Commonevents/211/55/Choice/0
+> CONTEXT: Commonevents/216/79/Choice/0
+> CONTEXT: Commonevents/219/59/Choice/0
+> CONTEXT: Commonevents/227/90/Choice/0
+> CONTEXT: Commonevents/277/37/Choice/0
+> CONTEXT: Map149/events/45/pages/0/59/Choice/0
+> CONTEXT: Map149/events/45/pages/0/59/Choice/0
+> CONTEXT: Map149/events/46/pages/0/8/Choice/0
+> CONTEXT: Map149/events/46/pages/0/8/Choice/0
+> CONTEXT: Map149/events/47/pages/0/12/Choice/0
+> CONTEXT: Map149/events/47/pages/0/12/Choice/0
+> CONTEXT: Map147/events/3/pages/0/149/Choice/0
+> CONTEXT: Map147/events/3/pages/0/149/Choice/0
+> CONTEXT: Map147/events/3/pages/0/318/Choice/0
+> CONTEXT: Map147/events/3/pages/0/318/Choice/0
+> CONTEXT: Map147/events/17/pages/0/171/Choice/0
+> CONTEXT: Map147/events/17/pages/0/171/Choice/0
+> CONTEXT: Map147/events/17/pages/0/378/Choice/0
+> CONTEXT: Map147/events/17/pages/0/378/Choice/0
+> CONTEXT: Map147/events/17/pages/0/525/Choice/0
+> CONTEXT: Map147/events/17/pages/0/525/Choice/0
+> CONTEXT: Map147/events/24/pages/0/144/Choice/0
+> CONTEXT: Map147/events/24/pages/0/144/Choice/0
+> CONTEXT: Map147/events/24/pages/0/398/Choice/0
+> CONTEXT: Map147/events/24/pages/0/398/Choice/0
+> CONTEXT: Map147/events/24/pages/0/588/Choice/0
+> CONTEXT: Map147/events/24/pages/0/588/Choice/0
+> CONTEXT: Map147/events/24/pages/0/738/Choice/0
+> CONTEXT: Map147/events/24/pages/0/738/Choice/0
+> CONTEXT: Map065/events/7/pages/1/46/Choice/0
+> CONTEXT: Map065/events/7/pages/1/46/Choice/0
+> CONTEXT: Map065/events/7/pages/1/75/Choice/0
+> CONTEXT: Map065/events/7/pages/1/75/Choice/0
+> CONTEXT: Map065/events/7/pages/1/104/Choice/0
+> CONTEXT: Map065/events/7/pages/1/104/Choice/0
+> CONTEXT: Map065/events/7/pages/1/133/Choice/0
+> CONTEXT: Map065/events/7/pages/1/133/Choice/0
+> CONTEXT: Map065/events/7/pages/1/164/Choice/0
+> CONTEXT: Map065/events/7/pages/1/164/Choice/0
+> CONTEXT: Map065/events/7/pages/1/193/Choice/0
+> CONTEXT: Map065/events/7/pages/1/193/Choice/0
+> CONTEXT: Map065/events/7/pages/1/222/Choice/0
+> CONTEXT: Map065/events/7/pages/1/222/Choice/0
+> CONTEXT: Map065/events/7/pages/1/251/Choice/0
+> CONTEXT: Map065/events/7/pages/1/251/Choice/0
+> CONTEXT: Map065/events/7/pages/1/282/Choice/0
+> CONTEXT: Map065/events/7/pages/1/282/Choice/0
+> CONTEXT: Map065/events/7/pages/1/311/Choice/0
+> CONTEXT: Map065/events/7/pages/1/311/Choice/0
+> CONTEXT: Map065/events/7/pages/1/342/Choice/0
+> CONTEXT: Map065/events/7/pages/1/342/Choice/0
+> CONTEXT: Map065/events/7/pages/1/371/Choice/0
+> CONTEXT: Map065/events/7/pages/1/371/Choice/0
+> CONTEXT: Map065/events/7/pages/1/400/Choice/0
+> CONTEXT: Map065/events/7/pages/1/400/Choice/0
+> CONTEXT: Map065/events/7/pages/1/429/Choice/0
+> CONTEXT: Map065/events/7/pages/1/429/Choice/0
+> CONTEXT: Map065/events/7/pages/1/496/Choice/0
+> CONTEXT: Map065/events/7/pages/1/496/Choice/0
+> CONTEXT: Map065/events/7/pages/1/532/Choice/0
+> CONTEXT: Map065/events/7/pages/1/532/Choice/0
+> CONTEXT: Map065/events/7/pages/1/563/Choice/0
+> CONTEXT: Map065/events/7/pages/1/563/Choice/0
+> CONTEXT: Map036/events/2/pages/12/2/Choice/0
+> CONTEXT: Map036/events/2/pages/12/2/Choice/0
+> CONTEXT: Map033/events/4/pages/1/4/Choice/0
+> CONTEXT: Map033/events/4/pages/1/4/Choice/0
+> CONTEXT: Map033/events/4/pages/2/14/Choice/0
+> CONTEXT: Map033/events/4/pages/2/14/Choice/0
+> CONTEXT: Map033/events/4/pages/3/4/Choice/0
+> CONTEXT: Map033/events/4/pages/3/4/Choice/0
+> CONTEXT: Map025/events/3/pages/6/6/Choice/0
+> CONTEXT: Map025/events/3/pages/6/6/Choice/0
+> CONTEXT: Map023/events/90/pages/0/2/Choice/0
+> CONTEXT: Map023/events/90/pages/0/2/Choice/0
+> CONTEXT: Map023/events/91/pages/0/2/Choice/0
+> CONTEXT: Map023/events/91/pages/0/2/Choice/0
+> CONTEXT: Map023/events/92/pages/0/4/Choice/0
+> CONTEXT: Map023/events/92/pages/0/4/Choice/0
+Yes#MTLed
+> END STRING
+
+> BEGIN STRING
+いいえ
+> CONTEXT: Troops/121/pages/3/5/Choice/1
+> CONTEXT: Map148/events/1/pages/0/3/Choice/1
+> CONTEXT: Troops/122/pages/3/5/Choice/1
+> CONTEXT: Troops/123/pages/3/5/Choice/1
+> CONTEXT: Troops/124/pages/3/5/Choice/1
+> CONTEXT: Map141/events/1/pages/0/3/Choice/1
+> CONTEXT: Map141/events/3/pages/1/3/Choice/1
+> CONTEXT: Map143/events/54/pages/0/3/Choice/1
+> CONTEXT: Map139/events/1/pages/1/3/Choice/1
+> CONTEXT: Map101/events/12/pages/0/4/Choice/1
+> CONTEXT: Map101/events/13/pages/0/4/Choice/1
+> CONTEXT: Map097/events/4/pages/0/2/Choice/1
+> CONTEXT: Map097/events/5/pages/0/2/Choice/1
+> CONTEXT: Map096/events/8/pages/0/2/Choice/1
+> CONTEXT: Map152/events/25/pages/0/2/Choice/1
+> CONTEXT: Map090/events/3/pages/1/8/Choice/1
+> CONTEXT: Map079/events/3/pages/0/5/Choice/1
+> CONTEXT: Map075/events/4/pages/0/2/Choice/1
+> CONTEXT: Map076/events/15/pages/0/19/Choice/1
+> CONTEXT: Map076/events/19/pages/0/19/Choice/1
+> CONTEXT: Map071/events/5/pages/1/3/Choice/1
+> CONTEXT: Map070/events/2/pages/1/3/Choice/1
+> CONTEXT: Map073/events/14/pages/0/19/Choice/1
+> CONTEXT: Map069/events/15/pages/1/3/Choice/1
+> CONTEXT: Map071/events/9/pages/0/6/Choice/1
+> CONTEXT: Map070/events/4/pages/1/3/Choice/1
+> CONTEXT: Map071/events/11/pages/0/3/Choice/1
+> CONTEXT: Map069/events/16/pages/1/3/Choice/1
+> CONTEXT: Map071/events/12/pages/0/3/Choice/1
+> CONTEXT: Map070/events/8/pages/0/3/Choice/1
+> CONTEXT: Map069/events/17/pages/0/19/Choice/1
+> CONTEXT: Map073/events/15/pages/0/19/Choice/1
+> CONTEXT: Map071/events/13/pages/0/3/Choice/1
+> CONTEXT: Map070/events/23/pages/0/3/Choice/1
+> CONTEXT: Map070/events/24/pages/0/3/Choice/1
+> CONTEXT: Map070/events/25/pages/0/3/Choice/1
+> CONTEXT: Map071/events/16/pages/0/19/Choice/1
+> CONTEXT: Map071/events/17/pages/0/19/Choice/1
+> CONTEXT: Map074/events/43/pages/0/3/Choice/1
+> CONTEXT: Map069/events/24/pages/0/19/Choice/1
+> CONTEXT: Map069/events/29/pages/0/19/Choice/1
+> CONTEXT: Map069/events/31/pages/0/3/Choice/1
+> CONTEXT: Map069/events/32/pages/0/3/Choice/1
+> CONTEXT: Map064/events/14/pages/0/5/Choice/1
+> CONTEXT: Map070/events/31/pages/0/19/Choice/1
+> CONTEXT: Map064/events/16/pages/0/2/Choice/1
+> CONTEXT: Map059/events/3/pages/0/9/Choice/1
+> CONTEXT: Map064/events/17/pages/0/13/Choice/1
+> CONTEXT: Map070/events/32/pages/0/19/Choice/1
+> CONTEXT: Map064/events/17/pages/0/74/Choice/1
+> CONTEXT: Map057/events/11/pages/2/5/Choice/1
+> CONTEXT: Map057/events/11/pages/3/4/Choice/1
+> CONTEXT: Map057/events/11/pages/4/4/Choice/1
+> CONTEXT: Map057/events/11/pages/5/29/Choice/1
+> CONTEXT: Map057/events/11/pages/6/4/Choice/1
+> CONTEXT: Map044/events/12/pages/0/3/Choice/1
+> CONTEXT: Map044/events/12/pages/2/3/Choice/1
+> CONTEXT: Map037/events/3/pages/1/49/Choice/1
+> CONTEXT: Map037/events/3/pages/2/3/Choice/1
+> CONTEXT: Map036/events/2/pages/0/2/Choice/1
+> CONTEXT: Map036/events/2/pages/1/2/Choice/1
+> CONTEXT: Map036/events/2/pages/3/2/Choice/1
+> CONTEXT: Map035/events/1/pages/9/4/Choice/1
+> CONTEXT: Map036/events/2/pages/4/2/Choice/1
+> CONTEXT: Map036/events/2/pages/5/2/Choice/1
+> CONTEXT: Map036/events/2/pages/6/2/Choice/1
+> CONTEXT: Map036/events/2/pages/7/2/Choice/1
+> CONTEXT: Map035/events/4/pages/2/3/Choice/1
+> CONTEXT: Map037/events/4/pages/0/17/Choice/1
+> CONTEXT: Map036/events/2/pages/8/2/Choice/1
+> CONTEXT: Map037/events/5/pages/0/16/Choice/1
+> CONTEXT: Map037/events/6/pages/0/15/Choice/1
+> CONTEXT: Map036/events/2/pages/9/2/Choice/1
+> CONTEXT: Map050/events/4/pages/5/11/Choice/1
+> CONTEXT: Map037/events/15/pages/0/16/Choice/1
+> CONTEXT: Map037/events/16/pages/0/15/Choice/1
+> CONTEXT: Map036/events/2/pages/10/2/Choice/1
+> CONTEXT: Map036/events/2/pages/11/2/Choice/1
+> CONTEXT: Map037/events/17/pages/0/15/Choice/1
+> CONTEXT: Map037/events/18/pages/0/17/Choice/1
+> CONTEXT: Map034/events/4/pages/0/3/Choice/1
+> CONTEXT: Map037/events/19/pages/0/15/Choice/1
+> CONTEXT: Map037/events/20/pages/0/16/Choice/1
+> CONTEXT: Map037/events/22/pages/0/17/Choice/1
+> CONTEXT: Map037/events/23/pages/0/14/Choice/1
+> CONTEXT: Map037/events/24/pages/0/15/Choice/1
+> CONTEXT: Map037/events/25/pages/0/15/Choice/1
+> CONTEXT: Map034/events/4/pages/8/3/Choice/1
+> CONTEXT: Map034/events/4/pages/9/3/Choice/1
+> CONTEXT: Map034/events/4/pages/10/3/Choice/1
+> CONTEXT: Map025/events/3/pages/2/5/Choice/1
+> CONTEXT: Map023/events/7/pages/0/2/Choice/1
+> CONTEXT: Map023/events/12/pages/0/2/Choice/1
+> CONTEXT: Map023/events/18/pages/0/0/Choice/1
+> CONTEXT: Map023/events/23/pages/0/2/Choice/1
+> CONTEXT: Map023/events/25/pages/0/2/Choice/1
+> CONTEXT: Map023/events/27/pages/0/2/Choice/1
+> CONTEXT: Map023/events/33/pages/0/2/Choice/1
+> CONTEXT: Map023/events/34/pages/0/2/Choice/1
+> CONTEXT: Map023/events/35/pages/0/2/Choice/1
+> CONTEXT: Map023/events/36/pages/0/3/Choice/1
+> CONTEXT: Map023/events/37/pages/0/2/Choice/1
+> CONTEXT: Map023/events/38/pages/0/2/Choice/1
+> CONTEXT: Map023/events/39/pages/0/2/Choice/1
+> CONTEXT: Map023/events/40/pages/0/2/Choice/1
+> CONTEXT: Map025/events/42/pages/2/3/Choice/1
+> CONTEXT: Map023/events/41/pages/0/2/Choice/1
+> CONTEXT: Map023/events/42/pages/0/2/Choice/1
+> CONTEXT: Map020/events/18/pages/0/6/Choice/1
+> CONTEXT: Map025/events/42/pages/5/9/Choice/1
+> CONTEXT: Map023/events/44/pages/0/2/Choice/1
+> CONTEXT: Map023/events/45/pages/0/2/Choice/1
+> CONTEXT: Map023/events/46/pages/0/3/Choice/1
+> CONTEXT: Map023/events/47/pages/0/2/Choice/1
+> CONTEXT: Map023/events/48/pages/0/2/Choice/1
+> CONTEXT: Map023/events/49/pages/0/2/Choice/1
+> CONTEXT: Map018/events/8/pages/0/4/Choice/1
+> CONTEXT: Map019/events/19/pages/0/247/Choice/1
+> CONTEXT: Map023/events/52/pages/0/2/Choice/1
+> CONTEXT: Map016/events/5/pages/0/2/Choice/1
+> CONTEXT: Map023/events/53/pages/0/2/Choice/1
+> CONTEXT: Map023/events/54/pages/0/2/Choice/1
+> CONTEXT: Map023/events/57/pages/0/3/Choice/1
+> CONTEXT: Map023/events/57/pages/0/18/Choice/1
+> CONTEXT: Map023/events/58/pages/0/2/Choice/1
+> CONTEXT: Map018/events/12/pages/0/3/Choice/1
+> CONTEXT: Map023/events/60/pages/0/2/Choice/1
+> CONTEXT: Map023/events/62/pages/0/2/Choice/1
+> CONTEXT: Map018/events/13/pages/0/3/Choice/1
+> CONTEXT: Map019/events/26/pages/0/301/Choice/1
+> CONTEXT: Map023/events/65/pages/0/2/Choice/1
+> CONTEXT: Map023/events/66/pages/0/2/Choice/1
+> CONTEXT: Map018/events/14/pages/0/4/Choice/1
+> CONTEXT: Map023/events/67/pages/0/2/Choice/1
+> CONTEXT: Map023/events/68/pages/0/2/Choice/1
+> CONTEXT: Map023/events/69/pages/0/2/Choice/1
+> CONTEXT: Map023/events/70/pages/0/2/Choice/1
+> CONTEXT: Map023/events/71/pages/0/2/Choice/1
+> CONTEXT: Map023/events/72/pages/0/2/Choice/1
+> CONTEXT: Map010/events/1/pages/0/3/Choice/1
+> CONTEXT: Map023/events/73/pages/0/2/Choice/1
+> CONTEXT: Map010/events/2/pages/0/5/Choice/1
+> CONTEXT: Map023/events/74/pages/0/2/Choice/1
+> CONTEXT: Map023/events/75/pages/0/2/Choice/1
+> CONTEXT: Map008/events/3/pages/0/3/Choice/1
+> CONTEXT: Map023/events/76/pages/0/2/Choice/1
+> CONTEXT: Map008/events/4/pages/0/3/Choice/1
+> CONTEXT: Map007/events/5/pages/0/2/Choice/1
+> CONTEXT: Map023/events/81/pages/0/2/Choice/1
+> CONTEXT: Map023/events/81/pages/0/10/Choice/1
+> CONTEXT: Map023/events/82/pages/0/2/Choice/1
+> CONTEXT: Map023/events/83/pages/0/2/Choice/1
+> CONTEXT: Map023/events/84/pages/0/2/Choice/1
+> CONTEXT: Map023/events/85/pages/0/2/Choice/1
+> CONTEXT: Map023/events/86/pages/0/4/Choice/1
+> CONTEXT: Map003/events/6/pages/0/6/Choice/1
+> CONTEXT: Map023/events/88/pages/0/2/Choice/1
+> CONTEXT: Map023/events/89/pages/0/2/Choice/1
+> CONTEXT: Map001/events/1/pages/0/2/Choice/1
+> CONTEXT: Map001/events/3/pages/0/3/Choice/1
+> CONTEXT: Map002/events/20/pages/0/4/Choice/1
+> CONTEXT: Map002/events/20/pages/1/5/Choice/1
+> CONTEXT: Map008/events/9/pages/0/17/Choice/1
+> CONTEXT: Map002/events/20/pages/2/4/Choice/1
+> CONTEXT: Commonevents/5/54/Choice/1
+> CONTEXT: Commonevents/6/78/Choice/1
+> CONTEXT: Commonevents/7/58/Choice/1
+> CONTEXT: Commonevents/9/89/Choice/1
+> CONTEXT: Map043/events/25/pages/0/2/Choice/1
+> CONTEXT: Commonevents/10/88/Choice/1
+> CONTEXT: Commonevents/65/58/Choice/1
+> CONTEXT: Commonevents/97/5/Choice/1
+> CONTEXT: Commonevents/98/5/Choice/1
+> CONTEXT: Commonevents/99/5/Choice/1
+> CONTEXT: Commonevents/100/10/Choice/1
+> CONTEXT: Commonevents/102/5/Choice/1
+> CONTEXT: Commonevents/103/5/Choice/1
+> CONTEXT: Commonevents/104/5/Choice/1
+> CONTEXT: Commonevents/105/5/Choice/1
+> CONTEXT: Commonevents/106/5/Choice/1
+> CONTEXT: Commonevents/107/5/Choice/1
+> CONTEXT: Commonevents/108/5/Choice/1
+> CONTEXT: Commonevents/109/5/Choice/1
+> CONTEXT: Commonevents/110/5/Choice/1
+> CONTEXT: Commonevents/111/5/Choice/1
+> CONTEXT: Commonevents/112/5/Choice/1
+> CONTEXT: Commonevents/113/5/Choice/1
+> CONTEXT: Commonevents/114/5/Choice/1
+> CONTEXT: Commonevents/115/5/Choice/1
+> CONTEXT: Commonevents/116/5/Choice/1
+> CONTEXT: Commonevents/117/5/Choice/1
+> CONTEXT: Commonevents/118/5/Choice/1
+> CONTEXT: Commonevents/119/5/Choice/1
+> CONTEXT: Commonevents/120/5/Choice/1
+> CONTEXT: Commonevents/121/5/Choice/1
+> CONTEXT: Commonevents/123/5/Choice/1
+> CONTEXT: Commonevents/124/5/Choice/1
+> CONTEXT: Commonevents/211/55/Choice/1
+> CONTEXT: Commonevents/216/79/Choice/1
+> CONTEXT: Commonevents/219/59/Choice/1
+> CONTEXT: Commonevents/227/90/Choice/1
+> CONTEXT: Commonevents/277/37/Choice/1
+> CONTEXT: Map149/events/45/pages/0/59/Choice/1
+> CONTEXT: Map149/events/45/pages/0/59/Choice/1
+> CONTEXT: Map149/events/46/pages/0/8/Choice/1
+> CONTEXT: Map149/events/46/pages/0/8/Choice/1
+> CONTEXT: Map149/events/47/pages/0/12/Choice/1
+> CONTEXT: Map149/events/47/pages/0/12/Choice/1
+> CONTEXT: Map147/events/3/pages/0/149/Choice/1
+> CONTEXT: Map147/events/3/pages/0/149/Choice/1
+> CONTEXT: Map147/events/3/pages/0/318/Choice/1
+> CONTEXT: Map147/events/3/pages/0/318/Choice/1
+> CONTEXT: Map147/events/17/pages/0/171/Choice/1
+> CONTEXT: Map147/events/17/pages/0/171/Choice/1
+> CONTEXT: Map147/events/17/pages/0/378/Choice/1
+> CONTEXT: Map147/events/17/pages/0/378/Choice/1
+> CONTEXT: Map147/events/17/pages/0/525/Choice/1
+> CONTEXT: Map147/events/17/pages/0/525/Choice/1
+> CONTEXT: Map147/events/24/pages/0/144/Choice/1
+> CONTEXT: Map147/events/24/pages/0/144/Choice/1
+> CONTEXT: Map147/events/24/pages/0/398/Choice/1
+> CONTEXT: Map147/events/24/pages/0/398/Choice/1
+> CONTEXT: Map147/events/24/pages/0/588/Choice/1
+> CONTEXT: Map147/events/24/pages/0/588/Choice/1
+> CONTEXT: Map147/events/24/pages/0/738/Choice/1
+> CONTEXT: Map147/events/24/pages/0/738/Choice/1
+> CONTEXT: Map065/events/7/pages/1/46/Choice/1
+> CONTEXT: Map065/events/7/pages/1/46/Choice/1
+> CONTEXT: Map065/events/7/pages/1/75/Choice/1
+> CONTEXT: Map065/events/7/pages/1/75/Choice/1
+> CONTEXT: Map065/events/7/pages/1/104/Choice/1
+> CONTEXT: Map065/events/7/pages/1/104/Choice/1
+> CONTEXT: Map065/events/7/pages/1/133/Choice/1
+> CONTEXT: Map065/events/7/pages/1/133/Choice/1
+> CONTEXT: Map065/events/7/pages/1/164/Choice/1
+> CONTEXT: Map065/events/7/pages/1/164/Choice/1
+> CONTEXT: Map065/events/7/pages/1/193/Choice/1
+> CONTEXT: Map065/events/7/pages/1/193/Choice/1
+> CONTEXT: Map065/events/7/pages/1/222/Choice/1
+> CONTEXT: Map065/events/7/pages/1/222/Choice/1
+> CONTEXT: Map065/events/7/pages/1/251/Choice/1
+> CONTEXT: Map065/events/7/pages/1/251/Choice/1
+> CONTEXT: Map065/events/7/pages/1/282/Choice/1
+> CONTEXT: Map065/events/7/pages/1/282/Choice/1
+> CONTEXT: Map065/events/7/pages/1/311/Choice/1
+> CONTEXT: Map065/events/7/pages/1/311/Choice/1
+> CONTEXT: Map065/events/7/pages/1/342/Choice/1
+> CONTEXT: Map065/events/7/pages/1/342/Choice/1
+> CONTEXT: Map065/events/7/pages/1/371/Choice/1
+> CONTEXT: Map065/events/7/pages/1/371/Choice/1
+> CONTEXT: Map065/events/7/pages/1/400/Choice/1
+> CONTEXT: Map065/events/7/pages/1/400/Choice/1
+> CONTEXT: Map065/events/7/pages/1/429/Choice/1
+> CONTEXT: Map065/events/7/pages/1/429/Choice/1
+> CONTEXT: Map065/events/7/pages/1/496/Choice/1
+> CONTEXT: Map065/events/7/pages/1/496/Choice/1
+> CONTEXT: Map065/events/7/pages/1/532/Choice/1
+> CONTEXT: Map065/events/7/pages/1/532/Choice/1
+> CONTEXT: Map065/events/7/pages/1/563/Choice/1
+> CONTEXT: Map065/events/7/pages/1/563/Choice/1
+> CONTEXT: Map036/events/2/pages/12/2/Choice/1
+> CONTEXT: Map036/events/2/pages/12/2/Choice/1
+> CONTEXT: Map033/events/4/pages/1/4/Choice/1
+> CONTEXT: Map033/events/4/pages/1/4/Choice/1
+> CONTEXT: Map033/events/4/pages/2/14/Choice/1
+> CONTEXT: Map033/events/4/pages/2/14/Choice/1
+> CONTEXT: Map033/events/4/pages/3/4/Choice/1
+> CONTEXT: Map033/events/4/pages/3/4/Choice/1
+> CONTEXT: Map025/events/3/pages/6/6/Choice/1
+> CONTEXT: Map025/events/3/pages/6/6/Choice/1
+> CONTEXT: Map023/events/90/pages/0/2/Choice/1
+> CONTEXT: Map023/events/90/pages/0/2/Choice/1
+> CONTEXT: Map023/events/91/pages/0/2/Choice/1
+> CONTEXT: Map023/events/91/pages/0/2/Choice/1
+> CONTEXT: Map023/events/92/pages/0/4/Choice/1
+> CONTEXT: Map023/events/92/pages/0/4/Choice/1
+No#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、俺が、プリムにこういうことを
+してもらえるというのなら……
+う、ううっ、でも……」
+> CONTEXT: Troops/121/pages/3/8/Dialogue
+\\N[12]. 「Oh, I like this to Purim. If it is said that
+... ... Oh, OHh, but ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「ためらうことはないんだよ？
+わたしが、してあげたいんだから……
+おにいさんは、わたしに任せてくれればいいの……」
+> CONTEXT: Troops/121/pages/3/13/Dialogue
+Purim? 「There is no hesitation? I want to do it ... ....
+I hope you leave me a lot of money ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「し、しかしっ、俺は、
+お前のお母さんに、お前のことを任されて……
+こんなことを俺がするのは、ありえない……」
+> CONTEXT: Troops/121/pages/3/18/Dialogue
+\\N[12]. 「Well, I, Your mother is given charge of you
+...... It is impossible for me to do this ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「ふふ、このビジョンは根拠のない映像じゃないの。
+わたしとおにいさんの間に、ありえた可能性なのよ……」
+> CONTEXT: Troops/121/pages/3/23/Dialogue
+Purim? 「Huhu, this vision is not an unfounded image.
+It is possible that I could have been between me and a lot
+of ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、に……？」
+> CONTEXT: Troops/121/pages/3/27/Dialogue
+> CONTEXT: Troops/122/pages/3/28/Dialogue
+\\N[12]. 「what……?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「わたしたちは、こうなっていた可能性があったということ。
+そして、その可能性を、今こそ現実のものにするの。
+さあ、おにいさん、わたしと一緒に……」
+> CONTEXT: Troops/121/pages/3/30/Dialogue
+Purim? 「We said that there was a possibility that this was
+the case. And I will make that possibility now a reality.
+Now, a lot, together with me ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああぁ……
+俺は、プリムと……こういうことができるのなら……っ！」
+> CONTEXT: Troops/121/pages/3/35/Dialogue
+\\N[12]. 「Oh, ah ... .... I, with Purim ...... If I can
+do something like this ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム？
+「でも、逃してはあげないから……！」
+> CONTEXT: Troops/121/pages/3/66/Dialogue
+Purim? 「But, I will not let you miss it ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、襲いかかってくるかっ！」
+> CONTEXT: Troops/121/pages/3/69/Dialogue
+> CONTEXT: Troops/122/pages/3/74/Dialogue
+> CONTEXT: Troops/123/pages/3/77/Dialogue
+> CONTEXT: Troops/124/pages/3/73/Dialogue
+\\N[12]. 「Come, attack me!」#MTLed
+> END STRING
+
+> BEGIN STRING
+幻影ディアーナ
+> CONTEXT: Troops/122/name/
+Phantom Diana#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「ふふふ……」
+> CONTEXT: Troops/122/pages/0/0/Dialogue
+Diana? 「Hehu ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、ディアーナ……？
+また幻か何かなんだろう、
+あんなお嬢様がこんな森の奥に来るわけがない……」
+> CONTEXT: Troops/122/pages/0/4/Dialogue
+\\N[12]. 「Cow, Diana ......? I wonder if it is a
+phantom or something, Such a lady can not come to the back
+of this forest ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ディアーナ……？　いや、まさか……
+あんなお嬢様が、こんな森の奥に来るわけが……」
+> CONTEXT: Troops/122/pages/0/11/Dialogue
+\\N[12]. 「Diana ......? No, no way .... Such a lady
+came to the back of such a forest ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「うふふ……
+どうかしら、本当はあなた、この高貴な私に
+いやらしいことをして欲しかったんじゃない……？」
+> CONTEXT: Troops/122/pages/1/4/Dialogue
+Diana? 「Ufufu ... I wonder what you are, really, you, to
+this noble me. I wanted you to do something obnoxious ...
+....?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、それはっ……
+でも、お前は年下すぎる……」
+> CONTEXT: Troops/122/pages/1/9/Dialogue
+\\N[12]. 「Well, that is .... But you are too young ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「つまらないことを気にするものね……
+とにかく、決めなさい……
+このビジョンをちゃんと見たいのであれば、ね……」
+> CONTEXT: Troops/122/pages/1/13/Dialogue
+Diana? 「It is something that worries about boring ... ...
+Anyway, decide ... ... If you want to see this vision
+properly ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「ふふ……さあ、どうするのかしら？
+このビジョン、はっきりと見てみたいの……？」
+> CONTEXT: Troops/122/pages/2/0/Dialogue
+Diana? 「Huh ... .... Now, what will you do?
+I would like to see this vision clearly ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「ま、当然よね……♪
+じゃ、見せてあげるわ……」
+> CONTEXT: Troops/122/pages/2/7/Dialogue
+Diana? 「Well, of course ...♪. Well, I will show you ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……
+ディアーナが、俺の顔の上に座っている……？」
+> CONTEXT: Troops/122/pages/2/12/Dialogue
+\\N[12]. 「uugh ... ... Diana is sitting on my face ...
+....?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「あら、お尻に座られているビジョンで勃起するなんて、変態ね♪
+あなたが願えば、これを\\C[2]体験\\C[0]させてあげられるわよ？
+さあ……私のものになりなさい、\\N[12]……」
+> CONTEXT: Troops/122/pages/2/19/Dialogue
+Diana? 「Oh, it's a pervert to erection with a vision
+sitting in the buttocks♪. If you wish, this\\C[2] Experience\\C[0] Can
+I let you go? Now ... ... be mine, \\N[12] ... ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「拒むの？
+まさか、私にエッチなことをしてもらうのが
+嫌だというのではないでしょうね……」
+> CONTEXT: Troops/122/pages/2/26/Dialogue
+> CONTEXT: Troops/122/pages/3/45/Dialogue
+Diana? 「Do you refuse? No way, let me do what I lewd
+I guess it's not disgusting ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、お前は、確かに高貴で魅力的な女の子だと思う……
+が、そういう対象として見たことはないんだっ……！
+> CONTEXT: Troops/122/pages/2/31/Dialogue
+> CONTEXT: Troops/122/pages/3/50/Dialogue
+\\N[12]. 「Oh, I guess you are surely a noble and
+attractive girl ... ... However, I have not seen it as such
+a target ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+貴族の女の子だからって、そういう欲望が湧くわけじゃない。
+もし、こういうことをするのなら……
+俺が、お前にふさわしい人間になった上で、
+関係も深まってからのことだっ！」
+> CONTEXT: Troops/122/pages/2/35/Dialogue
+> CONTEXT: Troops/122/pages/3/54/Dialogue
+Because noble girls, that kind of desire will not rise.
+If you do something like this ... After I become a human
+being suitable for you, It is from relationship deepening!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「……………………」
+> CONTEXT: Troops/122/pages/2/42/Dialogue
+> CONTEXT: Troops/122/pages/3/61/Dialogue
+Diana? 「........................」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「ふん……くだらない……
+いいわ、あなたのような庶民、
+こっちからお断りよ」
+> CONTEXT: Troops/122/pages/2/45/Dialogue
+Diana? 「Hmm ... ... crap ... ... Well, common people like
+you, Please refuse from here」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「さあ、\\N[12]……
+私のものになりなさい……」
+> CONTEXT: Troops/122/pages/3/0/Dialogue
+Diana? 「here we go, \\N[12] ... .... Be mine ... ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お、俺が、ディアーナにこういうことを
+してもらえるというのなら……
+う、ううっ、でも……」
+> CONTEXT: Troops/122/pages/3/8/Dialogue
+\\N[12]. 「Oh, I like this to Diana. If it is said that
+... ... Oh, OHh, but ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「何を悩んでいるのかしら？
+ふふ、高貴な私の体を味わうことができるのよ、
+あなたのような田舎者の庶民が……」
+> CONTEXT: Troops/122/pages/3/13/Dialogue
+Diana? 「I wonder what you are suffering?
+Huhu, I can taste my noble body, Redneck ordinary people
+like you ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、お前は確かに可愛いし上品で、
+俺の田舎にはいないような女の子だ……
+けど、それに飛びついてしまっては、それこそ庶民の浅ましさだ」
+> CONTEXT: Troops/122/pages/3/18/Dialogue
+\\N[12]. 「Cut, you are definitely cute and elegant,
+It is a girl who is not in my country ...
+But, if it jumped to it, that is a shallowness of the
+common people」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「ふふ、なにか勘違いをしているのではないの？
+このビジョンは根拠のない映像じゃないのよ。
+私たちの間に、ありえた可能性……」
+> CONTEXT: Troops/122/pages/3/23/Dialogue
+Diana? 「Hehuu, are not you misunderstanding?
+This vision is not an unfounded image. Potential between
+us, ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「私たちは、こうなっていた可能性があったのよ。
+その可能性を、今こそ現実のものにしましょう。
+さあ\\N[12]、私の体に堕ちなさい……」
+> CONTEXT: Troops/122/pages/3/31/Dialogue
+Diana? 「We had the possibility of being like this.
+Let's make that possibility the reality now.
+here we go \\N[12] Fall into my body ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああぁ……
+俺は、ディアーナに……
+こういうことをしてもらえるのなら……っ！」
+> CONTEXT: Troops/122/pages/3/36/Dialogue
+\\N[12]. 「Oh, ah ... .... I, to Diana ......
+If you can do this kind of thing ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「ふん……くだらない……」
+> CONTEXT: Troops/122/pages/3/64/Dialogue
+Diana? 「Hmm ... ... crap ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ？
+「こうなったら、この私の力で
+無理やり屈服させてあげる……！」
+> CONTEXT: Troops/122/pages/3/70/Dialogue
+Diana? 「In this way, with this power of mine
+I will force you to forcibly ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+幻影ミリーナ
+> CONTEXT: Troops/123/name/
+Illusion Mileena#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「あはっ……♪」
+> CONTEXT: Troops/123/pages/0/0/Dialogue
+Mileena? 「Hahah ......♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、ミリーナ……？
+いや、しかし、こんなところにいるはずがない。
+これも幻影なのか……」
+> CONTEXT: Troops/123/pages/0/4/Dialogue
+\\N[12]. 「Uh, Mileena ......? No, but it can not be in
+such a place. Is this also an illusion ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、ミリーナ……？
+ど、どうしてお前がこんなところにいるんだ」
+> CONTEXT: Troops/123/pages/0/11/Dialogue
+\\N[12]. 「Uh, Mileena ......? Well, why are you in such
+place」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「私とこんなエッチ、してみたくない……？
+このメイド服のスカートの中のお尻の感触、
+味わわせてあげるよ？」
+> CONTEXT: Troops/123/pages/1/4/Dialogue
+Mileena? 「I and lewd like this, do not want to try ...?
+Feeling of the butt in this maid outfit skirt,
+I will taste it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こ、こんなことしなくてもいいだろう、
+俺はもう、お前とはセックスしたんだから……」
+> CONTEXT: Troops/123/pages/1/10/Dialogue
+\\N[12]. 「You do not have to do this, I already have
+sex with you ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「ふふっ、対等なセックスの快楽とはだいぶ違うよ……？
+アブノーマルな匂いと感触を味わえるんだから……」
+> CONTEXT: Troops/123/pages/1/14/Dialogue
+Mileena? 「Huh, it is quite different from pleasure of
+equal sex ... ....? You can taste the abnormal smell and
+feel ... ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、こんなあからさまな誘惑に乗るか……！
+ミリーナは美人だとは思うが、
+こういう誘いをかけてくる子じゃないはずだ……！」
+> CONTEXT: Troops/123/pages/1/20/Dialogue
+\\N[12]. 「Come on, do you get on such outright
+temptation ...?! I think that Mileena is beautiful,
+It should not be such a child to invite ... ....!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「へえ、我慢しちゃうんだ？
+でも、本音は……あたしみたいなメイド服の女の子の
+その服の下に、興味あるんでしょう？」
+> CONTEXT: Troops/123/pages/1/25/Dialogue
+Mileena? 「Oh, are you going to endure it?
+But, the real intention is ...... of a girl of maid dress
+like me. Under that clothes you are interested, do not you?
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「ふふっ……さあ、どうする？
+このビジョン、もっとくっきりと見てみたいと思わない？」
+> CONTEXT: Troops/123/pages/2/0/Dialogue
+Mileena? 「Huh ... ... then, what do you do?
+Do you not want to see this vision more clearly?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「そうそう、欲望には素直にならなきゃ♪
+じゃ、見せてあげるわ……」
+> CONTEXT: Troops/123/pages/2/7/Dialogue
+Mileena? 「Oh yeah, I have to be honest with desire♪
+Well, I will show you ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……！
+なんて、大きくて弾力のありそうなお尻なんだ……」
+> CONTEXT: Troops/123/pages/2/12/Dialogue
+\\N[12]. 「Wow ...! What a big but elastic ass ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「目の色が変わったね、\\N[12]君。
+キミが望むなら、この場で
+このお尻の感触を\\C[2]体験\\C[0]させてあげてもいいんだよ？」
+> CONTEXT: Troops/123/pages/2/19/Dialogue
+Mileena? 「The color of eyes changed, did not they?
+\\N[12] You. If you wish, at this place. The feel of
+this butt\\C[2] Experience\\C[0] Can I let you go?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「へえ、拒んじゃうんだ。
+いいのかなー、断っちゃって。あたしのお尻の感触
+とってもエッチで心地いいと思うんだけどなぁ……」
+> CONTEXT: Troops/123/pages/2/26/Dialogue
+> CONTEXT: Troops/123/pages/3/41/Dialogue
+Mileena? 「Oh, I will refuse. I guess it is OK, refuse it.
+Feeling of my butt. I think that it is very comfortable
+with lewd ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「た、確かに、惹かれるものはあるが……
+でも、俺はもうミリーナとセックスした仲なんだ。
+今さら、こんな誘惑に釣られるかっ！」
+> CONTEXT: Troops/123/pages/2/32/Dialogue
+> CONTEXT: Troops/123/pages/3/47/Dialogue
+\\N[12]. 「There are, but certainly, attracted ... ...
+However, I have already had sex with Mileena.
+In the meantime, can you catch this temptation!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、確かに形のいいお尻だし、惹かれるものはあるけど
+この子は、こんなところで誘いをかけてくるものかっ！
+お前が本物でないことぐらい、見抜けない俺じゃないぞ！」
+> CONTEXT: Troops/123/pages/2/39/Dialogue
+> CONTEXT: Troops/123/pages/3/54/Dialogue
+\\N[12]. 「Cow is definitely a good butt, and there are
+things that are attracted. Does this child invite you in
+such a place! I'm not the one I can not miss as much as you
+are not genuine!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「……………………」
+> CONTEXT: Troops/123/pages/2/48/Dialogue
+> CONTEXT: Troops/123/pages/3/63/Dialogue
+Mileena? 「........................」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「ふうん……そうなんだ、残念。
+王都のアイドルの誘いを拒むなんて、
+キミの精神力を侮ってたよ……」
+> CONTEXT: Troops/123/pages/2/51/Dialogue
+> CONTEXT: Troops/123/pages/3/66/Dialogue
+Mileena? 「Well ... well, that's too bad.
+To refuse to invite royal idols, I was despised of your
+spiritual power ... ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「\\N[12]君、どう？
+あたしのお尻、味わわせてもらいたいでしょ？」
+> CONTEXT: Troops/123/pages/3/0/Dialogue
+Mileena? 「\\N[12] How about you? I want to taste my
+ass, do not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ、あの尻に顔をうずめることができるなら
+俺は……！」
+> CONTEXT: Troops/123/pages/3/8/Dialogue
+\\N[12]. 「OHh, if you can sprinkle your face on that ass
+I am……!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「ふふっ、やっぱり\\N[12]君は
+あたしのお尻の魅力に屈しちゃうんだね……」
+> CONTEXT: Troops/123/pages/3/12/Dialogue
+Mileena? 「Huh, after all \\N[12] You are
+You give in to the charm of my ass ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「し、しかし、俺は……
+この奥にいる魔物を、倒さなきゃいけないのに……」
+> CONTEXT: Troops/123/pages/3/16/Dialogue
+\\N[12]. 「But, I ... I have to defeat this monster in
+the back ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「そんなの忘れちゃっていいじゃない。
+命をかけて魔物と戦うよりも
+あたしのお尻でえっちな快楽を味わうほうが楽しいよ？」
+> CONTEXT: Troops/123/pages/3/20/Dialogue
+Mileena? 「You can forget such a thing. Rather than
+fighting monster with his life. It is fun to taste your
+pleasure with my ass.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……！」
+> CONTEXT: Troops/123/pages/3/25/Dialogue
+> CONTEXT: Troops/124/pages/3/27/Dialogue
+> CONTEXT: Map036/events/14/pages/0/128/Dialogue
+\\N[12]. 「Uugh ... ...!」#MTLed
+> CONTEXT: Commonevents/262/30/Dialogue
+\\N[12]. 「Uugh ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「さあ、一緒に来て……
+あたしのスカートの中で、女の子の感触や匂いに
+溺れちゃおう……」
+> CONTEXT: Troops/123/pages/3/28/Dialogue
+Mileena? 「Come with us ...... In my skirt, to the feel and
+smell of girls. Let's get drowned ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああぁ……
+も、もう……俺は、我慢できないっ……！」
+> CONTEXT: Troops/123/pages/3/33/Dialogue
+> CONTEXT: Troops/124/pages/3/35/Dialogue
+\\N[12]. 「Oh, ah ... .... Also, already ... ... I can
+not stand it ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ？
+「それじゃ、実力でキミを倒して
+無理やり顔をお尻で押しつぶしてあげるよ……♪」
+> CONTEXT: Troops/123/pages/3/73/Dialogue
+Mileena? 「Then, beat yourself with your ability
+I will crush my face with my butt forcibly ......♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+幻影バニー
+> CONTEXT: Troops/124/name/
+Phantom Bunny#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「うふふっ……」
+> CONTEXT: Troops/124/pages/0/0/Dialogue
+bunny girl? 「Uhufu ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだ？
+あのバニーガール……の、幻影か？
+でも、こいつならここにいてもおかしくない気もするが……」
+> CONTEXT: Troops/124/pages/0/4/Dialogue
+\\N[12]. 「What is it? Is that a ghost of that bunny
+girl ......? But I guess it's not amusing to be here if
+this guy ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、大会で対戦したバニーガール……？
+どうしてこんなところに……」
+> CONTEXT: Troops/124/pages/0/11/Dialogue
+\\N[12]. 「Uh, I battle with tournament bunny girl
+......? Why in such a place ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「キミは私とのエッチを拒んだけれど……
+本当は、この体に溺れたかったんでしょう？
+素直に認めれば、このビジョンをもっとくっきり見られるわよぉ？」
+> CONTEXT: Troops/124/pages/1/4/Dialogue
+bunny girl? 「You refused lewd with me though ....
+In truth, you wanted to get drowned in this body, did not
+she? If you admit it obediently, you can see this vision
+more clearly?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、お前の体に溺れていたら
+俺はあの試合で負けていたんだろうが。
+断じて、お前の体になんて惑わされるものか」
+> CONTEXT: Troops/124/pages/1/9/Dialogue
+\\N[12]. 「If you drowned in your body, I wonder why I
+was losing that game. Nevertheless you are misled by your
+body」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「あらあら、やせ我慢しちゃって……
+分かっているのよ、本当は今すぐにでも
+私の体にむしゃぶりつきたいと思っているんだって……♪」
+> CONTEXT: Troops/124/pages/1/14/Dialogue
+bunny girl? 「oh no, be patiently tolerated ......
+I know, really, even now. I think he wants to suck on my
+body ......♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「うふふ……さあ、どうするのかしら？
+このビジョン、もっとくっきりと見てみたいでしょ？」
+> CONTEXT: Troops/124/pages/2/0/Dialogue
+bunny girl? 「Uhufu ... ... then, what will you do?
+Do you want to see this vision more clearly, do not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「そうそう、欲望には素直にならなきゃ♪
+じゃ、見せてあげるわ……」
+> CONTEXT: Troops/124/pages/2/7/Dialogue
+bunny girl? 「Oh yeah, I have to be honest with desire♪
+Well, I will show you ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……
+あ、あの大きなおっぱいで、
+パイズリをしてもらえているなんて」
+> CONTEXT: Troops/124/pages/2/12/Dialogue
+\\N[12]. 「uugh ... ... Oh, with that big boobs,
+I do not think she's fucked」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「想像しただけで、おちんちんが大きくなっちゃうでしょ？
+キミが望むなら、この場で
+これを\\C[2]体験\\C[0]させてあげるわよ？」
+> CONTEXT: Troops/124/pages/2/20/Dialogue
+bunny girl? 「Just imagining, will you grow up?
+If you wish, at this place. this\\C[2] Experience\\C[0] I will let you?
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「あら、また私の誘いを拒むつもり？
+分かっているのよ、私とえっちなことができずに
+キミが後悔していたことぐらい。同じ過ちを繰り返す気？」
+> CONTEXT: Troops/124/pages/2/27/Dialogue
+> CONTEXT: Troops/124/pages/3/43/Dialogue
+bunny girl? 「Oh, are you going to reject my invitation
+again? I know, I can not do something wrong with me
+About what you regretted. Are you trying to repeat the same
+mistake?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ち、違う……確かに、惜しいとは思ったが、
+だが、お前の誘いに乗って肉欲に溺れていたら、
+俺は負けていたし、そうなっていたらもっと後悔していただろう。
+> CONTEXT: Troops/124/pages/2/32/Dialogue
+> CONTEXT: Troops/124/pages/3/48/Dialogue
+\\N[12]. 「Different ... ... certainly, I thought it was
+regrettable, But, if you were drowning in your appetite
+with your invitation, I was losing, and if I had it I would
+have regretted more.#MTLed
+> END STRING
+
+> BEGIN STRING
+今回だって同じことだ。
+ここで欲望に身を任せてしまったら、破滅する予感がする。
+悪いが、お前の誘いは断らせてもらうっ！」
+> CONTEXT: Troops/124/pages/2/37/Dialogue
+> CONTEXT: Troops/124/pages/3/53/Dialogue
+Even this time it's the same thing. If you leave yourself
+to desire here, you will have a feeling of ruin.
+It's bad, but your invitation will be refused!」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「……………………」
+> CONTEXT: Troops/124/pages/2/43/Dialogue
+> CONTEXT: Troops/124/pages/3/59/Dialogue
+bunny girl? 「........................」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「残念ね……
+キミはもう、一生私とエッチなことが
+できないかもしれないのに……
+> CONTEXT: Troops/124/pages/2/46/Dialogue
+bunny girl? 「so sorry……. You are already lewd with me for
+the rest of my life. It may not be possible ......#MTLed
+> END STRING
+
+> BEGIN STRING
+それがキミの選択なら、仕方ないわね。
+せいぜい、精錬に生きていくといいわ、剣士の坊や」
+> CONTEXT: Troops/124/pages/2/51/Dialogue
+If that is your choice, it can not be helped.
+At best, I hope to live in refining, a swordsman's boy」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「さあ剣士の坊や、認めなさい。
+私のおっぱいで気持ちよくなりたいでしょう？」
+> CONTEXT: Troops/124/pages/3/0/Dialogue
+bunny girl? 「Come now, swordsmen 's boy, please admit.
+Do you want to be comfortable with my boobs?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あのおっぱいにチンコを挟んでもらえるなら……
+お、俺は……」
+> CONTEXT: Troops/124/pages/3/8/Dialogue
+\\N[12]. 「Oh, if you can get a dick inserted in that
+tits ... ... Oh, I ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「あら、まだ迷っているの？
+今回はあのときみたいに敵対しているわけでもないし、
+ただ私に甘えて、この体に溺れていればいいのよ」
+> CONTEXT: Troops/124/pages/3/12/Dialogue
+bunny girl? 「Oh, are you still hesitating?
+It is not even hostile this time like this time,
+Just spare me, I wish I was drowning in this body」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「で、でも、俺にはやることが……
+ここで、お前の体に溺れたら、
+取り返しがつかないことになるような気がするし……」
+> CONTEXT: Troops/124/pages/3/17/Dialogue
+\\N[12]. 「But, it is something that I do ...
+Here, if you drown in your body, I feel like I will not be
+able to recover ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「このビジョンを見ても、まだそんなことを言うの？
+これは、キミと私の間にあった可能性……
+こんな気持ちのいい運命を、キミは逃してきたのよ？」
+> CONTEXT: Troops/124/pages/3/22/Dialogue
+bunny girl? 「Looking at this vision, are you still saying
+such a thing? This might be between you and me ......
+You have missed such a fantastic fate?」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「今度こそ、私のおっぱいで快楽を味わいましょ？
+さあ、ためらう必要はもうないわ。
+いっぱい射精して、私のおっぱいに甘えなさい」
+> CONTEXT: Troops/124/pages/3/30/Dialogue
+bunny girl? 「Let me taste the pleasure with my tits this
+time again. Now, there is no need to hesitate.
+Cum awful a lot and sprinkle on my boobs」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「残念ね……
+キミがここまで強い意志を持っているだなんて
+計算外もいいところだわ」
+> CONTEXT: Troops/124/pages/3/62/Dialogue
+bunny girl? 「so sorry……. I do not think that you have a
+strong will to this point. It's a nice place to calculate」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール？
+「それなら、実力でキミを
+快楽地獄に堕としてあげるしかないわねぇ……♪」
+> CONTEXT: Troops/124/pages/3/69/Dialogue
+bunny girl? 「Then, with your strength you
+There is no choice but to give it to pleasure hell ...♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ふふっ、なかなかやるわね。
+私と戦って、ここまで抵抗できる男は
+そうはいないわ。褒めてあげるわよ」
+> CONTEXT: Troops/125/pages/3/1/Dialogue
+> CONTEXT: Troops/175/pages/2/1/Dialogue
+> CONTEXT: Troops/176/pages/2/1/Dialogue
+> CONTEXT: Troops/177/pages/2/1/Dialogue
+Succubus. 「He will do a lot of work. A man who can fight
+with me and resist this far. There is no such thing. I will
+give a compliment」#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「あら、ちゃんと誘惑攻撃への対策をしてきているのね。
+なかなか、厄介なことをしてくれるじゃない。
+> CONTEXT: Troops/125/pages/4/1/Dialogue
+Succubus. 「Oh well, you are taking proper measures to
+temptation attack properly. It is quite difficult to do
+things that are troublesome.#MTLed
+> END STRING
+
+> BEGIN STRING
+それじゃ、私も久しぶりに
+真面目に戦ってみようかしら」
+> CONTEXT: Troops/125/pages/4/5/Dialogue
+Well then, for the first time in a long time
+I wonder if I try to fight seriously」#MTLed
+> END STRING
+
+> BEGIN STRING
+デスマスター
+> CONTEXT: Troops/127/name/
+Death master#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+> CONTEXT: Troops/128/name/
+> CONTEXT: Enemies/115/name/
+A soldier#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士２
+> CONTEXT: Troops/129/name/
+Soldier 2#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士３人組闘技場
+> CONTEXT: Troops/130/name/
+Female soldier 3 people gym#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+> CONTEXT: Troops/131/name/
+> CONTEXT: Enemies/118/name/
+> CONTEXT: Enemies/119/name/
+Royal guard#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の攻撃のダメージが蓄積し
+ロイヤルガードの鎧が剥げてしまった！
+> CONTEXT: Troops/131/pages/2/3/Dialogue
+\\N[12] The damage of the attack of. The royal guard 's
+armor has scraped!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は勃起してしまった！
+> CONTEXT: Troops/131/pages/2/10/Dialogue
+> CONTEXT: Troops/155/pages/3/16/Dialogue
+> CONTEXT: Troops/157/pages/3/15/Dialogue
+> CONTEXT: Troops/158/pages/3/22/Dialogue
+> CONTEXT: Troops/186/pages/2/22/Dialogue
+\\N[12] I got an erection!#MTLed
+> CONTEXT: Commonevents/156/52/Dialogue
+\\N[12] I got an erection!#MTLed
+> END STRING
+
+> BEGIN STRING
+ロイヤルガード
+「くっ、ここまでやるとは……
+だが、この私を追い詰めたこと、後悔させてくれる！」
+> CONTEXT: Troops/131/pages/2/15/Dialogue
+royal guard. 「What the hell do you do until here ...
+But, I will regret what I have chased this me!」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士３
+> CONTEXT: Troops/132/name/
+Soldier 3#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女イベ
+> CONTEXT: Troops/133/name/
+Yuki Onna Ibe#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女
+「なかなか悪くない腕前だけど……
+その程度なら、私の敵ではないわね。
+さあ、串刺しにしてあげる」
+> CONTEXT: Troops/133/pages/0/0/Dialogue
+Yuki Onna. 「It's hard to be bad ... ... To that extent, it
+is not my enemy. Well, I'll skewer you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「な、なんだ……？」
+> CONTEXT: Troops/133/pages/0/5/Dialogue
+> CONTEXT: Map092/events/1/pages/0/28/Dialogue
+\\N[12]. 「What is it ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女は巨大なつららを宙に浮かべ、
+\\N[12]に向かって放ってきた！
+> CONTEXT: Troops/133/pages/0/8/Dialogue
+Yuki Onna floats huge icicles in the air,
+\\N[12] I came towards you!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、やばい！」
+> CONTEXT: Troops/133/pages/0/11/Dialogue
+\\N[12]. 「Uh, no!」#MTLed
+> END STRING
+
+> BEGIN STRING
+雪女ボス
+> CONTEXT: Troops/134/name/
+Yuki Onna Boss#MTLed
+> END STRING
+
+> BEGIN STRING
+雪山シェリー
+> CONTEXT: Troops/135/name/
+Snowy Mountain#MTLed
+> END STRING
+
+> BEGIN STRING
+スライム軍団２
+> CONTEXT: Troops/137/name/
+Slime army corps 2#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタボム
+> CONTEXT: Troops/139/name/
+Linetta bomb#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタマジバリ
+> CONTEXT: Troops/140/name/
+Linetta Magibali#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタウィンド
+> CONTEXT: Troops/141/name/
+Linetta Wind#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタリジェネ
+> CONTEXT: Troops/142/name/
+Linetta regeneration#MTLed
+> END STRING
+
+> BEGIN STRING
+見習い魔法使い
+> CONTEXT: Troops/143/name/
+> CONTEXT: Enemies/133/name/
+> CONTEXT: Troops/207/name/
+> CONTEXT: Enemies/218/name/
+Apprentice Wizard#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法使い
+> CONTEXT: Troops/144/name/
+Witch#MTLed
+> CONTEXT: Map023/events/73/pages/0/0/Dialogue
+> CONTEXT: Troops/208/name/
+Witch#MTLed
+> END STRING
+
+> BEGIN STRING
+女格闘家
+> CONTEXT: Troops/145/name/
+> CONTEXT: Enemies/135/name/
+Female fighter#MTLed
+> CONTEXT: Map023/events/75/pages/0/0/Dialogue
+> CONTEXT: Troops/206/name/
+> CONTEXT: Enemies/219/name/
+Female fighter#MTLed
+> END STRING
+
+> BEGIN STRING
+魔女
+> CONTEXT: Troops/146/name/
+> CONTEXT: Enemies/136/name/
+Witch#MTLed
+> CONTEXT: Map023/events/74/pages/0/0/Dialogue
+witch#MTLed
+> END STRING
+
+> BEGIN STRING
+闇闘技場女騎士
+> CONTEXT: Troops/147/name/
+Dark Fighter Field Knight#MTLed
+> END STRING
+
+> BEGIN STRING
+闇闘技場女兵士
+> CONTEXT: Troops/148/name/
+Dark fighting field female soldier#MTLed
+> END STRING
+
+> BEGIN STRING
+プリディア
+> CONTEXT: Troops/149/name/
+Predia#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふっ……あなたにはこういうのが効くでしょう。
+そうれっ！」
+> CONTEXT: Troops/149/pages/2/2/Dialogue
+> CONTEXT: Troops/167/pages/2/2/Dialogue
+Diana. 「Pretty ...... It will work for you like this.
+That's it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナは、プリムのスカートをめくり上げた！
+> CONTEXT: Troops/149/pages/2/6/Dialogue
+> CONTEXT: Troops/167/pages/2/6/Dialogue
+Diana turned up Purim's skirt!#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「きゃっ！」
+> CONTEXT: Troops/149/pages/2/9/Dialogue
+> CONTEXT: Troops/167/pages/2/9/Dialogue
+Purim. 「kyaa!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ディアーナちゃんが倒されちゃった……
+あとは、わたしが頑張らなきゃ！」
+> CONTEXT: Troops/149/pages/3/0/Dialogue
+Purim. 「Diana-chan has been defeated ......
+After that, I have to work hard!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士剣
+> CONTEXT: Troops/150/name/
+Female soldier sword#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士
+「何度来ても同じことよ。
+女に敗北する屈辱を再び味わわせてあげるわ！」
+> CONTEXT: Troops/150/pages/2/1/Dialogue
+Female soldier. 「No matter how many times it is the same.
+I will taste the humiliation that defeats a woman again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士槍
+> CONTEXT: Troops/151/name/
+Female soldier spear#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士
+「あら、また来たの？
+何度やっても同じなのに……ふふっ♪」
+> CONTEXT: Troops/151/pages/2/1/Dialogue
+Female soldier. 「Oh, have you come again?
+Whatever you do it is the same ...... Huh?♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士パンチラ剣
+> CONTEXT: Troops/152/name/
+Female soldier panty shot sword#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士
+「ふふっ、あんな無様な負け方をしておいて
+また来たんだ。
+私のパンツが忘れられなかったのかなぁ？」
+> CONTEXT: Troops/152/pages/2/2/Dialogue
+> CONTEXT: Troops/174/pages/2/2/Dialogue
+> CONTEXT: Troops/182/pages/2/2/Dialogue
+Female soldier. 「Huh, let me know how to defeat such an
+unsightly way. I came again. I wonder if my panties could
+not be forgotten?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士２
+> CONTEXT: Troops/153/name/
+Female soldier 2#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士
+「何度来ても同じことよ。
+私たち王国軍兵士の前に
+屈服するといいわ！」
+> CONTEXT: Troops/153/pages/2/1/Dialogue
+Female soldier. 「No matter how many times it is the same.
+Before our kingdom soldiers. You should yield him!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士三人組
+> CONTEXT: Troops/154/name/
+Female soldier threesome#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士ラナの気配が変わった――
+> CONTEXT: Troops/154/pages/2/10/Dialogue
+The female soldier 's signature changed -#MTLed
+> END STRING
+
+> BEGIN STRING
+ルフティナ
+> CONTEXT: Troops/155/name/
+Luftina#MTLed
+> END STRING
+
+> BEGIN STRING
+ルフティナ
+「あら、その邪悪な気配のする剣はなにかしら？
+そんなものを持っているなんて、いけない子ね……
+わたくしの聖なる力で、お仕置きしてあげます」
+> CONTEXT: Troops/155/pages/0/1/Dialogue
+> CONTEXT: Troops/157/pages/0/1/Dialogue
+> CONTEXT: Troops/158/pages/0/1/Dialogue
+Luftina. 「Oh, what is the sword that is wicked?
+It is impossible for you to have such a thing ......
+I will punish you with my holy power」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルフティナ
+「きゃああっ！」
+> CONTEXT: Troops/155/pages/3/5/Dialogue
+> CONTEXT: Troops/157/pages/3/5/Dialogue
+Luftina. 「Kaha ah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+デスソードに宿った暗黒の力が
+ルフティナの聖なる衣を剥ぎ取った！
+> CONTEXT: Troops/155/pages/3/8/Dialogue
+> CONTEXT: Troops/157/pages/3/8/Dialogue
+The power of the darkness that lived in the descendants
+I pulled away the sacred clothes of Luftina!#MTLed
+> END STRING
+
+> BEGIN STRING
+女王ルフティナ
+「わたくしの聖なる衣を破いてしまうとは……
+このような辱め、我慢がなりません。
+少し、本気を出してあげる必要がありそうですね」
+> CONTEXT: Troops/155/pages/3/21/Dialogue
+> CONTEXT: Troops/157/pages/3/20/Dialogue
+Queen Luftina. 「To break my sacred clothes ...
+Such humiliation, I can not stand it. It seems necessary to
+give serious a little」#MTLed
+> END STRING
+
+> BEGIN STRING
+ルフティナ
+「なかなかやりますね、剣士\\N[12]。
+ここまでわたくしを苦しめるとは、さすがです。
+> CONTEXT: Troops/155/pages/3/28/Dialogue
+> CONTEXT: Troops/157/pages/3/27/Dialogue
+Luftina. 「It's quite easy, swordsman \\N[12] .
+It is truly a bad thing to me so far.#MTLed
+> END STRING
+
+> BEGIN STRING
+が、この程度では
+わたくしもまだまだ負けはしませんよ。
+見事このわたくしを打ち倒してみせなさい」
+> CONTEXT: Troops/155/pages/3/32/Dialogue
+> CONTEXT: Troops/157/pages/3/31/Dialogue
+However, in this degree. I will not lose either.
+Be brilliantly overwhelmed with this me」#MTLed
+> END STRING
+
+> BEGIN STRING
+ここから回想用
+> CONTEXT: Troops/160/name/
+From here for reminiscence#MTLed
+> END STRING
+
+> BEGIN STRING
+パンチラキック
+> CONTEXT: Troops/161/name/
+> CONTEXT: Skills/153/name/
+> CONTEXT: Skills/171/name/
+> CONTEXT: Skills/196/name/
+> CONTEXT: Skills/199/name/
+> CONTEXT: Skills/320/name/
+Panty shot kick#MTLed
+> END STRING
+
+> BEGIN STRING
+金的
+> CONTEXT: Troops/162/name/
+> CONTEXT: Skills/276/name/
+Golden#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリヒップアタック
+> CONTEXT: Troops/163/name/
+Lolita Hip Attack#MTLed
+> END STRING
+
+> BEGIN STRING
+ロリ金的ヒップ
+> CONTEXT: Troops/164/name/
+Lori Golden Hip#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシ投げキッス
+> CONTEXT: Troops/165/name/
+Sexy Throwing Kiss#MTLed
+> END STRING
+
+> BEGIN STRING
+セクシ胸押し付け
+> CONTEXT: Troops/166/name/
+Sexual chest pressing#MTLed
+> END STRING
+
+> BEGIN STRING
+プリディアパンチラのみ
+> CONTEXT: Troops/167/name/
+Predia panty shot only#MTLed
+> END STRING
+
+> BEGIN STRING
+三人組コンビネーションのみ
+> CONTEXT: Troops/168/name/
+Three person combination only only#MTLed
+> END STRING
+
+> BEGIN STRING
+大会三人組コンビネのみ
+> CONTEXT: Troops/169/name/
+Only tournament threesome combination#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルおっぱい押し付けのみ
+> CONTEXT: Troops/170/name/
+Bell boobs only pressing#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルおっぱいアタックのみ
+> CONTEXT: Troops/171/name/
+Bell Boob Attack only#MTLed
+> END STRING
+
+> BEGIN STRING
+大会ベルベットおっぱい
+> CONTEXT: Troops/172/name/
+Tournament velvet tits#MTLed
+> END STRING
+
+> BEGIN STRING
+大会ベルベット尻
+> CONTEXT: Troops/173/name/
+Tournament velvet butt#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士パンチラのみ
+> CONTEXT: Troops/174/name/
+Female soldier panty shot only#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュチャームのみ
+> CONTEXT: Troops/175/name/
+Saku charm only#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバスキスのみ
+> CONTEXT: Troops/176/name/
+Succubus kiss only#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュキスホールドのみ
+> CONTEXT: Troops/177/name/
+Succu kiss hold only#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーヒップのみ
+> CONTEXT: Troops/178/name/
+Bunny hip only#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーキスのみ
+> CONTEXT: Troops/179/name/
+Bunny kiss only#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーおっぱいのみ
+> CONTEXT: Troops/180/name/
+Bunny boobs only#MTLed
+> END STRING
+
+> BEGIN STRING
+バニー太もものみ
+> CONTEXT: Troops/181/name/
+Bunny thigh only#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士金的のみ
+> CONTEXT: Troops/182/name/
+Female soldier money only#MTLed
+> END STRING
+
+> BEGIN STRING
+ルゼット
+「あら、私の体術が効いちゃっているみたいね。
+もっと頑張って、\\N[12]君。
+剣士が主婦に負けちゃうなんて、恥ずかしいわよ？」
+> CONTEXT: Troops/41/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「おやおやぁ？
+どうして股間が大きくなっちゃってるのかなぁ、ボク？」
+> CONTEXT: Troops/42/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/198/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「おねーさんの美貌にくらくらきちゃったかな？
+ふふっ、これは勝負は見えちゃったかなー
+えっちな男の子は、魔法で華麗にやっつけてあげる♪」
+> CONTEXT: Troops/42/pages/2/11/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/198/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「うっ、なかなかやるじゃない。
+でも、お姉さんもまだまだ負けないからねっ！」
+> CONTEXT: Troops/42/pages/3/0/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/198/pages/3/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソードシーフ
+「ふっ、剣士のくせにその程度の腕前なのかい？
+このまま、あたしの前に這いつくばらせてやるよ！」
+> CONTEXT: Troops/45/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/194/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリーカ
+「ふっ、やはり私の聖なる剣の前では
+なすすべがないようだな！
+かわいそうだが、お前はこの私に敗れる運命なのだ！」
+> CONTEXT: Troops/51/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/205/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あ、キミ、勃起しちゃってるじゃない。
+私を前にしてえっちな気持ちになっちゃったんだ、
+まあ、無理もないけどさぁ」
+> CONTEXT: Troops/55/pages/2/5/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/200/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そんな状態で、私の大剣を避けられるかな？
+戦いの最中にえっちなことを考えちゃったこと、
+たっぷり後悔させてあげるっ！」
+> CONTEXT: Troops/55/pages/2/13/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/200/pages/2/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「効いてるのかな？
+このまま勝たせてもらうね、おにいさんっ！」
+> CONTEXT: Troops/58/pages/3/0/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/191/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ん？　どうして股間が大きくなっているのかしら？
+私は何も性的なことはしていないのに」
+> CONTEXT: Troops/59/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……いや、これはっ」
+> CONTEXT: Troops/59/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふっ、この私の美貌を前にして
+興奮してしまったのかしら？
+ま、庶民が私を前にしては、無理もないことだけど。
+> CONTEXT: Troops/59/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういうことなら、
+この私の高貴な美しさを
+もっとしっかり目に焼き付けておくといいわ」
+> CONTEXT: Troops/59/pages/2/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ふふっ、だいぶ弱ってきたみたいだね。
+やっぱり、私の剣をさばくことはできないみたいだし
+このまま、また勝たせてもらうからねっ！」
+> CONTEXT: Troops/64/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/65/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/202/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/203/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アマゾネス
+「ふっ、パワーの差が歴然だな。
+このまま女の腕にねじ伏せられてみるか？
+男ならば、少しは意地を見せてみろ」
+> CONTEXT: Troops/96/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/195/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルフティナ改良
+> CONTEXT: Troops/157/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルフティナテスト
+> CONTEXT: Troops/158/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]は女王ルフティナの裸を目にして
+興奮を高めてしまう――
+> CONTEXT: Troops/158/pages/3/3/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/186/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]の性感度が3上がった！
+> CONTEXT: Troops/158/pages/3/14/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/186/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]の性感度が2上がった！
+> CONTEXT: Troops/158/pages/3/27/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/186/pages/2/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神に5のダメージ！
+> CONTEXT: Troops/158/pages/3/32/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/186/pages/2/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム跳び上がりのみ
+> CONTEXT: Troops/183/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大会ディアーナ胸
+> CONTEXT: Troops/184/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大会ディアーナ尻
+> CONTEXT: Troops/185/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルフティナ胸
+> CONTEXT: Troops/186/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+> CONTEXT: Troops/188/name/ < UNTRANSLATED
+> CONTEXT: Enemies/209/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「どう？　指一本動かせないでしょう？
+今のあなたは私の操り人形……
+さあ、私を見上げながらオナニーをしなさい♪」
+> CONTEXT: Troops/188/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、手が勝手に……
+や、やめろおおぉっ！」
+> CONTEXT: Troops/188/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[12]はオナニーしたい衝動が抑えられない……
+可憐なデビルウィッチの姿を見上げながら、
+自分のペニスを手でしごきあげる！
+> CONTEXT: Troops/188/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「あら、もう弱ってしまったの？
+この程度で私たち魔族に挑みかかってくるだなんて
+身の程知らずにほ程があるわね、クスクス……♪」
+> CONTEXT: Troops/188/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダークウィッチ
+> CONTEXT: Troops/189/name/ < UNTRANSLATED
+> CONTEXT: Enemies/211/name/ < UNTRANSLATED
+> CONTEXT: Enemies/216/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダークウィッチ
+「あら、リベンジに来たのね。
+私の美しさに敗れたのが、よほど悔しかったのかしら？
+それとも……また魅了されに来たの？　うふふっ♪」
+> CONTEXT: Troops/189/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダークウィッチ
+「もう虫の息のようですわね。
+しょせん、あなたのような男に
+この私の暗黒魔法を打ち破れるわけがありませんわ」
+> CONTEXT: Troops/189/pages/3/0/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/197/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダークウィッチ
+「なかなか悪くない腕前ですわね。
+まあ、最後に勝つのはこの私ですけれど」
+> CONTEXT: Troops/189/pages/4/0/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/197/pages/3/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+王都稽古ジェーン
+> CONTEXT: Troops/190/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+稽古プリム
+> CONTEXT: Troops/191/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+↓ここから闇闘技場
+> CONTEXT: Troops/193/name/ < UNTRANSLATED
+> CONTEXT: Enemies/212/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+「ふっ、勃起しちゃってるじゃない。
+戦っている最中に、そんなことでいいのかしら？
+エッチな坊や♪」
+> CONTEXT: Troops/196/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イビルウィッチ
+「私の自慢のお尻に見とれちゃったかしら？
+ま、私には都合がいいけれど、
+そんなことじゃ取り返しのつかないことになるわよ～？」
+> CONTEXT: Troops/196/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闇闘技場ダークウィッチ
+> CONTEXT: Troops/197/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダークウィッチ
+「あら、勃起してしまっているようね」
+> CONTEXT: Troops/197/pages/4/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダークウィッチ
+「まあ当然ですわよね。
+この美しい私と相対しているのだもの。
+男ならば性的な興奮を覚えるのが自然なことですわ
+> CONTEXT: Troops/197/pages/4/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、戦いの最中にそんなことになっていて
+果たしてまともに戦えるのかしら？
+ふふっ……♪」
+> CONTEXT: Troops/197/pages/4/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「あ、おにいさん股間が大きくなってる……
+まったくもう、
+わたしを相手に変なこと考えてるなんて、変態だね」
+> CONTEXT: Troops/199/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「いけないおにいさんには、お仕置きしてあげなきゃね。
+この勝負、絶対に勝たせてもらうからね、
+おにいさんっ！」
+> CONTEXT: Troops/199/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベルベット
+「ふっ、どうやら弱ってきたようだね。
+今日はあたしが勝たせてもらうよ、坊や！」
+> CONTEXT: Troops/201/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シェリー聖剣Ver
+> CONTEXT: Troops/203/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女兵士
+「そろそろ私の剣が効いてきたみたいね。
+野良の剣士が王国軍兵士に太刀打ちしようなんて
+身の程知らずだってこと、たっぷり思い知らせてあげるわ」
+> CONTEXT: Troops/204/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女格闘家
+「その程度なのかしら？
+なら、賭け金は私がいただくわよ！
+女の拳に敗北する屈辱、たっぷり味わいなさい！」
+> CONTEXT: Troops/206/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見習い魔法使い
+「私の魔法が効いているのでしょうか……
+ならば、このまま勝たせていただきます」
+> CONTEXT: Troops/207/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見習い魔法使い
+「ふふ、どうやら勃起してしまっているみたいですね。
+私の魅了魔法で、ドキドキしてしまいましたか？」
+> CONTEXT: Troops/207/pages/3/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見習い魔法使い
+「私のような年下の女に性的な興奮を覚えるなんて、
+浅ましい人ですね。
+でも、こんな人なら私でも勝てるかも」
+> CONTEXT: Troops/207/pages/3/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法使い
+「どうやら弱ってきたみたいね。
+私の魔法の前じゃ、いくら体を鍛えても意味ないわよ。
+このまま近づかせずに嫐り倒してあげる♪」
+> CONTEXT: Troops/208/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闇闘技場バニー
+> CONTEXT: Troops/209/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闇闘技場プリム弱いVer
+> CONTEXT: Troops/210/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリム
+「効いてるのかな？
+このまま勝たせてもらいますね、おにいさんっ！」
+> CONTEXT: Troops/210/pages/3/0/Dialogue < UNTRANSLATED
+
+> END STRING

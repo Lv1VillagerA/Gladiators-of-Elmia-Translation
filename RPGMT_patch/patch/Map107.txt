@@ -1,0 +1,7 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+バリアリングⅠを手に入れた！
+> CONTEXT: Map107/events/1/pages/0/9/Dialogue
+> CONTEXT: Map097/events/12/pages/0/9/Dialogue
+I got barrier ring Ⅰ!#MTLed
+> END STRING

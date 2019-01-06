@@ -1,0 +1,896 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+道具屋
+> CONTEXT: Map094/display_name/
+Tool store#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「道具がご入用ですかな？
+うちは専門店だし、
+品揃えは東区の店より自信があるよ」
+> CONTEXT: Map094/events/1/pages/0/0/Dialogue
+> CONTEXT: Map094/events/1/pages/1/0/Dialogue
+old man. 「Do you need tools? I am a specialty store,
+The assortment is more confident than the store in Higashi
+Ward」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「すみません、ギルドの張り紙を見たんですが……
+依頼の件について、話をさせてもらっても
+いいっすかね？」
+> CONTEXT: Map094/events/1/pages/1/5/Dialogue
+> CONTEXT: Map094/events/4/pages/1/3/Dialogue
+\\N[12]. 「I'm sorry, I saw the guild's poster ......
+Even if you talk about the matter of the request
+Are you sure?」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「おお、その件についてですか。
+では、隣にいる娘のほうに話していただけますかな、
+詳しいことはそちらでお願いいたします」
+> CONTEXT: Map094/events/1/pages/1/10/Dialogue
+old man. 「Oh, about that matter? Well, could you talk to
+the daughter next door, For further details please do that.
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「申し訳ない、私は手が離せませんのでな。
+任務についての詳しい話は娘から聞いてくだされ。
+それとも、道具がご入用ですかな？」
+> CONTEXT: Map094/events/1/pages/2/0/Dialogue
+old man. 「I am sorry, I can not take my hand.
+Ask your daughter about detailed duties.
+Or do you need tools?」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「道具がご入用ですかな？
+依頼をこなしてもらったから、
+品揃えが増えているよ」
+> CONTEXT: Map094/events/1/pages/3/0/Dialogue
+old man. 「Do you need tools? Because I had my request done,
+The assortment is increasing」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「道具がご入用ですかな？
+依頼をこなしてもらったから、
+品揃えは最高に充実しているよ」
+> CONTEXT: Map094/events/1/pages/4/0/Dialogue
+old man. 「Do you need tools? Because I had my request done,
+The assortment is fulfilling to the fullest」#MTLed
+> END STRING
+
+> BEGIN STRING
+女性
+「このお店があるから中央区も不便がなくて助かるわ。
+いちいち買い物のたびに東区に行くのは面倒だもの」
+> CONTEXT: Map094/events/2/pages/0/0/Dialogue
+Woman. 「Because there is this shop, Chuo-ku also has no
+inconvenience and it will be saved. It is troublesome to go
+to Higashi Ward every time you shop」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「いらっしゃいませー！」
+> CONTEXT: Map094/events/4/pages/0/4/Dialogue
+girl. 「welcome!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「いらっしゃいませー」
+> CONTEXT: Map094/events/4/pages/1/0/Dialogue
+> CONTEXT: Map094/events/4/pages/4/0/Dialogue
+girl. 「welcome」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「あ、ギルドの人ね、待ってたよー。
+それじゃさっそく、依頼の詳しい内容について
+お話するね」
+> CONTEXT: Map094/events/4/pages/1/8/Dialogue
+girl. 「Oh, guild guy, I was waiting. Well then, on the
+details of the request. I will tell you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんでも、魔物の体の一部を集めてきてほしいとか」
+> CONTEXT: Map094/events/4/pages/1/13/Dialogue
+\\N[12]. 「Anything, you want me to collect some of the
+body of monster」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「うん、そうなの。
+道具の材料として魔物の体を使うことがあるんだけど
+今の時期は集まりが悪くて、困っててね」
+> CONTEXT: Map094/events/4/pages/1/16/Dialogue
+girl. 「Yes, that's right. I use monster's body as a tool
+material. We are having trouble getting together at the
+current time, are not you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まあ武道大会があるし、
+それどころじゃないって人が多いでしょうからね……
+で、どんな物を集めてくればいいんです？」
+> CONTEXT: Map094/events/4/pages/1/21/Dialogue
+\\N[12]. 「Well there is a martial arts tournament,
+Because there are many people saying that it is not so far
+... So what kind of things should I collect?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「\\C[2]スライムゼリー\\C[0]を5個、
+\\C[2]妖精の羽\\C[0]を3個、\\C[2]ゴブリンの角\\C[0]を2個、
+それと\\C[2]アルラウネの葉\\C[0]を1個。
+> CONTEXT: Map094/events/4/pages/1/26/Dialogue
+girl. 「\\C[2]slime jelly\\C[0] 5, \\C[2]Fairy wings\\C[0] Three,\\C[2] The corner of the
+goblin\\C[0] Two, With it\\C[2] Ala Leaves\\C[0] One.#MTLed
+> END STRING
+
+> BEGIN STRING
+それぞれスライム、フェアリー、ゴブリン、アルラウネを
+倒したら落とすことがあるよ。
+> CONTEXT: Map094/events/4/pages/1/31/Dialogue
+Slime, Fairy, Goblin, alraune respectively
+Sometimes you drop it if you kill it.#MTLed
+> END STRING
+
+> BEGIN STRING
+魔物と戦うのは大変だろうけど、だからこそギルドにお願いするの。
+期間は設定しないけど、
+なるべく早くしてくれると助かるなー
+どうか、よろしくお願いね」
+> CONTEXT: Map094/events/4/pages/1/34/Dialogue
+It will be hard to fight the monster, that's why I ask the
+guild. I do not set the period, I will be saved if you do
+it as soon as possible. Please, thank you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「分かりました、必ず」
+> CONTEXT: Map094/events/4/pages/1/39/Dialogue
+\\N[12]. 「I understand.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「首尾よく集めてくれたら、
+特別報酬も用意してるから頑張って。
+わからないことがあれば気軽に聞いてね」
+> CONTEXT: Map094/events/4/pages/1/42/Dialogue
+girl. 「If you collect it successfully, I am preparing
+special remuneration, so try hard. If you have something
+you do not know, feel free to ask them」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ありがとう、これで全部集まったわね。
+いやー、こんな色々と注文したのに
+しっかり集めてきてくれるなんて、本当にありがたいよぉ」
+> CONTEXT: Map094/events/4/pages/2/3/Dialogue
+girl. 「Thank you, everything got together.
+Well, I ordered this kind of things. It is truly
+appreciated that you will collect it securely」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「喜んでもらえて何よりっす。
+じゃあ、これで依頼は終了ですかね」
+> CONTEXT: Map094/events/4/pages/2/8/Dialogue
+\\N[12]. 「I am glad that you are the best.
+Well, this is the end of the request」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「うん。
+そんでもって、特別報酬としてこれをあげるね」
+> CONTEXT: Map094/events/4/pages/2/12/Dialogue
+girl. 「Yup. So I will give this as a special reward」#MTLed
+> END STRING
+
+> BEGIN STRING
+フェイスマスクを受け取った！
+> CONTEXT: Map094/events/4/pages/2/17/Dialogue
+I received a face mask!#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ちょっと前が見えにくくなるけど、
+霧とか花粉みたいな攻撃を防いでくれる優れ物だよ。
+森に本格的に入るときは、持っていくと役に立つよー」
+> CONTEXT: Map094/events/4/pages/2/20/Dialogue
+girl. 「It will be hard to see a while ago,
+It is a superior thing that will prevent attack like mist
+and pollen. When entering the forest seriously, it will be
+useful if you bring it in」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へえ……ありがとうございます、
+そういう機会があったら使ってみますよ」
+> CONTEXT: Map094/events/4/pages/2/25/Dialogue
+\\N[12]. 「Oh ... Thank you very much, I will try using
+those opportunities」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ホントにありがとね。
+金銭報酬のほうは、ギルドで受け取ってね」
+> CONTEXT: Map094/events/4/pages/2/29/Dialogue
+girl. 「Really thank you. Please receive the monetary
+compensation in the guild」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「なにか質問はある？」
+> CONTEXT: Map094/events/4/pages/2/41/Dialogue
+> CONTEXT: Map094/events/4/pages/5/57/Dialogue
+girl. 「Are there any questions?」#MTLed
+> END STRING
+
+> BEGIN STRING
+集める物の確認
+> CONTEXT: Map094/events/4/pages/2/44/Choice/0
+> CONTEXT: Map094/events/4/pages/5/60/Choice/0
+Confirmation of items to collect#MTLed
+> END STRING
+
+> BEGIN STRING
+アイテムを落とす魔物は？
+> CONTEXT: Map094/events/4/pages/2/44/Choice/1
+Is there a monster dropping items?#MTLed
+> END STRING
+
+> BEGIN STRING
+アイテムを渡す
+> CONTEXT: Map094/events/4/pages/2/44/Choice/2
+> CONTEXT: Map094/events/4/pages/5/60/Choice/2
+Pass items#MTLed
+> END STRING
+
+> BEGIN STRING
+特にない
+> CONTEXT: Map094/events/4/pages/2/44/Choice/3
+> CONTEXT: Map094/events/4/pages/5/60/Choice/3
+> CONTEXT: Map037/events/3/pages/3/373/Choice/2
+Not particularly#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「\\C[2]スライムゼリー\\C[0]を5個、
+\\C[2]妖精の羽\\C[0]を3個、\\C[2]ゴブリンの角\\C[0]を2個、
+それと\\C[2]アルラウネの葉\\C[0]を1個だよー」
+> CONTEXT: Map094/events/4/pages/2/46/Dialogue
+girl. 「\\C[2]slime jelly\\C[0] 5, \\C[2]Fairy wings\\C[0] Three,\\C[2] The corner of the
+goblin\\C[0] Two, With it\\C[2] Ala Leaves\\C[0] I'm one.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「スライムとフェアリーは、街道沿いに現れるよ。
+フェアリーは複数体いると男の人には危険だから気をつけて。
+ゴブリンとアルラウネは、南西の森にいると思うよ」
+> CONTEXT: Map094/events/4/pages/2/53/Dialogue
+girl. 「Slime and fairy will appear along the highway.
+Fairey is dangerous for men when there are multiple bodies
+so take care. I think goblins and alraune are in the forest
+in the southwest」#MTLed
+> END STRING
+
+> BEGIN STRING
+スライムゼリーif(s[205])
+> CONTEXT: Map094/events/4/pages/2/60/Choice/0
+slime jellyif(s[205])#MTLed
+> END STRING
+
+> BEGIN STRING
+妖精の羽if(s[206])
+> CONTEXT: Map094/events/4/pages/2/60/Choice/1
+Fairy wingsif(s[206])#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリンの角if(s[207])
+> CONTEXT: Map094/events/4/pages/2/60/Choice/2
+The corner of the goblinif(s[207])#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「スライムゼリーはもう貰ってるよ、
+ありがとね」
+> CONTEXT: Map094/events/4/pages/2/63/Dialogue
+girl. 「slime jelly is getting it already,
+Thanks dear」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「スライムゼリーを集めてくれたのね？
+ありがとう！」
+> CONTEXT: Map094/events/4/pages/2/71/Dialogue
+girl. 「You gathered slime jelly, did not you?
+Thank you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+スライムゼリー5個を渡した。
+> CONTEXT: Map094/events/4/pages/2/75/Dialogue
+I handed 5 slime jelly.#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「まだ集まってないみたいね。
+集める数は5個だから、よろしくね」
+> CONTEXT: Map094/events/4/pages/2/83/Dialogue
+girl. 「It looks like they have not gathered yet.
+I'm collecting 5 pieces, so please be patient.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「妖精の羽はもう貰ってるよ、
+ありがとね」
+> CONTEXT: Map094/events/4/pages/2/94/Dialogue
+girl. 「I already have fairy feathers, Thanks dear」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「妖精の羽を集めてくれたのね？
+ありがとう、男の人にとっては結構厄介でしょ、
+フェアリーって」
+> CONTEXT: Map094/events/4/pages/2/102/Dialogue
+girl. 「You gathered fairy feathers, did not you?
+Thank you, it's quite troubling for men,
+Fairy is called」#MTLed
+> END STRING
+
+> BEGIN STRING
+妖精の羽 3個を渡した。
+> CONTEXT: Map094/events/4/pages/2/107/Dialogue
+I handed out three fairy feathers.#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「まだ集まってないみたいね。
+集める数は3個だから、よろしくね」
+> CONTEXT: Map094/events/4/pages/2/115/Dialogue
+> CONTEXT: Map094/events/4/pages/5/99/Dialogue
+> CONTEXT: Map094/events/4/pages/5/130/Dialogue
+> CONTEXT: Map094/events/4/pages/5/162/Dialogue
+girl. 「It looks like they have not gathered yet.
+As the number we collect is 3, so please be patient.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ゴブリンの角はもう貰ってるよ、
+ありがとね」
+> CONTEXT: Map094/events/4/pages/2/126/Dialogue
+girl. 「I already have the horn of the goblin,
+Thanks dear」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ゴブリンの角を集めてくれたのね、ありがとう。
+いつも群れで現れるから結構厄介なのよねー、
+ゴブリンって」
+> CONTEXT: Map094/events/4/pages/2/134/Dialogue
+girl. 「You gathered the horn of the goblin, thank you.
+It always looks like a flock so it's pretty annoying,
+Goblin」#MTLed
+> END STRING
+
+> BEGIN STRING
+ゴブリンの角 2個を渡した。
+> CONTEXT: Map094/events/4/pages/2/139/Dialogue
+I gave two corners of the goblin.#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「まだ集まってないみたいね。
+集める数は2個だから、よろしくね」
+> CONTEXT: Map094/events/4/pages/2/147/Dialogue
+girl. 「It looks like they have not gathered yet.
+I'm collecting 2, so please be patient.」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネの葉if(s[208])
+> CONTEXT: Map094/events/4/pages/2/157/Choice/0
+Ala Leavesif(s[208])#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「アルラウネの葉はもう貰ってるよ、
+ありがとね」
+> CONTEXT: Map094/events/4/pages/2/160/Dialogue
+girl. 「I already have leaves of alraune,
+Thanks dear」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「アルラウネの葉を持ってきてくれたのね、ご苦労さま。
+アルラウネは手ごわかったでしょう」
+> CONTEXT: Map094/events/4/pages/2/168/Dialogue
+girl. 「Brought me the leaves of alraune, I have trouble.
+alraune would have been awesome」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネの葉を 1個渡した。
+> CONTEXT: Map094/events/4/pages/2/172/Dialogue
+I handed out one leaf of alraune.#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「まだ拾えていないみたいね。
+アルラウネは南西の森にいるけど、
+かなり手強い魔物だから気をつけてね」
+> CONTEXT: Map094/events/4/pages/2/180/Dialogue
+girl. 「I do not seem to have picked it up yet.
+alraune is in the southwest forest, It's quite a strong
+monster so be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ギルドの人なら大丈夫だとは思うけど、
+魔物にやられたりしちゃわないように気をつけてね。
+他はともかく、アルラウネは手強いから」
+> CONTEXT: Map094/events/4/pages/2/191/Dialogue
+girl. 「I think that it is all right for a guild person,
+Be careful not to let your monster do it.
+In any case, alraune is tough」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「素材を集めてくれてありがとね。
+おかげで質の高い薬を提供できるようになったよ、
+また何かあったらお願いね」
+> CONTEXT: Map094/events/4/pages/3/0/Dialogue
+girl. 「Thank you for gathering the materials.
+Thanks to that I can offer high quality medicine,
+If there is something again please do me a favor」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「すみません、新しい依頼が来ていたので
+また受けに来ましたー」
+> CONTEXT: Map094/events/4/pages/4/3/Dialogue
+\\N[12]. 「Sorry, since a new request has come
+I came again.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「あ、また来てくれたのね、ありがとー！
+それじゃさっそく、依頼の詳しい内容について
+お話するね」
+> CONTEXT: Map094/events/4/pages/4/7/Dialogue
+girl. 「Oh, you came again, thank you! Well then, on the
+details of the request. I will tell you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「また魔物の体の一部を集めてくればいいんですか？」
+> CONTEXT: Map094/events/4/pages/4/12/Dialogue
+\\N[12]. 「Also, should I collect some of the monster's
+body?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「そうそう。
+でも、今度はこの前よりもいい素材が欲しいから、
+その分、強い魔物を狩ってもらうことになるよ？」
+> CONTEXT: Map094/events/4/pages/4/15/Dialogue
+girl. 「Yes Yes. But this time I want a better material
+than before, That's it, will you be hunting a strong
+monster?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「大丈夫です、任せてください。
+それで、何を集めてくればいいんですか？」
+> CONTEXT: Map094/events/4/pages/4/20/Dialogue
+\\N[12]. 「I am okay, please leave it to me.
+So, what should I collect?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「\\C[2]サハギンの鱗\\C[0]を3個、
+\\C[2]人狼の爪\\C[0]を3個、\\C[2]冷たい髪\\C[0]を3個、
+それと\\C[2]妖精の赤髪\\C[0]を2個。
+> CONTEXT: Map094/events/4/pages/4/24/Dialogue
+girl. 「\\C[2]Scale of Sahuagin\\C[0] Three,
+\\C[2]Human wolf nail\\C[0] Three,\\C[2] Cold hair\\C[0] Three,
+With it\\C[2] Fairy red hair\\C[0] Two.#MTLed
+> END STRING
+
+> BEGIN STRING
+それぞれサハギン、ウェアウルフ、
+雪娘、ブラッドフェアリーを倒したら
+落とすことがあるよ。
+> CONTEXT: Map094/events/4/pages/4/29/Dialogue
+Sahuagin, werewolf, If you defeat Yuki Musume, blood fairy
+There are things to drop.#MTLed
+> END STRING
+
+> BEGIN STRING
+今回は、対象の魔物が強いし時間がかかると思うの。
+気長に待ってるから、
+くれぐれも、無理せずに頑張ってね」
+> CONTEXT: Map094/events/4/pages/4/33/Dialogue
+I think the target monster is strong and time consuming
+this time. I am waiting patiently, Do not forcibly do your
+best.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そんなに今回の狩り対象は強い魔物なんですか……
+でも、必ずこなしてみせますよ」
+> CONTEXT: Map094/events/4/pages/4/37/Dialogue
+\\N[12]. 「Is there such a strong monster that I hunt so
+much ...... But I'll show you what I can do」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「集めてくれたら、
+今回はとっておきの特別報酬を用意しているわ。
+わからないことがあれば気軽に聞いてね」
+> CONTEXT: Map094/events/4/pages/4/41/Dialogue
+girl. 「If you collect it, This time I have prepared every
+special remuneration. If you have something you do not
+know, feel free to ask them」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ありがとう、これで全部集まったわね。
+魔物、強かったでしょ？
+キミって腕が立つんだねー」
+> CONTEXT: Map094/events/4/pages/5/3/Dialogue
+girl. 「Thank you, everything got together.
+monster, was it strong? You got your arms standing up」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「いやあ、このくらい何てことないっす。
+これで依頼は終了ですかね」
+> CONTEXT: Map094/events/4/pages/5/8/Dialogue
+\\N[12]. 「Oh no, this is nothing. Is this the end of
+the request?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「うん、本当にありがとう。
+じゃ、今回の特別報酬はこれ」
+> CONTEXT: Map094/events/4/pages/5/12/Dialogue
+girl. 「Yes, really thank you. Well, this special payment
+is this」#MTLed
+> END STRING
+
+> BEGIN STRING
+魔剣の柄を受け取った。
+> CONTEXT: Map094/events/4/pages/5/18/Dialogue
+I received the handle of a magical sword.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「これは……剣の柄、ですか？」
+> CONTEXT: Map094/events/4/pages/5/20/Dialogue
+\\N[12]. 「This ... ... is the pattern of the sword?」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「うん、でもただの柄じゃないよー
+これは伝説級の聖剣の柄なんだよ。
+刀身は失われちゃってるけど、柄だけでも凄い力を秘めてるの」
+> CONTEXT: Map094/events/4/pages/5/23/Dialogue
+girl. 「Yes, but I'm not just a handle. This is a handle of
+a legendary holy sword. The blade has been lost, but only
+the handle has a tremendous power」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「へえ……」
+> CONTEXT: Map094/events/4/pages/5/28/Dialogue
+> CONTEXT: Map053/events/10/pages/0/51/Dialogue
+\\N[12]. 「Oh」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「キミって剣士でしょ？　なら、いつか役に立つよ。
+\\C[2]魔族や死霊を打ち払うような剣\\C[0]を手に入れたとき、
+この柄と合成すると、すごい聖剣になると思うよ。
+> CONTEXT: Map094/events/4/pages/5/31/Dialogue
+girl. 「You are a fencer, are not you? Then it will be
+useful someday. \\C[2]A sword that will strike a demon or evil
+spirit\\C[0] When I got it, Combining with this pattern, I think
+it will be a great holy sword.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちなみに、このアイテムを使っての合成は
+\\C[2]マルワイクよりストレイン武具店を頼ったほうがいい\\C[0]と思うから
+覚えておくといいよ」
+> CONTEXT: Map094/events/4/pages/5/36/Dialogue
+By the way, the synthesis using this item
+\\C[2]Marvaick should depend on Strein Armor Shop store\\C[0] Because I
+think. You should remember it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど、では貰っておきます。
+ありがとうございます、貴重なものを」
+> CONTEXT: Map094/events/4/pages/5/40/Dialogue
+\\N[12]. 「Indeed I will get it. Thank you, valuable
+stuff」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「こちらこそ、本当にありがとうね。
+金銭報酬の方は、前と同様に
+ギルドの方で受け取ってね」
+> CONTEXT: Map094/events/4/pages/5/44/Dialogue
+girl. 「Thank you very much. As for money payers, as before
+Please receive by the guild」#MTLed
+> END STRING
+
+> BEGIN STRING
+アイテムを落とす魔物はどこに？
+> CONTEXT: Map094/events/4/pages/5/60/Choice/1
+Where is monster dropping items?#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「\\C[2]サハギンの鱗\\C[0]を3個、
+\\C[2]人狼の爪\\C[0]を3個、\\C[2]冷たい髪\\C[0]を3個、
+それと\\C[2]妖精の赤髪\\C[0]を2個だよー」
+> CONTEXT: Map094/events/4/pages/5/62/Dialogue
+girl. 「\\C[2]Scale of Sahuagin\\C[0] Three,
+\\C[2]Human wolf nail\\C[0] Three,\\C[2] Cold hair\\C[0] Three,
+With it\\C[2] Fairy red hair\\C[0] I'm two」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「ウェアウルフと雪娘は、北のディラント高原に現れるわ。
+サハギンは、海岸のあたりで目撃例があるらしいわね。
+ブラッドフェアリーは森の奥の方にいるらしいわ」
+> CONTEXT: Map094/events/4/pages/5/69/Dialogue
+girl. 「Werewolf and Yuki Musume will appear in the North
+Dirant plateau. Sahuagin seems to have witnesses around the
+coast. Blood fairy seems to be in the back of the forest」#MTLed
+> END STRING
+
+> BEGIN STRING
+サハギンの鱗if(s[333])
+> CONTEXT: Map094/events/4/pages/5/76/Choice/0
+Scale of Sahuaginif(s[333])#MTLed
+> END STRING
+
+> BEGIN STRING
+人狼の爪if(s[334])
+> CONTEXT: Map094/events/4/pages/5/76/Choice/1
+Human wolf nailif(s[334])#MTLed
+> END STRING
+
+> BEGIN STRING
+冷たい髪if(s[335])
+> CONTEXT: Map094/events/4/pages/5/76/Choice/2
+Cold hairif(s[335])#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「サハギンの鱗はもう貰ってるよ、
+ありがとね」
+> CONTEXT: Map094/events/4/pages/5/79/Dialogue
+girl. 「I already have the scales of Sahuagin,
+Thanks dear」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「サハギンの鱗を集めてくれたのね？
+ありがとう！」
+> CONTEXT: Map094/events/4/pages/5/87/Dialogue
+girl. 「Did you collect the scales of Sahuagin?
+Thank you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+サハギンの鱗3個を渡した。
+> CONTEXT: Map094/events/4/pages/5/91/Dialogue
+I handed 3 scales of Sahuagin.#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「人狼の爪はもう貰ってるよ、
+ありがとね」
+> CONTEXT: Map094/events/4/pages/5/110/Dialogue
+girl. 「The claws of a wolf are already received,
+Thanks dear」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「人狼の爪を集めてくれたのね？
+ありがとう！」
+> CONTEXT: Map094/events/4/pages/5/118/Dialogue
+girl. 「You gathered the claws of a wolf?
+Thank you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+人狼の爪3個を渡した。
+> CONTEXT: Map094/events/4/pages/5/122/Dialogue
+I handed out three nail claws.#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「冷たい髪はもう貰ってるよ、
+ありがとね」
+> CONTEXT: Map094/events/4/pages/5/141/Dialogue
+girl. 「I already have cold hair, Thanks dear」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「冷たい髪を集めてくれたのね、ありがとう。
+今年は雪娘が大量発生しているらしいのよね、
+珍しいこともあるものだわ」
+> CONTEXT: Map094/events/4/pages/5/149/Dialogue
+girl. 「You gathered cold hair, thank you.
+It seems that Yuki Musume is massive this year, is not it?
+There are unusual things too」#MTLed
+> END STRING
+
+> BEGIN STRING
+冷たい髪 3個を渡した。
+> CONTEXT: Map094/events/4/pages/5/154/Dialogue
+I handed three cold hair.#MTLed
+> END STRING
+
+> BEGIN STRING
+妖精の赤髪if(s[336])
+> CONTEXT: Map094/events/4/pages/5/172/Choice/0
+Fairy red hairif(s[336])#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「妖精の赤髪はもう貰ってるよ、
+ありがとね」
+> CONTEXT: Map094/events/4/pages/5/175/Dialogue
+girl. 「I already have fairy's red hair, Thanks dear」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「妖精の赤髪を持ってきてくれたのね、ご苦労さま。
+ブラッドフェアリーを退治するのは
+めったな人にはできないと思うし、キミって凄いよー」
+> CONTEXT: Map094/events/4/pages/5/183/Dialogue
+girl. 「You brought fairy's red hair, sorry for bothering
+you. To kill the blood fairy is. I think that rare people
+can not, Kimi is amazing yo」#MTLed
+> END STRING
+
+> BEGIN STRING
+妖精の赤髪を 2個渡した。
+> CONTEXT: Map094/events/4/pages/5/188/Dialogue
+I handed out two fairy red hair.#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「まだ集まっていないみたいね。
+ブラッドフェアリーは南西の森の奥にいるらしいけど、
+すごく手強い魔物だから気をつけてね」
+> CONTEXT: Map094/events/4/pages/5/196/Dialogue
+girl. 「You seem to have not gathered yet.
+It seems that blood fairy is in the back of the southwest
+forest, It's a very strong monster so be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「今回は本当に、狩ってもらいたい魔物が強いから
+くれぐれも準備万端かつ慎重にね。
+時間がかかってもいいから」
+> CONTEXT: Map094/events/4/pages/5/207/Dialogue
+girl. 「This time I really want the hunt monster is strong
+Be ready and be prepared and be careful.
+Because it can take time」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「素材を集めてくれてありがとね。
+まさか、この依頼をこんなに早く達成してくれるなんて
+本当に凄いわ。キミって凄腕の冒険者なのね。
+> CONTEXT: Map094/events/4/pages/6/0/Dialogue
+girl. 「Thank you for gathering the materials.
+No way, I do not think that this request will be achieved
+so soon. It is really amazing. You are a great adventurer.#MTLed
+> END STRING
+
+> BEGIN STRING
+あの魔剣の柄を加工に使うなら、マルワイク武具店より
+ストレイン武具店のほうが向いているかもね。
+サディ君と親しくなっていれば、加工を引き受けてくれると思うし
+聖なる剣と一緒に持っていってみるといいよ」
+> CONTEXT: Map094/events/4/pages/6/5/Dialogue
+If you use the pattern of that devil sword for processing,
+from Marvaick armor store. The Strein Armor Shop store may
+be better. If you are close to Sadi, I think that it will
+accept processing. Take it with the sacred sword」#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士
+「この道具屋では防具も2種類だけ売っている。
+フェイスマスクと耳栓だ。
+どちらも、魔物の特殊攻撃を防ぐのに有効らしいよ」
+> CONTEXT: Map094/events/5/pages/0/0/Dialogue
+A soldier. 「At this tool store, we sell only two kinds of
+armor. It's a face mask and an earplug. Both are useful for
+preventing monster's special attacks」#MTLed
+> END STRING

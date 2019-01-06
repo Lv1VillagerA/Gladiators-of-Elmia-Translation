@@ -1,0 +1,454 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[15]
+「見て、穴の下は結構広そうだよ！」
+> CONTEXT: Map103/events/4/pages/0/1/Dialogue
+> CONTEXT: Map103/events/5/pages/0/1/Dialogue
+\\N[15]. 「Looking, the bottom of the hole
+looks pretty wide!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「よし、ロープをかけてから下りてみよう」
+> CONTEXT: Map103/events/4/pages/0/4/Dialogue
+> CONTEXT: Map103/events/5/pages/0/4/Dialogue
+\\N[12]. 「OK, let's rope and go down」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この穴の下、空洞になっているようだ……
+よし、ロープをかけて下りてみよう」
+> CONTEXT: Map103/events/4/pages/0/9/Dialogue
+\\N[12]. 「It seems to be a hollow under this hole ...
+OK, let's rope down and go down」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この穴の下、広い空間になっているのか……
+よし、ロープをかけて下りてみよう」
+> CONTEXT: Map103/events/5/pages/0/9/Dialogue
+\\N[12]. 「Is it a wide space under this hole ...?
+OK, let's rope down and go down」#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギン
+「人間が海辺で私たちサハギンに対抗しようなどと
+無謀もいいところだな。
+水の魔法の前では剣も振るえまい」
+> CONTEXT: Map103/events/7/pages/0/16/Dialogue
+> CONTEXT: Map109/events/11/pages/0/16/Dialogue
+> CONTEXT: Map027/events/16/pages/0/16/Dialogue
+> CONTEXT: Map027/events/20/pages/0/16/Dialogue
+> CONTEXT: Map027/events/22/pages/0/16/Dialogue
+Lady Sahuagin. 「Humans trying to resist us Sahuagin at the
+beach. Reckless is a nice place. In front of the magic of
+water, sword can not be shaken」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……ふ、不覚っ」
+> CONTEXT: Map103/events/7/pages/0/21/Dialogue
+> CONTEXT: Map109/events/11/pages/0/21/Dialogue
+> CONTEXT: Map027/events/16/pages/0/21/Dialogue
+> CONTEXT: Map027/events/20/pages/0/21/Dialogue
+> CONTEXT: Map027/events/22/pages/0/21/Dialogue
+\\N[12]. 「Cut ... ...., Winking」#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギン
+「この場所を知られたからには生かしては帰せぬ。
+お前には、勝者たる私の奴隷となってもらうぞ。
+さあ、私とともに来るがいい」
+> CONTEXT: Map103/events/7/pages/0/31/Dialogue
+> CONTEXT: Map109/events/11/pages/0/31/Dialogue
+> CONTEXT: Map027/events/16/pages/0/31/Dialogue
+> CONTEXT: Map027/events/20/pages/0/31/Dialogue
+> CONTEXT: Map027/events/22/pages/0/31/Dialogue
+Lady Sahuagin. 「I can not return to this place if it is
+made known. You will be my slave as the winner.
+Come along with me.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はレディサハギンたちに捕らえられ、
+奥にある彼女たちの寝床に連れて行かれた。
+> CONTEXT: Map103/events/7/pages/0/37/Dialogue
+> CONTEXT: Map109/events/11/pages/0/37/Dialogue
+> CONTEXT: Map027/events/16/pages/0/37/Dialogue
+> CONTEXT: Map027/events/20/pages/0/37/Dialogue
+> CONTEXT: Map027/events/22/pages/0/37/Dialogue
+\\N[12] Lady Sahuagin and others caught them,
+I was taken to their beds in the back.#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギン
+「ふっ、よく見ればなかなか活きの良さそうな男……
+せっかくだ、お前には精を提供してもらおう」
+> CONTEXT: Map103/events/7/pages/0/44/Dialogue
+> CONTEXT: Map109/events/11/pages/0/44/Dialogue
+> CONTEXT: Map027/events/16/pages/0/44/Dialogue
+> CONTEXT: Map027/events/20/pages/0/44/Dialogue
+> CONTEXT: Map027/events/22/pages/0/44/Dialogue
+Lady Sahuagin. 「If you look closely, it looks like a good
+life ...... Let's have it, let's have you offer sperm」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「精、って……」
+> CONTEXT: Map103/events/7/pages/0/48/Dialogue
+> CONTEXT: Map109/events/11/pages/0/48/Dialogue
+> CONTEXT: Map027/events/16/pages/0/48/Dialogue
+> CONTEXT: Map027/events/20/pages/0/48/Dialogue
+> CONTEXT: Map027/events/22/pages/0/48/Dialogue
+\\N[12]. 「Fine, ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギン
+「そこに私たちが産んだ卵がある。
+それに精液をかけるのだ。
+そうすればお前と私たちの子が産まれるだろう。
+> CONTEXT: Map103/events/7/pages/0/51/Dialogue
+> CONTEXT: Map109/events/11/pages/0/51/Dialogue
+> CONTEXT: Map027/events/16/pages/0/51/Dialogue
+> CONTEXT: Map027/events/20/pages/0/51/Dialogue
+> CONTEXT: Map027/events/22/pages/0/51/Dialogue
+Lady Sahuagin. 「There is an egg we gave birth.
+It puts semen on it. Then you and my son will be born.#MTLed
+> END STRING
+
+> BEGIN STRING
+嫌だと言っても、無理やり精液を出してもらうぞ。
+こうやって、な……」
+> CONTEXT: Map103/events/7/pages/0/56/Dialogue
+> CONTEXT: Map109/events/11/pages/0/56/Dialogue
+> CONTEXT: Map027/events/16/pages/0/56/Dialogue
+> CONTEXT: Map027/events/20/pages/0/56/Dialogue
+> CONTEXT: Map027/events/22/pages/0/56/Dialogue
+Even if you say that you do not want it, you will force
+semen out. This is how it is ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギンは\\N[12]に抱きつき、
+手でペニスを擦り上げてくる！
+> CONTEXT: Map103/events/7/pages/0/59/Dialogue
+> CONTEXT: Map109/events/11/pages/0/59/Dialogue
+> CONTEXT: Map027/events/16/pages/0/59/Dialogue
+> CONTEXT: Map027/events/20/pages/0/59/Dialogue
+> CONTEXT: Map027/events/22/pages/0/59/Dialogue
+Lady Sahuagin \\N[12] Hugging, Rubbing my penis with
+hands!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、ああぁ……！」
+> CONTEXT: Map103/events/7/pages/0/65/Dialogue
+> CONTEXT: Map109/events/11/pages/0/65/Dialogue
+> CONTEXT: Map027/events/16/pages/0/65/Dialogue
+> CONTEXT: Map027/events/20/pages/0/65/Dialogue
+> CONTEXT: Map027/events/22/pages/0/65/Dialogue
+\\N[12]. 「Ugh, ah ... ....!」#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギン
+「ふふ、どうだ？
+私の手、人間よりは少しザラザラしているだろうが
+その分、ペニスへの刺激は強いだろう？」
+> CONTEXT: Map103/events/7/pages/0/68/Dialogue
+> CONTEXT: Map109/events/11/pages/0/68/Dialogue
+> CONTEXT: Map027/events/16/pages/0/68/Dialogue
+> CONTEXT: Map027/events/20/pages/0/68/Dialogue
+> CONTEXT: Map027/events/22/pages/0/68/Dialogue
+Lady Sahuagin. 「Huh, how are you? My hands, they may be a
+bit more gritty than humans. Will it be a strong
+stimulation for penis?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ううっ、手がざらざらしてるから擦れて、
+気持ちいいっ……
+それに、女サハギンの胸が、柔らかくてっ……）
+> CONTEXT: Map103/events/7/pages/0/73/Dialogue
+> CONTEXT: Map109/events/11/pages/0/73/Dialogue
+> CONTEXT: Map027/events/16/pages/0/73/Dialogue
+> CONTEXT: Map027/events/20/pages/0/73/Dialogue
+> CONTEXT: Map027/events/22/pages/0/73/Dialogue
+\\N[12]. (OHh, rubbing from my hands, Feels good ......
+Also, the breasts of women Sahuagin are soft, ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はレディサハギンの胸の感触を味わわされながら
+手コキによって着実に射精感を高められてゆく……
+> CONTEXT: Map103/events/7/pages/0/78/Dialogue
+> CONTEXT: Map109/events/11/pages/0/78/Dialogue
+> CONTEXT: Map027/events/16/pages/0/78/Dialogue
+> CONTEXT: Map027/events/20/pages/0/78/Dialogue
+> CONTEXT: Map027/events/22/pages/0/78/Dialogue
+\\N[12] While being tasted Lady Sahuagin's chest feel
+The sense of ejaculation is steadily enhanced by handjob
+... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、くうっ……はぁ、はぁっ……」
+> CONTEXT: Map103/events/7/pages/0/81/Dialogue
+> CONTEXT: Map109/events/11/pages/0/81/Dialogue
+> CONTEXT: Map027/events/16/pages/0/81/Dialogue
+> CONTEXT: Map027/events/20/pages/0/81/Dialogue
+> CONTEXT: Map027/events/22/pages/0/81/Dialogue
+\\N[12]. 「Oh, wow ... ... Ah, Ahh ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギン
+「感じているようだな。
+私の手にかかれば人間の男をイかせるなどたやすいことだ。
+さあ、胸の感触に抱かれながら、絶頂するがいい」
+> CONTEXT: Map103/events/7/pages/0/84/Dialogue
+> CONTEXT: Map109/events/11/pages/0/84/Dialogue
+> CONTEXT: Map027/events/16/pages/0/84/Dialogue
+> CONTEXT: Map027/events/20/pages/0/84/Dialogue
+> CONTEXT: Map027/events/22/pages/0/84/Dialogue
+Lady Sahuagin. 「You seem to feel it. It's easy to put a
+man on a hand and put it in my hand. Now, as you embrace
+your chest feel, you should cum」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああっ、出るうううぅっ！」
+> CONTEXT: Map103/events/7/pages/0/91/Dialogue
+> CONTEXT: Map109/events/11/pages/0/91/Dialogue
+> CONTEXT: Map027/events/16/pages/0/91/Dialogue
+> CONTEXT: Map027/events/20/pages/0/91/Dialogue
+> CONTEXT: Map027/events/22/pages/0/91/Dialogue
+\\N[12]. 「aah, it will come out!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あうう……き、気持ち、いいっ……」
+> CONTEXT: Map103/events/7/pages/0/98/Dialogue
+> CONTEXT: Map109/events/11/pages/0/98/Dialogue
+> CONTEXT: Map027/events/16/pages/0/98/Dialogue
+> CONTEXT: Map027/events/20/pages/0/98/Dialogue
+> CONTEXT: Map027/events/22/pages/0/98/Dialogue
+\\N[12]. 「Ah ... ...., feelings, no ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギン
+「魔物にイかされて気持ちよがって
+精を撒き散らすとは、ふふふ……
+もうお前は人間の社会に戻ることはできないな」
+> CONTEXT: Map103/events/7/pages/0/101/Dialogue
+> CONTEXT: Map109/events/11/pages/0/101/Dialogue
+> CONTEXT: Map027/events/16/pages/0/101/Dialogue
+> CONTEXT: Map027/events/20/pages/0/101/Dialogue
+> CONTEXT: Map027/events/22/pages/0/101/Dialogue
+Lady Sahuagin. 「Being pampered by monster
+He says to scatter and shine, hehe ... You can not return
+to human society anymore」#MTLed
+> END STRING
+
+> BEGIN STRING
+サハギンたちの卵には、\\N[12]の精液が
+べっとりと付着していたが――
+やがて、卵に染み込んでゆく。
+> CONTEXT: Map103/events/7/pages/0/106/Dialogue
+> CONTEXT: Map109/events/11/pages/0/106/Dialogue
+> CONTEXT: Map027/events/16/pages/0/106/Dialogue
+> CONTEXT: Map027/events/20/pages/0/106/Dialogue
+> CONTEXT: Map027/events/22/pages/0/106/Dialogue
+In the eggs of Sahuagin and others, \\N[12] The semen of
+It was sticky but -. Eventually it will soak into eggs.#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギン
+「これを繰り返せば、きっと元気な子が産まれることだろう。
+やがては人間どもを殺して回るような、凶暴なサハギンがな。
+人間との異種交配で産まれると、そうなるんだよ、ふふっ」
+> CONTEXT: Map103/events/7/pages/0/110/Dialogue
+> CONTEXT: Map109/events/11/pages/0/110/Dialogue
+> CONTEXT: Map027/events/16/pages/0/110/Dialogue
+> CONTEXT: Map027/events/20/pages/0/110/Dialogue
+> CONTEXT: Map027/events/22/pages/0/110/Dialogue
+Lady Sahuagin. 「If you repeat this, you will surely have a
+healthy child born. Saruagin is fierce, like eventually
+killing humans. When it is born out of breeding with
+humans, it will be so, heh heh」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そんな……
+じゃあ俺は、人間に害を及ぼすような行為を……？」
+> CONTEXT: Map103/events/7/pages/0/115/Dialogue
+> CONTEXT: Map109/events/11/pages/0/115/Dialogue
+> CONTEXT: Map027/events/16/pages/0/115/Dialogue
+> CONTEXT: Map027/events/20/pages/0/115/Dialogue
+> CONTEXT: Map027/events/22/pages/0/115/Dialogue
+\\N[12]. 「Well ... that. Well then I act like harming
+human beings ...?」#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギン
+「いずれ私たちは、その子らを使って人間の生活圏を奪ってやる。
+さあ、そのためにも、もっともっと精を出してもらうぞ。
+お前はこれから、私たちのために精液タンクとして生きるのだ」
+> CONTEXT: Map103/events/7/pages/0/119/Dialogue
+> CONTEXT: Map109/events/11/pages/0/119/Dialogue
+> CONTEXT: Map027/events/16/pages/0/119/Dialogue
+> CONTEXT: Map027/events/20/pages/0/119/Dialogue
+> CONTEXT: Map027/events/22/pages/0/119/Dialogue
+Lady Sahuagin. 「In any case, we will use their children to
+deprive human living areas. Well, for that, I will get you
+serene. From now on, you will live as a semen tank for us」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あううっ！　や、やめ……もう、許してくれ、
+帰してくれっ……！」
+> CONTEXT: Map103/events/7/pages/0/127/Dialogue
+> CONTEXT: Map109/events/11/pages/0/127/Dialogue
+> CONTEXT: Map027/events/16/pages/0/127/Dialogue
+> CONTEXT: Map027/events/20/pages/0/127/Dialogue
+> CONTEXT: Map027/events/22/pages/0/127/Dialogue
+\\N[12]. 「Ohh!Or ... stop ... forgive me already,
+Give it back ......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギン
+「私たちの巣をおびやかしておきながら、虫のいいことだ。
+お前は私に負けたのだ、運命を受け入れるのだな。
+こうして私の手で快楽を味わえるのだから、むしろ喜ぶべきだぞ？」
+> CONTEXT: Map103/events/7/pages/0/131/Dialogue
+> CONTEXT: Map109/events/11/pages/0/131/Dialogue
+> CONTEXT: Map027/events/16/pages/0/131/Dialogue
+> CONTEXT: Map027/events/20/pages/0/131/Dialogue
+> CONTEXT: Map027/events/22/pages/0/131/Dialogue
+Lady Sahuagin. 「It is a nice insect while keeping our
+nests jealous. You lost to me, accept fate.
+In this way you can taste pleasure with my hand, you should
+rather be happy?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あああぁぁ……！」
+> CONTEXT: Map103/events/7/pages/0/136/Dialogue
+> CONTEXT: Map109/events/11/pages/0/136/Dialogue
+> CONTEXT: Map027/events/16/pages/0/136/Dialogue
+> CONTEXT: Map027/events/20/pages/0/136/Dialogue
+> CONTEXT: Map027/events/22/pages/0/136/Dialogue
+\\N[12]. 「Oh, Aaaahh ... ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+レディサハギン
+「気が向けば、胸で搾り取ってやってもいいぞ。
+お前の頑張り次第だがな、ふふふ……♪」
+> CONTEXT: Map103/events/7/pages/0/143/Dialogue
+> CONTEXT: Map109/events/11/pages/0/143/Dialogue
+> CONTEXT: Map027/events/16/pages/0/143/Dialogue
+> CONTEXT: Map027/events/20/pages/0/143/Dialogue
+> CONTEXT: Map027/events/22/pages/0/143/Dialogue
+Lady Sahuagin. 「If you are careful, you can squeeze it out
+with your chest. It depends on your hard work, hehe he ...♪
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]はレディサハギンに負けて囚われ、
+彼女たちの卵を孵すための精液奴隷にされてしまった。
+その後、彼の姿を見た者はいない――
+> CONTEXT: Map103/events/7/pages/0/148/Dialogue
+> CONTEXT: Map109/events/11/pages/0/148/Dialogue
+> CONTEXT: Map027/events/16/pages/0/148/Dialogue
+> CONTEXT: Map027/events/20/pages/0/148/Dialogue
+> CONTEXT: Map027/events/22/pages/0/148/Dialogue
+In this way, \\N[12] He was caught defeated by Lady
+Sahuagin, I have been made a semen slave to hatch their
+eggs. After that, there was no one who saw him.#MTLed
+> END STRING
+
+> BEGIN STRING
+そして数年後、凶暴な少女サハギンたちが
+周辺の人里に現れては男たちをさらってゆくようになり、
+エルミア王国は海の魔物たちの脅威にさらされることになる。
+> CONTEXT: Map103/events/7/pages/0/152/Dialogue
+> CONTEXT: Map109/events/11/pages/0/152/Dialogue
+> CONTEXT: Map027/events/16/pages/0/152/Dialogue
+> CONTEXT: Map027/events/20/pages/0/152/Dialogue
+> CONTEXT: Map027/events/22/pages/0/152/Dialogue
+And a few years later, ferocious girls Sahuagin and others
+Appearing in the vicinity of the neighborhood, I came to
+pass away men, The Kingdom of Elmia will be subject to the
+threat of sea monsters.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うーん、これだけ海の魔物がいるとは
+少し不自然な気がするな」
+> CONTEXT: Map103/events/16/pages/0/0/Dialogue
+\\N[12]. 「Well, that there is as much sea monster as
+this. I feel a bit unnatural」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「え、なんで？」
+> CONTEXT: Map103/events/16/pages/0/4/Dialogue
+Purim. 「Huh? Why?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「この近海で海の魔物が人を襲った、とか
+そういう話はあまり聞いたことがないんだ。
+ほら、海岸にも海水浴客がいただろう」
+> CONTEXT: Map103/events/16/pages/0/7/Dialogue
+\\N[12]. 「In the waters this sea monster hit people
+I have never heard of such a story. You know, there were
+also beach shore people」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「確かに、この洞窟の中はこんなに魔物が多いのに
+海岸が平和なのは不思議だね……」
+> CONTEXT: Map103/events/16/pages/0/12/Dialogue
+Purim. 「Certainly there are so many monsters in
+this cave. It is strange that the coast is
+peaceful ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「外ではほとんど見かけない海の魔物が
+なぜここまで多く徘徊しているのか……
+なにか理由がありそうだな」
+> CONTEXT: Map103/events/16/pages/0/16/Dialogue
+\\N[12]. 「Almost none of the sea monster outside
+Why are we wandering so much ...... There seems to be any
+reason」#MTLed
+> END STRING
