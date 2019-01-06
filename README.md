@@ -1,0 +1,1 @@
+# Gladiators of Elmia Translation
