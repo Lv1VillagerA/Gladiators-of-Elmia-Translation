@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 女性
 「娘のプリムは剣術に夢中でねぇ。
@@ -225,7 +225,7 @@ Let's hear what you say」#MTLed
 おにいさんのおちんちん、
 いじってもいいかな？」
 > CONTEXT: Map005/events/3/pages/0/10/Dialogue
-Purim. 「Well then……. Older brothers,
+Purim. 「Well then……. A big lady,
 Can I mess around with you?」#MTLed
 > END STRING
 
@@ -267,6 +267,16 @@ Purim」#MTLed
 
 > BEGIN STRING
 プリム
+「早い？　よく言うよ、
+わたしに見とれて
+おちんちん大きくしてたのは誰だっけ？」
+> CONTEXT: Map005/events/3/pages/0/32/Dialogue
+Purim. 「fast?Say it well, Be worthy of me
+Who is it that made bigger and big?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
 「おにいさんはわたしに負けたんだから
 口答えしちゃダメだよー」
 > CONTEXT: Map005/events/3/pages/0/39/Dialogue
@@ -281,7 +291,7 @@ You should not talk back.」#MTLed
 いじらせてもらうから」
 > CONTEXT: Map005/events/3/pages/0/49/Dialogue
 Purim. 「Here, take off your clothes and sit in
-the chair. In that case, I will
+the chair. Then I will make a penis
 I will tease you」#MTLed
 > END STRING
 
@@ -337,7 +347,7 @@ You do not have to do well with the skill of the sword?」#MTLed
 これがおちんちんかあ、なんか変な形してるね。
 これを触ればいいのかな？」
 > CONTEXT: Map005/events/3/pages/0/79/Dialogue
-Purim. 「Well, then...Oh, this is something strange shape.
+Purim. 「Well, then...This time, it is a weird shape.
 Should I touch this?」#MTLed
 > END STRING
 
@@ -1399,13 +1409,4 @@ Became a member of the Grandrealm family.#MTLed
 A boy who came to the kingdom holding ambition from the
 country, I got the position of nobility and marriage
 partner -#MTLed
-> END STRING
-
-> BEGIN STRING
-プリム
-「早い？　よく言うよ、
-わたしに見とれて
-おちんちん大きくしてたのは誰だっけ？」
-> CONTEXT: Map005/events/3/pages/0/32/Dialogue < UNTRANSLATED
-
 > END STRING

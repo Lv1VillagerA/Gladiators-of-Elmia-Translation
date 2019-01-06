@@ -55,15 +55,6 @@ It seems to be drained from above.#MTLed
 > END STRING
 
 > BEGIN STRING
-精神薬を手に入れた！
-> CONTEXT: Map097/events/10/pages/0/9/Dialogue
-> CONTEXT: Map109/events/13/pages/0/9/Dialogue
-> CONTEXT: Map071/events/45/pages/0/9/Dialogue
-> CONTEXT: Map019/events/38/pages/0/9/Dialogue
-I got psychoactive medicine!#MTLed
-> END STRING
-
-> BEGIN STRING
 水路の鍵 を手に入れた！
 > CONTEXT: Map097/events/11/pages/0/9/Dialogue
 I got the key of the waterway!#MTLed

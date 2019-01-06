@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 大精神薬を手に入れた！
 > CONTEXT: Map127/events/3/pages/0/9/Dialogue
@@ -25,8 +25,8 @@ I got a psychoactive medicine!#MTLed
 > CONTEXT: Map075/events/16/pages/0/17/Dialogue
 > CONTEXT: Map075/events/17/pages/0/17/Dialogue
 > CONTEXT: Map075/events/21/pages/0/17/Dialogue
-> CONTEXT: Map069/events/25/pages/0/16/Dialogue
 > CONTEXT: Map075/events/22/pages/0/17/Dialogue
+> CONTEXT: Map069/events/25/pages/0/16/Dialogue
 > CONTEXT: Map071/events/30/pages/0/16/Dialogue
 > CONTEXT: Map071/events/31/pages/0/16/Dialogue
 > CONTEXT: Map071/events/32/pages/0/16/Dialogue
@@ -331,31 +331,6 @@ unexpectedly finished life ...#MTLed
 > CONTEXT: Map075/events/21/pages/2/18/Dialogue
 lamia mage \\N[12] While shooting electric shocks
 Tighten his body with the tail!#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「あぐっ、ううっ……」
-> CONTEXT: Map127/events/4/pages/2/23/Dialogue
-> CONTEXT: Map127/events/5/pages/2/23/Dialogue
-> CONTEXT: Map119/events/16/pages/0/23/Dialogue
-> CONTEXT: Map119/events/17/pages/0/23/Dialogue
-> CONTEXT: Map119/events/19/pages/0/23/Dialogue
-> CONTEXT: Map097/events/17/pages/0/28/Dialogue
-> CONTEXT: Map097/events/19/pages/2/23/Dialogue
-> CONTEXT: Map097/events/25/pages/2/23/Dialogue
-> CONTEXT: Map075/events/6/pages/2/23/Dialogue
-> CONTEXT: Map097/events/26/pages/2/23/Dialogue
-> CONTEXT: Map075/events/7/pages/2/23/Dialogue
-> CONTEXT: Map075/events/21/pages/2/23/Dialogue
-> CONTEXT: Map147/events/2/pages/6/144/Dialogue
-> CONTEXT: Map147/events/2/pages/6/154/Dialogue
-> CONTEXT: Map147/events/2/pages/6/339/Dialogue
-> CONTEXT: Map147/events/24/pages/0/674/Dialogue
-\\N[12]. 「Thanks, uugh ...」#MTLed
-> CONTEXT: Commonevents/4/19/Dialogue
-> CONTEXT: Commonevents/258/19/Dialogue
-\\N[12]. 「Thanks, uugh ...」#MTLed
 > END STRING
 
 > BEGIN STRING

@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 戦闘します
 > CONTEXT: Map001/events/1/pages/0/0/Dialogue
@@ -20,13 +20,11 @@ Do you see the opening?#MTLed
 > BEGIN STRING
 手短に見る
 > CONTEXT: Map001/events/2/pages/0/10/Choice/1
-> CONTEXT: Map001/events/2/pages/0/10/Choice/1
 Look briefly#MTLed
 > END STRING
 
 > BEGIN STRING
 見ない
-> CONTEXT: Map001/events/2/pages/0/10/Choice/2
 > CONTEXT: Map001/events/2/pages/0/10/Choice/2
 Do not look#MTLed
 > END STRING

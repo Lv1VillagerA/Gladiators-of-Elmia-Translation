@@ -1,5 +1,77 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
+"Graphics/Animations/"
+> CONTEXT: Scripts/Cache/15:17
+"Graphics/Animations/"#lvl1
+> END STRING
+
+> BEGIN STRING
+"Graphics/Battlebacks1/"
+> CONTEXT: Scripts/Cache/21:17
+"Graphics/Battlebacks1/"#lvl1
+> END STRING
+
+> BEGIN STRING
+"Graphics/Battlebacks2/"
+> CONTEXT: Scripts/Cache/27:17
+"Graphics/Battlebacks2/"#lvl1
+> END STRING
+
+> BEGIN STRING
+"Graphics/Battlers/"
+> CONTEXT: Scripts/Cache/33:17
+"Graphics/Battlers/"#lvl1
+> END STRING
+
+> BEGIN STRING
+"Graphics/Characters/"
+> CONTEXT: Scripts/Cache/39:17
+"Graphics/Characters/"#lvl1
+> END STRING
+
+> BEGIN STRING
+"Graphics/Faces/"
+> CONTEXT: Scripts/Cache/45:17
+"Graphics/Faces/"#lvl1
+> END STRING
+
+> BEGIN STRING
+"Graphics/Parallaxes/"
+> CONTEXT: Scripts/Cache/51:17
+"Graphics/Parallaxes/"#lvl1
+> END STRING
+
+> BEGIN STRING
+"Graphics/Pictures/"
+> CONTEXT: Scripts/Cache/57:17
+"Graphics/Pictures/"#lvl1
+> END STRING
+
+> BEGIN STRING
+"Graphics/System/"
+> CONTEXT: Scripts/Cache/63:17
+"Graphics/System/"#lvl1
+> END STRING
+
+> BEGIN STRING
+"Graphics/Tilesets/"
+> CONTEXT: Scripts/Cache/69:17
+"Graphics/Tilesets/"#lvl1
+> END STRING
+
+> BEGIN STRING
+"Graphics/Titles1/"
+> CONTEXT: Scripts/Cache/75:17
+"Graphics/Titles1/"#lvl1
+> END STRING
+
+> BEGIN STRING
+"Graphics/Titles2/"
+> CONTEXT: Scripts/Cache/81:17
+"Graphics/Titles2/"#lvl1
+> END STRING
+
+> BEGIN STRING
 "購入する"
 > CONTEXT: Scripts/Vocab/11:21
 "Buy"#lvl1
@@ -285,84 +357,6 @@
 > END STRING
 
 > BEGIN STRING
-"%02d:%02d:%02d"
-> CONTEXT: Scripts/Game_System/108:13
-"%02d:%02d:%02d"#lvl1
-> END STRING
-
-> BEGIN STRING
-"Graphics/Animations/"
-> CONTEXT: Scripts/Cache/15:17
-"Graphics/Animations/"#lvl1
-> END STRING
-
-> BEGIN STRING
-"Graphics/Battlebacks1/"
-> CONTEXT: Scripts/Cache/21:17
-"Graphics/Battlebacks1/"#lvl1
-> END STRING
-
-> BEGIN STRING
-"Graphics/Battlebacks2/"
-> CONTEXT: Scripts/Cache/27:17
-"Graphics/Battlebacks2/"#lvl1
-> END STRING
-
-> BEGIN STRING
-"Graphics/Battlers/"
-> CONTEXT: Scripts/Cache/33:17
-"Graphics/Battlers/"#lvl1
-> END STRING
-
-> BEGIN STRING
-"Graphics/Characters/"
-> CONTEXT: Scripts/Cache/39:17
-"Graphics/Characters/"#lvl1
-> END STRING
-
-> BEGIN STRING
-"Graphics/Faces/"
-> CONTEXT: Scripts/Cache/45:17
-"Graphics/Faces/"#lvl1
-> END STRING
-
-> BEGIN STRING
-"Graphics/Parallaxes/"
-> CONTEXT: Scripts/Cache/51:17
-"Graphics/Parallaxes/"#lvl1
-> END STRING
-
-> BEGIN STRING
-"Graphics/Pictures/"
-> CONTEXT: Scripts/Cache/57:17
-"Graphics/Pictures/"#lvl1
-> END STRING
-
-> BEGIN STRING
-"Graphics/System/"
-> CONTEXT: Scripts/Cache/63:17
-"Graphics/System/"#lvl1
-> END STRING
-
-> BEGIN STRING
-"Graphics/Tilesets/"
-> CONTEXT: Scripts/Cache/69:17
-"Graphics/Tilesets/"#lvl1
-> END STRING
-
-> BEGIN STRING
-"Graphics/Titles1/"
-> CONTEXT: Scripts/Cache/75:17
-"Graphics/Titles1/"#lvl1
-> END STRING
-
-> BEGIN STRING
-"Graphics/Titles2/"
-> CONTEXT: Scripts/Cache/81:17
-"Graphics/Titles2/"#lvl1
-> END STRING
-
-> BEGIN STRING
 ""
 > CONTEXT: Scripts/Game_Message/40:18
 > CONTEXT: Scripts/Game_Message/99:19
@@ -375,17 +369,17 @@
 > CONTEXT: Scripts/Game_Enemy/159:17
 > CONTEXT: Scripts/Game_Party/131:12
 > CONTEXT: Scripts/Game_BattlerBase/629:12
-> CONTEXT: Scripts/Game_CharacterBase/52:23
 > CONTEXT: Scripts/Game_Follower/23:57
+> CONTEXT: Scripts/Game_CharacterBase/52:23
 > CONTEXT: Scripts/Game_Battler/46:21
 > CONTEXT: Scripts/Game_Player/39:54
 > CONTEXT: Scripts/Game_Event/243:25
 > CONTEXT: Scripts/Window_Help/27:14
 > CONTEXT: Scripts/Window_Help/34:40
 > CONTEXT: Scripts/Window_EquipSlot/74:56
-> CONTEXT: Scripts/Window_NameEdit/117:37
 > CONTEXT: Scripts/Window_Base/243:26
 > CONTEXT: Scripts/Window_Base/250:26
+> CONTEXT: Scripts/Window_NameEdit/117:37
 > CONTEXT: Scripts/Window_NameInput/83:42
 > CONTEXT: Scripts/Window_DebugRight/49:12
 > CONTEXT: Scripts/Window_BattleLog/363:16
@@ -414,7 +408,9 @@
 > CONTEXT: Scripts/XPスタイル/3371:29
 > CONTEXT: Scripts/XPスタイル/3447:23
 > CONTEXT: Scripts/XPスタイル/4789:28
-""#lvl1
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/459:24
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/544:33
+""#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -430,7 +426,14 @@
 > CONTEXT: Scripts/Window_Base/260:10
 > CONTEXT: Scripts/Game_Interpreter/1404:44
 > CONTEXT: Scripts/Game_Interpreter/1407:47
-"\\n"#lvl1
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/544:49
+"\\n"#NoTL
+> END STRING
+
+> BEGIN STRING
+"%02d:%02d:%02d"
+> CONTEXT: Scripts/Game_System/108:13
+"%02d:%02d:%02d"#lvl1
 > END STRING
 
 > BEGIN STRING
@@ -971,19 +974,14 @@
 > CONTEXT: Scripts/Game_CharacterBase/246:46
 > CONTEXT: Scripts/Window_NameInput/17:36
 > CONTEXT: Scripts/Window_Message/353:10
-'!'#lvl1
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/555:10
+'!'#NoTL
 > END STRING
 
 > BEGIN STRING
 "Data/Map%03d.rvdata2"
 > CONTEXT: Scripts/Game_Map/41:30
 "Data/Map%03d.rvdata2"#lvl1
-> END STRING
-
-> BEGIN STRING
-"%02d:%02d"
-> CONTEXT: Scripts/Sprite_Timer/61:13
-"%02d:%02d"#lvl1
 > END STRING
 
 > BEGIN STRING
@@ -1001,14 +999,21 @@
 > CONTEXT: Scripts/Window_NameInput/17:44
 > CONTEXT: Scripts/Window_Message/347:10
 > CONTEXT: Scripts/XPスタイル/3405:30
-'$'#lvl1
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/552:10
+'$'#NoTL
 > END STRING
 
 > BEGIN STRING
 "Balloon"
 > CONTEXT: Scripts/Sprite_Character/155:43
 > CONTEXT: Scripts/常時フキダシ/139:48
-"Balloon"#lvl1
+"Balloon"#NoTL
+> END STRING
+
+> BEGIN STRING
+"%02d:%02d"
+> CONTEXT: Scripts/Sprite_Timer/61:13
+"%02d:%02d"#lvl1
 > END STRING
 
 > BEGIN STRING
@@ -1126,31 +1131,7 @@
 > CONTEXT: Scripts/Window_Status/102:30
 > CONTEXT: Scripts/解像度/309:30
 > CONTEXT: Scripts/解像度/310:30
-"-------"#lvl1
-> END STRING
-
-> BEGIN STRING
-"×"
-> CONTEXT: Scripts/Window_ShopNumber/61:55
-"×"#lvl1
-> END STRING
-
-> BEGIN STRING
-"あ"
-> CONTEXT: Scripts/Window_NameEdit/68:40
-"あ"#lvl1
-> END STRING
-
-> BEGIN STRING
-"A"
-> CONTEXT: Scripts/Window_NameEdit/68:46
-"A"#lvl1
-> END STRING
-
-> BEGIN STRING
-"%+d"
-> CONTEXT: Scripts/Window_ShopStatus/86:29
-"%+d"#lvl1
+"-------"#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -1288,7 +1269,32 @@
 > BEGIN STRING
 "/"
 > CONTEXT: Scripts/Window_Base/487:46
-"/"#lvl1
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/540:66
+"/"#NoTL
+> END STRING
+
+> BEGIN STRING
+"×"
+> CONTEXT: Scripts/Window_ShopNumber/61:55
+"×"#lvl1
+> END STRING
+
+> BEGIN STRING
+"%+d"
+> CONTEXT: Scripts/Window_ShopStatus/86:29
+"%+d"#lvl1
+> END STRING
+
+> BEGIN STRING
+"あ"
+> CONTEXT: Scripts/Window_NameEdit/68:40
+"あ"#lvl1
+> END STRING
+
+> BEGIN STRING
+"A"
+> CONTEXT: Scripts/Window_NameEdit/68:46
+"A"#lvl1
 > END STRING
 
 > BEGIN STRING
@@ -1398,7 +1404,7 @@
 > CONTEXT: Scripts/Window_NameInput/12:48
 > CONTEXT: Scripts/音量調節/487:94
 > CONTEXT: Scripts/音量調節/488:104
-'i'#lvl1
+'i'#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -1609,7 +1615,8 @@
 '^'
 > CONTEXT: Scripts/Window_NameInput/16:26
 > CONTEXT: Scripts/Window_Message/359:10
-'^'#lvl1
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/558:10
+'^'#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -1628,7 +1635,8 @@
 '|'
 > CONTEXT: Scripts/Window_NameInput/16:48
 > CONTEXT: Scripts/Window_Message/351:10
-'|'#lvl1
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/554:10
+'|'#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -1767,13 +1775,15 @@
 '<'
 > CONTEXT: Scripts/Window_NameInput/19:26
 > CONTEXT: Scripts/Window_Message/357:10
-'<'#lvl1
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/557:10
+'<'#NoTL
 > END STRING
 
 > BEGIN STRING
 '\>'
 > CONTEXT: Scripts/Window_NameInput/19:30
 > CONTEXT: Scripts/Window_Message/355:10
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/556:10
 '\>'#lvl1
 > END STRING
 
@@ -3754,18 +3764,6 @@
 > END STRING
 
 > BEGIN STRING
-/^\\n/
-> CONTEXT: Scripts/Window_Message/328:17
-/^\\n/#lvl1
-> END STRING
-
-> BEGIN STRING
-'.'
-> CONTEXT: Scripts/Window_Message/349:10
-'.'#lvl1
-> END STRING
-
-> BEGIN STRING
 "%04d:"
 > CONTEXT: Scripts/Window_DebugRight/40:23
 "%04d:"#lvl1
@@ -3781,6 +3779,19 @@
 "[OFF]"
 > CONTEXT: Scripts/Window_DebugRight/44:51
 "[OFF]"#lvl1
+> END STRING
+
+> BEGIN STRING
+/^\\n/
+> CONTEXT: Scripts/Window_Message/328:17
+/^\\n/#lvl1
+> END STRING
+
+> BEGIN STRING
+'.'
+> CONTEXT: Scripts/Window_Message/349:10
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/553:10
+'.'#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -3917,6 +3928,42 @@
 "==行動前イベント:使用\#{type}=="
 > CONTEXT: Scripts/戦闘：行動前イベント/128:41
 "==行動前イベント:使用\#{type}=="#NoTL
+> END STRING
+
+> BEGIN STRING
+"初期X座標調整"
+> CONTEXT: Scripts/敵座標変更/41:14
+"初期X座標調整"#NoTL
+> END STRING
+
+> BEGIN STRING
+"初期Y座標調整"
+> CONTEXT: Scripts/敵座標変更/43:14
+"初期Y座標調整"#NoTL
+> END STRING
+
+> BEGIN STRING
+"初期Z座標調整"
+> CONTEXT: Scripts/敵座標変更/45:14
+"初期Z座標調整"#NoTL
+> END STRING
+
+> BEGIN STRING
+/<\#{ENEMY_XYZ::X_ADJUST}[：:](\\S+)\>/
+> CONTEXT: Scripts/敵座標変更/83:23
+/<\#{ENEMY_XYZ::X_ADJUST}[：:](\\S+)\>/#NoTL
+> END STRING
+
+> BEGIN STRING
+/<\#{ENEMY_XYZ::Y_ADJUST}[：:](\\S+)\>/
+> CONTEXT: Scripts/敵座標変更/104:23
+/<\#{ENEMY_XYZ::Y_ADJUST}[：:](\\S+)\>/#NoTL
+> END STRING
+
+> BEGIN STRING
+/<\#{ENEMY_XYZ::Z_ADJUST}[：:](\\S+)\>/
+> CONTEXT: Scripts/敵座標変更/125:23
+/<\#{ENEMY_XYZ::Z_ADJUST}[：:](\\S+)\>/#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -4140,42 +4187,6 @@
 > END STRING
 
 > BEGIN STRING
-"初期X座標調整"
-> CONTEXT: Scripts/敵座標変更/41:14
-"初期X座標調整"#NoTL
-> END STRING
-
-> BEGIN STRING
-"初期Y座標調整"
-> CONTEXT: Scripts/敵座標変更/43:14
-"初期Y座標調整"#NoTL
-> END STRING
-
-> BEGIN STRING
-"初期Z座標調整"
-> CONTEXT: Scripts/敵座標変更/45:14
-"初期Z座標調整"#NoTL
-> END STRING
-
-> BEGIN STRING
-/<\#{ENEMY_XYZ::X_ADJUST}[：:](\\S+)\>/
-> CONTEXT: Scripts/敵座標変更/83:23
-/<\#{ENEMY_XYZ::X_ADJUST}[：:](\\S+)\>/#NoTL
-> END STRING
-
-> BEGIN STRING
-/<\#{ENEMY_XYZ::Y_ADJUST}[：:](\\S+)\>/
-> CONTEXT: Scripts/敵座標変更/104:23
-/<\#{ENEMY_XYZ::Y_ADJUST}[：:](\\S+)\>/#NoTL
-> END STRING
-
-> BEGIN STRING
-/<\#{ENEMY_XYZ::Z_ADJUST}[：:](\\S+)\>/
-> CONTEXT: Scripts/敵座標変更/125:23
-/<\#{ENEMY_XYZ::Z_ADJUST}[：:](\\S+)\>/#NoTL
-> END STRING
-
-> BEGIN STRING
 //
 > CONTEXT: Scripts/イベントの上にメッセージ表示/7:19
 > CONTEXT: Scripts/常時フキダシ/26:18
@@ -4202,51 +4213,27 @@
 > END STRING
 
 > BEGIN STRING
+/12/
+> CONTEXT: None < UNUSED
+/12/#NoTL
+> END STRING
+
+> BEGIN STRING
 "フキダシアイコン常時再生"
 > CONTEXT: Scripts/常時フキダシ/44:6
 "フキダシアイコン常時再生"#NoTL
 > END STRING
 
 > BEGIN STRING
-"所持制限"
-> CONTEXT: None < UNUSED
-"所持制限"#NoTL
+"被ダメージTPチャージ率"
+> CONTEXT: Scripts/TPチャージ率操作/19:10
+"被ダメージTPチャージ率"#NoTL
 > END STRING
 
 > BEGIN STRING
-"所持装備制限タイプ"
-> CONTEXT: None < UNUSED
-"所持装備制限タイプ"#NoTL
-> END STRING
-
-> BEGIN STRING
-"預かり所込所持制限"
-> CONTEXT: None < UNUSED
-"預かり所込所持制限"#NoTL
-> END STRING
-
-> BEGIN STRING
-/<\#{M_I_N_CHANGE::WORD1}[：:](\\S+)\>/
-> CONTEXT: None < UNUSED
-/<\#{M_I_N_CHANGE::WORD1}[：:](\\S+)\>/#NoTL
-> END STRING
-
-> BEGIN STRING
-/<\#{M_I_N_CHANGE::WORD2}[：:](\\S+)\>/
-> CONTEXT: None < UNUSED
-/<\#{M_I_N_CHANGE::WORD2}[：:](\\S+)\>/#NoTL
-> END STRING
-
-> BEGIN STRING
-"<"
-> CONTEXT: None < UNUSED
-"<"#NoTL
-> END STRING
-
-> BEGIN STRING
-"\>"
-> CONTEXT: None < UNUSED
-"\>"#NoTL
+/<\#{IS_TPGAIN_RATE::WORD}[：:](\\S+)\>/
+> CONTEXT: Scripts/TPチャージ率操作/68:27
+/<\#{IS_TPGAIN_RATE::WORD}[：:](\\S+)\>/#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -4280,15 +4267,21 @@
 > END STRING
 
 > BEGIN STRING
-"被ダメージTPチャージ率"
-> CONTEXT: Scripts/TPチャージ率操作/19:10
-"被ダメージTPチャージ率"#NoTL
+"マルチダメージ"
+> CONTEXT: Scripts/マルチスキル/23:12
+"マルチダメージ"#NoTL
 > END STRING
 
 > BEGIN STRING
-/<\#{IS_TPGAIN_RATE::WORD}[：:](\\S+)\>/
-> CONTEXT: Scripts/TPチャージ率操作/68:27
-/<\#{IS_TPGAIN_RATE::WORD}[：:](\\S+)\>/#NoTL
+/<\#{MULTI_SKILL::WORD1}[：:](\\S+)\>/
+> CONTEXT: Scripts/マルチスキル/211:27
+/<\#{MULTI_SKILL::WORD1}[：:](\\S+)\>/#NoTL
+> END STRING
+
+> BEGIN STRING
+/\\s*,\\s*/
+> CONTEXT: Scripts/マルチスキル/215:19
+/\\s*,\\s*/#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -4352,24 +4345,6 @@
 > END STRING
 
 > BEGIN STRING
-"マルチダメージ"
-> CONTEXT: Scripts/マルチスキル/23:12
-"マルチダメージ"#NoTL
-> END STRING
-
-> BEGIN STRING
-/<\#{MULTI_SKILL::WORD1}[：:](\\S+)\>/
-> CONTEXT: Scripts/マルチスキル/211:27
-/<\#{MULTI_SKILL::WORD1}[：:](\\S+)\>/#NoTL
-> END STRING
-
-> BEGIN STRING
-/\\s*,\\s*/
-> CONTEXT: Scripts/マルチスキル/215:19
-/\\s*,\\s*/#NoTL
-> END STRING
-
-> BEGIN STRING
 "イベントから接触"
 > CONTEXT: Scripts/シンボルエンカウント/47:19
 "イベントから接触"#NoTL
@@ -4397,24 +4372,6 @@
 'Audio/SE/Decision1'
 > CONTEXT: Scripts/シンボルエンカウント/570:21
 'Audio/SE/Decision1'#NoTL
-> END STRING
-
-> BEGIN STRING
-"Auto Mode"
-> CONTEXT: None < UNUSED
-"Auto Mode"#NoTL
-> END STRING
-
-> BEGIN STRING
-"TextAuto"
-> CONTEXT: None < UNUSED
-"TextAuto"#NoTL
-> END STRING
-
-> BEGIN STRING
-"TextHistory"
-> CONTEXT: None < UNUSED
-"TextHistory"#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -4860,8 +4817,62 @@ maximum）\\n←Decrease the volume／Increase volume→"#MTLed
 > END STRING
 
 > BEGIN STRING
-/12/
-> CONTEXT: Scripts/常時フキダシ/23:25 < UNTRANSLATED
+"所持制限"
+> CONTEXT: Scripts/所持数制限/38:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"所持装備制限タイプ"
+> CONTEXT: Scripts/所持数制限/43:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"預かり所込所持制限"
+> CONTEXT: Scripts/所持数制限/48:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/<\#{M_I_N_CHANGE::WORD1}[：:](\\S+)\>/
+> CONTEXT: Scripts/所持数制限/190:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/<\#{M_I_N_CHANGE::WORD2}[：:](\\S+)\>/
+> CONTEXT: Scripts/所持数制限/200:33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"<"
+> CONTEXT: Scripts/所持数制限/222:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\>"
+> CONTEXT: Scripts/所持数制限/222:73 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Auto Mode"
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/94:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TextAuto"
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/110:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TextHistory"
+> CONTEXT: Scripts/メッセージウィンドウ一時消去/144:8 < UNTRANSLATED
 
 > END STRING
 

@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\N[12]
 「はぁ……」
@@ -40,6 +40,13 @@ martial arts tournament......」#MTLed
 > CONTEXT: Map008/events/3/pages/0/0/Dialogue
 > CONTEXT: Map008/events/4/pages/0/0/Dialogue
 \\N[12]. 「Shall I rest in bed?#MTLed
+> END STRING
+
+> BEGIN STRING
+スキル『様子見』を習得しました。
+> CONTEXT: Map008/events/3/pages/0/10/Dialogue
+> CONTEXT: Map008/events/4/pages/0/10/Dialogue
+I got the skill "wait".#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -650,16 +657,12 @@ attack power · agility · avoidance rate will decrease.#MTLed
 > BEGIN STRING
 さらに、「勃起」状態のままでいると性感度というパラメータが増え
 これが20以上のときにエッチな技を食らうと射精してしまいます。
-射精すると、その後に致命的な隙を晒してしまうことになり、
-場合によってはそのままトドメをさされて敗北が確定することも……
-> CONTEXT: Map008/events/11/pages/0/48/Dialogue
-> CONTEXT: Map008/events/24/pages/0/48/Dialogue
+射精すると、その後に致命的な隙を晒してしまうことになります。
+> CONTEXT: Map008/events/8/pages/0/48/Dialogue
 further,「erection」When it is still in state, the parameter
 of sexual sensation increases. If this is 20 or more you
 ejaculate if you take lewd skills. If you ejaculate, you
-will end up exposing a fatal gap afterwards,
-In some cases it may be decided as it is finisher and the
-defeat is determined ...#MTLed
+will end up exposing a fatal gap afterwards.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -667,9 +670,9 @@ defeat is determined ...#MTLed
 また、性感度も同スキルや鎮静剤で低下させることができます。
 「勃起」状態になる攻撃を多用してくるような女性と戦うときは、
 しっかり対策を用意しておくことをオススメします。
+> CONTEXT: Map008/events/8/pages/0/52/Dialogue
 > CONTEXT: Map008/events/11/pages/0/53/Dialogue
 > CONTEXT: Map008/events/24/pages/0/53/Dialogue
-> CONTEXT: Map008/events/8/pages/0/52/Dialogue
 「erection」Skills「Spiritual unity」Can be treated with,
 etc., Sexual sensitivity can also be reduced with the same
 skill and sedative. 「erection」When fighting a woman who
@@ -730,9 +733,9 @@ condition abnormality.#MTLed
 しかし、催淫は完全に防止する方法が存在していますので、
 催淫効果のある攻撃を使ってきそうな敵と戦う場合は
 対策をしっかり用意してから挑みましょう。
+> CONTEXT: Map008/events/8/pages/0/80/Dialogue
 > CONTEXT: Map008/events/11/pages/0/91/Dialogue
 > CONTEXT: Map008/events/24/pages/0/91/Dialogue
-> CONTEXT: Map008/events/8/pages/0/80/Dialogue
 However, since there is a way to completely prevent
 aphrodisiac, If you fight an enemy that is likely to use an
 attack with an aphrodisiac effect. Let's challenge after
@@ -740,12 +743,35 @@ preparing measures properly.#MTLed
 > END STRING
 
 > BEGIN STRING
+魅了と似た状態ですが、状態の自然解除までにかかるターン数は
+恍惚の方がやや長くなっています。
+また、耐性をつける方法が少ないため、厄介な状態異常です。
+> CONTEXT: Map008/events/8/pages/0/86/Dialogue
+Although it is similar to fascination, the number of turns
+that take up to the natural cancellation of the state is
+The ecstatic one is somewhat longer. Also, because there
+are few ways to add tolerance, it is a nuisance condition
+abnormality.#MTLed
+> END STRING
+
+> BEGIN STRING
+匂いで責められた場合に、この状態になってしまうことがあるので
+それらしい敵と出会った場合は注意しましょう。
+ただし、恍惚状態を誘発する技を使う敵はごく少数です。
+> CONTEXT: Map008/events/8/pages/0/90/Dialogue
+Because you may get into this state if you are blamed for
+smell. Let's be careful when you meet such enemies.
+However, there are only a few enemies that use skills to
+induce trance.#MTLed
+> END STRING
+
+> BEGIN STRING
 「勃起」状態を続けることで性感度を溜め、射精してしまうと
 このバッドステータスになってしまいます。
 射精の快楽の余韻に苛まれている状態です。
+> CONTEXT: Map008/events/8/pages/0/98/Dialogue
 > CONTEXT: Map008/events/11/pages/0/99/Dialogue
 > CONTEXT: Map008/events/24/pages/0/99/Dialogue
-> CONTEXT: Map008/events/8/pages/0/98/Dialogue
 「erection」By keeping the state, you will accumulate sexual
 sensitivity and ejaculate. This bad status will result.
 It is a condition that is suffering from the reverberation
@@ -757,9 +783,9 @@ of pleasures of ejaculation.#MTLed
 極めて不利な状況に追い込まれます。
 女の子とのバトルに勝つためには、
 この状態にならないようにすることが重要になるでしょう。
+> CONTEXT: Map008/events/8/pages/0/102/Dialogue
 > CONTEXT: Map008/events/11/pages/0/103/Dialogue
 > CONTEXT: Map008/events/24/pages/0/103/Dialogue
-> CONTEXT: Map008/events/8/pages/0/102/Dialogue
 If this state is reached, it becomes impossible to act for
 several turns, It is driven to a very unfavorable
 situation. To win the battle with the girl,
@@ -769,9 +795,9 @@ It will be important to avoid this condition.#MTLed
 > BEGIN STRING
 性感度は鎮静剤などで低下させることができますので、
 常に用意しておくことをオススメします。
+> CONTEXT: Map008/events/8/pages/0/107/Dialogue
 > CONTEXT: Map008/events/11/pages/0/108/Dialogue
 > CONTEXT: Map008/events/24/pages/0/108/Dialogue
-> CONTEXT: Map008/events/8/pages/0/107/Dialogue
 Since sexual sensitivity can be lowered with sedative
 agents, etc., I recommend you to have it ready at all
 times.#MTLed
@@ -782,9 +808,9 @@ times.#MTLed
 主人公は痛みで悶絶し、一定ターン数行動できなくなります。
 金的攻撃そのものが大ダメージであるため、
 極めて不利な状況に追い込まれることになります。
+> CONTEXT: Map008/events/8/pages/0/112/Dialogue
 > CONTEXT: Map008/events/11/pages/0/113/Dialogue
 > CONTEXT: Map008/events/24/pages/0/113/Dialogue
-> CONTEXT: Map008/events/8/pages/0/112/Dialogue
 When a woman is attacked goldly and it hits it
 The hero is out of fain due to pain, and he / she can not
 act a certain number of turns. Because the gold attack
@@ -797,9 +823,9 @@ unfavorable situation.#MTLed
 当たってしまうと大変なことになります。
 使ってくる相手と戦うときは、
 体力を高く保っておくことが必要になるでしょう。
+> CONTEXT: Map008/events/8/pages/0/117/Dialogue
 > CONTEXT: Map008/events/11/pages/0/118/Dialogue
 > CONTEXT: Map008/events/24/pages/0/118/Dialogue
-> CONTEXT: Map008/events/8/pages/0/117/Dialogue
 Although gold attacks are set with low accuracy,
 It will be serious if you hit it. When fighting the
 opponent you use, It will be necessary to keep your
@@ -811,9 +837,9 @@ physical strength high.#MTLed
 金的攻撃の命中率が大きく上昇してしまいますので、
 使用してくる敵と出会った場合は
 注意が必要です。
+> CONTEXT: Map008/events/8/pages/0/122/Dialogue
 > CONTEXT: Map008/events/11/pages/0/123/Dialogue
 > CONTEXT: Map008/events/24/pages/0/123/Dialogue
-> CONTEXT: Map008/events/8/pages/0/122/Dialogue
 Also, when the hero becomes an erect state
 Because the accuracy of the gold attack will rise greatly,
 If you encounter an enemy you use. You should be careful.#MTLed
@@ -824,9 +850,9 @@ If you encounter an enemy you use. You should be careful.#MTLed
 動けなくするような攻撃をしてくることがあります。
 『拘束』状態になると、脱出するまで何もできず、
 一方的に嫐られてしまうことになります。
+> CONTEXT: Map008/events/8/pages/0/129/Dialogue
 > CONTEXT: Map008/events/11/pages/0/130/Dialogue
 > CONTEXT: Map008/events/24/pages/0/130/Dialogue
-> CONTEXT: Map008/events/8/pages/0/129/Dialogue
 Depending on the enemy's girl, the hero is arrested in some
 way. You may come up with an attack that makes it
 impossible to move. In the "restrained" state, nothing can
@@ -837,9 +863,9 @@ be done until escape, It will be stuck unilaterally.#MTLed
 拘束攻撃をされた場合、避けるか食らうかの選択肢が表示されます。
 避ける選択肢を選んだ場合は、拘束を回避できることがあります。
 敏捷性・運・レベルが高いほど回避率が高くなります。
+> CONTEXT: Map008/events/8/pages/0/134/Dialogue
 > CONTEXT: Map008/events/11/pages/0/135/Dialogue
 > CONTEXT: Map008/events/24/pages/0/135/Dialogue
-> CONTEXT: Map008/events/8/pages/0/134/Dialogue
 In case of a detention attack, the option of avoiding or
 eating is displayed. If you choose a choice to avoid, you
 may be able to avoid constraints. The higher the agility,
@@ -850,9 +876,9 @@ luck and level, the higher the avoidance rate will be.#MTLed
 ただし、主人公が『魅了』の状態異常にかかっている場合、
 回避コマンドが表示されず、必ず拘束されてしまいます。
 注意しましょう。
+> CONTEXT: Map008/events/8/pages/0/138/Dialogue
 > CONTEXT: Map008/events/11/pages/0/139/Dialogue
 > CONTEXT: Map008/events/24/pages/0/139/Dialogue
-> CONTEXT: Map008/events/8/pages/0/138/Dialogue
 However, if the hero is suffering from a condition of
 "attracted". The avoidance command is not displayed, and it
 is always constrained. Let's watch out.#MTLed
@@ -862,9 +888,9 @@ is always constrained. Let's watch out.#MTLed
 拘束状態になった場合、
 毎ターン、脱出のための選択肢が表示されますので、
 あきらめず選択しましょう。
+> CONTEXT: Map008/events/8/pages/0/142/Dialogue
 > CONTEXT: Map008/events/11/pages/0/143/Dialogue
 > CONTEXT: Map008/events/24/pages/0/143/Dialogue
-> CONTEXT: Map008/events/8/pages/0/142/Dialogue
 In the restrained state, Every turn, the choice for escape
 is displayed, Let's choose without giving up.#MTLed
 > END STRING
@@ -872,9 +898,8 @@ is displayed, Let's choose without giving up.#MTLed
 > BEGIN STRING
 脱出コマンドは、彼我の能力差や乱数によって
 失敗することもありますが、
-失敗するたび、次回の脱出コマンドの成功率が上昇します。
-> CONTEXT: Map008/events/11/pages/0/147/Dialogue
-> CONTEXT: Map008/events/24/pages/0/147/Dialogue
+失敗するたび、次回の脱出コマンドの成功率が上昇していきます。
+> CONTEXT: Map008/events/8/pages/0/146/Dialogue
 The escape command depends on the capacity difference of
 the ego and the random number. Although it may fail,
 Every time you fail, the success rate of the next escape
@@ -883,10 +908,9 @@ command will rise.#MTLed
 
 > BEGIN STRING
 性感度
+> CONTEXT: Map008/events/8/pages/0/156/Choice/1
 > CONTEXT: Map008/events/11/pages/0/157/Choice/1
 > CONTEXT: Map008/events/24/pages/0/157/Choice/1
-> CONTEXT: Map008/events/8/pages/0/156/Choice/1
-> CONTEXT: Map008/events/8/pages/0/156/Choice/1
 Sex sensitivity#MTLed
 > END STRING
 
@@ -895,9 +919,9 @@ Sex sensitivity#MTLed
 本作では、体力が0になると戦闘に敗北となりますが、
 \\C[2]精神力が0になっても敗北になってしまいます。
 \\C[0]体力だけでなく、精神の値にも気を配っておきましょう。
+> CONTEXT: Map008/events/8/pages/0/158/Dialogue
 > CONTEXT: Map008/events/11/pages/0/159/Dialogue
 > CONTEXT: Map008/events/24/pages/0/159/Dialogue
-> CONTEXT: Map008/events/8/pages/0/158/Dialogue
 The mental power is \\N[12] It is a parameter indicating
 the wariness of. In this work, when the physical strength
 becomes 0, it becomes defeat in battle, \\C[2]Even if mental
@@ -910,8 +934,8 @@ to the value of mind.#MTLed
 最大値は基本的に100で固定であり、
 レベルアップしても上昇しませんが、
 例外として、装飾品の補正値で多少上昇する場合があります。
-> CONTEXT: Map008/events/24/pages/0/164/Dialogue
 > CONTEXT: Map008/events/8/pages/0/163/Dialogue
+> CONTEXT: Map008/events/24/pages/0/164/Dialogue
 The maximum value is basically fixed at 100,
 Although it does not rise even if you level up,
 As an exception, it may rise somewhat with the correction
@@ -922,8 +946,8 @@ value of accessories.#MTLed
 性感攻撃や金的攻撃などを受けると精神にダメージを受けます。
 特に、戦闘中に射精をした場合は大きく減少しますので
 注意が必要です。
-> CONTEXT: Map008/events/24/pages/0/168/Dialogue
 > CONTEXT: Map008/events/8/pages/0/167/Dialogue
+> CONTEXT: Map008/events/24/pages/0/168/Dialogue
 When you receive sexual attacks or gold attacks, you will
 receive mental damage. Especially when you ejaculate during
 battle it will be greatly reduced. You should be careful.#MTLed
@@ -934,8 +958,8 @@ battle it will be greatly reduced. You should be careful.#MTLed
 自然に0になってしまうことがありますが、
 その場合は、即座に敗北になることはありません。
 その状態でさらに精神へのダメージを受けた場合は敗北となります。
-> CONTEXT: Map008/events/24/pages/0/172/Dialogue
 > CONTEXT: Map008/events/8/pages/0/171/Dialogue
+> CONTEXT: Map008/events/24/pages/0/172/Dialogue
 In addition, by using techniques that consume mental values
 Although it may naturally become 0, In that case, you will
 not be instantly defeated. If you receive further mental
@@ -947,9 +971,9 @@ damage in that state it will be defeated.#MTLed
 特殊パラメータです。
 戦闘中に性感攻撃を受け、『勃起』状態になったまま
 さらに性感攻撃を受けたり、ターンが経過したりすると増加します。
+> CONTEXT: Map008/events/8/pages/0/178/Dialogue
 > CONTEXT: Map008/events/11/pages/0/171/Dialogue
 > CONTEXT: Map008/events/24/pages/0/179/Dialogue
-> CONTEXT: Map008/events/8/pages/0/178/Dialogue
 It is displayed in a dedicated window during menu screen or
 battle. It is a special parameter. Under sexual assault
 during battle, staying in "erection" state
@@ -961,9 +985,9 @@ turns pass.#MTLed
 女の子、あるいは女性モンスターとの戦闘中に
 この値が10を超えたままターンを終了すると
 自動的に『勃起』状態となってしまいます。
+> CONTEXT: Map008/events/8/pages/0/183/Dialogue
 > CONTEXT: Map008/events/11/pages/0/176/Dialogue
 > CONTEXT: Map008/events/24/pages/0/184/Dialogue
-> CONTEXT: Map008/events/8/pages/0/183/Dialogue
 During battle with girls or female monsters
 If this value exceeds 10 and you end the turn
 It will automatically become an "erection" state.#MTLed
@@ -973,23 +997,20 @@ It will automatically become an "erection" state.#MTLed
 さらに、20を超えている＋勃起状態のときに
 女の子から性感攻撃を受けると、
 \\N[12]は射精してしまい、大幅に精神力が減少します。
-また、相手によっては即死攻撃を仕掛けられてしまうことも……
-> CONTEXT: Map008/events/11/pages/0/180/Dialogue
-> CONTEXT: Map008/events/24/pages/0/188/Dialogue
+> CONTEXT: Map008/events/8/pages/0/187/Dialogue
 Furthermore, it exceeds 20 + when erection state
 When receiving a sexual assault from a girl,
 \\N[12] It will ejaculate, and the spirit power will
-decrease significantly. Also, depending on the opponent,
-you may be attacked by an instant death attack......#MTLed
+decrease significantly.#MTLed
 > END STRING
 
 > BEGIN STRING
 性感度は20を超えないようにするのはもちろん、
 できれば10未満を保つように心がけておくと、
 女の子との戦闘で有利に立ち回ることができるでしょう。
+> CONTEXT: Map008/events/8/pages/0/191/Dialogue
 > CONTEXT: Map008/events/11/pages/0/185/Dialogue
 > CONTEXT: Map008/events/24/pages/0/193/Dialogue
-> CONTEXT: Map008/events/8/pages/0/191/Dialogue
 Of course not to make it more than 20 sexuality,
 If you try to keep less than 10 if possible,
 You will be able to walk around advantageously in battle
@@ -1000,8 +1021,8 @@ with girls.#MTLed
 性感度は、体力や精神と同様、
 宿泊や薬によって回復させることができます。
 特に、薬は常に所持しておくことをオススメします。
-> CONTEXT: Map008/events/24/pages/0/197/Dialogue
 > CONTEXT: Map008/events/8/pages/0/195/Dialogue
+> CONTEXT: Map008/events/24/pages/0/197/Dialogue
 Sensitivity, as well as physical strength and spirit,
 It can be restored by accommodation or medicine.
 Especially, I recommend that you always have medicine.#MTLed
@@ -1009,18 +1030,16 @@ Especially, I recommend that you always have medicine.#MTLed
 
 > BEGIN STRING
 射精させられた直後の性感度
+> CONTEXT: Map008/events/8/pages/0/207/Choice/0
 > CONTEXT: Map008/events/11/pages/0/218/Choice/1
 > CONTEXT: Map008/events/24/pages/0/209/Choice/0
-> CONTEXT: Map008/events/8/pages/0/207/Choice/0
-> CONTEXT: Map008/events/8/pages/0/207/Choice/0
 Sex sensitivity right after being ejaculated#MTLed
 > END STRING
 
 > BEGIN STRING
 負け方によってHシーンが変化する敵
+> CONTEXT: Map008/events/8/pages/0/207/Choice/1
 > CONTEXT: Map008/events/24/pages/0/209/Choice/1
-> CONTEXT: Map008/events/8/pages/0/207/Choice/1
-> CONTEXT: Map008/events/8/pages/0/207/Choice/1
 Enemy whose H scene changes according to how to lose#MTLed
 > END STRING
 
@@ -1029,9 +1048,9 @@ Enemy whose H scene changes according to how to lose#MTLed
 性感度が下降しますが、
 必ず0にまで下がるとは限りません。
 食らった技によって、射精直後の性感度には幅があります。
+> CONTEXT: Map008/events/8/pages/0/209/Dialogue
 > CONTEXT: Map008/events/11/pages/0/236/Dialogue
 > CONTEXT: Map008/events/24/pages/0/211/Dialogue
-> CONTEXT: Map008/events/8/pages/0/209/Dialogue
 If you are ejaculated during battle, Sex sensitivity falls,
 It does not necessarily go down to 0. Depending on the
 technique I got, there is a range in sexual sensitivity
@@ -1043,9 +1062,9 @@ just after ejaculation.#MTLed
 ぱふぱふで射精させられた場合は10までしか下がりません。
 要するに、快楽が持続しやすいような技を受けて射精した場合、
 性感度が高い状態が続いてしまうのです。
+> CONTEXT: Map008/events/8/pages/0/214/Dialogue
 > CONTEXT: Map008/events/11/pages/0/241/Dialogue
 > CONTEXT: Map008/events/24/pages/0/216/Dialogue
-> CONTEXT: Map008/events/8/pages/0/214/Dialogue
 For example, if you ejaculate with a gold attack, sexual
 sensitivity will be 0, If you are ejaculated by you will
 only go down to 10. In short, when you ejaculate with
@@ -1057,9 +1076,9 @@ The state with high sex sensitivity continues.#MTLed
 こうなると、連続して射精に追い込まれてしまう危険が
 出てきますし、あっという間に精神敗北に追い込まれてしまう、
 ということも充分ありえますので、注意が必要です。
+> CONTEXT: Map008/events/8/pages/0/219/Dialogue
 > CONTEXT: Map008/events/11/pages/0/246/Dialogue
 > CONTEXT: Map008/events/24/pages/0/221/Dialogue
-> CONTEXT: Map008/events/8/pages/0/219/Dialogue
 In this way, there is a danger that you will be driven to
 ejaculation continuously. I will come out and be driven to
 mental defeasure in no time, It is enough that you need to
@@ -1070,8 +1089,8 @@ be careful.#MTLed
 一部のボスキャラクターは、体力が0になって敗北した場合と
 精神が0になって敗北した場合で
 Hシーンの内容が変わることがあります。
-> CONTEXT: Map008/events/24/pages/0/227/Dialogue
 > CONTEXT: Map008/events/8/pages/0/225/Dialogue
+> CONTEXT: Map008/events/24/pages/0/227/Dialogue
 Some boss characters are defeated when the physical
 strength becomes 0. In the case that the spirit is defeated
 with zero. The contents of H scene may change.#MTLed
@@ -1082,8 +1101,8 @@ with zero. The contents of H scene may change.#MTLed
 主に、誘惑攻撃をしようしてくる敵が、
 そうした仕様であることが多いので、
 負け方を楽しんでみたい場合は覚えておくとよいでしょう。
-> CONTEXT: Map008/events/24/pages/0/231/Dialogue
 > CONTEXT: Map008/events/8/pages/0/229/Dialogue
+> CONTEXT: Map008/events/24/pages/0/231/Dialogue
 Several such boss characters will appear after the martial
 arts tournament edition, Mainly, the enemy who is trying
 for a temptation attack, Because it is often such a
@@ -1224,6 +1243,21 @@ Luftinaif(s[191])#MTLed
 > END STRING
 
 > BEGIN STRING
+さらに、「勃起」状態のままでいると性感度というパラメータが増え
+これが20以上のときにエッチな技を食らうと射精してしまいます。
+射精すると、その後に致命的な隙を晒してしまうことになり、
+場合によってはそのままトドメをさされて敗北が確定することも……
+> CONTEXT: Map008/events/11/pages/0/48/Dialogue
+> CONTEXT: Map008/events/24/pages/0/48/Dialogue
+further,「erection」When it is still in state, the parameter
+of sexual sensation increases. If this is 20 or more you
+ejaculate if you take lewd skills. If you ejaculate, you
+will end up exposing a fatal gap afterwards,
+In some cases it may be decided as it is finisher and the
+defeat is determined ...#MTLed
+> END STRING
+
+> BEGIN STRING
 女の子の誘惑攻撃などに目を奪われ、
 主人公が棒立ちになってしまった状態です。
 敵からのダメージを受けた場合、あるいは
@@ -1300,6 +1334,18 @@ condition abnormality.#MTLed
 > END STRING
 
 > BEGIN STRING
+脱出コマンドは、彼我の能力差や乱数によって
+失敗することもありますが、
+失敗するたび、次回の脱出コマンドの成功率が上昇します。
+> CONTEXT: Map008/events/11/pages/0/147/Dialogue
+> CONTEXT: Map008/events/24/pages/0/147/Dialogue
+The escape command depends on the capacity difference of
+the ego and the random number. Although it may fail,
+Every time you fail, the success rate of the next escape
+command will rise.#MTLed
+> END STRING
+
+> BEGIN STRING
 屈服度
 > CONTEXT: Map008/events/11/pages/0/157/Choice/2
 Degree of freedom#MTLed
@@ -1316,6 +1362,20 @@ the level is raised. When you receive sexual attacks or
 gold attacks, you will receive mental damage.
 Especially when you ejaculate during battle,
 Attention is necessary because it will decrease greatly.#MTLed
+> END STRING
+
+> BEGIN STRING
+さらに、20を超えている＋勃起状態のときに
+女の子から性感攻撃を受けると、
+\\N[12]は射精してしまい、大幅に精神力が減少します。
+また、相手によっては即死攻撃を仕掛けられてしまうことも……
+> CONTEXT: Map008/events/11/pages/0/180/Dialogue
+> CONTEXT: Map008/events/24/pages/0/188/Dialogue
+Furthermore, it exceeds 20 + when erection state
+When receiving a sexual assault from a girl,
+\\N[12] It will ejaculate, and the spirit power will
+decrease significantly. Also, depending on the opponent,
+you may be attacked by an instant death attack......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1765,6 +1825,22 @@ Recovery spots will also appear so please use.#MTLed
 > END STRING
 
 > BEGIN STRING
+金庫について
+> CONTEXT: Map008/events/23/pages/0/28/Choice/0
+About safe#MTLed
+> END STRING
+
+> BEGIN STRING
+自宅には金庫が設置されており、お金を預けることができます。
+女の子に敗北した際、所持金を奪われてしまうことがありますが、
+そうなったときのための対策にご活用ください。
+> CONTEXT: Map008/events/23/pages/0/30/Dialogue
+Safe is installed at home and you can deposit money.
+When you defeat a girl, you may be deprived of your money,
+Please use it for measures to be taken when that happens.#MTLed
+> END STRING
+
+> BEGIN STRING
 自動ページ送りモードについて
 > CONTEXT: Map008/events/25/pages/0/0/Choice/0
 About automatic page feed mode#MTLed
@@ -1791,65 +1867,4 @@ pressing the ALT key during a conversation.
 When the set number of seconds elapses, it will
 automatically move to the next page. By pressing ALT again,
 the mode becomes invalid.#MTLed
-> END STRING
-
-> BEGIN STRING
-スキル『様子見』を習得しました。
-> CONTEXT: Map008/events/3/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/4/pages/0/10/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-さらに、「勃起」状態のままでいると性感度というパラメータが増え
-これが20以上のときにエッチな技を食らうと射精してしまいます。
-射精すると、その後に致命的な隙を晒してしまうことになります。
-> CONTEXT: Map008/events/8/pages/0/48/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-魅了と似た状態ですが、状態の自然解除までにかかるターン数は
-恍惚の方がやや長くなっています。
-また、耐性をつける方法が少ないため、厄介な状態異常です。
-> CONTEXT: Map008/events/8/pages/0/86/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-匂いで責められた場合に、この状態になってしまうことがあるので
-それらしい敵と出会った場合は注意しましょう。
-ただし、恍惚状態を誘発する技を使う敵はごく少数です。
-> CONTEXT: Map008/events/8/pages/0/90/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-脱出コマンドは、彼我の能力差や乱数によって
-失敗することもありますが、
-失敗するたび、次回の脱出コマンドの成功率が上昇していきます。
-> CONTEXT: Map008/events/8/pages/0/146/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-さらに、20を超えている＋勃起状態のときに
-女の子から性感攻撃を受けると、
-\\N[12]は射精してしまい、大幅に精神力が減少します。
-> CONTEXT: Map008/events/8/pages/0/187/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-金庫について
-> CONTEXT: Map008/events/23/pages/0/28/Choice/0 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-自宅には金庫が設置されており、お金を預けることができます。
-女の子に敗北した際、所持金を奪われてしまうことがありますが、
-そうなったときのための対策にご活用ください。
-> CONTEXT: Map008/events/23/pages/0/30/Dialogue < UNTRANSLATED
-
 > END STRING

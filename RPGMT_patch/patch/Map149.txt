@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 フリーバトル部屋
 > CONTEXT: Map149/display_name/
@@ -88,11 +88,23 @@ recorded exceptionally」#MTLed
 メイドさん
 「カウンターにいるメイドは、それぞれ
 左はエンディングリストと攻略法の確認ができ、
-右は戦闘敗北時以外のときに発生するHシーンの鑑賞ができます」
-> CONTEXT: None < UNUSED
+右は戦闘敗北時以外のときに発生するHシーンの鑑賞ができます。
+> CONTEXT: Map149/events/1/pages/0/29/Dialogue
 Maid. 「Maids at the counter are. On the left you can check
 the ending list and the strategy, The right can appreciate
-the H scene that occurs when battle is not defeated」#MTLed
+the H scene that occurs when battle is not defeated.#MTLed
+> END STRING
+
+> BEGIN STRING
+また、バニーガールに話しかければ
+回想バトルのキャラクターのフラグを一部操作したり
+現在の状態を引き継いでニューゲームを始めたりできます。
+気が向いたらご利用くださいね」
+> CONTEXT: Map149/events/1/pages/0/34/Dialogue
+Also, if you talk to bunny girl. Some of the characters
+flags of the recollection battle are operated
+You can take over the current state and start a new game.
+Please use it if you feel like it」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -191,11 +203,29 @@ Full Recovery#MTLed
 > END STRING
 
 > BEGIN STRING
+お金を0にする
+> CONTEXT: Map149/events/2/pages/0/60/Choice/2
+Make money zero#MTLed
+> END STRING
+
+> BEGIN STRING
+お金を100万にする
+> CONTEXT: Map149/events/2/pages/0/60/Choice/3
+Make money one million#MTLed
+> END STRING
+
+> BEGIN STRING
 メイドさん
 「性感度の最大値は30となっておりまーす！」
 > CONTEXT: Map149/events/2/pages/0/62/Dialogue
 > CONTEXT: Map023/events/87/pages/0/62/Dialogue
 Maid. 「The maximum value of sexuality is 30!」#MTLed
+> END STRING
+
+> BEGIN STRING
+お金を100にする
+> CONTEXT: Map149/events/2/pages/0/81/Choice/0
+Make money 100#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -219,19 +249,15 @@ Maid. 「It's a tool store.」#MTLed
 > CONTEXT: Map149/events/22/pages/0/9/Choice/0
 > CONTEXT: Map149/events/23/pages/0/8/Choice/0
 > CONTEXT: Map149/events/28/pages/0/8/Choice/0
+> CONTEXT: Map149/events/30/pages/0/13/Choice/0
 > CONTEXT: Map149/events/31/pages/0/8/Choice/0
 > CONTEXT: Map149/events/32/pages/0/9/Choice/0
+> CONTEXT: Map149/events/41/pages/0/0/Choice/0
 > CONTEXT: Map152/events/97/pages/1/0/Choice/0
+> CONTEXT: Map152/events/97/pages/2/2/Choice/0
 > CONTEXT: Map152/events/97/pages/3/0/Choice/0
 > CONTEXT: Map152/events/97/pages/4/0/Choice/0
 > CONTEXT: Map152/events/97/pages/7/0/Choice/0
-> CONTEXT: Map149/events/30/pages/0/13/Choice/0
-> CONTEXT: Map149/events/30/pages/0/13/Choice/0
-> CONTEXT: Map149/events/41/pages/0/0/Choice/0
-> CONTEXT: Map149/events/41/pages/0/0/Choice/0
-> CONTEXT: Map152/events/97/pages/2/2/Choice/0
-> CONTEXT: Map152/events/97/pages/2/2/Choice/0
-> CONTEXT: Map152/events/97/pages/9/0/Choice/0
 > CONTEXT: Map152/events/97/pages/9/0/Choice/0
 normal fight#MTLed
 > END STRING
@@ -455,14 +481,20 @@ Kiss hold only#MTLed
 > BEGIN STRING
 ※このバトルでは『デスソード』を装備して戦うと
 ルフティナの体力が50％以下になった時に立ち絵が裸になります。
-が、そのかわり敗北時のHシーンが
+が、その場合、敗北時のHシーンが
 お尻ペンペンで固定されてしまいますので、ご注意ください。
-> CONTEXT: None < UNUSED
+> CONTEXT: Map149/events/30/pages/0/8/Dialogue
 * In this battle, if you fight with equipping "Deathode"
 The standing picture becomes naked when Luftina's physical
-strength becomes 50% or less. However, the H scene at the
-time of defeat instead. Please be careful as it will be
-fixed with your butt.#MTLed
+strength becomes 50% or less. However, in that case, the H
+scene at the time of defeat is. Please be careful as it
+will be fixed with your butt.#MTLed
+> END STRING
+
+> BEGIN STRING
+ぱふぱふ　のみ
+> CONTEXT: Map149/events/30/pages/0/13/Choice/1
+Only#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -953,6 +985,1295 @@ After alumina tournament (sex)#MTLed
 > END STRING
 
 > BEGIN STRING
+\\N[12]
+「あいてっ！　な、なんだ！？」
+> CONTEXT: Map149/events/38/pages/0/2/Dialogue
+> CONTEXT: Map025/events/267/pages/0/17/Dialogue
+\\N[12]. 「Usually! What! ?」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ボーッと歩いてんじゃないよ、坊や。
+こんな路地裏に不用意に入ってくるなんて、
+さては田舎者だね？」
+> CONTEXT: Map149/events/38/pages/0/5/Dialogue
+> CONTEXT: Map025/events/267/pages/0/20/Dialogue
+A girl. 「You are not walking with a dash, Boy.
+To enter carelessly behind such an alley,
+Well, you are a redneck?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なんだ、お前はっ！
+いきなり突き飛ばしやがって」
+> CONTEXT: Map149/events/38/pages/0/11/Dialogue
+> CONTEXT: Map025/events/267/pages/0/26/Dialogue
+\\N[12]. 「What are you guys! Suddenly thrust away」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「あっさり袋小路に追い詰められといて
+意気がってんじゃないよ。
+さあ、金を置いてきな。大人しく出さないと怪我するよ？」
+> CONTEXT: Map149/events/38/pages/0/15/Dialogue
+> CONTEXT: Map025/events/267/pages/0/30/Dialogue
+A girl. 「Just being trapped in a blind alley
+You do not have a spirit. Come, leave your money. I will
+get hurt if I do not put it out as an adult?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（くっ、どうする？
+相手は女ひとりだが……
+かなりケンカ慣れしてそうな雰囲気だぞ）
+> CONTEXT: Map149/events/38/pages/0/20/Dialogue
+> CONTEXT: Map025/events/267/pages/0/35/Dialogue
+\\N[12]. (What do you do? Woman is the other person ...
+... It's like getting used to quite a fight)#MTLed
+> END STRING
+
+> BEGIN STRING
+金を渡す
+> CONTEXT: Map149/events/38/pages/0/25/Choice/0
+> CONTEXT: Map025/events/267/pages/0/40/Choice/0
+Pass money#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「はっ、こんなあっさり金を出すだなんて
+根性のない坊やだね。
+女相手にビビッっちまったのかい？　あははっ！」
+> CONTEXT: Map149/events/38/pages/0/27/Dialogue
+> CONTEXT: Map025/events/267/pages/0/42/Dialogue
+A girl. 「Ha ha, it's hard to get rid of this kind of money
+It is a geek with no guts. Did you have a shirt in your
+opponent? Hahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「じゃ、300Gほど置いてってもらおうか」
+> CONTEXT: Map149/events/38/pages/0/35/Dialogue
+> CONTEXT: Map025/events/267/pages/0/50/Dialogue
+A girl. 「Well, let me leave it at 300 G」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（今は300Gも持ってないぞ……
+くっ、こうなったら抵抗するしかない！）
+> CONTEXT: Map149/events/38/pages/0/39/Dialogue
+> CONTEXT: Map025/events/267/pages/0/54/Dialogue
+\\N[12]. (I do not have 300 G now .... Come on, you have
+to resist this way! )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女に300Gを差し出した。
+> CONTEXT: Map149/events/38/pages/0/47/Dialogue
+> CONTEXT: Map025/events/267/pages/0/62/Dialogue
+\\N[12] I offered 300 G to deliquent girl.#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「じゃあね、気をつけて帰るんだよ、坊や。
+また悪い女に引っかかりたくなけりゃね。
+キャハハハハッ！」
+> CONTEXT: Map149/events/38/pages/0/53/Dialogue
+> CONTEXT: Map025/events/267/pages/0/68/Dialogue
+A girl. 「Well, be careful and go home, little boy.
+I also have to get caught by a bad woman.
+Caught ha ha!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラルフ
+「くっ、あんな女にビビッて
+金を渡しちまうなんて……
+我ながら情けない……」
+> CONTEXT: Map149/events/38/pages/0/62/Dialogue
+> CONTEXT: Map025/events/267/pages/0/85/Dialogue
+Ralph. 「Cut in a shirt like that in a woman
+I will hand over money...I am miserable while I am ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「確かに逃げ場はないが……
+舐めるなよっ、
+俺は女ひとり相手に怯むような男じゃないぞ！」
+> CONTEXT: Map149/events/38/pages/0/71/Dialogue
+> CONTEXT: Map025/events/267/pages/0/94/Dialogue
+\\N[12]. 「Although there is no escape place indeed ...
+... Do not lick it, I am not a man who is frightened by a
+woman alone!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふん、大人しく出す気はないってか。
+じゃあ、ボコボコにしてやるしかないねぇ。
+覚悟しなっ！」
+> CONTEXT: Map149/events/38/pages/0/76/Dialogue
+> CONTEXT: Map025/events/267/pages/0/99/Dialogue
+A girl. 「Well, I do not mean to give it up as an adult.
+Well then, I have no choice but to make it.
+Get ready!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうだっ！
+剣士に襲いかかったのは間違いだったな！」
+> CONTEXT: Map149/events/38/pages/0/86/Dialogue
+> CONTEXT: Map025/events/267/pages/0/116/Dialogue
+\\N[12]. 「How! It was a mistake that we attacked the
+swordsmen!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「うっ、この野郎、やる……
+ボーッとした田舎者だと思ったが、
+身のこなしが実戦慣れしてやがる」
+> CONTEXT: Map149/events/38/pages/0/91/Dialogue
+> CONTEXT: Map025/events/267/pages/0/121/Dialogue
+A girl. 「U, this bastard, I'll do it ...
+I thought that it was a dirty countryman,
+My body will be accustomed to practical warfare」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「お前は兵士の詰め所にでも突き出してやるぜ。
+女だからって見逃しはしないっ！」
+> CONTEXT: Map149/events/38/pages/0/96/Dialogue
+> CONTEXT: Map025/events/267/pages/0/126/Dialogue
+\\N[12]. 「You'll protrude even at the soldier's stuff.
+I will not overlook it because it's a woman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ちっ、覚えてなっ！」
+> CONTEXT: Map149/events/38/pages/0/100/Dialogue
+> CONTEXT: Map025/events/267/pages/0/130/Dialogue
+A girl. 「Well, remember!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、逃げた……」
+> CONTEXT: Map149/events/38/pages/0/105/Dialogue
+> CONTEXT: Map025/events/267/pages/0/154/Dialogue
+\\N[12]. 「Oh, I ran away ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「王都でも、このあたりは治安が悪いのかな。
+気をつけたほうがいいのかもしれない」
+> CONTEXT: Map149/events/38/pages/0/108/Dialogue
+> CONTEXT: Map149/events/38/pages/1/53/Dialogue
+> CONTEXT: Map149/events/38/pages/1/329/Dialogue
+> CONTEXT: Map025/events/267/pages/0/157/Dialogue
+> CONTEXT: Map025/events/267/pages/1/85/Dialogue
+> CONTEXT: Map025/events/267/pages/1/426/Dialogue
+\\N[12]. 「I wonder whether security is bad around here
+in the Kingdom. Perhaps it is better to be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「そらそらっ、ちったぁ反撃してみなっ！」
+> CONTEXT: Map149/events/38/pages/0/120/Dialogue
+> CONTEXT: Map149/events/38/pages/1/64/Dialogue
+> CONTEXT: Map025/events/267/pages/0/166/Dialogue
+> CONTEXT: Map025/events/267/pages/1/93/Dialogue
+A girl. 「take that っ ち っ た っ て じ っ て み て な っ て!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐっ、がはっ！」
+> CONTEXT: Map149/events/38/pages/0/124/Dialogue
+> CONTEXT: Map149/events/38/pages/1/68/Dialogue
+> CONTEXT: Map149/events/38/pages/2/49/Dialogue
+> CONTEXT: Map025/events/267/pages/0/170/Dialogue
+> CONTEXT: Map025/events/267/pages/1/97/Dialogue
+> CONTEXT: Map025/events/267/pages/2/79/Dialogue
+\\N[12]. 「I guess!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女にボコボコに殴られ、
+抵抗できない！
+> CONTEXT: Map149/events/38/pages/0/127/Dialogue
+> CONTEXT: Map149/events/38/pages/1/71/Dialogue
+> CONTEXT: Map149/events/38/pages/2/52/Dialogue
+> CONTEXT: Map025/events/267/pages/0/173/Dialogue
+> CONTEXT: Map025/events/267/pages/1/100/Dialogue
+> CONTEXT: Map025/events/267/pages/2/82/Dialogue
+\\N[12] Was beaten by deliquent girl, I can not resist!#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「そうらっ、トドメだ！」
+> CONTEXT: Map149/events/38/pages/0/130/Dialogue
+> CONTEXT: Map149/events/38/pages/1/74/Dialogue
+> CONTEXT: Map025/events/267/pages/0/176/Dialogue
+> CONTEXT: Map025/events/267/pages/1/103/Dialogue
+A girl. 「That's finisher!」#MTLed
+> END STRING
+
+> BEGIN STRING
+不良少女は、\\N[12]の股間を蹴り上げる！
+> CONTEXT: Map149/events/38/pages/0/133/Dialogue
+> CONTEXT: Map149/events/38/pages/1/77/Dialogue
+> CONTEXT: Map149/events/38/pages/2/59/Dialogue
+> CONTEXT: Map025/events/267/pages/0/179/Dialogue
+> CONTEXT: Map025/events/267/pages/1/106/Dialogue
+> CONTEXT: Map025/events/267/pages/2/89/Dialogue
+deliquent girl, \\N[12] Kick up the crotch!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ……！」
+> CONTEXT: Map149/events/38/pages/0/139/Dialogue
+> CONTEXT: Map149/events/38/pages/1/83/Dialogue
+> CONTEXT: Map149/events/38/pages/2/65/Dialogue
+> CONTEXT: Map025/events/267/pages/0/185/Dialogue
+> CONTEXT: Map025/events/267/pages/1/112/Dialogue
+> CONTEXT: Map025/events/267/pages/2/95/Dialogue
+\\N[12]. 「Ah……!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐあああああぁぁぁぁっ！
+い、痛いっ……！」
+> CONTEXT: Map149/events/38/pages/0/147/Dialogue
+> CONTEXT: Map149/events/38/pages/1/91/Dialogue
+> CONTEXT: Map149/events/38/pages/2/73/Dialogue
+> CONTEXT: Map025/events/267/pages/0/193/Dialogue
+> CONTEXT: Map025/events/267/pages/1/120/Dialogue
+> CONTEXT: Map025/events/267/pages/2/103/Dialogue
+\\N[12]. 「Gou Aaaahhhhh! There, it hurts ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「キャハハッ！
+金玉蹴られた男が悶絶する姿、
+いつ見ても無様で滑稽だね、おっかしー！」
+> CONTEXT: Map149/events/38/pages/0/151/Dialogue
+> CONTEXT: Map025/events/267/pages/0/197/Dialogue
+A girl. 「kyahahah! A man whose Jinba kicked man is in
+agony, Whenever you look it's unsmoothly and funny, huh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「こ、この……！」
+> CONTEXT: Map149/events/38/pages/0/156/Dialogue
+> CONTEXT: Map025/events/267/pages/0/202/Dialogue
+\\N[12]. 「Here, this ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あぐっ！」
+> CONTEXT: Map149/events/38/pages/0/163/Dialogue
+> CONTEXT: Map149/events/38/pages/1/108/Dialogue
+> CONTEXT: Map149/events/38/pages/2/90/Dialogue
+> CONTEXT: Map128/events/6/pages/2/22/Dialogue
+> CONTEXT: Map116/events/5/pages/0/22/Dialogue
+> CONTEXT: Map116/events/6/pages/0/22/Dialogue
+> CONTEXT: Map115/events/2/pages/0/22/Dialogue
+> CONTEXT: Map116/events/10/pages/0/22/Dialogue
+> CONTEXT: Map097/events/18/pages/2/22/Dialogue
+> CONTEXT: Map095/events/7/pages/2/1/Dialogue
+> CONTEXT: Map097/events/20/pages/2/22/Dialogue
+> CONTEXT: Map097/events/21/pages/2/22/Dialogue
+> CONTEXT: Map097/events/22/pages/2/22/Dialogue
+> CONTEXT: Map097/events/23/pages/2/22/Dialogue
+> CONTEXT: Map075/events/23/pages/2/22/Dialogue
+> CONTEXT: Map075/events/25/pages/2/22/Dialogue
+> CONTEXT: Map075/events/26/pages/2/22/Dialogue
+> CONTEXT: Map075/events/30/pages/2/22/Dialogue
+> CONTEXT: Map025/events/267/pages/0/209/Dialogue
+> CONTEXT: Map025/events/267/pages/1/137/Dialogue
+> CONTEXT: Map025/events/267/pages/2/120/Dialogue
+\\N[12]. 「Thanks!」#MTLed
+> CONTEXT: Commonevents/183/72/Dialogue
+> CONTEXT: Commonevents/243/82/Dialogue
+\\N[12]. 「Thanks!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「女にボコボコにされて、踏みにじられる気分はどうだい？
+男のくせに情けないねー、あんた」
+> CONTEXT: Map149/events/38/pages/0/167/Dialogue
+> CONTEXT: Map149/events/38/pages/1/112/Dialogue
+> CONTEXT: Map025/events/267/pages/0/213/Dialogue
+> CONTEXT: Map025/events/267/pages/1/141/Dialogue
+A girl. 「How'd you feel like being stepped on by a woman?
+I am sad for a man 's honor, you」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「あんた、いっちょまえに剣なんかぶら下げてるけど、
+もしかして剣士のつもりなわけ？
+弱すぎて話にならないんだけど」
+> CONTEXT: Map149/events/38/pages/0/173/Dialogue
+> CONTEXT: Map149/events/38/pages/1/118/Dialogue
+> CONTEXT: Map025/events/267/pages/0/219/Dialogue
+> CONTEXT: Map025/events/267/pages/1/147/Dialogue
+A girl. 「You are hanging a sword somewhere in the end,
+Perhaps you're going to be a swordsman? It's too weak to
+talk」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うううっ……くそおぉっ……」
+> CONTEXT: Map149/events/38/pages/0/181/Dialogue
+> CONTEXT: Map149/events/38/pages/1/125/Dialogue
+> CONTEXT: Map149/events/38/pages/2/107/Dialogue
+> CONTEXT: Map025/events/267/pages/0/227/Dialogue
+> CONTEXT: Map025/events/267/pages/1/154/Dialogue
+> CONTEXT: Map025/events/267/pages/2/137/Dialogue
+\\N[12]. 「uuugh...... damn thing ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「さて、金は1000Gぐらい貰っといてやるよ。
+これに懲りたら、次からは大人しく差し出すことだね。
+そうすりゃ300Gで済むんだからさ」
+> CONTEXT: Map149/events/38/pages/0/185/Dialogue
+> CONTEXT: Map149/events/38/pages/1/129/Dialogue
+> CONTEXT: Map025/events/267/pages/0/231/Dialogue
+> CONTEXT: Map025/events/267/pages/1/158/Dialogue
+A girl. 「Well, I will give you around 1000 G of money.
+If you are discouraged by this, from now on put it out as
+an adult. That's because 300G is enough」#MTLed
+> END STRING
+
+> BEGIN STRING
+1000G　奪われた！
+> CONTEXT: Map149/events/38/pages/0/191/Dialogue
+> CONTEXT: Map149/events/38/pages/1/135/Dialogue
+> CONTEXT: Map149/events/38/pages/2/116/Dialogue
+> CONTEXT: Map025/events/267/pages/0/237/Dialogue
+> CONTEXT: Map025/events/267/pages/1/164/Dialogue
+> CONTEXT: Map025/events/267/pages/2/146/Dialogue
+I was robbed 1000 G!#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「さて、金は……
+ん？　まさか、1Gも持ってないってのかい？
+> CONTEXT: Map149/events/38/pages/0/197/Dialogue
+> CONTEXT: Map149/events/38/pages/1/141/Dialogue
+> CONTEXT: Map149/events/38/pages/2/122/Dialogue
+> CONTEXT: Map025/events/267/pages/0/243/Dialogue
+> CONTEXT: Map025/events/267/pages/1/170/Dialogue
+> CONTEXT: Map025/events/267/pages/2/152/Dialogue
+A girl. 「Well, gold ...... Hmm? No way, you do not even
+have 1G?#MTLed
+> END STRING
+
+> BEGIN STRING
+うわあ、哀れだねぇ。
+一文無しの上に、路地裏で女にボコられて
+踏みつけられてるとか、男として最低レベルじゃない？」
+\\N[12]
+> CONTEXT: Map149/events/38/pages/0/201/Dialogue
+> CONTEXT: Map025/events/267/pages/0/247/Dialogue
+Wow, I feel pathetic. On top of one sentence, a woman is
+stolen by the woman behind the alley. Is it the lowest
+level as a man, such as being stepped on?」
+\\N[12]#MTLed
+> END STRING
+
+> BEGIN STRING
+「う、ううっ……」
+> CONTEXT: Map149/events/38/pages/0/206/Dialogue
+> CONTEXT: Map025/events/267/pages/0/252/Dialogue
+「Uu......」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「さて、金は……
+なんだい、これっぽっちしか持ってないのかい。
+それじゃ、全部貰っといてやるよ」
+> CONTEXT: Map149/events/38/pages/0/210/Dialogue
+> CONTEXT: Map149/events/38/pages/1/158/Dialogue
+> CONTEXT: Map025/events/267/pages/0/256/Dialogue
+> CONTEXT: Map025/events/267/pages/1/187/Dialogue
+A girl. 「Well, gold ...... How are you, have only this one?
+Well then I'll give you all」#MTLed
+> END STRING
+
+> BEGIN STRING
+所持金をすべて奪われた！
+> CONTEXT: Map149/events/38/pages/0/216/Dialogue
+> CONTEXT: Map149/events/38/pages/1/164/Dialogue
+> CONTEXT: Map149/events/38/pages/2/145/Dialogue
+> CONTEXT: Map025/events/267/pages/0/262/Dialogue
+> CONTEXT: Map025/events/267/pages/1/193/Dialogue
+> CONTEXT: Map025/events/267/pages/2/175/Dialogue
+I was robbed of all my money!#MTLed
+> CONTEXT: Commonevents/4/23/Dialogue
+> CONTEXT: Commonevents/258/23/Dialogue
+I was robbed of all my money!#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「それじゃね、坊や。
+ボコボコにされたいか、金を貢ぎたかったら
+またここに来てもいいんだよ？　あはははっ！」
+> CONTEXT: Map149/events/38/pages/0/223/Dialogue
+> CONTEXT: Map149/events/38/pages/1/171/Dialogue
+> CONTEXT: Map025/events/267/pages/0/269/Dialogue
+> CONTEXT: Map025/events/267/pages/1/200/Dialogue
+A girl. 「Well, boy. Want to be made into, I would like to
+contribute money. You can come here again? Hahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「く、くそっ……
+あんなチンピラ女に負けて、踏みにじられちまうなんて
+なんて情けないんだ……」
+> CONTEXT: Map149/events/38/pages/0/229/Dialogue
+> CONTEXT: Map025/events/267/pages/0/275/Dialogue
+\\N[12]. 「Damn it...damn. I can not lose to such a
+small fry mob woman, I'm trampled. How miserable.......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女にケンカを吹っかけられて
+ボコボコにされ、
+お金を巻き上げられてしまった……
+> CONTEXT: Map149/events/38/pages/0/234/Dialogue
+> CONTEXT: Map149/events/38/pages/1/182/Dialogue
+> CONTEXT: Map025/events/267/pages/0/280/Dialogue
+> CONTEXT: Map025/events/267/pages/1/217/Dialogue
+\\N[12] Is blowing a fight on deliquent girl
+It is done, I got my money rolled up ...#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「あ、こないだあたしにビビッて金を置いてってくれた
+情けない男じゃん。
+また来たんだ」
+> CONTEXT: Map149/events/38/pages/1/4/Dialogue
+> CONTEXT: Map025/events/267/pages/1/3/Dialogue
+A girl. 「Oh, I have put money on me at in shock the other
+day. It is a miserable man. I came again.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……」
+> CONTEXT: Map149/events/38/pages/1/9/Dialogue
+> CONTEXT: Map149/events/38/pages/1/291/Dialogue
+> CONTEXT: Map141/events/4/pages/0/108/Dialogue
+> CONTEXT: Map141/events/37/pages/0/109/Dialogue
+> CONTEXT: Map147/events/2/pages/15/150/Dialogue
+> CONTEXT: Map139/events/2/pages/0/125/Dialogue
+> CONTEXT: Map147/events/17/pages/0/314/Dialogue
+> CONTEXT: Map057/events/25/pages/0/118/Dialogue
+> CONTEXT: Map041/events/26/pages/0/128/Dialogue
+> CONTEXT: Map041/events/27/pages/0/123/Dialogue
+> CONTEXT: Map041/events/28/pages/0/130/Dialogue
+> CONTEXT: Map041/events/29/pages/0/130/Dialogue
+> CONTEXT: Map025/events/267/pages/1/15/Dialogue
+> CONTEXT: Map041/events/30/pages/0/130/Dialogue
+> CONTEXT: Map025/events/267/pages/1/363/Dialogue
+> CONTEXT: Map005/events/3/pages/0/68/Dialogue
+\\N[12]. 「Damn」#MTLed
+> CONTEXT: Map032/events/50/pages/1/236/Dialogue
+> CONTEXT: Commonevents/154/41/Dialogue
+> CONTEXT: Commonevents/155/6/Dialogue
+> CONTEXT: Commonevents/200/318/Dialogue
+> CONTEXT: Commonevents/205/305/Dialogue
+> CONTEXT: Commonevents/246/45/Dialogue
+> CONTEXT: Commonevents/248/337/Dialogue
+> CONTEXT: Commonevents/263/161/Dialogue
+\\N[12]. 「Damn」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「で、なんで来たわけ？
+まさか、こないだの仕返しにでも来たとか
+言うんじゃないだろうね」
+> CONTEXT: Map149/events/38/pages/1/12/Dialogue
+> CONTEXT: Map025/events/267/pages/1/18/Dialogue
+A girl. 「So why did you come? No way, I came even in the
+revenge of the past. You do not have to say」#MTLed
+> END STRING
+
+> BEGIN STRING
+お金を払って見逃してもらう
+> CONTEXT: Map149/events/38/pages/1/17/Choice/1
+> CONTEXT: Map149/events/38/pages/1/299/Choice/1
+> CONTEXT: Map025/events/267/pages/1/23/Choice/1
+> CONTEXT: Map025/events/267/pages/1/371/Choice/1
+Pay money and overlook it#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「もうお前に渡す金なんてないぜ。
+この前はつい腰が引けちまったが……
+今回は、お前をこらしめてやろうと思ってな」
+> CONTEXT: Map149/events/38/pages/1/19/Dialogue
+> CONTEXT: Map025/events/267/pages/1/25/Dialogue
+\\N[12]. 「There is no money to give to you anymore.
+The last waist caught before .... This time, I'm thinking
+of cunning you」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「へえ、あたしとケンカしようっての？
+面白いじゃん、あんたみたいなヘタレが
+あたしにかなうとでも思ってんの？」
+> CONTEXT: Map149/events/38/pages/1/24/Dialogue
+> CONTEXT: Map025/events/267/pages/1/30/Dialogue
+A girl. 「Oh, are you trying to fight with me?
+It's funny, you look like you. Do you even think that I
+will meet you?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「やってみれば分かるぜ。
+来いっ！」
+> CONTEXT: Map149/events/38/pages/1/29/Dialogue
+> CONTEXT: Map025/events/267/pages/1/35/Dialogue
+\\N[12]. 「I can tell by doing it. Come!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうだっ！
+お前は兵士の詰め所にでも突き出してやるぜ。
+女だからって見逃しはしないっ！」
+> CONTEXT: Map149/events/38/pages/1/37/Dialogue
+> CONTEXT: Map149/events/38/pages/1/314/Dialogue
+> CONTEXT: Map025/events/267/pages/1/50/Dialogue
+> CONTEXT: Map025/events/267/pages/1/391/Dialogue
+\\N[12]. 「How! You'll protrude even at the soldier's
+stuff. I will not overlook it because it's a woman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ちっ、こんな男にやられちまうなんて……
+覚えてなっ！」
+> CONTEXT: Map149/events/38/pages/1/42/Dialogue
+> CONTEXT: Map149/events/38/pages/1/319/Dialogue
+> CONTEXT: Map025/events/267/pages/1/55/Dialogue
+> CONTEXT: Map025/events/267/pages/1/396/Dialogue
+A girl. 「Well, I guess I can get stuck by a man like this
+... Remember it!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、逃げた……
+くそっ、金を取り戻し損ねたか」
+> CONTEXT: Map149/events/38/pages/1/49/Dialogue
+> CONTEXT: Map149/events/38/pages/1/325/Dialogue
+> CONTEXT: Map025/events/267/pages/1/81/Dialogue
+> CONTEXT: Map025/events/267/pages/1/422/Dialogue
+\\N[12]. 「Oh, I ran away...Damn, did I miss the money?
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「キャハハッ！
+金玉蹴られた男が悶絶する姿、
+いつ見ても無様で滑稽だわ」
+> CONTEXT: Map149/events/38/pages/1/95/Dialogue
+> CONTEXT: Map149/events/38/pages/2/77/Dialogue
+> CONTEXT: Map025/events/267/pages/1/124/Dialogue
+> CONTEXT: Map025/events/267/pages/2/107/Dialogue
+A girl. 「kyahahah! A man whose Jinba kicked man is in
+agony, It is unsightly and ridiculous whenever you look」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うぐぐっ……
+ち、ちくしょうっ……！」
+> CONTEXT: Map149/events/38/pages/1/100/Dialogue
+> CONTEXT: Map149/events/38/pages/2/82/Dialogue
+> CONTEXT: Map025/events/267/pages/1/129/Dialogue
+> CONTEXT: Map025/events/267/pages/2/112/Dialogue
+\\N[12]. 「Ugging...っ ち ょ う, ち ょ う ょ う っ っ っ!」#MTLed
+> END STRING
+
+> BEGIN STRING
+うわあ、哀れだねぇ。
+一文無しの上に、路地裏で女にボコられて
+踏みつけられてるとか、男として最低レベルじゃない？」
+> CONTEXT: Map149/events/38/pages/1/145/Dialogue
+> CONTEXT: Map149/events/38/pages/2/126/Dialogue
+> CONTEXT: Map025/events/267/pages/1/174/Dialogue
+> CONTEXT: Map025/events/267/pages/2/156/Dialogue
+Wow, I feel pathetic. On top of one sentence, a woman is
+stolen by the woman behind the alley. Is it the lowest
+level as a man, such as being stepped on?」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ま、あんまりにも哀れだし、今回は見逃してやるよ。
+あたしはあんたをボコっただけでも楽しかったしね」
+> CONTEXT: Map149/events/38/pages/1/152/Dialogue
+> CONTEXT: Map025/events/267/pages/1/181/Dialogue
+A girl. 「Well, I am pathetic and I will overlook this time.
+I enjoyed just having you bothered」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「く、くそっ……
+あんなチンピラ女に負けて、踏みにじられちまうなんて
+なんて情けないんだ……ううっ……」
+> CONTEXT: Map149/events/38/pages/1/177/Dialogue
+> CONTEXT: Map149/events/38/pages/2/158/Dialogue
+> CONTEXT: Map025/events/267/pages/1/212/Dialogue
+> CONTEXT: Map025/events/267/pages/2/194/Dialogue
+\\N[12]. 「Damn it...damn. I can not lose to such a
+small fry mob woman, I'm trampled. How miserable......
+uugh ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「い、いや……
+その……」
+> CONTEXT: Map149/events/38/pages/1/197/Dialogue
+> CONTEXT: Map025/events/267/pages/1/233/Dialogue
+\\N[12]. 「No……. That……」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふふっ、なに震えてんの？
+やっぱビビッてんじゃん」
+> CONTEXT: Map149/events/38/pages/1/201/Dialogue
+> CONTEXT: Map025/events/267/pages/1/237/Dialogue
+A girl. 「Fuu, what are you trembling? I guess in shock
+tenchan」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「大の男が、女に震えて逆らえないとか
+ホントに金玉ついてるわけ？
+情けなさすぎでしょ、キャハハハッ！
+> CONTEXT: Map149/events/38/pages/1/208/Dialogue
+> CONTEXT: Map025/events/267/pages/1/244/Dialogue
+A girl. 「The big guy trembling and not going against
+Is he really brutal? You are too merciless, kyahahahah!#MTLed
+> END STRING
+
+> BEGIN STRING
+ほら、あたしとケンカする気がないってんなら
+さっさと金出しなよ」
+> CONTEXT: Map149/events/38/pages/1/213/Dialogue
+> CONTEXT: Map025/events/267/pages/1/249/Dialogue
+Hey, if you do not feel like fighting with me
+Get out of your money quickly」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「は？　金持ってないじゃん、あんた。
+それでよくあたしの前に顔を出せたね。
+おらっ！」
+> CONTEXT: Map149/events/38/pages/1/217/Dialogue
+> CONTEXT: Map025/events/267/pages/1/255/Dialogue
+A girl. 「? I do not have any money, you.
+Well I could often see a face in front of me.
+Here!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「がはっ！」
+> CONTEXT: Map149/events/38/pages/1/227/Dialogue
+> CONTEXT: Map025/events/267/pages/1/269/Dialogue
+\\N[12]. 「Hi!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「こうなったら、あんたをボコって楽しませてもらうよ！
+そらそらっ！」
+> CONTEXT: Map149/events/38/pages/1/230/Dialogue
+> CONTEXT: Map025/events/267/pages/1/275/Dialogue
+A girl. 「If this is the case, I'll let you enjoy it!
+take that っ!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うあっ、痛いっ……
+や、やめてくれっ、俺が悪かったからっ！」
+> CONTEXT: Map149/events/38/pages/1/235/Dialogue
+> CONTEXT: Map025/events/267/pages/1/280/Dialogue
+\\N[12]. 「Wow, that hurts...Or, stop it, because I
+was bad!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「はんっ、あげくの果てに女相手に命乞いだなんて、
+男のプライドとか持ってないわけ？
+あんた、もう死んだほうがいいんじゃない」
+> CONTEXT: Map149/events/38/pages/1/239/Dialogue
+> CONTEXT: Map025/events/267/pages/1/284/Dialogue
+A girl. 「At the end of the ceremony, Do not you have a man
+'s pride or something? You should not die anymore」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「まあいいや、ボコボコにして少しは気が晴れたし。
+そんじゃ、さっさとどっか行っちまいな。
+今度来るときは、ちゃんと金持ってこいよ、クズ」
+> CONTEXT: Map149/events/38/pages/1/249/Dialogue
+> CONTEXT: Map025/events/267/pages/1/294/Dialogue
+A girl. 「Well, it made me nice, I felt a little sick.
+Then, you can go quickly somewhere. When coming next time,
+please bring your money properly, Kuzu」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女に一方的に暴行され、
+路地裏から叩き出された……
+> CONTEXT: Map149/events/38/pages/1/255/Dialogue
+> CONTEXT: Map025/events/267/pages/1/308/Dialogue
+\\N[12] Was assaulted unilaterally by deliquent girl,
+I was beaten up from the alley......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はお金を差し出した。
+> CONTEXT: Map149/events/38/pages/1/269/Dialogue
+> CONTEXT: Map149/events/38/pages/1/466/Dialogue
+> CONTEXT: Map025/events/267/pages/1/325/Dialogue
+> CONTEXT: Map025/events/267/pages/1/583/Dialogue
+\\N[12] I offered money.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふふん、ありがたくもらっとくよ。
+そんじゃバイバイ、ヘタレな坊や。
+また貢ぎたくなったらいつでも来なよ♪」
+> CONTEXT: Map149/events/38/pages/1/272/Dialogue
+> CONTEXT: Map025/events/267/pages/1/328/Dialogue
+\\N[12]. 「Come on, thank you. Then, bye bye, hetale boy.
+You can come any time you want to go again♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女を前にして怯えてしまい、
+またもやお金を自分から差し出してしまった。
+> CONTEXT: Map149/events/38/pages/1/277/Dialogue
+> CONTEXT: Map025/events/267/pages/1/333/Dialogue
+\\N[12] I was frightened in front of deliquent girl,
+I offered money from myself again.#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「あれ？　あんた、また来たんだ。
+ふふっ、もうビビッてここには近づかないと思ってたよ」
+> CONTEXT: Map149/events/38/pages/1/287/Dialogue
+> CONTEXT: Map025/events/267/pages/1/351/Dialogue
+A girl. 「that? You came again. Haha, I was already in
+shock and I thought that I would not come here」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「で？　何しに来たわけ？
+まさか、こないだの仕返しに来たとか
+言うんじゃないだろうね」
+> CONTEXT: Map149/events/38/pages/1/294/Dialogue
+> CONTEXT: Map025/events/267/pages/1/366/Dialogue
+A girl. 「so? Why did you come? No way, I came to get back
+for the last time. You do not have to say」#MTLed
+> END STRING
+
+> BEGIN STRING
+仕返しする
+> CONTEXT: Map149/events/38/pages/1/299/Choice/0
+> CONTEXT: Map025/events/267/pages/1/371/Choice/0
+To retaliate#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「もちろん、リベンジに来た！
+お前みたいなチンピラ女にやられっぱなしでいたら
+剣士として情けなさすぎるからな！」
+> CONTEXT: Map149/events/38/pages/1/301/Dialogue
+> CONTEXT: Map025/events/267/pages/1/373/Dialogue
+\\N[12]. 「Of course, I came to the revenge!
+Small fry mob like you If you keep being killed
+I am overwhelmed as a swordsman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふん、チンピラとはご挨拶じゃん。
+また女にボコられる屈辱をたっぷり味わわせてやるよっ！」
+> CONTEXT: Map149/events/38/pages/1/306/Dialogue
+> CONTEXT: Map025/events/267/pages/1/378/Dialogue
+A girl. 「Hmm, I'm a greeting with small fry mob.
+I will taste plenty of humiliation burned by a woman!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふふん、意気込んでリベンジに来といて、その程度なわけ？
+ケンカで女に負けて、地面に這いつくばって
+情けない男だね、あんた」
+> CONTEXT: Map149/events/38/pages/1/345/Dialogue
+> CONTEXT: Map025/events/267/pages/1/442/Dialogue
+A girl. 「Differently, I came to revenge enthusiastically,
+is that the reason? Lose to the woman with a fight, crawl
+on the ground. You're a miserable guy, you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うぐっ……
+く、くそぉっ……」
+> CONTEXT: Map149/events/38/pages/1/351/Dialogue
+> CONTEXT: Map025/events/267/pages/1/448/Dialogue
+\\N[12]. 「Ugly...Damn it ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ま、あたしとしちゃあ弱い男をボコるのは
+ストレス解消にもなって金も巻き上げられるし
+ありがたいことなんだけどねー」
+> CONTEXT: Map149/events/38/pages/1/355/Dialogue
+> CONTEXT: Map025/events/267/pages/1/452/Dialogue
+A girl. 「Well, it is my fault that I am a weak man
+You can also relax stress and win money. Thankfully it is
+not」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「って、金持ってないわけ？
+ったく、一文無しの上に女にボコボコにされてるとか
+生きてて恥ずかしくならない？」
+> CONTEXT: Map149/events/38/pages/1/361/Dialogue
+> CONTEXT: Map025/events/267/pages/1/458/Dialogue
+A girl. 「You do not have money? Wanted to be a woman on
+top of one sentence. Do not be ashamed to live?」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「まあいいや、次はちゃんと金持ってきなよ。
+んじゃ、バイバイ、弱っちぃ坊や♪」
+> CONTEXT: Map149/events/38/pages/1/369/Dialogue
+> CONTEXT: Map025/events/267/pages/1/466/Dialogue
+A girl. 「Well, okay, bring me money for the next.
+Bye, bye bye, weak chiyo boy♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女とケンカをして
+再度ボコボコにされ、路地裏から叩き出された。
+> CONTEXT: Map149/events/38/pages/1/374/Dialogue
+> CONTEXT: Map025/events/267/pages/1/471/Dialogue
+\\N[12] Doing a fight with deliquent girl
+It was done again and was beaten out from the back alley.#MTLed
+> END STRING
+
+> BEGIN STRING
+お金を奪われた！
+> CONTEXT: Map149/events/38/pages/1/385/Dialogue
+> CONTEXT: Map025/events/267/pages/1/491/Dialogue
+I was robbed of money!#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「お金いただき♪
+んじゃ、またね坊や。
+あんたみたいなカモならいつでも歓迎だよ、キャハハッ！」
+> CONTEXT: Map149/events/38/pages/1/388/Dialogue
+> CONTEXT: Map025/events/267/pages/1/494/Dialogue
+A girl. 「For money♪. Hey, buddy again. If you like a duck,
+you are always welcome, kyahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……
+く、悔しすぎるっ……！」
+> CONTEXT: Map149/events/38/pages/1/393/Dialogue
+> CONTEXT: Map025/events/267/pages/1/499/Dialogue
+\\N[12]. 「Uu...... Well, I regret too ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女とケンカをして
+またもボコボコにされた上、
+金を巻き上げられてしまった……
+> CONTEXT: Map149/events/38/pages/1/398/Dialogue
+> CONTEXT: Map025/events/267/pages/1/504/Dialogue
+\\N[12] Doing a fight with deliquent girl
+In addition to being done again, Gold was rolled up......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う……」
+> CONTEXT: Map149/events/38/pages/1/413/Dialogue
+> CONTEXT: Map152/events/24/pages/12/387/Dialogue
+> CONTEXT: Map152/events/24/pages/12/863/Dialogue
+> CONTEXT: Map025/events/267/pages/1/528/Dialogue
+> CONTEXT: Map043/events/24/pages/13/411/Dialogue
+> CONTEXT: Map043/events/24/pages/13/911/Dialogue
+\\N[12]. 「Well ...」#MTLed
+> CONTEXT: Commonevents/239/226/Dialogue
+> CONTEXT: Commonevents/240/226/Dialogue
+\\N[12]. 「Well ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ん？　なにやってんの、腰が引けてるし
+体も震えてない？
+あ、まさか……」
+> CONTEXT: Map149/events/38/pages/1/416/Dialogue
+> CONTEXT: Map025/events/267/pages/1/531/Dialogue
+A girl. 「Hmm? What are you doing, your waist is pulling
+Your body is not trembling? Oh, no way ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「あはっ。おおかた、仕返しに来たはいいものの
+あたしにボコボコにされたのを思い出して
+怖くなっちまったってとこじゃないの？」
+> CONTEXT: Map149/events/38/pages/1/421/Dialogue
+> CONTEXT: Map025/events/267/pages/1/536/Dialogue
+A girl. 「Hahah. Often, although it is nice to come back
+Remembering being made to me. Is not it scared to be
+scared?」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふーん、そんなにあたしにボコされたのが
+トラウマになっちゃったんだぁ。
+ふふっ、また金玉蹴ってやろうか？」
+> CONTEXT: Map149/events/38/pages/1/429/Dialogue
+> CONTEXT: Map025/events/267/pages/1/544/Dialogue
+A girl. 「Hmm, that was why I was bothered by that much
+I got trauma. Huh, will I kick the gold ball again?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ひっ……！」
+> CONTEXT: Map149/events/38/pages/1/434/Dialogue
+> CONTEXT: Map025/events/267/pages/1/549/Dialogue
+\\N[12]. 「Hit ...!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「キャハハッ！　女みたいな悲鳴上げちゃって
+情けなーい♪
+ま、金払えば見逃してやってもいいよ。ほら、出しな」
+> CONTEXT: Map149/events/38/pages/1/437/Dialogue
+> CONTEXT: Map025/events/267/pages/1/552/Dialogue
+A girl. 「kyahahah! I screamed like a girlfriend
+Miserable♪. Well, if you pay, you can overlook it. Here.」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ん？　金持ってないんだ、あんた。
+ったく、何しに来たわけ？
+ってそうか、リベンジに来たんだっけ、あははっ！」
+> CONTEXT: Map149/events/38/pages/1/446/Dialogue
+> CONTEXT: Map025/events/267/pages/1/563/Dialogue
+A girl. 「Hmm? I do not have any money, you.
+Why did you come to do? I see, I came to the revenge,
+Hahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うう……」
+> CONTEXT: Map149/events/38/pages/1/451/Dialogue
+> CONTEXT: Map152/events/24/pages/12/308/Dialogue
+> CONTEXT: Map152/events/24/pages/12/784/Dialogue
+> CONTEXT: Map111/events/2/pages/0/155/Dialogue
+> CONTEXT: Map074/events/27/pages/0/29/Dialogue
+> CONTEXT: Map074/events/41/pages/0/103/Dialogue
+> CONTEXT: Map074/events/45/pages/0/29/Dialogue
+> CONTEXT: Map074/events/46/pages/0/29/Dialogue
+> CONTEXT: Map074/events/47/pages/0/29/Dialogue
+> CONTEXT: Map074/events/48/pages/0/29/Dialogue
+> CONTEXT: Map074/events/49/pages/0/29/Dialogue
+> CONTEXT: Map025/events/267/pages/1/568/Dialogue
+> CONTEXT: Map043/events/24/pages/13/332/Dialogue
+> CONTEXT: Map043/events/24/pages/13/832/Dialogue
+\\N[12]. 「UU……」#MTLed
+> CONTEXT: Commonevents/136/145/Dialogue
+> CONTEXT: Commonevents/239/147/Dialogue
+> CONTEXT: Commonevents/240/147/Dialogue
+> CONTEXT: Commonevents/285/144/Dialogue
+\\N[12]. 「UU……」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「まあいいや、じゃあ金は今度持ってきな。
+さすがに哀れすぎて、何もする気しないから
+見逃してあげる」
+> CONTEXT: Map149/events/38/pages/1/454/Dialogue
+> CONTEXT: Map025/events/267/pages/1/571/Dialogue
+A girl. 「Well, OK, then bring me money next time.
+It is truly pitiful and I do not feel like doing anything
+I will miss it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女への恐怖から
+再挑戦することもできず、すごすごと裏路地を後にした……
+> CONTEXT: Map149/events/38/pages/1/460/Dialogue
+> CONTEXT: Map025/events/267/pages/1/577/Dialogue
+\\N[12] Because of the fear of deliquent girl
+I could not even try again, and I left the alley back ...
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふふん、じゃあこれは貰っとくよ。
+またあたしに貢ぎたくなったら、いつでも来なよ。
+んじゃ、またねー♪」
+> CONTEXT: Map149/events/38/pages/1/470/Dialogue
+> CONTEXT: Map025/events/267/pages/1/587/Dialogue
+A girl. 「Come on, then I can get this. If you want to
+become tired of me again, come any time.
+Hey, see you again.♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女への恐怖から、
+再挑戦することもできず、自分から金を差し出し
+震えながらその場を立ち去った……
+> CONTEXT: Map149/events/38/pages/1/476/Dialogue
+> CONTEXT: Map025/events/267/pages/1/593/Dialogue
+\\N[12] Because of the fear of deliquent girl,
+I can not even try again, give me money from myself
+I left the spot with trembling......#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「あっ、てめえっ！」
+> CONTEXT: Map149/events/38/pages/2/4/Dialogue
+> CONTEXT: Map025/events/267/pages/2/3/Dialogue
+A girl. 「Oh, it's alright!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「こないだはよくもやってくれたな！
+今日はきっちり借りを返してやる！」
+> CONTEXT: Map149/events/38/pages/2/7/Dialogue
+> CONTEXT: Map025/events/267/pages/2/13/Dialogue
+A girl. 「He did it well the other day! I will definitely
+return borrowed today!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まだ懲りないのか？
+ったく、どうしてもやるってんなら仕方ないが……」
+> CONTEXT: Map149/events/38/pages/2/11/Dialogue
+> CONTEXT: Map025/events/267/pages/2/17/Dialogue
+\\N[12]. 「Have you not learned yet? It would be
+unavoidable if it would absolutely do it ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「そのキンタマ、蹴り潰してやるぜっ！」
+> CONTEXT: Map149/events/38/pages/2/15/Dialogue
+> CONTEXT: Map025/events/267/pages/2/21/Dialogue
+A girl. 「That kintama, I'll kick you!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「どうやら反省してないようだし、今度こそ兵士の詰め所にでも
+行ってもらうぜっ」
+> CONTEXT: Map149/events/38/pages/2/22/Dialogue
+> CONTEXT: Map025/events/267/pages/2/35/Dialogue
+\\N[12]. 「Apparently I do not seem to be reflecting,
+even this time in a soldier's stuff. I will let you go」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「くそっ、誰が捕まってやるかっつーの！
+覚えてな、次こそキンタマ潰してやる！」
+> CONTEXT: Map149/events/38/pages/2/26/Dialogue
+> CONTEXT: Map025/events/267/pages/2/39/Dialogue
+A girl. 「Damn, who is captured! Do not you remember, the
+next time I will crush Kintama!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、なんて逃げ足の速い……
+こりゃ、俺の足じゃ捕まえるのは無理か」
+> CONTEXT: Map149/events/38/pages/2/32/Dialogue
+> CONTEXT: Map025/events/267/pages/2/65/Dialogue
+\\N[12]. 「Cuddly, it's quick to escape......
+Well, it is impossible for me to catch it with my feet」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「おらおらっ、どうした！
+こないだのはマグレかよ、ええ？」
+> CONTEXT: Map149/events/38/pages/2/44/Dialogue
+> CONTEXT: Map025/events/267/pages/2/74/Dialogue
+A girl. 「What's wrong! Was it Magre the most recent, eh?」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「おらっ、トドメだ！
+キンタマ蹴られて無様に悲鳴でも上げなっ！」
+> CONTEXT: Map149/events/38/pages/2/55/Dialogue
+> CONTEXT: Map025/events/267/pages/2/85/Dialogue
+A girl. 「It is a finisher! Kintama kicked up and
+unsignedly screamed as well!」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ふん、女にボコボコにされて踏みつけられて、ミジメだねえ。
+こないだの借りはこれで返したよ」
+> CONTEXT: Map149/events/38/pages/2/94/Dialogue
+> CONTEXT: Map025/events/267/pages/2/124/Dialogue
+A girl. 「Hmm, she is being trampled by being touched by a
+woman, is not it. I brought back the debts as of this time」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「はっ、やっぱこないだのはマグレだったみたいだね。
+ま、ちょっと本気でやりゃあ
+あんたみたいな弱っちい男に負けるわけないわ」
+> CONTEXT: Map149/events/38/pages/2/100/Dialogue
+> CONTEXT: Map025/events/267/pages/2/130/Dialogue
+A girl. 「Hahah, it seems that the other day was a mug.
+Well, doing it seriously. I can not lose to a weak man like
+you」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「さあて、前回あんたに殴られた怪我の治療代も含めて、
+金は1000Gぐらい貰っといてやるよ」
+> CONTEXT: Map149/events/38/pages/2/111/Dialogue
+> CONTEXT: Map025/events/267/pages/2/141/Dialogue
+A girl. 「Then, including the treatment fee of the injury
+that you hit the last time, I will give you around 1,000 g
+of gold」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「ま、あんまりにも哀れだし、今回は見逃してやるよ。
+あんたに借りを返せたってだけでも、悪い気分じゃないしね」
+> CONTEXT: Map149/events/38/pages/2/133/Dialogue
+> CONTEXT: Map025/events/267/pages/2/163/Dialogue
+A girl. 「Well, I am pathetic and I will overlook this time.
+Even being able to return borrowed to you is not a bad mood
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「さて、金は……
+なんだい、これっぽっちしか持ってないのか。
+それじゃ、全部貰っといてやるよ」
+> CONTEXT: Map149/events/38/pages/2/139/Dialogue
+> CONTEXT: Map025/events/267/pages/2/169/Dialogue
+A girl. 「Well, gold ...... How many are you having this
+one? Well then I'll give you all」#MTLed
+> END STRING
+
+> BEGIN STRING
+少女
+「それじゃね、坊や。
+またここに足を踏み入れたら、容赦なくボコってやるよ。
+覚悟しときな」
+> CONTEXT: Map149/events/38/pages/2/152/Dialogue
+> CONTEXT: Map025/events/267/pages/2/182/Dialogue
+A girl. 「Well, boy. If you step here again, I'll do it
+without mercy. Prepare yourself」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は不良少女にリベンジを挑まれた結果
+見事ボコボコにされてしまい、
+お金を巻き上げられてしまった……
+> CONTEXT: Map149/events/38/pages/2/163/Dialogue
+> CONTEXT: Map025/events/267/pages/2/199/Dialogue
+\\N[12] The result of challenging revenge for deliquent
+girl. It was done brilliantly, I got my money rolled up ...#MTLed
+> END STRING
+
+> BEGIN STRING
 メイドさん
 「ようこそ、おまけモードの部屋へ！
 ここでは、本編に登場した女の子との自由戦闘や
@@ -964,13 +2285,14 @@ appreciation etc!#MTLed
 > END STRING
 
 > BEGIN STRING
-ちなみに、ここから通常マップに戻ることはできませんので、
-重要なセーブデータに上書きしてしまうのは
-オススメできません。注意してくださいね。
-> CONTEXT: None < UNUSED
-By the way, we can not return to the normal map from here,
-Why overwrite important save data. I can not recommend it.
-Please be careful.#MTLed
+ちなみに、ここから引き継ぎ新規プレイを始めることは
+可能ですが、
+元のプレイに復帰することはできませんので、
+セーブをする際には注意してくださいね。
+> CONTEXT: Map149/events/39/pages/0/7/Dialogue
+By the way, starting taking over from here is to start a
+new play. It is possible, Because you can not return to the
+original play, Please be careful when saving.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -980,305 +2302,102 @@ Then, please enjoy it slowly!」#MTLed
 > END STRING
 
 > BEGIN STRING
-メイドさん
-「カウンターにいるメイドは、それぞれ
-左はエンディングリストと攻略法の確認ができ、
-右は戦闘敗北時以外のときに発生するHシーンの鑑賞ができます。
-> CONTEXT: Map149/events/1/pages/0/29/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-また、バニーガールに話しかければ
-回想バトルのキャラクターのフラグを一部操作したり
-現在の状態を引き継いでニューゲームを始めたりできます。
-気が向いたらご利用くださいね」
-> CONTEXT: Map149/events/1/pages/0/34/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-お金を0にする
-> CONTEXT: Map149/events/2/pages/0/60/Choice/2 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-お金を100万にする
-> CONTEXT: Map149/events/2/pages/0/60/Choice/3 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-お金を100にする
-> CONTEXT: Map149/events/2/pages/0/81/Choice/0 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-※このバトルでは『デスソード』を装備して戦うと
-ルフティナの体力が50％以下になった時に立ち絵が裸になります。
-が、その場合、敗北時のHシーンが
-お尻ペンペンで固定されてしまいますので、ご注意ください。
-> CONTEXT: Map149/events/30/pages/0/8/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ぱふぱふ　のみ
-> CONTEXT: Map149/events/30/pages/0/13/Choice/1 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-少女
-「あっ、てめえっ！」
-> CONTEXT: Map149/events/38/pages/2/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/3/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-少女
-「こないだはよくもやってくれたな！
-今日はきっちり借りを返してやる！」
-> CONTEXT: Map149/events/38/pages/2/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/13/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「まだ懲りないのか？
-ったく、どうしてもやるってんなら仕方ないが……」
-> CONTEXT: Map149/events/38/pages/2/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/17/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-少女
-「そのキンタマ、蹴り潰してやるぜっ！」
-> CONTEXT: Map149/events/38/pages/2/15/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/21/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「どうやら反省してないようだし、今度こそ兵士の詰め所にでも
-行ってもらうぜっ」
-> CONTEXT: Map149/events/38/pages/2/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/35/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-少女
-「くそっ、誰が捕まってやるかっつーの！
-覚えてな、次こそキンタマ潰してやる！」
-> CONTEXT: Map149/events/38/pages/2/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/39/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「くっ、なんて逃げ足の速い……
-こりゃ、俺の足じゃ捕まえるのは無理か」
-> CONTEXT: Map149/events/38/pages/2/32/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/65/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-少女
-「おらおらっ、どうした！
-こないだのはマグレかよ、ええ？」
-> CONTEXT: Map149/events/38/pages/2/44/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/74/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-少女
-「おらっ、トドメだ！
-キンタマ蹴られて無様に悲鳴でも上げなっ！」
-> CONTEXT: Map149/events/38/pages/2/55/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/85/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-少女
-「ふん、女にボコボコにされて踏みつけられて、ミジメだねえ。
-こないだの借りはこれで返したよ」
-> CONTEXT: Map149/events/38/pages/2/94/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/124/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-少女
-「はっ、やっぱこないだのはマグレだったみたいだね。
-ま、ちょっと本気でやりゃあ
-あんたみたいな弱っちい男に負けるわけないわ」
-> CONTEXT: Map149/events/38/pages/2/100/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/130/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-少女
-「さあて、前回あんたに殴られた怪我の治療代も含めて、
-金は1000Gぐらい貰っといてやるよ」
-> CONTEXT: Map149/events/38/pages/2/111/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/141/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-少女
-「ま、あんまりにも哀れだし、今回は見逃してやるよ。
-あんたに借りを返せたってだけでも、悪い気分じゃないしね」
-> CONTEXT: Map149/events/38/pages/2/133/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/163/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-少女
-「さて、金は……
-なんだい、これっぽっちしか持ってないのか。
-それじゃ、全部貰っといてやるよ」
-> CONTEXT: Map149/events/38/pages/2/139/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/169/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-少女
-「それじゃね、坊や。
-またここに足を踏み入れたら、容赦なくボコってやるよ。
-覚悟しときな」
-> CONTEXT: Map149/events/38/pages/2/152/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/182/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]は不良少女にリベンジを挑まれた結果
-見事ボコボコにされてしまい、
-お金を巻き上げられてしまった……
-> CONTEXT: Map149/events/38/pages/2/163/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/267/pages/2/199/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ちなみに、ここから引き継ぎ新規プレイを始めることは
-可能ですが、
-元のプレイに復帰することはできませんので、
-セーブをする際には注意してくださいね。
-> CONTEXT: Map149/events/39/pages/0/7/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 一人で戦う
-> CONTEXT: Map149/events/42/pages/0/0/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map149/events/42/pages/0/0/Choice/0
+Fight alone#MTLed
 > END STRING
 
 > BEGIN STRING
 プリムと一緒に戦う
-> CONTEXT: Map149/events/42/pages/0/0/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map149/events/42/pages/0/0/Choice/1
+Fight with Purim#MTLed
 > END STRING
 
 > BEGIN STRING
 メイドさん
 「こちらでは、各種フラグの操作ができまーす」
-> CONTEXT: Map149/events/45/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/0/Dialogue
+Maid. 「Here, you can operate various flags」#MTLed
 > END STRING
 
 > BEGIN STRING
 プリムとの手合わせ勝敗数を変える
-> CONTEXT: Map149/events/45/pages/0/3/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/3/Choice/0
+Make a commitment with Purim Change the number of wins or losses#MTLed
 > END STRING
 
 > BEGIN STRING
 ジェーンとの手合わせ勝敗数を変える
-> CONTEXT: Map149/events/45/pages/0/3/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/3/Choice/1
+Match with Jane Changing the number of wins or losses#MTLed
 > END STRING
 
 > BEGIN STRING
 3以上負け越した状態にすると
 大会での敗戦時、相手の反応が変わります。
-> CONTEXT: Map149/events/45/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map149/events/45/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/5/Dialogue
+> CONTEXT: Map149/events/45/pages/0/18/Dialogue
+If you set it to overcome 3 or more. At the time of defeat
+at the tournament, the reaction of the opponent changes.#MTLed
 > END STRING
 
 > BEGIN STRING
 初期化する
-> CONTEXT: Map149/events/45/pages/0/8/Choice/0 < UNTRANSLATED
-> CONTEXT: Map149/events/45/pages/0/21/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/8/Choice/0
+> CONTEXT: Map149/events/45/pages/0/21/Choice/0
+initialize#MTLed
 > END STRING
 
 > BEGIN STRING
 3以上負け越した状態にする
-> CONTEXT: Map149/events/45/pages/0/8/Choice/1 < UNTRANSLATED
-> CONTEXT: Map149/events/45/pages/0/21/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/8/Choice/1
+> CONTEXT: Map149/events/45/pages/0/21/Choice/1
+Make it overcome 3 or more#MTLed
 > END STRING
 
 > BEGIN STRING
 不良少女のフラグ初期化
-> CONTEXT: Map149/events/45/pages/0/31/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/31/Choice/0
+Flag initialization of deliquent girl#MTLed
 > END STRING
 
 > BEGIN STRING
 ルゼットのフラグ初期化
-> CONTEXT: Map149/events/45/pages/0/31/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/31/Choice/1
+Flag initialization of Lzet#MTLed
 > END STRING
 
 > BEGIN STRING
 リネッタのフラグ操作
-> CONTEXT: Map149/events/45/pages/0/31/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/31/Choice/2
+Flag manipulation of Linetta#MTLed
 > END STRING
 
 > BEGIN STRING
 全フラグ初期化
-> CONTEXT: Map149/events/45/pages/0/31/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/31/Choice/3
+Initialize all flags#MTLed
 > END STRING
 
 > BEGIN STRING
 リネッタに技を教えてもらった設定にする
-> CONTEXT: Map149/events/45/pages/0/43/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/43/Choice/0
+Make the setting taught by Linetta#MTLed
 > END STRING
 
 > BEGIN STRING
 リネッタに技を教えてもらっていない設定にする
-> CONTEXT: Map149/events/45/pages/0/43/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/43/Choice/1
+Make the settings not taught by Linetta#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガール
 「ゲーム中の全フラグを初期化します。
 よろしいですか？」
-> CONTEXT: Map149/events/45/pages/0/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map149/events/45/pages/0/55/Dialogue
+bunny girl. 「Initialize all the flags in the game.
+Is it OK?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1286,15 +2405,18 @@ Then, please enjoy it slowly!」#MTLed
 「こちらからは、引き継ぎプレイを開始することができます。
 アイテムや所持金、\\N[12]さんのレベル、
 ステータスを引き継いだ状態で、ゲームを最初からプレイできます。
-> CONTEXT: Map149/events/46/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map149/events/46/pages/0/0/Dialogue
+Maid. 「From here, you can start handover.
+Items and money held, \\N[12] Thinks, You can play the
+game from the beginning with the status inherited.#MTLed
 > END STRING
 
 > BEGIN STRING
 なお、ストーリー上のキーアイテムは引き継げません。
 では、引き継ぎプレイを開始しますか？」
-> CONTEXT: Map149/events/46/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map149/events/46/pages/0/5/Dialogue
+In addition, key items on the story can not be handed over.
+Will you start taking over handover?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1302,14 +2424,16 @@ Then, please enjoy it slowly!」#MTLed
 「こちらでは、現在の強さを引き継いで
 新たにゲームを最初から始めることができます！
 どうしますか？」
-> CONTEXT: Map149/events/47/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map149/events/47/pages/0/0/Dialogue
+bunny girl. 「Here, taking over the current strength
+You can start the game from scratch newly!
+what should I do?」#MTLed
 > END STRING
 
 > BEGIN STRING
 引き継ぎプレイを始める
-> CONTEXT: Map149/events/47/pages/0/5/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map149/events/47/pages/0/5/Choice/0
+Start takeover play#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1317,6 +2441,8 @@ Then, please enjoy it slowly!」#MTLed
 「ストーリー上のキーアイテムを除き、
 全アイテムとパラメータを引き継いで新規ゲームを始めます。
 本当によろしいですか？」
-> CONTEXT: Map149/events/47/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map149/events/47/pages/0/7/Dialogue
+bunny girl. 「Except for key items on the story,
+We will inherit all items and parameters and start a new
+game. Are you really sure?」#MTLed
 > END STRING

@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 エルミア城
 > CONTEXT: Map032/display_name/
@@ -729,7 +729,8 @@ too pleasant just inserted)#MTLed
 > CONTEXT: Commonevents/263/156/Dialogue
 alumina. 「You see, just being trembling with it
 inserted. You can not have sex?
-Even just your feeling, it feels quite pleasant」#MTLed
+Even just the feeling of the penis is quite
+pleasant」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -755,20 +756,8 @@ A lot, a lot, a lot, ...#MTLed
 これが、セックスなのですわね」
 > CONTEXT: Map032/events/50/pages/1/246/Dialogue
 > CONTEXT: Commonevents/263/171/Dialogue
-alumina. 「Oh no ...... I feel nice rubbing
-inside,...This is sex, is not it」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「はぁ、はぁっ……」
-> CONTEXT: Map032/events/50/pages/1/251/Dialogue
-> CONTEXT: Commonevents/153/89/Dialogue
-> CONTEXT: Commonevents/263/176/Dialogue
-> CONTEXT: Map147/events/2/pages/19/476/Dialogue
-> CONTEXT: Commonevents/228/222/Dialogue
-> CONTEXT: Commonevents/306/133/Dialogue
-\\N[12]. 「Ah, Ahh ...」#MTLed
+alumina. 「Oh no ...... Pencil rubbed inside,
+feels good...This is sex, is not it」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -838,22 +827,6 @@ Abstract ......#MTLed
 alumina. 「Huh...and he crowded again.
 Not at all, I can not talk about premature
 ejaculation」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ううっ、そんな……」
-> CONTEXT: Map032/events/50/pages/1/285/Dialogue
-> CONTEXT: Commonevents/263/210/Dialogue
-> CONTEXT: Map147/events/2/pages/11/202/Dialogue
-> CONTEXT: Map147/events/2/pages/11/253/Dialogue
-> CONTEXT: Map147/events/2/pages/18/116/Dialogue
-> CONTEXT: Map147/events/2/pages/18/131/Dialogue
-> CONTEXT: Map147/events/17/pages/0/461/Dialogue
-> CONTEXT: Map147/events/17/pages/0/476/Dialogue
-> CONTEXT: Map147/events/24/pages/0/969/Dialogue
-> CONTEXT: Map147/events/24/pages/0/1009/Dialogue
-\\N[12]. 「OHh, such......」#MTLed
 > END STRING
 
 > BEGIN STRING

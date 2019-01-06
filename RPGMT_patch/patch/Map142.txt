@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 ミリーナ
 「やっぱり、女が男の子にお礼をするって言ったら
@@ -393,6 +393,7 @@ Mileena. 「Well, have you taken out already?」#MTLed
 \\N[12]
 「うっ、ううっ……」
 > CONTEXT: Map142/events/3/pages/0/144/Dialogue
+> CONTEXT: Map149/events/38/pages/1/246/Dialogue
 > CONTEXT: Map042/events/2/pages/8/479/Dialogue
 > CONTEXT: Map025/events/267/pages/1/291/Dialogue
 \\N[12]. 「Uoo, uugh ... ...」#MTLed
@@ -400,7 +401,6 @@ Mileena. 「Well, have you taken out already?」#MTLed
 > CONTEXT: Commonevents/227/197/Dialogue
 > CONTEXT: Commonevents/261/136/Dialogue
 > CONTEXT: Commonevents/264/309/Dialogue
-> CONTEXT: Map149/events/38/pages/1/246/Dialogue
 \\N[12]. 「Uoo, uugh ... ...」#MTLed
 > END STRING
 
@@ -619,16 +619,16 @@ Kyu ...#MTLed
 > CONTEXT: Map042/events/2/pages/8/324/Dialogue
 > CONTEXT: Map043/events/24/pages/8/525/Dialogue
 > CONTEXT: Map043/events/24/pages/9/398/Dialogue
+> CONTEXT: Map043/events/24/pages/9/706/Dialogue
 > CONTEXT: Map043/events/24/pages/11/195/Dialogue
+> CONTEXT: Map043/events/121/pages/0/447/Dialogue
 > CONTEXT: Map043/events/121/pages/1/525/Dialogue
 \\N[12]. 「Well ...!」#MTLed
 > CONTEXT: Commonevents/155/37/Dialogue
 > CONTEXT: Commonevents/223/225/Dialogue
+> CONTEXT: Commonevents/251/129/Dialogue
 > CONTEXT: Commonevents/261/214/Dialogue
 > CONTEXT: Commonevents/264/154/Dialogue
-> CONTEXT: Map043/events/24/pages/9/706/Dialogue
-> CONTEXT: Map043/events/121/pages/0/447/Dialogue
-> CONTEXT: Commonevents/251/129/Dialogue
 > CONTEXT: Commonevents/320/192/Dialogue
 > CONTEXT: Commonevents/320/500/Dialogue
 \\N[12]. 「Well ...!」#MTLed
@@ -688,30 +688,30 @@ days, a couple of days!#MTLed
 \\N[12]
 「あっ、あああああぁぁぁっ！」
 > CONTEXT: Map142/events/3/pages/0/247/Dialogue
-> CONTEXT: Map113/events/9/pages/0/363/Dialogue
 > CONTEXT: Map152/events/24/pages/12/459/Dialogue
-> CONTEXT: Map109/events/5/pages/0/97/Dialogue
-> CONTEXT: Map109/events/6/pages/0/97/Dialogue
-> CONTEXT: Map106/events/6/pages/0/97/Dialogue
-> CONTEXT: Map109/events/9/pages/0/97/Dialogue
 > CONTEXT: Map152/events/24/pages/12/935/Dialogue
+> CONTEXT: Map113/events/9/pages/0/363/Dialogue
+> CONTEXT: Map109/events/5/pages/0/97/Dialogue
+> CONTEXT: Map106/events/6/pages/0/97/Dialogue
+> CONTEXT: Map109/events/6/pages/0/97/Dialogue
+> CONTEXT: Map109/events/9/pages/0/97/Dialogue
 > CONTEXT: Map103/events/10/pages/0/97/Dialogue
 > CONTEXT: Map103/events/11/pages/0/97/Dialogue
 > CONTEXT: Map103/events/14/pages/0/97/Dialogue
-> CONTEXT: Map042/events/2/pages/8/562/Dialogue
-> CONTEXT: Map041/events/56/pages/0/272/Dialogue
 > CONTEXT: Map041/events/5/pages/5/618/Dialogue
+> CONTEXT: Map042/events/2/pages/8/562/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1300/Dialogue
+> CONTEXT: Map041/events/56/pages/0/272/Dialogue
 > CONTEXT: Map043/events/24/pages/13/483/Dialogue
 > CONTEXT: Map043/events/24/pages/13/983/Dialogue
 \\N[12]. 「Oh, Aaaaaahhhh!」#MTLed
 > CONTEXT: Commonevents/238/206/Dialogue
 > CONTEXT: Commonevents/239/298/Dialogue
 > CONTEXT: Commonevents/240/298/Dialogue
-> CONTEXT: Commonevents/261/239/Dialogue
-> CONTEXT: Commonevents/264/392/Dialogue
 > CONTEXT: Commonevents/242/260/Dialogue
 > CONTEXT: Commonevents/242/944/Dialogue
+> CONTEXT: Commonevents/261/239/Dialogue
+> CONTEXT: Commonevents/264/392/Dialogue
 \\N[12]. 「Oh, Aaaaaahhhh!」#MTLed
 > END STRING
 

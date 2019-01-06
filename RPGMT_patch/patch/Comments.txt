@@ -958,6 +958,906 @@ OP用#NoTL
 > END STRING
 
 > BEGIN STRING
+レストンの村
+> CONTEXT: Map/2/name/
+Village of Reston#MTLed
+> END STRING
+
+> BEGIN STRING
+レストン～洞窟への街道
+> CONTEXT: Map/3/name/
+Reston ~ The road to the cave#MTLed
+> END STRING
+
+> BEGIN STRING
+モルデリア洞窟
+> CONTEXT: Map/4/name/
+Morderia cave#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの家
+> CONTEXT: Map/5/name/
+Purim's house#MTLed
+> END STRING
+
+> BEGIN STRING
+洞窟周辺の街道
+> CONTEXT: Map/6/name/
+A road around the cave#MTLed
+> END STRING
+
+> BEGIN STRING
+主人公の家
+> CONTEXT: Map/7/name/
+The main character's house#MTLed
+> END STRING
+
+> BEGIN STRING
+主人公の家・中
+> CONTEXT: Map/8/name/
+Home of the hero#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムの家2階
+> CONTEXT: Map/9/name/
+Purim's house second floor#MTLed
+> END STRING
+
+> BEGIN STRING
+宿屋
+> CONTEXT: Map/10/name/
+> CONTEXT: Map/79/name/
+Inn#MTLed
+> END STRING
+
+> BEGIN STRING
+店
+> CONTEXT: Map/11/name/
+Shop#MTLed
+> END STRING
+
+> BEGIN STRING
+民家1
+> CONTEXT: Map/12/name/
+> CONTEXT: Map/81/name/
+House 1#MTLed
+> END STRING
+
+> BEGIN STRING
+民家2
+> CONTEXT: Map/13/name/
+> CONTEXT: Map/82/name/
+House 2#MTLed
+> END STRING
+
+> BEGIN STRING
+村長の家1F
+> CONTEXT: Map/14/name/
+Village head house 1F#MTLed
+> END STRING
+
+> BEGIN STRING
+村長の家2F
+> CONTEXT: Map/15/name/
+> CONTEXT: Map/87/name/
+Village head house 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+モルデリア洞窟－北
+> CONTEXT: Map/16/name/
+Morderia Cave - North#MTLed
+> END STRING
+
+> BEGIN STRING
+街道東
+> CONTEXT: Map/17/name/
+Eastern Highway#MTLed
+> END STRING
+
+> BEGIN STRING
+海岸
+> CONTEXT: Map/18/name/
+Coast#MTLed
+> END STRING
+
+> BEGIN STRING
+モルデリア洞窟－東
+> CONTEXT: Map/19/name/
+Morderia Cave - East#MTLed
+> END STRING
+
+> BEGIN STRING
+洞窟～城下町への街道1
+> CONTEXT: Map/20/name/
+Cave - Route to Castle Town 1#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア城下町
+> CONTEXT: Map/21/name/
+Elmia Castle Town#MTLed
+> END STRING
+
+> BEGIN STRING
+モルデリア洞窟深部
+> CONTEXT: Map/22/name/
+Morderia cave deep#MTLed
+> END STRING
+
+> BEGIN STRING
+ワームホール
+> CONTEXT: Map/23/name/
+Wormhole#MTLed
+> END STRING
+
+> BEGIN STRING
+自警団詰め所
+> CONTEXT: Map/24/name/
+Vigilante group closing place#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア城下町東地区
+> CONTEXT: Map/25/name/
+Elmia castle town east district#MTLed
+> END STRING
+
+> BEGIN STRING
+レストラン
+> CONTEXT: Map/26/name/
+Restaurant#MTLed
+> END STRING
+
+> BEGIN STRING
+海岸の洞窟
+> CONTEXT: Map/27/name/
+Coastal cave#MTLed
+> END STRING
+
+> BEGIN STRING
+街道東２
+> CONTEXT: Map/28/name/
+East Highway 2#MTLed
+> END STRING
+
+> BEGIN STRING
+洞窟回り道
+> CONTEXT: Map/29/name/
+Cave back way#MTLed
+> END STRING
+
+> BEGIN STRING
+主人公の家・イベント用
+> CONTEXT: Map/30/name/
+For hero's house · event#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード家
+> CONTEXT: Map/31/name/
+Beckford family#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア城
+> CONTEXT: Map/32/name/
+Elmia Castle#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンの実家
+> CONTEXT: Map/33/name/
+Jane's home#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン実家2F
+> CONTEXT: Map/34/name/
+Jane home 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+中央区武器屋
+> CONTEXT: Map/35/name/
+Chuo-ku Army shop#MTLed
+> END STRING
+
+> BEGIN STRING
+中央区宿屋
+> CONTEXT: Map/36/name/
+Chuo-ku inn#MTLed
+> END STRING
+
+> BEGIN STRING
+ギルド
+> CONTEXT: Map/37/name/
+Guild#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム家
+> CONTEXT: Map/38/name/
+Grandrealm family#MTLed
+> END STRING
+
+> BEGIN STRING
+民家１
+> CONTEXT: Map/39/name/
+House 1#MTLed
+> END STRING
+
+> BEGIN STRING
+兵士独身寮
+> CONTEXT: Map/40/name/
+Soldier single dorm#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア城2F
+> CONTEXT: Map/41/name/
+Elmia Castle 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+ベックフォード家　２F
+> CONTEXT: Map/42/name/
+Beckford house 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場
+> CONTEXT: Map/43/name/
+Arena#MTLed
+> END STRING
+
+> BEGIN STRING
+ホテル
+> CONTEXT: Map/44/name/
+Hotel#MTLed
+> END STRING
+
+> BEGIN STRING
+学院
+> CONTEXT: Map/45/name/
+Academy#MTLed
+> END STRING
+
+> BEGIN STRING
+武器・道具屋
+> CONTEXT: Map/46/name/
+Weapons / tool store#MTLed
+> END STRING
+
+> BEGIN STRING
+旧夜の酒場
+> CONTEXT: Map/47/name/
+Old-night bar#MTLed
+> END STRING
+
+> BEGIN STRING
+ティシアの家１
+> CONTEXT: Map/48/name/
+Titia's house 1#MTLed
+> END STRING
+
+> BEGIN STRING
+民家２
+> CONTEXT: Map/49/name/
+House 2#MTLed
+> END STRING
+
+> BEGIN STRING
+メルグ邸
+> CONTEXT: Map/50/name/
+Merg House#MTLed
+> END STRING
+
+> BEGIN STRING
+民家４
+> CONTEXT: Map/51/name/
+House 4#MTLed
+> END STRING
+
+> BEGIN STRING
+占い
+> CONTEXT: Map/52/name/
+Divination#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場コンコース南
+> CONTEXT: Map/53/name/
+Tournament arena South#MTLed
+> END STRING
+
+> BEGIN STRING
+コンコース東
+> CONTEXT: Map/54/name/
+Tournament East#MTLed
+> END STRING
+
+> BEGIN STRING
+コンコース西
+> CONTEXT: Map/55/name/
+Tournament west#MTLed
+> END STRING
+
+> BEGIN STRING
+コンコース北
+> CONTEXT: Map/56/name/
+Tournament north#MTLed
+> END STRING
+
+> BEGIN STRING
+西控室
+> CONTEXT: Map/57/name/
+> CONTEXT: Map/136/name/
+West Waiting Room#MTLed
+> END STRING
+
+> BEGIN STRING
+三階コンコース
+> CONTEXT: Map/58/name/
+Third floor tournament#MTLed
+> END STRING
+
+> BEGIN STRING
+教会
+> CONTEXT: Map/59/name/
+A church#MTLed
+> END STRING
+
+> BEGIN STRING
+東控室
+> CONTEXT: Map/60/name/
+> CONTEXT: Map/135/name/
+East Wing Room#MTLed
+> END STRING
+
+> BEGIN STRING
+中央区宿屋２F
+> CONTEXT: Map/61/name/
+Chuo Ward 2nd floor inn#MTLed
+> END STRING
+
+> BEGIN STRING
+グランレルム家2F
+> CONTEXT: Map/62/name/
+Grandrealm family 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+学院2F
+> CONTEXT: Map/63/name/
+Gakuin 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+武器・道具屋2F
+> CONTEXT: Map/64/name/
+Weapons and tool store 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+夜の酒場B1
+> CONTEXT: Map/65/name/
+A bar in the evening B1#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア城地下牢
+> CONTEXT: Map/66/name/
+Elmia Castle Dungeon#MTLed
+> END STRING
+
+> BEGIN STRING
+ホテル2F
+> CONTEXT: Map/67/name/
+Hotel 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア周辺ダンジョン
+> CONTEXT: Map/68/name/
+Elmia surrounding dungeon#MTLed
+> END STRING
+
+> BEGIN STRING
+レヴァストゥの森　東
+> CONTEXT: Map/69/name/
+Levastou Forest East#MTLed
+> END STRING
+
+> BEGIN STRING
+レヴァストゥの森　西
+> CONTEXT: Map/70/name/
+Levastou's Forest West#MTLed
+> END STRING
+
+> BEGIN STRING
+レヴァストゥの森　南
+> CONTEXT: Map/71/name/
+Levastou's Forest South#MTLed
+> END STRING
+
+> BEGIN STRING
+ウィギスの村
+> CONTEXT: Map/72/name/
+Village of Wigheis#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア西の街道
+> CONTEXT: Map/73/name/
+West road of Elmia West#MTLed
+> END STRING
+
+> BEGIN STRING
+王都東の荒野
+> CONTEXT: Map/74/name/
+Wilderness of the Kingdom of the East#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア下水道
+> CONTEXT: Map/75/name/
+Elmia sewer system#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア北西街道
+> CONTEXT: Map/76/name/
+Elmere Northwest Highway#MTLed
+> END STRING
+
+> BEGIN STRING
+ディラント高原
+> CONTEXT: Map/77/name/
+Dirant Plateau#MTLed
+> END STRING
+
+> BEGIN STRING
+みやげ物屋
+> CONTEXT: Map/78/name/
+Souvenir shop#MTLed
+> END STRING
+
+> BEGIN STRING
+村長の家
+> CONTEXT: Map/80/name/
+Village head house#MTLed
+> END STRING
+
+> BEGIN STRING
+宿屋2F
+> CONTEXT: Map/83/name/
+Inn 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+風呂
+> CONTEXT: Map/84/name/
+Bath#MTLed
+> END STRING
+
+> BEGIN STRING
+荒野地下南
+> CONTEXT: Map/85/name/
+Wilderness underground south#MTLed
+> END STRING
+
+> BEGIN STRING
+民家2－2
+> CONTEXT: Map/86/name/
+House 2-2#MTLed
+> END STRING
+
+> BEGIN STRING
+ディラント高原東
+> CONTEXT: Map/88/name/
+Dirant Takahara east#MTLed
+> END STRING
+
+> BEGIN STRING
+ディラント高原深部
+> CONTEXT: Map/89/name/
+Dirant Plateau deep part#MTLed
+> END STRING
+
+> BEGIN STRING
+猟師小屋
+> CONTEXT: Map/90/name/
+Hunting house#MTLed
+> END STRING
+
+> BEGIN STRING
+ティシアの家2F
+> CONTEXT: Map/91/name/
+Titia's House 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+ディラント高原地下
+> CONTEXT: Map/92/name/
+Dirant plateau basement#MTLed
+> END STRING
+
+> BEGIN STRING
+メルグ邸2F
+> CONTEXT: Map/93/name/
+Merg House 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+中央区道具屋
+> CONTEXT: Map/94/name/
+Chuo Ward tool store#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムと勝負する公園
+> CONTEXT: Map/95/name/
+A park to compete with Purim#MTLed
+> END STRING
+
+> BEGIN STRING
+荒野地下
+> CONTEXT: Map/96/name/
+Wilderness underground#MTLed
+> END STRING
+
+> BEGIN STRING
+下水道２
+> CONTEXT: Map/97/name/
+Sewer 2#MTLed
+> END STRING
+
+> BEGIN STRING
+下水道深部浄化後
+> CONTEXT: Map/98/name/
+After sewage deep purification#MTLed
+> END STRING
+
+> BEGIN STRING
+ティシアの家地下室
+> CONTEXT: Map/99/name/
+Titia's house cellar#MTLed
+> END STRING
+
+> BEGIN STRING
+下水道通路
+> CONTEXT: Map/100/name/
+Sewer passage#MTLed
+> END STRING
+
+> BEGIN STRING
+下水道小部屋２
+> CONTEXT: Map/101/name/
+Sewer small room 2#MTLed
+> END STRING
+
+> BEGIN STRING
+海岸洞窟入口
+> CONTEXT: Map/102/name/
+Coastal cave entrance#MTLed
+> END STRING
+
+> BEGIN STRING
+海岸洞窟２
+> CONTEXT: Map/103/name/
+Coastal cave 2#MTLed
+> END STRING
+
+> BEGIN STRING
+エルミア城地下水道
+> CONTEXT: Map/104/name/
+Elmia castle ground sewer system#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場地下水道
+> CONTEXT: Map/105/name/
+Stadium underground sewer system#MTLed
+> END STRING
+
+> BEGIN STRING
+海岸洞窟小部屋
+> CONTEXT: Map/106/name/
+Coastal cave small room#MTLed
+> END STRING
+
+> BEGIN STRING
+海岸洞窟小部屋１
+> CONTEXT: Map/107/name/
+Coastal cave small room 1#MTLed
+> END STRING
+
+> BEGIN STRING
+中央区イベント用
+> CONTEXT: Map/108/name/
+For Chuo-ku Event#MTLed
+> END STRING
+
+> BEGIN STRING
+海岸洞窟地下通路
+> CONTEXT: Map/109/name/
+Coastal cave underground passage#MTLed
+> END STRING
+
+> BEGIN STRING
+海岸洞窟最深部
+> CONTEXT: Map/110/name/
+Coastal cave deepest part#MTLed
+> END STRING
+
+> BEGIN STRING
+独身寮2F
+> CONTEXT: Map/111/name/
+Single dorm 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+ワームホール製品用
+> CONTEXT: Map/112/name/
+For wormhole products#MTLed
+> END STRING
+
+> BEGIN STRING
+下水道深部
+> CONTEXT: Map/113/name/
+Deep sewer system#MTLed
+> END STRING
+
+> BEGIN STRING
+地下水道西通路
+> CONTEXT: Map/114/name/
+Underground waterway west passage#MTLed
+> END STRING
+
+> BEGIN STRING
+レヴァスティの森最深部
+> CONTEXT: Map/115/name/
+Deepest part of the forest of Lavasti#MTLed
+> END STRING
+
+> BEGIN STRING
+レヴァスティの森最深部2
+> CONTEXT: Map/116/name/
+Lavasti's Forest Deepest Section 2#MTLed
+> END STRING
+
+> BEGIN STRING
+氷穴
+> CONTEXT: Map/117/name/
+Ice hole#MTLed
+> END STRING
+
+> BEGIN STRING
+氷穴イベント
+> CONTEXT: Map/118/name/
+Ice-hole event#MTLed
+> END STRING
+
+> BEGIN STRING
+モルデリア～地下水路
+> CONTEXT: Map/119/name/
+Morderia ~ underground waterway#MTLed
+> END STRING
+
+> BEGIN STRING
+レストンジェーンBAD用
+> CONTEXT: Map/120/name/
+For Reston Jane BAD#MTLed
+> END STRING
+
+> BEGIN STRING
+暗黒空間
+> CONTEXT: Map/121/name/
+Dark space#MTLed
+> END STRING
+
+> BEGIN STRING
+森最深部北
+> CONTEXT: Map/122/name/
+Deepest part of the forest North#MTLed
+> END STRING
+
+> BEGIN STRING
+森最深部中央
+> CONTEXT: Map/123/name/
+Deepest part of the forest center#MTLed
+> END STRING
+
+> BEGIN STRING
+森最深部南
+> CONTEXT: Map/124/name/
+Deepest part of the forest South#MTLed
+> END STRING
+
+> BEGIN STRING
+サキュバスの巣
+> CONTEXT: Map/125/name/
+Succubus nest#MTLed
+> END STRING
+
+> BEGIN STRING
+下水道深部　左から入った
+> CONTEXT: Map/126/name/
+I entered from the left side of the sewer deep#MTLed
+> END STRING
+
+> BEGIN STRING
+地下水道小部屋３
+> CONTEXT: Map/127/name/
+Groundwater small room 3#MTLed
+> END STRING
+
+> BEGIN STRING
+地下水道小部屋４
+> CONTEXT: Map/128/name/
+Groundwater small room 4#MTLed
+> END STRING
+
+> BEGIN STRING
+地下水道小部屋５
+> CONTEXT: Map/129/name/
+Groundwater small room 5#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場最終
+> CONTEXT: Map/130/name/
+The final of the stadium#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場VIP通路
+> CONTEXT: Map/131/name/
+Stadium VIP passage#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場小部屋
+> CONTEXT: Map/132/name/
+Athletics room#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場最終北
+> CONTEXT: Map/133/name/
+Final North of the Arena#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場最終東
+> CONTEXT: Map/134/name/
+Final East of the Arena#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場最終西
+> CONTEXT: Map/137/name/
+Final west of the fighting field#MTLed
+> END STRING
+
+> BEGIN STRING
+闘技場最終南
+> CONTEXT: Map/138/name/
+Final South of the Arena#MTLed
+> END STRING
+
+> BEGIN STRING
+船着き場
+> CONTEXT: Map/139/name/
+A pier#MTLed
+> END STRING
+
+> BEGIN STRING
+地下水道小部屋６
+> CONTEXT: Map/140/name/
+Groundwater small room 6#MTLed
+> END STRING
+
+> BEGIN STRING
+王城最終章
+> CONTEXT: Map/141/name/
+Oujou final chapter#MTLed
+> END STRING
+
+> BEGIN STRING
+ストレイン武具店２F
+> CONTEXT: Map/142/name/
+Strein Armor Shop Store 2F#MTLed
+> END STRING
+
+> BEGIN STRING
+管理室
+> CONTEXT: Map/143/name/
+Management room#MTLed
+> END STRING
+
+> BEGIN STRING
+氷穴小部屋
+> CONTEXT: Map/144/name/
+Ice hole small room#MTLed
+> END STRING
+
+> BEGIN STRING
+酒場控室
+> CONTEXT: Map/145/name/
+Waitress Waiting Room#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルエンド
+> CONTEXT: Map/146/name/
+Bel end#MTLed
+> END STRING
+
+> BEGIN STRING
+夜の酒場試合用
+> CONTEXT: Map/147/name/
+For a night tavern match#MTLed
+> END STRING
+
+> BEGIN STRING
+管理室　盗賊仲間じゃない
+> CONTEXT: Map/148/name/
+I'm not a management robber fellow#MTLed
+> END STRING
+
+> BEGIN STRING
+おまけモードの部屋
+> CONTEXT: Map/149/name/
+Room in extra mode#MTLed
+> END STRING
+
+> BEGIN STRING
+夜の酒場
+> CONTEXT: Map/150/name/
+Night's bar#MTLed
+> END STRING
+
+> BEGIN STRING
+おまけモード・シーン回想
+> CONTEXT: Map/151/name/
+Extra mode · scene reminiscence#MTLed
+> END STRING
+
+> BEGIN STRING
+おまけモードの闘技場
+> CONTEXT: Map/152/name/
+Extra mode of the stadium#MTLed
+> END STRING
+
+> BEGIN STRING
+おまけモード・CG回想
+> CONTEXT: Map/153/name/
+Extra mode · CG recollection#MTLed
+> END STRING
+
+> BEGIN STRING
+サハギン
+> CONTEXT: Map/154/name/
+Sahagin#lvl1
+> END STRING
+
+> BEGIN STRING
+酒場控室回想
+> CONTEXT: Map/155/name/
+Bar barberel reminiscent#MTLed
+> END STRING
+
+> BEGIN STRING
+デビルウィッチバッド
+> CONTEXT: Map/156/name/
+Devil Witchbad#MTLed
+> END STRING
+
+> BEGIN STRING
 スキル１番は［攻撃］コマンドを選択したときに使用されます。
 <名前非表示>
 > CONTEXT: Skills/4/Note
@@ -3685,7 +4585,7 @@ OPイベントについては、女性の同僚たちが見守る中で試合を
 > CONTEXT: Scripts/戦闘中変数表示/429:41
 > CONTEXT: Scripts/戦闘中変数表示/446:41
 > CONTEXT: Scripts/戦闘中変数表示/467:71
-""#NoTL
+""#lvl1
 > END STRING
 
 > BEGIN STRING
@@ -3959,7 +4859,7 @@ OPイベントについては、女性の同僚たちが見守る中で試合を
 '$'
 > CONTEXT: Scripts/XPスタイル/3405:30
 > CONTEXT: Scripts/メッセージウィンドウ一時消去/552:10
-'$'#NoTL
+'$'#lvl1
 > END STRING
 
 > BEGIN STRING
@@ -4090,7 +4990,7 @@ OPイベントについては、女性の同僚たちが見守る中で試合を
 "-------"
 > CONTEXT: Scripts/解像度/309:30
 > CONTEXT: Scripts/解像度/310:30
-"-------"#NoTL
+"-------"#lvl1
 > END STRING
 
 > BEGIN STRING
@@ -4263,7 +5163,7 @@ OPイベントについては、女性の同僚たちが見守る中で試合を
 > BEGIN STRING
 "Balloon"
 > CONTEXT: Scripts/常時フキダシ/139:48
-"Balloon"#NoTL
+"Balloon"#lvl1
 > END STRING
 
 > BEGIN STRING
@@ -4317,31 +5217,31 @@ OPイベントについては、女性の同僚たちが見守る中で試合を
 > BEGIN STRING
 "/"
 > CONTEXT: Scripts/メッセージウィンドウ一時消去/540:66
-"/"#NoTL
+"/"#lvl1
 > END STRING
 
 > BEGIN STRING
 "\\n"
 > CONTEXT: Scripts/メッセージウィンドウ一時消去/544:48
-"\\n"#NoTL
+"\\n"#lvl1
 > END STRING
 
 > BEGIN STRING
 '.'
 > CONTEXT: Scripts/メッセージウィンドウ一時消去/553:10
-'.'#NoTL
+'.'#lvl1
 > END STRING
 
 > BEGIN STRING
 '|'
 > CONTEXT: Scripts/メッセージウィンドウ一時消去/554:10
-'|'#NoTL
+'|'#lvl1
 > END STRING
 
 > BEGIN STRING
 '!'
 > CONTEXT: Scripts/メッセージウィンドウ一時消去/555:10
-'!'#NoTL
+'!'#lvl1
 > END STRING
 
 > BEGIN STRING
@@ -4353,13 +5253,13 @@ OPイベントについては、女性の同僚たちが見守る中で試合を
 > BEGIN STRING
 '<'
 > CONTEXT: Scripts/メッセージウィンドウ一時消去/557:10
-'<'#NoTL
+'<'#lvl1
 > END STRING
 
 > BEGIN STRING
 '^'
 > CONTEXT: Scripts/メッセージウィンドウ一時消去/558:10
-'^'#NoTL
+'^'#lvl1
 > END STRING
 
 > BEGIN STRING
@@ -4476,7 +5376,7 @@ maximum）\\n←Decrease the volume／Increase volume→"#MTLed
 'i'
 > CONTEXT: Scripts/音量調節/486:94
 > CONTEXT: Scripts/音量調節/487:104
-'i'#MTLed
+'i'#lvl1
 > END STRING
 
 > BEGIN STRING

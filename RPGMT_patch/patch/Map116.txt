@@ -1,15 +1,322 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 レヴァスティ封印区画２
 > CONTEXT: Map116/display_name/
-Levasty Sealed Area 2#MTLed
+Lavasti sealed compartment 2#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバス
+「うふふっ、その程度なのかしらぁ？
+人間の男って弱いわねぇ、
+もしかして私のおっぱいを見てメロメロになっちゃった？」
+> CONTEXT: Map116/events/7/pages/0/18/Dialogue
+> CONTEXT: Map115/events/4/pages/0/18/Dialogue
+> CONTEXT: Map116/events/11/pages/0/18/Dialogue
+lesser succubus. 「Uhufu, is that the degree?
+The man of man is weak, do not you think?
+Have you become in love looking at my tits?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「く、くそっ……
+ううっ、力が入らない……」
+> CONTEXT: Map116/events/7/pages/0/23/Dialogue
+> CONTEXT: Map115/events/4/pages/0/23/Dialogue
+> CONTEXT: Map116/events/11/pages/0/23/Dialogue
+\\N[12]. 「Damn it ... damn. OHh, no power goes in ...
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はレッサーサキュバスのドレインキスによって
+レベルを１奪われ、森を叩き出された……
+> CONTEXT: Map116/events/7/pages/0/37/Dialogue
+> CONTEXT: Map116/events/7/pages/0/106/Dialogue
+> CONTEXT: Map115/events/4/pages/0/37/Dialogue
+> CONTEXT: Map115/events/4/pages/0/106/Dialogue
+> CONTEXT: Map116/events/11/pages/0/37/Dialogue
+> CONTEXT: Map116/events/11/pages/0/106/Dialogue
+\\N[12] By the drain kiss of lesser succubus
+One level deprived and beaten out of the forest ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバス
+「まあ、私の誘惑攻撃に耐えられる男なんて
+いるわけがないけどね。
+さてと、それじゃ精力をいただいちゃおうかな～♪」
+> CONTEXT: Map116/events/7/pages/0/47/Dialogue
+> CONTEXT: Map115/events/4/pages/0/47/Dialogue
+> CONTEXT: Map116/events/11/pages/0/47/Dialogue
+lesser succubus. 「Well, as for a man who can endure my
+temptation attack. There is no reason for that.
+Well then, I guess I will get energetic ~♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバスは\\N[12]に顔を寄せると、
+唇を重ねてきた！
+> CONTEXT: Map116/events/7/pages/0/52/Dialogue
+> CONTEXT: Map115/events/4/pages/0/52/Dialogue
+> CONTEXT: Map116/events/11/pages/0/52/Dialogue
+lesser succubus \\N[12] Face to face, I've been lying my
+lips!#MTLed
+> END STRING
+
+> BEGIN STRING
+ちゅうっ……
+> CONTEXT: Map116/events/7/pages/0/57/Dialogue
+> CONTEXT: Map115/events/4/pages/0/57/Dialogue
+> CONTEXT: Map116/events/11/pages/0/57/Dialogue
+Trout ...#MTLed
+> CONTEXT: Commonevents/200/71/Dialogue
+> CONTEXT: Commonevents/200/135/Dialogue
+> CONTEXT: Commonevents/205/79/Dialogue
+> CONTEXT: Commonevents/205/142/Dialogue
+> CONTEXT: Commonevents/248/91/Dialogue
+> CONTEXT: Commonevents/248/155/Dialogue
+Trout ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「むぐっ……」
+> CONTEXT: Map116/events/7/pages/0/59/Dialogue
+> CONTEXT: Map115/events/4/pages/0/59/Dialogue
+> CONTEXT: Map116/events/11/pages/0/59/Dialogue
+\\N[12]. 「Pigeon」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバス
+「んっ……んんっ……♪」
+> CONTEXT: Map116/events/7/pages/0/62/Dialogue
+> CONTEXT: Map115/events/4/pages/0/62/Dialogue
+> CONTEXT: Map116/events/11/pages/0/62/Dialogue
+lesser succubus. 「Huh ......♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバスのドレインキスによって
+精力が奪い取られてゆく……
+> CONTEXT: Map116/events/7/pages/0/67/Dialogue
+> CONTEXT: Map115/events/4/pages/0/67/Dialogue
+> CONTEXT: Map116/events/11/pages/0/67/Dialogue
+By the drain kiss of lesser succubus. Effort is being
+deprived ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（ま、まずい、このままだと……
+で、でも、キスが心地よすぎて、
+あ、ああっ……）
+> CONTEXT: Map116/events/7/pages/0/71/Dialogue
+> CONTEXT: Map115/events/4/pages/0/71/Dialogue
+> CONTEXT: Map116/events/11/pages/0/71/Dialogue
+\\N[12]. (Well, badly, as it is ... ... But, kissing is
+too comfortable, Oh, AAh ... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバス
+「ふうっ……こんなところかしら。
+体に力がみなぎるようだわ」
+> CONTEXT: Map116/events/7/pages/0/80/Dialogue
+> CONTEXT: Map115/events/4/pages/0/80/Dialogue
+> CONTEXT: Map116/events/11/pages/0/80/Dialogue
+lesser succubus. 「Fuu ...... I wonder why.
+Your body seems to be full of power」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……ち、力が入らない……」
+> CONTEXT: Map116/events/7/pages/0/84/Dialogue
+> CONTEXT: Map115/events/4/pages/0/84/Dialogue
+> CONTEXT: Map116/events/11/pages/0/84/Dialogue
+\\N[12]. 「Uugh ... ..., power does not enter ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバス
+「ふふ、どうかしら。
+頑張って鍛えてきたのに、キスの心地よさに負けて
+力を奪われてしまった気分は」
+> CONTEXT: Map116/events/7/pages/0/87/Dialogue
+> CONTEXT: Map115/events/4/pages/0/87/Dialogue
+> CONTEXT: Map116/events/11/pages/0/87/Dialogue
+lesser succubus. 「I wonder why. I tried hard but I
+trained, I lost the comfort of kissing. I feel like I was
+robbed of power」#MTLed
+> END STRING
+
+> BEGIN STRING
+レッサーサキュバス
+「これに懲りたら、サキュバスの巣に足を踏み入れるのは
+やめておくことね。
+ま、力を私に捧げたければ、何度でも来ればいいけれど」
+> CONTEXT: Map116/events/7/pages/0/95/Dialogue
+> CONTEXT: Map115/events/4/pages/0/95/Dialogue
+> CONTEXT: Map116/events/11/pages/0/95/Dialogue
+lesser succubus. 「If you are discouraged by this, you will
+step into Succubus' nest. It is to stop it.
+Well, if you wish to dedicate power to me, you can come
+again and again」#MTLed
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「戦っている最中にオナニーさせられた気分はどうかしら？
+この私のチャーム・ザ・マリオネットにかかれば
+男はみんな操り人形になってしまうのよ」
+> CONTEXT: Map116/events/8/pages/0/25/Dialogue
+> CONTEXT: Map115/events/3/pages/0/25/Dialogue
+> CONTEXT: Map116/events/9/pages/0/25/Dialogue
+Devilwitch. 「How do you feel like being masturbated while
+fighting? If you are involved with this my charm the
+marionette. Every man is a puppet」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あううっ……」
+> CONTEXT: Map116/events/8/pages/0/30/Dialogue
+> CONTEXT: Map115/events/3/pages/0/30/Dialogue
+> CONTEXT: Map116/events/9/pages/0/30/Dialogue
+\\N[12]. 「A uugh ... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「惨めな気分でしょうけど、光栄に思うといいわ。
+あなたは少なくとも、
+私が必殺技を使う価値はあったということなんだから」
+> CONTEXT: Map116/events/8/pages/0/33/Dialogue
+> CONTEXT: Map115/events/3/pages/0/33/Dialogue
+> CONTEXT: Map116/events/9/pages/0/33/Dialogue
+Devilwitch. 「It would be miserable, but I'd be honored.
+At least you, Because I mean that I was worth using a
+special technique」#MTLed
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「人間が魔族に太刀打ちしようなんて甘いのよ。
+あなた程度の剣なんて
+私の魔力の前じゃ赤子も同然だわ」
+> CONTEXT: Map116/events/8/pages/0/42/Dialogue
+> CONTEXT: Map115/events/3/pages/0/42/Dialogue
+> CONTEXT: Map116/events/9/pages/0/42/Dialogue
+Devilwitch. 「It is sweet for humans to compete against
+demons. You sword. Before my magical power, the baby is no
+better.」#MTLed
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「ふふっ、弱いわねぇ。
+人間の男なんて、しょせんこの程度なのかしら。
+これじゃ肩慣らしにもならないわ」
+> CONTEXT: Map116/events/8/pages/0/49/Dialogue
+> CONTEXT: Map115/events/3/pages/0/49/Dialogue
+> CONTEXT: Map116/events/9/pages/0/49/Dialogue
+Devilwitch. 「Huh, it is weak. I wonder if human beings are
+about this age. This will not break your shoulder.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……ぐっ……」
+> CONTEXT: Map116/events/8/pages/0/56/Dialogue
+> CONTEXT: Map115/events/3/pages/0/56/Dialogue
+> CONTEXT: Map116/events/9/pages/0/56/Dialogue
+\\N[12]. 「uugh ... ... dammit ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「暗黒の炎に蝕まれて、さぞ苦しいでしょう。
+その苦痛は私に楯突いた代償よ。
+私の魔法で敗北を味わえたこと、光栄に思いなさい」
+> CONTEXT: Map116/events/8/pages/0/59/Dialogue
+> CONTEXT: Map115/events/3/pages/0/59/Dialogue
+> CONTEXT: Map116/events/9/pages/0/59/Dialogue
+Devilwitch. 「It is eroded by a dark flame, it will be
+painful. That pain paid for me. Please be honored that I
+could taste defeat with my magic」#MTLed
+> END STRING
+
+> BEGIN STRING
+デビルウィッチは、魔法で\\N[12]を拘束する。
+> CONTEXT: Map116/events/8/pages/0/66/Dialogue
+> CONTEXT: Map115/events/3/pages/0/66/Dialogue
+> CONTEXT: Map116/events/9/pages/0/66/Dialogue
+Devil Witch is magical \\N[12] .#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ！」
+> CONTEXT: Map116/events/8/pages/0/69/Dialogue
+> CONTEXT: Map115/events/3/pages/0/69/Dialogue
+> CONTEXT: Map116/events/9/pages/0/69/Dialogue
+\\N[12]. 「OHh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「さてと、あなたは魔界に連れて帰ろうかしら」
+> CONTEXT: Map116/events/8/pages/0/72/Dialogue
+> CONTEXT: Map115/events/3/pages/0/72/Dialogue
+> CONTEXT: Map116/events/9/pages/0/72/Dialogue
+Devilwitch. 「Well, I wonder if you should take him to the
+Makai world」#MTLed
+> END STRING
+
+> BEGIN STRING
+デビルウィッチ
+「この場で精気を吸い尽くしてもいいけど、
+そうするにはちょっともったいないもの。
+若い男の精力は有効に使わなきゃね。
+> CONTEXT: Map116/events/8/pages/0/78/Dialogue
+> CONTEXT: Map115/events/3/pages/0/78/Dialogue
+> CONTEXT: Map116/events/9/pages/0/78/Dialogue
+Devilwitch. 「You can exhaust yourself with this spirit,
+It is a waste to do so. I must use the energetic power of a
+young man effectively.#MTLed
+> END STRING
+
+> BEGIN STRING
+さあ、一緒に魔界に行きましょう。
+そこで、私のために精気を捧げてもらうわ」
+> CONTEXT: Map116/events/8/pages/0/83/Dialogue
+> CONTEXT: Map115/events/3/pages/0/83/Dialogue
+> CONTEXT: Map116/events/9/pages/0/83/Dialogue
+Let 's go to Makai together. So, I will give you a madness
+for me」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は魔法生物の体内に連れ込まれ、
+そこに拘束された。
+そのまま、一ヶ月の時が流れ――
+> CONTEXT: Map116/events/8/pages/0/91/Dialogue
+> CONTEXT: Map115/events/3/pages/0/91/Dialogue
+> CONTEXT: Map116/events/9/pages/0/91/Dialogue
+\\N[12] Is brought into the body of a magical creature,
+It was detained there. As it is, the time of one month
+flows -#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチ
 「この私を苦戦させるだなんて、頑張りましたわね。
 まあ、最後に勝つのは私なのですけれどね♪」
-> CONTEXT: Map116/events/12/pages/0/43/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/26/pages/0/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map116/events/12/pages/0/43/Dialogue
+> CONTEXT: Map065/events/26/pages/0/42/Dialogue
+Darkwitch. 「I worked hard to make me fight this battle.
+Well, it is mine to win at the end♪」#MTLed
 > END STRING

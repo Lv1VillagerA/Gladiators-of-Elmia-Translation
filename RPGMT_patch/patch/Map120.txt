@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 ジェーンが武道大会で活躍したことにより、
 レストン自警団の評判は高まることとなった。
@@ -281,8 +281,8 @@ Captain Albert. 「Oh, oh. Yeah, we will do our best too.
 \\N[12]
 「は、はい」
 > CONTEXT: Map120/events/17/pages/0/249/Dialogue
-> CONTEXT: Map041/events/56/pages/0/383/Dialogue
 > CONTEXT: Map041/events/5/pages/5/729/Dialogue
+> CONTEXT: Map041/events/56/pages/0/383/Dialogue
 \\N[12]. 「Yes」#MTLed
 > CONTEXT: Commonevents/242/371/Dialogue
 \\N[12]. 「Yes」#MTLed

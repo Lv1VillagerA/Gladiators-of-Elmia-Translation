@@ -49,8 +49,8 @@ Damages the enemy.#lvl1
 > BEGIN STRING
 防御
 > CONTEXT: Skills/2/name/
-> CONTEXT: System/terms/commands/3/
 > CONTEXT: States/9/name/
+> CONTEXT: System/terms/commands/3/
 Guard#lvl1
 > END STRING
 
@@ -2214,9 +2214,10 @@ Quick slash#MTLed
 
 > BEGIN STRING
 気力を消費して先制攻撃を行う。
-> CONTEXT: None < UNUSED
-Consume power and preempt first strike.
-                                                           #MTLed
+この特技は、重い武器を装備していると使えない。
+> CONTEXT: Skills/130/description/
+Consume power and preempt first strike. This feat can not
+be used if equipped with heavy weapons.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -4779,277 +4780,272 @@ Speed Up#lvl1
 > END STRING
 
 > BEGIN STRING
-気力を消費して先制攻撃を行う。
-この特技は、重い武器を装備していると使えない。
-> CONTEXT: Skills/130/description/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 不良娘足払い
-> CONTEXT: Skills/376/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/376/name/
+Bad daughter fee payment#MTLed
 > END STRING
 
 > BEGIN STRING
 は足払いを仕掛けてきた！
-> CONTEXT: Skills/376/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/376/message1/
+I have set about paying for feet!#MTLed
 > END STRING
 
 > BEGIN STRING
 確定誘惑ディアーナ
-> CONTEXT: Skills/377/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/377/name/
+Confirmed temptation Diana#MTLed
 > END STRING
 
 > BEGIN STRING
 確定誘惑
-> CONTEXT: Skills/377/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/377/description/
+Definite temptation
+                                                           #MTLed
 > END STRING
 
 > BEGIN STRING
 は自らの魅力を誇示するかのように
-> CONTEXT: Skills/377/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/377/message1/
+As if to show off his charm#MTLed
 > END STRING
 
 > BEGIN STRING
 体を見せつけてくる！
-> CONTEXT: Skills/377/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/377/message2/
+I will show off my body!#MTLed
 > END STRING
 
 > BEGIN STRING
 女兵士おっぱいホールド攻撃
-> CONTEXT: Skills/378/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/378/name/
+Female soldier tits boob hold attack#MTLed
 > END STRING
 
 > BEGIN STRING
 たちは\\N[12]を拘束しようとしてくる！
-> CONTEXT: Skills/378/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/378/message1/
+They are \\N[12] I will try to detain you!#MTLed
 > END STRING
 
 > BEGIN STRING
 トリプルおっぱいホールド
-> CONTEXT: Skills/379/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/379/name/
+Triple boobs hold#MTLed
 > END STRING
 
 > BEGIN STRING
 たちは、\\N[12]の顔を
-> CONTEXT: Skills/379/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/379/message1/
+We, \\N[12] The face of#MTLed
 > END STRING
 
 > BEGIN STRING
 おっぱいで挟み込んで拘束した！
-> CONTEXT: Skills/379/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/379/message2/
+I got caught in breasts and restrained!#MTLed
 > END STRING
 
 > BEGIN STRING
 トリプルおっぱい責め
-> CONTEXT: Skills/380/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/380/name/
+Triple tits breast#MTLed
 > END STRING
 
 > BEGIN STRING
 おっぱいでぐりぐりと弄ぶ！
-> CONTEXT: Skills/380/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/380/message2/
+Play with * rub * with boobs!#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークエッジ
-> CONTEXT: Skills/382/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/382/name/
+Dark Edge#MTLed
 > END STRING
 
 > BEGIN STRING
 のダークエッジ！
-> CONTEXT: Skills/382/message1/ < UNTRANSLATED
-> CONTEXT: Skills/400/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/382/message1/
+> CONTEXT: Skills/400/message1/
+Dark edge!#MTLed
 > END STRING
 
 > BEGIN STRING
 ヘアチャーム
-> CONTEXT: Skills/383/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/383/name/
+Hair charm#MTLed
 > END STRING
 
 > BEGIN STRING
 は長い髪から甘い香りを漂わせた！
-> CONTEXT: Skills/383/message1/ < UNTRANSLATED
-> CONTEXT: Skills/398/message1/ < UNTRANSLATED
-> CONTEXT: Skills/399/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/383/message1/
+> CONTEXT: Skills/398/message1/
+> CONTEXT: Skills/399/message1/
+Had a sweet scent from long hair!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]の体力が見習い魔法使いに吸収される！
-> CONTEXT: Skills/384/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/384/message2/
+\\N[12] Physical fitness is absorbed by apprentice wizard!#MTLed
 > END STRING
 
 > BEGIN STRING
 ハイキック
-> CONTEXT: Skills/385/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/385/name/
+High kick#MTLed
 > END STRING
 
 > BEGIN STRING
 はハイキックを放ってきた！
-> CONTEXT: Skills/385/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/385/message1/
+He has released a high kick!#MTLed
 > END STRING
 
 > BEGIN STRING
 膝蹴り
-> CONTEXT: Skills/386/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/386/name/
+Knee kick#MTLed
 > END STRING
 
 > BEGIN STRING
 は膝蹴りを放ってきた！
-> CONTEXT: Skills/386/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/386/message1/
+He has released a knee kick!#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークフレイム
-> CONTEXT: Skills/387/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/387/name/
+Dark Flame#MTLed
 > END STRING
 
 > BEGIN STRING
 はダークフレイムを唱えた！
-> CONTEXT: Skills/387/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/387/message1/
+He spoke Dark Flame!#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークブレイズ
-> CONTEXT: Skills/388/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/388/name/
+Dark Blaze#MTLed
 > END STRING
 
 > BEGIN STRING
 はダークブレイズを唱えた！
-> CONTEXT: Skills/388/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/388/message1/
+I called Dark Blaze!#MTLed
 > END STRING
 
 > BEGIN STRING
 ツインテールラッシュ
-> CONTEXT: Skills/389/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/389/name/
+Twin tail rush#MTLed
 > END STRING
 
 > BEGIN STRING
 のツインテールが硬質化し
-> CONTEXT: Skills/389/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/389/message1/
+The twin tails of rigidification#MTLed
 > END STRING
 
 > BEGIN STRING
 生き物のように斬りかかってくる！
-> CONTEXT: Skills/389/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/389/message2/
+It is like a living thing it's going to be cut down!#MTLed
 > END STRING
 
 > BEGIN STRING
 チャーム・ザ・マリオネット
-> CONTEXT: Skills/390/name/ < UNTRANSLATED
-> CONTEXT: Skills/391/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/390/name/
+> CONTEXT: Skills/391/name/
+Charm · The · Marionette#MTLed
 > END STRING
 
 > BEGIN STRING
 はチャーム・ザ・マリオネットを唱えた！
-> CONTEXT: Skills/390/message1/ < UNTRANSLATED
-> CONTEXT: Skills/391/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/390/message1/
+> CONTEXT: Skills/391/message1/
+Challenged Charm · The · Marionette!#MTLed
 > END STRING
 
 > BEGIN STRING
 様子見
-> CONTEXT: Skills/392/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/392/name/
+Wait and see#MTLed
 > END STRING
 
 > BEGIN STRING
 何もせず様子見をする。
-> CONTEXT: Skills/392/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/392/description/
+Do nothing and make a wait.
+                                                           #MTLed
 > END STRING
 
 > BEGIN STRING
 は相手の様子をうかがっている。
-> CONTEXT: Skills/392/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/392/message1/
+He is looking at the state of his opponent.#MTLed
 > END STRING
 
 > BEGIN STRING
 女王おっぱいホールド
-> CONTEXT: Skills/393/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/393/name/
+Queen boob hold#MTLed
 > END STRING
 
 > BEGIN STRING
 は\\N[12]を自らの胸に抱き寄せた！
-> CONTEXT: Skills/393/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/393/message1/
+Is \\N[12] Hugging herself in her chest!#MTLed
 > END STRING
 
 > BEGIN STRING
 女王おっぱい責め
-> CONTEXT: Skills/394/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/394/name/
+Queen breasts blame#MTLed
 > END STRING
 
 > BEGIN STRING
 強く抱きしめる！
-> CONTEXT: Skills/394/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/394/message2/
+Strongly hug you!#MTLed
 > END STRING
 
 > BEGIN STRING
 女王ホールド攻撃
-> CONTEXT: Skills/395/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/395/name/
+Queen hold attack#MTLed
 > END STRING
 
 > BEGIN STRING
 は\\N[12]を抱きしめようとしてくる！
-> CONTEXT: Skills/395/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/395/message1/
+Is \\N[12] I will try to hug you!#MTLed
 > END STRING
 
 > BEGIN STRING
 トドメサフェルティ
-> CONTEXT: Skills/396/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/396/name/
+Finisher Safel te#MTLed
 > END STRING
 
 > BEGIN STRING
 ヘアチャーム闇闘技場
-> CONTEXT: Skills/398/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/398/name/
+Hair charm dark stadium#MTLed
 > END STRING
 
 > BEGIN STRING
 ヘアチャーム演出
-> CONTEXT: Skills/399/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/399/name/
+Hair charm production#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークエッジトドメ
-> CONTEXT: Skills/400/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/400/name/
+Dark edge finisher#MTLed
 > END STRING

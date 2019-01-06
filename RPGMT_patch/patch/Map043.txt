@@ -1,4 +1,147 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ジェーン
+「私、\\N[12]とこういう場で対戦するのが
+ずっと楽しみだったの。
+正々堂々とした、いい試合にしましょう！」
+> CONTEXT: Map043/events/24/pages/5/32/Dialogue
+Jane. 「Me, \\N[12] And to fight in such a place
+It was a lot of fun. Let's make it a fair and squirming
+match!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ！」
+> CONTEXT: Map043/events/24/pages/5/37/Dialogue
+> CONTEXT: Map036/events/14/pages/0/379/Dialogue
+\\N[12]. 「Oh!」#MTLed
+> CONTEXT: Commonevents/262/281/Dialogue
+\\N[12]. 「Oh!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ジェーン、出場してたのか。
+ここでお前とやり合うことになるなんてな」
+> CONTEXT: Map043/events/24/pages/5/42/Dialogue
+\\N[12]. 「Jane, you played? I do not think you will get
+in touch with you here」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「自警団メンバー同士で対戦って、
+ちょっと不思議な気分だよね。
+でも、私は手加減する気はないからね。
+> CONTEXT: Map043/events/24/pages/5/46/Dialogue
+Jane. 「Battle between vigilante members,
+I feel a little strange. But I do not want to go back.#MTLed
+> END STRING
+
+> BEGIN STRING
+観客に自警団の実力を見せつけられるような、
+正々堂々とした試合をしようね、\\N[12]！」
+> CONTEXT: Map043/events/24/pages/5/51/Dialogue
+As you can show the spectacular ability of the vigilante to
+the audience, Let 's play a squalid match, \\N[12] !」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、俺も負けないぜっ！」
+> CONTEXT: Map043/events/24/pages/5/54/Dialogue
+\\N[12]. 「Oh, I will not lose!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「くうっ、負けちゃった……
+こんな格好させられて、しかも負けるなんて
+悔しいなあ」
+> CONTEXT: Map043/events/24/pages/5/75/Dialogue
+Jane. 「Kuu, I lost...... I was taken down like this, and
+I can not lose. It is regrettable.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「す、すまん……
+俺の技のはずみで、恥ずかしい格好させちまって」
+> CONTEXT: Map043/events/24/pages/5/80/Dialogue
+\\N[12]. 「I'm sorry...With the hoops of my skill, I
+will make it look embarrassing」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ふうん、その様子だと、わざとじゃなさそうだね。
+まあいいや、許してあげる。
+それにしても……」
+> CONTEXT: Map043/events/24/pages/5/84/Dialogue
+Jane. 「Maybe it seems that it is not on purpose.
+Well, I will forgive you. Even so ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「手合わせじゃ情けないところを見せたけど
+やっぱり男として、意地は見せたかったからな。
+しかし、できれば二人で決勝トーナメント行きたかったな」
+> CONTEXT: Map043/events/24/pages/5/132/Dialogue
+\\N[12]. 「Although I showed miserable places when I
+took it. After all, as a man, I wanted to show my
+obsession. However, if possible we wanted two people to go
+to the finals tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……な、なんてこった、
+こんな舞台まで来て、
+いつも手合わせしてる相手に不覚を取るなんて……」
+> CONTEXT: Map043/events/24/pages/5/487/Dialogue
+\\N[12]. 「Kuu ...... Nice, why, Come to such a stage,
+It's like taking a moment to the other party you are always
+making ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「\\N[12]もこの程度だったっていうのは、残念だけど……
+ここから先は、私がレストンの代表として頑張るわね」
+> CONTEXT: Map043/events/24/pages/5/508/Dialogue
+Jane. 「\\N[12] I regret to say that this degree was
+also...... From here onwards, I will do my best as a
+representative of Reston」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ふふん、でもやっぱり\\N[12]って私より弱いんだ。
+最近の手合わせでも私が勝ち越してたし、
+もしかしてとは思ってたけど」
+> CONTEXT: Map043/events/24/pages/5/514/Dialogue
+Jane. 「Hmm, but as expected \\N[12] It is weaker than I
+am. Even in the recent arrangements I have overcome,
+I thought you were probably」#MTLed
+> CONTEXT: Commonevents/256/357/Dialogue
+Jane. 「Hmm, but as expected \\N[12] It is
+weaker than I am. Even in the recent arrangements
+I have overcome, I thought you were probably」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「あのシェリーって子に情けない負け方をしたのを見て
+もしかして、って思ったけど
+やっぱり\\N[12]も、この程度だったんだね」
+> CONTEXT: Map043/events/24/pages/5/522/Dialogue
+Jane. 「Look at that sheri got a losing way of defeating a
+child. Did you mean, though? As expected \\N[12] Well,
+it was this degree」#MTLed
+> END STRING
+
 > BEGIN STRING
 アナウンス
 『まずは西側、エルミア王国南部に位置するレストンの村出身、
@@ -49,6 +192,88 @@ Right! I will not let you lose ~」#MTLed
 > END STRING
 
 > BEGIN STRING
+プリム
+「おにいさん、わたし、ここまで勝ち抜いてきましたっ！
+手合わせの感じじゃ、わたしが有利かもしれないけど……
+でも、容赦はしませんっ！」
+> CONTEXT: Map043/events/24/pages/7/39/Dialogue
+Purim. 「Older, I've won the tournament!
+Although I feel it may be advantageous, but
+...... But I will not pardon!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「手合わせのときのようにはいかないぜ、プリム！
+悪いが、今回ばかりは勝たせてもらうっ！」
+> CONTEXT: Map043/events/24/pages/7/44/Dialogue
+\\N[12]. 「It will not be like when it is time to talk,
+Purim! It's bad, but this time I will win!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「うーん、勝ちたかったなあ……
+わたしのパンツを見てえっちなことを考えちゃうような
+おにいさんに負けるのは、悔しいかも……」」
+> CONTEXT: Map043/events/24/pages/7/81/Dialogue
+Purim. 「Well, I wanted to win ...
+Looking at my panties and thinking about useless
+things. It is frustrating to lose to a big
+brother ......」」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、それについては、すまん……
+ホントに、出来心としか言いようがなくてだな……」
+> CONTEXT: Map043/events/24/pages/7/87/Dialogue
+\\N[12]. 「Uh, sorry about that...... Really, there
+was no choice but to say only ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「なんてね、そんなに怖がらなくてもいいよ、おにいさん。
+わたしなんかを、女として魅力的に
+感じてくれたってことでしょ？　よく考えると嬉しいかも」
+> CONTEXT: Map043/events/24/pages/7/91/Dialogue
+Purim. 「Anyway, you do not need to be so scared,
+Oka. I like something attractive as a woman
+You mean you felt it? It might be glad if you
+think carefully」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そ、そうか？」
+> CONTEXT: Map043/events/24/pages/7/96/Dialogue
+> CONTEXT: Map002/events/20/pages/3/5/Dialogue
+\\N[12]. 「Is that so?」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「でも、試合中に変なこと考えてちゃダメだよ？
+わたし相手にそんな風になってたら、
+大人の女の人が相手だと、すごい隙ができちゃうかも」
+> CONTEXT: Map043/events/24/pages/7/99/Dialogue
+Purim. 「But you should not think strange things
+during the match? Once I got that way,
+If an adult woman is your opponent, there might
+be a great gap」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、確かに命取りになりかねないな……
+すまなかったな、心しておくよ」
+> CONTEXT: Map043/events/24/pages/7/104/Dialogue
+\\N[12]. 「Oh, it certainly can be a bad thing......
+I am sorry, I will keep it in mind.」#MTLed
+> END STRING
+
+> BEGIN STRING
 \\N[12]は年下の少女に敗れたあげく、
 この後、足繁くプリムの家に通い、
 彼女に剣で叩きのめされた後に射精させられるという
@@ -79,6 +304,81 @@ Purim bad end: To younger girls ......#MTLed
 > END STRING
 
 > BEGIN STRING
+プリム
+「わたしの勝ちですね、おにいさん！
+手合わせでもわたしが勝ち越してたし、
+やっぱり、わたしのほうが強くなってたんだね」
+> CONTEXT: Map043/events/24/pages/7/198/Dialogue
+> CONTEXT: Commonevents/222/41/Dialogue
+Purim. 「I am the winner, Okay!
+I was winning even at the meeting,
+After all, I was getting stronger」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……
+や、やっぱり、プリムの伸びはすさまじい……
+この大舞台でも、負けちまうなんて……」
+> CONTEXT: Map043/events/24/pages/7/203/Dialogue
+\\N[12]. 「uugh...... And, after all, Purim's growth
+is terrible ...... Even in this big stage, I will not lose
+... ...」#MTLed
+> CONTEXT: Commonevents/222/46/Dialogue
+\\N[12]. 「uugh...... And, after all,
+Purim's growth is terrible ......
+Even in this big stage, I will not lose......」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「負けちゃって残念だったね、おにいさん♪
+試合中に女の子のぱんつなんかに見とれてるから
+そういう目にあうんだよ？」
+> CONTEXT: Map043/events/24/pages/7/233/Dialogue
+Purim. 「I regret to say I lost, my older brother♪
+Because I can see the girls' pants and something during the
+game. You see that kind of eyes?」#MTLed
+> CONTEXT: Commonevents/222/76/Dialogue
+Purim. 「I regret to say I lost, my older brother♪
+Because I can see the girls' pants and something
+during the game. You see that kind of eyes?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「おあいにくさま。
+私はこの日まで、みっちり研鑽を重ねてきたのよ。
+あなたに味わわされた屈辱を晴らすためにね」
+> CONTEXT: Map043/events/24/pages/8/38/Dialogue
+> CONTEXT: Map043/events/121/pages/1/38/Dialogue
+Diana. 「As it is sorry. I have studied exactly
+until this day. To clear up the humiliation you
+tasted」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そうか……」
+> CONTEXT: Map043/events/24/pages/8/43/Dialogue
+> CONTEXT: Map043/events/121/pages/1/43/Dialogue
+\\N[12]. 「Really……」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「今度こそ思い知らせてあげる。
+高貴な人間と庶民との間には、
+埋めることのできない絶対的な差があることをねっ！」
+> CONTEXT: Map043/events/24/pages/8/46/Dialogue
+> CONTEXT: Map043/events/24/pages/9/43/Dialogue
+Diana. 「I will let you know this time.
+Between the noble human being and the common
+people, Never hear that there is an absolute
+difference that can not be filled!」#MTLed
+> END STRING
+
+> BEGIN STRING
 \\N[12]は自分よりも年下の
 貴族の少女に、圧倒的な才能の差を見せつけられた上
 性的な恥辱まで味わわされ、完全敗北を喫した。
@@ -92,6 +392,222 @@ shame, and I lost a complete defeat.#MTLed
 > END STRING
 
 > BEGIN STRING
+ディアーナ
+「おあいにくさま。
+あなたの弱点はもう分かっているのよ。
+以前のようにいくと思わないことね」
+> CONTEXT: Map043/events/24/pages/9/35/Dialogue
+Diana. 「As it is sorry. I already know your
+weakness. You do not think you will go as before.
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「じゃ、弱点だと？」
+> CONTEXT: Map043/events/24/pages/9/40/Dialogue
+\\N[12]. 「Well, it's a weak point?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、そうはいくか！
+今回も俺が勝たせてもらうぜ、いくぞっ！」
+> CONTEXT: Map043/events/24/pages/9/48/Dialogue
+\\N[12]. 「Cut, is that so! This time I will let you
+win, here I go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ふうっ……まったく、
+わざわざ色仕掛けみたいなことをする必要はないだろうに」
+> CONTEXT: Map043/events/24/pages/9/70/Dialogue
+\\N[12]. 「Fuu ...... Indeed, expressly I do not think
+we need to do things like coloring」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「だって、あなたってこういうのに弱そうだし。
+私の美貌を持ってすれば、あなたなんて
+簡単に誘惑できると思ったのよ」
+> CONTEXT: Map043/events/24/pages/9/74/Dialogue
+Diana. 「Because, you seem to be weak for these
+reasons. If you have my beauty, you
+I thought I could easily tempt you」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「そういうことじゃなくてな。
+お前はかなりのセンスを持ってるんだから
+普通に腕を磨くだけで、絶対に強くなれると思うんだが……」
+> CONTEXT: Map043/events/24/pages/9/79/Dialogue
+\\N[12]. 「It's not like that. You have quite a sense.
+I think that it will become absolutely strong simply by
+just brushing his arm ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふんっ、おだてても何も出ないわよ。
+ま、私に二度も勝った実力は認めてあげるわ。
+まさか色仕掛けまで跳ねのけるだなんて……」
+> CONTEXT: Map043/events/24/pages/9/84/Dialogue
+Diana. 「Hmm, I will not do anything if you give
+it up. Well, I will recognize my ability to win
+twice. No way I can jump up to the color scheme
+... ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（まさかディアーナに色仕掛けをされるなんてなあ……
+とにかく、勝ったのは俺だ。
+なにか命令できるわけだが、どうしようか？）
+> CONTEXT: Map043/events/24/pages/9/89/Dialogue
+\\N[12]. (No way it seems that Diana is caught in the
+color...... Anyway, I am the one who won.
+I can command anything, but what shall I do? )#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふっ、どう？
+この私の天才的な剣術に、女の武器まで組み合わせれば
+男が私に勝てるわけないわよねっ」
+> CONTEXT: Map043/events/24/pages/9/223/Dialogue
+> CONTEXT: Commonevents/320/22/Dialogue
+Diana. 「Huh, how are you? If you combine my
+genius swordsmanship with women's weapons
+A man can not beat me.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……まさか、ディアーナが
+こんな色仕掛けをしてくるだなんて……」
+> CONTEXT: Map043/events/24/pages/9/228/Dialogue
+\\N[12]. 「Uu, uugh...... No way, Diana
+Why is he coming out with such a color scheme ......」#MTLed
+> CONTEXT: Commonevents/320/27/Dialogue
+\\N[12]. 「Uu, uugh...... No way, Diana
+Why is he coming out with such a color scheme
+......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「自分よりずっと年下の小娘の誘惑に屈して
+無様に負けてしまった気分はどうかしら？
+恥ずかしい男ねっ、あはははっ！」
+> CONTEXT: Map043/events/24/pages/9/232/Dialogue
+> CONTEXT: Commonevents/320/31/Dialogue
+Diana. 「Give in to the temptation of a younger
+girl than herself. I wonder what it feels like to
+lose unsightly? Embarrassed guy, Hahahah!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「さて、勝者は私……だけど、
+あなたのような庶民から奪いたいものなどないのよね。
+ここは、さらなる醜態でも晒してみせてもらおうかしら」
+> CONTEXT: Map043/events/24/pages/9/288/Dialogue
+> CONTEXT: Commonevents/320/82/Dialogue
+Diana. 「Well, the winner is me .... However,
+There is no thing you want to deprive from the
+common people like you. Wait here to expose even
+more abominations」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふ……
+大勢の観客の前で小娘に嫐られる恥ずかしさを
+さらに味わわせてあげるわ♪」
+> CONTEXT: Map043/events/24/pages/9/298/Dialogue
+> CONTEXT: Commonevents/320/92/Dialogue
+Diana. 「Whatching. Shy embarrassed by a little
+girl in front of a large audience
+I will taste it further♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+アナウンス
+『おおっと、ディアーナ選手
+\\N[12]選手をさらに性的に嫐るつもりのようです！』
+> CONTEXT: Map043/events/24/pages/9/304/Dialogue
+> CONTEXT: Map043/events/24/pages/9/608/Dialogue
+announcement. "Oops, Diana player. \\N[12] It seems that
+he intends to sexually compete athletes! "#MTLed
+> CONTEXT: Commonevents/320/98/Dialogue
+> CONTEXT: Commonevents/320/402/Dialogue
+announcement. "Oops, Diana player
+\\N[12] It seems that he intends to sexually
+compete athletes! "#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「この高貴な私のお尻を顔で味わえるなんて、
+あなたは幸運よ。
+ま、このお尻で負けたんだし、屈辱だろうけど」
+> CONTEXT: Map043/events/24/pages/9/339/Dialogue
+Diana. 「To be able to taste this noble my ass with a face,
+You are lucky. Well, I lost with this butt, I'm humiliated」#MTLed
+> CONTEXT: Commonevents/320/133/Dialogue
+Diana. 「To be able to taste this noble my ass
+with a face, You are lucky. Well, I lost with
+this butt, I'm humiliated」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「やっぱり私のお尻で興奮しちゃうのね、
+あなたってロリコンのヘンタイよねぇ」
+> CONTEXT: Map043/events/24/pages/9/355/Dialogue
+Diana. 「After all I am excited by my ass,
+You are pervert Yorie of the pedophile」#MTLed
+> CONTEXT: Commonevents/320/149/Dialogue
+Diana. 「After all I am excited by my ass,
+You are pervert Yorie of the pedophile」#MTLed
+> END STRING
+
+> BEGIN STRING
+観客
+「信じられないわ、
+あんな子に色香を感じているってことよね。
+完全に変態だわ」
+> CONTEXT: Map043/events/24/pages/9/363/Dialogue
+audience. 「I can not believe it, I mean that she feels a
+fascination with such a child. It's completely perverted.」#MTLed
+> CONTEXT: Commonevents/320/157/Dialogue
+audience. 「I can not believe it,
+I mean that she feels a fascination with such a
+child. It's completely perverted.」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]は自分よりも年下の
+貴族の少女に、誘惑と剣技を織り交ぜた戦い方で翻弄され
+屈辱的な敗北を喫し、
+さらに性的恥辱まで味わわされた。
+> CONTEXT: Map043/events/24/pages/9/586/Dialogue
+In this way, \\N[12] He is younger than me
+A nobleman girl is tossed in a way of fighting interwoven
+with temptation and sword skill. Having humiliating defeat,
+It tasted even sexual shame.#MTLed
+> CONTEXT: Commonevents/320/380/Dialogue
+In this way, \\N[12] He is younger than me
+A nobleman girl is tossed in a way of fighting
+interwoven with temptation and sword skill
+Having humiliating defeat, It tasted even sexual
+shame.#MTLed
+> END STRING
+
+> BEGIN STRING
 こうして、\\N[12]はベルベットに敗れ、
 かつての勝負のリベンジをされてしまった。
 > CONTEXT: Map043/events/24/pages/12/175/Dialogue
@@ -101,6 +617,15 @@ revenge of the past match.#MTLed
 > CONTEXT: Commonevents/228/633/Dialogue
 In this way, \\N[12] He lost to velvet,
 It has been a revenge of the past match.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ぐうぅっ……や、やられたっ……」
+> CONTEXT: Map043/events/24/pages/12/210/Dialogue
+\\N[12]. 「Hey...... and I was killed ......」#MTLed
+> CONTEXT: Commonevents/228/34/Dialogue
+\\N[12]. 「Hey...... and I was killed ......」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1864,8 +2389,9 @@ royal guard. 「Please, before the Queen's Majesty!」#MTLed
 悔しいけど、キミが優勝にふさわしかったよ。
 さ、女王様が待ってるよ！」
 > CONTEXT: Map043/events/107/pages/0/0/Dialogue
-Sherry. 「Congrats, \\N[12] You. It is regrettable, but
-you were fit for victory. Here, the Queen is waiting!」#MTLed
+Sherry. 「Congrats, \\N[12] You.
+It is regrettable, but you were fit for victory.
+Here, the Queen is waiting!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1930,408 +2456,4 @@ reward would you like, Kim? I'm looking forward」#MTLed
 alumina. 「I am late for a man like you ...
 No, it was probably caused by such an arrogance.
 It is my perfect defeat, \\N[12] Atonement」#MTLed
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「私、\\N[12]とこういう場で対戦するのが
-ずっと楽しみだったの。
-正々堂々とした、いい試合にしましょう！」
-> CONTEXT: Map043/events/24/pages/5/32/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ジェーン、出場してたのか。
-ここでお前とやり合うことになるなんてな」
-> CONTEXT: Map043/events/24/pages/5/42/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「自警団メンバー同士で対戦って、
-ちょっと不思議な気分だよね。
-でも、私は手加減する気はないからね。
-> CONTEXT: Map043/events/24/pages/5/46/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-観客に自警団の実力を見せつけられるような、
-正々堂々とした試合をしようね、\\N[12]！」
-> CONTEXT: Map043/events/24/pages/5/51/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ああ、俺も負けないぜっ！」
-> CONTEXT: Map043/events/24/pages/5/54/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「くうっ、負けちゃった……
-こんな格好させられて、しかも負けるなんて
-悔しいなあ」
-> CONTEXT: Map043/events/24/pages/5/75/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「す、すまん……
-俺の技のはずみで、恥ずかしい格好させちまって」
-> CONTEXT: Map043/events/24/pages/5/80/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「ふうん、その様子だと、わざとじゃなさそうだね。
-まあいいや、許してあげる。
-それにしても……」
-> CONTEXT: Map043/events/24/pages/5/84/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「手合わせじゃ情けないところを見せたけど
-やっぱり男として、意地は見せたかったからな。
-しかし、できれば二人で決勝トーナメント行きたかったな」
-> CONTEXT: Map043/events/24/pages/5/132/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「くっ……な、なんてこった、
-こんな舞台まで来て、
-いつも手合わせしてる相手に不覚を取るなんて……」
-> CONTEXT: Map043/events/24/pages/5/487/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「\\N[12]もこの程度だったっていうのは、残念だけど……
-ここから先は、私がレストンの代表として頑張るわね」
-> CONTEXT: Map043/events/24/pages/5/508/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「ふふん、でもやっぱり\\N[12]って私より弱いんだ。
-最近の手合わせでも私が勝ち越してたし、
-もしかしてとは思ってたけど」
-> CONTEXT: Map043/events/24/pages/5/514/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/256/357/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「あのシェリーって子に情けない負け方をしたのを見て
-もしかして、って思ったけど
-やっぱり\\N[12]も、この程度だったんだね」
-> CONTEXT: Map043/events/24/pages/5/522/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「おにいさん、わたし、ここまで勝ち抜いてきましたっ！
-手合わせの感じじゃ、わたしが有利かもしれないけど……
-でも、容赦はしませんっ！」
-> CONTEXT: Map043/events/24/pages/7/39/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「手合わせのときのようにはいかないぜ、プリム！
-悪いが、今回ばかりは勝たせてもらうっ！」
-> CONTEXT: Map043/events/24/pages/7/44/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「うーん、勝ちたかったなあ……
-わたしのパンツを見てえっちなことを考えちゃうような
-おにいさんに負けるのは、悔しいかも……」」
-> CONTEXT: Map043/events/24/pages/7/81/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「うっ、それについては、すまん……
-ホントに、出来心としか言いようがなくてだな……」
-> CONTEXT: Map043/events/24/pages/7/87/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「なんてね、そんなに怖がらなくてもいいよ、おにいさん。
-わたしなんかを、女として魅力的に
-感じてくれたってことでしょ？　よく考えると嬉しいかも」
-> CONTEXT: Map043/events/24/pages/7/91/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「でも、試合中に変なこと考えてちゃダメだよ？
-わたし相手にそんな風になってたら、
-大人の女の人が相手だと、すごい隙ができちゃうかも」
-> CONTEXT: Map043/events/24/pages/7/99/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ああ、確かに命取りになりかねないな……
-すまなかったな、心しておくよ」
-> CONTEXT: Map043/events/24/pages/7/104/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「わたしの勝ちですね、おにいさん！
-手合わせでもわたしが勝ち越してたし、
-やっぱり、わたしのほうが強くなってたんだね」
-> CONTEXT: Map043/events/24/pages/7/198/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/222/41/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ううっ……
-や、やっぱり、プリムの伸びはすさまじい……
-この大舞台でも、負けちまうなんて……」
-> CONTEXT: Map043/events/24/pages/7/203/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/222/46/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「負けちゃって残念だったね、おにいさん♪
-試合中に女の子のぱんつなんかに見とれてるから
-そういう目にあうんだよ？」
-> CONTEXT: Map043/events/24/pages/7/233/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/222/76/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「おあいにくさま。
-私はこの日まで、みっちり研鑽を重ねてきたのよ。
-あなたに味わわされた屈辱を晴らすためにね」
-> CONTEXT: Map043/events/24/pages/8/38/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/121/pages/1/38/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「そうか……」
-> CONTEXT: Map043/events/24/pages/8/43/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/121/pages/1/43/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「今度こそ思い知らせてあげる。
-高貴な人間と庶民との間には、
-埋めることのできない絶対的な差があることをねっ！」
-> CONTEXT: Map043/events/24/pages/8/46/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/24/pages/9/43/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「おあいにくさま。
-あなたの弱点はもう分かっているのよ。
-以前のようにいくと思わないことね」
-> CONTEXT: Map043/events/24/pages/9/35/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「じゃ、弱点だと？」
-> CONTEXT: Map043/events/24/pages/9/40/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「くっ、そうはいくか！
-今回も俺が勝たせてもらうぜ、いくぞっ！」
-> CONTEXT: Map043/events/24/pages/9/48/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ふうっ……まったく、
-わざわざ色仕掛けみたいなことをする必要はないだろうに」
-> CONTEXT: Map043/events/24/pages/9/70/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「だって、あなたってこういうのに弱そうだし。
-私の美貌を持ってすれば、あなたなんて
-簡単に誘惑できると思ったのよ」
-> CONTEXT: Map043/events/24/pages/9/74/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「そういうことじゃなくてな。
-お前はかなりのセンスを持ってるんだから
-普通に腕を磨くだけで、絶対に強くなれると思うんだが……」
-> CONTEXT: Map043/events/24/pages/9/79/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「ふんっ、おだてても何も出ないわよ。
-ま、私に二度も勝った実力は認めてあげるわ。
-まさか色仕掛けまで跳ねのけるだなんて……」
-> CONTEXT: Map043/events/24/pages/9/84/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-（まさかディアーナに色仕掛けをされるなんてなあ……
-とにかく、勝ったのは俺だ。
-なにか命令できるわけだが、どうしようか？）
-> CONTEXT: Map043/events/24/pages/9/89/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「ふふっ、どう？
-この私の天才的な剣術に、女の武器まで組み合わせれば
-男が私に勝てるわけないわよねっ」
-> CONTEXT: Map043/events/24/pages/9/223/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/320/22/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「う、ううっ……まさか、ディアーナが
-こんな色仕掛けをしてくるだなんて……」
-> CONTEXT: Map043/events/24/pages/9/228/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/320/27/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「自分よりずっと年下の小娘の誘惑に屈して
-無様に負けてしまった気分はどうかしら？
-恥ずかしい男ねっ、あはははっ！」
-> CONTEXT: Map043/events/24/pages/9/232/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/320/31/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「さて、勝者は私……だけど、
-あなたのような庶民から奪いたいものなどないのよね。
-ここは、さらなる醜態でも晒してみせてもらおうかしら」
-> CONTEXT: Map043/events/24/pages/9/288/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/320/82/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「ふふ……
-大勢の観客の前で小娘に嫐られる恥ずかしさを
-さらに味わわせてあげるわ♪」
-> CONTEXT: Map043/events/24/pages/9/298/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/320/92/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-アナウンス
-『おおっと、ディアーナ選手
-\\N[12]選手をさらに性的に嫐るつもりのようです！』
-> CONTEXT: Map043/events/24/pages/9/304/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/24/pages/9/608/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/320/98/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/320/402/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「この高貴な私のお尻を顔で味わえるなんて、
-あなたは幸運よ。
-ま、このお尻で負けたんだし、屈辱だろうけど」
-> CONTEXT: Map043/events/24/pages/9/339/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/320/133/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「やっぱり私のお尻で興奮しちゃうのね、
-あなたってロリコンのヘンタイよねぇ」
-> CONTEXT: Map043/events/24/pages/9/355/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/320/149/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-観客
-「信じられないわ、
-あんな子に色香を感じているってことよね。
-完全に変態だわ」
-> CONTEXT: Map043/events/24/pages/9/363/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/320/157/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-こうして、\\N[12]は自分よりも年下の
-貴族の少女に、誘惑と剣技を織り交ぜた戦い方で翻弄され
-屈辱的な敗北を喫し、
-さらに性的恥辱まで味わわされた。
-> CONTEXT: Map043/events/24/pages/9/586/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/320/380/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ぐうぅっ……や、やられたっ……」
-> CONTEXT: Map043/events/24/pages/12/210/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/228/34/Dialogue < UNTRANSLATED
-
 > END STRING

@@ -19,7 +19,7 @@ I got iron ore!#MTLed
 > CONTEXT: Map074/events/16/pages/0/1/Dialogue
 > CONTEXT: Map070/events/41/pages/0/9/Dialogue
 > CONTEXT: Map027/events/6/pages/0/9/Dialogue
-> CONTEXT: Map016/events/26/pages/0/9/Dialogue
 > CONTEXT: Map019/events/46/pages/0/9/Dialogue
+> CONTEXT: Map016/events/26/pages/0/9/Dialogue
 I got iron ore!#MTLed
 > END STRING

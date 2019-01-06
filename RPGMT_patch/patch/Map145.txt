@@ -1,18 +1,21 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\N[12]
 「ご主人様っ、今日はレヴァスティの森で
 魔物を一日中狩り続けてきましたっ！
 これが稼ぎですっ！」
-> CONTEXT: Map145/events/2/pages/1/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/10/Dialogue
+\\N[12]. 「Master, today is the forest of Lavasti
+I have been hunting monster all day long!
+This is earning!」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は、魔物退治で得たお金を
 バニーガールに手渡す。
-> CONTEXT: Map145/events/2/pages/1/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/17/Dialogue
+\\N[12] The money gained by monster extermination
+Hand it to bunny girl.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -20,16 +23,44 @@
 「ふふ、ご苦労さま。
 じゃ、お金に続いて
 鍛えてきた力も私に捧げなさい」
-> CONTEXT: Map145/events/2/pages/1/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map145/events/2/pages/1/20/Dialogue
+Bunny. 「Hehe, thank you. Then, following money
+Give me strength that has been exercised.」#MTLed
+> END STRING
 
+> BEGIN STRING
+\\N[12]
+「はいっ！」
+> CONTEXT: Map145/events/2/pages/1/25/Dialogue
+> CONTEXT: Map111/events/2/pages/0/106/Dialogue
+> CONTEXT: Map035/events/4/pages/8/286/Dialogue
+\\N[12]. 「Yes!」#MTLed
+> END STRING
+
+> BEGIN STRING
+むにゅんっ……！
+> CONTEXT: Map145/events/2/pages/1/30/Dialogue
+> CONTEXT: Map152/events/24/pages/8/428/Dialogue
+> CONTEXT: Map043/events/24/pages/8/454/Dialogue
+> CONTEXT: Map043/events/24/pages/9/331/Dialogue
+> CONTEXT: Map043/events/24/pages/9/635/Dialogue
+> CONTEXT: Map043/events/121/pages/0/376/Dialogue
+> CONTEXT: Map043/events/121/pages/1/454/Dialogue
+Mumbo ...!#MTLed
+> CONTEXT: Commonevents/153/28/Dialogue
+> CONTEXT: Commonevents/223/154/Dialogue
+> CONTEXT: Commonevents/228/161/Dialogue
+> CONTEXT: Commonevents/320/125/Dialogue
+> CONTEXT: Commonevents/320/429/Dialogue
+Mumbo ...!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あ、ああぁ……
 や、やわらかいぃ……！」
-> CONTEXT: Map145/events/2/pages/1/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/34/Dialogue
+\\N[12]. 「Oh, ah ... .... Or, soft ~ ...!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -37,36 +68,38 @@
 「もうすっかり、私のおっぱいの虜ね。
 キミのそういうだらしない顔を見るの、
 私は結構楽しいわよ」
-> CONTEXT: Map145/events/2/pages/1/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/38/Dialogue
+bunny girl. 「I'm totally captive of my tits.
+You see that sloppy face like that, I am quite funny」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あ、ありがとうございますっ！」
-> CONTEXT: Map145/events/2/pages/1/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/43/Dialogue
+\\N[12]. 「Oh, thank you!」#MTLed
 > END STRING
 
 > BEGIN STRING
 むにっ、むにゅっ……！
-> CONTEXT: Map145/events/2/pages/1/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/46/Dialogue
+Mumbo, mumbo ...!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あひいいぃぃっ！」
-> CONTEXT: Map145/events/2/pages/1/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/48/Dialogue
+\\N[12]. 「Ami い い ぃ っ!」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あっ、あがっ、あううぅっ……
 き、きもちいいっ……」
-> CONTEXT: Map145/events/2/pages/1/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/59/Dialogue
+\\N[12]. 「Oh, it's okay, ah huh ... ... Come, feel
+comfortable ......」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -74,8 +107,10 @@
 「今日も力を貢いでくれてありがと。
 もうそろそろ、魔王の一人や二人
 倒せそうなくらい、力がついてきちゃった。
-> CONTEXT: Map145/events/2/pages/1/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/63/Dialogue
+bunny girl. 「Thank you for contributing to your strength
+today. It is almost time that one or two of the Devil
+I got my strength as long as I could beat it.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -83,8 +118,68 @@
 毎日、キミから奪ったお金でおいしいものを食べて
 のんびりしているだけで、
 勝手に力とお金を貢ぎに来てくれるし」
-> CONTEXT: Map145/events/2/pages/1/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map145/events/2/pages/1/68/Dialogue
+Huh, I myself have not made any effort ......
+Every day, eat delicious things with the money taken from
+you. Just relaxing, It will come to us to do power and
+money without permission」#MTLed
+> END STRING
 
+> BEGIN STRING
+\\N[12]
+「そ、それは……」
+> CONTEXT: Map145/events/2/pages/1/73/Dialogue
+> CONTEXT: Map141/events/4/pages/0/347/Dialogue
+> CONTEXT: Map141/events/37/pages/0/348/Dialogue
+> CONTEXT: Map139/events/2/pages/0/364/Dialogue
+> CONTEXT: Map147/events/2/pages/20/152/Dialogue
+> CONTEXT: Map041/events/26/pages/0/365/Dialogue
+> CONTEXT: Map041/events/27/pages/0/360/Dialogue
+> CONTEXT: Map041/events/28/pages/0/369/Dialogue
+> CONTEXT: Map041/events/29/pages/0/369/Dialogue
+> CONTEXT: Map041/events/30/pages/0/369/Dialogue
+\\N[12]. 「Well, that is ......」#MTLed
+> CONTEXT: Commonevents/155/73/Dialogue
+> CONTEXT: Commonevents/246/286/Dialogue
+> CONTEXT: Commonevents/306/35/Dialogue
+\\N[12]. 「Well, that is ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+むにゅっ……
+> CONTEXT: Map145/events/2/pages/1/76/Dialogue
+> CONTEXT: Map147/events/2/pages/19/612/Dialogue
+> CONTEXT: Map147/events/2/pages/19/848/Dialogue
+Muyuu ...#MTLed
+> CONTEXT: Commonevents/8/40/Dialogue
+> CONTEXT: Commonevents/9/344/Dialogue
+> CONTEXT: Commonevents/13/40/Dialogue
+> CONTEXT: Commonevents/224/148/Dialogue
+> CONTEXT: Commonevents/227/345/Dialogue
+Muyuu ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、あうぅ……」
+> CONTEXT: Map145/events/2/pages/1/78/Dialogue
+> CONTEXT: Map152/events/24/pages/8/665/Dialogue
+> CONTEXT: Map043/events/24/pages/8/691/Dialogue
+> CONTEXT: Map043/events/24/pages/9/564/Dialogue
+> CONTEXT: Map043/events/24/pages/9/872/Dialogue
+> CONTEXT: Map043/events/121/pages/0/613/Dialogue
+> CONTEXT: Map043/events/121/pages/1/691/Dialogue
+\\N[12]. 「Oh no ......」#MTLed
+> CONTEXT: Map032/events/50/pages/1/414/Dialogue
+> CONTEXT: Commonevents/155/137/Dialogue
+> CONTEXT: Commonevents/200/654/Dialogue
+> CONTEXT: Commonevents/205/618/Dialogue
+> CONTEXT: Commonevents/223/391/Dialogue
+> CONTEXT: Commonevents/248/650/Dialogue
+> CONTEXT: Commonevents/263/339/Dialogue
+> CONTEXT: Commonevents/320/358/Dialogue
+> CONTEXT: Commonevents/320/666/Dialogue
+\\N[12]. 「Oh no ......」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -92,41 +187,62 @@
 「このおっぱいの感触が忘れられないのよね？
 だから、私に搾取され続けると分かっていながら
 逃げることもせず奴隷に甘んじてる。
-> CONTEXT: Map145/events/2/pages/1/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/81/Dialogue
+bunny girl. 「You can not forget the feel of this tits, are
+not you? So, while knowing that I will continue to be
+exploited. I am free from slavery without escaping.#MTLed
 > END STRING
 
 > BEGIN STRING
 ま、しょせんキミのような早漏の男の子は
 女のおっぱいにはかなわないものね。
 このまま一生、私がキミを飼い続けてあげる。
-> CONTEXT: Map145/events/2/pages/1/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/86/Dialogue
+Well, the premature ejaculation boys like you
+It is an incompatible thing to a woman's boob.
+I will keep keeping you forever as it is.#MTLed
 > END STRING
 
 > BEGIN STRING
 せいぜい頑張って、私のために力を貢ぎなさい。
 そう、一生ね……うふふっ……♪」
-> CONTEXT: Map145/events/2/pages/1/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map145/events/2/pages/1/90/Dialogue
+Do your best at best, and help yourself for me.
+Yes, it's all ... ... uh ... ...♪」#MTLed
+> END STRING
 
+> BEGIN STRING
+\\N[12]
+「は、はいぃ……」
+> CONTEXT: Map145/events/2/pages/1/93/Dialogue
+> CONTEXT: Map041/events/5/pages/5/700/Dialogue
+> CONTEXT: Map041/events/5/pages/5/1382/Dialogue
+> CONTEXT: Map041/events/56/pages/0/354/Dialogue
+\\N[12]. 「Is not it ...?」#MTLed
+> CONTEXT: Commonevents/242/342/Dialogue
+> CONTEXT: Commonevents/242/1026/Dialogue
+\\N[12]. 「Is not it ...?」#MTLed
 > END STRING
 
 > BEGIN STRING
 こうして、\\N[12]はバニーガールの奴隷となり
 彼女に力もお金も搾り取られ続けることになる。
-> CONTEXT: Map145/events/2/pages/1/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/98/Dialogue
+In this way, \\N[12] Is a slave to bunny girl
+Power and money will continue to be squeezed by her.#MTLed
 > END STRING
 
 > BEGIN STRING
 おっぱいに屈服し、快楽の虜となった少年の
 これが末路であった――
-> CONTEXT: Map145/events/2/pages/1/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/101/Dialogue
+I succumbed to her breasts and the boy who became a
+prisoner of pleasure. This was the way back -#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガール　バッドエンド２：おっぱいに全てを奪われた少年剣士
-> CONTEXT: Map145/events/2/pages/1/104/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/2/pages/1/104/Dialogue
+bunny girl Bad end 2: A boy swordsman who was robbed of
+everything on his breasts#MTLed
 > END STRING

@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\N[12]
 「あ、あの……」
@@ -22,12 +22,12 @@ doing lewd things too?」#MTLed
 「は、はい……」
 > CONTEXT: Map155/events/2/pages/0/20/Dialogue
 > CONTEXT: Map145/events/2/pages/0/20/Dialogue
-> CONTEXT: Map041/events/56/pages/0/701/Dialogue
 > CONTEXT: Map149/events/38/pages/1/265/Dialogue
 > CONTEXT: Map149/events/38/pages/1/442/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1047/Dialogue
 > CONTEXT: Map025/events/267/pages/1/321/Dialogue
 > CONTEXT: Map025/events/267/pages/1/559/Dialogue
+> CONTEXT: Map041/events/56/pages/0/701/Dialogue
 \\N[12]. 「Is that ... Yes.」#MTLed
 > CONTEXT: Commonevents/242/686/Dialogue
 \\N[12]. 「Is that ... Yes.」#MTLed

@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\N[12]
 「よろしくお願いします。
@@ -154,15 +154,6 @@ like Clair or Rizzy, It's coming with my heart」#MTLed
 
 > BEGIN STRING
 \\N[12]
-「はいっ！」
-> CONTEXT: Map111/events/2/pages/0/106/Dialogue
-> CONTEXT: Map035/events/4/pages/8/286/Dialogue
-> CONTEXT: Map145/events/2/pages/1/25/Dialogue
-\\N[12]. 「Yes!」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
 「ま、負けました……」
 > CONTEXT: Map111/events/2/pages/0/113/Dialogue
 > CONTEXT: Map111/events/2/pages/0/147/Dialogue
@@ -236,31 +227,6 @@ Nonetheless, to Clair or Riza partner, I can not expect you
 Rise. 「All right, my win♪. You are a contestant of martial
 arts tournament, are not you? That tournament player is
 surprisingly a big deal」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「うう……」
-> CONTEXT: Map111/events/2/pages/0/155/Dialogue
-> CONTEXT: Map152/events/24/pages/12/308/Dialogue
-> CONTEXT: Map152/events/24/pages/12/784/Dialogue
-> CONTEXT: Map074/events/27/pages/0/29/Dialogue
-> CONTEXT: Map074/events/41/pages/0/103/Dialogue
-> CONTEXT: Map074/events/45/pages/0/29/Dialogue
-> CONTEXT: Map074/events/46/pages/0/29/Dialogue
-> CONTEXT: Map074/events/47/pages/0/29/Dialogue
-> CONTEXT: Map074/events/48/pages/0/29/Dialogue
-> CONTEXT: Map074/events/49/pages/0/29/Dialogue
-> CONTEXT: Map149/events/38/pages/1/451/Dialogue
-> CONTEXT: Map025/events/267/pages/1/568/Dialogue
-> CONTEXT: Map043/events/24/pages/13/332/Dialogue
-> CONTEXT: Map043/events/24/pages/13/832/Dialogue
-\\N[12]. 「UU……」#MTLed
-> CONTEXT: Commonevents/136/145/Dialogue
-> CONTEXT: Commonevents/239/147/Dialogue
-> CONTEXT: Commonevents/240/147/Dialogue
-> CONTEXT: Commonevents/285/144/Dialogue
-\\N[12]. 「UU……」#MTLed
 > END STRING
 
 > BEGIN STRING

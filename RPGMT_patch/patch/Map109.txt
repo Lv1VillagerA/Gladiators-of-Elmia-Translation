@@ -1,38 +1,6 @@
 ﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\N[12]
-「う、ううっ……
-もう、ダメだ……戦え、ない……」
-> CONTEXT: Map109/events/4/pages/0/18/Dialogue
-> CONTEXT: Map107/events/3/pages/0/18/Dialogue
-> CONTEXT: Map106/events/5/pages/0/18/Dialogue
-> CONTEXT: Map103/events/6/pages/0/18/Dialogue
-> CONTEXT: Map103/events/8/pages/0/18/Dialogue
-> CONTEXT: Map027/events/24/pages/0/18/Dialogue
-> CONTEXT: Map027/events/25/pages/0/18/Dialogue
-\\N[12]. 「Uu ... ... Already, it is useless ......
-Fight, there is no ...」#MTLed
-> END STRING
-
-> BEGIN STRING
-セイレーン
-「ふふ……わたしの歌を聴いたら
-とても戦うことなんてできないよ……
-立つことすら、もう無理でしょう？」
-> CONTEXT: Map109/events/4/pages/0/23/Dialogue
-> CONTEXT: Map107/events/3/pages/0/23/Dialogue
-> CONTEXT: Map106/events/5/pages/0/23/Dialogue
-> CONTEXT: Map103/events/6/pages/0/23/Dialogue
-> CONTEXT: Map103/events/8/pages/0/23/Dialogue
-> CONTEXT: Map027/events/24/pages/0/23/Dialogue
-> CONTEXT: Map027/events/25/pages/0/23/Dialogue
-Siren. 「Hehe ... ... If you listen to my song
-I can not fight very much .... Is not it even impossible to
-stand?」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
 「し、しまった……
 こんな魔物がいるのなら、対策が必要だったんだ……」
 > CONTEXT: Map109/events/4/pages/0/37/Dialogue
@@ -80,36 +48,6 @@ Rather, let me taste you a moment like a dream」#MTLed
 
 > BEGIN STRING
 セイレーン
-「頭が痺れて、幸せな気持ちになってくるでしょ？
-さあ、好きなことをしていいのよ」
-> CONTEXT: Map109/events/4/pages/0/52/Dialogue
-> CONTEXT: Map107/events/3/pages/0/52/Dialogue
-> CONTEXT: Map106/events/5/pages/0/52/Dialogue
-> CONTEXT: Map103/events/6/pages/0/52/Dialogue
-> CONTEXT: Map103/events/8/pages/0/52/Dialogue
-> CONTEXT: Map027/events/24/pages/0/52/Dialogue
-> CONTEXT: Map027/events/25/pages/0/52/Dialogue
-Siren. 「My head is numb and it makes me feel happy, is not
-it? Now, you can do whatever you want」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「うう……なんだか、全身がジンジンしてきた……
-はぁ、はぁ……」
-> CONTEXT: Map109/events/4/pages/0/56/Dialogue
-> CONTEXT: Map107/events/3/pages/0/56/Dialogue
-> CONTEXT: Map106/events/5/pages/0/56/Dialogue
-> CONTEXT: Map103/events/6/pages/0/56/Dialogue
-> CONTEXT: Map103/events/8/pages/0/56/Dialogue
-> CONTEXT: Map027/events/24/pages/0/56/Dialogue
-> CONTEXT: Map027/events/25/pages/0/56/Dialogue
-\\N[12]. 「Ugh ...... Whatever, the whole body has come
-... ... Ah, Ah ...」#MTLed
-> END STRING
-
-> BEGIN STRING
-セイレーン
 「あら、その股間……すごく大きくなっているのね。
 私の胸でも見て、興奮しちゃったの？」
 > CONTEXT: Map109/events/4/pages/0/60/Dialogue
@@ -121,20 +59,6 @@ it? Now, you can do whatever you want」#MTLed
 > CONTEXT: Map027/events/25/pages/0/60/Dialogue
 Siren. 「Oh, that groin ... ... It's getting bigger.
 Even in my heart, did you get excited?」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]はズボンを下ろし、ペニスを引っ張り出すと
-セイレーンを見上げながらしごき始める！
-> CONTEXT: Map109/events/4/pages/0/67/Dialogue
-> CONTEXT: Map107/events/3/pages/0/67/Dialogue
-> CONTEXT: Map106/events/5/pages/0/67/Dialogue
-> CONTEXT: Map103/events/6/pages/0/67/Dialogue
-> CONTEXT: Map103/events/8/pages/0/67/Dialogue
-> CONTEXT: Map027/events/24/pages/0/67/Dialogue
-> CONTEXT: Map027/events/25/pages/0/67/Dialogue
-\\N[12] He pulls down his pants and pulls out his penis
-I will start to iron while looking up on the siren!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -180,38 +104,6 @@ You ought to ejaculate」#MTLed
 > CONTEXT: Map027/events/24/pages/0/81/Dialogue
 > CONTEXT: Map027/events/25/pages/0/81/Dialogue
 \\N[12]. 「Uh-oh, so let's go out!」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「あっ、あああぁっ！
-こ、こんな突き抜けるように気持ちのいい射精、
-初めてだっ……！」
-> CONTEXT: Map109/events/4/pages/0/88/Dialogue
-> CONTEXT: Map107/events/3/pages/0/88/Dialogue
-> CONTEXT: Map106/events/5/pages/0/88/Dialogue
-> CONTEXT: Map103/events/6/pages/0/88/Dialogue
-> CONTEXT: Map103/events/8/pages/0/88/Dialogue
-> CONTEXT: Map027/events/24/pages/0/88/Dialogue
-> CONTEXT: Map027/events/25/pages/0/88/Dialogue
-\\N[12]. 「Oh, Aaahh! Here, pleasant ejaculation to
-penetrate such, It is the first time ... ....!」#MTLed
-> END STRING
-
-> BEGIN STRING
-セイレーン
-「うふふ、そうでしょう。
-わたしが今歌っていたのは、男の人の恋愛感情を
-引き出す歌だもの。
-> CONTEXT: Map109/events/4/pages/0/93/Dialogue
-> CONTEXT: Map107/events/3/pages/0/93/Dialogue
-> CONTEXT: Map106/events/5/pages/0/93/Dialogue
-> CONTEXT: Map103/events/6/pages/0/93/Dialogue
-> CONTEXT: Map103/events/8/pages/0/93/Dialogue
-> CONTEXT: Map027/events/24/pages/0/93/Dialogue
-> CONTEXT: Map027/events/25/pages/0/93/Dialogue
-Siren. 「Uhufu, I guess so. What I was singing now is that
-the man's romantic feelings. It's a song to bring out.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -311,8 +203,8 @@ I was unknowingly surrounded by my monster afterwards
 ゴースト
 「……………………」
 > CONTEXT: Map109/events/5/pages/0/17/Dialogue
-> CONTEXT: Map109/events/6/pages/0/17/Dialogue
 > CONTEXT: Map106/events/6/pages/0/17/Dialogue
+> CONTEXT: Map109/events/6/pages/0/17/Dialogue
 > CONTEXT: Map109/events/9/pages/0/17/Dialogue
 > CONTEXT: Map103/events/10/pages/0/17/Dialogue
 > CONTEXT: Map103/events/11/pages/0/17/Dialogue
@@ -325,8 +217,8 @@ ghost. 「........................」#MTLed
 「ぐっ……ま、まずい、
 こんな悪霊に取り憑かれでもしたら……！」
 > CONTEXT: Map109/events/5/pages/0/29/Dialogue
-> CONTEXT: Map109/events/6/pages/0/29/Dialogue
 > CONTEXT: Map106/events/6/pages/0/29/Dialogue
+> CONTEXT: Map109/events/6/pages/0/29/Dialogue
 > CONTEXT: Map109/events/9/pages/0/29/Dialogue
 > CONTEXT: Map103/events/10/pages/0/29/Dialogue
 > CONTEXT: Map103/events/11/pages/0/29/Dialogue
@@ -340,8 +232,8 @@ by such demons ... ...!」#MTLed
 「取り憑きなどしないわ。
 ただ、その精気を吸わせてもらうだけ……」
 > CONTEXT: Map109/events/5/pages/0/33/Dialogue
-> CONTEXT: Map109/events/6/pages/0/33/Dialogue
 > CONTEXT: Map106/events/6/pages/0/33/Dialogue
+> CONTEXT: Map109/events/6/pages/0/33/Dialogue
 > CONTEXT: Map109/events/9/pages/0/33/Dialogue
 > CONTEXT: Map103/events/10/pages/0/33/Dialogue
 > CONTEXT: Map103/events/11/pages/0/33/Dialogue
@@ -355,8 +247,8 @@ her smoke ... ...」#MTLed
 「うっ、な、なにをっ！
 あ、あああぁ……！」
 > CONTEXT: Map109/events/5/pages/0/39/Dialogue
-> CONTEXT: Map109/events/6/pages/0/39/Dialogue
 > CONTEXT: Map106/events/6/pages/0/39/Dialogue
+> CONTEXT: Map109/events/6/pages/0/39/Dialogue
 > CONTEXT: Map109/events/9/pages/0/39/Dialogue
 > CONTEXT: Map103/events/10/pages/0/39/Dialogue
 > CONTEXT: Map103/events/11/pages/0/39/Dialogue
@@ -368,8 +260,8 @@ her smoke ... ...」#MTLed
 ゴーストは\\N[12]と体を重ね、
 彼の精気を吸い取りはじめる……
 > CONTEXT: Map109/events/5/pages/0/43/Dialogue
-> CONTEXT: Map109/events/6/pages/0/43/Dialogue
 > CONTEXT: Map106/events/6/pages/0/43/Dialogue
+> CONTEXT: Map109/events/6/pages/0/43/Dialogue
 > CONTEXT: Map109/events/9/pages/0/43/Dialogue
 > CONTEXT: Map103/events/10/pages/0/43/Dialogue
 > CONTEXT: Map103/events/11/pages/0/43/Dialogue
@@ -383,8 +275,8 @@ Sucking off his mind ... ...#MTLed
 「ううっ……ち、力が、抜ける……
 あ、ああっ……」
 > CONTEXT: Map109/events/5/pages/0/46/Dialogue
-> CONTEXT: Map109/events/6/pages/0/46/Dialogue
 > CONTEXT: Map106/events/6/pages/0/46/Dialogue
+> CONTEXT: Map109/events/6/pages/0/46/Dialogue
 > CONTEXT: Map109/events/9/pages/0/46/Dialogue
 > CONTEXT: Map103/events/10/pages/0/46/Dialogue
 > CONTEXT: Map103/events/11/pages/0/46/Dialogue
@@ -399,8 +291,8 @@ Oh, AAh ... ...」#MTLed
 そうだ、あなたから吸い取った精気で、
 短時間だけ実体化してあげるわ」
 > CONTEXT: Map109/events/5/pages/0/50/Dialogue
-> CONTEXT: Map109/events/6/pages/0/50/Dialogue
 > CONTEXT: Map106/events/6/pages/0/50/Dialogue
+> CONTEXT: Map109/events/6/pages/0/50/Dialogue
 > CONTEXT: Map109/events/9/pages/0/50/Dialogue
 > CONTEXT: Map103/events/10/pages/0/50/Dialogue
 > CONTEXT: Map103/events/11/pages/0/50/Dialogue
@@ -414,8 +306,8 @@ I will materialize for only a short time」#MTLed
 ゴーストは、\\N[12]のエネルギーを利用して
 実体化した！
 > CONTEXT: Map109/events/5/pages/0/56/Dialogue
-> CONTEXT: Map109/events/6/pages/0/56/Dialogue
 > CONTEXT: Map106/events/6/pages/0/56/Dialogue
+> CONTEXT: Map109/events/6/pages/0/56/Dialogue
 > CONTEXT: Map109/events/9/pages/0/56/Dialogue
 > CONTEXT: Map103/events/10/pages/0/56/Dialogue
 > CONTEXT: Map103/events/11/pages/0/56/Dialogue
@@ -426,8 +318,8 @@ Ghost, \\N[12] Using the energy of. Materialized!#MTLed
 > BEGIN STRING
 むにゅうっ……
 > CONTEXT: Map109/events/5/pages/0/60/Dialogue
-> CONTEXT: Map109/events/6/pages/0/60/Dialogue
 > CONTEXT: Map106/events/6/pages/0/60/Dialogue
+> CONTEXT: Map109/events/6/pages/0/60/Dialogue
 > CONTEXT: Map109/events/9/pages/0/60/Dialogue
 > CONTEXT: Map103/events/10/pages/0/60/Dialogue
 > CONTEXT: Map103/events/11/pages/0/60/Dialogue
@@ -444,8 +336,8 @@ Muu ...#MTLed
 やわらかい、おっぱいの感触が……
 それに、この感覚はっ……！」
 > CONTEXT: Map109/events/5/pages/0/62/Dialogue
-> CONTEXT: Map109/events/6/pages/0/62/Dialogue
 > CONTEXT: Map106/events/6/pages/0/62/Dialogue
+> CONTEXT: Map109/events/6/pages/0/62/Dialogue
 > CONTEXT: Map109/events/9/pages/0/62/Dialogue
 > CONTEXT: Map103/events/10/pages/0/62/Dialogue
 > CONTEXT: Map103/events/11/pages/0/62/Dialogue
@@ -460,8 +352,8 @@ Also, this feeling ...!」#MTLed
 ふふ、悪霊とセックスするだなんて、
 普通ではできない体験よ？」
 > CONTEXT: Map109/events/5/pages/0/67/Dialogue
-> CONTEXT: Map109/events/6/pages/0/67/Dialogue
 > CONTEXT: Map106/events/6/pages/0/67/Dialogue
+> CONTEXT: Map109/events/6/pages/0/67/Dialogue
 > CONTEXT: Map109/events/9/pages/0/67/Dialogue
 > CONTEXT: Map103/events/10/pages/0/67/Dialogue
 > CONTEXT: Map103/events/11/pages/0/67/Dialogue
@@ -476,8 +368,8 @@ not do normally?」#MTLed
 「ま、まさかっ、悪霊なんかとセックスなんて、
 そんなおぞましいことをっ……」
 > CONTEXT: Map109/events/5/pages/0/72/Dialogue
-> CONTEXT: Map109/events/6/pages/0/72/Dialogue
 > CONTEXT: Map106/events/6/pages/0/72/Dialogue
+> CONTEXT: Map109/events/6/pages/0/72/Dialogue
 > CONTEXT: Map109/events/9/pages/0/72/Dialogue
 > CONTEXT: Map103/events/10/pages/0/72/Dialogue
 > CONTEXT: Map103/events/11/pages/0/72/Dialogue
@@ -491,8 +383,8 @@ Doing such a horrible thing ......」#MTLed
 「ふ、しっかり勃起しておいて何を言っているの？
 それに、こうしてしまえば気持ちよがるくせに」
 > CONTEXT: Map109/events/5/pages/0/76/Dialogue
-> CONTEXT: Map109/events/6/pages/0/76/Dialogue
 > CONTEXT: Map106/events/6/pages/0/76/Dialogue
+> CONTEXT: Map109/events/6/pages/0/76/Dialogue
 > CONTEXT: Map109/events/9/pages/0/76/Dialogue
 > CONTEXT: Map103/events/10/pages/0/76/Dialogue
 > CONTEXT: Map103/events/11/pages/0/76/Dialogue
@@ -504,8 +396,8 @@ Besides, it will be pleasant if this is done」#MTLed
 > BEGIN STRING
 ゴーストは膣を締めつけ、ペニスを刺激してくる！
 > CONTEXT: Map109/events/5/pages/0/80/Dialogue
-> CONTEXT: Map109/events/6/pages/0/80/Dialogue
 > CONTEXT: Map106/events/6/pages/0/80/Dialogue
+> CONTEXT: Map109/events/6/pages/0/80/Dialogue
 > CONTEXT: Map109/events/9/pages/0/80/Dialogue
 > CONTEXT: Map103/events/10/pages/0/80/Dialogue
 > CONTEXT: Map103/events/11/pages/0/80/Dialogue
@@ -516,8 +408,8 @@ Ghost tightens the vagina and stimulates the penis!#MTLed
 > BEGIN STRING
 にゅるっ……
 > CONTEXT: Map109/events/5/pages/0/83/Dialogue
-> CONTEXT: Map109/events/6/pages/0/83/Dialogue
 > CONTEXT: Map106/events/6/pages/0/83/Dialogue
+> CONTEXT: Map109/events/6/pages/0/83/Dialogue
 > CONTEXT: Map109/events/9/pages/0/83/Dialogue
 > CONTEXT: Map103/events/10/pages/0/83/Dialogue
 > CONTEXT: Map103/events/11/pages/0/83/Dialogue
@@ -533,8 +425,8 @@ Nuu ...#MTLed
 \\N[12]
 「あうううっ！」
 > CONTEXT: Map109/events/5/pages/0/85/Dialogue
-> CONTEXT: Map109/events/6/pages/0/85/Dialogue
 > CONTEXT: Map106/events/6/pages/0/85/Dialogue
+> CONTEXT: Map109/events/6/pages/0/85/Dialogue
 > CONTEXT: Map109/events/9/pages/0/85/Dialogue
 > CONTEXT: Map103/events/10/pages/0/85/Dialogue
 > CONTEXT: Map103/events/11/pages/0/85/Dialogue
@@ -547,8 +439,8 @@ Nuu ...#MTLed
 「これがあなたの人生最後のセックスになるのよ。
 たっぷり気持ちよがるといいわ」
 > CONTEXT: Map109/events/5/pages/0/88/Dialogue
-> CONTEXT: Map109/events/6/pages/0/88/Dialogue
 > CONTEXT: Map106/events/6/pages/0/88/Dialogue
+> CONTEXT: Map109/events/6/pages/0/88/Dialogue
 > CONTEXT: Map109/events/9/pages/0/88/Dialogue
 > CONTEXT: Map103/events/10/pages/0/88/Dialogue
 > CONTEXT: Map103/events/11/pages/0/88/Dialogue
@@ -562,8 +454,8 @@ You should feel pleasant」#MTLed
 「さあ、イかせてあげるわ。
 精液を私に注ぎ込みなさい！」
 > CONTEXT: Map109/events/5/pages/0/93/Dialogue
-> CONTEXT: Map109/events/6/pages/0/93/Dialogue
 > CONTEXT: Map106/events/6/pages/0/93/Dialogue
+> CONTEXT: Map109/events/6/pages/0/93/Dialogue
 > CONTEXT: Map109/events/9/pages/0/93/Dialogue
 > CONTEXT: Map103/events/10/pages/0/93/Dialogue
 > CONTEXT: Map103/events/11/pages/0/93/Dialogue
@@ -575,8 +467,8 @@ ghost. 「Now, I will not do it. Pour me the sperm!」#MTLed
 \\N[12]
 「あうっ、で、出ちまった……！」
 > CONTEXT: Map109/events/5/pages/0/104/Dialogue
-> CONTEXT: Map109/events/6/pages/0/104/Dialogue
 > CONTEXT: Map106/events/6/pages/0/104/Dialogue
+> CONTEXT: Map109/events/6/pages/0/104/Dialogue
 > CONTEXT: Map109/events/9/pages/0/104/Dialogue
 > CONTEXT: Map103/events/10/pages/0/104/Dialogue
 > CONTEXT: Map103/events/11/pages/0/104/Dialogue
@@ -590,8 +482,8 @@ ghost. 「Now, I will not do it. Pour me the sperm!」#MTLed
 さあ、このまま枯れるまで射精させてあげる。
 あなたは死霊に精をすべて搾り尽くされて死ぬのよ」
 > CONTEXT: Map109/events/5/pages/0/107/Dialogue
-> CONTEXT: Map109/events/6/pages/0/107/Dialogue
 > CONTEXT: Map106/events/6/pages/0/107/Dialogue
+> CONTEXT: Map109/events/6/pages/0/107/Dialogue
 > CONTEXT: Map109/events/9/pages/0/107/Dialogue
 > CONTEXT: Map103/events/10/pages/0/107/Dialogue
 > CONTEXT: Map103/events/11/pages/0/107/Dialogue
@@ -606,8 +498,8 @@ You will die with dead spirits filled with all sperm」#MTLed
 「ひっ、ひいっ！
 た、助けて、誰か……」
 > CONTEXT: Map109/events/5/pages/0/112/Dialogue
-> CONTEXT: Map109/events/6/pages/0/112/Dialogue
 > CONTEXT: Map106/events/6/pages/0/112/Dialogue
+> CONTEXT: Map109/events/6/pages/0/112/Dialogue
 > CONTEXT: Map109/events/9/pages/0/112/Dialogue
 > CONTEXT: Map103/events/10/pages/0/112/Dialogue
 > CONTEXT: Map103/events/11/pages/0/112/Dialogue
@@ -620,8 +512,8 @@ You will die with dead spirits filled with all sperm」#MTLed
 「あ、ああっ……
 す、吸われていく……」
 > CONTEXT: Map109/events/5/pages/0/119/Dialogue
-> CONTEXT: Map109/events/6/pages/0/119/Dialogue
 > CONTEXT: Map106/events/6/pages/0/119/Dialogue
+> CONTEXT: Map109/events/6/pages/0/119/Dialogue
 > CONTEXT: Map109/events/9/pages/0/119/Dialogue
 > CONTEXT: Map103/events/10/pages/0/119/Dialogue
 > CONTEXT: Map103/events/11/pages/0/119/Dialogue
@@ -634,8 +526,8 @@ You will die with dead spirits filled with all sperm」#MTLed
 「久しぶりの男の精気……
 ふふ、最高だわ……もっともっと射精なさい……！」
 > CONTEXT: Map109/events/5/pages/0/123/Dialogue
-> CONTEXT: Map109/events/6/pages/0/123/Dialogue
 > CONTEXT: Map106/events/6/pages/0/123/Dialogue
+> CONTEXT: Map109/events/6/pages/0/123/Dialogue
 > CONTEXT: Map109/events/9/pages/0/123/Dialogue
 > CONTEXT: Map103/events/10/pages/0/123/Dialogue
 > CONTEXT: Map103/events/11/pages/0/123/Dialogue
@@ -649,8 +541,8 @@ Hehe, it's awesome ... ... ejaculate ... ...!」#MTLed
 ゴーストの膣内に射精し――
 そのまま精気をすべて吸いつくされ、息絶えた……
 > CONTEXT: Map109/events/5/pages/0/129/Dialogue
-> CONTEXT: Map109/events/6/pages/0/129/Dialogue
 > CONTEXT: Map106/events/6/pages/0/129/Dialogue
+> CONTEXT: Map109/events/6/pages/0/129/Dialogue
 > CONTEXT: Map109/events/9/pages/0/129/Dialogue
 > CONTEXT: Map103/events/10/pages/0/129/Dialogue
 > CONTEXT: Map103/events/11/pages/0/129/Dialogue
@@ -712,4 +604,13 @@ I got a blue scales!#MTLed
 > CONTEXT: Map109/events/10/pages/0/25/Dialogue
 \\N[12]. 「Is it a pale shining scale ...?
 It might be used as a material」#MTLed
+> END STRING
+
+> BEGIN STRING
+精神薬を手に入れた！
+> CONTEXT: Map109/events/13/pages/0/9/Dialogue
+> CONTEXT: Map097/events/10/pages/0/9/Dialogue
+> CONTEXT: Map071/events/45/pages/0/9/Dialogue
+> CONTEXT: Map019/events/38/pages/0/9/Dialogue
+I got psychoactive medicine!#MTLed
 > END STRING

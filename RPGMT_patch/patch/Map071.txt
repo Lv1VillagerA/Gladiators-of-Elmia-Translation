@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 レヴァスティの森　南
 > CONTEXT: Map071/display_name/
@@ -32,16 +32,16 @@ I got elmyr shimeji!#MTLed
 「このキノコを採ろうか？」
 > CONTEXT: Map071/events/5/pages/1/0/Dialogue
 > CONTEXT: Map070/events/2/pages/1/0/Dialogue
-> CONTEXT: Map069/events/15/pages/1/0/Dialogue
 > CONTEXT: Map070/events/4/pages/1/0/Dialogue
-> CONTEXT: Map069/events/16/pages/1/0/Dialogue
 > CONTEXT: Map071/events/11/pages/0/0/Dialogue
-> CONTEXT: Map070/events/8/pages/0/0/Dialogue
 > CONTEXT: Map071/events/12/pages/0/0/Dialogue
+> CONTEXT: Map070/events/8/pages/0/0/Dialogue
 > CONTEXT: Map071/events/13/pages/0/0/Dialogue
 > CONTEXT: Map070/events/23/pages/0/0/Dialogue
 > CONTEXT: Map070/events/24/pages/0/0/Dialogue
 > CONTEXT: Map070/events/25/pages/0/0/Dialogue
+> CONTEXT: Map069/events/15/pages/1/0/Dialogue
+> CONTEXT: Map069/events/16/pages/1/0/Dialogue
 > CONTEXT: Map069/events/31/pages/0/0/Dialogue
 > CONTEXT: Map069/events/32/pages/0/0/Dialogue
 \\N[12]. 「Shall take this mushroom?」#MTLed
@@ -53,8 +53,8 @@ I got elmyr shimeji!#MTLed
 これがシラタマタケだな」
 > CONTEXT: Map071/events/5/pages/1/5/Dialogue
 > CONTEXT: Map070/events/2/pages/1/5/Dialogue
-> CONTEXT: Map069/events/15/pages/1/5/Dialogue
 > CONTEXT: Map070/events/4/pages/1/5/Dialogue
+> CONTEXT: Map069/events/15/pages/1/5/Dialogue
 > CONTEXT: Map069/events/16/pages/1/5/Dialogue
 \\N[12]. 「. This is a ball mushroom.」#MTLed
 > END STRING
@@ -63,8 +63,8 @@ I got elmyr shimeji!#MTLed
 シラタマタケを手に入れた！
 > CONTEXT: Map071/events/5/pages/1/10/Dialogue
 > CONTEXT: Map070/events/2/pages/1/10/Dialogue
-> CONTEXT: Map069/events/15/pages/1/10/Dialogue
 > CONTEXT: Map070/events/4/pages/1/10/Dialogue
+> CONTEXT: Map069/events/15/pages/1/10/Dialogue
 > CONTEXT: Map069/events/16/pages/1/10/Dialogue
 I got ball mushroom!#MTLed
 > END STRING
@@ -119,8 +119,8 @@ Hmm? Something is wrong somewhat?」#MTLed
 「ふふふ……
 まんまと引っかかったね、おにいさん！」
 > CONTEXT: Map071/events/11/pages/0/9/Dialogue
-> CONTEXT: Map070/events/8/pages/0/9/Dialogue
 > CONTEXT: Map071/events/12/pages/0/9/Dialogue
+> CONTEXT: Map070/events/8/pages/0/9/Dialogue
 > CONTEXT: Map071/events/13/pages/0/9/Dialogue
 > CONTEXT: Map070/events/23/pages/0/9/Dialogue
 > CONTEXT: Map070/events/24/pages/0/9/Dialogue
@@ -211,6 +211,433 @@ I've been stepping into such a place often」#MTLed
 > CONTEXT: Map003/events/22/pages/0/37/Dialogue
 amazon. 「Well then, boy. I'll give you money,
 I thought it was a fine against my weaknesses」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うぐっ、ううっ……」
+> CONTEXT: Map071/events/15/pages/0/14/Dialogue
+> CONTEXT: Map070/events/26/pages/0/14/Dialogue
+> CONTEXT: Map070/events/27/pages/0/14/Dialogue
+> CONTEXT: Map071/events/18/pages/0/14/Dialogue
+> CONTEXT: Map070/events/28/pages/0/14/Dialogue
+> CONTEXT: Map069/events/18/pages/0/14/Dialogue
+> CONTEXT: Map071/events/21/pages/0/14/Dialogue
+> CONTEXT: Map070/events/29/pages/0/14/Dialogue
+> CONTEXT: Map069/events/22/pages/0/14/Dialogue
+> CONTEXT: Map070/events/30/pages/0/14/Dialogue
+> CONTEXT: Map070/events/38/pages/0/14/Dialogue
+\\N[12]. 「Ug...uugh......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+「さあ、わたしの養分にしてあげる……」
+> CONTEXT: Map071/events/15/pages/0/28/Dialogue
+> CONTEXT: Map070/events/26/pages/0/28/Dialogue
+> CONTEXT: Map070/events/27/pages/0/28/Dialogue
+> CONTEXT: Map071/events/18/pages/0/28/Dialogue
+> CONTEXT: Map070/events/28/pages/0/28/Dialogue
+> CONTEXT: Map069/events/18/pages/0/28/Dialogue
+> CONTEXT: Map071/events/21/pages/0/28/Dialogue
+> CONTEXT: Map070/events/29/pages/0/28/Dialogue
+> CONTEXT: Map069/events/22/pages/0/28/Dialogue
+> CONTEXT: Map070/events/30/pages/0/28/Dialogue
+> CONTEXT: Map070/events/38/pages/0/28/Dialogue
+alraune. 「Now, I will make it a nutrition......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+「わたしのツタからは逃げられないよ……
+あなたはわたしの養分にしてあげる……」
+> CONTEXT: Map071/events/15/pages/0/33/Dialogue
+> CONTEXT: Map070/events/26/pages/0/33/Dialogue
+> CONTEXT: Map070/events/27/pages/0/33/Dialogue
+> CONTEXT: Map071/events/18/pages/0/33/Dialogue
+> CONTEXT: Map070/events/28/pages/0/33/Dialogue
+> CONTEXT: Map069/events/18/pages/0/33/Dialogue
+> CONTEXT: Map071/events/21/pages/0/33/Dialogue
+> CONTEXT: Map070/events/29/pages/0/33/Dialogue
+> CONTEXT: Map069/events/22/pages/0/33/Dialogue
+> CONTEXT: Map070/events/30/pages/0/33/Dialogue
+> CONTEXT: Map070/events/38/pages/0/33/Dialogue
+alraune. 「I can not run away from my ivy......
+You will make me a nutrition......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネのツタは、
+\\N[12]の体に激しく絡みついてくる！
+> CONTEXT: Map071/events/15/pages/0/38/Dialogue
+> CONTEXT: Map070/events/26/pages/0/38/Dialogue
+> CONTEXT: Map070/events/27/pages/0/38/Dialogue
+> CONTEXT: Map071/events/18/pages/0/38/Dialogue
+> CONTEXT: Map070/events/28/pages/0/38/Dialogue
+> CONTEXT: Map069/events/18/pages/0/38/Dialogue
+> CONTEXT: Map071/events/21/pages/0/38/Dialogue
+> CONTEXT: Map070/events/29/pages/0/38/Dialogue
+> CONTEXT: Map069/events/22/pages/0/38/Dialogue
+> CONTEXT: Map070/events/30/pages/0/38/Dialogue
+> CONTEXT: Map070/events/38/pages/0/38/Dialogue
+The ivy of alraune, \\N[12] I get caught heavily in my
+body!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ、あああぁっ！
+くそっ、放せっ！」
+> CONTEXT: Map071/events/15/pages/0/42/Dialogue
+> CONTEXT: Map070/events/26/pages/0/42/Dialogue
+> CONTEXT: Map070/events/27/pages/0/42/Dialogue
+> CONTEXT: Map071/events/18/pages/0/42/Dialogue
+> CONTEXT: Map070/events/28/pages/0/42/Dialogue
+> CONTEXT: Map069/events/18/pages/0/42/Dialogue
+> CONTEXT: Map071/events/21/pages/0/42/Dialogue
+> CONTEXT: Map070/events/29/pages/0/42/Dialogue
+> CONTEXT: Map069/events/22/pages/0/42/Dialogue
+> CONTEXT: Map070/events/30/pages/0/42/Dialogue
+> CONTEXT: Map070/events/38/pages/0/42/Dialogue
+\\N[12]. 「Uh, Aaahh! Damn, let's go!」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+「もう戦う力は残っていないはず。
+そんな状態で暴れても、
+わたしのツタを引きちぎることはできないよ」
+> CONTEXT: Map071/events/15/pages/0/46/Dialogue
+> CONTEXT: Map070/events/26/pages/0/46/Dialogue
+> CONTEXT: Map070/events/27/pages/0/46/Dialogue
+> CONTEXT: Map071/events/18/pages/0/46/Dialogue
+> CONTEXT: Map070/events/28/pages/0/46/Dialogue
+> CONTEXT: Map069/events/18/pages/0/46/Dialogue
+> CONTEXT: Map071/events/21/pages/0/46/Dialogue
+> CONTEXT: Map070/events/29/pages/0/46/Dialogue
+> CONTEXT: Map069/events/22/pages/0/46/Dialogue
+> CONTEXT: Map070/events/30/pages/0/46/Dialogue
+> CONTEXT: Map070/events/38/pages/0/46/Dialogue
+alraune. 「There should be no power to fight anymore.
+Even if it rampages in such a state, I can not tear my ivy」#MTLed
+> END STRING
+
+> BEGIN STRING
+ツタは\\N[12]の体のすみずみに絡みつき、
+一本は口の中まで侵入してくる！
+> CONTEXT: Map071/events/15/pages/0/53/Dialogue
+> CONTEXT: Map070/events/26/pages/0/53/Dialogue
+> CONTEXT: Map070/events/27/pages/0/53/Dialogue
+> CONTEXT: Map071/events/18/pages/0/53/Dialogue
+> CONTEXT: Map070/events/28/pages/0/53/Dialogue
+> CONTEXT: Map069/events/18/pages/0/53/Dialogue
+> CONTEXT: Map071/events/21/pages/0/53/Dialogue
+> CONTEXT: Map070/events/29/pages/0/53/Dialogue
+> CONTEXT: Map069/events/22/pages/0/53/Dialogue
+> CONTEXT: Map070/events/30/pages/0/53/Dialogue
+> CONTEXT: Map070/events/38/pages/0/53/Dialogue
+Ivy \\N[12] Tangled around the corners of the body,
+One invades into the mouth!#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+「甘い蜜を味わわせてあげる……♪」
+> CONTEXT: Map071/events/15/pages/0/59/Dialogue
+> CONTEXT: Map070/events/26/pages/0/59/Dialogue
+> CONTEXT: Map070/events/27/pages/0/59/Dialogue
+> CONTEXT: Map071/events/18/pages/0/59/Dialogue
+> CONTEXT: Map070/events/28/pages/0/59/Dialogue
+> CONTEXT: Map069/events/18/pages/0/59/Dialogue
+> CONTEXT: Map071/events/21/pages/0/59/Dialogue
+> CONTEXT: Map070/events/29/pages/0/59/Dialogue
+> CONTEXT: Map069/events/22/pages/0/59/Dialogue
+> CONTEXT: Map070/events/30/pages/0/59/Dialogue
+> CONTEXT: Map070/events/38/pages/0/59/Dialogue
+alraune. 「I will taste sweet nectar......♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+口内のツタの先端から
+甘い液体が染み出してきた……
+> CONTEXT: Map071/events/15/pages/0/62/Dialogue
+> CONTEXT: Map070/events/26/pages/0/62/Dialogue
+> CONTEXT: Map070/events/27/pages/0/62/Dialogue
+> CONTEXT: Map071/events/18/pages/0/62/Dialogue
+> CONTEXT: Map070/events/28/pages/0/62/Dialogue
+> CONTEXT: Map069/events/18/pages/0/62/Dialogue
+> CONTEXT: Map071/events/21/pages/0/62/Dialogue
+> CONTEXT: Map070/events/29/pages/0/62/Dialogue
+> CONTEXT: Map069/events/22/pages/0/62/Dialogue
+> CONTEXT: Map070/events/30/pages/0/62/Dialogue
+> CONTEXT: Map070/events/38/pages/0/62/Dialogue
+From the tip of ivy in the mouth. Sweet liquid bleeds out
+... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（な、なんだ、この甘い蜜は……
+やばい、少し飲んじまった！）
+> CONTEXT: Map071/events/15/pages/0/66/Dialogue
+> CONTEXT: Map070/events/26/pages/0/66/Dialogue
+> CONTEXT: Map070/events/27/pages/0/66/Dialogue
+> CONTEXT: Map071/events/18/pages/0/66/Dialogue
+> CONTEXT: Map070/events/28/pages/0/66/Dialogue
+> CONTEXT: Map069/events/18/pages/0/66/Dialogue
+> CONTEXT: Map071/events/21/pages/0/66/Dialogue
+> CONTEXT: Map070/events/29/pages/0/66/Dialogue
+> CONTEXT: Map069/events/22/pages/0/66/Dialogue
+> CONTEXT: Map070/events/30/pages/0/66/Dialogue
+> CONTEXT: Map070/events/38/pages/0/66/Dialogue
+\\N[12]. (No, what is this sweet honey ......
+Oh crap, I started to drink a little! )#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+「飲んだね。
+ふふ……それを飲んだら、
+もうわたしに抵抗はできないよ……」
+> CONTEXT: Map071/events/15/pages/0/70/Dialogue
+> CONTEXT: Map070/events/26/pages/0/70/Dialogue
+> CONTEXT: Map070/events/27/pages/0/70/Dialogue
+> CONTEXT: Map071/events/18/pages/0/70/Dialogue
+> CONTEXT: Map070/events/28/pages/0/70/Dialogue
+> CONTEXT: Map069/events/18/pages/0/70/Dialogue
+> CONTEXT: Map071/events/21/pages/0/70/Dialogue
+> CONTEXT: Map070/events/29/pages/0/70/Dialogue
+> CONTEXT: Map069/events/22/pages/0/70/Dialogue
+> CONTEXT: Map070/events/30/pages/0/70/Dialogue
+> CONTEXT: Map070/events/38/pages/0/70/Dialogue
+alraune. 「I drank. Huh...... After drinking it,
+I can not resist it anymore ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「むぐっ、うっ……」
+> CONTEXT: Map071/events/15/pages/0/75/Dialogue
+> CONTEXT: Map070/events/26/pages/0/75/Dialogue
+> CONTEXT: Map070/events/27/pages/0/75/Dialogue
+> CONTEXT: Map071/events/18/pages/0/75/Dialogue
+> CONTEXT: Map070/events/28/pages/0/75/Dialogue
+> CONTEXT: Map069/events/18/pages/0/75/Dialogue
+> CONTEXT: Map071/events/21/pages/0/75/Dialogue
+> CONTEXT: Map070/events/29/pages/0/75/Dialogue
+> CONTEXT: Map069/events/22/pages/0/75/Dialogue
+> CONTEXT: Map070/events/30/pages/0/75/Dialogue
+> CONTEXT: Map070/events/38/pages/0/75/Dialogue
+\\N[12]. 「Puffy, ohh ......」#MTLed
+> CONTEXT: Commonevents/136/97/Dialogue
+> CONTEXT: Commonevents/285/96/Dialogue
+> CONTEXT: Commonevents/312/84/Dialogue
+\\N[12]. 「Puffy, ohh ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（うっ……か、体が痺れて……
+全身が、ジンジンするみたいになっている……）
+> CONTEXT: Map071/events/15/pages/0/78/Dialogue
+> CONTEXT: Map070/events/26/pages/0/78/Dialogue
+> CONTEXT: Map070/events/27/pages/0/78/Dialogue
+> CONTEXT: Map071/events/18/pages/0/78/Dialogue
+> CONTEXT: Map070/events/28/pages/0/78/Dialogue
+> CONTEXT: Map069/events/18/pages/0/78/Dialogue
+> CONTEXT: Map071/events/21/pages/0/78/Dialogue
+> CONTEXT: Map070/events/29/pages/0/78/Dialogue
+> CONTEXT: Map069/events/22/pages/0/78/Dialogue
+> CONTEXT: Map070/events/30/pages/0/78/Dialogue
+> CONTEXT: Map070/events/38/pages/0/78/Dialogue
+\\N[12]. (Oh...or, my body numbs......
+The whole body is supposed to do......)#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+「ほら、ツタでぐりぐりしてあげる……」
+> CONTEXT: Map071/events/15/pages/0/82/Dialogue
+> CONTEXT: Map070/events/26/pages/0/82/Dialogue
+> CONTEXT: Map070/events/27/pages/0/82/Dialogue
+> CONTEXT: Map071/events/18/pages/0/82/Dialogue
+> CONTEXT: Map070/events/28/pages/0/82/Dialogue
+> CONTEXT: Map069/events/18/pages/0/82/Dialogue
+> CONTEXT: Map071/events/21/pages/0/82/Dialogue
+> CONTEXT: Map070/events/29/pages/0/82/Dialogue
+> CONTEXT: Map069/events/22/pages/0/82/Dialogue
+> CONTEXT: Map070/events/30/pages/0/82/Dialogue
+> CONTEXT: Map070/events/38/pages/0/82/Dialogue
+alraune. 「Hey, I'll rub it * with ivy......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネのツタが
+\\N[12]の体を撫でるように刺激してくる……
+> CONTEXT: Map071/events/15/pages/0/86/Dialogue
+> CONTEXT: Map070/events/26/pages/0/86/Dialogue
+> CONTEXT: Map070/events/27/pages/0/86/Dialogue
+> CONTEXT: Map071/events/18/pages/0/86/Dialogue
+> CONTEXT: Map070/events/28/pages/0/86/Dialogue
+> CONTEXT: Map069/events/18/pages/0/86/Dialogue
+> CONTEXT: Map071/events/21/pages/0/86/Dialogue
+> CONTEXT: Map070/events/29/pages/0/86/Dialogue
+> CONTEXT: Map069/events/22/pages/0/86/Dialogue
+> CONTEXT: Map070/events/30/pages/0/86/Dialogue
+> CONTEXT: Map070/events/38/pages/0/86/Dialogue
+The ivy of alraune. \\N[12] It stimulates to pat my body
+... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あ、ああああぁぁぁ……！」
+> CONTEXT: Map071/events/15/pages/0/89/Dialogue
+> CONTEXT: Map070/events/26/pages/0/89/Dialogue
+> CONTEXT: Map070/events/27/pages/0/89/Dialogue
+> CONTEXT: Map071/events/18/pages/0/89/Dialogue
+> CONTEXT: Map070/events/28/pages/0/89/Dialogue
+> CONTEXT: Map069/events/18/pages/0/89/Dialogue
+> CONTEXT: Map071/events/21/pages/0/89/Dialogue
+> CONTEXT: Map070/events/29/pages/0/89/Dialogue
+> CONTEXT: Map069/events/22/pages/0/89/Dialogue
+> CONTEXT: Map070/events/30/pages/0/89/Dialogue
+> CONTEXT: Map070/events/38/pages/0/89/Dialogue
+\\N[12]. 「Oh, Aaaahhh......!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あひっ、あっ、あうっ……」
+> CONTEXT: Map071/events/15/pages/0/95/Dialogue
+> CONTEXT: Map070/events/26/pages/0/95/Dialogue
+> CONTEXT: Map070/events/27/pages/0/95/Dialogue
+> CONTEXT: Map071/events/18/pages/0/95/Dialogue
+> CONTEXT: Map070/events/28/pages/0/95/Dialogue
+> CONTEXT: Map069/events/18/pages/0/95/Dialogue
+> CONTEXT: Map071/events/21/pages/0/95/Dialogue
+> CONTEXT: Map070/events/29/pages/0/95/Dialogue
+> CONTEXT: Map069/events/22/pages/0/95/Dialogue
+> CONTEXT: Map070/events/30/pages/0/95/Dialogue
+> CONTEXT: Map070/events/38/pages/0/95/Dialogue
+\\N[12]. 「Ohh, there, ah ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+「ふふ……あなたは今、体中がえっちな感覚に
+包まれちゃっているんだよ……
+さあ、あなたの精気を吸い取ってあげる……」
+> CONTEXT: Map071/events/15/pages/0/98/Dialogue
+> CONTEXT: Map070/events/26/pages/0/98/Dialogue
+> CONTEXT: Map070/events/27/pages/0/98/Dialogue
+> CONTEXT: Map071/events/18/pages/0/98/Dialogue
+> CONTEXT: Map070/events/28/pages/0/98/Dialogue
+> CONTEXT: Map069/events/18/pages/0/98/Dialogue
+> CONTEXT: Map071/events/21/pages/0/98/Dialogue
+> CONTEXT: Map070/events/29/pages/0/98/Dialogue
+> CONTEXT: Map069/events/22/pages/0/98/Dialogue
+> CONTEXT: Map070/events/30/pages/0/98/Dialogue
+> CONTEXT: Map070/events/38/pages/0/98/Dialogue
+alraune. 「Huh...... You are now in a sensible feeling in
+the body. I'm wrapped in....... Now, I will suck you up
+...」#MTLed
+> END STRING
+
+> BEGIN STRING
+体中に絡みついたツタが妖しく光り、
+\\N[12]の体から力が抜けてゆく……
+> CONTEXT: Map071/events/15/pages/0/103/Dialogue
+> CONTEXT: Map070/events/26/pages/0/103/Dialogue
+> CONTEXT: Map070/events/27/pages/0/103/Dialogue
+> CONTEXT: Map071/events/18/pages/0/103/Dialogue
+> CONTEXT: Map070/events/28/pages/0/103/Dialogue
+> CONTEXT: Map069/events/18/pages/0/103/Dialogue
+> CONTEXT: Map071/events/21/pages/0/103/Dialogue
+> CONTEXT: Map070/events/29/pages/0/103/Dialogue
+> CONTEXT: Map069/events/22/pages/0/103/Dialogue
+> CONTEXT: Map070/events/30/pages/0/103/Dialogue
+> CONTEXT: Map070/events/38/pages/0/103/Dialogue
+The ivy that entwined in the body gleamfully shines,
+\\N[12] The power comes out of my body ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（あ、ああぁ……
+ち、力が、入らなく、なって……
+ま、また射精、しちまうっ……）
+> CONTEXT: Map071/events/15/pages/0/108/Dialogue
+> CONTEXT: Map070/events/26/pages/0/108/Dialogue
+> CONTEXT: Map070/events/27/pages/0/108/Dialogue
+> CONTEXT: Map071/events/18/pages/0/108/Dialogue
+> CONTEXT: Map070/events/28/pages/0/108/Dialogue
+> CONTEXT: Map069/events/18/pages/0/108/Dialogue
+> CONTEXT: Map071/events/21/pages/0/108/Dialogue
+> CONTEXT: Map070/events/29/pages/0/108/Dialogue
+> CONTEXT: Map069/events/22/pages/0/108/Dialogue
+> CONTEXT: Map070/events/30/pages/0/108/Dialogue
+> CONTEXT: Map070/events/38/pages/0/108/Dialogue
+\\N[12]. (Oh, ah....... Strength does not enter, it
+becomes....... Well, I will ejaculate again ......)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「むぐ……う……」
+> CONTEXT: Map071/events/15/pages/0/116/Dialogue
+> CONTEXT: Map070/events/26/pages/0/116/Dialogue
+> CONTEXT: Map070/events/27/pages/0/116/Dialogue
+> CONTEXT: Map071/events/18/pages/0/116/Dialogue
+> CONTEXT: Map070/events/28/pages/0/116/Dialogue
+> CONTEXT: Map069/events/18/pages/0/116/Dialogue
+> CONTEXT: Map071/events/21/pages/0/116/Dialogue
+> CONTEXT: Map070/events/29/pages/0/116/Dialogue
+> CONTEXT: Map069/events/22/pages/0/116/Dialogue
+> CONTEXT: Map070/events/30/pages/0/116/Dialogue
+> CONTEXT: Map070/events/38/pages/0/116/Dialogue
+\\N[12]. 「Stopping」#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+「このまま、あなたはわたしの養分になって死ぬの。
+甘い快楽の中で最期を迎えられるの……
+幸せでしょ？　ふふふ……♪」
+> CONTEXT: Map071/events/15/pages/0/119/Dialogue
+> CONTEXT: Map070/events/26/pages/0/119/Dialogue
+> CONTEXT: Map070/events/27/pages/0/119/Dialogue
+> CONTEXT: Map071/events/18/pages/0/119/Dialogue
+> CONTEXT: Map070/events/28/pages/0/119/Dialogue
+> CONTEXT: Map069/events/18/pages/0/119/Dialogue
+> CONTEXT: Map071/events/21/pages/0/119/Dialogue
+> CONTEXT: Map070/events/29/pages/0/119/Dialogue
+> CONTEXT: Map069/events/22/pages/0/119/Dialogue
+> CONTEXT: Map070/events/30/pages/0/119/Dialogue
+> CONTEXT: Map070/events/38/pages/0/119/Dialogue
+alraune. 「As it is, you will be my nutrient and die.
+I can have the last in sweet pleasures......
+Are not you happy?Hehu ...♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+こうして、\\N[12]はアルラウネに囚われ
+痺れるような快楽を味わわされながら
+生命力と精気を吸われ尽くして死んだ――
+> CONTEXT: Map071/events/15/pages/0/124/Dialogue
+> CONTEXT: Map070/events/26/pages/0/124/Dialogue
+> CONTEXT: Map070/events/27/pages/0/124/Dialogue
+> CONTEXT: Map071/events/18/pages/0/124/Dialogue
+> CONTEXT: Map070/events/28/pages/0/124/Dialogue
+> CONTEXT: Map069/events/18/pages/0/124/Dialogue
+> CONTEXT: Map071/events/21/pages/0/124/Dialogue
+> CONTEXT: Map070/events/29/pages/0/124/Dialogue
+> CONTEXT: Map069/events/22/pages/0/124/Dialogue
+> CONTEXT: Map070/events/30/pages/0/124/Dialogue
+> CONTEXT: Map070/events/38/pages/0/124/Dialogue
+In this way, \\N[12] Is captured by alraune
+While being tasted pleasure pleasure. He died living with
+life force and vigor -#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -433,11 +860,12 @@ challenged the monsters here......#MTLed
 
 > BEGIN STRING
 なんでも、奥にいる魔物に負けると
-レベルを大きく吸い取られてしまうらしいから、気をつけてね」
-> CONTEXT: None < UNUSED
+レベルを大きく吸い取られてしまうらしいから、
+気をつけてね」
+> CONTEXT: Map071/events/42/pages/0/20/Dialogue
 Anything, if you lose to the monster in the back
 It seems that the level will be sucked up
-greatly, so be careful」#MTLed
+greatly, be careful」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -460,12 +888,4 @@ I got poisoning!#MTLed
 エレメンタルコア（緑）を手に入れた！
 > CONTEXT: Map071/events/48/pages/0/9/Dialogue
 I got elemental core (green)!#MTLed
-> END STRING
-
-> BEGIN STRING
-なんでも、奥にいる魔物に負けると
-レベルを大きく吸い取られてしまうらしいから、
-気をつけてね」
-> CONTEXT: Map071/events/42/pages/0/20/Dialogue < UNTRANSLATED
-
 > END STRING

@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 男の子
 「プリムねーちゃん、女のくせに剣の修行ばっかしてるんだ。
@@ -205,54 +205,10 @@ Purim. 「Well then!」#MTLed
 
 > BEGIN STRING
 \\N[12]
-「うぐっ……！」
-> CONTEXT: Map095/events/7/pages/0/109/Dialogue
-> CONTEXT: Map050/events/3/pages/1/122/Dialogue
-> CONTEXT: Map050/events/3/pages/2/122/Dialogue
-> CONTEXT: Map050/events/3/pages/3/122/Dialogue
-> CONTEXT: Map050/events/3/pages/4/122/Dialogue
-> CONTEXT: Map042/events/2/pages/8/295/Dialogue
-> CONTEXT: Map030/events/1/pages/0/88/Dialogue
-> CONTEXT: Map022/events/2/pages/0/246/Dialogue
-> CONTEXT: Map021/events/96/pages/0/247/Dialogue
-> CONTEXT: Map019/events/19/pages/0/174/Dialogue
-> CONTEXT: Map019/events/19/pages/0/211/Dialogue
-> CONTEXT: Map019/events/26/pages/0/230/Dialogue
-> CONTEXT: Map019/events/26/pages/0/266/Dialogue
-> CONTEXT: Map147/events/2/pages/3/78/Dialogue
-> CONTEXT: Map147/events/2/pages/5/81/Dialogue
-> CONTEXT: Map147/events/2/pages/6/86/Dialogue
-> CONTEXT: Map147/events/2/pages/6/280/Dialogue
-> CONTEXT: Map147/events/2/pages/7/138/Dialogue
-> CONTEXT: Map147/events/2/pages/8/121/Dialogue
-> CONTEXT: Map147/events/2/pages/9/103/Dialogue
-> CONTEXT: Map147/events/2/pages/10/98/Dialogue
-> CONTEXT: Map147/events/2/pages/11/94/Dialogue
-> CONTEXT: Map147/events/2/pages/12/117/Dialogue
-> CONTEXT: Map147/events/2/pages/13/115/Dialogue
-> CONTEXT: Map147/events/2/pages/14/94/Dialogue
-> CONTEXT: Map147/events/2/pages/15/99/Dialogue
-> CONTEXT: Map147/events/2/pages/16/76/Dialogue
-> CONTEXT: Map147/events/2/pages/17/81/Dialogue
-> CONTEXT: Map147/events/2/pages/18/74/Dialogue
-> CONTEXT: Map147/events/2/pages/19/271/Dialogue
-> CONTEXT: Map147/events/2/pages/20/103/Dialogue
-> CONTEXT: Map147/events/2/pages/21/150/Dialogue
-> CONTEXT: Map095/events/7/pages/1/108/Dialogue
-> CONTEXT: Map041/events/5/pages/5/364/Dialogue
-\\N[12]. 「Ug ......!」#MTLed
-> CONTEXT: Commonevents/224/5/Dialogue
-> CONTEXT: Commonevents/224/41/Dialogue
-> CONTEXT: Commonevents/264/125/Dialogue
-> CONTEXT: Commonevents/242/9/Dialogue
-\\N[12]. 「Ug ......!」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
 「ぐはっ！」
 > CONTEXT: Map095/events/7/pages/0/117/Dialogue
 > CONTEXT: Map095/events/7/pages/1/116/Dialogue
+\\N[12]. 「Negative!」#MTLed
 > CONTEXT: Commonevents/300/116/Dialogue
 \\N[12]. 「Negative!」#MTLed
 > END STRING
@@ -412,12 +368,197 @@ Was my ability really like this ...?)#MTLed
 > END STRING
 
 > BEGIN STRING
+女の子
+「プリムちゃん、がんばれー！」
+> CONTEXT: Map095/events/7/pages/1/1/Dialogue
+girl. 「Purim-chan, do your best!」#MTLed
+> END STRING
+
+> BEGIN STRING
+男の子
+「兄ちゃんも負けるなよー！」
+> CONTEXT: Map095/events/7/pages/1/5/Dialogue
+boy. 「Do not lose my older brother!」#MTLed
+> END STRING
+
+> BEGIN STRING
 プリム
-「やったぁ、また勝っちゃった！」
-> CONTEXT: Map147/events/2/pages/8/177/Dialogue
-> CONTEXT: Map147/events/2/pages/9/159/Dialogue
-> CONTEXT: Map095/events/7/pages/2/9/Dialogue
-Purim. 「I did it again, I won!」#MTLed
+「おにいさんは強いから、わたしじゃ勝てないかもだけど
+胸を借りるつもりで頑張るね！」
+> CONTEXT: Map095/events/7/pages/1/11/Dialogue
+Purim. 「Because the old man is strong, I may not
+be able to win. I will do my best trying to
+borrow mind!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「前回は負けたけど、今度は勝てるように頑張るね！」
+> CONTEXT: Map095/events/7/pages/1/18/Dialogue
+Purim. 「I lost the last time, but I will do my
+best to win next time!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ああ、いつでも来いっ！」
+> CONTEXT: Map095/events/7/pages/1/23/Dialogue
+\\N[12]. 「Oh, come anytime!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ここのところ、わたしの勝ちが続いてるんだよね。
+またわたしが勝っちゃうかもしれないけど、
+落ち込まないでね、おにいさん♪」
+> CONTEXT: Map095/events/7/pages/1/34/Dialogue
+Purim. 「For the time being, my win is on going
+on. I may also win, Do not be depressed, old man♪
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「よーし、またわたしが勝っちゃうよー！」
+> CONTEXT: Map095/events/7/pages/1/42/Dialogue
+Purim. 「Okay, I will win again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、そう何度も負けないぜっ！」
+> CONTEXT: Map095/events/7/pages/1/47/Dialogue
+\\N[12]. 「Come, I will not lose again!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「それじゃ、いきますよっ
+おにいさんっ！」
+> CONTEXT: Map095/events/7/pages/1/55/Dialogue
+Purim. 「Well then, I'm going. Oh my goodness!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ううっ、さすがおにいさん、強いなあ……
+わたしじゃ、まだまだかなわないかも」
+> CONTEXT: Map095/events/7/pages/1/73/Dialogue
+Purim. 「OHh, truly a lot, it is strong ...
+I may not be able to do it」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ううっ、負けちゃった……
+やっぱり、おにいさんにはかなわないなあ」
+> CONTEXT: Map095/events/7/pages/1/80/Dialogue
+Purim. 「OHh, I lost ... ... As expected, I can
+not compete with my big brother」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「まだまだプリムに負けるわけにはいかないからな。
+でも、お前も武者修行の前よりはずっと強くなってるぜ。
+このまま鍛錬していけば、きっと武道大会でも活躍できるさ」
+> CONTEXT: Map095/events/7/pages/1/86/Dialogue
+\\N[12]. 「I can not afford to lose to Purim.
+But you are getting stronger than before the
+martial arts training. If you train like this,
+you can also be active in martial arts tournament
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「ホント？　ありがとう、おにいさん！
+よーし、これからももっともっと、
+剣の鍛錬頑張らなきゃ！」
+> CONTEXT: Map095/events/7/pages/1/91/Dialogue
+Purim. 「really? Thank you, brother!
+Well, from now on, I have to work hard on sword
+training!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「てやあーっ！」
+> CONTEXT: Map095/events/7/pages/1/104/Dialogue
+Purim. 「Well then!」#MTLed
+> END STRING
+
+> BEGIN STRING
+女の子
+「やったぁ、プリムちゃんが勝ったぁ！」
+> CONTEXT: Map095/events/7/pages/1/128/Dialogue
+girl. 「I did it, Purim - chan won!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「またわたしが勝っちゃったね、ふふっ。
+もう、わたしのほうが
+おにいさんより強かったりして」
+> CONTEXT: Map095/events/7/pages/1/135/Dialogue
+Purim. 「I have also won, heh heh. I already have
+You are stronger than your aunt」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……
+そんな、こんなに何度も負けるなんて……」
+> CONTEXT: Map095/events/7/pages/1/140/Dialogue
+\\N[12]. 「Uu ... ... No way to lose so many times ......
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「あ、いけない、調子に乗っちゃダメだよね。
+たまたまわたしの勝ちが続いてるだけかもしれないし。
+もっともっと、強くなれるように頑張らなきゃ！」
+> CONTEXT: Map095/events/7/pages/1/144/Dialogue
+Purim. 「Oh no, you should not get on with your condition.
+Occasionally it may be that my win is continuing.
+I have to work hard so that I can become strong!」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「やったぁ、おにいさんに勝てちゃった！
+まぐれでも、すっごい嬉しいなー！」
+> CONTEXT: Map095/events/7/pages/1/152/Dialogue
+Purim. 「I did it, I won the big brother!
+Even though it is a fluff, I am very happy!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ううっ……ふ、不覚……」
+> CONTEXT: Map095/events/7/pages/1/156/Dialogue
+\\N[12]. 「uugh ... ... Wu, insensit ... ....」#MTLed
+> END STRING
+
+> BEGIN STRING
+プリム
+「おにいさん、今日はありがとね。
+また勝てるように、わたし、
+もっともっと頑張るからねっ！」
+> CONTEXT: Map095/events/7/pages/1/160/Dialogue
+Purim. 「Thanks a lot, thanks for today. To win again, I,
+I will do my best!」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+（プリム、こんなに強くなっているとは……
+こいつの才能の前では、俺は引き離されていくしかないのか……？）
+> CONTEXT: Map095/events/7/pages/1/167/Dialogue
+\\N[12]. (Purim, that is becoming so strong ... ....
+In front of this talent, I have no choice but to separate
+...?)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -503,177 +644,4 @@ Will you come home for a moment?」#MTLed
 「え？　あ、ああ、いいけど」
 > CONTEXT: Map095/events/7/pages/2/56/Dialogue
 \\N[12]. 「Huh? Oh, ok, but」#MTLed
-> END STRING
-
-> BEGIN STRING
-女の子
-「プリムちゃん、がんばれー！」
-> CONTEXT: Map095/events/7/pages/1/1/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-男の子
-「兄ちゃんも負けるなよー！」
-> CONTEXT: Map095/events/7/pages/1/5/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「おにいさんは強いから、わたしじゃ勝てないかもだけど
-胸を借りるつもりで頑張るね！」
-> CONTEXT: Map095/events/7/pages/1/11/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「前回は負けたけど、今度は勝てるように頑張るね！」
-> CONTEXT: Map095/events/7/pages/1/18/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ああ、いつでも来いっ！」
-> CONTEXT: Map095/events/7/pages/1/23/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「ここのところ、わたしの勝ちが続いてるんだよね。
-またわたしが勝っちゃうかもしれないけど、
-落ち込まないでね、おにいさん♪」
-> CONTEXT: Map095/events/7/pages/1/34/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「よーし、またわたしが勝っちゃうよー！」
-> CONTEXT: Map095/events/7/pages/1/42/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「くっ、そう何度も負けないぜっ！」
-> CONTEXT: Map095/events/7/pages/1/47/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「それじゃ、いきますよっ
-おにいさんっ！」
-> CONTEXT: Map095/events/7/pages/1/55/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「ううっ、さすがおにいさん、強いなあ……
-わたしじゃ、まだまだかなわないかも」
-> CONTEXT: Map095/events/7/pages/1/73/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「ううっ、負けちゃった……
-やっぱり、おにいさんにはかなわないなあ」
-> CONTEXT: Map095/events/7/pages/1/80/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「まだまだプリムに負けるわけにはいかないからな。
-でも、お前も武者修行の前よりはずっと強くなってるぜ。
-このまま鍛錬していけば、きっと武道大会でも活躍できるさ」
-> CONTEXT: Map095/events/7/pages/1/86/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「ホント？　ありがとう、おにいさん！
-よーし、これからももっともっと、
-剣の鍛錬頑張らなきゃ！」
-> CONTEXT: Map095/events/7/pages/1/91/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「てやあーっ！」
-> CONTEXT: Map095/events/7/pages/1/104/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-女の子
-「やったぁ、プリムちゃんが勝ったぁ！」
-> CONTEXT: Map095/events/7/pages/1/128/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「またわたしが勝っちゃったね、ふふっ。
-もう、わたしのほうが
-おにいさんより強かったりして」
-> CONTEXT: Map095/events/7/pages/1/135/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「う、ううっ……
-そんな、こんなに何度も負けるなんて……」
-> CONTEXT: Map095/events/7/pages/1/140/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「あ、いけない、調子に乗っちゃダメだよね。
-たまたまわたしの勝ちが続いてるだけかもしれないし。
-もっともっと、強くなれるように頑張らなきゃ！」
-> CONTEXT: Map095/events/7/pages/1/144/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「やったぁ、おにいさんに勝てちゃった！
-まぐれでも、すっごい嬉しいなー！」
-> CONTEXT: Map095/events/7/pages/1/152/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ううっ……ふ、不覚……」
-> CONTEXT: Map095/events/7/pages/1/156/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「おにいさん、今日はありがとね。
-また勝てるように、わたし、
-もっともっと頑張るからねっ！」
-> CONTEXT: Map095/events/7/pages/1/160/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-（プリム、こんなに強くなっているとは……
-こいつの才能の前では、俺は引き離されていくしかないのか……？）
-> CONTEXT: Map095/events/7/pages/1/167/Dialogue < UNTRANSLATED
-
 > END STRING

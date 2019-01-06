@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\N[12]
 「舟に乗るか？」
@@ -165,8 +165,8 @@ You do not have to be disciplined.」#MTLed
 > CONTEXT: Map141/events/4/pages/0/6/Dialogue
 > CONTEXT: Map141/events/37/pages/0/7/Dialogue
 > CONTEXT: Map139/events/2/pages/0/6/Dialogue
-> CONTEXT: Map041/events/27/pages/0/6/Dialogue
 > CONTEXT: Map041/events/26/pages/0/7/Dialogue
+> CONTEXT: Map041/events/27/pages/0/6/Dialogue
 > CONTEXT: Map041/events/28/pages/0/8/Dialogue
 > CONTEXT: Map041/events/29/pages/0/8/Dialogue
 > CONTEXT: Map041/events/30/pages/0/8/Dialogue
@@ -182,8 +182,8 @@ Do not go. This time, let 's break through here!」#MTLed
 > CONTEXT: Map141/events/4/pages/0/11/Dialogue
 > CONTEXT: Map141/events/37/pages/0/12/Dialogue
 > CONTEXT: Map139/events/2/pages/0/11/Dialogue
-> CONTEXT: Map041/events/27/pages/0/11/Dialogue
 > CONTEXT: Map041/events/26/pages/0/12/Dialogue
+> CONTEXT: Map041/events/27/pages/0/11/Dialogue
 > CONTEXT: Map041/events/28/pages/0/13/Dialogue
 > CONTEXT: Map041/events/29/pages/0/13/Dialogue
 > CONTEXT: Map041/events/30/pages/0/13/Dialogue
@@ -226,8 +226,8 @@ of royal guard!」#MTLed
 > CONTEXT: Map141/events/4/pages/0/43/Dialogue
 > CONTEXT: Map141/events/37/pages/0/44/Dialogue
 > CONTEXT: Map139/events/2/pages/0/43/Dialogue
-> CONTEXT: Map041/events/27/pages/0/43/Dialogue
 > CONTEXT: Map041/events/26/pages/0/40/Dialogue
+> CONTEXT: Map041/events/27/pages/0/43/Dialogue
 > CONTEXT: Map041/events/28/pages/0/41/Dialogue
 > CONTEXT: Map041/events/29/pages/0/41/Dialogue
 > CONTEXT: Map041/events/30/pages/0/41/Dialogue
@@ -262,8 +262,8 @@ You win, Swordsman \\N[12]」#MTLed
 > CONTEXT: Map141/events/4/pages/0/78/Dialogue
 > CONTEXT: Map141/events/37/pages/0/79/Dialogue
 > CONTEXT: Map139/events/2/pages/0/95/Dialogue
-> CONTEXT: Map041/events/27/pages/0/93/Dialogue
 > CONTEXT: Map041/events/26/pages/0/98/Dialogue
+> CONTEXT: Map041/events/27/pages/0/93/Dialogue
 > CONTEXT: Map041/events/28/pages/0/100/Dialogue
 > CONTEXT: Map041/events/29/pages/0/100/Dialogue
 > CONTEXT: Map041/events/30/pages/0/100/Dialogue
@@ -283,8 +283,8 @@ guard?」#MTLed
 > CONTEXT: Map141/events/4/pages/0/83/Dialogue
 > CONTEXT: Map141/events/37/pages/0/84/Dialogue
 > CONTEXT: Map139/events/2/pages/0/100/Dialogue
-> CONTEXT: Map041/events/27/pages/0/98/Dialogue
 > CONTEXT: Map041/events/26/pages/0/103/Dialogue
+> CONTEXT: Map041/events/27/pages/0/98/Dialogue
 > CONTEXT: Map041/events/28/pages/0/105/Dialogue
 > CONTEXT: Map041/events/29/pages/0/105/Dialogue
 > CONTEXT: Map041/events/30/pages/0/105/Dialogue
@@ -301,8 +301,8 @@ guard?」#MTLed
 > CONTEXT: Map141/events/4/pages/0/86/Dialogue
 > CONTEXT: Map141/events/37/pages/0/87/Dialogue
 > CONTEXT: Map139/events/2/pages/0/103/Dialogue
-> CONTEXT: Map041/events/27/pages/0/101/Dialogue
 > CONTEXT: Map041/events/26/pages/0/106/Dialogue
+> CONTEXT: Map041/events/27/pages/0/101/Dialogue
 > CONTEXT: Map041/events/28/pages/0/108/Dialogue
 > CONTEXT: Map041/events/29/pages/0/108/Dialogue
 > CONTEXT: Map041/events/30/pages/0/108/Dialogue
@@ -337,8 +337,8 @@ going to be strange to compete with the Queen's Majesty」#MTLed
 > CONTEXT: Map141/events/4/pages/0/100/Dialogue
 > CONTEXT: Map141/events/37/pages/0/101/Dialogue
 > CONTEXT: Map139/events/2/pages/0/117/Dialogue
-> CONTEXT: Map041/events/27/pages/0/115/Dialogue
 > CONTEXT: Map041/events/26/pages/0/120/Dialogue
+> CONTEXT: Map041/events/27/pages/0/115/Dialogue
 > CONTEXT: Map041/events/28/pages/0/122/Dialogue
 > CONTEXT: Map041/events/29/pages/0/122/Dialogue
 > CONTEXT: Map041/events/30/pages/0/122/Dialogue
@@ -355,8 +355,8 @@ guard ......」#MTLed
 > CONTEXT: Map141/events/4/pages/0/104/Dialogue
 > CONTEXT: Map141/events/37/pages/0/105/Dialogue
 > CONTEXT: Map139/events/2/pages/0/121/Dialogue
-> CONTEXT: Map041/events/27/pages/0/119/Dialogue
 > CONTEXT: Map041/events/26/pages/0/124/Dialogue
+> CONTEXT: Map041/events/27/pages/0/119/Dialogue
 > CONTEXT: Map041/events/28/pages/0/126/Dialogue
 > CONTEXT: Map041/events/29/pages/0/126/Dialogue
 > CONTEXT: Map041/events/30/pages/0/126/Dialogue
@@ -369,43 +369,12 @@ majesty?」#MTLed
 > END STRING
 
 > BEGIN STRING
-\\N[12]
-「くっ……」
-> CONTEXT: Map141/events/4/pages/0/108/Dialogue
-> CONTEXT: Map141/events/37/pages/0/109/Dialogue
-> CONTEXT: Map139/events/2/pages/0/125/Dialogue
-> CONTEXT: Map057/events/25/pages/0/118/Dialogue
-> CONTEXT: Map041/events/27/pages/0/123/Dialogue
-> CONTEXT: Map149/events/38/pages/1/9/Dialogue
-> CONTEXT: Map149/events/38/pages/1/291/Dialogue
-> CONTEXT: Map147/events/2/pages/15/150/Dialogue
-> CONTEXT: Map147/events/17/pages/0/314/Dialogue
-> CONTEXT: Map041/events/26/pages/0/128/Dialogue
-> CONTEXT: Map041/events/28/pages/0/130/Dialogue
-> CONTEXT: Map041/events/29/pages/0/130/Dialogue
-> CONTEXT: Map025/events/267/pages/1/15/Dialogue
-> CONTEXT: Map005/events/3/pages/0/68/Dialogue
-> CONTEXT: Map025/events/267/pages/1/363/Dialogue
-> CONTEXT: Map041/events/30/pages/0/130/Dialogue
-\\N[12]. 「Damn」#MTLed
-> CONTEXT: Map032/events/50/pages/1/236/Dialogue
-> CONTEXT: Commonevents/154/41/Dialogue
-> CONTEXT: Commonevents/155/6/Dialogue
-> CONTEXT: Commonevents/200/318/Dialogue
-> CONTEXT: Commonevents/205/305/Dialogue
-> CONTEXT: Commonevents/246/45/Dialogue
-> CONTEXT: Commonevents/248/337/Dialogue
-> CONTEXT: Commonevents/263/161/Dialogue
-\\N[12]. 「Damn」#MTLed
-> END STRING
-
-> BEGIN STRING
 敗北シーンを見ますか？
 > CONTEXT: Map141/events/4/pages/0/113/Dialogue
 > CONTEXT: Map141/events/37/pages/0/114/Dialogue
 > CONTEXT: Map139/events/2/pages/0/130/Dialogue
-> CONTEXT: Map041/events/27/pages/0/128/Dialogue
 > CONTEXT: Map041/events/26/pages/0/133/Dialogue
+> CONTEXT: Map041/events/27/pages/0/128/Dialogue
 > CONTEXT: Map041/events/28/pages/0/135/Dialogue
 > CONTEXT: Map041/events/29/pages/0/135/Dialogue
 > CONTEXT: Map041/events/30/pages/0/135/Dialogue
@@ -421,8 +390,8 @@ Do you see the defeat scene?#MTLed
 > CONTEXT: Map141/events/4/pages/0/127/Dialogue
 > CONTEXT: Map141/events/37/pages/0/128/Dialogue
 > CONTEXT: Map139/events/2/pages/0/144/Dialogue
-> CONTEXT: Map041/events/27/pages/0/140/Dialogue
 > CONTEXT: Map041/events/26/pages/0/145/Dialogue
+> CONTEXT: Map041/events/27/pages/0/140/Dialogue
 > CONTEXT: Map041/events/28/pages/0/149/Dialogue
 > CONTEXT: Map041/events/29/pages/0/149/Dialogue
 > CONTEXT: Map041/events/30/pages/0/149/Dialogue
@@ -440,8 +409,8 @@ punishment」#MTLed
 > CONTEXT: Map141/events/4/pages/0/131/Dialogue
 > CONTEXT: Map141/events/37/pages/0/132/Dialogue
 > CONTEXT: Map139/events/2/pages/0/148/Dialogue
-> CONTEXT: Map041/events/27/pages/0/144/Dialogue
 > CONTEXT: Map041/events/26/pages/0/149/Dialogue
+> CONTEXT: Map041/events/27/pages/0/144/Dialogue
 > CONTEXT: Map041/events/28/pages/0/153/Dialogue
 > CONTEXT: Map041/events/29/pages/0/153/Dialogue
 > CONTEXT: Map041/events/30/pages/0/153/Dialogue
@@ -458,8 +427,8 @@ punishment」#MTLed
 > CONTEXT: Map141/events/4/pages/0/134/Dialogue
 > CONTEXT: Map141/events/37/pages/0/135/Dialogue
 > CONTEXT: Map139/events/2/pages/0/151/Dialogue
-> CONTEXT: Map041/events/27/pages/0/147/Dialogue
 > CONTEXT: Map041/events/26/pages/0/152/Dialogue
+> CONTEXT: Map041/events/27/pages/0/147/Dialogue
 > CONTEXT: Map041/events/28/pages/0/156/Dialogue
 > CONTEXT: Map041/events/29/pages/0/156/Dialogue
 > CONTEXT: Map041/events/30/pages/0/156/Dialogue
@@ -476,8 +445,8 @@ humiliation as a man」#MTLed
 > CONTEXT: Map141/events/4/pages/0/142/Dialogue
 > CONTEXT: Map141/events/37/pages/0/143/Dialogue
 > CONTEXT: Map139/events/2/pages/0/159/Dialogue
-> CONTEXT: Map041/events/27/pages/0/155/Dialogue
 > CONTEXT: Map041/events/26/pages/0/160/Dialogue
+> CONTEXT: Map041/events/27/pages/0/155/Dialogue
 > CONTEXT: Map041/events/28/pages/0/164/Dialogue
 > CONTEXT: Map041/events/29/pages/0/164/Dialogue
 > CONTEXT: Map041/events/30/pages/0/164/Dialogue
@@ -489,46 +458,14 @@ The royal guard swings the sword,
 > END STRING
 
 > BEGIN STRING
-\\N[12]
-「う、うわっ！」
-> CONTEXT: Map141/events/4/pages/0/145/Dialogue
-> CONTEXT: Map152/events/24/pages/8/413/Dialogue
-> CONTEXT: Map141/events/37/pages/0/146/Dialogue
-> CONTEXT: Map152/events/24/pages/9/244/Dialogue
-> CONTEXT: Map139/events/2/pages/0/162/Dialogue
-> CONTEXT: Map110/events/5/pages/0/129/Dialogue
-> CONTEXT: Map110/events/5/pages/1/170/Dialogue
-> CONTEXT: Map041/events/27/pages/0/158/Dialogue
-> CONTEXT: Map041/events/26/pages/0/163/Dialogue
-> CONTEXT: Map043/events/24/pages/8/439/Dialogue
-> CONTEXT: Map041/events/28/pages/0/167/Dialogue
-> CONTEXT: Map043/events/24/pages/9/316/Dialogue
-> CONTEXT: Map041/events/29/pages/0/167/Dialogue
-> CONTEXT: Map043/events/24/pages/9/620/Dialogue
-> CONTEXT: Map041/events/30/pages/0/167/Dialogue
-> CONTEXT: Map043/events/24/pages/10/261/Dialogue
-> CONTEXT: Map043/events/121/pages/0/361/Dialogue
-> CONTEXT: Map043/events/121/pages/1/439/Dialogue
-\\N[12]. 「Wow, that's it!」#MTLed
-> CONTEXT: Commonevents/223/139/Dialogue
-> CONTEXT: Commonevents/246/84/Dialogue
-> CONTEXT: Commonevents/250/76/Dialogue
-> CONTEXT: Commonevents/272/56/Dialogue
-> CONTEXT: Commonevents/272/233/Dialogue
-> CONTEXT: Commonevents/320/110/Dialogue
-> CONTEXT: Commonevents/320/414/Dialogue
-\\N[12]. 「Wow, that's it!」#MTLed
-> END STRING
-
-> BEGIN STRING
 ロイヤルガード
 「本来、ロイヤルガードは誇り高いもの。
 このような行為は好まないが……
 > CONTEXT: Map141/events/4/pages/0/148/Dialogue
 > CONTEXT: Map141/events/37/pages/0/149/Dialogue
 > CONTEXT: Map139/events/2/pages/0/165/Dialogue
-> CONTEXT: Map041/events/27/pages/0/161/Dialogue
 > CONTEXT: Map041/events/26/pages/0/166/Dialogue
+> CONTEXT: Map041/events/27/pages/0/161/Dialogue
 > CONTEXT: Map041/events/28/pages/0/170/Dialogue
 > CONTEXT: Map041/events/29/pages/0/170/Dialogue
 > CONTEXT: Map041/events/30/pages/0/170/Dialogue
@@ -546,8 +483,8 @@ I do not like this behavior ... ...#MTLed
 > CONTEXT: Map141/events/4/pages/0/152/Dialogue
 > CONTEXT: Map141/events/37/pages/0/153/Dialogue
 > CONTEXT: Map139/events/2/pages/0/169/Dialogue
-> CONTEXT: Map041/events/27/pages/0/165/Dialogue
 > CONTEXT: Map041/events/26/pages/0/170/Dialogue
+> CONTEXT: Map041/events/27/pages/0/165/Dialogue
 > CONTEXT: Map041/events/28/pages/0/174/Dialogue
 > CONTEXT: Map041/events/29/pages/0/174/Dialogue
 > CONTEXT: Map041/events/30/pages/0/174/Dialogue
@@ -568,8 +505,8 @@ humiliation by overrulning the man's testimony」#MTLed
 > CONTEXT: Map141/events/4/pages/0/166/Dialogue
 > CONTEXT: Map141/events/37/pages/0/167/Dialogue
 > CONTEXT: Map139/events/2/pages/0/183/Dialogue
-> CONTEXT: Map041/events/27/pages/0/179/Dialogue
 > CONTEXT: Map041/events/26/pages/0/184/Dialogue
+> CONTEXT: Map041/events/27/pages/0/179/Dialogue
 > CONTEXT: Map041/events/28/pages/0/188/Dialogue
 > CONTEXT: Map041/events/29/pages/0/188/Dialogue
 > CONTEXT: Map041/events/30/pages/0/188/Dialogue
@@ -587,8 +524,8 @@ royal guard \\N[12] I trampled the penis,
 > CONTEXT: Map141/events/4/pages/0/169/Dialogue
 > CONTEXT: Map141/events/37/pages/0/170/Dialogue
 > CONTEXT: Map139/events/2/pages/0/186/Dialogue
-> CONTEXT: Map041/events/27/pages/0/182/Dialogue
 > CONTEXT: Map041/events/26/pages/0/187/Dialogue
+> CONTEXT: Map041/events/27/pages/0/182/Dialogue
 > CONTEXT: Map041/events/28/pages/0/191/Dialogue
 > CONTEXT: Map041/events/29/pages/0/191/Dialogue
 > CONTEXT: Map041/events/30/pages/0/191/Dialogue
@@ -605,8 +542,8 @@ royal guard \\N[12] I trampled the penis,
 > CONTEXT: Map141/events/4/pages/0/173/Dialogue
 > CONTEXT: Map141/events/37/pages/0/174/Dialogue
 > CONTEXT: Map139/events/2/pages/0/190/Dialogue
-> CONTEXT: Map041/events/27/pages/0/186/Dialogue
 > CONTEXT: Map041/events/26/pages/0/191/Dialogue
+> CONTEXT: Map041/events/27/pages/0/186/Dialogue
 > CONTEXT: Map041/events/28/pages/0/195/Dialogue
 > CONTEXT: Map041/events/29/pages/0/195/Dialogue
 > CONTEXT: Map041/events/30/pages/0/195/Dialogue
@@ -625,15 +562,15 @@ steps on」#MTLed
 > CONTEXT: Map141/events/4/pages/0/179/Dialogue
 > CONTEXT: Map141/events/37/pages/0/180/Dialogue
 > CONTEXT: Map139/events/2/pages/0/196/Dialogue
-> CONTEXT: Map041/events/27/pages/0/192/Dialogue
 > CONTEXT: Map041/events/26/pages/0/197/Dialogue
+> CONTEXT: Map041/events/27/pages/0/192/Dialogue
 > CONTEXT: Map041/events/28/pages/0/201/Dialogue
 > CONTEXT: Map041/events/29/pages/0/201/Dialogue
 > CONTEXT: Map041/events/30/pages/0/201/Dialogue
 Kiryu!#MTLed
 > CONTEXT: Commonevents/153/157/Dialogue
-> CONTEXT: Commonevents/246/118/Dialogue
 > CONTEXT: Commonevents/228/290/Dialogue
+> CONTEXT: Commonevents/246/118/Dialogue
 Kiryu!#MTLed
 > END STRING
 
@@ -643,8 +580,8 @@ Kiryu!#MTLed
 > CONTEXT: Map141/events/4/pages/0/181/Dialogue
 > CONTEXT: Map141/events/37/pages/0/182/Dialogue
 > CONTEXT: Map139/events/2/pages/0/198/Dialogue
-> CONTEXT: Map041/events/27/pages/0/194/Dialogue
 > CONTEXT: Map041/events/26/pages/0/199/Dialogue
+> CONTEXT: Map041/events/27/pages/0/194/Dialogue
 > CONTEXT: Map041/events/28/pages/0/203/Dialogue
 > CONTEXT: Map041/events/29/pages/0/203/Dialogue
 > CONTEXT: Map041/events/30/pages/0/203/Dialogue
@@ -661,8 +598,8 @@ Kiryu!#MTLed
 > CONTEXT: Map141/events/4/pages/0/184/Dialogue
 > CONTEXT: Map141/events/37/pages/0/185/Dialogue
 > CONTEXT: Map139/events/2/pages/0/201/Dialogue
-> CONTEXT: Map041/events/27/pages/0/197/Dialogue
 > CONTEXT: Map041/events/26/pages/0/202/Dialogue
+> CONTEXT: Map041/events/27/pages/0/197/Dialogue
 > CONTEXT: Map041/events/28/pages/0/206/Dialogue
 > CONTEXT: Map041/events/29/pages/0/206/Dialogue
 > CONTEXT: Map041/events/30/pages/0/206/Dialogue
@@ -682,10 +619,10 @@ be connected with Hon.」#MTLed
 > CONTEXT: Map141/events/37/pages/0/283/Dialogue
 > CONTEXT: Map139/events/2/pages/0/209/Dialogue
 > CONTEXT: Map139/events/2/pages/0/299/Dialogue
-> CONTEXT: Map041/events/27/pages/0/205/Dialogue
-> CONTEXT: Map041/events/27/pages/0/295/Dialogue
 > CONTEXT: Map041/events/26/pages/0/210/Dialogue
 > CONTEXT: Map041/events/26/pages/0/300/Dialogue
+> CONTEXT: Map041/events/27/pages/0/205/Dialogue
+> CONTEXT: Map041/events/27/pages/0/295/Dialogue
 > CONTEXT: Map041/events/28/pages/0/214/Dialogue
 > CONTEXT: Map041/events/28/pages/0/304/Dialogue
 > CONTEXT: Map041/events/29/pages/0/214/Dialogue
@@ -710,8 +647,8 @@ Gourd, * rub *!#MTLed
 > CONTEXT: Map141/events/4/pages/0/194/Dialogue
 > CONTEXT: Map141/events/37/pages/0/195/Dialogue
 > CONTEXT: Map139/events/2/pages/0/211/Dialogue
-> CONTEXT: Map041/events/27/pages/0/207/Dialogue
 > CONTEXT: Map041/events/26/pages/0/212/Dialogue
+> CONTEXT: Map041/events/27/pages/0/207/Dialogue
 > CONTEXT: Map041/events/28/pages/0/216/Dialogue
 > CONTEXT: Map041/events/29/pages/0/216/Dialogue
 > CONTEXT: Map041/events/30/pages/0/216/Dialogue
@@ -729,8 +666,8 @@ Or stop it, no more ... no more!」#MTLed
 > CONTEXT: Map141/events/4/pages/0/199/Dialogue
 > CONTEXT: Map141/events/37/pages/0/200/Dialogue
 > CONTEXT: Map139/events/2/pages/0/216/Dialogue
-> CONTEXT: Map041/events/27/pages/0/212/Dialogue
 > CONTEXT: Map041/events/26/pages/0/217/Dialogue
+> CONTEXT: Map041/events/27/pages/0/212/Dialogue
 > CONTEXT: Map041/events/28/pages/0/221/Dialogue
 > CONTEXT: Map041/events/29/pages/0/221/Dialogue
 > CONTEXT: Map041/events/30/pages/0/221/Dialogue
@@ -748,8 +685,8 @@ raise the sound」#MTLed
 > CONTEXT: Map141/events/4/pages/0/206/Dialogue
 > CONTEXT: Map141/events/37/pages/0/207/Dialogue
 > CONTEXT: Map139/events/2/pages/0/223/Dialogue
-> CONTEXT: Map041/events/27/pages/0/219/Dialogue
 > CONTEXT: Map041/events/26/pages/0/224/Dialogue
+> CONTEXT: Map041/events/27/pages/0/219/Dialogue
 > CONTEXT: Map041/events/28/pages/0/228/Dialogue
 > CONTEXT: Map041/events/29/pages/0/228/Dialogue
 > CONTEXT: Map041/events/30/pages/0/228/Dialogue
@@ -765,8 +702,8 @@ Guru, * rub *, Guri!#MTLed
 > CONTEXT: Map141/events/4/pages/0/208/Dialogue
 > CONTEXT: Map141/events/37/pages/0/209/Dialogue
 > CONTEXT: Map139/events/2/pages/0/225/Dialogue
-> CONTEXT: Map041/events/27/pages/0/221/Dialogue
 > CONTEXT: Map041/events/26/pages/0/226/Dialogue
+> CONTEXT: Map041/events/27/pages/0/221/Dialogue
 > CONTEXT: Map041/events/28/pages/0/230/Dialogue
 > CONTEXT: Map041/events/29/pages/0/230/Dialogue
 > CONTEXT: Map041/events/30/pages/0/230/Dialogue
@@ -783,8 +720,8 @@ please forgive me!」#MTLed
 > CONTEXT: Map141/events/4/pages/0/212/Dialogue
 > CONTEXT: Map141/events/37/pages/0/213/Dialogue
 > CONTEXT: Map139/events/2/pages/0/229/Dialogue
-> CONTEXT: Map041/events/27/pages/0/225/Dialogue
 > CONTEXT: Map041/events/26/pages/0/230/Dialogue
+> CONTEXT: Map041/events/27/pages/0/225/Dialogue
 > CONTEXT: Map041/events/28/pages/0/234/Dialogue
 > CONTEXT: Map041/events/29/pages/0/234/Dialogue
 > CONTEXT: Map041/events/30/pages/0/234/Dialogue
@@ -803,8 +740,8 @@ Dull aggressive pain attacks the penis,
 > CONTEXT: Map141/events/4/pages/0/215/Dialogue
 > CONTEXT: Map141/events/37/pages/0/216/Dialogue
 > CONTEXT: Map139/events/2/pages/0/232/Dialogue
-> CONTEXT: Map041/events/27/pages/0/228/Dialogue
 > CONTEXT: Map041/events/26/pages/0/233/Dialogue
+> CONTEXT: Map041/events/27/pages/0/228/Dialogue
 > CONTEXT: Map041/events/28/pages/0/237/Dialogue
 > CONTEXT: Map041/events/29/pages/0/237/Dialogue
 > CONTEXT: Map041/events/30/pages/0/237/Dialogue
@@ -824,8 +761,8 @@ as a man is being tasted?」#MTLed
 > CONTEXT: Map141/events/4/pages/0/220/Dialogue
 > CONTEXT: Map141/events/37/pages/0/221/Dialogue
 > CONTEXT: Map139/events/2/pages/0/237/Dialogue
-> CONTEXT: Map041/events/27/pages/0/233/Dialogue
 > CONTEXT: Map041/events/26/pages/0/238/Dialogue
+> CONTEXT: Map041/events/27/pages/0/233/Dialogue
 > CONTEXT: Map041/events/28/pages/0/242/Dialogue
 > CONTEXT: Map041/events/29/pages/0/242/Dialogue
 > CONTEXT: Map041/events/30/pages/0/242/Dialogue
@@ -842,8 +779,8 @@ as a man is being tasted?」#MTLed
 > CONTEXT: Map141/events/4/pages/0/223/Dialogue
 > CONTEXT: Map141/events/37/pages/0/224/Dialogue
 > CONTEXT: Map139/events/2/pages/0/240/Dialogue
-> CONTEXT: Map041/events/27/pages/0/236/Dialogue
 > CONTEXT: Map041/events/26/pages/0/241/Dialogue
+> CONTEXT: Map041/events/27/pages/0/236/Dialogue
 > CONTEXT: Map041/events/28/pages/0/245/Dialogue
 > CONTEXT: Map041/events/29/pages/0/245/Dialogue
 > CONTEXT: Map041/events/30/pages/0/245/Dialogue
@@ -864,8 +801,8 @@ anyway」#MTLed
 > CONTEXT: Map141/events/4/pages/0/231/Dialogue
 > CONTEXT: Map141/events/37/pages/0/232/Dialogue
 > CONTEXT: Map139/events/2/pages/0/248/Dialogue
-> CONTEXT: Map041/events/27/pages/0/244/Dialogue
 > CONTEXT: Map041/events/26/pages/0/249/Dialogue
+> CONTEXT: Map041/events/27/pages/0/244/Dialogue
 > CONTEXT: Map041/events/28/pages/0/253/Dialogue
 > CONTEXT: Map041/events/29/pages/0/253/Dialogue
 > CONTEXT: Map041/events/30/pages/0/253/Dialogue
@@ -880,8 +817,8 @@ anyway」#MTLed
 > CONTEXT: Map141/events/4/pages/0/233/Dialogue
 > CONTEXT: Map141/events/37/pages/0/234/Dialogue
 > CONTEXT: Map139/events/2/pages/0/250/Dialogue
-> CONTEXT: Map041/events/27/pages/0/246/Dialogue
 > CONTEXT: Map041/events/26/pages/0/251/Dialogue
+> CONTEXT: Map041/events/27/pages/0/246/Dialogue
 > CONTEXT: Map041/events/28/pages/0/255/Dialogue
 > CONTEXT: Map041/events/29/pages/0/255/Dialogue
 > CONTEXT: Map041/events/30/pages/0/255/Dialogue
@@ -898,8 +835,8 @@ anyway」#MTLed
 > CONTEXT: Map141/events/4/pages/0/236/Dialogue
 > CONTEXT: Map141/events/37/pages/0/237/Dialogue
 > CONTEXT: Map139/events/2/pages/0/253/Dialogue
-> CONTEXT: Map041/events/27/pages/0/249/Dialogue
 > CONTEXT: Map041/events/26/pages/0/254/Dialogue
+> CONTEXT: Map041/events/27/pages/0/249/Dialogue
 > CONTEXT: Map041/events/28/pages/0/258/Dialogue
 > CONTEXT: Map041/events/29/pages/0/258/Dialogue
 > CONTEXT: Map041/events/30/pages/0/258/Dialogue
@@ -918,8 +855,8 @@ everywhere. But why are you erecting?」#MTLed
 > CONTEXT: Map141/events/4/pages/0/241/Dialogue
 > CONTEXT: Map141/events/37/pages/0/242/Dialogue
 > CONTEXT: Map139/events/2/pages/0/258/Dialogue
-> CONTEXT: Map041/events/27/pages/0/254/Dialogue
 > CONTEXT: Map041/events/26/pages/0/259/Dialogue
+> CONTEXT: Map041/events/27/pages/0/254/Dialogue
 > CONTEXT: Map041/events/28/pages/0/263/Dialogue
 > CONTEXT: Map041/events/29/pages/0/263/Dialogue
 > CONTEXT: Map041/events/30/pages/0/263/Dialogue
@@ -937,8 +874,8 @@ I softly stimulate the penis streak with my toes.#MTLed
 > CONTEXT: Map141/events/4/pages/0/244/Dialogue
 > CONTEXT: Map141/events/37/pages/0/245/Dialogue
 > CONTEXT: Map139/events/2/pages/0/261/Dialogue
-> CONTEXT: Map041/events/27/pages/0/257/Dialogue
 > CONTEXT: Map041/events/26/pages/0/262/Dialogue
+> CONTEXT: Map041/events/27/pages/0/257/Dialogue
 > CONTEXT: Map041/events/28/pages/0/266/Dialogue
 > CONTEXT: Map041/events/29/pages/0/266/Dialogue
 > CONTEXT: Map041/events/30/pages/0/266/Dialogue
@@ -955,8 +892,8 @@ Well, that is ....」#MTLed
 > CONTEXT: Map141/events/4/pages/0/248/Dialogue
 > CONTEXT: Map141/events/37/pages/0/249/Dialogue
 > CONTEXT: Map139/events/2/pages/0/265/Dialogue
-> CONTEXT: Map041/events/27/pages/0/261/Dialogue
 > CONTEXT: Map041/events/26/pages/0/266/Dialogue
+> CONTEXT: Map041/events/27/pages/0/261/Dialogue
 > CONTEXT: Map041/events/28/pages/0/270/Dialogue
 > CONTEXT: Map041/events/29/pages/0/270/Dialogue
 > CONTEXT: Map041/events/30/pages/0/270/Dialogue
@@ -975,8 +912,8 @@ I do not think they have sexual excitement」#MTLed
 > CONTEXT: Map141/events/4/pages/0/255/Dialogue
 > CONTEXT: Map141/events/37/pages/0/256/Dialogue
 > CONTEXT: Map139/events/2/pages/0/272/Dialogue
-> CONTEXT: Map041/events/27/pages/0/268/Dialogue
 > CONTEXT: Map041/events/26/pages/0/273/Dialogue
+> CONTEXT: Map041/events/27/pages/0/268/Dialogue
 > CONTEXT: Map041/events/28/pages/0/277/Dialogue
 > CONTEXT: Map041/events/29/pages/0/277/Dialogue
 > CONTEXT: Map041/events/30/pages/0/277/Dialogue
@@ -995,8 +932,8 @@ This dirty penis. You can crush the stamp」#MTLed
 > CONTEXT: Map141/events/4/pages/0/260/Dialogue
 > CONTEXT: Map141/events/37/pages/0/261/Dialogue
 > CONTEXT: Map139/events/2/pages/0/277/Dialogue
-> CONTEXT: Map041/events/27/pages/0/273/Dialogue
 > CONTEXT: Map041/events/26/pages/0/278/Dialogue
+> CONTEXT: Map041/events/27/pages/0/273/Dialogue
 > CONTEXT: Map041/events/28/pages/0/282/Dialogue
 > CONTEXT: Map041/events/29/pages/0/282/Dialogue
 > CONTEXT: Map041/events/30/pages/0/282/Dialogue
@@ -1015,8 +952,8 @@ I got excited ... ...」#MTLed
 > CONTEXT: Map141/events/4/pages/0/265/Dialogue
 > CONTEXT: Map141/events/37/pages/0/266/Dialogue
 > CONTEXT: Map139/events/2/pages/0/282/Dialogue
-> CONTEXT: Map041/events/27/pages/0/278/Dialogue
 > CONTEXT: Map041/events/26/pages/0/283/Dialogue
+> CONTEXT: Map041/events/27/pages/0/278/Dialogue
 > CONTEXT: Map041/events/28/pages/0/287/Dialogue
 > CONTEXT: Map041/events/29/pages/0/287/Dialogue
 > CONTEXT: Map041/events/30/pages/0/287/Dialogue
@@ -1031,8 +968,8 @@ appearance」#MTLed
 > CONTEXT: Map141/events/4/pages/0/269/Dialogue
 > CONTEXT: Map141/events/37/pages/0/270/Dialogue
 > CONTEXT: Map139/events/2/pages/0/286/Dialogue
-> CONTEXT: Map041/events/27/pages/0/282/Dialogue
 > CONTEXT: Map041/events/26/pages/0/287/Dialogue
+> CONTEXT: Map041/events/27/pages/0/282/Dialogue
 > CONTEXT: Map041/events/28/pages/0/291/Dialogue
 > CONTEXT: Map041/events/29/pages/0/291/Dialogue
 > CONTEXT: Map041/events/30/pages/0/291/Dialogue
@@ -1049,8 +986,8 @@ Hello!#MTLed
 > CONTEXT: Map141/events/4/pages/0/271/Dialogue
 > CONTEXT: Map141/events/37/pages/0/272/Dialogue
 > CONTEXT: Map139/events/2/pages/0/288/Dialogue
-> CONTEXT: Map041/events/27/pages/0/284/Dialogue
 > CONTEXT: Map041/events/26/pages/0/289/Dialogue
+> CONTEXT: Map041/events/27/pages/0/284/Dialogue
 > CONTEXT: Map041/events/28/pages/0/293/Dialogue
 > CONTEXT: Map041/events/29/pages/0/293/Dialogue
 > CONTEXT: Map041/events/30/pages/0/293/Dialogue
@@ -1067,8 +1004,8 @@ Hello!#MTLed
 > CONTEXT: Map141/events/4/pages/0/274/Dialogue
 > CONTEXT: Map141/events/37/pages/0/275/Dialogue
 > CONTEXT: Map139/events/2/pages/0/291/Dialogue
-> CONTEXT: Map041/events/27/pages/0/287/Dialogue
 > CONTEXT: Map041/events/26/pages/0/292/Dialogue
+> CONTEXT: Map041/events/27/pages/0/287/Dialogue
 > CONTEXT: Map041/events/28/pages/0/296/Dialogue
 > CONTEXT: Map041/events/29/pages/0/296/Dialogue
 > CONTEXT: Map041/events/30/pages/0/296/Dialogue
@@ -1089,8 +1026,8 @@ man 's symbolism ......」#MTLed
 > CONTEXT: Map141/events/4/pages/0/284/Dialogue
 > CONTEXT: Map141/events/37/pages/0/285/Dialogue
 > CONTEXT: Map139/events/2/pages/0/301/Dialogue
-> CONTEXT: Map041/events/27/pages/0/297/Dialogue
 > CONTEXT: Map041/events/26/pages/0/302/Dialogue
+> CONTEXT: Map041/events/27/pages/0/297/Dialogue
 > CONTEXT: Map041/events/28/pages/0/306/Dialogue
 > CONTEXT: Map041/events/29/pages/0/306/Dialogue
 > CONTEXT: Map041/events/30/pages/0/306/Dialogue
@@ -1107,8 +1044,8 @@ man 's symbolism ......」#MTLed
 > CONTEXT: Map141/events/4/pages/0/287/Dialogue
 > CONTEXT: Map141/events/37/pages/0/288/Dialogue
 > CONTEXT: Map139/events/2/pages/0/304/Dialogue
-> CONTEXT: Map041/events/27/pages/0/300/Dialogue
 > CONTEXT: Map041/events/26/pages/0/305/Dialogue
+> CONTEXT: Map041/events/27/pages/0/300/Dialogue
 > CONTEXT: Map041/events/28/pages/0/309/Dialogue
 > CONTEXT: Map041/events/29/pages/0/309/Dialogue
 > CONTEXT: Map041/events/30/pages/0/309/Dialogue
@@ -1127,8 +1064,8 @@ penis?」#MTLed
 > CONTEXT: Map141/events/4/pages/0/295/Dialogue
 > CONTEXT: Map141/events/37/pages/0/296/Dialogue
 > CONTEXT: Map139/events/2/pages/0/312/Dialogue
-> CONTEXT: Map041/events/27/pages/0/308/Dialogue
 > CONTEXT: Map041/events/26/pages/0/313/Dialogue
+> CONTEXT: Map041/events/27/pages/0/308/Dialogue
 > CONTEXT: Map041/events/28/pages/0/317/Dialogue
 > CONTEXT: Map041/events/29/pages/0/317/Dialogue
 > CONTEXT: Map041/events/30/pages/0/317/Dialogue
@@ -1143,8 +1080,8 @@ Guru, guru, guruguri!#MTLed
 > CONTEXT: Map141/events/4/pages/0/297/Dialogue
 > CONTEXT: Map141/events/37/pages/0/298/Dialogue
 > CONTEXT: Map139/events/2/pages/0/314/Dialogue
-> CONTEXT: Map041/events/27/pages/0/310/Dialogue
 > CONTEXT: Map041/events/26/pages/0/315/Dialogue
+> CONTEXT: Map041/events/27/pages/0/310/Dialogue
 > CONTEXT: Map041/events/28/pages/0/319/Dialogue
 > CONTEXT: Map041/events/29/pages/0/319/Dialogue
 > CONTEXT: Map041/events/30/pages/0/319/Dialogue
@@ -1160,8 +1097,8 @@ Guru, guru, guruguri!#MTLed
 > CONTEXT: Map141/events/4/pages/0/300/Dialogue
 > CONTEXT: Map141/events/37/pages/0/301/Dialogue
 > CONTEXT: Map139/events/2/pages/0/317/Dialogue
-> CONTEXT: Map041/events/27/pages/0/313/Dialogue
 > CONTEXT: Map041/events/26/pages/0/318/Dialogue
+> CONTEXT: Map041/events/27/pages/0/313/Dialogue
 > CONTEXT: Map041/events/28/pages/0/322/Dialogue
 > CONTEXT: Map041/events/29/pages/0/322/Dialogue
 > CONTEXT: Map041/events/30/pages/0/322/Dialogue
@@ -1183,8 +1120,8 @@ I ridicule my body with tears and drool flowing.#MTLed
 > CONTEXT: Map141/events/4/pages/0/304/Dialogue
 > CONTEXT: Map141/events/37/pages/0/305/Dialogue
 > CONTEXT: Map139/events/2/pages/0/321/Dialogue
-> CONTEXT: Map041/events/27/pages/0/317/Dialogue
 > CONTEXT: Map041/events/26/pages/0/322/Dialogue
+> CONTEXT: Map041/events/27/pages/0/317/Dialogue
 > CONTEXT: Map041/events/28/pages/0/326/Dialogue
 > CONTEXT: Map041/events/29/pages/0/326/Dialogue
 > CONTEXT: Map041/events/30/pages/0/326/Dialogue
@@ -1203,8 +1140,8 @@ queen's trial. It is not my purpose to break you」#MTLed
 > CONTEXT: Map141/events/4/pages/0/309/Dialogue
 > CONTEXT: Map141/events/37/pages/0/310/Dialogue
 > CONTEXT: Map139/events/2/pages/0/326/Dialogue
-> CONTEXT: Map041/events/27/pages/0/322/Dialogue
 > CONTEXT: Map041/events/26/pages/0/327/Dialogue
+> CONTEXT: Map041/events/27/pages/0/322/Dialogue
 > CONTEXT: Map041/events/28/pages/0/331/Dialogue
 > CONTEXT: Map041/events/29/pages/0/331/Dialogue
 > CONTEXT: Map041/events/30/pages/0/331/Dialogue
@@ -1221,8 +1158,8 @@ queen's trial. It is not my purpose to break you」#MTLed
 > CONTEXT: Map141/events/4/pages/0/312/Dialogue
 > CONTEXT: Map141/events/37/pages/0/313/Dialogue
 > CONTEXT: Map139/events/2/pages/0/329/Dialogue
-> CONTEXT: Map041/events/27/pages/0/325/Dialogue
 > CONTEXT: Map041/events/26/pages/0/330/Dialogue
+> CONTEXT: Map041/events/27/pages/0/325/Dialogue
 > CONTEXT: Map041/events/28/pages/0/334/Dialogue
 > CONTEXT: Map041/events/29/pages/0/334/Dialogue
 > CONTEXT: Map041/events/30/pages/0/334/Dialogue
@@ -1243,8 +1180,8 @@ on a penis, Keep watching that opponent, cum too!
 > CONTEXT: Map141/events/4/pages/0/317/Dialogue
 > CONTEXT: Map141/events/37/pages/0/318/Dialogue
 > CONTEXT: Map139/events/2/pages/0/334/Dialogue
-> CONTEXT: Map041/events/27/pages/0/330/Dialogue
 > CONTEXT: Map041/events/26/pages/0/335/Dialogue
+> CONTEXT: Map041/events/27/pages/0/330/Dialogue
 > CONTEXT: Map041/events/28/pages/0/339/Dialogue
 > CONTEXT: Map041/events/29/pages/0/339/Dialogue
 > CONTEXT: Map041/events/30/pages/0/339/Dialogue
@@ -1264,8 +1201,8 @@ pleasure with intense pain!#MTLed
 > CONTEXT: Map141/events/4/pages/0/324/Dialogue
 > CONTEXT: Map141/events/37/pages/0/325/Dialogue
 > CONTEXT: Map139/events/2/pages/0/341/Dialogue
-> CONTEXT: Map041/events/27/pages/0/337/Dialogue
 > CONTEXT: Map041/events/26/pages/0/342/Dialogue
+> CONTEXT: Map041/events/27/pages/0/337/Dialogue
 > CONTEXT: Map041/events/28/pages/0/346/Dialogue
 > CONTEXT: Map041/events/29/pages/0/346/Dialogue
 > CONTEXT: Map041/events/30/pages/0/346/Dialogue
@@ -1283,8 +1220,8 @@ So, let 's get out!」#MTLed
 > CONTEXT: Map141/events/4/pages/0/339/Dialogue
 > CONTEXT: Map141/events/37/pages/0/340/Dialogue
 > CONTEXT: Map139/events/2/pages/0/356/Dialogue
-> CONTEXT: Map041/events/27/pages/0/352/Dialogue
 > CONTEXT: Map041/events/26/pages/0/357/Dialogue
+> CONTEXT: Map041/events/27/pages/0/352/Dialogue
 > CONTEXT: Map041/events/28/pages/0/361/Dialogue
 > CONTEXT: Map041/events/29/pages/0/361/Dialogue
 > CONTEXT: Map041/events/30/pages/0/361/Dialogue
@@ -1301,8 +1238,8 @@ So, let 's get out!」#MTLed
 > CONTEXT: Map141/events/4/pages/0/342/Dialogue
 > CONTEXT: Map141/events/37/pages/0/343/Dialogue
 > CONTEXT: Map139/events/2/pages/0/359/Dialogue
-> CONTEXT: Map041/events/27/pages/0/355/Dialogue
 > CONTEXT: Map041/events/26/pages/0/360/Dialogue
+> CONTEXT: Map041/events/27/pages/0/355/Dialogue
 > CONTEXT: Map041/events/28/pages/0/364/Dialogue
 > CONTEXT: Map041/events/29/pages/0/364/Dialogue
 > CONTEXT: Map041/events/30/pages/0/364/Dialogue
@@ -1317,33 +1254,13 @@ is trampled on cum」#MTLed
 > END STRING
 
 > BEGIN STRING
-\\N[12]
-「そ、それは……」
-> CONTEXT: Map141/events/4/pages/0/347/Dialogue
-> CONTEXT: Map141/events/37/pages/0/348/Dialogue
-> CONTEXT: Map139/events/2/pages/0/364/Dialogue
-> CONTEXT: Map041/events/27/pages/0/360/Dialogue
-> CONTEXT: Map145/events/2/pages/1/73/Dialogue
-> CONTEXT: Map147/events/2/pages/20/152/Dialogue
-> CONTEXT: Map041/events/26/pages/0/365/Dialogue
-> CONTEXT: Map041/events/28/pages/0/369/Dialogue
-> CONTEXT: Map041/events/29/pages/0/369/Dialogue
-> CONTEXT: Map041/events/30/pages/0/369/Dialogue
-> CONTEXT: Commonevents/306/35/Dialogue
-\\N[12]. 「Well, that is ......」#MTLed
-> CONTEXT: Commonevents/155/73/Dialogue
-> CONTEXT: Commonevents/246/286/Dialogue
-\\N[12]. 「Well, that is ......」#MTLed
-> END STRING
-
-> BEGIN STRING
 ロイヤルガードのすらりとした美麗な肢体を見上げ、
 \\N[12]はそのりりしい美しさに見とれてしまう。
 > CONTEXT: Map141/events/4/pages/0/350/Dialogue
 > CONTEXT: Map141/events/37/pages/0/351/Dialogue
 > CONTEXT: Map139/events/2/pages/0/367/Dialogue
-> CONTEXT: Map041/events/27/pages/0/363/Dialogue
 > CONTEXT: Map041/events/26/pages/0/368/Dialogue
+> CONTEXT: Map041/events/27/pages/0/363/Dialogue
 > CONTEXT: Map041/events/28/pages/0/372/Dialogue
 > CONTEXT: Map041/events/29/pages/0/372/Dialogue
 > CONTEXT: Map041/events/30/pages/0/372/Dialogue
@@ -1364,8 +1281,8 @@ beauty.#MTLed
 > CONTEXT: Map141/events/4/pages/0/353/Dialogue
 > CONTEXT: Map141/events/37/pages/0/354/Dialogue
 > CONTEXT: Map139/events/2/pages/0/370/Dialogue
-> CONTEXT: Map041/events/27/pages/0/366/Dialogue
 > CONTEXT: Map041/events/26/pages/0/371/Dialogue
+> CONTEXT: Map041/events/27/pages/0/366/Dialogue
 > CONTEXT: Map041/events/28/pages/0/375/Dialogue
 > CONTEXT: Map041/events/29/pages/0/375/Dialogue
 > CONTEXT: Map041/events/30/pages/0/375/Dialogue
@@ -1382,8 +1299,8 @@ of libido」#MTLed
 > CONTEXT: Map141/events/4/pages/0/359/Dialogue
 > CONTEXT: Map141/events/37/pages/0/360/Dialogue
 > CONTEXT: Map139/events/2/pages/0/376/Dialogue
-> CONTEXT: Map041/events/27/pages/0/372/Dialogue
 > CONTEXT: Map041/events/26/pages/0/377/Dialogue
+> CONTEXT: Map041/events/27/pages/0/372/Dialogue
 > CONTEXT: Map041/events/28/pages/0/381/Dialogue
 > CONTEXT: Map041/events/29/pages/0/381/Dialogue
 > CONTEXT: Map041/events/30/pages/0/381/Dialogue
@@ -1401,8 +1318,8 @@ Guri ......!#MTLed
 > CONTEXT: Map141/events/4/pages/0/361/Dialogue
 > CONTEXT: Map141/events/37/pages/0/362/Dialogue
 > CONTEXT: Map139/events/2/pages/0/378/Dialogue
-> CONTEXT: Map041/events/27/pages/0/374/Dialogue
 > CONTEXT: Map041/events/26/pages/0/379/Dialogue
+> CONTEXT: Map041/events/27/pages/0/374/Dialogue
 > CONTEXT: Map041/events/28/pages/0/383/Dialogue
 > CONTEXT: Map041/events/29/pages/0/383/Dialogue
 > CONTEXT: Map041/events/30/pages/0/383/Dialogue
@@ -1419,8 +1336,8 @@ Guri ......!#MTLed
 > CONTEXT: Map141/events/4/pages/0/365/Dialogue
 > CONTEXT: Map141/events/37/pages/0/366/Dialogue
 > CONTEXT: Map139/events/2/pages/0/382/Dialogue
-> CONTEXT: Map041/events/27/pages/0/378/Dialogue
 > CONTEXT: Map041/events/26/pages/0/383/Dialogue
+> CONTEXT: Map041/events/27/pages/0/378/Dialogue
 > CONTEXT: Map041/events/28/pages/0/387/Dialogue
 > CONTEXT: Map041/events/29/pages/0/387/Dialogue
 > CONTEXT: Map041/events/30/pages/0/387/Dialogue
@@ -1441,8 +1358,8 @@ humiliation ......#MTLed
 > CONTEXT: Map141/events/4/pages/0/370/Dialogue
 > CONTEXT: Map141/events/37/pages/0/371/Dialogue
 > CONTEXT: Map139/events/2/pages/0/387/Dialogue
-> CONTEXT: Map041/events/27/pages/0/383/Dialogue
 > CONTEXT: Map041/events/26/pages/0/388/Dialogue
+> CONTEXT: Map041/events/27/pages/0/383/Dialogue
 > CONTEXT: Map041/events/28/pages/0/392/Dialogue
 > CONTEXT: Map041/events/29/pages/0/392/Dialogue
 > CONTEXT: Map041/events/30/pages/0/392/Dialogue
@@ -1461,8 +1378,8 @@ this. Before I can lose it quickly」#MTLed
 > CONTEXT: Map141/events/4/pages/0/374/Dialogue
 > CONTEXT: Map141/events/37/pages/0/375/Dialogue
 > CONTEXT: Map139/events/2/pages/0/391/Dialogue
-> CONTEXT: Map041/events/27/pages/0/387/Dialogue
 > CONTEXT: Map041/events/26/pages/0/392/Dialogue
+> CONTEXT: Map041/events/27/pages/0/387/Dialogue
 > CONTEXT: Map041/events/28/pages/0/396/Dialogue
 > CONTEXT: Map041/events/29/pages/0/396/Dialogue
 > CONTEXT: Map041/events/30/pages/0/396/Dialogue
@@ -1478,8 +1395,8 @@ this. Before I can lose it quickly」#MTLed
 > CONTEXT: Map141/events/4/pages/0/378/Dialogue
 > CONTEXT: Map141/events/37/pages/0/379/Dialogue
 > CONTEXT: Map139/events/2/pages/0/395/Dialogue
-> CONTEXT: Map041/events/27/pages/0/391/Dialogue
 > CONTEXT: Map041/events/26/pages/0/396/Dialogue
+> CONTEXT: Map041/events/27/pages/0/391/Dialogue
 > CONTEXT: Map041/events/28/pages/0/400/Dialogue
 > CONTEXT: Map041/events/29/pages/0/400/Dialogue
 > CONTEXT: Map041/events/30/pages/0/400/Dialogue

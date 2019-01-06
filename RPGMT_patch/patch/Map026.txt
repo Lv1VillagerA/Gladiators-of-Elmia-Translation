@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 レストラン・アーロンハウス
 > CONTEXT: Map026/display_name/
@@ -317,7 +317,6 @@ There is no way I can report it yet)#MTLed
 パルムフィッシュを渡すif(s[73])
 > CONTEXT: Map026/events/3/pages/2/96/Choice/0
 > CONTEXT: Map026/events/3/pages/5/200/Choice/0
-> CONTEXT: Map026/events/3/pages/5/200/Choice/0
 Pass palm fishif(s[73])#MTLed
 > END STRING
 
@@ -330,7 +329,6 @@ Pass maduin fishif(s[71])#MTLed
 > BEGIN STRING
 レストニアオクトパスを渡すif(s[72])
 > CONTEXT: Map026/events/3/pages/2/96/Choice/2
-> CONTEXT: Map026/events/3/pages/5/200/Choice/1
 > CONTEXT: Map026/events/3/pages/5/200/Choice/1
 Pass restonian octopusif(s[72])#MTLed
 > END STRING
@@ -834,7 +832,6 @@ this dish, Please catch good sea fish」#MTLed
 > BEGIN STRING
 サンゴを渡すif(s[70])
 > CONTEXT: Map026/events/3/pages/2/467/Choice/0
-> CONTEXT: Map026/events/3/pages/5/200/Choice/2
 > CONTEXT: Map026/events/3/pages/5/200/Choice/2
 Pass coralsif(s[70])#MTLed
 > END STRING
@@ -1362,13 +1359,11 @@ eat anytime!」#MTLed
 > BEGIN STRING
 クラーケンの脚を渡すif(s[360])
 > CONTEXT: Map026/events/3/pages/5/374/Choice/0
-> CONTEXT: Map026/events/3/pages/5/374/Choice/0
 Pass Kraken's legsif(s[360])#MTLed
 > END STRING
 
 > BEGIN STRING
 渡せるものはない
-> CONTEXT: Map026/events/3/pages/5/374/Choice/1
 > CONTEXT: Map026/events/3/pages/5/374/Choice/1
 There is nothing to give#MTLed
 > END STRING

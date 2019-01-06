@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 エルミア王立学院　2階
 > CONTEXT: Map063/display_name/
@@ -643,27 +643,6 @@ A fat student. 「I wonder if I can train food ......」#MTLed
 > CONTEXT: Map063/events/28/pages/0/0/Dialogue
 \\N[12]. 「Everyone can take classes at school.
 What should I do?」#MTLed
-> END STRING
-
-> BEGIN STRING
-受ける
-> CONTEXT: Map063/events/28/pages/0/4/Choice/0
-> CONTEXT: Map063/events/30/pages/0/11/Choice/0
-> CONTEXT: Map050/events/3/pages/1/5/Choice/0
-> CONTEXT: Map050/events/3/pages/1/49/Choice/0
-> CONTEXT: Map050/events/3/pages/2/5/Choice/0
-> CONTEXT: Map045/events/30/pages/0/10/Choice/0
-> CONTEXT: Map045/events/31/pages/0/10/Choice/0
-> CONTEXT: Map050/events/3/pages/2/49/Choice/0
-> CONTEXT: Map050/events/3/pages/3/5/Choice/0
-> CONTEXT: Map050/events/3/pages/3/49/Choice/0
-> CONTEXT: Map050/events/3/pages/4/5/Choice/0
-> CONTEXT: Map050/events/3/pages/4/49/Choice/0
-> CONTEXT: Map025/events/3/pages/2/73/Choice/0
-> CONTEXT: Map025/events/3/pages/3/11/Choice/0
-> CONTEXT: Map147/events/2/pages/19/85/Choice/0
-> CONTEXT: Map147/events/2/pages/19/85/Choice/0
-receive#MTLed
 > END STRING
 
 > BEGIN STRING

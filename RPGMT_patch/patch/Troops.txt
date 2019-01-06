@@ -292,6 +292,8 @@ Militia member · Jane#MTLed
 > CONTEXT: Troops/153/pages/0/4/Dialogue
 > CONTEXT: Troops/154/pages/1/4/Dialogue
 > CONTEXT: Troops/155/pages/2/4/Dialogue
+> CONTEXT: Troops/157/pages/2/4/Dialogue
+> CONTEXT: Troops/158/pages/2/4/Dialogue
 > CONTEXT: Troops/161/pages/1/4/Dialogue
 > CONTEXT: Troops/162/pages/1/4/Dialogue
 > CONTEXT: Troops/163/pages/0/4/Dialogue
@@ -314,8 +316,6 @@ Militia member · Jane#MTLed
 > CONTEXT: Troops/180/pages/1/4/Dialogue
 > CONTEXT: Troops/181/pages/1/4/Dialogue
 > CONTEXT: Troops/182/pages/0/4/Dialogue
-> CONTEXT: Troops/157/pages/2/4/Dialogue
-> CONTEXT: Troops/158/pages/2/4/Dialogue
 > CONTEXT: Troops/183/pages/0/4/Dialogue
 > CONTEXT: Troops/184/pages/0/4/Dialogue
 > CONTEXT: Troops/185/pages/0/4/Dialogue
@@ -424,13 +424,13 @@ I wonder if he got into such a habit, hehe he ...」#MTLed
 > BEGIN STRING
 ベルベット
 > CONTEXT: Troops/37/name/
+> CONTEXT: Troops/201/name/
 > CONTEXT: Enemies/130/name/
 > CONTEXT: Enemies/131/name/
 > CONTEXT: Enemies/186/name/
 > CONTEXT: Enemies/187/name/
 > CONTEXT: Enemies/188/name/
 > CONTEXT: Enemies/189/name/
-> CONTEXT: Troops/201/name/
 Velvet#MTLed
 > END STRING
 
@@ -459,30 +459,32 @@ OP Shelly#MTLed
 > CONTEXT: Troops/38/pages/0/0/Dialogue
 > CONTEXT: Map152/events/24/pages/7/108/Dialogue
 > CONTEXT: Map141/events/4/pages/0/67/Dialogue
-> CONTEXT: Map141/events/37/pages/0/68/Dialogue
-> CONTEXT: Map152/events/24/pages/9/186/Dialogue
-> CONTEXT: Map139/events/2/pages/0/84/Dialogue
-> CONTEXT: Map125/events/9/pages/0/199/Dialogue
-> CONTEXT: Map152/events/24/pages/10/64/Dialogue
-> CONTEXT: Map125/events/9/pages/1/162/Dialogue
-> CONTEXT: Map152/events/24/pages/11/157/Dialogue
-> CONTEXT: Map113/events/9/pages/0/167/Dialogue
-> CONTEXT: Map057/events/25/pages/0/140/Dialogue
-> CONTEXT: Map041/events/27/pages/0/82/Dialogue
-> CONTEXT: Map043/events/99/pages/0/334/Dialogue
 > CONTEXT: Map149/events/38/pages/1/337/Dialogue
+> CONTEXT: Map152/events/24/pages/9/186/Dialogue
+> CONTEXT: Map141/events/37/pages/0/68/Dialogue
+> CONTEXT: Map139/events/2/pages/0/84/Dialogue
+> CONTEXT: Map152/events/24/pages/10/64/Dialogue
+> CONTEXT: Map125/events/9/pages/0/199/Dialogue
+> CONTEXT: Map152/events/24/pages/11/157/Dialogue
+> CONTEXT: Map125/events/9/pages/1/162/Dialogue
+> CONTEXT: Map113/events/9/pages/0/167/Dialogue
 > CONTEXT: Map042/events/2/pages/1/257/Dialogue
+> CONTEXT: Map057/events/25/pages/0/140/Dialogue
 > CONTEXT: Map043/events/24/pages/7/156/Dialogue
 > CONTEXT: Map041/events/26/pages/0/87/Dialogue
+> CONTEXT: Map041/events/27/pages/0/82/Dialogue
 > CONTEXT: Map041/events/28/pages/0/89/Dialogue
 > CONTEXT: Map041/events/29/pages/0/89/Dialogue
 > CONTEXT: Map041/events/30/pages/0/89/Dialogue
-> CONTEXT: Map025/events/267/pages/1/434/Dialogue
 > CONTEXT: Map043/events/24/pages/10/186/Dialogue
+> CONTEXT: Map025/events/267/pages/1/434/Dialogue
 > CONTEXT: Map043/events/24/pages/11/64/Dialogue
 > CONTEXT: Map043/events/24/pages/12/158/Dialogue
+> CONTEXT: Map043/events/99/pages/0/334/Dialogue
 \\N[12]. 「Dammit!」#MTLed
 > CONTEXT: Commonevents/205/1/Dialogue
+> CONTEXT: Commonevents/222/5/Dialogue
+> CONTEXT: Commonevents/225/2/Dialogue
 > CONTEXT: Commonevents/228/4/Dialogue
 > CONTEXT: Commonevents/238/1/Dialogue
 > CONTEXT: Commonevents/241/1/Dialogue
@@ -491,8 +493,6 @@ OP Shelly#MTLed
 > CONTEXT: Commonevents/249/1/Dialogue
 > CONTEXT: Commonevents/250/4/Dialogue
 > CONTEXT: Commonevents/251/2/Dialogue
-> CONTEXT: Commonevents/222/5/Dialogue
-> CONTEXT: Commonevents/225/2/Dialogue
 \\N[12]. 「Dammit!」#MTLed
 > END STRING
 
@@ -627,17 +627,72 @@ Lzet#MTLed
 > END STRING
 
 > BEGIN STRING
+ルゼット
+「あら、私の体術が効いちゃっているみたいね。
+もっと頑張って、\\N[12]君。
+剣士が主婦に負けちゃうなんて、恥ずかしいわよ？」
+> CONTEXT: Troops/41/pages/2/0/Dialogue
+Lzet. 「Oh, my body skill seems to work. Work harder,
+\\N[12] You. It's embarrassing that a swordsmen will
+lose to a housewife?」#MTLed
+> END STRING
+
+> BEGIN STRING
 リネッタ
 > CONTEXT: Troops/42/name/
+> CONTEXT: Troops/198/name/
 > CONTEXT: Enemies/42/name/
 > CONTEXT: Enemies/125/name/
 > CONTEXT: Enemies/126/name/
 > CONTEXT: Enemies/127/name/
 > CONTEXT: Enemies/128/name/
-> CONTEXT: Troops/198/name/
 Linetta#MTLed
 > CONTEXT: Map023/events/66/pages/0/0/Dialogue
 Linetta#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「おやおやぁ？
+どうして股間が大きくなっちゃってるのかなぁ、ボク？」
+> CONTEXT: Troops/42/pages/2/4/Dialogue
+> CONTEXT: Troops/198/pages/2/4/Dialogue
+Linetta. 「Hey? I wonder why the crotch is getting bigger.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ち、違……こ、これは、その」
+> CONTEXT: Troops/42/pages/2/8/Dialogue
+> CONTEXT: Troops/55/pages/2/10/Dialogue
+> CONTEXT: Troops/61/pages/2/9/Dialogue
+> CONTEXT: Troops/183/pages/2/9/Dialogue
+> CONTEXT: Troops/198/pages/2/8/Dialogue
+> CONTEXT: Troops/199/pages/2/9/Dialogue
+> CONTEXT: Troops/200/pages/2/10/Dialogue
+\\N[12]. 「Difference ...... Here, this」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「おねーさんの美貌にくらくらきちゃったかな？
+ふふっ、これは勝負は見えちゃったかなー
+えっちな男の子は、魔法で華麗にやっつけてあげる♪」
+> CONTEXT: Troops/42/pages/2/11/Dialogue
+> CONTEXT: Troops/198/pages/2/11/Dialogue
+Linetta. 「Have you found out on your beauty?
+Huhuh, I wonder if this got a match. Hachi boy will give it
+magical and brilliantly♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタ
+「うっ、なかなかやるじゃない。
+でも、お姉さんもまだまだ負けないからねっ！」
+> CONTEXT: Troops/42/pages/3/0/Dialogue
+> CONTEXT: Troops/198/pages/3/0/Dialogue
+Linetta. 「Oh, it's pretty easy. But neither sister nor
+loses!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -650,6 +705,16 @@ Bad girl#MTLed
 ソードアマゾネス
 > CONTEXT: Troops/45/name/
 Sword amazon#MTLed
+> END STRING
+
+> BEGIN STRING
+ソードシーフ
+「ふっ、剣士のくせにその程度の腕前なのかい？
+このまま、あたしの前に這いつくばらせてやるよ！」
+> CONTEXT: Troops/45/pages/2/0/Dialogue
+> CONTEXT: Troops/194/pages/2/0/Dialogue
+sword thief. 「Huh, is not it a swordsman's skill that
+skill? As it is, I will crawl in front of me!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -692,6 +757,18 @@ Qualifying 2nd game#MTLed
 > END STRING
 
 > BEGIN STRING
+マリーカ
+「ふっ、やはり私の聖なる剣の前では
+なすすべがないようだな！
+かわいそうだが、お前はこの私に敗れる運命なのだ！」
+> CONTEXT: Troops/51/pages/2/0/Dialogue
+> CONTEXT: Troops/205/pages/2/0/Dialogue
+Mallik. 「After all, in front of my holy sword
+It looks like there is nothing to do! Sorry, you are
+destined to lose to me!」#MTLed
+> END STRING
+
+> BEGIN STRING
 予選第三試合リネッタ
 > CONTEXT: Troops/52/name/
 Qualifying third game Linetta#MTLed
@@ -713,6 +790,29 @@ Preliminary match final game Jane#MTLed
 大会ミリーナ
 > CONTEXT: Troops/55/name/
 Tournament Mileena#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「あ、キミ、勃起しちゃってるじゃない。
+私を前にしてえっちな気持ちになっちゃったんだ、
+まあ、無理もないけどさぁ」
+> CONTEXT: Troops/55/pages/2/5/Dialogue
+> CONTEXT: Troops/200/pages/2/5/Dialogue
+Mileena. 「Oh, you're erecting. I got a feeling that I was
+in front of me, Well, there is no impossible, but」#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナ
+「そんな状態で、私の大剣を避けられるかな？
+戦いの最中にえっちなことを考えちゃったこと、
+たっぷり後悔させてあげるっ！」
+> CONTEXT: Troops/55/pages/2/13/Dialogue
+> CONTEXT: Troops/200/pages/2/13/Dialogue
+Mileena. 「In such a situation, can you avoid my big sword?
+I thought about something stupid during the battle,
+I will regret plenty!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -779,11 +879,20 @@ Well then, let's get it started from here」#MTLed
 「う、ううっ……」
 > CONTEXT: Troops/57/pages/4/5/Dialogue
 > CONTEXT: Map152/events/24/pages/6/697/Dialogue
+> CONTEXT: Map149/events/38/pages/0/32/Dialogue
+> CONTEXT: Map147/events/2/pages/8/163/Dialogue
+> CONTEXT: Map149/events/38/pages/1/149/Dialogue
+> CONTEXT: Map149/events/38/pages/1/205/Dialogue
+> CONTEXT: Map147/events/2/pages/9/145/Dialogue
+> CONTEXT: Map147/events/2/pages/10/139/Dialogue
+> CONTEXT: Map149/events/38/pages/1/426/Dialogue
 > CONTEXT: Map141/events/4/pages/0/252/Dialogue
 > CONTEXT: Map152/events/24/pages/9/198/Dialogue
+> CONTEXT: Map149/events/38/pages/2/130/Dialogue
 > CONTEXT: Map141/events/37/pages/0/253/Dialogue
 > CONTEXT: Map152/events/24/pages/9/767/Dialogue
 > CONTEXT: Map139/events/2/pages/0/269/Dialogue
+> CONTEXT: Map147/events/24/pages/0/527/Dialogue
 > CONTEXT: Map089/events/5/pages/0/144/Dialogue
 > CONTEXT: Map089/events/12/pages/0/144/Dialogue
 > CONTEXT: Map089/events/14/pages/0/144/Dialogue
@@ -792,35 +901,26 @@ Well then, let's get it started from here」#MTLed
 > CONTEXT: Map089/events/17/pages/0/144/Dialogue
 > CONTEXT: Map077/events/22/pages/0/144/Dialogue
 > CONTEXT: Map077/events/23/pages/0/144/Dialogue
-> CONTEXT: Map043/events/24/pages/6/698/Dialogue
-> CONTEXT: Map041/events/27/pages/0/265/Dialogue
-> CONTEXT: Map025/events/267/pages/0/47/Dialogue
-> CONTEXT: Map041/events/56/pages/0/228/Dialogue
-> CONTEXT: Map041/events/56/pages/0/281/Dialogue
-> CONTEXT: Map041/events/56/pages/0/523/Dialogue
-> CONTEXT: Map149/events/38/pages/0/32/Dialogue
-> CONTEXT: Map147/events/2/pages/8/163/Dialogue
-> CONTEXT: Map149/events/38/pages/1/149/Dialogue
-> CONTEXT: Map149/events/38/pages/1/205/Dialogue
-> CONTEXT: Map147/events/2/pages/9/145/Dialogue
-> CONTEXT: Map147/events/2/pages/10/139/Dialogue
-> CONTEXT: Map149/events/38/pages/1/426/Dialogue
-> CONTEXT: Map149/events/38/pages/2/130/Dialogue
-> CONTEXT: Map147/events/24/pages/0/527/Dialogue
 > CONTEXT: Map041/events/5/pages/5/627/Dialogue
 > CONTEXT: Map041/events/5/pages/5/869/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1258/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1309/Dialogue
+> CONTEXT: Map043/events/24/pages/6/698/Dialogue
 > CONTEXT: Map041/events/26/pages/0/270/Dialogue
+> CONTEXT: Map041/events/27/pages/0/265/Dialogue
 > CONTEXT: Map041/events/28/pages/0/274/Dialogue
 > CONTEXT: Map041/events/29/pages/0/274/Dialogue
+> CONTEXT: Map025/events/267/pages/0/47/Dialogue
 > CONTEXT: Map025/events/267/pages/1/178/Dialogue
-> CONTEXT: Map025/events/267/pages/1/241/Dialogue
-> CONTEXT: Map025/events/267/pages/1/541/Dialogue
 > CONTEXT: Map041/events/30/pages/0/274/Dialogue
+> CONTEXT: Map025/events/267/pages/1/241/Dialogue
 > CONTEXT: Map043/events/24/pages/10/215/Dialogue
+> CONTEXT: Map025/events/267/pages/1/541/Dialogue
 > CONTEXT: Map025/events/267/pages/2/160/Dialogue
+> CONTEXT: Map041/events/56/pages/0/228/Dialogue
+> CONTEXT: Map041/events/56/pages/0/281/Dialogue
 > CONTEXT: Map043/events/24/pages/10/784/Dialogue
+> CONTEXT: Map041/events/56/pages/0/523/Dialogue
 \\N[12]. 「Uu ... ...」#MTLed
 > CONTEXT: Commonevents/14/7/Dialogue
 > CONTEXT: Commonevents/39/16/Dialogue
@@ -843,6 +943,7 @@ Well then, let's get it started from here」#MTLed
 > CONTEXT: Commonevents/160/7/Dialogue
 > CONTEXT: Commonevents/166/16/Dialogue
 > CONTEXT: Commonevents/166/63/Dialogue
+> CONTEXT: Commonevents/166/135/Dialogue
 > CONTEXT: Commonevents/172/62/Dialogue
 > CONTEXT: Commonevents/179/54/Dialogue
 > CONTEXT: Commonevents/181/7/Dialogue
@@ -863,21 +964,20 @@ Well then, let's get it started from here」#MTLed
 > CONTEXT: Commonevents/206/17/Dialogue
 > CONTEXT: Commonevents/206/102/Dialogue
 > CONTEXT: Commonevents/226/431/Dialogue
-> CONTEXT: Commonevents/246/191/Dialogue
-> CONTEXT: Commonevents/248/26/Dialogue
-> CONTEXT: Commonevents/249/80/Dialogue
-> CONTEXT: Commonevents/280/7/Dialogue
-> CONTEXT: Commonevents/283/7/Dialogue
-> CONTEXT: Commonevents/287/7/Dialogue
-> CONTEXT: Commonevents/293/7/Dialogue
-> CONTEXT: Commonevents/166/135/Dialogue
 > CONTEXT: Commonevents/242/269/Dialogue
 > CONTEXT: Commonevents/242/508/Dialogue
 > CONTEXT: Commonevents/242/902/Dialogue
 > CONTEXT: Commonevents/242/953/Dialogue
+> CONTEXT: Commonevents/246/191/Dialogue
+> CONTEXT: Commonevents/248/26/Dialogue
+> CONTEXT: Commonevents/249/80/Dialogue
 > CONTEXT: Commonevents/250/30/Dialogue
 > CONTEXT: Commonevents/250/599/Dialogue
+> CONTEXT: Commonevents/280/7/Dialogue
+> CONTEXT: Commonevents/283/7/Dialogue
 > CONTEXT: Commonevents/285/25/Dialogue
+> CONTEXT: Commonevents/287/7/Dialogue
+> CONTEXT: Commonevents/293/7/Dialogue
 > CONTEXT: Commonevents/298/7/Dialogue
 > CONTEXT: Commonevents/299/7/Dialogue
 > CONTEXT: Commonevents/312/25/Dialogue
@@ -903,9 +1003,55 @@ Meeting Purim#MTLed
 > END STRING
 
 > BEGIN STRING
+プリム
+「効いてるのかな？
+このまま勝たせてもらうね、おにいさんっ！」
+> CONTEXT: Troops/58/pages/3/0/Dialogue
+> CONTEXT: Troops/191/pages/2/0/Dialogue
+Purim. 「Is it working? I will let you win as you are, okay!
+」#MTLed
+> END STRING
+
+> BEGIN STRING
 大会ディアーナノーマル
 > CONTEXT: Troops/59/name/
 Tournament Diana normal#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ん？　どうして股間が大きくなっているのかしら？
+私は何も性的なことはしていないのに」
+> CONTEXT: Troops/59/pages/2/4/Dialogue
+Diana. 「Hmm? Why is the crotch growing bigger?
+I have not done anything sexual」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うっ……いや、これはっ」
+> CONTEXT: Troops/59/pages/2/8/Dialogue
+\\N[12]. 「Uh ... no, this」#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナ
+「ふふっ、この私の美貌を前にして
+興奮してしまったのかしら？
+ま、庶民が私を前にしては、無理もないことだけど。
+> CONTEXT: Troops/59/pages/2/11/Dialogue
+Diana. 「Huh, before this beautiful face of me
+Did I get excited? Well, it is impossible for ordinary
+people to see me.#MTLed
+> END STRING
+
+> BEGIN STRING
+そういうことなら、
+この私の高貴な美しさを
+もっとしっかり目に焼き付けておくといいわ」
+> CONTEXT: Troops/59/pages/2/16/Dialogue
+In that case, This my noble beauty. You'd better burn your
+eyes more carefully」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -930,19 +1076,6 @@ Purim 2 nd round#MTLed
 Purim. 「Oh, how are you getting bigger your groin?
 No way, during the game with me. Are you thinking about
 that ... ....?」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ち、違……こ、これは、その」
-> CONTEXT: Troops/61/pages/2/9/Dialogue
-> CONTEXT: Troops/42/pages/2/8/Dialogue
-> CONTEXT: Troops/55/pages/2/10/Dialogue
-> CONTEXT: Troops/183/pages/2/9/Dialogue
-> CONTEXT: Troops/198/pages/2/8/Dialogue
-> CONTEXT: Troops/199/pages/2/9/Dialogue
-> CONTEXT: Troops/200/pages/2/10/Dialogue
-\\N[12]. 「Difference ...... Here, this」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -982,6 +1115,20 @@ How is the feeling that a woman is being chased after?」#MTLed
 大会シェリー
 > CONTEXT: Troops/64/name/
 Tournament Sherry#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリー
+「ふふっ、だいぶ弱ってきたみたいだね。
+やっぱり、私の剣をさばくことはできないみたいだし
+このまま、また勝たせてもらうからねっ！」
+> CONTEXT: Troops/64/pages/2/0/Dialogue
+> CONTEXT: Troops/65/pages/2/0/Dialogue
+> CONTEXT: Troops/202/pages/2/0/Dialogue
+> CONTEXT: Troops/203/pages/2/0/Dialogue
+Sherry. 「He seems to have weakened a lot.
+After all it seems I can not judge my sword
+This way, I will win again!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1115,10 +1262,11 @@ Ice Spirit#MTLed
 > BEGIN STRING
 サハギン
 > CONTEXT: Troops/80/name/
-> CONTEXT: Map023/events/40/pages/0/0/Dialogue
 > CONTEXT: Enemies/22/name/
 > CONTEXT: Enemies/89/name/
-Sahagin#lvl1
+Sahuagin#MTLed
+> CONTEXT: Map023/events/40/pages/0/0/Dialogue
+Sahuagin#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1235,14 +1383,26 @@ Green slime 2#MTLed
 > BEGIN STRING
 アマゾネス
 > CONTEXT: Troops/96/name/
-> CONTEXT: Enemies/57/name/
-Amazon#MTLed
-> CONTEXT: Map023/events/54/pages/0/0/Dialogue
 > CONTEXT: Troops/195/name/
-> CONTEXT: Map065/events/7/pages/1/40/Choice/1
-> CONTEXT: Map065/events/7/pages/1/40/Choice/1
+> CONTEXT: Enemies/57/name/
 > CONTEXT: Enemies/214/name/
+Amazon#MTLed
+> CONTEXT: Map065/events/7/pages/1/40/Choice/1
 amazon#MTLed
+> CONTEXT: Map023/events/54/pages/0/0/Dialogue
+amazon#MTLed
+> END STRING
+
+> BEGIN STRING
+アマゾネス
+「ふっ、パワーの差が歴然だな。
+このまま女の腕にねじ伏せられてみるか？
+男ならば、少しは意地を見せてみろ」
+> CONTEXT: Troops/96/pages/2/0/Dialogue
+> CONTEXT: Troops/195/pages/2/0/Dialogue
+amazon. 「Huh, the difference in power is clear.
+Would you try to throw in the arms of a woman like this?
+If it's a man, let me see a little bit」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1266,12 +1426,12 @@ Werewolf#lvl1
 > BEGIN STRING
 イビルウィッチ
 > CONTEXT: Troops/99/name/
-> CONTEXT: Enemies/55/name/
 > CONTEXT: Troops/196/name/
-> CONTEXT: Map065/events/7/pages/1/40/Choice/2
-> CONTEXT: Map065/events/7/pages/1/40/Choice/2
+> CONTEXT: Enemies/55/name/
 > CONTEXT: Enemies/215/name/
 Evil witch#MTLed
+> CONTEXT: Map065/events/7/pages/1/40/Choice/2
+evil witch#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1643,149 +1803,183 @@ Purim? 「Now, a lot ... ... Let's go with me ... ....?」#MTLed
 > BEGIN STRING
 はい
 > CONTEXT: Troops/121/pages/3/5/Choice/0
-> CONTEXT: Map148/events/1/pages/0/3/Choice/0
 > CONTEXT: Troops/122/pages/3/5/Choice/0
+> CONTEXT: Map148/events/1/pages/0/3/Choice/0
 > CONTEXT: Troops/123/pages/3/5/Choice/0
 > CONTEXT: Troops/124/pages/3/5/Choice/0
 > CONTEXT: Map141/events/1/pages/0/3/Choice/0
 > CONTEXT: Map141/events/3/pages/1/3/Choice/0
 > CONTEXT: Map143/events/54/pages/0/3/Choice/0
+> CONTEXT: Map149/events/45/pages/0/59/Choice/0
+> CONTEXT: Map149/events/46/pages/0/8/Choice/0
+> CONTEXT: Map149/events/47/pages/0/12/Choice/0
 > CONTEXT: Map139/events/1/pages/1/3/Choice/0
+> CONTEXT: Map147/events/3/pages/0/149/Choice/0
+> CONTEXT: Map152/events/25/pages/0/2/Choice/0
+> CONTEXT: Map147/events/3/pages/0/318/Choice/0
+> CONTEXT: Map147/events/17/pages/0/171/Choice/0
+> CONTEXT: Map147/events/17/pages/0/378/Choice/0
+> CONTEXT: Map147/events/17/pages/0/525/Choice/0
+> CONTEXT: Map147/events/24/pages/0/144/Choice/0
+> CONTEXT: Map147/events/24/pages/0/398/Choice/0
+> CONTEXT: Map147/events/24/pages/0/588/Choice/0
+> CONTEXT: Map147/events/24/pages/0/738/Choice/0
 > CONTEXT: Map101/events/12/pages/0/4/Choice/0
 > CONTEXT: Map101/events/13/pages/0/4/Choice/0
 > CONTEXT: Map097/events/4/pages/0/2/Choice/0
-> CONTEXT: Map097/events/5/pages/0/2/Choice/0
 > CONTEXT: Map096/events/8/pages/0/2/Choice/0
-> CONTEXT: Map152/events/25/pages/0/2/Choice/0
+> CONTEXT: Map097/events/5/pages/0/2/Choice/0
 > CONTEXT: Map090/events/3/pages/1/8/Choice/0
 > CONTEXT: Map079/events/3/pages/0/5/Choice/0
 > CONTEXT: Map075/events/4/pages/0/2/Choice/0
-> CONTEXT: Map076/events/15/pages/0/19/Choice/0
-> CONTEXT: Map076/events/19/pages/0/19/Choice/0
 > CONTEXT: Map071/events/5/pages/1/3/Choice/0
 > CONTEXT: Map070/events/2/pages/1/3/Choice/0
+> CONTEXT: Map076/events/15/pages/0/19/Choice/0
 > CONTEXT: Map073/events/14/pages/0/19/Choice/0
-> CONTEXT: Map069/events/15/pages/1/3/Choice/0
 > CONTEXT: Map071/events/9/pages/0/6/Choice/0
 > CONTEXT: Map070/events/4/pages/1/3/Choice/0
-> CONTEXT: Map069/events/16/pages/1/3/Choice/0
 > CONTEXT: Map071/events/11/pages/0/3/Choice/0
-> CONTEXT: Map069/events/17/pages/0/19/Choice/0
 > CONTEXT: Map071/events/12/pages/0/3/Choice/0
 > CONTEXT: Map070/events/8/pages/0/3/Choice/0
 > CONTEXT: Map073/events/15/pages/0/19/Choice/0
+> CONTEXT: Map076/events/19/pages/0/19/Choice/0
 > CONTEXT: Map071/events/13/pages/0/3/Choice/0
 > CONTEXT: Map070/events/23/pages/0/3/Choice/0
 > CONTEXT: Map070/events/24/pages/0/3/Choice/0
 > CONTEXT: Map070/events/25/pages/0/3/Choice/0
 > CONTEXT: Map071/events/16/pages/0/19/Choice/0
+> CONTEXT: Map069/events/15/pages/1/3/Choice/0
+> CONTEXT: Map069/events/16/pages/1/3/Choice/0
 > CONTEXT: Map071/events/17/pages/0/19/Choice/0
+> CONTEXT: Map069/events/17/pages/0/19/Choice/0
 > CONTEXT: Map074/events/43/pages/0/3/Choice/0
 > CONTEXT: Map069/events/24/pages/0/19/Choice/0
-> CONTEXT: Map069/events/29/pages/0/19/Choice/0
-> CONTEXT: Map069/events/31/pages/0/3/Choice/0
-> CONTEXT: Map069/events/32/pages/0/3/Choice/0
-> CONTEXT: Map064/events/14/pages/0/5/Choice/0
+> CONTEXT: Map065/events/7/pages/1/46/Choice/0
 > CONTEXT: Map070/events/31/pages/0/19/Choice/0
-> CONTEXT: Map064/events/16/pages/0/2/Choice/0
-> CONTEXT: Map059/events/3/pages/0/9/Choice/0
-> CONTEXT: Map064/events/17/pages/0/13/Choice/0
+> CONTEXT: Map065/events/7/pages/1/75/Choice/0
+> CONTEXT: Map065/events/7/pages/1/104/Choice/0
 > CONTEXT: Map070/events/32/pages/0/19/Choice/0
+> CONTEXT: Map065/events/7/pages/1/133/Choice/0
+> CONTEXT: Map069/events/29/pages/0/19/Choice/0
+> CONTEXT: Map065/events/7/pages/1/164/Choice/0
+> CONTEXT: Map065/events/7/pages/1/193/Choice/0
+> CONTEXT: Map065/events/7/pages/1/222/Choice/0
+> CONTEXT: Map069/events/31/pages/0/3/Choice/0
+> CONTEXT: Map065/events/7/pages/1/251/Choice/0
+> CONTEXT: Map069/events/32/pages/0/3/Choice/0
+> CONTEXT: Map065/events/7/pages/1/282/Choice/0
+> CONTEXT: Map064/events/14/pages/0/5/Choice/0
+> CONTEXT: Map065/events/7/pages/1/311/Choice/0
+> CONTEXT: Map064/events/16/pages/0/2/Choice/0
+> CONTEXT: Map065/events/7/pages/1/342/Choice/0
+> CONTEXT: Map065/events/7/pages/1/371/Choice/0
+> CONTEXT: Map064/events/17/pages/0/13/Choice/0
+> CONTEXT: Map065/events/7/pages/1/400/Choice/0
+> CONTEXT: Map059/events/3/pages/0/9/Choice/0
 > CONTEXT: Map064/events/17/pages/0/74/Choice/0
+> CONTEXT: Map065/events/7/pages/1/429/Choice/0
+> CONTEXT: Map065/events/7/pages/1/496/Choice/0
+> CONTEXT: Map065/events/7/pages/1/532/Choice/0
+> CONTEXT: Map065/events/7/pages/1/563/Choice/0
 > CONTEXT: Map044/events/12/pages/0/3/Choice/0
 > CONTEXT: Map044/events/12/pages/2/3/Choice/0
 > CONTEXT: Map037/events/3/pages/1/49/Choice/0
 > CONTEXT: Map037/events/3/pages/2/3/Choice/0
 > CONTEXT: Map036/events/2/pages/0/2/Choice/0
+> CONTEXT: Map050/events/4/pages/5/11/Choice/0
 > CONTEXT: Map036/events/2/pages/1/2/Choice/0
 > CONTEXT: Map036/events/2/pages/3/2/Choice/0
 > CONTEXT: Map035/events/1/pages/9/4/Choice/0
 > CONTEXT: Map036/events/2/pages/4/2/Choice/0
 > CONTEXT: Map036/events/2/pages/5/2/Choice/0
 > CONTEXT: Map036/events/2/pages/6/2/Choice/0
+> CONTEXT: Map034/events/4/pages/0/3/Choice/0
+> CONTEXT: Map033/events/4/pages/1/4/Choice/0
 > CONTEXT: Map036/events/2/pages/7/2/Choice/0
 > CONTEXT: Map035/events/4/pages/2/3/Choice/0
-> CONTEXT: Map037/events/4/pages/0/17/Choice/0
+> CONTEXT: Map033/events/4/pages/2/14/Choice/0
 > CONTEXT: Map036/events/2/pages/8/2/Choice/0
+> CONTEXT: Map037/events/4/pages/0/17/Choice/0
 > CONTEXT: Map037/events/5/pages/0/16/Choice/0
 > CONTEXT: Map036/events/2/pages/9/2/Choice/0
+> CONTEXT: Map033/events/4/pages/3/4/Choice/0
 > CONTEXT: Map037/events/6/pages/0/15/Choice/0
-> CONTEXT: Map050/events/4/pages/5/11/Choice/0
 > CONTEXT: Map037/events/15/pages/0/16/Choice/0
-> CONTEXT: Map037/events/16/pages/0/15/Choice/0
 > CONTEXT: Map036/events/2/pages/10/2/Choice/0
 > CONTEXT: Map036/events/2/pages/11/2/Choice/0
+> CONTEXT: Map037/events/16/pages/0/15/Choice/0
+> CONTEXT: Map034/events/4/pages/8/3/Choice/0
+> CONTEXT: Map036/events/2/pages/12/2/Choice/0
+> CONTEXT: Map034/events/4/pages/9/3/Choice/0
 > CONTEXT: Map037/events/17/pages/0/15/Choice/0
+> CONTEXT: Map034/events/4/pages/10/3/Choice/0
 > CONTEXT: Map037/events/18/pages/0/17/Choice/0
-> CONTEXT: Map034/events/4/pages/0/3/Choice/0
 > CONTEXT: Map037/events/19/pages/0/15/Choice/0
 > CONTEXT: Map037/events/20/pages/0/16/Choice/0
 > CONTEXT: Map037/events/22/pages/0/17/Choice/0
 > CONTEXT: Map037/events/23/pages/0/14/Choice/0
 > CONTEXT: Map037/events/24/pages/0/15/Choice/0
 > CONTEXT: Map037/events/25/pages/0/15/Choice/0
-> CONTEXT: Map034/events/4/pages/8/3/Choice/0
-> CONTEXT: Map034/events/4/pages/9/3/Choice/0
-> CONTEXT: Map034/events/4/pages/10/3/Choice/0
 > CONTEXT: Map025/events/3/pages/2/5/Choice/0
+> CONTEXT: Map025/events/3/pages/6/6/Choice/0
 > CONTEXT: Map023/events/7/pages/0/2/Choice/0
 > CONTEXT: Map023/events/12/pages/0/2/Choice/0
 > CONTEXT: Map023/events/21/pages/0/44/Choice/0
 > CONTEXT: Map023/events/23/pages/0/2/Choice/0
+> CONTEXT: Map025/events/42/pages/2/3/Choice/0
 > CONTEXT: Map023/events/25/pages/0/2/Choice/0
 > CONTEXT: Map023/events/27/pages/0/2/Choice/0
 > CONTEXT: Map023/events/33/pages/0/2/Choice/0
 > CONTEXT: Map023/events/34/pages/0/2/Choice/0
+> CONTEXT: Map025/events/42/pages/5/9/Choice/0
 > CONTEXT: Map023/events/35/pages/0/2/Choice/0
 > CONTEXT: Map023/events/36/pages/0/3/Choice/0
 > CONTEXT: Map023/events/37/pages/0/2/Choice/0
 > CONTEXT: Map023/events/38/pages/0/2/Choice/0
 > CONTEXT: Map023/events/39/pages/0/2/Choice/0
 > CONTEXT: Map023/events/40/pages/0/2/Choice/0
-> CONTEXT: Map025/events/42/pages/2/3/Choice/0
 > CONTEXT: Map023/events/41/pages/0/2/Choice/0
 > CONTEXT: Map023/events/42/pages/0/2/Choice/0
 > CONTEXT: Map020/events/18/pages/0/6/Choice/0
-> CONTEXT: Map025/events/42/pages/5/9/Choice/0
 > CONTEXT: Map023/events/44/pages/0/2/Choice/0
 > CONTEXT: Map023/events/45/pages/0/2/Choice/0
+> CONTEXT: Map018/events/8/pages/0/4/Choice/0
 > CONTEXT: Map023/events/46/pages/0/3/Choice/0
 > CONTEXT: Map023/events/47/pages/0/2/Choice/0
+> CONTEXT: Map019/events/19/pages/0/247/Choice/0
 > CONTEXT: Map023/events/48/pages/0/2/Choice/0
 > CONTEXT: Map023/events/49/pages/0/2/Choice/0
-> CONTEXT: Map018/events/8/pages/0/4/Choice/0
-> CONTEXT: Map019/events/19/pages/0/247/Choice/0
 > CONTEXT: Map023/events/52/pages/0/2/Choice/0
-> CONTEXT: Map016/events/5/pages/0/2/Choice/0
 > CONTEXT: Map023/events/53/pages/0/2/Choice/0
+> CONTEXT: Map018/events/12/pages/0/3/Choice/0
+> CONTEXT: Map016/events/5/pages/0/2/Choice/0
 > CONTEXT: Map023/events/54/pages/0/2/Choice/0
 > CONTEXT: Map023/events/57/pages/0/3/Choice/0
+> CONTEXT: Map018/events/13/pages/0/3/Choice/0
 > CONTEXT: Map023/events/57/pages/0/18/Choice/0
+> CONTEXT: Map019/events/26/pages/0/301/Choice/0
 > CONTEXT: Map023/events/58/pages/0/2/Choice/0
-> CONTEXT: Map018/events/12/pages/0/3/Choice/0
+> CONTEXT: Map018/events/14/pages/0/4/Choice/0
 > CONTEXT: Map023/events/60/pages/0/2/Choice/0
 > CONTEXT: Map023/events/62/pages/0/2/Choice/0
-> CONTEXT: Map018/events/13/pages/0/3/Choice/0
-> CONTEXT: Map019/events/26/pages/0/301/Choice/0
 > CONTEXT: Map023/events/65/pages/0/2/Choice/0
 > CONTEXT: Map023/events/66/pages/0/2/Choice/0
-> CONTEXT: Map018/events/14/pages/0/4/Choice/0
 > CONTEXT: Map023/events/67/pages/0/2/Choice/0
 > CONTEXT: Map023/events/68/pages/0/2/Choice/0
+> CONTEXT: Map010/events/1/pages/0/3/Choice/0
 > CONTEXT: Map023/events/69/pages/0/2/Choice/0
+> CONTEXT: Map010/events/2/pages/0/5/Choice/0
 > CONTEXT: Map023/events/70/pages/0/2/Choice/0
 > CONTEXT: Map023/events/71/pages/0/2/Choice/0
-> CONTEXT: Map010/events/1/pages/0/3/Choice/0
 > CONTEXT: Map023/events/72/pages/0/2/Choice/0
+> CONTEXT: Map008/events/3/pages/0/3/Choice/0
 > CONTEXT: Map023/events/73/pages/0/2/Choice/0
-> CONTEXT: Map010/events/2/pages/0/5/Choice/0
+> CONTEXT: Map007/events/5/pages/0/2/Choice/0
+> CONTEXT: Map008/events/4/pages/0/3/Choice/0
 > CONTEXT: Map023/events/74/pages/0/2/Choice/0
 > CONTEXT: Map023/events/75/pages/0/2/Choice/0
-> CONTEXT: Map008/events/3/pages/0/3/Choice/0
 > CONTEXT: Map023/events/76/pages/0/2/Choice/0
-> CONTEXT: Map008/events/4/pages/0/3/Choice/0
 > CONTEXT: Map023/events/81/pages/0/2/Choice/0
-> CONTEXT: Map007/events/5/pages/0/2/Choice/0
 > CONTEXT: Map023/events/81/pages/0/10/Choice/0
 > CONTEXT: Map023/events/82/pages/0/2/Choice/0
 > CONTEXT: Map023/events/83/pages/0/2/Choice/0
@@ -1794,9 +1988,12 @@ Purim? 「Now, a lot ... ... Let's go with me ... ....?」#MTLed
 > CONTEXT: Map023/events/86/pages/0/4/Choice/0
 > CONTEXT: Map003/events/6/pages/0/6/Choice/0
 > CONTEXT: Map023/events/88/pages/0/2/Choice/0
-> CONTEXT: Map023/events/89/pages/0/2/Choice/0
 > CONTEXT: Map001/events/1/pages/0/2/Choice/0
+> CONTEXT: Map023/events/89/pages/0/2/Choice/0
+> CONTEXT: Map023/events/90/pages/0/2/Choice/0
+> CONTEXT: Map023/events/91/pages/0/2/Choice/0
 > CONTEXT: Map001/events/3/pages/0/3/Choice/0
+> CONTEXT: Map023/events/92/pages/0/4/Choice/0
 > CONTEXT: Map002/events/20/pages/0/4/Choice/0
 > CONTEXT: Map002/events/20/pages/1/5/Choice/0
 > CONTEXT: Map002/events/20/pages/2/4/Choice/0
@@ -1804,8 +2001,8 @@ Purim? 「Now, a lot ... ... Let's go with me ... ....?」#MTLed
 > CONTEXT: Commonevents/6/78/Choice/0
 > CONTEXT: Commonevents/7/58/Choice/0
 > CONTEXT: Commonevents/9/89/Choice/0
-> CONTEXT: Map043/events/25/pages/0/2/Choice/0
 > CONTEXT: Commonevents/10/88/Choice/0
+> CONTEXT: Map043/events/25/pages/0/2/Choice/0
 > CONTEXT: Commonevents/65/58/Choice/0
 > CONTEXT: Commonevents/97/5/Choice/0
 > CONTEXT: Commonevents/98/5/Choice/0
@@ -1838,136 +2035,91 @@ Purim? 「Now, a lot ... ... Let's go with me ... ....?」#MTLed
 > CONTEXT: Commonevents/219/59/Choice/0
 > CONTEXT: Commonevents/227/90/Choice/0
 > CONTEXT: Commonevents/277/37/Choice/0
-> CONTEXT: Map149/events/45/pages/0/59/Choice/0
-> CONTEXT: Map149/events/45/pages/0/59/Choice/0
-> CONTEXT: Map149/events/46/pages/0/8/Choice/0
-> CONTEXT: Map149/events/46/pages/0/8/Choice/0
-> CONTEXT: Map149/events/47/pages/0/12/Choice/0
-> CONTEXT: Map149/events/47/pages/0/12/Choice/0
-> CONTEXT: Map147/events/3/pages/0/149/Choice/0
-> CONTEXT: Map147/events/3/pages/0/149/Choice/0
-> CONTEXT: Map147/events/3/pages/0/318/Choice/0
-> CONTEXT: Map147/events/3/pages/0/318/Choice/0
-> CONTEXT: Map147/events/17/pages/0/171/Choice/0
-> CONTEXT: Map147/events/17/pages/0/171/Choice/0
-> CONTEXT: Map147/events/17/pages/0/378/Choice/0
-> CONTEXT: Map147/events/17/pages/0/378/Choice/0
-> CONTEXT: Map147/events/17/pages/0/525/Choice/0
-> CONTEXT: Map147/events/17/pages/0/525/Choice/0
-> CONTEXT: Map147/events/24/pages/0/144/Choice/0
-> CONTEXT: Map147/events/24/pages/0/144/Choice/0
-> CONTEXT: Map147/events/24/pages/0/398/Choice/0
-> CONTEXT: Map147/events/24/pages/0/398/Choice/0
-> CONTEXT: Map147/events/24/pages/0/588/Choice/0
-> CONTEXT: Map147/events/24/pages/0/588/Choice/0
-> CONTEXT: Map147/events/24/pages/0/738/Choice/0
-> CONTEXT: Map147/events/24/pages/0/738/Choice/0
-> CONTEXT: Map065/events/7/pages/1/46/Choice/0
-> CONTEXT: Map065/events/7/pages/1/46/Choice/0
-> CONTEXT: Map065/events/7/pages/1/75/Choice/0
-> CONTEXT: Map065/events/7/pages/1/75/Choice/0
-> CONTEXT: Map065/events/7/pages/1/104/Choice/0
-> CONTEXT: Map065/events/7/pages/1/104/Choice/0
-> CONTEXT: Map065/events/7/pages/1/133/Choice/0
-> CONTEXT: Map065/events/7/pages/1/133/Choice/0
-> CONTEXT: Map065/events/7/pages/1/164/Choice/0
-> CONTEXT: Map065/events/7/pages/1/164/Choice/0
-> CONTEXT: Map065/events/7/pages/1/193/Choice/0
-> CONTEXT: Map065/events/7/pages/1/193/Choice/0
-> CONTEXT: Map065/events/7/pages/1/222/Choice/0
-> CONTEXT: Map065/events/7/pages/1/222/Choice/0
-> CONTEXT: Map065/events/7/pages/1/251/Choice/0
-> CONTEXT: Map065/events/7/pages/1/251/Choice/0
-> CONTEXT: Map065/events/7/pages/1/282/Choice/0
-> CONTEXT: Map065/events/7/pages/1/282/Choice/0
-> CONTEXT: Map065/events/7/pages/1/311/Choice/0
-> CONTEXT: Map065/events/7/pages/1/311/Choice/0
-> CONTEXT: Map065/events/7/pages/1/342/Choice/0
-> CONTEXT: Map065/events/7/pages/1/342/Choice/0
-> CONTEXT: Map065/events/7/pages/1/371/Choice/0
-> CONTEXT: Map065/events/7/pages/1/371/Choice/0
-> CONTEXT: Map065/events/7/pages/1/400/Choice/0
-> CONTEXT: Map065/events/7/pages/1/400/Choice/0
-> CONTEXT: Map065/events/7/pages/1/429/Choice/0
-> CONTEXT: Map065/events/7/pages/1/429/Choice/0
-> CONTEXT: Map065/events/7/pages/1/496/Choice/0
-> CONTEXT: Map065/events/7/pages/1/496/Choice/0
-> CONTEXT: Map065/events/7/pages/1/532/Choice/0
-> CONTEXT: Map065/events/7/pages/1/532/Choice/0
-> CONTEXT: Map065/events/7/pages/1/563/Choice/0
-> CONTEXT: Map065/events/7/pages/1/563/Choice/0
-> CONTEXT: Map036/events/2/pages/12/2/Choice/0
-> CONTEXT: Map036/events/2/pages/12/2/Choice/0
-> CONTEXT: Map033/events/4/pages/1/4/Choice/0
-> CONTEXT: Map033/events/4/pages/1/4/Choice/0
-> CONTEXT: Map033/events/4/pages/2/14/Choice/0
-> CONTEXT: Map033/events/4/pages/2/14/Choice/0
-> CONTEXT: Map033/events/4/pages/3/4/Choice/0
-> CONTEXT: Map033/events/4/pages/3/4/Choice/0
-> CONTEXT: Map025/events/3/pages/6/6/Choice/0
-> CONTEXT: Map025/events/3/pages/6/6/Choice/0
-> CONTEXT: Map023/events/90/pages/0/2/Choice/0
-> CONTEXT: Map023/events/90/pages/0/2/Choice/0
-> CONTEXT: Map023/events/91/pages/0/2/Choice/0
-> CONTEXT: Map023/events/91/pages/0/2/Choice/0
-> CONTEXT: Map023/events/92/pages/0/4/Choice/0
-> CONTEXT: Map023/events/92/pages/0/4/Choice/0
 Yes#MTLed
 > END STRING
 
 > BEGIN STRING
 いいえ
 > CONTEXT: Troops/121/pages/3/5/Choice/1
-> CONTEXT: Map148/events/1/pages/0/3/Choice/1
 > CONTEXT: Troops/122/pages/3/5/Choice/1
+> CONTEXT: Map148/events/1/pages/0/3/Choice/1
 > CONTEXT: Troops/123/pages/3/5/Choice/1
 > CONTEXT: Troops/124/pages/3/5/Choice/1
 > CONTEXT: Map141/events/1/pages/0/3/Choice/1
 > CONTEXT: Map141/events/3/pages/1/3/Choice/1
 > CONTEXT: Map143/events/54/pages/0/3/Choice/1
+> CONTEXT: Map149/events/45/pages/0/59/Choice/1
+> CONTEXT: Map149/events/46/pages/0/8/Choice/1
+> CONTEXT: Map149/events/47/pages/0/12/Choice/1
 > CONTEXT: Map139/events/1/pages/1/3/Choice/1
+> CONTEXT: Map147/events/3/pages/0/149/Choice/1
+> CONTEXT: Map152/events/25/pages/0/2/Choice/1
+> CONTEXT: Map147/events/3/pages/0/318/Choice/1
+> CONTEXT: Map147/events/17/pages/0/171/Choice/1
+> CONTEXT: Map147/events/17/pages/0/378/Choice/1
+> CONTEXT: Map147/events/17/pages/0/525/Choice/1
+> CONTEXT: Map147/events/24/pages/0/144/Choice/1
+> CONTEXT: Map147/events/24/pages/0/398/Choice/1
+> CONTEXT: Map147/events/24/pages/0/588/Choice/1
+> CONTEXT: Map147/events/24/pages/0/738/Choice/1
 > CONTEXT: Map101/events/12/pages/0/4/Choice/1
 > CONTEXT: Map101/events/13/pages/0/4/Choice/1
 > CONTEXT: Map097/events/4/pages/0/2/Choice/1
-> CONTEXT: Map097/events/5/pages/0/2/Choice/1
 > CONTEXT: Map096/events/8/pages/0/2/Choice/1
-> CONTEXT: Map152/events/25/pages/0/2/Choice/1
+> CONTEXT: Map097/events/5/pages/0/2/Choice/1
 > CONTEXT: Map090/events/3/pages/1/8/Choice/1
 > CONTEXT: Map079/events/3/pages/0/5/Choice/1
 > CONTEXT: Map075/events/4/pages/0/2/Choice/1
-> CONTEXT: Map076/events/15/pages/0/19/Choice/1
-> CONTEXT: Map076/events/19/pages/0/19/Choice/1
 > CONTEXT: Map071/events/5/pages/1/3/Choice/1
 > CONTEXT: Map070/events/2/pages/1/3/Choice/1
+> CONTEXT: Map076/events/15/pages/0/19/Choice/1
 > CONTEXT: Map073/events/14/pages/0/19/Choice/1
-> CONTEXT: Map069/events/15/pages/1/3/Choice/1
 > CONTEXT: Map071/events/9/pages/0/6/Choice/1
 > CONTEXT: Map070/events/4/pages/1/3/Choice/1
 > CONTEXT: Map071/events/11/pages/0/3/Choice/1
-> CONTEXT: Map069/events/16/pages/1/3/Choice/1
 > CONTEXT: Map071/events/12/pages/0/3/Choice/1
 > CONTEXT: Map070/events/8/pages/0/3/Choice/1
-> CONTEXT: Map069/events/17/pages/0/19/Choice/1
+> CONTEXT: Map076/events/19/pages/0/19/Choice/1
 > CONTEXT: Map073/events/15/pages/0/19/Choice/1
 > CONTEXT: Map071/events/13/pages/0/3/Choice/1
 > CONTEXT: Map070/events/23/pages/0/3/Choice/1
 > CONTEXT: Map070/events/24/pages/0/3/Choice/1
 > CONTEXT: Map070/events/25/pages/0/3/Choice/1
 > CONTEXT: Map071/events/16/pages/0/19/Choice/1
+> CONTEXT: Map069/events/15/pages/1/3/Choice/1
+> CONTEXT: Map069/events/16/pages/1/3/Choice/1
 > CONTEXT: Map071/events/17/pages/0/19/Choice/1
+> CONTEXT: Map069/events/17/pages/0/19/Choice/1
 > CONTEXT: Map074/events/43/pages/0/3/Choice/1
 > CONTEXT: Map069/events/24/pages/0/19/Choice/1
-> CONTEXT: Map069/events/29/pages/0/19/Choice/1
-> CONTEXT: Map069/events/31/pages/0/3/Choice/1
-> CONTEXT: Map069/events/32/pages/0/3/Choice/1
-> CONTEXT: Map064/events/14/pages/0/5/Choice/1
+> CONTEXT: Map065/events/7/pages/1/46/Choice/1
 > CONTEXT: Map070/events/31/pages/0/19/Choice/1
-> CONTEXT: Map064/events/16/pages/0/2/Choice/1
-> CONTEXT: Map059/events/3/pages/0/9/Choice/1
-> CONTEXT: Map064/events/17/pages/0/13/Choice/1
+> CONTEXT: Map065/events/7/pages/1/75/Choice/1
+> CONTEXT: Map065/events/7/pages/1/104/Choice/1
 > CONTEXT: Map070/events/32/pages/0/19/Choice/1
+> CONTEXT: Map065/events/7/pages/1/133/Choice/1
+> CONTEXT: Map065/events/7/pages/1/164/Choice/1
+> CONTEXT: Map069/events/29/pages/0/19/Choice/1
+> CONTEXT: Map065/events/7/pages/1/193/Choice/1
+> CONTEXT: Map065/events/7/pages/1/222/Choice/1
+> CONTEXT: Map069/events/31/pages/0/3/Choice/1
+> CONTEXT: Map065/events/7/pages/1/251/Choice/1
+> CONTEXT: Map069/events/32/pages/0/3/Choice/1
+> CONTEXT: Map065/events/7/pages/1/282/Choice/1
+> CONTEXT: Map064/events/14/pages/0/5/Choice/1
+> CONTEXT: Map065/events/7/pages/1/311/Choice/1
+> CONTEXT: Map064/events/16/pages/0/2/Choice/1
+> CONTEXT: Map065/events/7/pages/1/342/Choice/1
+> CONTEXT: Map065/events/7/pages/1/371/Choice/1
+> CONTEXT: Map064/events/17/pages/0/13/Choice/1
+> CONTEXT: Map065/events/7/pages/1/400/Choice/1
+> CONTEXT: Map059/events/3/pages/0/9/Choice/1
 > CONTEXT: Map064/events/17/pages/0/74/Choice/1
+> CONTEXT: Map065/events/7/pages/1/429/Choice/1
+> CONTEXT: Map065/events/7/pages/1/496/Choice/1
+> CONTEXT: Map065/events/7/pages/1/532/Choice/1
 > CONTEXT: Map057/events/11/pages/2/5/Choice/1
+> CONTEXT: Map065/events/7/pages/1/563/Choice/1
 > CONTEXT: Map057/events/11/pages/3/4/Choice/1
 > CONTEXT: Map057/events/11/pages/4/4/Choice/1
 > CONTEXT: Map057/events/11/pages/5/29/Choice/1
@@ -1977,94 +2129,99 @@ Yes#MTLed
 > CONTEXT: Map037/events/3/pages/1/49/Choice/1
 > CONTEXT: Map037/events/3/pages/2/3/Choice/1
 > CONTEXT: Map036/events/2/pages/0/2/Choice/1
+> CONTEXT: Map050/events/4/pages/5/11/Choice/1
 > CONTEXT: Map036/events/2/pages/1/2/Choice/1
 > CONTEXT: Map036/events/2/pages/3/2/Choice/1
 > CONTEXT: Map035/events/1/pages/9/4/Choice/1
 > CONTEXT: Map036/events/2/pages/4/2/Choice/1
 > CONTEXT: Map036/events/2/pages/5/2/Choice/1
 > CONTEXT: Map036/events/2/pages/6/2/Choice/1
+> CONTEXT: Map034/events/4/pages/0/3/Choice/1
+> CONTEXT: Map033/events/4/pages/1/4/Choice/1
 > CONTEXT: Map036/events/2/pages/7/2/Choice/1
 > CONTEXT: Map035/events/4/pages/2/3/Choice/1
-> CONTEXT: Map037/events/4/pages/0/17/Choice/1
+> CONTEXT: Map033/events/4/pages/2/14/Choice/1
 > CONTEXT: Map036/events/2/pages/8/2/Choice/1
+> CONTEXT: Map037/events/4/pages/0/17/Choice/1
 > CONTEXT: Map037/events/5/pages/0/16/Choice/1
-> CONTEXT: Map037/events/6/pages/0/15/Choice/1
 > CONTEXT: Map036/events/2/pages/9/2/Choice/1
-> CONTEXT: Map050/events/4/pages/5/11/Choice/1
+> CONTEXT: Map033/events/4/pages/3/4/Choice/1
+> CONTEXT: Map037/events/6/pages/0/15/Choice/1
 > CONTEXT: Map037/events/15/pages/0/16/Choice/1
-> CONTEXT: Map037/events/16/pages/0/15/Choice/1
 > CONTEXT: Map036/events/2/pages/10/2/Choice/1
 > CONTEXT: Map036/events/2/pages/11/2/Choice/1
+> CONTEXT: Map037/events/16/pages/0/15/Choice/1
+> CONTEXT: Map034/events/4/pages/8/3/Choice/1
+> CONTEXT: Map036/events/2/pages/12/2/Choice/1
+> CONTEXT: Map034/events/4/pages/9/3/Choice/1
 > CONTEXT: Map037/events/17/pages/0/15/Choice/1
+> CONTEXT: Map034/events/4/pages/10/3/Choice/1
 > CONTEXT: Map037/events/18/pages/0/17/Choice/1
-> CONTEXT: Map034/events/4/pages/0/3/Choice/1
 > CONTEXT: Map037/events/19/pages/0/15/Choice/1
 > CONTEXT: Map037/events/20/pages/0/16/Choice/1
 > CONTEXT: Map037/events/22/pages/0/17/Choice/1
 > CONTEXT: Map037/events/23/pages/0/14/Choice/1
 > CONTEXT: Map037/events/24/pages/0/15/Choice/1
 > CONTEXT: Map037/events/25/pages/0/15/Choice/1
-> CONTEXT: Map034/events/4/pages/8/3/Choice/1
-> CONTEXT: Map034/events/4/pages/9/3/Choice/1
-> CONTEXT: Map034/events/4/pages/10/3/Choice/1
 > CONTEXT: Map025/events/3/pages/2/5/Choice/1
+> CONTEXT: Map025/events/3/pages/6/6/Choice/1
 > CONTEXT: Map023/events/7/pages/0/2/Choice/1
 > CONTEXT: Map023/events/12/pages/0/2/Choice/1
 > CONTEXT: Map023/events/18/pages/0/0/Choice/1
 > CONTEXT: Map023/events/23/pages/0/2/Choice/1
+> CONTEXT: Map025/events/42/pages/2/3/Choice/1
 > CONTEXT: Map023/events/25/pages/0/2/Choice/1
 > CONTEXT: Map023/events/27/pages/0/2/Choice/1
 > CONTEXT: Map023/events/33/pages/0/2/Choice/1
 > CONTEXT: Map023/events/34/pages/0/2/Choice/1
+> CONTEXT: Map025/events/42/pages/5/9/Choice/1
 > CONTEXT: Map023/events/35/pages/0/2/Choice/1
 > CONTEXT: Map023/events/36/pages/0/3/Choice/1
 > CONTEXT: Map023/events/37/pages/0/2/Choice/1
 > CONTEXT: Map023/events/38/pages/0/2/Choice/1
 > CONTEXT: Map023/events/39/pages/0/2/Choice/1
 > CONTEXT: Map023/events/40/pages/0/2/Choice/1
-> CONTEXT: Map025/events/42/pages/2/3/Choice/1
 > CONTEXT: Map023/events/41/pages/0/2/Choice/1
 > CONTEXT: Map023/events/42/pages/0/2/Choice/1
 > CONTEXT: Map020/events/18/pages/0/6/Choice/1
-> CONTEXT: Map025/events/42/pages/5/9/Choice/1
 > CONTEXT: Map023/events/44/pages/0/2/Choice/1
 > CONTEXT: Map023/events/45/pages/0/2/Choice/1
+> CONTEXT: Map018/events/8/pages/0/4/Choice/1
 > CONTEXT: Map023/events/46/pages/0/3/Choice/1
 > CONTEXT: Map023/events/47/pages/0/2/Choice/1
+> CONTEXT: Map019/events/19/pages/0/247/Choice/1
 > CONTEXT: Map023/events/48/pages/0/2/Choice/1
 > CONTEXT: Map023/events/49/pages/0/2/Choice/1
-> CONTEXT: Map018/events/8/pages/0/4/Choice/1
-> CONTEXT: Map019/events/19/pages/0/247/Choice/1
 > CONTEXT: Map023/events/52/pages/0/2/Choice/1
-> CONTEXT: Map016/events/5/pages/0/2/Choice/1
 > CONTEXT: Map023/events/53/pages/0/2/Choice/1
+> CONTEXT: Map018/events/12/pages/0/3/Choice/1
+> CONTEXT: Map016/events/5/pages/0/2/Choice/1
 > CONTEXT: Map023/events/54/pages/0/2/Choice/1
 > CONTEXT: Map023/events/57/pages/0/3/Choice/1
+> CONTEXT: Map018/events/13/pages/0/3/Choice/1
 > CONTEXT: Map023/events/57/pages/0/18/Choice/1
+> CONTEXT: Map019/events/26/pages/0/301/Choice/1
 > CONTEXT: Map023/events/58/pages/0/2/Choice/1
-> CONTEXT: Map018/events/12/pages/0/3/Choice/1
+> CONTEXT: Map018/events/14/pages/0/4/Choice/1
 > CONTEXT: Map023/events/60/pages/0/2/Choice/1
 > CONTEXT: Map023/events/62/pages/0/2/Choice/1
-> CONTEXT: Map018/events/13/pages/0/3/Choice/1
-> CONTEXT: Map019/events/26/pages/0/301/Choice/1
 > CONTEXT: Map023/events/65/pages/0/2/Choice/1
 > CONTEXT: Map023/events/66/pages/0/2/Choice/1
-> CONTEXT: Map018/events/14/pages/0/4/Choice/1
 > CONTEXT: Map023/events/67/pages/0/2/Choice/1
 > CONTEXT: Map023/events/68/pages/0/2/Choice/1
+> CONTEXT: Map010/events/1/pages/0/3/Choice/1
 > CONTEXT: Map023/events/69/pages/0/2/Choice/1
+> CONTEXT: Map010/events/2/pages/0/5/Choice/1
 > CONTEXT: Map023/events/70/pages/0/2/Choice/1
 > CONTEXT: Map023/events/71/pages/0/2/Choice/1
 > CONTEXT: Map023/events/72/pages/0/2/Choice/1
-> CONTEXT: Map010/events/1/pages/0/3/Choice/1
+> CONTEXT: Map008/events/3/pages/0/3/Choice/1
 > CONTEXT: Map023/events/73/pages/0/2/Choice/1
-> CONTEXT: Map010/events/2/pages/0/5/Choice/1
+> CONTEXT: Map007/events/5/pages/0/2/Choice/1
+> CONTEXT: Map008/events/4/pages/0/3/Choice/1
 > CONTEXT: Map023/events/74/pages/0/2/Choice/1
 > CONTEXT: Map023/events/75/pages/0/2/Choice/1
-> CONTEXT: Map008/events/3/pages/0/3/Choice/1
 > CONTEXT: Map023/events/76/pages/0/2/Choice/1
-> CONTEXT: Map008/events/4/pages/0/3/Choice/1
-> CONTEXT: Map007/events/5/pages/0/2/Choice/1
 > CONTEXT: Map023/events/81/pages/0/2/Choice/1
 > CONTEXT: Map023/events/81/pages/0/10/Choice/1
 > CONTEXT: Map023/events/82/pages/0/2/Choice/1
@@ -2074,19 +2231,22 @@ Yes#MTLed
 > CONTEXT: Map023/events/86/pages/0/4/Choice/1
 > CONTEXT: Map003/events/6/pages/0/6/Choice/1
 > CONTEXT: Map023/events/88/pages/0/2/Choice/1
-> CONTEXT: Map023/events/89/pages/0/2/Choice/1
 > CONTEXT: Map001/events/1/pages/0/2/Choice/1
+> CONTEXT: Map023/events/89/pages/0/2/Choice/1
+> CONTEXT: Map023/events/90/pages/0/2/Choice/1
+> CONTEXT: Map023/events/91/pages/0/2/Choice/1
 > CONTEXT: Map001/events/3/pages/0/3/Choice/1
+> CONTEXT: Map023/events/92/pages/0/4/Choice/1
 > CONTEXT: Map002/events/20/pages/0/4/Choice/1
 > CONTEXT: Map002/events/20/pages/1/5/Choice/1
-> CONTEXT: Map008/events/9/pages/0/17/Choice/1
 > CONTEXT: Map002/events/20/pages/2/4/Choice/1
+> CONTEXT: Map008/events/9/pages/0/17/Choice/1
 > CONTEXT: Commonevents/5/54/Choice/1
 > CONTEXT: Commonevents/6/78/Choice/1
 > CONTEXT: Commonevents/7/58/Choice/1
 > CONTEXT: Commonevents/9/89/Choice/1
-> CONTEXT: Map043/events/25/pages/0/2/Choice/1
 > CONTEXT: Commonevents/10/88/Choice/1
+> CONTEXT: Map043/events/25/pages/0/2/Choice/1
 > CONTEXT: Commonevents/65/58/Choice/1
 > CONTEXT: Commonevents/97/5/Choice/1
 > CONTEXT: Commonevents/98/5/Choice/1
@@ -2119,80 +2279,6 @@ Yes#MTLed
 > CONTEXT: Commonevents/219/59/Choice/1
 > CONTEXT: Commonevents/227/90/Choice/1
 > CONTEXT: Commonevents/277/37/Choice/1
-> CONTEXT: Map149/events/45/pages/0/59/Choice/1
-> CONTEXT: Map149/events/45/pages/0/59/Choice/1
-> CONTEXT: Map149/events/46/pages/0/8/Choice/1
-> CONTEXT: Map149/events/46/pages/0/8/Choice/1
-> CONTEXT: Map149/events/47/pages/0/12/Choice/1
-> CONTEXT: Map149/events/47/pages/0/12/Choice/1
-> CONTEXT: Map147/events/3/pages/0/149/Choice/1
-> CONTEXT: Map147/events/3/pages/0/149/Choice/1
-> CONTEXT: Map147/events/3/pages/0/318/Choice/1
-> CONTEXT: Map147/events/3/pages/0/318/Choice/1
-> CONTEXT: Map147/events/17/pages/0/171/Choice/1
-> CONTEXT: Map147/events/17/pages/0/171/Choice/1
-> CONTEXT: Map147/events/17/pages/0/378/Choice/1
-> CONTEXT: Map147/events/17/pages/0/378/Choice/1
-> CONTEXT: Map147/events/17/pages/0/525/Choice/1
-> CONTEXT: Map147/events/17/pages/0/525/Choice/1
-> CONTEXT: Map147/events/24/pages/0/144/Choice/1
-> CONTEXT: Map147/events/24/pages/0/144/Choice/1
-> CONTEXT: Map147/events/24/pages/0/398/Choice/1
-> CONTEXT: Map147/events/24/pages/0/398/Choice/1
-> CONTEXT: Map147/events/24/pages/0/588/Choice/1
-> CONTEXT: Map147/events/24/pages/0/588/Choice/1
-> CONTEXT: Map147/events/24/pages/0/738/Choice/1
-> CONTEXT: Map147/events/24/pages/0/738/Choice/1
-> CONTEXT: Map065/events/7/pages/1/46/Choice/1
-> CONTEXT: Map065/events/7/pages/1/46/Choice/1
-> CONTEXT: Map065/events/7/pages/1/75/Choice/1
-> CONTEXT: Map065/events/7/pages/1/75/Choice/1
-> CONTEXT: Map065/events/7/pages/1/104/Choice/1
-> CONTEXT: Map065/events/7/pages/1/104/Choice/1
-> CONTEXT: Map065/events/7/pages/1/133/Choice/1
-> CONTEXT: Map065/events/7/pages/1/133/Choice/1
-> CONTEXT: Map065/events/7/pages/1/164/Choice/1
-> CONTEXT: Map065/events/7/pages/1/164/Choice/1
-> CONTEXT: Map065/events/7/pages/1/193/Choice/1
-> CONTEXT: Map065/events/7/pages/1/193/Choice/1
-> CONTEXT: Map065/events/7/pages/1/222/Choice/1
-> CONTEXT: Map065/events/7/pages/1/222/Choice/1
-> CONTEXT: Map065/events/7/pages/1/251/Choice/1
-> CONTEXT: Map065/events/7/pages/1/251/Choice/1
-> CONTEXT: Map065/events/7/pages/1/282/Choice/1
-> CONTEXT: Map065/events/7/pages/1/282/Choice/1
-> CONTEXT: Map065/events/7/pages/1/311/Choice/1
-> CONTEXT: Map065/events/7/pages/1/311/Choice/1
-> CONTEXT: Map065/events/7/pages/1/342/Choice/1
-> CONTEXT: Map065/events/7/pages/1/342/Choice/1
-> CONTEXT: Map065/events/7/pages/1/371/Choice/1
-> CONTEXT: Map065/events/7/pages/1/371/Choice/1
-> CONTEXT: Map065/events/7/pages/1/400/Choice/1
-> CONTEXT: Map065/events/7/pages/1/400/Choice/1
-> CONTEXT: Map065/events/7/pages/1/429/Choice/1
-> CONTEXT: Map065/events/7/pages/1/429/Choice/1
-> CONTEXT: Map065/events/7/pages/1/496/Choice/1
-> CONTEXT: Map065/events/7/pages/1/496/Choice/1
-> CONTEXT: Map065/events/7/pages/1/532/Choice/1
-> CONTEXT: Map065/events/7/pages/1/532/Choice/1
-> CONTEXT: Map065/events/7/pages/1/563/Choice/1
-> CONTEXT: Map065/events/7/pages/1/563/Choice/1
-> CONTEXT: Map036/events/2/pages/12/2/Choice/1
-> CONTEXT: Map036/events/2/pages/12/2/Choice/1
-> CONTEXT: Map033/events/4/pages/1/4/Choice/1
-> CONTEXT: Map033/events/4/pages/1/4/Choice/1
-> CONTEXT: Map033/events/4/pages/2/14/Choice/1
-> CONTEXT: Map033/events/4/pages/2/14/Choice/1
-> CONTEXT: Map033/events/4/pages/3/4/Choice/1
-> CONTEXT: Map033/events/4/pages/3/4/Choice/1
-> CONTEXT: Map025/events/3/pages/6/6/Choice/1
-> CONTEXT: Map025/events/3/pages/6/6/Choice/1
-> CONTEXT: Map023/events/90/pages/0/2/Choice/1
-> CONTEXT: Map023/events/90/pages/0/2/Choice/1
-> CONTEXT: Map023/events/91/pages/0/2/Choice/1
-> CONTEXT: Map023/events/91/pages/0/2/Choice/1
-> CONTEXT: Map023/events/92/pages/0/4/Choice/1
-> CONTEXT: Map023/events/92/pages/0/4/Choice/1
 No#MTLed
 > END STRING
 
@@ -2889,9 +2975,9 @@ I do not think she's fucked」#MTLed
 キミが望むなら、この場で
 これを\\C[2]体験\\C[0]させてあげるわよ？」
 > CONTEXT: Troops/124/pages/2/20/Dialogue
-bunny girl? 「Just imagining, will you grow up?
-If you wish, at this place. this\\C[2] Experience\\C[0] I will let you?
-」#MTLed
+bunny girl? 「Just imagining, the penis will grow bigger,
+do not you? If you wish, at this place. this\\C[2] Experience\\C[0] I
+will let you?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3222,8 +3308,8 @@ Linetta regeneration#MTLed
 > BEGIN STRING
 見習い魔法使い
 > CONTEXT: Troops/143/name/
-> CONTEXT: Enemies/133/name/
 > CONTEXT: Troops/207/name/
+> CONTEXT: Enemies/133/name/
 > CONTEXT: Enemies/218/name/
 Apprentice Wizard#MTLed
 > END STRING
@@ -3231,20 +3317,20 @@ Apprentice Wizard#MTLed
 > BEGIN STRING
 魔法使い
 > CONTEXT: Troops/144/name/
+> CONTEXT: Troops/208/name/
 Witch#MTLed
 > CONTEXT: Map023/events/73/pages/0/0/Dialogue
-> CONTEXT: Troops/208/name/
 Witch#MTLed
 > END STRING
 
 > BEGIN STRING
 女格闘家
 > CONTEXT: Troops/145/name/
+> CONTEXT: Troops/206/name/
 > CONTEXT: Enemies/135/name/
+> CONTEXT: Enemies/219/name/
 Female fighter#MTLed
 > CONTEXT: Map023/events/75/pages/0/0/Dialogue
-> CONTEXT: Troops/206/name/
-> CONTEXT: Enemies/219/name/
 Female fighter#MTLed
 > END STRING
 
@@ -3455,6 +3541,48 @@ Be brilliantly overwhelmed with this me」#MTLed
 > END STRING
 
 > BEGIN STRING
+ルフティナ改良
+> CONTEXT: Troops/157/name/
+Luftina Improvements#MTLed
+> END STRING
+
+> BEGIN STRING
+ルフティナテスト
+> CONTEXT: Troops/158/name/
+Luftina test#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は女王ルフティナの裸を目にして
+興奮を高めてしまう――
+> CONTEXT: Troops/158/pages/3/3/Dialogue
+> CONTEXT: Troops/186/pages/2/3/Dialogue
+\\N[12] Looking at the nakedness of Queen Luftina
+It increases excitement -#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の性感度が3上がった！
+> CONTEXT: Troops/158/pages/3/14/Dialogue
+> CONTEXT: Troops/186/pages/2/14/Dialogue
+\\N[12] Sexual sensitivity increased by 3!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]の性感度が2上がった！
+> CONTEXT: Troops/158/pages/3/27/Dialogue
+> CONTEXT: Troops/186/pages/2/27/Dialogue
+\\N[12] Sexual sensitivity increased by 2!#MTLed
+> END STRING
+
+> BEGIN STRING
+精神に5のダメージ！
+> CONTEXT: Troops/158/pages/3/32/Dialogue
+> CONTEXT: Troops/186/pages/2/32/Dialogue
+5 damage to the spirit!#MTLed
+> END STRING
+
+> BEGIN STRING
 ここから回想用
 > CONTEXT: Troops/160/name/
 From here for reminiscence#MTLed
@@ -3599,214 +3727,34 @@ Female soldier money only#MTLed
 > END STRING
 
 > BEGIN STRING
-ルゼット
-「あら、私の体術が効いちゃっているみたいね。
-もっと頑張って、\\N[12]君。
-剣士が主婦に負けちゃうなんて、恥ずかしいわよ？」
-> CONTEXT: Troops/41/pages/2/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-リネッタ
-「おやおやぁ？
-どうして股間が大きくなっちゃってるのかなぁ、ボク？」
-> CONTEXT: Troops/42/pages/2/4/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/198/pages/2/4/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-リネッタ
-「おねーさんの美貌にくらくらきちゃったかな？
-ふふっ、これは勝負は見えちゃったかなー
-えっちな男の子は、魔法で華麗にやっつけてあげる♪」
-> CONTEXT: Troops/42/pages/2/11/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/198/pages/2/11/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-リネッタ
-「うっ、なかなかやるじゃない。
-でも、お姉さんもまだまだ負けないからねっ！」
-> CONTEXT: Troops/42/pages/3/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/198/pages/3/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ソードシーフ
-「ふっ、剣士のくせにその程度の腕前なのかい？
-このまま、あたしの前に這いつくばらせてやるよ！」
-> CONTEXT: Troops/45/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/194/pages/2/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-マリーカ
-「ふっ、やはり私の聖なる剣の前では
-なすすべがないようだな！
-かわいそうだが、お前はこの私に敗れる運命なのだ！」
-> CONTEXT: Troops/51/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/205/pages/2/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ミリーナ
-「あ、キミ、勃起しちゃってるじゃない。
-私を前にしてえっちな気持ちになっちゃったんだ、
-まあ、無理もないけどさぁ」
-> CONTEXT: Troops/55/pages/2/5/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/200/pages/2/5/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ミリーナ
-「そんな状態で、私の大剣を避けられるかな？
-戦いの最中にえっちなことを考えちゃったこと、
-たっぷり後悔させてあげるっ！」
-> CONTEXT: Troops/55/pages/2/13/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/200/pages/2/13/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリム
-「効いてるのかな？
-このまま勝たせてもらうね、おにいさんっ！」
-> CONTEXT: Troops/58/pages/3/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/191/pages/2/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「ん？　どうして股間が大きくなっているのかしら？
-私は何も性的なことはしていないのに」
-> CONTEXT: Troops/59/pages/2/4/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「うっ……いや、これはっ」
-> CONTEXT: Troops/59/pages/2/8/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「ふふっ、この私の美貌を前にして
-興奮してしまったのかしら？
-ま、庶民が私を前にしては、無理もないことだけど。
-> CONTEXT: Troops/59/pages/2/11/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-そういうことなら、
-この私の高貴な美しさを
-もっとしっかり目に焼き付けておくといいわ」
-> CONTEXT: Troops/59/pages/2/16/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-シェリー
-「ふふっ、だいぶ弱ってきたみたいだね。
-やっぱり、私の剣をさばくことはできないみたいだし
-このまま、また勝たせてもらうからねっ！」
-> CONTEXT: Troops/64/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/65/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/202/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/203/pages/2/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-アマゾネス
-「ふっ、パワーの差が歴然だな。
-このまま女の腕にねじ伏せられてみるか？
-男ならば、少しは意地を見せてみろ」
-> CONTEXT: Troops/96/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/195/pages/2/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ルフティナ改良
-> CONTEXT: Troops/157/name/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ルフティナテスト
-> CONTEXT: Troops/158/name/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]は女王ルフティナの裸を目にして
-興奮を高めてしまう――
-> CONTEXT: Troops/158/pages/3/3/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/186/pages/2/3/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]の性感度が3上がった！
-> CONTEXT: Troops/158/pages/3/14/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/186/pages/2/14/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]の性感度が2上がった！
-> CONTEXT: Troops/158/pages/3/27/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/186/pages/2/27/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-精神に5のダメージ！
-> CONTEXT: Troops/158/pages/3/32/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/186/pages/2/32/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 プリム跳び上がりのみ
-> CONTEXT: Troops/183/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/183/name/
+Purim Jumping up only#MTLed
 > END STRING
 
 > BEGIN STRING
 大会ディアーナ胸
-> CONTEXT: Troops/184/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/184/name/
+Tournament Diana breast#MTLed
 > END STRING
 
 > BEGIN STRING
 大会ディアーナ尻
-> CONTEXT: Troops/185/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/185/name/
+Tournament Diana ass#MTLed
 > END STRING
 
 > BEGIN STRING
 ルフティナ胸
-> CONTEXT: Troops/186/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/186/name/
+Luftina breast#MTLed
 > END STRING
 
 > BEGIN STRING
 デビルウィッチ
-> CONTEXT: Troops/188/name/ < UNTRANSLATED
-> CONTEXT: Enemies/209/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/188/name/
+> CONTEXT: Enemies/209/name/
+Devilwitch#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3814,24 +3762,29 @@ Female soldier money only#MTLed
 「どう？　指一本動かせないでしょう？
 今のあなたは私の操り人形……
 さあ、私を見上げながらオナニーをしなさい♪」
-> CONTEXT: Troops/188/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/188/pages/0/2/Dialogue
+Devilwitch. 「How? I can not move one finger?
+You are my puppet ...... Come on, masturbate while looking
+up at me♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「うあっ、手が勝手に……
 や、やめろおおぉっ！」
-> CONTEXT: Troops/188/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/188/pages/0/7/Dialogue
+\\N[12]. 「Well, hands arbitrarily ......
+Or, stop it!」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はオナニーしたい衝動が抑えられない……
 可憐なデビルウィッチの姿を見上げながら、
 自分のペニスを手でしごきあげる！
-> CONTEXT: Troops/188/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/188/pages/0/13/Dialogue
+\\N[12] I can not suppress the urge I want to masturbate
+...... While looking up at the form of a lovely devil
+witch, I will squeeze my penis with hands!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3839,16 +3792,18 @@ Female soldier money only#MTLed
 「あら、もう弱ってしまったの？
 この程度で私たち魔族に挑みかかってくるだなんて
 身の程知らずにほ程があるわね、クスクス……♪」
-> CONTEXT: Troops/188/pages/2/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/188/pages/2/0/Dialogue
+Devilwitch. 「Oh, have you gone weakened already?
+To this extent we are challenging the demons
+I have plenty to do without knowing, * Giggle * ......♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチ
-> CONTEXT: Troops/189/name/ < UNTRANSLATED
-> CONTEXT: Enemies/211/name/ < UNTRANSLATED
-> CONTEXT: Enemies/216/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/189/name/
+> CONTEXT: Enemies/211/name/
+> CONTEXT: Enemies/216/name/
+Darkwitch#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3856,8 +3811,10 @@ Female soldier money only#MTLed
 「あら、リベンジに来たのね。
 私の美しさに敗れたのが、よほど悔しかったのかしら？
 それとも……また魅了されに来たの？　うふふっ♪」
-> CONTEXT: Troops/189/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/189/pages/2/1/Dialogue
+Darkwitch. 「Oh, you came to the revenge.
+Did I regret so much that I lost my beauty?
+Or ... have you been fascinated again? Reshuffle♪」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3865,37 +3822,49 @@ Female soldier money only#MTLed
 「もう虫の息のようですわね。
 しょせん、あなたのような男に
 この私の暗黒魔法を打ち破れるわけがありませんわ」
-> CONTEXT: Troops/189/pages/3/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/197/pages/2/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/189/pages/3/0/Dialogue
+> CONTEXT: Troops/197/pages/2/0/Dialogue
+Darkwitch. 「It seems like an insect breath anymore.
+To a man like you. There is no way I can overcome this dark
+magic」#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチ
 「なかなか悪くない腕前ですわね。
 まあ、最後に勝つのはこの私ですけれど」
-> CONTEXT: Troops/189/pages/4/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/197/pages/3/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/189/pages/4/0/Dialogue
+> CONTEXT: Troops/197/pages/3/0/Dialogue
+Darkwitch. 「It's pretty good not to be bad.
+Well, this is me for winning at the end」#MTLed
 > END STRING
 
 > BEGIN STRING
 王都稽古ジェーン
-> CONTEXT: Troops/190/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/190/name/
+King imperial practice Jane#MTLed
 > END STRING
 
 > BEGIN STRING
 稽古プリム
-> CONTEXT: Troops/191/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/191/name/
+Practice Purim#MTLed
 > END STRING
 
 > BEGIN STRING
 ↓ここから闇闘技場
-> CONTEXT: Troops/193/name/ < UNTRANSLATED
-> CONTEXT: Enemies/212/name/ < UNTRANSLATED
+> CONTEXT: Troops/193/name/
+> CONTEXT: Enemies/212/name/
+↓ From here From the Dark Stadium#MTLed
+> END STRING
 
+> BEGIN STRING
+ソードシーフ
+> CONTEXT: Troops/194/name/
+> CONTEXT: Enemies/56/name/
+Sword thief#MTLed
+> CONTEXT: Map065/events/7/pages/1/40/Choice/0
+sword thief#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3903,8 +3872,22 @@ Female soldier money only#MTLed
 「ふっ、勃起しちゃってるじゃない。
 戦っている最中に、そんなことでいいのかしら？
 エッチな坊や♪」
-> CONTEXT: Troops/196/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/196/pages/2/4/Dialogue
+evil witch. 「Wow, I'm getting an erection.
+I wonder if such a thing is OK while fighting?
+a lewd boy♪」#MTLed
+> END STRING
 
+> BEGIN STRING
+\\N[12]
+「う、くっ……」
+> CONTEXT: Troops/196/pages/2/9/Dialogue
+> CONTEXT: Troops/197/pages/4/7/Dialogue
+> CONTEXT: Troops/207/pages/3/8/Dialogue
+\\N[12]. 「Well, ...」#MTLed
+> CONTEXT: Commonevents/40/70/Dialogue
+> CONTEXT: Commonevents/206/63/Dialogue
+\\N[12]. 「Well, ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3912,21 +3895,23 @@ Female soldier money only#MTLed
 「私の自慢のお尻に見とれちゃったかしら？
 ま、私には都合がいいけれど、
 そんなことじゃ取り返しのつかないことになるわよ～？」
-> CONTEXT: Troops/196/pages/2/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/196/pages/2/12/Dialogue
+evil witch. 「I wonder about my pride butt?
+Well, it is convenient for me, In such a thing it will be
+impossible to recover?」#MTLed
 > END STRING
 
 > BEGIN STRING
 闇闘技場ダークウィッチ
-> CONTEXT: Troops/197/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/197/name/
+Darkness Stadium Darkwitch#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチ
 「あら、勃起してしまっているようね」
-> CONTEXT: Troops/197/pages/4/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/197/pages/4/4/Dialogue
+Darkwitch. 「Oh, you seem to have erected」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3934,16 +3919,42 @@ Female soldier money only#MTLed
 「まあ当然ですわよね。
 この美しい私と相対しているのだもの。
 男ならば性的な興奮を覚えるのが自然なことですわ
-> CONTEXT: Troops/197/pages/4/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/197/pages/4/10/Dialogue
+Darkwitch. 「Well of course it is. This one that is
+relative to this beautiful one. It's natural for a man to
+learn sexual excitement#MTLed
 > END STRING
 
 > BEGIN STRING
 でも、戦いの最中にそんなことになっていて
 果たしてまともに戦えるのかしら？
 ふふっ……♪」
-> CONTEXT: Troops/197/pages/4/15/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/197/pages/4/15/Dialogue
+But, in the midst of a battle. Could it be fair to fight?
+Hehu ......♪」#MTLed
+> END STRING
 
+> BEGIN STRING
+プリム
+> CONTEXT: Troops/199/name/
+> CONTEXT: Actors/15/name/
+> CONTEXT: Enemies/103/name/
+> CONTEXT: Enemies/137/name/
+> CONTEXT: Enemies/138/name/
+> CONTEXT: Enemies/139/name/
+> CONTEXT: Enemies/140/name/
+> CONTEXT: Enemies/142/name/
+> CONTEXT: Enemies/152/name/
+> CONTEXT: Enemies/180/name/
+> CONTEXT: Enemies/181/name/
+> CONTEXT: Enemies/210/name/
+> CONTEXT: Enemies/221/name/
+> CONTEXT: Enemies/228/name/
+Purim#MTLed
+> CONTEXT: Map023/events/76/pages/0/0/Dialogue
+Purim#MTLed
+> CONTEXT: Commonevents/283/10/Dialogue
+Purim#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3951,8 +3962,10 @@ Female soldier money only#MTLed
 「あ、おにいさん股間が大きくなってる……
 まったくもう、
 わたしを相手に変なこと考えてるなんて、変態だね」
-> CONTEXT: Troops/199/pages/2/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/199/pages/2/4/Dialogue
+Purim. 「Oh, the groin is getting bigger ... ...
+Altogether, It is perverted to think strange things against
+me」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3960,22 +3973,70 @@ Female soldier money only#MTLed
 「いけないおにいさんには、お仕置きしてあげなきゃね。
 この勝負、絶対に勝たせてもらうからね、
 おにいさんっ！」
-> CONTEXT: Troops/199/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/199/pages/2/12/Dialogue
+Purim. 「I have to punish for a bad lady.
+Because this game will absolutely win, Oh my goodness!」#MTLed
+> END STRING
 
+> BEGIN STRING
+ミリーナ
+> CONTEXT: Troops/200/name/
+> CONTEXT: Actors/16/name/
+> CONTEXT: Enemies/111/name/
+> CONTEXT: Enemies/154/name/
+> CONTEXT: Enemies/163/name/
+> CONTEXT: Map152/events/24/pages/6/700/Label
+> CONTEXT: Map152/events/24/pages/6/777/Label
+> CONTEXT: Map043/events/24/pages/6/701/Label
+> CONTEXT: Map043/events/24/pages/6/778/Label
+Mileena#MTLed
+> CONTEXT: Map023/events/7/pages/0/0/Dialogue
+Mileena#MTLed
 > END STRING
 
 > BEGIN STRING
 ベルベット
 「ふっ、どうやら弱ってきたようだね。
 今日はあたしが勝たせてもらうよ、坊や！」
-> CONTEXT: Troops/201/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/201/pages/1/1/Dialogue
+velvet. 「It seems that she is getting weakened.
+Today I will win, Boy!」#MTLed
+> END STRING
 
+> BEGIN STRING
+シェリー
+> CONTEXT: Troops/202/name/
+> CONTEXT: Enemies/38/name/
+> CONTEXT: Actors/13/name/
+> CONTEXT: Enemies/87/name/
+> CONTEXT: Enemies/107/name/
+> CONTEXT: Enemies/108/name/
+> CONTEXT: Enemies/117/name/
+Sherry#MTLed
 > END STRING
 
 > BEGIN STRING
 シェリー聖剣Ver
-> CONTEXT: Troops/203/name/ < UNTRANSLATED
+> CONTEXT: Troops/203/name/
+Sherry Saintly Ver#MTLed
+> END STRING
 
+> BEGIN STRING
+女兵士
+> CONTEXT: Troops/204/name/
+> CONTEXT: Enemies/120/name/
+> CONTEXT: Enemies/121/name/
+> CONTEXT: Enemies/123/name/
+> CONTEXT: Enemies/141/name/
+> CONTEXT: Enemies/190/name/
+> CONTEXT: Enemies/191/name/
+> CONTEXT: Enemies/199/name/
+> CONTEXT: Enemies/200/name/
+> CONTEXT: Enemies/217/name/
+> CONTEXT: Enemies/220/name/
+Female soldier#MTLed
+> CONTEXT: Map023/events/70/pages/0/0/Dialogue
+Female soldier#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3983,8 +4044,20 @@ Female soldier money only#MTLed
 「そろそろ私の剣が効いてきたみたいね。
 野良の剣士が王国軍兵士に太刀打ちしようなんて
 身の程知らずだってこと、たっぷり思い知らせてあげるわ」
-> CONTEXT: Troops/204/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/204/pages/2/0/Dialogue
+Female soldier. 「It looks like my sword has worked soon.
+I do not think the fellow swordsmen will try to compete
+with the kingdom soldier. I will let you know plenty of
+things」#MTLed
+> END STRING
 
+> BEGIN STRING
+マリーカ
+> CONTEXT: Troops/205/name/
+> CONTEXT: Enemies/52/name/
+Mallik#MTLed
+> CONTEXT: Map023/events/65/pages/0/0/Dialogue
+Mallik#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3992,24 +4065,27 @@ Female soldier money only#MTLed
 「その程度なのかしら？
 なら、賭け金は私がいただくわよ！
 女の拳に敗北する屈辱、たっぷり味わいなさい！」
-> CONTEXT: Troops/206/pages/2/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/206/pages/2/0/Dialogue
+Female fighter. 「Is that the degree? Then, I will have a
+bet! Humilate defeat the woman's fist, taste plenty!」#MTLed
 > END STRING
 
 > BEGIN STRING
 見習い魔法使い
 「私の魔法が効いているのでしょうか……
 ならば、このまま勝たせていただきます」
-> CONTEXT: Troops/207/pages/2/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/207/pages/2/0/Dialogue
+Apprentice Wizard. 「I wonder if my magic is working ......
+Then I will prevail」#MTLed
 > END STRING
 
 > BEGIN STRING
 見習い魔法使い
 「ふふ、どうやら勃起してしまっているみたいですね。
 私の魅了魔法で、ドキドキしてしまいましたか？」
-> CONTEXT: Troops/207/pages/3/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/207/pages/3/4/Dialogue
+Apprentice Wizard. 「Heh he seems to have been erected.
+Have you done with my fascinating magic?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -4017,8 +4093,10 @@ Female soldier money only#MTLed
 「私のような年下の女に性的な興奮を覚えるなんて、
 浅ましい人ですね。
 でも、こんな人なら私でも勝てるかも」
-> CONTEXT: Troops/207/pages/3/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/207/pages/3/11/Dialogue
+Apprentice Wizard. 「To remember sexual excitement for a
+young woman like me, It is a shallow person.
+But even if I am such a person I can win」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -4026,26 +4104,28 @@ Female soldier money only#MTLed
 「どうやら弱ってきたみたいね。
 私の魔法の前じゃ、いくら体を鍛えても意味ないわよ。
 このまま近づかせずに嫐り倒してあげる♪」
-> CONTEXT: Troops/208/pages/2/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/208/pages/2/0/Dialogue
+Witch. 「Apparently it seems weakened. It is meaningless to
+train your body how far it is before my magic.
+I will kill it without stopping as it is♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 闇闘技場バニー
-> CONTEXT: Troops/209/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/209/name/
+Yark Stadium Bunny#MTLed
 > END STRING
 
 > BEGIN STRING
 闇闘技場プリム弱いVer
-> CONTEXT: Troops/210/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/210/name/
+Yakushiro Purim Weak Ver#MTLed
 > END STRING
 
 > BEGIN STRING
 プリム
 「効いてるのかな？
 このまま勝たせてもらいますね、おにいさんっ！」
-> CONTEXT: Troops/210/pages/3/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/210/pages/3/0/Dialogue
+Purim. 「Is it working? You will win it like this, okay!」#MTLed
 > END STRING

@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 鍛冶コーナー
 > CONTEXT: Map064/display_name/
@@ -717,10 +717,9 @@ Have armor made#MTLed
 > BEGIN STRING
 その他
 > CONTEXT: Map064/events/17/pages/0/4/Choice/2
+> CONTEXT: Map008/events/8/pages/0/205/Choice/0
 > CONTEXT: Map008/events/11/pages/0/216/Choice/0
 > CONTEXT: Map008/events/24/pages/0/207/Choice/0
-> CONTEXT: Map008/events/8/pages/0/205/Choice/0
-> CONTEXT: Map008/events/8/pages/0/205/Choice/0
 Other#MTLed
 > END STRING
 

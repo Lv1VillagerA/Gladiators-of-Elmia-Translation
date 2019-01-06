@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「宿泊、休憩ともに 10\\G です。ご利用ですか？\\$
 > CONTEXT: Map036/events/2/pages/0/0/Dialogue
@@ -75,16 +75,16 @@ Accommodation (one day passes)#MTLed
 > CONTEXT: Map036/events/2/pages/4/28/Dialogue
 > CONTEXT: Map036/events/2/pages/5/28/Dialogue
 > CONTEXT: Map036/events/2/pages/6/28/Dialogue
-> CONTEXT: Map036/events/2/pages/7/28/Dialogue
-> CONTEXT: Map036/events/2/pages/8/38/Dialogue
-> CONTEXT: Map036/events/2/pages/9/206/Dialogue
 > CONTEXT: Map034/events/4/pages/0/34/Dialogue
 > CONTEXT: Map034/events/4/pages/1/24/Dialogue
+> CONTEXT: Map036/events/2/pages/7/28/Dialogue
 > CONTEXT: Map034/events/4/pages/2/24/Dialogue
 > CONTEXT: Map034/events/4/pages/3/24/Dialogue
+> CONTEXT: Map036/events/2/pages/8/38/Dialogue
 > CONTEXT: Map034/events/4/pages/4/24/Dialogue
 > CONTEXT: Map034/events/4/pages/5/24/Dialogue
 > CONTEXT: Map034/events/4/pages/6/34/Dialogue
+> CONTEXT: Map036/events/2/pages/9/206/Dialogue
 > CONTEXT: Map034/events/4/pages/7/170/Dialogue
 \\C[2]※ It is tournament day. Let's go to the stadium.#MTLed
 > END STRING
@@ -581,6 +581,12 @@ I will fight to the utmost to avoid leaving regrets!」#MTLed
 > END STRING
 
 > BEGIN STRING
+「宿泊は 10\\G です。ご利用ですか？\\$
+> CONTEXT: Map036/events/2/pages/12/0/Dialogue
+「Accommodation 10 \\G is. Do you use it? \\$#MTLed
+> END STRING
+
+> BEGIN STRING
 \\N[12]
 「まずは主人と話をしたほうがいいだろう」
 > CONTEXT: Map036/events/3/pages/1/0/Dialogue
@@ -983,17 +989,6 @@ Wow ...#MTLed
 > END STRING
 
 > BEGIN STRING
-\\N[12]
-「くうっ……」
-> CONTEXT: Map036/events/14/pages/0/167/Dialogue
-> CONTEXT: Map147/events/2/pages/14/138/Dialogue
-> CONTEXT: Map147/events/17/pages/0/698/Dialogue
-\\N[12]. 「Wow ...」#MTLed
-> CONTEXT: Commonevents/262/69/Dialogue
-\\N[12]. 「Wow ...」#MTLed
-> END STRING
-
-> BEGIN STRING
 シェリー
 「んっ……あ、熱くて固いのが、
 奥まで入ってきてる……」
@@ -1059,9 +1054,9 @@ inserted, it stopped moving」#MTLed
 A couple of times, a half hour, a long time ago!#MTLed
 > CONTEXT: Map032/events/50/pages/1/387/Dialogue
 > CONTEXT: Commonevents/152/141/Dialogue
+> CONTEXT: Commonevents/228/548/Dialogue
 > CONTEXT: Commonevents/262/93/Dialogue
 > CONTEXT: Commonevents/263/312/Dialogue
-> CONTEXT: Commonevents/228/548/Dialogue
 A couple of times, a half hour, a long time ago!#MTLed
 > END STRING
 
@@ -1241,10 +1236,10 @@ tremble and get numb! Being too comfortable ...
 おちんちんをいっぱいいじめてあげるっ！」
 > CONTEXT: Map036/events/14/pages/0/260/Dialogue
 Sherry. 「You should feel it. I got excited too,
-I will tease you a lot!」#MTLed
+I will tease you all the penis!」#MTLed
 > CONTEXT: Commonevents/262/162/Dialogue
 Sherry. 「You should feel it. I got excited too,
-I will tease you a lot!」#MTLed
+I will tease you all the penis!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1535,16 +1530,6 @@ Let's go together, \\N[12] !」#MTLed
 > END STRING
 
 > BEGIN STRING
-\\N[12]
-「ああ！」
-> CONTEXT: Map036/events/14/pages/0/379/Dialogue
-> CONTEXT: Map043/events/24/pages/5/37/Dialogue
-\\N[12]. 「Oh!」#MTLed
-> CONTEXT: Commonevents/262/281/Dialogue
-\\N[12]. 「Oh!」#MTLed
-> END STRING
-
-> BEGIN STRING
 こうして、\\N[12]はシェリーとともに
 王国の外へと飛び出していくこととなるのだった。
 > CONTEXT: Map036/events/14/pages/0/383/Dialogue
@@ -1798,10 +1783,4 @@ country」#MTLed
 > CONTEXT: Map036/events/14/pages/1/134/Dialogue
 Sherry. 「You too. Not to be laid over the
 princess's princess. Do your best.♪」#MTLed
-> END STRING
-
-> BEGIN STRING
-「宿泊は 10\\G です。ご利用ですか？\\$
-> CONTEXT: Map036/events/2/pages/12/0/Dialogue < UNTRANSLATED
-
 > END STRING

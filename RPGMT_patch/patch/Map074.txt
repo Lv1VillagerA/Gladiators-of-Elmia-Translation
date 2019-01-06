@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\N[12]
 「ん……？」
@@ -270,12 +270,12 @@ minotaura, \\N[12] If you push down roughly
 > CONTEXT: Map074/events/47/pages/0/55/Dialogue
 > CONTEXT: Map074/events/48/pages/0/55/Dialogue
 > CONTEXT: Map074/events/49/pages/0/55/Dialogue
-> CONTEXT: Map041/events/56/pages/0/507/Dialogue
 > CONTEXT: Map041/events/5/pages/5/853/Dialogue
-> CONTEXT: Commonevents/306/52/Dialogue
-> CONTEXT: Commonevents/306/89/Dialogue
+> CONTEXT: Map041/events/56/pages/0/507/Dialogue
 \\N[12]. 「no aaahhh......!」#MTLed
 > CONTEXT: Commonevents/242/492/Dialogue
+> CONTEXT: Commonevents/306/52/Dialogue
+> CONTEXT: Commonevents/306/89/Dialogue
 \\N[12]. 「no aaahhh......!」#MTLed
 > END STRING
 

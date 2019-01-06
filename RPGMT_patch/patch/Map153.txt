@@ -159,6 +159,57 @@ cut-in#MTLed
 > END STRING
 
 > BEGIN STRING
+立ち絵1
+> CONTEXT: Map153/events/3/pages/0/83/Choice/3
+> CONTEXT: Map153/events/4/pages/0/83/Choice/2
+> CONTEXT: Map151/events/6/pages/0/40/Choice/1
+> CONTEXT: Map153/events/6/pages/0/109/Choice/1
+> CONTEXT: Map153/events/8/pages/0/57/Choice/3
+> CONTEXT: Map153/events/9/pages/0/103/Choice/0
+> CONTEXT: Map153/events/13/pages/0/135/Choice/0
+> CONTEXT: Map153/events/14/pages/0/31/Choice/2
+> CONTEXT: Map153/events/15/pages/0/31/Choice/0
+> CONTEXT: Map153/events/16/pages/0/57/Choice/2
+> CONTEXT: Map153/events/17/pages/0/135/Choice/0
+standing picture 1#MTLed
+> CONTEXT: Map153/events/3/pages/0/104/Dialogue
+> CONTEXT: Map153/events/4/pages/0/98/Dialogue
+> CONTEXT: Map153/events/6/pages/0/118/Dialogue
+> CONTEXT: Map153/events/8/pages/0/78/Dialogue
+> CONTEXT: Map153/events/9/pages/0/106/Dialogue
+> CONTEXT: Map153/events/13/pages/0/138/Dialogue
+> CONTEXT: Map153/events/14/pages/0/46/Dialogue
+> CONTEXT: Map153/events/15/pages/0/34/Dialogue
+> CONTEXT: Map153/events/16/pages/0/72/Dialogue
+> CONTEXT: Map153/events/17/pages/0/138/Dialogue
+standing picture 1#MTLed
+> END STRING
+
+> BEGIN STRING
+立ち絵2
+> CONTEXT: Map153/events/3/pages/0/109/Choice/0
+> CONTEXT: Map153/events/4/pages/0/83/Choice/3
+> CONTEXT: Map151/events/6/pages/0/40/Choice/2
+> CONTEXT: Map153/events/6/pages/0/109/Choice/2
+> CONTEXT: Map153/events/8/pages/0/83/Choice/0
+> CONTEXT: Map153/events/9/pages/0/103/Choice/1
+> CONTEXT: Map153/events/13/pages/0/135/Choice/1
+> CONTEXT: Map153/events/14/pages/0/31/Choice/3
+standing picture 2#MTLed
+> CONTEXT: Map153/events/3/pages/0/112/Dialogue
+> CONTEXT: Map153/events/4/pages/0/104/Dialogue
+> CONTEXT: Map153/events/6/pages/0/124/Dialogue
+> CONTEXT: Map153/events/8/pages/0/86/Dialogue
+> CONTEXT: Map153/events/9/pages/0/112/Dialogue
+> CONTEXT: Map153/events/13/pages/0/144/Dialogue
+> CONTEXT: Map153/events/14/pages/0/52/Dialogue
+> CONTEXT: Map153/events/15/pages/0/40/Dialogue
+> CONTEXT: Map153/events/16/pages/0/78/Dialogue
+> CONTEXT: Map153/events/17/pages/0/144/Dialogue
+standing picture 2#MTLed
+> END STRING
+
+> BEGIN STRING
 手コキ1
 > CONTEXT: Map153/events/4/pages/0/5/Choice/0
 > CONTEXT: Map153/events/8/pages/0/5/Choice/3
@@ -350,6 +401,102 @@ cut-in 1#MTLed
 カットイン2
 > CONTEXT: Map153/events/5/pages/0/40/Dialogue
 cut-in 2#MTLed
+> END STRING
+
+> BEGIN STRING
+セックス3
+> CONTEXT: Map153/events/6/pages/0/57/Choice/0
+> CONTEXT: Map151/events/6/pages/0/20/Choice/0
+> CONTEXT: Map153/events/10/pages/0/57/Choice/0
+> CONTEXT: Map153/events/11/pages/0/5/Choice/2
+> CONTEXT: Map153/events/13/pages/0/83/Choice/1
+> CONTEXT: Map153/events/16/pages/0/31/Choice/3
+> CONTEXT: Map153/events/17/pages/0/83/Choice/1
+> CONTEXT: Map153/events/18/pages/0/57/Choice/1
+Sex 3#MTLed
+> CONTEXT: Map153/events/6/pages/0/60/Dialogue
+> CONTEXT: Map153/events/10/pages/0/60/Dialogue
+> CONTEXT: Map153/events/11/pages/0/20/Dialogue
+> CONTEXT: Map153/events/13/pages/0/92/Dialogue
+> CONTEXT: Map153/events/16/pages/0/52/Dialogue
+> CONTEXT: Map153/events/17/pages/0/92/Dialogue
+> CONTEXT: Map153/events/18/pages/0/66/Dialogue
+Sex 3#MTLed
+> END STRING
+
+> BEGIN STRING
+セックス4
+> CONTEXT: Map153/events/6/pages/0/57/Choice/1
+> CONTEXT: Map151/events/6/pages/0/20/Choice/1
+> CONTEXT: Map153/events/11/pages/0/5/Choice/3
+> CONTEXT: Map153/events/13/pages/0/83/Choice/2
+> CONTEXT: Map153/events/16/pages/0/57/Choice/0
+> CONTEXT: Map153/events/17/pages/0/83/Choice/2
+> CONTEXT: Map153/events/18/pages/0/57/Choice/2
+Sex 4#MTLed
+> CONTEXT: Map153/events/6/pages/0/66/Dialogue
+> CONTEXT: Map153/events/11/pages/0/26/Dialogue
+> CONTEXT: Map153/events/13/pages/0/98/Dialogue
+> CONTEXT: Map153/events/16/pages/0/60/Dialogue
+> CONTEXT: Map153/events/17/pages/0/98/Dialogue
+> CONTEXT: Map153/events/18/pages/0/72/Dialogue
+Sex 4#MTLed
+> END STRING
+
+> BEGIN STRING
+スティンクフェイス1
+> CONTEXT: Map153/events/6/pages/0/57/Choice/2
+> CONTEXT: Map151/events/6/pages/0/20/Choice/2
+stinkface 1#MTLed
+> CONTEXT: Map153/events/6/pages/0/72/Dialogue
+stinkface 1#MTLed
+> END STRING
+
+> BEGIN STRING
+スティンクフェイス2
+> CONTEXT: Map153/events/6/pages/0/57/Choice/3
+> CONTEXT: Map151/events/6/pages/0/20/Choice/3
+stinkface 2#MTLed
+> CONTEXT: Map153/events/6/pages/0/78/Dialogue
+stinkface 2#MTLed
+> END STRING
+
+> BEGIN STRING
+スティンクフェイス3
+> CONTEXT: Map153/events/6/pages/0/83/Choice/0
+> CONTEXT: Map151/events/6/pages/0/30/Choice/0
+stinkface 3#MTLed
+> CONTEXT: Map153/events/6/pages/0/86/Dialogue
+stinkface 3#MTLed
+> END STRING
+
+> BEGIN STRING
+スティンクフェイス4
+> CONTEXT: Map153/events/6/pages/0/83/Choice/1
+> CONTEXT: Map151/events/6/pages/0/30/Choice/1
+stinkface 4#MTLed
+> CONTEXT: Map153/events/6/pages/0/92/Dialogue
+stinkface 4#MTLed
+> END STRING
+
+> BEGIN STRING
+カットイン（胸）
+> CONTEXT: Map153/events/6/pages/0/83/Choice/2
+> CONTEXT: Map151/events/6/pages/0/30/Choice/2
+> CONTEXT: Map153/events/11/pages/0/135/Choice/2
+cut-in (chest)#MTLed
+> CONTEXT: Map153/events/6/pages/0/98/Dialogue
+> CONTEXT: Map153/events/11/pages/0/150/Dialogue
+cut-in (chest)#MTLed
+> END STRING
+
+> BEGIN STRING
+カットイン（胸2）
+> CONTEXT: Map153/events/6/pages/0/83/Choice/3
+> CONTEXT: Map151/events/6/pages/0/30/Choice/3
+cut-in (chest 2)#MTLed
+> CONTEXT: Map153/events/6/pages/0/104/Dialogue
+cut-in (chest 2)#MTLed
 > END STRING
 
 > BEGIN STRING

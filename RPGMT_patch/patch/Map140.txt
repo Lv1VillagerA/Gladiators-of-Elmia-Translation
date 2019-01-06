@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\N[12]
 「こんなところに小部屋があったのか。
@@ -759,9 +759,9 @@ spirit away」#MTLed
 \\N[12]
 「な、なんだって……？」
 > CONTEXT: Map140/events/5/pages/0/400/Dialogue
+> CONTEXT: Map147/events/2/pages/19/413/Dialogue
 > CONTEXT: Map140/events/5/pages/1/385/Dialogue
 \\N[12]. 「Why, what ...?」#MTLed
-> CONTEXT: Map147/events/2/pages/19/413/Dialogue
 > CONTEXT: Commonevents/221/77/Dialogue
 \\N[12]. 「Why, what ...?」#MTLed
 > END STRING
@@ -1044,11 +1044,12 @@ I do not think so bad」#MTLed
 > CONTEXT: Map140/events/5/pages/0/504/Dialogue
 > CONTEXT: Map140/events/5/pages/1/489/Dialogue
 Purim. 「I also trampled many big crotches
-It seems to be something odd. It's strange feeling, please」#MTLed
+It seems to be something odd. It's strange feeling, is it
+okay?」#MTLed
 > CONTEXT: Commonevents/221/181/Dialogue
 Purim. 「I also trampled many big crotches
 It seems to be something odd. It's strange
-feeling, please」#MTLed
+feeling, is it okay?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1113,11 +1114,11 @@ Purim. 「? Is that so?」#MTLed
 プリム、そのままリズムよく踏んでやってみるといいわ」
 > CONTEXT: Map140/events/5/pages/0/525/Dialogue
 > CONTEXT: Map140/events/5/pages/1/510/Dialogue
-Diana. 「If you mess around with a man. It 's gonna be
-panting like a good one. Purim, you should just step on the
-rhythm as it is」#MTLed
+Diana. 「If you mess with a man. It 's gonna be panting
+like a good one. Purim, you should just step on the rhythm
+as it is」#MTLed
 > CONTEXT: Commonevents/221/202/Dialogue
-Diana. 「If you mess around with a man
+Diana. 「If you mess with a man
 It 's gonna be panting like a good one.
 Purim, you should just step on the rhythm as it
 is」#MTLed
@@ -1320,11 +1321,11 @@ Shake your body with culmination pleasure.#MTLed
 \\N[12]
 「あ、あううぅ……」
 > CONTEXT: Map140/events/5/pages/0/597/Dialogue
-> CONTEXT: Map140/events/5/pages/1/582/Dialogue
 > CONTEXT: Map152/events/24/pages/10/272/Dialogue
+> CONTEXT: Map147/events/2/pages/19/689/Dialogue
+> CONTEXT: Map140/events/5/pages/1/582/Dialogue
 > CONTEXT: Map043/events/24/pages/11/289/Dialogue
 \\N[12]. 「Oh, ooooooo ......」#MTLed
-> CONTEXT: Map147/events/2/pages/19/689/Dialogue
 > CONTEXT: Commonevents/221/274/Dialogue
 > CONTEXT: Commonevents/251/223/Dialogue
 \\N[12]. 「Oh, ooooooo ......」#MTLed
@@ -1337,10 +1338,10 @@ Shake your body with culmination pleasure.#MTLed
 変なにおい……」
 > CONTEXT: Map140/events/5/pages/0/600/Dialogue
 > CONTEXT: Map140/events/5/pages/1/585/Dialogue
-Purim. 「Oh, you are bouncing...Besides, this is semen.
-Funny smell ......」#MTLed
+Purim. 「Oh, the punch is bouncing...Besides, this is
+semen. Funny smell ......」#MTLed
 > CONTEXT: Commonevents/221/277/Dialogue
-Purim. 「Oh, you are bouncing ...
+Purim. 「Oh, the punch is bouncing ...
 Besides, this is semen. Funny smell ......」#MTLed
 > END STRING
 
@@ -1403,9 +1404,8 @@ Diana mercilessly, as if to excite
 ぐりっ、ぐりぐりぃっ！
 > CONTEXT: Map140/events/5/pages/0/623/Dialogue
 > CONTEXT: Map140/events/5/pages/1/608/Dialogue
-> CONTEXT: Commonevents/221/300/Dialogue
 Gourd, * rub * ぃ っ っ!#MTLed
-> CONTEXT: None < UNUSED
+> CONTEXT: Commonevents/221/300/Dialogue
 Gourd, * rub * ぃ っ っ!#MTLed
 > END STRING
 

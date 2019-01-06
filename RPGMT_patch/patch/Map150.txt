@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 バー『冬将軍』
 > CONTEXT: Map150/display_name/
@@ -17,12 +17,13 @@ you ......」#MTLed
 > END STRING
 
 > BEGIN STRING
-ウェイトレス
+\\$ウェイトレス
 「この先の階段は地下闘技場への入口です。
-入場料は500Gとなっておりますが……」
-> CONTEXT: None < UNUSED
-waitress. 「The staircase at the end is the entrance to the
-underground stadium. The entrance fee is 500 G, but ....」#MTLed
+入場料は100Gとなっておりますが……」
+> CONTEXT: Map150/events/4/pages/0/0/Dialogue
+\\$ waitress. 「The staircase at the end is the entrance
+to the underground stadium. The admission fee is 100 G, but
+....」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -38,21 +39,21 @@ pay#MTLed
 > CONTEXT: Map089/events/3/pages/0/3/Choice/1
 > CONTEXT: Map052/events/1/pages/0/4/Choice/1
 > CONTEXT: Map052/events/1/pages/2/4/Choice/1
+> CONTEXT: Map050/events/3/pages/1/5/Choice/1
 > CONTEXT: Map052/events/1/pages/3/4/Choice/1
 > CONTEXT: Map052/events/1/pages/4/4/Choice/1
+> CONTEXT: Map050/events/3/pages/1/49/Choice/1
 > CONTEXT: Map052/events/1/pages/5/4/Choice/1
-> CONTEXT: Map050/events/3/pages/1/5/Choice/1
 > CONTEXT: Map052/events/1/pages/6/4/Choice/1
 > CONTEXT: Map052/events/1/pages/7/4/Choice/1
-> CONTEXT: Map050/events/3/pages/1/49/Choice/1
 > CONTEXT: Map052/events/1/pages/8/4/Choice/1
 > CONTEXT: Map052/events/1/pages/9/4/Choice/1
+> CONTEXT: Map050/events/3/pages/2/5/Choice/1
 > CONTEXT: Map052/events/1/pages/10/4/Choice/1
 > CONTEXT: Map052/events/1/pages/11/4/Choice/1
-> CONTEXT: Map050/events/3/pages/2/5/Choice/1
+> CONTEXT: Map050/events/3/pages/2/49/Choice/1
 > CONTEXT: Map052/events/1/pages/12/4/Choice/1
 > CONTEXT: Map052/events/1/pages/13/4/Choice/1
-> CONTEXT: Map050/events/3/pages/2/49/Choice/1
 > CONTEXT: Map052/events/1/pages/14/4/Choice/1
 > CONTEXT: Map052/events/1/pages/15/4/Choice/1
 > CONTEXT: Map050/events/3/pages/3/5/Choice/1
@@ -73,14 +74,21 @@ To give up#MTLed
 > END STRING
 
 > BEGIN STRING
-ウェイトレス
+\\$ウェイトレス
 「確かにお支払いいただきました。
 なお、この酒場から出ると入場権利は失効し、
 再度の入場には再び入場料が必要になりますので、ご注意を」
-> CONTEXT: None < UNUSED
-waitress. 「It certainly received payment.
+> CONTEXT: Map150/events/4/pages/0/8/Dialogue
+\\$ waitress. 「It certainly received payment.
 The entrance right expires when you leave this bar,
 Please note that entrance fee is required again for entry.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ウェイトレス
+「お金が足りないようですね」
+> CONTEXT: Map150/events/4/pages/0/21/Dialogue
+waitress. 「You do not seem to have enough money」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -116,12 +124,12 @@ win. However, if we lose ... ....」#MTLed
 
 > BEGIN STRING
 兵士
-「地下のイベント、俺は挑戦者として参加したことがあるが、
+「俺は地下で勝ち抜き戦に参加したことがあるが、
 悪いことは言わん、生半可な腕前で参加するのはやめておけ。
 うう……思い出すと寒気が……」
-> CONTEXT: None < UNUSED
-A soldier. 「In the basement event, I have participated as
-a challenger, Do not say bad, do not join us with a skill
+> CONTEXT: Map150/events/8/pages/0/0/Dialogue
+A soldier. 「I have participated in the battle to win in
+the basement, Do not say bad, do not join us with a skill
 that is reasonable. Uu ...... When I recall, I feel cold
 ... ...」#MTLed
 > END STRING
@@ -139,11 +147,9 @@ will face if you lose anything?」#MTLed
 > BEGIN STRING
 若い女
 「地下のイベント？
-女にとっては見てもつまらないものよ。
-男なら……まあ、楽しめるでしょうけど」
-> CONTEXT: None < UNUSED
-Young lady. 「Underground events? For women it's boring to
-see. If it's a man ... Well, you can enjoy it」#MTLed
+やめてよ、いやらしいわね」
+> CONTEXT: Map150/events/10/pages/0/0/Dialogue
+Young lady. 「Underground events? Stop it, it's nasty」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -156,42 +162,10 @@ work. I wish I could go underground as soon as I got money」#MTLed
 > END STRING
 
 > BEGIN STRING
-\\$ウェイトレス
-「この先の階段は地下闘技場への入口です。
-入場料は100Gとなっておりますが……」
-> CONTEXT: Map150/events/4/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$ウェイトレス
-「確かにお支払いいただきました。
-なお、この酒場から出ると入場権利は失効し、
-再度の入場には再び入場料が必要になりますので、ご注意を」
-> CONTEXT: Map150/events/4/pages/0/8/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ウェイトレス
-「お金が足りないようですね」
-> CONTEXT: Map150/events/4/pages/0/21/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-兵士
-「俺は地下で勝ち抜き戦に参加したことがあるが、
-悪いことは言わん、生半可な腕前で参加するのはやめておけ。
-うう……思い出すと寒気が……」
-> CONTEXT: Map150/events/8/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-若い女
-「地下のイベント？
-やめてよ、いやらしいわね」
-> CONTEXT: Map150/events/10/pages/0/0/Dialogue < UNTRANSLATED
-
+バニーガール
+「いらっしゃい、\\N[12]君。
+また遊びましょうね♪」
+> CONTEXT: Map150/events/13/pages/0/0/Dialogue
+> CONTEXT: Map047/events/13/pages/0/0/Dialogue
+bunny girl. 「welcome, \\N[12] You. Let's play again♪」#MTLed
 > END STRING

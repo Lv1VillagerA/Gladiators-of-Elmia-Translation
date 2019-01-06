@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 自警団詰め所
 > CONTEXT: Map024/display_name/
@@ -86,23 +86,27 @@ group in the village」#MTLed
 
 > BEGIN STRING
 自警団員ライエル
-「ジェーンのやつ、好戦的だよなぁ。
-毎日のように勝負を挑まれると、さすがに辟易するぜ」
-> CONTEXT: None < UNUSED
-militia member Lyell. 「Jane's bastards are militant.
-When you challenge your game like everyday,」#MTLed
+「ジェーンのやつ、最近性格がますますキツくなった気がする。
+強い男のことは認めるみたいだけど、
+自分より弱い男への扱いが容赦ないんだよな……」
+> CONTEXT: Map024/events/2/pages/0/0/Dialogue
+militia member Lyell. 「Jane's guy has a feeling that his
+personality has become frail recently. I'd like to
+acknowledge a strong guy, The treatment of a weaker man
+than me is not merciless ... ...」#MTLed
 > END STRING
 
 > BEGIN STRING
 自警団員ライエル
-「……実は、ここのところ連戦連敗なんだ……
-ジェーンのやつ、なんか強くね？
+「……実は、ここのところジェーンとの手合わせは
+連戦連敗なんだ……あいつ、なんか強くね？
 これ以上負けたくないし今度から挑まれても断ろうかな……」
-> CONTEXT: None < UNUSED
-militia member Lyell. 「...... Actually, the successive
-losing streaks here ...... Jane's guy, is not it strong?
-I do not want to lose any more, I wonder if I can refuse to
-challenge from this time ...」#MTLed
+> CONTEXT: Map024/events/2/pages/1/0/Dialogue
+militia member Lyell. 「...... Actually, for me here is the
+arrangement with Jane. Continuation losing streak ... ...
+His sister, is not it strong? I do not want to lose any
+more, I wonder if I can refuse to challenge from this time
+...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -130,13 +134,13 @@ To victory of your victory. I will use it to the maximum.」#MTLed
 > BEGIN STRING
 自警団員メリーナ
 「\\N[12]、自警団やめて王都行っちゃうんだって？
-ちょっと寂しいなー
+強い男の子がいなくなっちゃうのは寂しいなー
 この村に帰ってきたら、また一緒に働こうね！」
-> CONTEXT: None < UNUSED
+> CONTEXT: Map024/events/3/pages/0/0/Dialogue
 militia member Melina. 「\\N[12] Do you want to kill
-vigilante groups and go to the kingdom? I am somewhat
-lonesome. When you return to this village, let's work
-together again!」#MTLed
+vigilante groups and go to the kingdom? It is lonely that a
+strong boy will disappear. When you return to this village,
+let's work together again!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -183,10 +187,10 @@ We also wanted to become a king in the Kingdom」#MTLed
 
 > BEGIN STRING
 自警団員トーマス
-「ううーん……団長、同調圧力はやめてください……
-> CONTEXT: None < UNUSED
+「ううーん……団長、同調圧力はやめてください……」
+> CONTEXT: Map024/events/5/pages/0/0/Dialogue
 militia member Thomas. 「Hmm ... ... head captain, please
-stop sync pressure ... ...#MTLed
+stop sync pressure ... ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -213,12 +217,14 @@ I guess he was not human. No, really great.」#MTLed
 
 > BEGIN STRING
 自警団員コーデリア
-「寝かせて……今夜から夜回り役だから
-それに備えて寝ておかなきゃ……
-> CONTEXT: None < UNUSED
-militia member Cordelia. 「Let me sleep ... ... Because
-it's a night race from tonight. I have to sleep in
-preparation for that ... ...#MTLed
+「今夜から夜回り役だから寝ておかなきゃ……
+あの団長、人をこき使って……
+誰か、別の人がリーダーになってくれないかな……」
+> CONTEXT: Map024/events/7/pages/0/0/Dialogue
+militia member Cordelia. 「I'm supposed to be sleeping
+since I am a nightmare from tonight ....
+That head coach, use people to ... ... I wonder if someone
+else will be the leader ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -321,55 +327,15 @@ Our members began to gain power in practice」#MTLed
 > END STRING
 
 > BEGIN STRING
-自警団員ライエル
-「ジェーンのやつ、最近性格がますますキツくなった気がする。
-強い男のことは認めるみたいだけど、
-自分より弱い男への扱いが容赦ないんだよな……」
-> CONTEXT: Map024/events/2/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-自警団員ライエル
-「……実は、ここのところジェーンとの手合わせは
-連戦連敗なんだ……あいつ、なんか強くね？
-これ以上負けたくないし今度から挑まれても断ろうかな……」
-> CONTEXT: Map024/events/2/pages/1/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-自警団員メリーナ
-「\\N[12]、自警団やめて王都行っちゃうんだって？
-強い男の子がいなくなっちゃうのは寂しいなー
-この村に帰ってきたら、また一緒に働こうね！」
-> CONTEXT: Map024/events/3/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-自警団員トーマス
-「ううーん……団長、同調圧力はやめてください……」
-> CONTEXT: Map024/events/5/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-自警団員コーデリア
-「今夜から夜回り役だから寝ておかなきゃ……
-あの団長、人をこき使って……
-誰か、別の人がリーダーになってくれないかな……」
-> CONTEXT: Map024/events/7/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 自警団員ユリコ
 「ジェーンはねぇ、ものすごく負けん気が強いよね。
 \\N[12]も、今はジェーンに認められてるみたいだけど
 もしあの子を失望させたら、反動で容赦ないことをされるかもよ」
-> CONTEXT: Map024/events/15/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/15/pages/0/0/Dialogue
+militia member Yuriko. 「Jane Hey, you are very losing.
+\\N[12] Even though it seems that Jane is now accepted
+If I disappoint her, I may be doing something unrelenting
+by reaction」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -377,6 +343,9 @@ Our members began to gain power in practice」#MTLed
 「\\N[12]が優勝して男の強さを示してくれたから
 自警団内の男性蔑視してるメンバーが大人しくなって、助かったわ。
 やっぱり、男女仲良くが一番よね」
-> CONTEXT: Map024/events/15/pages/1/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/15/pages/1/0/Dialogue
+militia member Yuriko. 「\\N[12] He won the championship
+and showed the strength of the man. Men in the vigilante
+group are disdainful members became mature, I was saved.
+After all, getting along with men and women is the best」#MTLed
 > END STRING

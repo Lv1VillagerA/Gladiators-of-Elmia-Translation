@@ -127,16 +127,16 @@ guild's reception?」#MTLed
 オンナヨリ　ヒヨワ　ダナンテ
 ニンゲンノオトコ、ナサケナイ……」
 > CONTEXT: Map076/events/15/pages/0/29/Dialogue
-> CONTEXT: Map076/events/19/pages/0/29/Dialogue
 > CONTEXT: Map073/events/14/pages/0/29/Dialogue
-> CONTEXT: Map069/events/17/pages/0/29/Dialogue
 > CONTEXT: Map073/events/15/pages/0/29/Dialogue
+> CONTEXT: Map076/events/19/pages/0/29/Dialogue
 > CONTEXT: Map071/events/16/pages/0/29/Dialogue
 > CONTEXT: Map071/events/17/pages/0/29/Dialogue
+> CONTEXT: Map069/events/17/pages/0/29/Dialogue
 > CONTEXT: Map069/events/24/pages/0/29/Dialogue
-> CONTEXT: Map069/events/29/pages/0/29/Dialogue
 > CONTEXT: Map070/events/31/pages/0/29/Dialogue
 > CONTEXT: Map070/events/32/pages/0/29/Dialogue
+> CONTEXT: Map069/events/29/pages/0/29/Dialogue
 Goblin. 「You, yo ... Onunori Hiyowa Danante
 Ningeno otoko, nasa kenai ......」#MTLed
 > END STRING
@@ -147,16 +147,16 @@ Ningeno otoko, nasa kenai ......」#MTLed
 こ、こんなっ、ゴブリンなんかに
 やられちまうなんて……」
 > CONTEXT: Map076/events/15/pages/0/34/Dialogue
-> CONTEXT: Map076/events/19/pages/0/34/Dialogue
 > CONTEXT: Map073/events/14/pages/0/34/Dialogue
-> CONTEXT: Map069/events/17/pages/0/34/Dialogue
 > CONTEXT: Map073/events/15/pages/0/34/Dialogue
+> CONTEXT: Map076/events/19/pages/0/34/Dialogue
 > CONTEXT: Map071/events/16/pages/0/34/Dialogue
 > CONTEXT: Map071/events/17/pages/0/34/Dialogue
+> CONTEXT: Map069/events/17/pages/0/34/Dialogue
 > CONTEXT: Map069/events/24/pages/0/34/Dialogue
-> CONTEXT: Map069/events/29/pages/0/34/Dialogue
 > CONTEXT: Map070/events/31/pages/0/34/Dialogue
 > CONTEXT: Map070/events/32/pages/0/34/Dialogue
+> CONTEXT: Map069/events/29/pages/0/34/Dialogue
 \\N[12]. 「uugh ... ... Something like this, goblin
 I can not stop being ... ...」#MTLed
 > END STRING
@@ -167,16 +167,16 @@ I can not stop being ... ...」#MTLed
 ワタシタチノ　イエ　ニ
 ツレテカエル」
 > CONTEXT: Map076/events/15/pages/0/39/Dialogue
-> CONTEXT: Map076/events/19/pages/0/39/Dialogue
 > CONTEXT: Map073/events/14/pages/0/39/Dialogue
-> CONTEXT: Map069/events/17/pages/0/39/Dialogue
 > CONTEXT: Map073/events/15/pages/0/39/Dialogue
+> CONTEXT: Map076/events/19/pages/0/39/Dialogue
 > CONTEXT: Map071/events/16/pages/0/39/Dialogue
 > CONTEXT: Map071/events/17/pages/0/39/Dialogue
+> CONTEXT: Map069/events/17/pages/0/39/Dialogue
 > CONTEXT: Map069/events/24/pages/0/39/Dialogue
-> CONTEXT: Map069/events/29/pages/0/39/Dialogue
 > CONTEXT: Map070/events/31/pages/0/39/Dialogue
 > CONTEXT: Map070/events/32/pages/0/39/Dialogue
+> CONTEXT: Map069/events/29/pages/0/39/Dialogue
 Goblin. 「Demo, Io Toko ...... Watashitachi no Yeni
 Turetekael」#MTLed
 > END STRING
@@ -186,16 +186,16 @@ Turetekael」#MTLed
 「な、なんだと……
 お、俺をどうするつもりだっ……！」
 > CONTEXT: Map076/events/15/pages/0/44/Dialogue
-> CONTEXT: Map076/events/19/pages/0/44/Dialogue
 > CONTEXT: Map073/events/14/pages/0/44/Dialogue
-> CONTEXT: Map069/events/17/pages/0/44/Dialogue
 > CONTEXT: Map073/events/15/pages/0/44/Dialogue
+> CONTEXT: Map076/events/19/pages/0/44/Dialogue
 > CONTEXT: Map071/events/16/pages/0/44/Dialogue
 > CONTEXT: Map071/events/17/pages/0/44/Dialogue
+> CONTEXT: Map069/events/17/pages/0/44/Dialogue
 > CONTEXT: Map069/events/24/pages/0/44/Dialogue
-> CONTEXT: Map069/events/29/pages/0/44/Dialogue
 > CONTEXT: Map070/events/31/pages/0/44/Dialogue
 > CONTEXT: Map070/events/32/pages/0/44/Dialogue
+> CONTEXT: Map069/events/29/pages/0/44/Dialogue
 \\N[12]. 「What, what .... Oh, what are you going to do
 with me ...?!」#MTLed
 > END STRING
@@ -203,16 +203,16 @@ with me ...?!」#MTLed
 > BEGIN STRING
 ゴブリンは、\\N[12]を抱え上げる。
 > CONTEXT: Map076/events/15/pages/0/48/Dialogue
-> CONTEXT: Map076/events/19/pages/0/48/Dialogue
 > CONTEXT: Map073/events/14/pages/0/48/Dialogue
-> CONTEXT: Map069/events/17/pages/0/48/Dialogue
 > CONTEXT: Map073/events/15/pages/0/48/Dialogue
+> CONTEXT: Map076/events/19/pages/0/48/Dialogue
 > CONTEXT: Map071/events/16/pages/0/48/Dialogue
 > CONTEXT: Map071/events/17/pages/0/48/Dialogue
+> CONTEXT: Map069/events/17/pages/0/48/Dialogue
 > CONTEXT: Map069/events/24/pages/0/48/Dialogue
-> CONTEXT: Map069/events/29/pages/0/48/Dialogue
 > CONTEXT: Map070/events/31/pages/0/48/Dialogue
 > CONTEXT: Map070/events/32/pages/0/48/Dialogue
+> CONTEXT: Map069/events/29/pages/0/48/Dialogue
 Goblin, \\N[12] I hold it.#MTLed
 > END STRING
 
@@ -222,16 +222,16 @@ Goblin, \\N[12] I hold it.#MTLed
 セイドレイ　ト　キマッテイル……
 ワタシタチ　オンナゴブリンノ　ナグサミモノダ」
 > CONTEXT: Map076/events/15/pages/0/50/Dialogue
-> CONTEXT: Map076/events/19/pages/0/50/Dialogue
 > CONTEXT: Map073/events/14/pages/0/50/Dialogue
-> CONTEXT: Map069/events/17/pages/0/50/Dialogue
+> CONTEXT: Map076/events/19/pages/0/50/Dialogue
 > CONTEXT: Map073/events/15/pages/0/50/Dialogue
 > CONTEXT: Map071/events/16/pages/0/50/Dialogue
 > CONTEXT: Map071/events/17/pages/0/50/Dialogue
+> CONTEXT: Map069/events/17/pages/0/50/Dialogue
 > CONTEXT: Map069/events/24/pages/0/50/Dialogue
-> CONTEXT: Map069/events/29/pages/0/50/Dialogue
 > CONTEXT: Map070/events/31/pages/0/50/Dialogue
 > CONTEXT: Map070/events/32/pages/0/50/Dialogue
+> CONTEXT: Map069/events/29/pages/0/50/Dialogue
 Goblin. 「Toraeta ningenha. Seidleight Kimmittile ......
 Watashitachi Onna Goblin 'Nagsamonoida」#MTLed
 > END STRING
@@ -241,16 +241,16 @@ Watashitachi Onna Goblin 'Nagsamonoida」#MTLed
 「そ、そんなっ……
 い、嫌だ、放せっ！」
 > CONTEXT: Map076/events/15/pages/0/55/Dialogue
-> CONTEXT: Map076/events/19/pages/0/55/Dialogue
 > CONTEXT: Map073/events/14/pages/0/55/Dialogue
-> CONTEXT: Map069/events/17/pages/0/55/Dialogue
 > CONTEXT: Map073/events/15/pages/0/55/Dialogue
+> CONTEXT: Map076/events/19/pages/0/55/Dialogue
 > CONTEXT: Map071/events/16/pages/0/55/Dialogue
 > CONTEXT: Map071/events/17/pages/0/55/Dialogue
+> CONTEXT: Map069/events/17/pages/0/55/Dialogue
 > CONTEXT: Map069/events/24/pages/0/55/Dialogue
-> CONTEXT: Map069/events/29/pages/0/55/Dialogue
 > CONTEXT: Map070/events/31/pages/0/55/Dialogue
 > CONTEXT: Map070/events/32/pages/0/55/Dialogue
+> CONTEXT: Map069/events/29/pages/0/55/Dialogue
 \\N[12]. 「Well, that's ... Well, I do not want it,
 let's go!」#MTLed
 > END STRING
@@ -260,16 +260,16 @@ let's go!」#MTLed
 巣穴へと連れ込まれ、
 女ゴブリンの群れに犯されることとなった。
 > CONTEXT: Map076/events/15/pages/0/63/Dialogue
-> CONTEXT: Map076/events/19/pages/0/63/Dialogue
 > CONTEXT: Map073/events/14/pages/0/63/Dialogue
-> CONTEXT: Map069/events/17/pages/0/63/Dialogue
 > CONTEXT: Map073/events/15/pages/0/63/Dialogue
+> CONTEXT: Map076/events/19/pages/0/63/Dialogue
 > CONTEXT: Map071/events/16/pages/0/63/Dialogue
 > CONTEXT: Map071/events/17/pages/0/63/Dialogue
+> CONTEXT: Map069/events/17/pages/0/63/Dialogue
 > CONTEXT: Map069/events/24/pages/0/63/Dialogue
-> CONTEXT: Map069/events/29/pages/0/63/Dialogue
 > CONTEXT: Map070/events/31/pages/0/63/Dialogue
 > CONTEXT: Map070/events/32/pages/0/63/Dialogue
+> CONTEXT: Map069/events/29/pages/0/63/Dialogue
 In this way, \\N[12] He was defeated by a girl goblin
 Brought to the nest hole, It was to be committed by a group
 of girls goblins.#MTLed
@@ -281,16 +281,16 @@ of girls goblins.#MTLed
 ス、スゴク、キモチイイ……
 オマエノ　ペニス、イイグアイダ……！」
 > CONTEXT: Map076/events/15/pages/0/68/Dialogue
-> CONTEXT: Map076/events/19/pages/0/68/Dialogue
 > CONTEXT: Map073/events/14/pages/0/68/Dialogue
-> CONTEXT: Map069/events/17/pages/0/68/Dialogue
+> CONTEXT: Map076/events/19/pages/0/68/Dialogue
 > CONTEXT: Map073/events/15/pages/0/68/Dialogue
 > CONTEXT: Map071/events/16/pages/0/68/Dialogue
 > CONTEXT: Map071/events/17/pages/0/68/Dialogue
+> CONTEXT: Map069/events/17/pages/0/68/Dialogue
 > CONTEXT: Map069/events/24/pages/0/68/Dialogue
-> CONTEXT: Map069/events/29/pages/0/68/Dialogue
 > CONTEXT: Map070/events/31/pages/0/68/Dialogue
 > CONTEXT: Map070/events/32/pages/0/68/Dialogue
+> CONTEXT: Map069/events/29/pages/0/68/Dialogue
 Goblin A. 「Omotte toot ... ... Uh ......
 Su, suck, cheesy ... ... your penis, eaguida ......!」#MTLed
 > END STRING
@@ -299,16 +299,16 @@ Su, suck, cheesy ... ... your penis, eaguida ......!」#MTLed
 \\N[12]
 「あ、あああぁぁ……！」
 > CONTEXT: Map076/events/15/pages/0/73/Dialogue
-> CONTEXT: Map076/events/19/pages/0/73/Dialogue
 > CONTEXT: Map073/events/14/pages/0/73/Dialogue
-> CONTEXT: Map069/events/17/pages/0/73/Dialogue
 > CONTEXT: Map073/events/15/pages/0/73/Dialogue
+> CONTEXT: Map076/events/19/pages/0/73/Dialogue
 > CONTEXT: Map071/events/16/pages/0/73/Dialogue
 > CONTEXT: Map071/events/17/pages/0/73/Dialogue
+> CONTEXT: Map069/events/17/pages/0/73/Dialogue
 > CONTEXT: Map069/events/24/pages/0/73/Dialogue
-> CONTEXT: Map069/events/29/pages/0/73/Dialogue
 > CONTEXT: Map070/events/31/pages/0/73/Dialogue
 > CONTEXT: Map070/events/32/pages/0/73/Dialogue
+> CONTEXT: Map069/events/29/pages/0/73/Dialogue
 \\N[12]. 「Oh, Aaaahh ... ...!」#MTLed
 > CONTEXT: Commonevents/287/27/Dialogue
 \\N[12]. 「Oh, Aaaahh ... ...!」#MTLed
@@ -318,16 +318,16 @@ Su, suck, cheesy ... ... your penis, eaguida ......!」#MTLed
 ゴブリンＢ
 「ツギ、ワタシ……ハヤク、カワッテ……！」
 > CONTEXT: Map076/events/15/pages/0/78/Dialogue
-> CONTEXT: Map076/events/19/pages/0/78/Dialogue
 > CONTEXT: Map073/events/14/pages/0/78/Dialogue
-> CONTEXT: Map069/events/17/pages/0/78/Dialogue
 > CONTEXT: Map073/events/15/pages/0/78/Dialogue
+> CONTEXT: Map076/events/19/pages/0/78/Dialogue
 > CONTEXT: Map071/events/16/pages/0/78/Dialogue
 > CONTEXT: Map071/events/17/pages/0/78/Dialogue
+> CONTEXT: Map069/events/17/pages/0/78/Dialogue
 > CONTEXT: Map069/events/24/pages/0/78/Dialogue
-> CONTEXT: Map069/events/29/pages/0/78/Dialogue
 > CONTEXT: Map070/events/31/pages/0/78/Dialogue
 > CONTEXT: Map070/events/32/pages/0/78/Dialogue
+> CONTEXT: Map069/events/29/pages/0/78/Dialogue
 Goblin B. 「A cucumber, I ...... hayaku, kawatte ...!!」#MTLed
 > END STRING
 
@@ -335,16 +335,16 @@ Goblin B. 「A cucumber, I ...... hayaku, kawatte ...!!」#MTLed
 ゴブリンＣ
 「ワタシモ……」
 > CONTEXT: Map076/events/15/pages/0/81/Dialogue
-> CONTEXT: Map076/events/19/pages/0/81/Dialogue
 > CONTEXT: Map073/events/14/pages/0/81/Dialogue
-> CONTEXT: Map069/events/17/pages/0/81/Dialogue
 > CONTEXT: Map073/events/15/pages/0/81/Dialogue
+> CONTEXT: Map076/events/19/pages/0/81/Dialogue
 > CONTEXT: Map071/events/16/pages/0/81/Dialogue
 > CONTEXT: Map071/events/17/pages/0/81/Dialogue
+> CONTEXT: Map069/events/17/pages/0/81/Dialogue
 > CONTEXT: Map069/events/24/pages/0/81/Dialogue
-> CONTEXT: Map069/events/29/pages/0/81/Dialogue
 > CONTEXT: Map070/events/31/pages/0/81/Dialogue
 > CONTEXT: Map070/events/32/pages/0/81/Dialogue
+> CONTEXT: Map069/events/29/pages/0/81/Dialogue
 Goblin C. 「Watashimo ...」#MTLed
 > END STRING
 
@@ -354,16 +354,16 @@ Goblin C. 「Watashimo ...」#MTLed
 一日で何人の女ゴブリンとセックスしなきゃいけないんだ……
 だ、誰か、助けてくれ……！）
 > CONTEXT: Map076/events/15/pages/0/84/Dialogue
-> CONTEXT: Map076/events/19/pages/0/84/Dialogue
 > CONTEXT: Map073/events/14/pages/0/84/Dialogue
-> CONTEXT: Map069/events/17/pages/0/84/Dialogue
 > CONTEXT: Map073/events/15/pages/0/84/Dialogue
+> CONTEXT: Map076/events/19/pages/0/84/Dialogue
 > CONTEXT: Map071/events/16/pages/0/84/Dialogue
 > CONTEXT: Map071/events/17/pages/0/84/Dialogue
+> CONTEXT: Map069/events/17/pages/0/84/Dialogue
 > CONTEXT: Map069/events/24/pages/0/84/Dialogue
-> CONTEXT: Map069/events/29/pages/0/84/Dialogue
 > CONTEXT: Map070/events/31/pages/0/84/Dialogue
 > CONTEXT: Map070/events/32/pages/0/84/Dialogue
+> CONTEXT: Map069/events/29/pages/0/84/Dialogue
 \\N[12]. (Uu, uugh ... ... feels good, burns ... ...
 I have to have sex with how many girls goblin in a day
 ...... But, someone, please help me ...! )#MTLed
@@ -374,16 +374,16 @@ I have to have sex with how many girls goblin in a day
 その後も女ゴブリンたちに毎日犯され続け、
 性奴隷として、生かさず殺さずの生活を強いられ続けた……
 > CONTEXT: Map076/events/15/pages/0/89/Dialogue
-> CONTEXT: Map076/events/19/pages/0/89/Dialogue
 > CONTEXT: Map073/events/14/pages/0/89/Dialogue
-> CONTEXT: Map069/events/17/pages/0/89/Dialogue
 > CONTEXT: Map073/events/15/pages/0/89/Dialogue
+> CONTEXT: Map076/events/19/pages/0/89/Dialogue
 > CONTEXT: Map071/events/16/pages/0/89/Dialogue
 > CONTEXT: Map071/events/17/pages/0/89/Dialogue
+> CONTEXT: Map069/events/17/pages/0/89/Dialogue
 > CONTEXT: Map069/events/24/pages/0/89/Dialogue
-> CONTEXT: Map069/events/29/pages/0/89/Dialogue
 > CONTEXT: Map070/events/31/pages/0/89/Dialogue
 > CONTEXT: Map070/events/32/pages/0/89/Dialogue
+> CONTEXT: Map069/events/29/pages/0/89/Dialogue
 However, there are no people visiting the goblins'
 Later girls continue to be fucked by goblins every day,
 As a sexual slave, I kept being forcibly living without

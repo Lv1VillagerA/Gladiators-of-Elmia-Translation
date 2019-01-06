@@ -1,4 +1,738 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+闇闘技場
+> CONTEXT: Map065/display_name/
+The dark stadium#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「ここは兄ちゃんみたいなのが来るようなトコじゃないぜ
+賭けるのか？　それとも……」
+> CONTEXT: Map065/events/7/pages/0/0/Dialogue
+scary-looking man. 「It's not like this is my older
+brother-in-law. Do you bet? Or ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「ここは闇闘技場さ。
+基本的には客には賭けを楽しんでもらうことになるが、
+自ら闘士となって試合に参加することもできる。
+> CONTEXT: Map065/events/7/pages/0/13/Dialogue
+scary-looking man. 「This is a dark stadium.
+Basically, customers will enjoy betting, but,
+You can join the game by becoming a fighter yourself.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「なるほど……
+賭けには興味はないけど、試合ができるなら
+興味があるな」
+> CONTEXT: Map065/events/7/pages/0/22/Dialogue
+\\N[12]. 「I see……. I am not interested in betting, but
+if I can play the game. I'm curious」#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「よう兄ちゃん、武道大会に優勝したんだってな。
+若いのにたいしたもんだぜ。
+> CONTEXT: Map065/events/7/pages/1/5/Dialogue
+scary-looking man. 「Older brother, you've won the martial
+arts tournament. It's quite young though.#MTLed
+> END STRING
+
+> BEGIN STRING
+ところで、そんな兄ちゃんを
+うちの看板選手のバニーガール・ミュエルが指名しているぜ。
+もう一回、あんたと戦ってみたいんだとさ。
+> CONTEXT: Map065/events/7/pages/1/9/Dialogue
+By the way, such an older brother. Our signboard player
+bunny girl · Miel is nominating. I guess I would like to
+fight you again.#MTLed
+> END STRING
+
+> BEGIN STRING
+もしミュエルからの挑戦を受ける気があるなら、
+指名試合で\\C[2]バニーガール（逆指名）\\C[0]
+っていう選択肢を選んでくれ。
+普通にバニーガールを指名してもダメだから注意してくれよ」
+> CONTEXT: Map065/events/7/pages/1/13/Dialogue
+If you are willing to take on the challenge from Miel,
+In the nomination game\\C[2] bunny girl (reverse nomination)\\C[0]
+Please choose the option. Even if you normally appoint
+bunny girl, be careful」#MTLed
+> END STRING
+
+> BEGIN STRING
+指名試合
+> CONTEXT: Map065/events/7/pages/1/32/Choice/0
+> CONTEXT: Map065/events/7/pages/1/679/Choice/0
+Nominated game#MTLed
+> END STRING
+
+> BEGIN STRING
+勝ち抜き戦
+> CONTEXT: Map065/events/7/pages/1/32/Choice/1
+> CONTEXT: Map065/events/7/pages/1/679/Choice/1
+Winning battle#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「指名試合をするんだな、オーケー。
+どいつと試合をするんだい？」
+> CONTEXT: Map065/events/7/pages/1/34/Dialogue
+scary-looking man. 「Do a nomination match, okay.
+Who do you play against?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ダークウィッチif(s[588])
+> CONTEXT: Map065/events/7/pages/1/40/Choice/3
+Darkwitchif(s[588])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「ソードシーフと試合したいんだな？
+賭け金は100Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/42/Dialogue
+\\$ scary-looking man. 「You want to play with sword thief?
+The bet is 100 G, but you really want to do it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「よし、確かに100G預かったぜ。
+勝てば2倍にして渡すから、せいぜい頑張りな。
+それじゃあステージに入ってくれ」
+> CONTEXT: Map065/events/7/pages/1/51/Dialogue
+> CONTEXT: Map065/events/7/pages/1/376/Dialogue
+\\$ scary-looking man. 「Alright, I certainly kept 100 g.
+If you win it will double as you pass it, so at best you do
+your best. Well then, please enter the stage.」#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「金が足りねえようだな」
+> CONTEXT: Map065/events/7/pages/1/60/Dialogue
+> CONTEXT: Map065/events/7/pages/1/89/Dialogue
+> CONTEXT: Map065/events/7/pages/1/118/Dialogue
+> CONTEXT: Map065/events/7/pages/1/147/Dialogue
+> CONTEXT: Map065/events/7/pages/1/178/Dialogue
+> CONTEXT: Map065/events/7/pages/1/207/Dialogue
+> CONTEXT: Map065/events/7/pages/1/236/Dialogue
+> CONTEXT: Map065/events/7/pages/1/265/Dialogue
+> CONTEXT: Map065/events/7/pages/1/296/Dialogue
+> CONTEXT: Map065/events/7/pages/1/325/Dialogue
+> CONTEXT: Map065/events/7/pages/1/356/Dialogue
+> CONTEXT: Map065/events/7/pages/1/385/Dialogue
+> CONTEXT: Map065/events/7/pages/1/414/Dialogue
+> CONTEXT: Map065/events/7/pages/1/443/Dialogue
+> CONTEXT: Map065/events/7/pages/1/510/Dialogue
+> CONTEXT: Map065/events/7/pages/1/546/Dialogue
+> CONTEXT: Map065/events/7/pages/1/577/Dialogue
+scary-looking man. 「You seem to have enough money」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「アマゾネスと試合したいんだな？
+賭け金は150Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/71/Dialogue
+\\$ scary-looking man. 「Do you want to play against
+amazon? The bet is 150 G, but you really do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「よし、確かに150G預かったぜ。
+勝てば2倍にして渡すから、せいぜい頑張りな。
+それじゃあステージに入ってくれ」
+> CONTEXT: Map065/events/7/pages/1/80/Dialogue
+> CONTEXT: Map065/events/7/pages/1/109/Dialogue
+> CONTEXT: Map065/events/7/pages/1/169/Dialogue
+\\$ scary-looking man. 「Alright, I definitely kept 150G.
+If you win it will double as you pass it, so at best you do
+your best. Well then, please enter the stage.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「イビルウィッチと試合したいんだな？
+賭け金は150Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/100/Dialogue
+\\$ scary-looking man. 「Do you want to play against evil
+witch? The bet is 150 G, but you really do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「ダークウィッチと試合したいんだな？
+賭け金は450Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/129/Dialogue
+\\$ scary-looking man. 「You want to play against
+Darkwitch? The stake is 450 G, but really do you play?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「よし、確かに450G預かったぜ。
+勝てば2倍にして渡すから、せいぜい頑張りな。
+それじゃあステージに入ってくれ」
+> CONTEXT: Map065/events/7/pages/1/138/Dialogue
+\\$ scary-looking man. 「Well, I certainly kept 450 G.
+If you win it will double as you pass it, so at best you do
+your best. Well then, please enter the stage.」#MTLed
+> END STRING
+
+> BEGIN STRING
+見習い魔法使いif(s[586])
+> CONTEXT: Map065/events/7/pages/1/158/Choice/0
+Apprentice Wizardif(s[586])#MTLed
+> END STRING
+
+> BEGIN STRING
+魔法使いif(s[587])
+> CONTEXT: Map065/events/7/pages/1/158/Choice/1
+Witchif(s[587])#MTLed
+> END STRING
+
+> BEGIN STRING
+女格闘家if(s[586])
+> CONTEXT: Map065/events/7/pages/1/158/Choice/2
+Female fighterif(s[586])#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーンif(s[127])
+> CONTEXT: Map065/events/7/pages/1/158/Choice/3
+Janeif(s[127])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「見習い魔法使いと試合したいんだな？
+賭け金は150Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/160/Dialogue
+\\$ scary-looking man. 「Do you want to play against the
+apprentice mage? The bet is 150 G, but you really do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「魔法使いと試合したいんだな？
+賭け金は200Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/189/Dialogue
+\\$ scary-looking man. 「You want to fight with the wizard?
+The bet is 200 G, but you really do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「よし、確かに200G預かったぜ。
+勝てば2倍にして渡すから、せいぜい頑張りな。
+それじゃあステージに入ってくれ」
+> CONTEXT: Map065/events/7/pages/1/198/Dialogue
+> CONTEXT: Map065/events/7/pages/1/227/Dialogue
+\\$ scary-looking man. 「Well, I certainly kept 200 g.
+If you win it will double as you pass it, so at best you do
+your best. Well then, please enter the stage.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「女格闘家と試合したいんだな？
+賭け金は200Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/218/Dialogue
+\\$ scary-looking man. 「You want to fight with a female
+fighter? The bet is 200 G, but you really do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「ジェーンと試合したいんだな？
+賭け金は300Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/247/Dialogue
+\\$ scary-looking man. 「Do you want to play Jane?
+Although the bet is 300 G, you really do it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「よし、確かに300G預かったぜ。
+勝てば2倍にして渡すから、せいぜい頑張りな。
+それじゃあステージに入ってくれ」
+> CONTEXT: Map065/events/7/pages/1/256/Dialogue
+> CONTEXT: Map065/events/7/pages/1/287/Dialogue
+> CONTEXT: Map065/events/7/pages/1/405/Dialogue
+\\$ scary-looking man. 「Alright, I certainly kept 300 g.
+If you win it will double as you pass it, so at best you do
+your best. Well then, please enter the stage.」#MTLed
+> END STRING
+
+> BEGIN STRING
+女兵士if(s[587])
+> CONTEXT: Map065/events/7/pages/1/276/Choice/0
+Female soldierif(s[587])#MTLed
+> END STRING
+
+> BEGIN STRING
+マリーカif(s[122])
+> CONTEXT: Map065/events/7/pages/1/276/Choice/1
+Mallikif(s[122])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「女兵士と試合したいんだな？
+賭け金は300Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/278/Dialogue
+\\$ scary-looking man. 「You want to play against a female
+soldier? Although the bet is 300 G, you really do it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「マリーカと試合したいんだな？
+賭け金は250Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/307/Dialogue
+\\$ scary-looking man. 「You want to play Mallik?
+I bet 250 grams, are you sure you want to do it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「よし、確かに250G預かったぜ。
+勝てば2倍にして渡すから、せいぜい頑張りな。
+それじゃあステージに入ってくれ」
+> CONTEXT: Map065/events/7/pages/1/316/Dialogue
+\\$ scary-looking man. 「Well, I certainly kept 250 G.
+If you win it will double as you pass it, so at best you do
+your best. Well then, please enter the stage.」#MTLed
+> END STRING
+
+> BEGIN STRING
+リネッタif(s[122])
+> CONTEXT: Map065/events/7/pages/1/336/Choice/0
+Linettaif(s[122])#MTLed
+> END STRING
+
+> BEGIN STRING
+プリムif(s[134])
+> CONTEXT: Map065/events/7/pages/1/336/Choice/1
+Purimif(s[134])#MTLed
+> END STRING
+
+> BEGIN STRING
+ミリーナif(s[132])
+> CONTEXT: Map065/events/7/pages/1/336/Choice/2
+Mileenaif(s[132])#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールif(s[588])
+> CONTEXT: Map065/events/7/pages/1/336/Choice/3
+bunny girlif(s[588])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「リネッタと試合したいんだな？
+賭け金は400Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/338/Dialogue
+\\$ scary-looking man. 「You want to play against Linetta?
+I bet that the stakes are 400 G, but are you sure you want
+to do it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「よし、確かに400G預かったぜ。
+勝てば2倍にして渡すから、せいぜい頑張りな。
+それじゃあステージに入ってくれ」
+> CONTEXT: Map065/events/7/pages/1/347/Dialogue
+> CONTEXT: Map065/events/7/pages/1/568/Dialogue
+\\$ scary-looking man. 「Alright, I certainly kept 400 G.
+If you win it will double as you pass it, so at best you do
+your best. Well then, please enter the stage.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「プリムと試合したいんだな？
+賭け金は100Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/367/Dialogue
+\\$ scary-looking man. 「Do you want to play against Purim?
+The bet is 100 G, but you really want to do it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「ミリーナと試合したいんだな？
+賭け金は300Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/396/Dialogue
+\\$ scary-looking man. 「You want to play Mileena?
+Although the bet is 300 G, you really do it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「おっと、うちの看板選手と試合したいのか？
+賭け金は500Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/425/Dialogue
+\\$ scary-looking man. 「Oops, do you want to play with
+our signboard player? Although the stake is 500 G, will you
+really do it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「よし、確かに500G預かったぜ。
+勝てば2倍にして渡すから、せいぜい頑張りな。
+それじゃあステージに入ってくれ」
+> CONTEXT: Map065/events/7/pages/1/434/Dialogue
+> CONTEXT: Map065/events/7/pages/1/501/Dialogue
+\\$ scary-looking man. 「Alright, I certainly kept 500 g.
+If you win it will double as you pass it, so at best you do
+your best. Well then, please enter the stage.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガール（逆指名）if(s[607])
+> CONTEXT: Map065/events/7/pages/1/454/Choice/0
+bunny girl (reverse nomination)if(s[607])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「うちのバニーガールとの特別なバトルだ。
+\\C[2]これを選ぶと勝敗にかかわらずエンディングになる\\C[0]から
+気をつけてくれよ」
+> CONTEXT: Map065/events/7/pages/1/456/Dialogue
+\\$ scary-looking man. 「It is a special battle with our
+bunny girl. \\C[2]Choosing this will result in ending regardless
+of win or loss\\C[0] From. Please take care.」#MTLed
+> END STRING
+
+> BEGIN STRING
+バニーガールの挑戦を受ける
+> CONTEXT: Map065/events/7/pages/1/461/Choice/0
+Take the challenge of bunny girl#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「受けてくれるか。
+よし、それじゃあステージに入ってくれ。
+こいつは最高のショーになるぜ！」
+> CONTEXT: Map065/events/7/pages/1/464/Dialogue
+\\$ scary-looking man. 「Will you accept it?
+OK, then, please enter the stage. This guy will be the best
+show!」#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「ん、優勝賞金は使っちまったのか？
+残念だが、あんたが100万Gを持っていないと
+この勝負は成立しないんだ」
+> CONTEXT: Map065/events/7/pages/1/473/Dialogue
+scary-looking man. 「Does the winning prize have been used?
+Sorry, if you do not have 1 million G. This game is not
+approved」#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「そうか、残念だな。
+挑戦を受ける気になったら、いつでも指名してくれよ」
+> CONTEXT: Map065/events/7/pages/1/482/Dialogue
+scary-looking man. 「That's a pity. If you feel like
+receiving a challenge, please name me anytime.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ベルベットif(s[235])
+> CONTEXT: Map065/events/7/pages/1/490/Choice/0
+velvetif(s[235])#MTLed
+> END STRING
+
+> BEGIN STRING
+シェリーif(s[236])
+> CONTEXT: Map065/events/7/pages/1/490/Choice/1
+Sherryif(s[236])#MTLed
+> END STRING
+
+> BEGIN STRING
+ディアーナif(s[134])
+> CONTEXT: Map065/events/7/pages/1/490/Choice/2
+Dianaif(s[134])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「ベルベットと試合したいんだな？
+賭け金は500Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/492/Dialogue
+\\$ scary-looking man. 「Do you want to play against
+velvet? Although the stake is 500 G, will you really do it?
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「残念だが、シェリーは旅立っていっちまったようだな。
+もうこの闘技場にも現れないぜ」
+> CONTEXT: Map065/events/7/pages/1/522/Dialogue
+scary-looking man. 「I am sorry, Shelley seems to have
+taken off. I will not show up at this stadium anymore」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「シェリーと試合したいんだな？
+賭け金は600Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/528/Dialogue
+\\$ scary-looking man. 「You want to play Sherry?
+The bet is 600 G, but you really do?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「よし、確かに600G預かったぜ。
+勝てば2倍にして渡すから、せいぜい頑張りな。
+それじゃあステージに入ってくれ」
+> CONTEXT: Map065/events/7/pages/1/537/Dialogue
+\\$ scary-looking man. 「Alright, I certainly got a 600G
+deposit. If you win it will double as you pass it, so at
+best you do your best. Well then, please enter the stage.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「ディアーナと試合したいんだな？
+賭け金は400Gだが、本当にやるかい？」
+> CONTEXT: Map065/events/7/pages/1/559/Dialogue
+\\$ scary-looking man. 「Do you want to play against Diana?
+I bet that the stakes are 400 G, but are you sure you want
+to do it?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「勝ち抜き戦に参加するんだな。
+どのグレードにするんだい？
+グレードによって賭け金と敵の強さが変わるぜ」
+> CONTEXT: Map065/events/7/pages/1/592/Dialogue
+\\$ scary-looking man. 「Join the winning battle.
+What grades do you want? Wager and enemy strength will
+change depending on the grade」#MTLed
+> END STRING
+
+> BEGIN STRING
+３００（３戦）
+> CONTEXT: Map065/events/7/pages/1/597/Choice/0
+300 (3 races)#MTLed
+> END STRING
+
+> BEGIN STRING
+６００（４戦）
+> CONTEXT: Map065/events/7/pages/1/597/Choice/1
+600 (4 games)#MTLed
+> END STRING
+
+> BEGIN STRING
+１０００（５戦）
+> CONTEXT: Map065/events/7/pages/1/597/Choice/2
+1000 (5 races)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「わかった、グレード３００だな。
+じゃあ、ステージに入ってくれ。
+このグレードの相手は強くはないが、油断はしないこったな」
+> CONTEXT: Map065/events/7/pages/1/602/Dialogue
+\\$ scary-looking man. 「Okay, grade 300.
+Well then, please enter the stage. The opponent of this
+grade is not strong, but I did not care about it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「わかった、グレード６００だな。
+じゃあ、ステージに入ってくれ。
+手強い相手が多いぜ、どこまで勝ち抜けるかな？」
+> CONTEXT: Map065/events/7/pages/1/622/Dialogue
+\\$ scary-looking man. 「OK, it's a grade 600.
+Well then, please enter the stage. There are many tough
+partners, how far can you win?」#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「グレード６００は、今は挑戦できないぜ。すまんな。
+武道大会の決勝トーナメント開始時から解放されるぜ」
+> CONTEXT: Map065/events/7/pages/1/638/Dialogue
+scary-looking man. 「Grade 600 can not challenge right now.
+Sorry. It will be released from the start of the finals
+tournament of martial arts tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\$コワモテの男
+「わかった、グレード１０００だな。
+じゃあ、ステージに入ってくれ。
+ウチの看板選手に勝てたら、たいしたもんだぜ」
+> CONTEXT: Map065/events/7/pages/1/650/Dialogue
+\\$ scary-looking man. 「Okay, it's grade 1000.
+Well then, please enter the stage. If I can win against a
+signboard player of my place, it will be a big deal」#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「対戦したい相手を指名できるコースだぜ。
+勝ち抜き戦と比べて賞金額は低いが、
+目当ての相手とサクッと戦いたい場合はオススメだ。
+> CONTEXT: Map065/events/7/pages/1/681/Dialogue
+scary-looking man. 「It's a course that you can name
+opponents you want to fight. Although the prize amount is
+lower than the winning game, It is recommended when you
+want to fight with the target party.#MTLed
+> END STRING
+
+> BEGIN STRING
+最初から何人かの相手と戦うことができるが、
+あんたが武道大会を勝ち進んでいけば
+対戦できる相手がどんどん追加されていくぜ。
+> CONTEXT: Map065/events/7/pages/1/686/Dialogue
+You can fight against some opponents from the beginning,
+If you go beyond martial arts tournament
+The opponent who can fight will be added more and more.#MTLed
+> END STRING
+
+> BEGIN STRING
+相手を選択し、設定された賭け金を払えばすぐに対戦できる。
+当然、負ければ賭け金は没収だ。
+儲けたかったら勝つことだな」
+> CONTEXT: Map065/events/7/pages/1/690/Dialogue
+If you select the opponent and pay the set stake, you can
+play battle immediately. Naturally, if you lose, your wager
+is forfeited. To win if you want to win」#MTLed
+> END STRING
+
+> BEGIN STRING
+コワモテの男
+「決められた試合数を連続でこなしてもらうコースだぜ。
+グレードを選択して賭け金を払えば、
+あとはステージで戦ってもらうことになる。
+> CONTEXT: Map065/events/7/pages/1/696/Dialogue
+scary-looking man. 「It's a course to have a fixed number
+of matches decided. If you choose a grade and pay the
+wager, And we will have them fight on the stage.#MTLed
+> END STRING
+
+> BEGIN STRING
+グレード３００は３戦、
+グレード６００は４戦、１０００では５戦してもらうぜ。
+全勝すれば賭け金に賞金を上乗せして渡すが、
+１回でも負ければその時点で終了、賭け金は没収だ。
+> CONTEXT: Map065/events/7/pages/1/701/Dialogue
+Grade 300 is 3 races, We will have 4 races for grade 600
+and 5 races for 1000. If you win, you will add a prize to
+the wager and give it, If you lose at least once, it ends
+at that point and the stake is forfeited.#MTLed
+> END STRING
+
+> BEGIN STRING
+それと……グレード６００と１０００では、最終戦で敗北すると
+逆レイプショーってことで
+あんたが対戦相手に辱められることになる。
+恥をかかないよう、せいぜい頑張るんだな」
+> CONTEXT: Map065/events/7/pages/1/706/Dialogue
+And ... ... In grade 600 and 1000, if you defeat in the
+final round. By saying a reverse rape show
+You will be humiliated by your opponent.
+Do not be ashamed, at best do your best」#MTLed
+> END STRING
+
+> BEGIN STRING
+若者
+「メルディアちゃーん、頑張れー！
+キミにたくさん賭けてるんだからなー！」
+> CONTEXT: Map065/events/8/pages/0/0/Dialogue
+Youth. 「Meldiya, do your best! Because you are betting a
+lot on Kim!」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「この闇闘技場の試合は、
+片方は必ず女が出てくるんじゃ。
+お前さんが試合に参加する場合、相手は必ず女じゃぞ」
+> CONTEXT: Map065/events/9/pages/0/0/Dialogue
+old man. 「The game of this dark stadium,
+A woman surely comes out of one side. When you participate
+in the game, the opponent is surely a woman」#MTLed
+> END STRING
+
+> BEGIN STRING
+職人
+「こっちは闘士が金とプライドを賭けて戦っている分、
+武道大会より緊張感があっていいぜ」
+> CONTEXT: Map065/events/13/pages/0/0/Dialogue
+Craftsman. 「For this time the warrior is fighting against
+gold and pride, It may be more tense than martial arts
+tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+職人
+「ここんとこ負け続きだし、
+ここいらで大きく取り戻してえなあ……」
+> CONTEXT: Map065/events/14/pages/0/0/Dialogue
+Craftsman. 「I'm losing out lastly, I wish I could regain
+it greatly ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+旅の商人
+「酒場の地下に闇闘技場があると聞いて来てみたのですが……
+賭けで散財して、儲けがすっ飛んでしまいそうですよ。
+これはまいった」
+> CONTEXT: Map065/events/15/pages/0/0/Dialogue
+A merchant of the trip. 「I tried to ask that there is a
+dark stadium in the basement of the bar ... ...
+It seems that earnings will be shedding off by scattering
+by betting. This is not the case」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「ここの看板選手はバニーガールのミュエルちゃんだよ。
+彼女、武道大会にも出るのかねぇ。
+いや、さすがにそれはないか……」
+> CONTEXT: Map065/events/16/pages/0/0/Dialogue
+old man. 「The signboard player here is Miel - chan of
+bunny girl. I wonder if she will go out to martial arts
+tournament as well. No, indeed it is not it ......」#MTLed
+> END STRING
+
+> BEGIN STRING
+おじさん
+「兄ちゃん、ミュエルちゃんに勝ったんだって？
+よく惑わされずに戦えたもんだなあ」
+> CONTEXT: Map065/events/16/pages/1/0/Dialogue
+old man. 「Onii-chan, you won Miel-chan? I could have
+fought without being disturbed well」#MTLed
+> END STRING
+
 > BEGIN STRING
 コワモテの男
 「まあ、まず真ん中のステージを見てみな」
@@ -84,688 +818,55 @@ between men do not matter」#MTLed
 > END STRING
 
 > BEGIN STRING
-闇闘技場
-> CONTEXT: Map065/display_name/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-コワモテの男
-「ここは兄ちゃんみたいなのが来るようなトコじゃないぜ
-賭けるのか？　それとも……」
-> CONTEXT: Map065/events/7/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-コワモテの男
-「ここは闇闘技場さ。
-基本的には客には賭けを楽しんでもらうことになるが、
-自ら闘士となって試合に参加することもできる。
-> CONTEXT: Map065/events/7/pages/0/13/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「なるほど……
-賭けには興味はないけど、試合ができるなら
-興味があるな」
-> CONTEXT: Map065/events/7/pages/0/22/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-コワモテの男
-「よう兄ちゃん、武道大会に優勝したんだってな。
-若いのにたいしたもんだぜ。
-> CONTEXT: Map065/events/7/pages/1/5/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ところで、そんな兄ちゃんを
-うちの看板選手のバニーガール・ミュエルが指名しているぜ。
-もう一回、あんたと戦ってみたいんだとさ。
-> CONTEXT: Map065/events/7/pages/1/9/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-もしミュエルからの挑戦を受ける気があるなら、
-指名試合で\\C[2]バニーガール（逆指名）\\C[0]
-っていう選択肢を選んでくれ。
-普通にバニーガールを指名してもダメだから注意してくれよ」
-> CONTEXT: Map065/events/7/pages/1/13/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-指名試合
-> CONTEXT: Map065/events/7/pages/1/32/Choice/0 < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/679/Choice/0 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-勝ち抜き戦
-> CONTEXT: Map065/events/7/pages/1/32/Choice/1 < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/679/Choice/1 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-コワモテの男
-「指名試合をするんだな、オーケー。
-どいつと試合をするんだい？」
-> CONTEXT: Map065/events/7/pages/1/34/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ダークウィッチif(s[588])
-> CONTEXT: Map065/events/7/pages/1/40/Choice/3 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「ソードシーフと試合したいんだな？
-賭け金は100Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/42/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「よし、確かに100G預かったぜ。
-勝てば2倍にして渡すから、せいぜい頑張りな。
-それじゃあステージに入ってくれ」
-> CONTEXT: Map065/events/7/pages/1/51/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/376/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-コワモテの男
-「金が足りねえようだな」
-> CONTEXT: Map065/events/7/pages/1/60/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/89/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/118/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/147/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/178/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/207/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/236/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/265/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/296/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/325/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/356/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/385/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/414/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/443/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/510/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/546/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/577/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「アマゾネスと試合したいんだな？
-賭け金は150Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/71/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「よし、確かに150G預かったぜ。
-勝てば2倍にして渡すから、せいぜい頑張りな。
-それじゃあステージに入ってくれ」
-> CONTEXT: Map065/events/7/pages/1/80/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/109/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/169/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「イビルウィッチと試合したいんだな？
-賭け金は150Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/100/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「ダークウィッチと試合したいんだな？
-賭け金は450Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/129/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「よし、確かに450G預かったぜ。
-勝てば2倍にして渡すから、せいぜい頑張りな。
-それじゃあステージに入ってくれ」
-> CONTEXT: Map065/events/7/pages/1/138/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-見習い魔法使いif(s[586])
-> CONTEXT: Map065/events/7/pages/1/158/Choice/0 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-魔法使いif(s[587])
-> CONTEXT: Map065/events/7/pages/1/158/Choice/1 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-女格闘家if(s[586])
-> CONTEXT: Map065/events/7/pages/1/158/Choice/2 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーンif(s[127])
-> CONTEXT: Map065/events/7/pages/1/158/Choice/3 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「見習い魔法使いと試合したいんだな？
-賭け金は150Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/160/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「魔法使いと試合したいんだな？
-賭け金は200Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/189/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「よし、確かに200G預かったぜ。
-勝てば2倍にして渡すから、せいぜい頑張りな。
-それじゃあステージに入ってくれ」
-> CONTEXT: Map065/events/7/pages/1/198/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/227/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「女格闘家と試合したいんだな？
-賭け金は200Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/218/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「ジェーンと試合したいんだな？
-賭け金は300Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/247/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「よし、確かに300G預かったぜ。
-勝てば2倍にして渡すから、せいぜい頑張りな。
-それじゃあステージに入ってくれ」
-> CONTEXT: Map065/events/7/pages/1/256/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/287/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/405/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-女兵士if(s[587])
-> CONTEXT: Map065/events/7/pages/1/276/Choice/0 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-マリーカif(s[122])
-> CONTEXT: Map065/events/7/pages/1/276/Choice/1 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「女兵士と試合したいんだな？
-賭け金は300Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/278/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「マリーカと試合したいんだな？
-賭け金は250Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/307/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「よし、確かに250G預かったぜ。
-勝てば2倍にして渡すから、せいぜい頑張りな。
-それじゃあステージに入ってくれ」
-> CONTEXT: Map065/events/7/pages/1/316/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-リネッタif(s[122])
-> CONTEXT: Map065/events/7/pages/1/336/Choice/0 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-プリムif(s[134])
-> CONTEXT: Map065/events/7/pages/1/336/Choice/1 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ミリーナif(s[132])
-> CONTEXT: Map065/events/7/pages/1/336/Choice/2 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-バニーガールif(s[588])
-> CONTEXT: Map065/events/7/pages/1/336/Choice/3 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「リネッタと試合したいんだな？
-賭け金は400Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/338/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「よし、確かに400G預かったぜ。
-勝てば2倍にして渡すから、せいぜい頑張りな。
-それじゃあステージに入ってくれ」
-> CONTEXT: Map065/events/7/pages/1/347/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/568/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「プリムと試合したいんだな？
-賭け金は100Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/367/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「ミリーナと試合したいんだな？
-賭け金は300Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/396/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「おっと、うちの看板選手と試合したいのか？
-賭け金は500Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/425/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「よし、確かに500G預かったぜ。
-勝てば2倍にして渡すから、せいぜい頑張りな。
-それじゃあステージに入ってくれ」
-> CONTEXT: Map065/events/7/pages/1/434/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/501/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-バニーガール（逆指名）if(s[607])
-> CONTEXT: Map065/events/7/pages/1/454/Choice/0 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「うちのバニーガールとの特別なバトルだ。
-\\C[2]これを選ぶと勝敗にかかわらずエンディングになる\\C[0]から
-気をつけてくれよ」
-> CONTEXT: Map065/events/7/pages/1/456/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-バニーガールの挑戦を受ける
-> CONTEXT: Map065/events/7/pages/1/461/Choice/0 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「受けてくれるか。
-よし、それじゃあステージに入ってくれ。
-こいつは最高のショーになるぜ！」
-> CONTEXT: Map065/events/7/pages/1/464/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-コワモテの男
-「ん、優勝賞金は使っちまったのか？
-残念だが、あんたが100万Gを持っていないと
-この勝負は成立しないんだ」
-> CONTEXT: Map065/events/7/pages/1/473/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-コワモテの男
-「そうか、残念だな。
-挑戦を受ける気になったら、いつでも指名してくれよ」
-> CONTEXT: Map065/events/7/pages/1/482/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ベルベットif(s[235])
-> CONTEXT: Map065/events/7/pages/1/490/Choice/0 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-シェリーif(s[236])
-> CONTEXT: Map065/events/7/pages/1/490/Choice/1 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ディアーナif(s[134])
-> CONTEXT: Map065/events/7/pages/1/490/Choice/2 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「ベルベットと試合したいんだな？
-賭け金は500Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/492/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-コワモテの男
-「残念だが、シェリーは旅立っていっちまったようだな。
-もうこの闘技場にも現れないぜ」
-> CONTEXT: Map065/events/7/pages/1/522/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「シェリーと試合したいんだな？
-賭け金は600Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/528/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「よし、確かに600G預かったぜ。
-勝てば2倍にして渡すから、せいぜい頑張りな。
-それじゃあステージに入ってくれ」
-> CONTEXT: Map065/events/7/pages/1/537/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「ディアーナと試合したいんだな？
-賭け金は400Gだが、本当にやるかい？」
-> CONTEXT: Map065/events/7/pages/1/559/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「勝ち抜き戦に参加するんだな。
-どのグレードにするんだい？
-グレードによって賭け金と敵の強さが変わるぜ」
-> CONTEXT: Map065/events/7/pages/1/592/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-３００（３戦）
-> CONTEXT: Map065/events/7/pages/1/597/Choice/0 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-６００（４戦）
-> CONTEXT: Map065/events/7/pages/1/597/Choice/1 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-１０００（５戦）
-> CONTEXT: Map065/events/7/pages/1/597/Choice/2 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「わかった、グレード３００だな。
-じゃあ、ステージに入ってくれ。
-このグレードの相手は強くはないが、油断はしないこったな」
-> CONTEXT: Map065/events/7/pages/1/602/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「わかった、グレード６００だな。
-じゃあ、ステージに入ってくれ。
-手強い相手が多いぜ、どこまで勝ち抜けるかな？」
-> CONTEXT: Map065/events/7/pages/1/622/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-コワモテの男
-「グレード６００は、今は挑戦できないぜ。すまんな。
-武道大会の決勝トーナメント開始時から解放されるぜ」
-> CONTEXT: Map065/events/7/pages/1/638/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\$コワモテの男
-「わかった、グレード１０００だな。
-じゃあ、ステージに入ってくれ。
-ウチの看板選手に勝てたら、たいしたもんだぜ」
-> CONTEXT: Map065/events/7/pages/1/650/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-コワモテの男
-「対戦したい相手を指名できるコースだぜ。
-勝ち抜き戦と比べて賞金額は低いが、
-目当ての相手とサクッと戦いたい場合はオススメだ。
-> CONTEXT: Map065/events/7/pages/1/681/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-最初から何人かの相手と戦うことができるが、
-あんたが武道大会を勝ち進んでいけば
-対戦できる相手がどんどん追加されていくぜ。
-> CONTEXT: Map065/events/7/pages/1/686/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-相手を選択し、設定された賭け金を払えばすぐに対戦できる。
-当然、負ければ賭け金は没収だ。
-儲けたかったら勝つことだな」
-> CONTEXT: Map065/events/7/pages/1/690/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-コワモテの男
-「決められた試合数を連続でこなしてもらうコースだぜ。
-グレードを選択して賭け金を払えば、
-あとはステージで戦ってもらうことになる。
-> CONTEXT: Map065/events/7/pages/1/696/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-グレード３００は３戦、
-グレード６００は４戦、１０００では５戦してもらうぜ。
-全勝すれば賭け金に賞金を上乗せして渡すが、
-１回でも負ければその時点で終了、賭け金は没収だ。
-> CONTEXT: Map065/events/7/pages/1/701/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-それと……グレード６００と１０００では、最終戦で敗北すると
-逆レイプショーってことで
-あんたが対戦相手に辱められることになる。
-恥をかかないよう、せいぜい頑張るんだな」
-> CONTEXT: Map065/events/7/pages/1/706/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-若者
-「メルディアちゃーん、頑張れー！
-キミにたくさん賭けてるんだからなー！」
-> CONTEXT: Map065/events/8/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-おじいさん
-「この闇闘技場の試合は、
-片方は必ず女が出てくるんじゃ。
-お前さんが試合に参加する場合、相手は必ず女じゃぞ」
-> CONTEXT: Map065/events/9/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-職人
-「こっちは闘士が金とプライドを賭けて戦っている分、
-武道大会より緊張感があっていいぜ」
-> CONTEXT: Map065/events/13/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-職人
-「ここんとこ負け続きだし、
-ここいらで大きく取り戻してえなあ……」
-> CONTEXT: Map065/events/14/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-旅の商人
-「酒場の地下に闇闘技場があると聞いて来てみたのですが……
-賭けで散財して、儲けがすっ飛んでしまいそうですよ。
-これはまいった」
-> CONTEXT: Map065/events/15/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-おじさん
-「ここの看板選手はバニーガールのミュエルちゃんだよ。
-彼女、武道大会にも出るのかねぇ。
-いや、さすがにそれはないか……」
-> CONTEXT: Map065/events/16/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-おじさん
-「兄ちゃん、ミュエルちゃんに勝ったんだって？
-よく惑わされずに戦えたもんだなあ」
-> CONTEXT: Map065/events/16/pages/1/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 兵士
 「ここだけの話だが、うちの女兵士も参加してたりするんだ。
 グレード６００なら対戦できるかもしれないよ」
-> CONTEXT: Map065/events/19/pages/1/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/19/pages/1/0/Dialogue
+A soldier. 「It is only here, but also our soldiers join in.
+You may be able to play against Grade 600」#MTLed
 > END STRING
 
 > BEGIN STRING
 貴族の女性
 「うふふ、この淫靡な雰囲気がたまりませんわね。
 武道大会とはまた違った醍醐味を感じますわ」
-> CONTEXT: Map065/events/21/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/21/pages/0/0/Dialogue
+Noble women. 「Ufufu, this dirty atmosphere can not be
+collected. I feel different real pleasure from martial arts
+tournament」#MTLed
 > END STRING
 
 > BEGIN STRING
 メイドさん
 「負けた男が犯されるところを見られるし、
 ここに来ると、すっごく興奮しちゃうわ～♪」
-> CONTEXT: Map065/events/22/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/22/pages/0/0/Dialogue
+Maid. 「You can see where the loser is fucked,
+Coming here makes me so excited!♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 女性
 「ついいっぱい賭けちゃうから、
 気をつけないと破産しちゃいそう」
-> CONTEXT: Map065/events/24/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/24/pages/0/0/Dialogue
+Woman. 「Because I bet a lot, I guess it will go bankrupt
+if I can not be careful」#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガール
 「回復アイテムを販売しているわよ。
 買っていくかしら？」
-> CONTEXT: Map065/events/25/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/25/pages/0/0/Dialogue
+bunny girl. 「I'm selling recovery items.
+I wonder if I will buy it?」#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガール
 「ちょっと高い？
 フフフ……そうかもね♪」
-> CONTEXT: Map065/events/25/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/25/pages/0/12/Dialogue
+bunny girl. 「A bit expensive? Huhhhhh ... well, maybe♪」#MTLed
 > END STRING

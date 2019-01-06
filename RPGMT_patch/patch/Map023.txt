@@ -1,20 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
-> BEGIN STRING
-ミリーナ
-> CONTEXT: Map023/events/7/pages/0/0/Dialogue
-Mileena#MTLed
-> CONTEXT: Actors/16/name/
-> CONTEXT: Enemies/111/name/
-> CONTEXT: Enemies/154/name/
-> CONTEXT: Map152/events/24/pages/6/700/Label
-> CONTEXT: Map152/events/24/pages/6/777/Label
-> CONTEXT: Troops/200/name/
-> CONTEXT: Map043/events/24/pages/6/701/Label
-> CONTEXT: Map043/events/24/pages/6/778/Label
-> CONTEXT: Enemies/163/name/
-Mileena#MTLed
-> END STRING
-
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 勃起ポイント表示
 > CONTEXT: Map023/events/12/pages/0/0/Dialogue
@@ -170,8 +154,6 @@ Man eating w#MTLed
 > CONTEXT: Commonevents/192/11/Choice/0
 > CONTEXT: Commonevents/284/12/Choice/0
 > CONTEXT: Commonevents/288/20/Choice/0
-> CONTEXT: Commonevents/288/20/Choice/0
-> CONTEXT: Commonevents/311/12/Choice/0
 > CONTEXT: Commonevents/311/12/Choice/0
 To dodge#MTLed
 > END STRING
@@ -188,8 +170,6 @@ To dodge#MTLed
 > CONTEXT: Commonevents/192/11/Choice/1
 > CONTEXT: Commonevents/284/12/Choice/1
 > CONTEXT: Commonevents/288/20/Choice/1
-> CONTEXT: Commonevents/288/20/Choice/1
-> CONTEXT: Commonevents/311/12/Choice/1
 > CONTEXT: Commonevents/311/12/Choice/1
 To accept#MTLed
 > END STRING
@@ -253,36 +233,9 @@ Diana Normal#MTLed
 > END STRING
 
 > BEGIN STRING
-マリーカ
-> CONTEXT: Map023/events/65/pages/0/0/Dialogue
-> CONTEXT: Troops/205/name/
-Mallik#MTLed
-> CONTEXT: Enemies/52/name/
-Mallik#MTLed
-> END STRING
-
-> BEGIN STRING
 女不良
 > CONTEXT: Map023/events/67/pages/0/0/Dialogue
 Woman fault#MTLed
-> END STRING
-
-> BEGIN STRING
-女兵士
-> CONTEXT: Map023/events/70/pages/0/0/Dialogue
-Female soldier#MTLed
-> CONTEXT: Enemies/120/name/
-> CONTEXT: Enemies/121/name/
-> CONTEXT: Enemies/123/name/
-> CONTEXT: Enemies/141/name/
-> CONTEXT: Enemies/190/name/
-> CONTEXT: Enemies/191/name/
-> CONTEXT: Enemies/199/name/
-> CONTEXT: Enemies/200/name/
-> CONTEXT: Troops/204/name/
-> CONTEXT: Enemies/217/name/
-> CONTEXT: Enemies/220/name/
-Female soldier#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -295,29 +248,6 @@ Royal#MTLed
 見習い
 > CONTEXT: Map023/events/72/pages/0/0/Dialogue
 apprentice#MTLed
-> END STRING
-
-> BEGIN STRING
-プリム
-> CONTEXT: Map023/events/76/pages/0/0/Dialogue
-Purim#MTLed
-> CONTEXT: Actors/15/name/
-> CONTEXT: Enemies/103/name/
-> CONTEXT: Enemies/137/name/
-> CONTEXT: Enemies/138/name/
-> CONTEXT: Enemies/139/name/
-> CONTEXT: Enemies/140/name/
-> CONTEXT: Enemies/142/name/
-> CONTEXT: Enemies/152/name/
-> CONTEXT: Enemies/180/name/
-> CONTEXT: Enemies/181/name/
-> CONTEXT: Troops/199/name/
-> CONTEXT: Enemies/210/name/
-> CONTEXT: Enemies/221/name/
-> CONTEXT: Enemies/228/name/
-Purim#MTLed
-> CONTEXT: Commonevents/283/10/Dialogue
-Purim#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -364,7 +294,7 @@ The queen#MTLed
 
 > BEGIN STRING
 女王服破れVer
-> CONTEXT: Map023/events/90/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/91/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/90/pages/0/0/Dialogue
+> CONTEXT: Map023/events/91/pages/0/0/Dialogue
+Queen clothes breaking Ver#MTLed
 > END STRING

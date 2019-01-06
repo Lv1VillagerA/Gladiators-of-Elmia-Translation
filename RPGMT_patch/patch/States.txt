@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 戦闘不能
 > CONTEXT: States/1/name/
@@ -371,10 +371,9 @@ The erection of the house has stopped!#MTLed
 脱力
 > CONTEXT: States/27/name/
 Weakness#MTLed
+> CONTEXT: Map008/events/8/pages/0/96/Choice/0
 > CONTEXT: Map008/events/11/pages/0/97/Choice/0
 > CONTEXT: Map008/events/24/pages/0/97/Choice/0
-> CONTEXT: Map008/events/8/pages/0/96/Choice/0
-> CONTEXT: Map008/events/8/pages/0/96/Choice/0
 Weakness#MTLed
 > END STRING
 
@@ -431,10 +430,9 @@ I am shocked ...#MTLed
 > CONTEXT: States/30/name/
 > CONTEXT: States/52/name/
 Ecstasy#MTLed
+> CONTEXT: Map008/events/8/pages/0/42/Choice/3
 > CONTEXT: Map008/events/11/pages/0/42/Choice/2
 > CONTEXT: Map008/events/24/pages/0/42/Choice/2
-> CONTEXT: Map008/events/8/pages/0/42/Choice/3
-> CONTEXT: Map008/events/8/pages/0/42/Choice/3
 Ecstasy#MTLed
 > END STRING
 
@@ -455,10 +453,9 @@ He is distressed with comfort!#MTLed
 悶絶
 > CONTEXT: States/31/name/
 Faint#MTLed
+> CONTEXT: Map008/events/8/pages/0/96/Choice/1
 > CONTEXT: Map008/events/11/pages/0/97/Choice/1
 > CONTEXT: Map008/events/24/pages/0/97/Choice/1
-> CONTEXT: Map008/events/8/pages/0/96/Choice/1
-> CONTEXT: Map008/events/8/pages/0/96/Choice/1
 Faint#MTLed
 > END STRING
 
@@ -513,10 +510,9 @@ I can not suppress libido!#MTLed
 拘束
 > CONTEXT: States/34/name/
 Restraint#MTLed
+> CONTEXT: Map008/events/8/pages/0/96/Choice/2
 > CONTEXT: Map008/events/11/pages/0/97/Choice/2
 > CONTEXT: Map008/events/24/pages/0/97/Choice/2
-> CONTEXT: Map008/events/8/pages/0/96/Choice/2
-> CONTEXT: Map008/events/8/pages/0/96/Choice/2
 Restraint#MTLed
 > END STRING
 
@@ -635,8 +631,8 @@ I took the bunny girl!#MTLed
 > BEGIN STRING
 おっぱいホールド
 > CONTEXT: States/43/name/
-> CONTEXT: Skills/290/name/
 > CONTEXT: States/55/name/
+> CONTEXT: Skills/290/name/
 Hold tits#MTLed
 > CONTEXT: Map152/events/97/pages/7/86/Choice/0
 Hold tits#MTLed
@@ -698,84 +694,84 @@ Magic shield#MTLed
 
 > BEGIN STRING
 よろけ
-> CONTEXT: States/50/name/ < UNTRANSLATED
-
+> CONTEXT: States/50/name/
+Lol#MTLed
 > END STRING
 
 > BEGIN STRING
 は体勢を崩されてしまった！
-> CONTEXT: States/50/message1/ < UNTRANSLATED
-
+> CONTEXT: States/50/message1/
+He has lost his position!#MTLed
 > END STRING
 
 > BEGIN STRING
 は体勢を崩している！
-> CONTEXT: States/50/message3/ < UNTRANSLATED
-
+> CONTEXT: States/50/message3/
+He is breaking his posture!#MTLed
 > END STRING
 
 > BEGIN STRING
 トリプルおっぱいプレス
-> CONTEXT: States/51/name/ < UNTRANSLATED
-
+> CONTEXT: States/51/name/
+Triple boobs press#MTLed
 > END STRING
 
 > BEGIN STRING
 の顔は三人のおっぱいに挟まれた！
-> CONTEXT: States/51/message1/ < UNTRANSLATED
-
+> CONTEXT: States/51/message1/
+The face of her was caught between three boobs!#MTLed
 > END STRING
 
 > BEGIN STRING
 はおっぱいから脱出した！
-> CONTEXT: States/51/message4/ < UNTRANSLATED
-
+> CONTEXT: States/51/message4/
+He escaped from his tits!#MTLed
 > END STRING
 
 > BEGIN STRING
 は髪の香りで恍惚としてしまった！
-> CONTEXT: States/52/message1/ < UNTRANSLATED
-
+> CONTEXT: States/52/message1/
+I was ecstatic with the scent of my hair!#MTLed
 > END STRING
 
 > BEGIN STRING
 操り人形
-> CONTEXT: States/53/name/ < UNTRANSLATED
-
+> CONTEXT: States/53/name/
+Puppet#MTLed
 > END STRING
 
 > BEGIN STRING
 はデビルウィッチに魅了された！
-> CONTEXT: States/53/message1/ < UNTRANSLATED
-
+> CONTEXT: States/53/message1/
+He was fascinated by devil witch!#MTLed
 > END STRING
 
 > BEGIN STRING
 は正気に戻った！
-> CONTEXT: States/53/message4/ < UNTRANSLATED
-
+> CONTEXT: States/53/message4/
+He returned to sanity!#MTLed
 > END STRING
 
 > BEGIN STRING
 100万戦闘時
-> CONTEXT: States/54/name/ < UNTRANSLATED
-
+> CONTEXT: States/54/name/
+1 million battle#MTLed
 > END STRING
 
 > BEGIN STRING
 はルフティナに抱きしめられた！
-> CONTEXT: States/55/message1/ < UNTRANSLATED
-
+> CONTEXT: States/55/message1/
+I was hugged by Luftina!#MTLed
 > END STRING
 
 > BEGIN STRING
 はルフティナの胸から脱出した！
-> CONTEXT: States/55/message4/ < UNTRANSLATED
-
+> CONTEXT: States/55/message4/
+He escaped from the chest of Luftina!#MTLed
 > END STRING
 
 > BEGIN STRING
 100万バニー用
-> CONTEXT: States/56/name/ < UNTRANSLATED
-
+> CONTEXT: States/56/name/
+For 1 million Bunny#MTLed
 > END STRING

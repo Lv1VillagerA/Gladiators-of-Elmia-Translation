@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 大グモ
 > CONTEXT: Enemies/4/name/
@@ -72,18 +72,6 @@ Militia member Jane#MTLed
 > END STRING
 
 > BEGIN STRING
-シェリー
-> CONTEXT: Enemies/38/name/
-> CONTEXT: Enemies/87/name/
-> CONTEXT: Actors/13/name/
-> CONTEXT: Enemies/107/name/
-> CONTEXT: Enemies/108/name/
-> CONTEXT: Enemies/117/name/
-> CONTEXT: Troops/202/name/
-Sherry#MTLed
-> END STRING
-
-> BEGIN STRING
 不良少女
 > CONTEXT: Enemies/43/name/
 Deliquent girl#MTLed
@@ -114,15 +102,6 @@ Lamia queen#MTLed
 > END STRING
 
 > BEGIN STRING
-ソードシーフ
-> CONTEXT: Enemies/56/name/
-> CONTEXT: Troops/194/name/
-> CONTEXT: Map065/events/7/pages/1/40/Choice/0
-> CONTEXT: Map065/events/7/pages/1/40/Choice/0
-Sword thief#MTLed
-> END STRING
-
-> BEGIN STRING
 雪女
 > CONTEXT: Enemies/76/name/
 > CONTEXT: Enemies/116/name/
@@ -131,11 +110,11 @@ Yuki Onna#MTLed
 
 > BEGIN STRING
 ジェーン
+> CONTEXT: Enemies/98/name/
 > CONTEXT: Enemies/99/name/
 > CONTEXT: Enemies/104/name/
 > CONTEXT: Enemies/105/name/
 > CONTEXT: Enemies/106/name/
-> CONTEXT: Enemies/98/name/
 Jane#MTLed
 > END STRING
 
@@ -178,6 +157,12 @@ Death Master#MTLed
 > END STRING
 
 > BEGIN STRING
+女魔法使い
+> CONTEXT: Enemies/134/name/
+Woman witch#MTLed
+> END STRING
+
+> BEGIN STRING
 女王ルフティナ
 > CONTEXT: Enemies/160/name/
 > CONTEXT: Enemies/161/name/
@@ -192,25 +177,19 @@ Queen Luftina#MTLed
 > END STRING
 
 > BEGIN STRING
-女魔法使い
-> CONTEXT: Enemies/134/name/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 プリムyobi
-> CONTEXT: Enemies/204/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/204/name/
+Purim yobi#MTLed
 > END STRING
 
 > BEGIN STRING
 ソードシーフLv.5
-> CONTEXT: Enemies/213/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/213/name/
+Sword thief Lv.5#MTLed
 > END STRING
 
 > BEGIN STRING
 ↓ここから回想用２
-> CONTEXT: Enemies/225/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/225/name/
+↓ For reminiscence from here 2#MTLed
 > END STRING

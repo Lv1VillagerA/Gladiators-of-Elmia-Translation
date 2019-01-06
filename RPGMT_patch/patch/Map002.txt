@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 レストンの村
 > CONTEXT: Map002/display_name/
@@ -526,10 +526,10 @@ experience and practical training. It was brilliant,
 > BEGIN STRING
 自警団員ファナ
 「洞窟の盗賊団って、女の子ばかりだって噂よ。
-本当かしらねぇ」
-> CONTEXT: None < UNUSED
+本当だとしたら、ちょっと凄いわよねぇ」
+> CONTEXT: Map002/events/18/pages/0/0/Dialogue
 militia member Fhana. 「It's rumored that girls are just
-cave bandits. I wonder if it's true」#MTLed
+cave bandits. If it is true, it's kind of awesome.」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -728,14 +728,6 @@ challenging without doing so, I think I'm okay」#MTLed
 > END STRING
 
 > BEGIN STRING
-\\N[12]
-「そ、そうか？」
-> CONTEXT: Map002/events/20/pages/3/5/Dialogue
-> CONTEXT: Map043/events/24/pages/7/96/Dialogue
-\\N[12]. 「Is that so?」#MTLed
-> END STRING
-
-> BEGIN STRING
 ジェーン
 「うん。あの武者修行の女の子に負けたときは、
 しょげちゃって情けないなって思ってたけど、
@@ -840,22 +832,23 @@ open this door -#MTLed
 ※この中は回想部屋になっております。
 作中に登場する、Hシーンの存在する女性キャラと
 自由に戦ったり、Hシーンを鑑賞することができます。
-> CONTEXT: None < UNUSED
+また、現在の状態を引き継いでニューゲームを始めることも可能です。
+> CONTEXT: Map002/events/21/pages/1/4/Dialogue
 ※ This is a reminiscence room. Appearing in the work, with
 female characters with H scene. You can fight freely and
-watch H scenes.#MTLed
+watch H scenes. It is also possible to take over the
+current state and start a new game.#MTLed
 > END STRING
 
 > BEGIN STRING
-ただし、一度入ったらゲーム本編に復帰することは
-二度とできません。
+ただし、一度入ったら現在プレイ中のゲーム本編に
+復帰することはできません。
 中に入った後にセーブする際は、
 もう出ることができない、ということに留意の上で行ってください。
-> CONTEXT: None < UNUSED
-However, once entering the game will return to the main
-volume. I can not do it again. When saving after entering
-inside, Please keep in mind that you can not go out
-anymore.#MTLed
+> CONTEXT: Map002/events/21/pages/1/9/Dialogue
+However, once you enter the game you are currently playing
+It can not be recovered. When saving after entering inside,
+Please keep in mind that you can not go out anymore.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -867,13 +860,11 @@ Open the door and enter inside?#MTLed
 > BEGIN STRING
 開けない
 > CONTEXT: Map002/events/21/pages/1/17/Choice/0
-> CONTEXT: Map002/events/21/pages/1/17/Choice/0
 I can not open it.#MTLed
 > END STRING
 
 > BEGIN STRING
 開ける
-> CONTEXT: Map002/events/21/pages/1/17/Choice/1
 > CONTEXT: Map002/events/21/pages/1/17/Choice/1
 Open#MTLed
 > END STRING
@@ -1067,30 +1058,4 @@ Just go through the eastern highway and reach the coast
 Maybe you can find interesting things ......
 Well, I think that it is impossible unless you raise your
 arm quite a bit」#MTLed
-> END STRING
-
-> BEGIN STRING
-自警団員ファナ
-「洞窟の盗賊団って、女の子ばかりだって噂よ。
-本当だとしたら、ちょっと凄いわよねぇ」
-> CONTEXT: Map002/events/18/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-※この中は回想部屋になっております。
-作中に登場する、Hシーンの存在する女性キャラと
-自由に戦ったり、Hシーンを鑑賞することができます。
-また、現在の状態を引き継いでニューゲームを始めることも可能です。
-> CONTEXT: Map002/events/21/pages/1/4/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ただし、一度入ったら現在プレイ中のゲーム本編に
-復帰することはできません。
-中に入った後にセーブする際は、
-もう出ることができない、ということに留意の上で行ってください。
-> CONTEXT: Map002/events/21/pages/1/9/Dialogue < UNTRANSLATED
-
 > END STRING

@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 物理
 > CONTEXT: System/elements/1/
@@ -69,6 +69,12 @@ song#MTLed
 性感
 > CONTEXT: System/elements/13/
 Sensuality#MTLed
+> END STRING
+
+> BEGIN STRING
+霧・花粉
+> CONTEXT: System/elements/14/
+Mist · Pollen#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -163,18 +169,14 @@ Accessory#lvl1
 > CONTEXT: Map149/events/25/pages/0/7/Choice/0
 > CONTEXT: Map149/events/26/pages/0/8/Choice/0
 > CONTEXT: Map149/events/27/pages/0/7/Choice/0
+> CONTEXT: Map149/events/29/pages/0/3/Choice/0
+> CONTEXT: Map149/events/38/pages/1/17/Choice/0
+> CONTEXT: Map149/events/43/pages/0/0/Choice/0
 > CONTEXT: Map152/events/97/pages/6/1/Choice/0
 > CONTEXT: Map152/events/97/pages/8/2/Choice/0
 > CONTEXT: Map050/events/4/pages/4/22/Choice/0
 > CONTEXT: Map050/events/8/pages/1/22/Choice/0
 > CONTEXT: Map023/events/18/pages/0/0/Choice/0
-> CONTEXT: Map149/events/29/pages/0/3/Choice/0
-> CONTEXT: Map149/events/29/pages/0/3/Choice/0
-> CONTEXT: Map149/events/38/pages/1/17/Choice/0
-> CONTEXT: Map149/events/38/pages/1/17/Choice/0
-> CONTEXT: Map149/events/43/pages/0/0/Choice/0
-> CONTEXT: Map149/events/43/pages/0/0/Choice/0
-> CONTEXT: Map025/events/267/pages/1/23/Choice/0
 > CONTEXT: Map025/events/267/pages/1/23/Choice/0
 Fight#lvl1
 > END STRING
@@ -302,10 +304,9 @@ Physical fitness#MTLed
 精神力
 > CONTEXT: System/terms/basic/4/
 Mental strength#MTLed
+> CONTEXT: Map008/events/8/pages/0/156/Choice/0
 > CONTEXT: Map008/events/11/pages/0/157/Choice/0
 > CONTEXT: Map008/events/24/pages/0/157/Choice/0
-> CONTEXT: Map008/events/8/pages/0/156/Choice/0
-> CONTEXT: Map008/events/8/pages/0/156/Choice/0
 Mental strength#MTLed
 > END STRING
 
@@ -395,9 +396,9 @@ Gun#lvl1
 > END STRING
 
 > BEGIN STRING
-大剣
-> CONTEXT: None < UNUSED
-Large sword#MTLed
+大型武器
+> CONTEXT: System/weapon_types/11/
+Large weapon#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -440,16 +441,4 @@ Large Shield#lvl1
 Ｇ
 > CONTEXT: System/currency_unit/
 Ｇ#NoTL
-> END STRING
-
-> BEGIN STRING
-霧・花粉
-> CONTEXT: System/elements/14/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-大型武器
-> CONTEXT: System/weapon_types/11/ < UNTRANSLATED
-
 > END STRING

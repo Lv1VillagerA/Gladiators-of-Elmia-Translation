@@ -8,8 +8,8 @@
 > BEGIN STRING
 大回復薬を手に入れた！
 > CONTEXT: Map100/events/5/pages/0/9/Dialogue
-> CONTEXT: Map097/events/15/pages/0/9/Dialogue
 > CONTEXT: Map109/events/12/pages/0/9/Dialogue
+> CONTEXT: Map097/events/15/pages/0/9/Dialogue
 > CONTEXT: Map073/events/16/pages/0/9/Dialogue
 > CONTEXT: Map016/events/29/pages/0/9/Dialogue
 > CONTEXT: Map016/events/38/pages/0/9/Dialogue

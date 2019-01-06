@@ -19,8 +19,8 @@ Dirant Takahara east#MTLed
 > CONTEXT: Map088/events/12/pages/1/0/Dialogue
 > CONTEXT: Map088/events/19/pages/1/0/Dialogue
 > CONTEXT: Map077/events/14/pages/1/0/Dialogue
-> CONTEXT: Map077/events/26/pages/1/0/Dialogue
 > CONTEXT: Map072/events/23/pages/1/0/Dialogue
+> CONTEXT: Map077/events/26/pages/1/0/Dialogue
 \\N[12]. 「I found it! Is this snowy mushroom? ...」#MTLed
 > END STRING
 
@@ -29,7 +29,7 @@ Dirant Takahara east#MTLed
 > CONTEXT: Map088/events/12/pages/1/5/Dialogue
 > CONTEXT: Map088/events/19/pages/1/5/Dialogue
 > CONTEXT: Map077/events/14/pages/1/5/Dialogue
-> CONTEXT: Map077/events/26/pages/1/5/Dialogue
 > CONTEXT: Map072/events/23/pages/1/5/Dialogue
+> CONTEXT: Map077/events/26/pages/1/5/Dialogue
 I got snowy mushroom!#MTLed
 > END STRING

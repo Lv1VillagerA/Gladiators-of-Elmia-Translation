@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 ディラント北東台地
 > CONTEXT: Map089/display_name/
@@ -170,15 +170,15 @@ evil witch, \\N[12] On the face of. I pressed my butt!#MTLed
 > CONTEXT: Map089/events/17/pages/0/75/Dialogue
 > CONTEXT: Map077/events/22/pages/0/75/Dialogue
 > CONTEXT: Map077/events/23/pages/0/75/Dialogue
-> CONTEXT: Map069/events/18/pages/0/56/Dialogue
 > CONTEXT: Map071/events/15/pages/0/56/Dialogue
 > CONTEXT: Map070/events/26/pages/0/56/Dialogue
-> CONTEXT: Map069/events/22/pages/0/56/Dialogue
 > CONTEXT: Map070/events/27/pages/0/56/Dialogue
-> CONTEXT: Map070/events/28/pages/0/56/Dialogue
 > CONTEXT: Map071/events/18/pages/0/56/Dialogue
-> CONTEXT: Map070/events/29/pages/0/56/Dialogue
+> CONTEXT: Map070/events/28/pages/0/56/Dialogue
+> CONTEXT: Map069/events/18/pages/0/56/Dialogue
 > CONTEXT: Map071/events/21/pages/0/56/Dialogue
+> CONTEXT: Map070/events/29/pages/0/56/Dialogue
+> CONTEXT: Map069/events/22/pages/0/56/Dialogue
 > CONTEXT: Map070/events/30/pages/0/56/Dialogue
 > CONTEXT: Map070/events/38/pages/0/56/Dialogue
 \\N[12]. 「Pounding, OHHh!」#MTLed
@@ -263,21 +263,6 @@ just let it......!」#MTLed
 > END STRING
 
 > BEGIN STRING
-むにっ、ぐにぐにっ！
-> CONTEXT: Map089/events/5/pages/0/102/Dialogue
-> CONTEXT: Map089/events/12/pages/0/102/Dialogue
-> CONTEXT: Map089/events/14/pages/0/102/Dialogue
-> CONTEXT: Map089/events/15/pages/0/102/Dialogue
-> CONTEXT: Map089/events/16/pages/0/102/Dialogue
-> CONTEXT: Map089/events/17/pages/0/102/Dialogue
-> CONTEXT: Map077/events/22/pages/0/102/Dialogue
-> CONTEXT: Map077/events/23/pages/0/102/Dialogue
-> CONTEXT: Map147/events/2/pages/5/141/Dialogue
-> CONTEXT: Map147/events/17/pages/0/100/Dialogue
-Mude, * rub *!#MTLed
-> END STRING
-
-> BEGIN STRING
 イビルウィッチ
 「ほらほら、暴れないの。
 すぐ済むからねー」
@@ -291,136 +276,4 @@ Mude, * rub *!#MTLed
 > CONTEXT: Map077/events/23/pages/0/107/Dialogue
 evil witch. 「oh no, do not get cranky. I will finish it
 soon」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-（う、ううっ……
-自分の中から、なにかが吸われているのが分かる……
-なんだか、体がゾクゾクして……あ、ああぁ……！）
-> CONTEXT: Map089/events/5/pages/0/113/Dialogue
-> CONTEXT: Map089/events/12/pages/0/113/Dialogue
-> CONTEXT: Map089/events/14/pages/0/113/Dialogue
-> CONTEXT: Map089/events/15/pages/0/113/Dialogue
-> CONTEXT: Map089/events/16/pages/0/113/Dialogue
-> CONTEXT: Map089/events/17/pages/0/113/Dialogue
-> CONTEXT: Map077/events/22/pages/0/113/Dialogue
-> CONTEXT: Map077/events/23/pages/0/113/Dialogue
-> CONTEXT: Map147/events/2/pages/5/152/Dialogue
-> CONTEXT: Map147/events/17/pages/0/111/Dialogue
-\\N[12]. (U, uugh...... I understand that something is
-being sucked out among myself...... Somehow, the body
-tremble....... あ, あ あ ぁ ......!)#MTLed
-> END STRING
-
-> BEGIN STRING
-魔力吸収の刺激が\\N[12]の体全体を痺れさせ、
-あっという間に快感へと変わってゆく――！
-> CONTEXT: Map089/events/5/pages/0/118/Dialogue
-> CONTEXT: Map089/events/12/pages/0/118/Dialogue
-> CONTEXT: Map089/events/14/pages/0/118/Dialogue
-> CONTEXT: Map089/events/15/pages/0/118/Dialogue
-> CONTEXT: Map089/events/16/pages/0/118/Dialogue
-> CONTEXT: Map089/events/17/pages/0/118/Dialogue
-> CONTEXT: Map077/events/22/pages/0/118/Dialogue
-> CONTEXT: Map077/events/23/pages/0/118/Dialogue
-> CONTEXT: Map147/events/2/pages/5/157/Dialogue
-> CONTEXT: Map147/events/17/pages/0/116/Dialogue
-The stimulation of magical absorption \\N[12] The whole
-body is numb, It will change to pleasure in no time -!#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「な、なんだこれっ……
-や、やばいっ……
-あがっ、あっ、あぐうううぅっ！」
-> CONTEXT: Map089/events/5/pages/0/121/Dialogue
-> CONTEXT: Map089/events/12/pages/0/121/Dialogue
-> CONTEXT: Map089/events/14/pages/0/121/Dialogue
-> CONTEXT: Map089/events/15/pages/0/121/Dialogue
-> CONTEXT: Map089/events/16/pages/0/121/Dialogue
-> CONTEXT: Map089/events/17/pages/0/121/Dialogue
-> CONTEXT: Map077/events/22/pages/0/121/Dialogue
-> CONTEXT: Map077/events/23/pages/0/121/Dialogue
-> CONTEXT: Map147/events/2/pages/5/160/Dialogue
-> CONTEXT: Map147/events/17/pages/0/119/Dialogue
-\\N[12]. 「What is this ...? Oh yeah, yeah yeah......
-Go up, there, ah!」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「あひっ、あっ、あうぅ……」
-> CONTEXT: Map089/events/5/pages/0/129/Dialogue
-> CONTEXT: Map089/events/12/pages/0/129/Dialogue
-> CONTEXT: Map089/events/14/pages/0/129/Dialogue
-> CONTEXT: Map089/events/15/pages/0/129/Dialogue
-> CONTEXT: Map089/events/16/pages/0/129/Dialogue
-> CONTEXT: Map089/events/17/pages/0/129/Dialogue
-> CONTEXT: Map077/events/22/pages/0/129/Dialogue
-> CONTEXT: Map077/events/23/pages/0/129/Dialogue
-> CONTEXT: Map147/events/2/pages/5/168/Dialogue
-> CONTEXT: Map147/events/17/pages/0/127/Dialogue
-\\N[12]. 「Oh, there, ah ...」#MTLed
-> CONTEXT: Commonevents/9/252/Dialogue
-> CONTEXT: Commonevents/227/253/Dialogue
-\\N[12]. 「Oh, there, ah ...」#MTLed
-> END STRING
-
-> BEGIN STRING
-イビルウィッチ
-「あらあら、ドレインの拍子に精液まで出させちゃった。
-お姉さんのお尻の感触、そんなによかったの？
-こんなことでイっちゃうなんて、早漏なのね。クスクス……♪」
-> CONTEXT: Map089/events/5/pages/0/132/Dialogue
-> CONTEXT: Map089/events/12/pages/0/132/Dialogue
-> CONTEXT: Map089/events/14/pages/0/132/Dialogue
-> CONTEXT: Map089/events/15/pages/0/132/Dialogue
-> CONTEXT: Map089/events/16/pages/0/132/Dialogue
-> CONTEXT: Map089/events/17/pages/0/132/Dialogue
-> CONTEXT: Map077/events/22/pages/0/132/Dialogue
-> CONTEXT: Map077/events/23/pages/0/132/Dialogue
-> CONTEXT: Map147/events/2/pages/5/171/Dialogue
-> CONTEXT: Map147/events/17/pages/0/130/Dialogue
-evil witch. 「oh no, I got the semen out for the drain's
-meter. Feeling of your sister's butt, was it that good?
-It is a premature ejaculation to wear out with such a
-thing.* Giggle * ......♪」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]は脱力し、ぐったりと四肢を投げ出す。
-> CONTEXT: Map089/events/5/pages/0/137/Dialogue
-> CONTEXT: Map089/events/12/pages/0/137/Dialogue
-> CONTEXT: Map089/events/14/pages/0/137/Dialogue
-> CONTEXT: Map089/events/15/pages/0/137/Dialogue
-> CONTEXT: Map089/events/16/pages/0/137/Dialogue
-> CONTEXT: Map089/events/17/pages/0/137/Dialogue
-> CONTEXT: Map077/events/22/pages/0/137/Dialogue
-> CONTEXT: Map077/events/23/pages/0/137/Dialogue
-> CONTEXT: Map147/events/2/pages/5/176/Dialogue
-> CONTEXT: Map147/events/17/pages/0/135/Dialogue
-\\N[12] He is weak and throws limbs quietly.#MTLed
-> END STRING
-
-> BEGIN STRING
-イビルウィッチ
-「ふう、剣士だから魔力は少ないみたいだけど、
-ま、少しは吸えたからいっか。
-それじゃね、剣士クン。またキミの魔力、吸わせてね♪」
-> CONTEXT: Map089/events/5/pages/0/139/Dialogue
-> CONTEXT: Map089/events/12/pages/0/139/Dialogue
-> CONTEXT: Map089/events/14/pages/0/139/Dialogue
-> CONTEXT: Map089/events/15/pages/0/139/Dialogue
-> CONTEXT: Map089/events/16/pages/0/139/Dialogue
-> CONTEXT: Map089/events/17/pages/0/139/Dialogue
-> CONTEXT: Map077/events/22/pages/0/139/Dialogue
-> CONTEXT: Map077/events/23/pages/0/139/Dialogue
-> CONTEXT: Map147/events/2/pages/5/178/Dialogue
-> CONTEXT: Map147/events/17/pages/0/137/Dialogue
-evil witch. 「It seems that magical power is small because
-it is a sword fighter, Well, I sucked for a while.
-Well, swordsman Kun. Please let me suck your magical powers
-again♪」#MTLed
 > END STRING

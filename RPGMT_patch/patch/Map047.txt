@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 壮年の戦士
 「なかなか悪くない雰囲気の酒場だ……」
@@ -30,8 +30,8 @@ work, Please forgive me for drooling into the royal palace!
 近年の大会のレベルには、少し不満を持っておられるようだ」
 > CONTEXT: Map047/events/9/pages/0/0/Dialogue
 A soldier. 「This year the players who will satisfy the
-Queen's Majesty. Will it appear? The level of tournament in
-recent years seems to have a little dissatisfied」#MTLed
+Queen's Majesty. Will it appear? It seems that we are
+slightly dissatisfied with the level of recent events.」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -39,7 +39,7 @@ recent years seems to have a little dissatisfied」#MTLed
 「武道大会なんかより、
 ここで飲んでるほうが楽しいわねぇ……」
 > CONTEXT: Map047/events/10/pages/0/0/Dialogue
-Young lady. 「From martial arts tournament something,
+Young lady. 「From the martial arts competition,
 It is fun to drink here ...」#MTLed
 > END STRING
 
@@ -50,13 +50,4 @@ It is fun to drink here ...」#MTLed
 > CONTEXT: Map047/events/11/pages/0/0/Dialogue
 Fisherman. 「Oh, why do not you drink alcohol after you
 work. Will I go to a restaurant if I have money?」#MTLed
-> END STRING
-
-> BEGIN STRING
-バニーガール
-「いらっしゃい、\\N[12]君。
-また遊びましょうね♪」
-> CONTEXT: Map047/events/13/pages/0/0/Dialogue
-> CONTEXT: Map150/events/13/pages/0/0/Dialogue
-bunny girl. 「welcome, \\N[12] You. Let's play again♪」#MTLed
 > END STRING

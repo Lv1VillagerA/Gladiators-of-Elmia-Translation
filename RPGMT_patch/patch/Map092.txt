@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 氷晶洞窟
 > CONTEXT: Map092/display_name/
@@ -84,16 +84,16 @@ I have to tighten my mind.」#MTLed
 雪娘
 「ふふ……よわい……」
 > CONTEXT: Map092/events/1/pages/0/74/Dialogue
-> CONTEXT: Map088/events/16/pages/0/14/Dialogue
 > CONTEXT: Map092/events/10/pages/0/14/Dialogue
-> CONTEXT: Map088/events/18/pages/0/14/Dialogue
 > CONTEXT: Map092/events/11/pages/0/14/Dialogue
 > CONTEXT: Map092/events/12/pages/0/14/Dialogue
-> CONTEXT: Map077/events/17/pages/0/14/Dialogue
+> CONTEXT: Map088/events/16/pages/0/14/Dialogue
+> CONTEXT: Map088/events/18/pages/0/14/Dialogue
 > CONTEXT: Map089/events/20/pages/0/14/Dialogue
-> CONTEXT: Map077/events/18/pages/0/14/Dialogue
 > CONTEXT: Map089/events/21/pages/0/14/Dialogue
+> CONTEXT: Map077/events/17/pages/0/14/Dialogue
 > CONTEXT: Map089/events/22/pages/0/14/Dialogue
+> CONTEXT: Map077/events/18/pages/0/14/Dialogue
 > CONTEXT: Map089/events/23/pages/0/14/Dialogue
 > CONTEXT: Map089/events/24/pages/0/14/Dialogue
 > CONTEXT: Map089/events/26/pages/0/14/Dialogue
@@ -105,16 +105,16 @@ Yuki Musume. 「Hehe ... ... Yawata ...」#MTLed
 「ぐっ……し、しまった、
 こんな小さな妖精に負けちまうなんて……」
 > CONTEXT: Map092/events/1/pages/0/77/Dialogue
-> CONTEXT: Map088/events/16/pages/0/17/Dialogue
 > CONTEXT: Map092/events/10/pages/0/17/Dialogue
-> CONTEXT: Map088/events/18/pages/0/17/Dialogue
 > CONTEXT: Map092/events/11/pages/0/17/Dialogue
 > CONTEXT: Map092/events/12/pages/0/17/Dialogue
-> CONTEXT: Map077/events/17/pages/0/17/Dialogue
+> CONTEXT: Map088/events/16/pages/0/17/Dialogue
+> CONTEXT: Map088/events/18/pages/0/17/Dialogue
 > CONTEXT: Map089/events/20/pages/0/17/Dialogue
-> CONTEXT: Map077/events/18/pages/0/17/Dialogue
 > CONTEXT: Map089/events/21/pages/0/17/Dialogue
+> CONTEXT: Map077/events/17/pages/0/17/Dialogue
 > CONTEXT: Map089/events/22/pages/0/17/Dialogue
+> CONTEXT: Map077/events/18/pages/0/17/Dialogue
 > CONTEXT: Map089/events/23/pages/0/17/Dialogue
 > CONTEXT: Map089/events/24/pages/0/17/Dialogue
 > CONTEXT: Map089/events/26/pages/0/17/Dialogue
@@ -128,16 +128,16 @@ fairy ... ...」#MTLed
 だから、おにいさんはわたしのもの。
 氷漬けにして、山に連れて帰るね」
 > CONTEXT: Map092/events/1/pages/0/90/Dialogue
-> CONTEXT: Map088/events/16/pages/0/30/Dialogue
 > CONTEXT: Map092/events/10/pages/0/30/Dialogue
-> CONTEXT: Map088/events/18/pages/0/30/Dialogue
 > CONTEXT: Map092/events/11/pages/0/30/Dialogue
 > CONTEXT: Map092/events/12/pages/0/30/Dialogue
-> CONTEXT: Map077/events/17/pages/0/30/Dialogue
+> CONTEXT: Map088/events/16/pages/0/30/Dialogue
+> CONTEXT: Map088/events/18/pages/0/30/Dialogue
 > CONTEXT: Map089/events/20/pages/0/30/Dialogue
-> CONTEXT: Map077/events/18/pages/0/30/Dialogue
 > CONTEXT: Map089/events/21/pages/0/30/Dialogue
+> CONTEXT: Map077/events/17/pages/0/30/Dialogue
 > CONTEXT: Map089/events/22/pages/0/30/Dialogue
+> CONTEXT: Map077/events/18/pages/0/30/Dialogue
 > CONTEXT: Map089/events/23/pages/0/30/Dialogue
 > CONTEXT: Map089/events/24/pages/0/30/Dialogue
 > CONTEXT: Map089/events/26/pages/0/30/Dialogue
@@ -151,16 +151,16 @@ Put it in ice and take it to the mountain ne」#MTLed
 「な、なんだとっ！
 や、やめ……」
 > CONTEXT: Map092/events/1/pages/0/95/Dialogue
-> CONTEXT: Map088/events/16/pages/0/35/Dialogue
 > CONTEXT: Map092/events/10/pages/0/35/Dialogue
-> CONTEXT: Map088/events/18/pages/0/35/Dialogue
 > CONTEXT: Map092/events/11/pages/0/35/Dialogue
 > CONTEXT: Map092/events/12/pages/0/35/Dialogue
-> CONTEXT: Map077/events/17/pages/0/35/Dialogue
+> CONTEXT: Map088/events/16/pages/0/35/Dialogue
+> CONTEXT: Map088/events/18/pages/0/35/Dialogue
 > CONTEXT: Map089/events/20/pages/0/35/Dialogue
-> CONTEXT: Map077/events/18/pages/0/35/Dialogue
 > CONTEXT: Map089/events/21/pages/0/35/Dialogue
+> CONTEXT: Map077/events/17/pages/0/35/Dialogue
 > CONTEXT: Map089/events/22/pages/0/35/Dialogue
+> CONTEXT: Map077/events/18/pages/0/35/Dialogue
 > CONTEXT: Map089/events/23/pages/0/35/Dialogue
 > CONTEXT: Map089/events/24/pages/0/35/Dialogue
 > CONTEXT: Map089/events/26/pages/0/35/Dialogue
@@ -171,16 +171,16 @@ Put it in ice and take it to the mountain ne」#MTLed
 雪娘
 「ふふ……」
 > CONTEXT: Map092/events/1/pages/0/99/Dialogue
-> CONTEXT: Map088/events/16/pages/0/39/Dialogue
 > CONTEXT: Map092/events/10/pages/0/39/Dialogue
-> CONTEXT: Map088/events/18/pages/0/39/Dialogue
 > CONTEXT: Map092/events/11/pages/0/39/Dialogue
 > CONTEXT: Map092/events/12/pages/0/39/Dialogue
-> CONTEXT: Map077/events/17/pages/0/39/Dialogue
+> CONTEXT: Map088/events/16/pages/0/39/Dialogue
+> CONTEXT: Map088/events/18/pages/0/39/Dialogue
 > CONTEXT: Map089/events/20/pages/0/39/Dialogue
-> CONTEXT: Map077/events/18/pages/0/39/Dialogue
 > CONTEXT: Map089/events/21/pages/0/39/Dialogue
+> CONTEXT: Map077/events/17/pages/0/39/Dialogue
 > CONTEXT: Map089/events/22/pages/0/39/Dialogue
+> CONTEXT: Map077/events/18/pages/0/39/Dialogue
 > CONTEXT: Map089/events/23/pages/0/39/Dialogue
 > CONTEXT: Map089/events/24/pages/0/39/Dialogue
 > CONTEXT: Map089/events/26/pages/0/39/Dialogue
@@ -193,16 +193,16 @@ Yuki Musume. 「Whatching」#MTLed
 これから毎日、おにいさんの精気を吸い取らせてもらうね。
 もっともっと、男の人をコレクションしたいな……♪」
 > CONTEXT: Map092/events/1/pages/0/106/Dialogue
-> CONTEXT: Map088/events/16/pages/0/46/Dialogue
 > CONTEXT: Map092/events/10/pages/0/46/Dialogue
-> CONTEXT: Map088/events/18/pages/0/46/Dialogue
 > CONTEXT: Map092/events/11/pages/0/46/Dialogue
 > CONTEXT: Map092/events/12/pages/0/46/Dialogue
-> CONTEXT: Map077/events/17/pages/0/46/Dialogue
+> CONTEXT: Map088/events/16/pages/0/46/Dialogue
+> CONTEXT: Map088/events/18/pages/0/46/Dialogue
 > CONTEXT: Map089/events/20/pages/0/46/Dialogue
-> CONTEXT: Map077/events/18/pages/0/46/Dialogue
 > CONTEXT: Map089/events/21/pages/0/46/Dialogue
+> CONTEXT: Map077/events/17/pages/0/46/Dialogue
 > CONTEXT: Map089/events/22/pages/0/46/Dialogue
+> CONTEXT: Map077/events/18/pages/0/46/Dialogue
 > CONTEXT: Map089/events/23/pages/0/46/Dialogue
 > CONTEXT: Map089/events/24/pages/0/46/Dialogue
 > CONTEXT: Map089/events/26/pages/0/46/Dialogue
@@ -216,16 +216,16 @@ you absorb a great deal of mind. I want to collect men, ...
 氷漬けにされて囚われてしまった。
 その後、彼の姿を見た者はいない……
 > CONTEXT: Map092/events/1/pages/0/112/Dialogue
-> CONTEXT: Map088/events/16/pages/0/52/Dialogue
 > CONTEXT: Map092/events/10/pages/0/52/Dialogue
-> CONTEXT: Map088/events/18/pages/0/52/Dialogue
 > CONTEXT: Map092/events/11/pages/0/52/Dialogue
 > CONTEXT: Map092/events/12/pages/0/52/Dialogue
-> CONTEXT: Map077/events/17/pages/0/52/Dialogue
+> CONTEXT: Map088/events/16/pages/0/52/Dialogue
+> CONTEXT: Map088/events/18/pages/0/52/Dialogue
 > CONTEXT: Map089/events/20/pages/0/52/Dialogue
-> CONTEXT: Map077/events/18/pages/0/52/Dialogue
 > CONTEXT: Map089/events/21/pages/0/52/Dialogue
+> CONTEXT: Map077/events/17/pages/0/52/Dialogue
 > CONTEXT: Map089/events/22/pages/0/52/Dialogue
+> CONTEXT: Map077/events/18/pages/0/52/Dialogue
 > CONTEXT: Map089/events/23/pages/0/52/Dialogue
 > CONTEXT: Map089/events/24/pages/0/52/Dialogue
 > CONTEXT: Map089/events/26/pages/0/52/Dialogue
@@ -285,7 +285,6 @@ To collect#MTLed
 > CONTEXT: Commonevents/191/5/Choice/1
 > CONTEXT: Commonevents/286/4/Choice/1
 > CONTEXT: Commonevents/289/3/Choice/1
-> CONTEXT: Commonevents/313/4/Choice/1
 > CONTEXT: Commonevents/313/4/Choice/1
 do nothing#MTLed
 > END STRING
@@ -617,10 +616,13 @@ a bit? Because I came all this way」#MTLed
 「二人がかりなら勝てるとでも思ったの？
 人間ごときの力では、私を倒すことは不可能よ」
 > CONTEXT: Map092/events/15/pages/2/110/Dialogue
-> CONTEXT: Commonevents/273/13/Dialogue
 Yuki Onna. 「Did you think that you can win if you have two
 people? With the power like human beings, it is impossible
 to beat me」#MTLed
+> CONTEXT: Commonevents/273/13/Dialogue
+Yuki Onna. 「Did you think that you can win if
+you have two people? With the power like human
+beings, it is impossible to beat me」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -638,9 +640,11 @@ not do it ... ...」#MTLed
 「ううっ……な、なんて強大な魔力なんだ……
 くっ、もう戦えない……！」
 > CONTEXT: Map092/events/15/pages/2/118/Dialogue
-> CONTEXT: Commonevents/273/21/Dialogue
 \\N[12]. 「uugh ... ... what a mighty magical power
 ...... I can not fight anymore ......!」#MTLed
+> CONTEXT: Commonevents/273/21/Dialogue
+\\N[12]. 「uugh ... ... what a mighty magical
+power ...... I can not fight anymore ......!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -649,10 +653,13 @@ not do it ... ...」#MTLed
 人間が私の魔法で悲鳴を上げてのたうつ姿、
 何度見てもゾクゾクするわね……ふふふ。
 > CONTEXT: Map092/events/15/pages/2/122/Dialogue
-> CONTEXT: Commonevents/273/25/Dialogue
 Yuki Onna. 「It was pretty fun. A human being screams with
 my magic screaming, I will tremble every time I see it ...
 ... Hehu.#MTLed
+> CONTEXT: Commonevents/273/25/Dialogue
+Yuki Onna. 「It was pretty fun.
+A human being screams with my magic screaming,
+I will tremble every time I see it ... ... Hehu.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -660,10 +667,13 @@ my magic screaming, I will tremble every time I see it ...
 すぐに肉を食うことはせずに、
 氷に封印して毎日少しずつ精気を吸い取ってあげる。
 > CONTEXT: Map092/events/15/pages/2/127/Dialogue
-> CONTEXT: Commonevents/273/30/Dialogue
 Especially, the boy liked it. Instead of eating meat at
 once, Seal on ice and suck up vigorously little by little
 every day.#MTLed
+> CONTEXT: Commonevents/273/30/Dialogue
+Especially, the boy liked it. Instead of eating
+meat at once, Seal on ice and suck up vigorously
+little by little every day.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -671,16 +681,21 @@ every day.#MTLed
 普通の人間は三回も座れたら
 気持ちよすぎて気が狂ってしまうんだから」
 > CONTEXT: Map092/events/15/pages/2/131/Dialogue
-> CONTEXT: Commonevents/273/34/Dialogue
 The pleasure when Yuki Onna is breathtaking is amazing, is
 not it? If an ordinary human can sit three times
 Because it feels too good to go crazy」#MTLed
+> CONTEXT: Commonevents/273/34/Dialogue
+The pleasure when Yuki Onna is breathtaking is
+amazing, is not it? If an ordinary human can sit
+three times. Because it feels too good to go
+crazy」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「う、ううっ……そ、そんな……！」
 > CONTEXT: Map092/events/15/pages/2/135/Dialogue
+\\N[12]. 「Uugh ... uh ... that ... ...!」#MTLed
 > CONTEXT: Commonevents/273/38/Dialogue
 \\N[12]. 「Uugh ... uh ... that ... ...!」#MTLed
 > END STRING
@@ -689,6 +704,7 @@ Because it feels too good to go crazy」#MTLed
 雪女
 「そおれ、凍りなさい♪」
 > CONTEXT: Map092/events/15/pages/2/138/Dialogue
+Yuki Onna. 「Besides, freeze it.♪」#MTLed
 > CONTEXT: Commonevents/273/41/Dialogue
 Yuki Onna. 「Besides, freeze it.♪」#MTLed
 > END STRING
@@ -698,21 +714,28 @@ Yuki Onna. 「Besides, freeze it.♪」#MTLed
 「さあ、氷の世界へ連れていってあげるわ。
 うふふっ……♪」
 > CONTEXT: Map092/events/15/pages/2/147/Dialogue
-> CONTEXT: Commonevents/273/50/Dialogue
 Yuki Onna. 「Now, I will take you to the world of ice.
 Uhufu ...♪」#MTLed
+> CONTEXT: Commonevents/273/50/Dialogue
+Yuki Onna. 「Now, I will take you to the world of
+ice. Uhufu ...♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 こうして、\\N[12]とシェリーは雪女に敗れた。
 \\N[12]は雪女によって氷の中に囚われ、
-毎日、彼女に精気を吸われて続けることに
+毎日、彼女に精気を吸われ続けることに
 なるのである……
-> CONTEXT: None < UNUSED
+> CONTEXT: Map092/events/15/pages/2/152/Dialogue
 In this way, \\N[12] And Shelly lost to Yuki Onna.
 \\N[12] Was caught in the ice by Yuki Onna,
-Every day, she continues to be absorbed in her mind
+Every day, to continue to be absorbed in her mind
 It is ... ...#MTLed
+> CONTEXT: Commonevents/273/55/Dialogue
+In this way, \\N[12] And Shelly lost to Yuki
+Onna. \\N[12] Was caught in the ice by Yuki
+Onna, Every day, to continue to be absorbed in
+her mind. It is ... ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1202,14 +1225,4 @@ Wigheis」#MTLed
 > CONTEXT: Map085/events/15/pages/0/9/Dialogue
 > CONTEXT: Map027/events/8/pages/0/9/Dialogue
 I got a care-of medicine!#MTLed
-> END STRING
-
-> BEGIN STRING
-こうして、\\N[12]とシェリーは雪女に敗れた。
-\\N[12]は雪女によって氷の中に囚われ、
-毎日、彼女に精気を吸われ続けることに
-なるのである……
-> CONTEXT: Map092/events/15/pages/2/152/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/273/55/Dialogue < UNTRANSLATED
-
 > END STRING

@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\N[12]
 「これは……？
@@ -572,6 +572,7 @@ people outside the cave」#MTLed
 「ぐっ……がはっ……」
 > CONTEXT: Map110/events/5/pages/0/106/Dialogue
 > CONTEXT: Map110/events/5/pages/1/127/Dialogue
+\\N[12]. 「Ha ha ... ... hahaha ....」#MTLed
 > CONTEXT: Commonevents/272/3/Dialogue
 > CONTEXT: Commonevents/272/200/Dialogue
 \\N[12]. 「Ha ha ... ... hahaha ....」#MTLed
@@ -584,11 +585,14 @@ people outside the cave」#MTLed
 わらわに立ち向かおうなどとは片腹痛いわ。
 > CONTEXT: Map110/events/5/pages/0/113/Dialogue
 > CONTEXT: Map110/events/5/pages/1/137/Dialogue
-> CONTEXT: Commonevents/272/23/Dialogue
-> CONTEXT: Commonevents/272/217/Dialogue
 Sea Princess. 「Bukkake. With the skill of that extent
 It seems to me to have a stomachache trying to confront
 Irawa.#MTLed
+> CONTEXT: Commonevents/272/23/Dialogue
+> CONTEXT: Commonevents/272/217/Dialogue
+Sea Princess. 「Bukkake. With the skill of that
+extent. It seems to me to have a stomachache
+trying to confront Irawa.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -596,10 +600,12 @@ Irawa.#MTLed
 好奇心が仇となったのう、ほほほ……」
 > CONTEXT: Map110/events/5/pages/0/118/Dialogue
 > CONTEXT: Map110/events/5/pages/1/142/Dialogue
-> CONTEXT: Commonevents/272/28/Dialogue
-> CONTEXT: Commonevents/272/222/Dialogue
 I do not know what kind of intention it came into the cave
 Curiosity became enemy, hohoho ... ...」#MTLed
+> CONTEXT: Commonevents/272/28/Dialogue
+> CONTEXT: Commonevents/272/222/Dialogue
+I do not know what kind of intention it came into
+the cave. Curiosity became enemy, hohoho ... ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -607,9 +613,11 @@ Curiosity became enemy, hohoho ... ...」#MTLed
 「な、なんてこった……
 こんなところで魔物にやられるなんて……」
 > CONTEXT: Map110/events/5/pages/0/121/Dialogue
-> CONTEXT: Commonevents/272/225/Dialogue
 \\N[12]. 「What is it ...... In monsters like this in
 such a place ... ...」#MTLed
+> CONTEXT: Commonevents/272/225/Dialogue
+\\N[12]. 「What is it ...... In monsters like
+this in such a place ... ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -617,18 +625,22 @@ such a place ... ...」#MTLed
 「あきらめて、わらわの餌となるがよい。
 それ、取り込んでくれよう」
 > CONTEXT: Map110/events/5/pages/0/125/Dialogue
-> CONTEXT: Commonevents/272/229/Dialogue
 Sea Princess. 「Give up and become a bait for straw.
 It will take in」#MTLed
+> CONTEXT: Commonevents/272/229/Dialogue
+Sea Princess. 「Give up and become a bait for
+straw. It will take in」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は、シープリンセスの下半身に取り込まれた！
 > CONTEXT: Map110/events/5/pages/0/139/Dialogue
 > CONTEXT: Map110/events/5/pages/1/180/Dialogue
+\\N[12] Was taken in the lower body of Sea Princess!#MTLed
 > CONTEXT: Commonevents/272/66/Dialogue
 > CONTEXT: Commonevents/272/243/Dialogue
-\\N[12] Was taken in the lower body of Sea Princess!#MTLed
+\\N[12] Was taken in the lower body of Sea
+Princess!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -636,6 +648,7 @@ It will take in」#MTLed
 「く、くそっ、出せっ！」
 > CONTEXT: Map110/events/5/pages/0/141/Dialogue
 > CONTEXT: Map110/events/5/pages/1/182/Dialogue
+\\N[12]. 「Damn, get out!」#MTLed
 > CONTEXT: Commonevents/272/68/Dialogue
 > CONTEXT: Commonevents/272/245/Dialogue
 \\N[12]. 「Damn, get out!」#MTLed
@@ -647,10 +660,13 @@ It will take in」#MTLed
 わらわの下半身はお主の体中に吸い付いて
 痺れさせてしまうのじゃ」
 > CONTEXT: Map110/events/5/pages/0/144/Dialogue
-> CONTEXT: Commonevents/272/248/Dialogue
 Sea Princess. 「Hehe he is sweet for men.
 The lower part of the world is sucking into your body
 You will get numb.」#MTLed
+> CONTEXT: Commonevents/272/248/Dialogue
+Sea Princess. 「Hehe he is sweet for men.
+The lower part of the world is sucking into your
+body. You will get numb.」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -659,9 +675,11 @@ You will get numb.」#MTLed
 な、なんだっ、体中がジンジンしてくる……！」
 > CONTEXT: Map110/events/5/pages/0/150/Dialogue
 > CONTEXT: Map110/events/5/pages/1/191/Dialogue
+\\N[12]. 「uugh ... ...! How, the body comes in ... ...!」#MTLed
 > CONTEXT: Commonevents/272/77/Dialogue
 > CONTEXT: Commonevents/272/254/Dialogue
-\\N[12]. 「uugh ... ...! How, the body comes in ... ...!」#MTLed
+\\N[12]. 「uugh ... ...! How, the body comes
+in ... ...!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -669,10 +687,12 @@ You will get numb.」#MTLed
 体中を刺激してくる！
 > CONTEXT: Map110/events/5/pages/0/155/Dialogue
 > CONTEXT: Map110/events/5/pages/1/196/Dialogue
-> CONTEXT: Commonevents/272/82/Dialogue
-> CONTEXT: Commonevents/272/259/Dialogue
 \\N[12] The sucker of the tentacle sucks on the skin of,
 It stimulates the body!#MTLed
+> CONTEXT: Commonevents/272/82/Dialogue
+> CONTEXT: Commonevents/272/259/Dialogue
+\\N[12] The sucker of the tentacle sucks on
+the skin of, It stimulates the body!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -680,6 +700,7 @@ It stimulates the body!#MTLed
 「うあっ、あっ、くっ……」
 > CONTEXT: Map110/events/5/pages/0/158/Dialogue
 > CONTEXT: Map110/events/5/pages/1/199/Dialogue
+\\N[12]. 「Wait, there, ku ......」#MTLed
 > CONTEXT: Commonevents/272/85/Dialogue
 > CONTEXT: Commonevents/272/262/Dialogue
 \\N[12]. 「Wait, there, ku ......」#MTLed
@@ -692,11 +713,14 @@ It stimulates the body!#MTLed
 ほれほれ、こうしたらどうじゃ？」
 > CONTEXT: Map110/events/5/pages/0/161/Dialogue
 > CONTEXT: Map110/events/5/pages/1/202/Dialogue
-> CONTEXT: Commonevents/272/88/Dialogue
-> CONTEXT: Commonevents/272/265/Dialogue
 Sea Princess. 「Does not it sound with a good voice?
 I definitely want to let her vomit. , How about doing this?
 」#MTLed
+> CONTEXT: Commonevents/272/88/Dialogue
+> CONTEXT: Commonevents/272/265/Dialogue
+Sea Princess. 「Does not it sound with a good
+voice? I definitely want to let her vomit.
+, How about doing this?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -705,10 +729,12 @@ I definitely want to let her vomit. , How about doing this?
 ペニスにも吸い付いてくる！
 > CONTEXT: Map110/events/5/pages/0/166/Dialogue
 > CONTEXT: Map110/events/5/pages/1/207/Dialogue
-> CONTEXT: Commonevents/272/93/Dialogue
-> CONTEXT: Commonevents/272/270/Dialogue
 The tentacles of Sea Princess. \\N[12] Taking a whole
 body of it, The dick also comes sucking!#MTLed
+> CONTEXT: Commonevents/272/93/Dialogue
+> CONTEXT: Commonevents/272/270/Dialogue
+The tentacles of Sea Princess. \\N[12] Taking
+a whole body of it, The dick also comes sucking!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -717,10 +743,12 @@ body of it, The dick also comes sucking!#MTLed
 ここを責められると男は弱いのう」
 > CONTEXT: Map110/events/5/pages/0/174/Dialogue
 > CONTEXT: Map110/events/5/pages/1/215/Dialogue
-> CONTEXT: Commonevents/272/101/Dialogue
-> CONTEXT: Commonevents/272/278/Dialogue
 Sea Princess. 「hohoho, saying that bowing your body and
 panting. A man is weak when blamed here」#MTLed
+> CONTEXT: Commonevents/272/101/Dialogue
+> CONTEXT: Commonevents/272/278/Dialogue
+Sea Princess. 「hohoho, saying that bowing your
+body and panting. A man is weak when blamed here」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -728,6 +756,7 @@ panting. A man is weak when blamed here」#MTLed
 「や、やめ……う、うあっ！」
 > CONTEXT: Map110/events/5/pages/0/178/Dialogue
 > CONTEXT: Map110/events/5/pages/1/219/Dialogue
+\\N[12]. 「Or ... stop ... ... ... uh!」#MTLed
 > CONTEXT: Commonevents/272/105/Dialogue
 > CONTEXT: Commonevents/272/282/Dialogue
 \\N[12]. 「Or ... stop ... ... ... uh!」#MTLed
@@ -739,10 +768,13 @@ panting. A man is weak when blamed here」#MTLed
 わらわの吸盤で男性器を包み込んでやるぞよ」
 > CONTEXT: Map110/events/5/pages/0/181/Dialogue
 > CONTEXT: Map110/events/5/pages/1/222/Dialogue
+Sea Princess. 「Then, let me point the finisher.
+I'll envelop male instruments with a sucker in the straw」#MTLed
 > CONTEXT: Commonevents/272/108/Dialogue
 > CONTEXT: Commonevents/272/285/Dialogue
 Sea Princess. 「Then, let me point the finisher.
-I'll envelop male instruments with a sucker in the straw」#MTLed
+I'll envelop male instruments with a sucker in
+the straw」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -750,6 +782,8 @@ I'll envelop male instruments with a sucker in the straw」#MTLed
 さらに吸盤でちゅうちゅうと刺激してくる！
 > CONTEXT: Map110/events/5/pages/0/185/Dialogue
 > CONTEXT: Map110/events/5/pages/1/226/Dialogue
+Sea Princess's tentacle wraps around the penis,
+I will further stimulate kiss with a sucker!#MTLed
 > CONTEXT: Commonevents/272/112/Dialogue
 > CONTEXT: Commonevents/272/289/Dialogue
 Sea Princess's tentacle wraps around the penis,
@@ -762,10 +796,12 @@ I will further stimulate kiss with a sucker!#MTLed
 こ、こんなの、刺激が強すぎ……で、出るううぅっ！」
 > CONTEXT: Map110/events/5/pages/0/191/Dialogue
 > CONTEXT: Map110/events/5/pages/1/232/Dialogue
-> CONTEXT: Commonevents/272/118/Dialogue
-> CONTEXT: Commonevents/272/295/Dialogue
 \\N[12]. 「Aaaaaahhhh! This, stimulation is too strong
 ......, it will come out!」#MTLed
+> CONTEXT: Commonevents/272/118/Dialogue
+> CONTEXT: Commonevents/272/295/Dialogue
+\\N[12]. 「Aaaaaahhhh! This, stimulation is
+too strong ......, it will come out!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -773,6 +809,7 @@ I will further stimulate kiss with a sucker!#MTLed
 「あがっ、あっ、あひ……」
 > CONTEXT: Map110/events/5/pages/0/198/Dialogue
 > CONTEXT: Map110/events/5/pages/1/239/Dialogue
+\\N[12]. 「Oh, I have ah ......」#MTLed
 > CONTEXT: Commonevents/272/125/Dialogue
 > CONTEXT: Commonevents/272/302/Dialogue
 \\N[12]. 「Oh, I have ah ......」#MTLed
@@ -785,11 +822,15 @@ I will further stimulate kiss with a sucker!#MTLed
 じゃが、お主の精、なかなかに濃くて美味じゃのう」
 > CONTEXT: Map110/events/5/pages/0/201/Dialogue
 > CONTEXT: Map110/events/5/pages/1/242/Dialogue
-> CONTEXT: Commonevents/272/128/Dialogue
-> CONTEXT: Commonevents/272/305/Dialogue
 Sea Princess. 「It is a man who is not afraid.
 It is not easy to reach this. Potato, the savoryness of
 your lord, it's quite dark and delicious」#MTLed
+> CONTEXT: Commonevents/272/128/Dialogue
+> CONTEXT: Commonevents/272/305/Dialogue
+Sea Princess. 「It is a man who is not afraid.
+It is not easy to reach this. Potato, the
+savoryness of your lord, it's quite dark and
+delicious」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -797,9 +838,11 @@ your lord, it's quite dark and delicious」#MTLed
 「あ、あうぅ……き、きもち、よすぎるぅ……」
 > CONTEXT: Map110/events/5/pages/0/206/Dialogue
 > CONTEXT: Map110/events/5/pages/1/247/Dialogue
+\\N[12]. 「Oh, oh ......, Kimomachi, Yoshi Ruu ......」#MTLed
 > CONTEXT: Commonevents/272/133/Dialogue
 > CONTEXT: Commonevents/272/310/Dialogue
-\\N[12]. 「Oh, oh ......, Kimomachi, Yoshi Ruu ......」#MTLed
+\\N[12]. 「Oh, oh ......, Kimomachi, Yoshi Ruu
+......」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -809,21 +852,28 @@ your lord, it's quite dark and delicious」#MTLed
 人間の男など即座に狂ってしまうのが当然」
 > CONTEXT: Map110/events/5/pages/0/209/Dialogue
 > CONTEXT: Map110/events/5/pages/1/250/Dialogue
-> CONTEXT: Commonevents/272/136/Dialogue
-> CONTEXT: Commonevents/272/313/Dialogue
 Sea Princess. 「I just went out once and it fell down to
 pleasure anymore. Well, not too much. If you put it in the
 hands of a stew. Of course it is natural that men instantly
 become crazy」#MTLed
+> CONTEXT: Commonevents/272/136/Dialogue
+> CONTEXT: Commonevents/272/313/Dialogue
+Sea Princess. 「I just went out once and it fell
+down to pleasure anymore. Well, not too much. If
+you put it in the hands of a stew
+Of course it is natural that men instantly become
+crazy」#MTLed
 > END STRING
 
 > BEGIN STRING
 ちゅうっ、ちゅっ……にゅるっ、ぎちゅっ……
 > CONTEXT: Map110/events/5/pages/0/215/Dialogue
 > CONTEXT: Map110/events/5/pages/1/256/Dialogue
+Wait a minute ... ... followed by a crocodile ... ...#MTLed
 > CONTEXT: Commonevents/272/142/Dialogue
 > CONTEXT: Commonevents/272/319/Dialogue
-Wait a minute ... ... followed by a crocodile ... ...#MTLed
+Wait a minute ... ... followed by a crocodile ...
+...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -831,6 +881,7 @@ Wait a minute ... ... followed by a crocodile ... ...#MTLed
 「さあ、もっと精を吐くがよい」
 > CONTEXT: Map110/events/5/pages/0/217/Dialogue
 > CONTEXT: Map110/events/5/pages/1/258/Dialogue
+Sea Princess. 「Now spit out more」#MTLed
 > CONTEXT: Commonevents/272/144/Dialogue
 > CONTEXT: Commonevents/272/321/Dialogue
 Sea Princess. 「Now spit out more」#MTLed
@@ -842,10 +893,12 @@ Sea Princess. 「Now spit out more」#MTLed
 や、やめて、今そんなにされたらぁっ！」
 > CONTEXT: Map110/events/5/pages/0/220/Dialogue
 > CONTEXT: Map110/events/5/pages/1/261/Dialogue
-> CONTEXT: Commonevents/272/147/Dialogue
-> CONTEXT: Commonevents/272/324/Dialogue
 \\N[12]. 「Oh, aaaaahh! Or stop, I can do it so much now!
 」#MTLed
+> CONTEXT: Commonevents/272/147/Dialogue
+> CONTEXT: Commonevents/272/324/Dialogue
+\\N[12]. 「Oh, aaaaahh! Or stop, I can do it
+so much now!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -853,6 +906,7 @@ Sea Princess. 「Now spit out more」#MTLed
 「あひいいいぃ……」
 > CONTEXT: Map110/events/5/pages/0/228/Dialogue
 > CONTEXT: Map110/events/5/pages/1/269/Dialogue
+\\N[12]. 「Extreme ......」#MTLed
 > CONTEXT: Commonevents/272/155/Dialogue
 > CONTEXT: Commonevents/272/332/Dialogue
 \\N[12]. 「Extreme ......」#MTLed
@@ -865,6 +919,9 @@ Sea Princess. 「Now spit out more」#MTLed
 人の精を喰らうというのも乙なものじゃ。
 > CONTEXT: Map110/events/5/pages/0/231/Dialogue
 > CONTEXT: Map110/events/5/pages/1/272/Dialogue
+Sea Princess. 「hohoho ... ... I feel comfortable,
+Relishing the sexuality of a man panting
+It is the second thing to eat people's precision.#MTLed
 > CONTEXT: Commonevents/272/158/Dialogue
 > CONTEXT: Commonevents/272/335/Dialogue
 Sea Princess. 「hohoho ... ... I feel comfortable,
@@ -878,11 +935,14 @@ It is the second thing to eat people's precision.#MTLed
 ほれ、今度は体中を愛撫してくれよう」
 > CONTEXT: Map110/events/5/pages/0/236/Dialogue
 > CONTEXT: Map110/events/5/pages/1/277/Dialogue
-> CONTEXT: Commonevents/272/163/Dialogue
-> CONTEXT: Commonevents/272/340/Dialogue
 Go ahead and go crazier more. Until the sperm withers, I
 will get drunk with the best pleasure. Well, now caress
 your body」#MTLed
+> CONTEXT: Commonevents/272/163/Dialogue
+> CONTEXT: Commonevents/272/340/Dialogue
+Go ahead and go crazier more. Until the sperm
+withers, I will get drunk with the best pleasure.
+Well, now caress your body」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -890,10 +950,13 @@ your body」#MTLed
 \\N[12]は甘美な快感に全身を包まれる。
 > CONTEXT: Map110/events/5/pages/0/241/Dialogue
 > CONTEXT: Map110/events/5/pages/1/282/Dialogue
-> CONTEXT: Commonevents/272/168/Dialogue
-> CONTEXT: Commonevents/272/345/Dialogue
 Tentacles \\N[12] As you try to stroke your whole body,
 \\N[12] She is full of sweet pleasant sensation.#MTLed
+> CONTEXT: Commonevents/272/168/Dialogue
+> CONTEXT: Commonevents/272/345/Dialogue
+Tentacles \\N[12] As you try to stroke your
+whole body, \\N[12] She is full of sweet
+pleasant sensation.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -902,10 +965,12 @@ Tentacles \\N[12] As you try to stroke your whole body,
 だ、ダメだ、こんなの抵抗できない……）
 > CONTEXT: Map110/events/5/pages/0/244/Dialogue
 > CONTEXT: Map110/events/5/pages/1/285/Dialogue
-> CONTEXT: Commonevents/272/171/Dialogue
-> CONTEXT: Commonevents/272/348/Dialogue
 \\N[12]. (Oh, ah ... .... It is useless, I can not
 resist such a thing ...)#MTLed
+> CONTEXT: Commonevents/272/171/Dialogue
+> CONTEXT: Commonevents/272/348/Dialogue
+\\N[12]. (Oh, ah ... .... It is useless, I can
+not resist such a thing ...)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -914,10 +979,14 @@ resist such a thing ...)#MTLed
 餌とすることになるが……
 ふふふ、もはや食われるとなっても抵抗はできまい。
 > CONTEXT: Map110/events/5/pages/0/248/Dialogue
-> CONTEXT: Commonevents/272/352/Dialogue
 Sea Princess. 「When sperm withers, take your body into the
 body. It will be bait ... ... Huhuu, even if it is no
 longer able to resist, resistance is impossible.#MTLed
+> CONTEXT: Commonevents/272/352/Dialogue
+Sea Princess. 「When sperm withers, take your
+body into the body. It will be bait ... ...
+Huhuu, even if it is no longer able to resist,
+resistance is impossible.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -925,9 +994,12 @@ longer able to resist, resistance is impossible.#MTLed
 その身を捧げることができたのじゃ。
 光栄に思いながら死んでゆくがよい、人間の男よ」
 > CONTEXT: Map110/events/5/pages/0/253/Dialogue
-> CONTEXT: Commonevents/272/357/Dialogue
 To this noble sea princess. You could devote yourself to
 it. Let's be honored dead while you die, a human man」#MTLed
+> CONTEXT: Commonevents/272/357/Dialogue
+To this noble sea princess. You could devote
+yourself to it. Let's be honored dead while you
+die, a human man」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -935,6 +1007,7 @@ it. Let's be honored dead while you die, a human man」#MTLed
 「あ、う……」
 > CONTEXT: Map110/events/5/pages/0/257/Dialogue
 > CONTEXT: Map110/events/5/pages/1/298/Dialogue
+\\N[12]. 「meet……」#MTLed
 > CONTEXT: Commonevents/272/184/Dialogue
 > CONTEXT: Commonevents/272/361/Dialogue
 \\N[12]. 「meet……」#MTLed
@@ -946,11 +1019,15 @@ it. Let's be honored dead while you die, a human man」#MTLed
 人知れず一生を終えたのだった……
 > CONTEXT: Map110/events/5/pages/0/265/Dialogue
 > CONTEXT: Map110/events/5/pages/1/306/Dialogue
-> CONTEXT: Commonevents/272/192/Dialogue
-> CONTEXT: Commonevents/272/369/Dialogue
 In this way \\N[12] It became a prey of Sea Princess,
 She was eaten by her sweet pleasures. He was uninformed and
 he had finished his life ... ...#MTLed
+> CONTEXT: Commonevents/272/192/Dialogue
+> CONTEXT: Commonevents/272/369/Dialogue
+In this way \\N[12] It became a prey of Sea
+Princess, She was eaten by her sweet pleasures
+He was uninformed and he had finished his life
+... ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1057,17 +1134,22 @@ disclose this cave to people」#MTLed
 こんなところで魔物にやられるなんて……
 くっ、せめてプリムだけでもっ！」
 > CONTEXT: Map110/events/5/pages/1/145/Dialogue
-> CONTEXT: Commonevents/272/31/Dialogue
 \\N[12]. 「What is it ...... In monsters like this in
 such a place ... ... Cut, at least with Purim alone!」#MTLed
+> CONTEXT: Commonevents/272/31/Dialogue
+\\N[12]. 「What is it ...... In monsters like
+this in such a place ... ... Cut, at least with
+Purim alone!」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は
 神々の羽をプリムに向かって放り投げる！
 > CONTEXT: Map110/events/5/pages/1/150/Dialogue
-> CONTEXT: Commonevents/272/36/Dialogue
 \\N[12] Is. Throw the wings of the gods toward Purim!#MTLed
+> CONTEXT: Commonevents/272/36/Dialogue
+\\N[12] Is. Throw the wings of the gods toward
+Purim!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1075,9 +1157,11 @@ such a place ... ... Cut, at least with Purim alone!」#MTLed
 「ぬっ、小娘を脱出させおったか。
 おのれ、面倒なことを……」
 > CONTEXT: Map110/events/5/pages/1/157/Dialogue
-> CONTEXT: Commonevents/272/43/Dialogue
 Sea Princess. 「Well, did you let her little girl escape?
 Himself, troublesome ... ...」#MTLed
+> CONTEXT: Commonevents/272/43/Dialogue
+Sea Princess. 「Well, did you let her little girl
+escape? Himself, troublesome ... ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1085,8 +1169,10 @@ Himself, troublesome ... ...」#MTLed
 「こ、これで、
 あいつだけは助かったはず……」
 > CONTEXT: Map110/events/5/pages/1/161/Dialogue
-> CONTEXT: Commonevents/272/47/Dialogue
 \\N[12]. 「Here, He only had to be saved ......」#MTLed
+> CONTEXT: Commonevents/272/47/Dialogue
+\\N[12]. 「Here, He only had to be saved ......
+」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1095,9 +1181,12 @@ Himself, troublesome ... ...」#MTLed
 わらわの餌となるがよい。
 それ、取り込んでくれよう」
 > CONTEXT: Map110/events/5/pages/1/165/Dialogue
-> CONTEXT: Commonevents/272/51/Dialogue
 Sea Princess. 「Oh well, this way, even your lord alone
 It will be a bait for me. It will take in」#MTLed
+> CONTEXT: Commonevents/272/51/Dialogue
+Sea Princess. 「Oh well, this way, even your lord
+alone. It will be a bait for me.
+It will take in」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1106,6 +1195,9 @@ It will be a bait for me. It will take in」#MTLed
 わらわの下半身の触手は、は
 お主の体中に吸い付いて痺れさせてしまうのじゃ」
 > CONTEXT: Map110/events/5/pages/1/185/Dialogue
+Sea Princess. 「Hehe he is sweet for men.
+The tentacles of the lower body of the girl are
+You will suck in your body and make you numb.」#MTLed
 > CONTEXT: Commonevents/272/71/Dialogue
 Sea Princess. 「Hehe he is sweet for men.
 The tentacles of the lower body of the girl are
@@ -1118,10 +1210,14 @@ You will suck in your body and make you numb.」#MTLed
 喰ろうてやることになるが……
 ふふふ、もはやそう聞かされたところで抵抗はできまい。
 > CONTEXT: Map110/events/5/pages/1/289/Dialogue
-> CONTEXT: Commonevents/272/175/Dialogue
 Sea Princess. 「When sperm withers, your body itself
 I will try to eat it ... .... Huhuu, I can not resist
 resistance where I heard so much.#MTLed
+> CONTEXT: Commonevents/272/175/Dialogue
+Sea Princess. 「When sperm withers, your body
+itself. I will try to eat it ... ....
+Huhuu, I can not resist resistance where I heard
+so much.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1129,9 +1225,12 @@ resistance where I heard so much.#MTLed
 その身を捧げることができるのじゃ。
 光栄に思いながら死んでゆくがよい、人間の男よ」
 > CONTEXT: Map110/events/5/pages/1/294/Dialogue
-> CONTEXT: Commonevents/272/180/Dialogue
 To this noble sea princess. You can devote yourself to it.
 Let's be honored dead while you die, a human man」#MTLed
+> CONTEXT: Commonevents/272/180/Dialogue
+To this noble sea princess. You can devote
+yourself to it. Let's be honored dead while you
+die, a human man」#MTLed
 > END STRING
 
 > BEGIN STRING

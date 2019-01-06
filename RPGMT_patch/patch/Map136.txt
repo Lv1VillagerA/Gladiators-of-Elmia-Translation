@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 兵士
 「もう試合開始の時間ですので、
@@ -61,19 +61,6 @@ secretariat "#MTLed
 > CONTEXT: Map136/events/26/pages/0/0/Dialogue
 \\N[12]. 「Is it a freely available short sword ...?
 Somehow, also in this waiting room. I miss old already.」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「仕方ない、これを使うしかないか」
-> CONTEXT: Map057/events/26/pages/1/0/Dialogue
-\\N[12]. 「There is no choice but to use this」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]はショートソードを装備した！
-> CONTEXT: Map057/events/26/pages/1/4/Dialogue
-\\N[12] Equipped with short sword!#MTLed
 > END STRING
 
 > BEGIN STRING

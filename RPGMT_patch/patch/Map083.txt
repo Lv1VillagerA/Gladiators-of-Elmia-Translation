@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 商人
 「景色はいいし、温泉も温かい。
@@ -301,14 +301,6 @@ Everyone will do things that are lewd♪」#MTLed
 「ふふ、楽しみね……♪」
 > CONTEXT: Map083/events/5/pages/1/151/Dialogue
 sexy bandit. 「Hehe, I'm having fun ...♪」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「お、おう」
-> CONTEXT: Map083/events/5/pages/1/155/Dialogue
-> CONTEXT: Map147/events/2/pages/19/212/Dialogue
-\\N[12]. 「Cover」#MTLed
 > END STRING
 
 > BEGIN STRING

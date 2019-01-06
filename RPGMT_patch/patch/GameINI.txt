@@ -1,16 +1,9 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
-> BEGIN STRING
-エルミア剣闘物語－少年剣士VS戦う乙女たち－　ver1.06
-> CONTEXT: None < UNUSED
-Elmia Kendo Fighting Word - Shonen Swordsman VS Fighting Maidens - ver1.06#MTLed
-> CONTEXT: None < UNUSED
-Elmia Kendo Fighting Word - Shonen Swordsman VS Fighting
-Maidens - ver1.06#MTLed
-> END STRING
-
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 エルミア剣闘物語－少年剣士VS戦う乙女たち－　ver2.03
-> CONTEXT: GameINI/Title < UNTRANSLATED
-> CONTEXT: System/game_title/ < UNTRANSLATED
-
+> CONTEXT: GameINI/Title
+Elmia Kendo Fighting Word - Boys Swordsman VS Fighting Maiden - ver2.03#MTLed
+> CONTEXT: System/game_title/
+Elmia Kendo Fighting Word - Boys Swordsman VS Fighting
+Maiden - ver2.03#MTLed
 > END STRING

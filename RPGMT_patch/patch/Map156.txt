@@ -1,23 +1,24 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 魔物の体内
-> CONTEXT: Map156/display_name/ < UNTRANSLATED
-
+> CONTEXT: Map156/display_name/
+Inside the body of monster#MTLed
 > END STRING
 
 > BEGIN STRING
 デビルウィッチ
 「どうかしら、今日も元気にしてる？」
-> CONTEXT: Map156/events/1/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/12/Dialogue
+Devilwitch. 「I wonder, how are you doing today?」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「う、うぅ……
 お願いだ、人間界に帰してくれ……」
-> CONTEXT: Map156/events/1/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/15/Dialogue
+\\N[12]. 「Uooh ... Please, return to the
+human world ... ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -25,36 +26,41 @@
 「ふふっ、ダメに決まってるじゃない。
 あなたのような精力旺盛な人間の男を
 せっかく捕らえたのに、逃がすわけがないわ。
-> CONTEXT: Map156/events/1/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/19/Dialogue
+Devilwitch. 「Huh, it is decided not to be
+useless. A highly energetic human man like you
+Even though I caught him for a long time, I can
+not let it escape.#MTLed
 > END STRING
 
 > BEGIN STRING
 さあ、今日も私を見ながらオナニーなさい。
 そして、この魔法生物に精気を与えるのよ」
-> CONTEXT: Map156/events/1/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/24/Dialogue
+Come on, masturbate while watching me today.
+And give a madness to this magical creature」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「い、いやだ……」
-> CONTEXT: Map156/events/1/pages/0/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/27/Dialogue
+\\N[12]. 「no way……」#MTLed
 > END STRING
 
 > BEGIN STRING
 デビルウィッチ
 「逆らうなら、こうしてあげるわ」
-> CONTEXT: Map156/events/1/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/30/Dialogue
+Devilwitch. 「If you go against it, I will do this
+」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ぐあぁっ……」
-> CONTEXT: Map156/events/1/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/34/Dialogue
+\\N[12]. 「Ahh ......」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -62,22 +68,25 @@
 「私に従わないのなら、延々と苦痛を与え続けてあげる。
 さっさとオナニーすれば快楽を味わえるんだから、
 素直に従いなさい」
-> CONTEXT: Map156/events/1/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/37/Dialogue
+Devilwitch. 「If you do not obey me, I will keep
+on giving pain soon. If you masturbate quickly
+you can taste pleasure, Follow obediently.」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「わ、わかった……」
-> CONTEXT: Map156/events/1/pages/0/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/42/Dialogue
+\\N[12]. 「I understand ....」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は、可憐なデビルウィッチを見上げながら
 オナニーを始める。
-> CONTEXT: Map156/events/1/pages/0/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/45/Dialogue
+\\N[12] While looking up the pretty devil
+witch. Start masturbation.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -85,8 +94,10 @@
 「そうそう。
 この私を見上げながらオナニーできるんだから、
 素直に喜んでシコシコすればいいのよ。
-> CONTEXT: Map156/events/1/pages/0/50/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/50/Dialogue
+Devilwitch. 「Yes Yes. Because I can masturbate
+while looking up at me, You should be happy
+obediently.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -94,16 +105,19 @@
 女の魅力に興奮させられて、
 必死に性器を擦って快楽を求めて……
 惨めこの上ない姿だわ」
-> CONTEXT: Map156/events/1/pages/0/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/55/Dialogue
+Huh, anyway, man's masturbation really is
+unsightly. Being excited by the charm of a woman,
+Desperately rubbing genitalia for pleasure ...
+... It's a miserably overlooking figure」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ううっ、くそっ……
 はぁ、はぁっ……」
-> CONTEXT: Map156/events/1/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/60/Dialogue
+\\N[12]. 「OHh, damn ...... Ah, Ahh ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -111,30 +125,34 @@
 「ほらほら、頑張りなさい。
 いっぱい出せば褒めてあげるし、
 もしかしたら私の体に触れさせてあげるかもしれないわよ？」
-> CONTEXT: Map156/events/1/pages/0/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/64/Dialogue
+Devilwitch. 「Good luck, oh no.
+I will compliment if it comes out a lot,
+Perhaps I'll let you touch my body?」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「え……
 う、うわっ……！」
-> CONTEXT: Map156/events/1/pages/0/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/69/Dialogue
+\\N[12]. 「Huh……. Wow, ...」#MTLed
 > END STRING
 
 > BEGIN STRING
 デビルウィッチの発言にどきりとした\\N[12]は、
 その瞬間、精液を噴射してしまう！
-> CONTEXT: Map156/events/1/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/73/Dialogue
+I was frustrated by Devilwitch's remarks
+\\N[12] Is. At that moment, I will inject
+sperm!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「うあっ、あっ、あうううぅっ……」
-> CONTEXT: Map156/events/1/pages/0/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/80/Dialogue
+\\N[12]. 「Wow, there, ah, oh ....」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -142,39 +160,66 @@
 「あらあら、私が体を許すことをほのめかしただけで
 ドキドキしてイっちゃったんだ。
 あはっ、こんな目にあわされてるのに、なんて浅ましいの」
-> CONTEXT: Map156/events/1/pages/0/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map156/events/1/pages/0/83/Dialogue
+Devilwitch. 「oh no, I just hinted that I forgive
+my body. I did it. Hahah, I have this kind of eye
+to say, how dreadful it is」#MTLed
+> END STRING
 
+> BEGIN STRING
+\\N[12]
+「う、うぅ……」
+> CONTEXT: Map156/events/1/pages/0/88/Dialogue
+> CONTEXT: Commonevents/7/283/Dialogue
+> CONTEXT: Commonevents/65/292/Dialogue
+> CONTEXT: Commonevents/219/284/Dialogue
+> CONTEXT: Commonevents/239/328/Dialogue
+> CONTEXT: Commonevents/240/328/Dialogue
+> CONTEXT: Commonevents/260/307/Dialogue
+\\N[12]. 「Uooh ...」#MTLed
+> CONTEXT: Map147/events/2/pages/19/357/Dialogue
+> CONTEXT: Map152/events/24/pages/12/489/Dialogue
+> CONTEXT: Map152/events/24/pages/12/965/Dialogue
+> CONTEXT: Map057/events/22/pages/0/454/Dialogue
+> CONTEXT: Map043/events/24/pages/13/513/Dialogue
+> CONTEXT: Map043/events/24/pages/13/1013/Dialogue
+\\N[12]. 「Uooh ...」#MTLed
 > END STRING
 
 > BEGIN STRING
 恥辱で顔を真っ赤にする\\N[12]。
 ペニスから飛び出た精液は、
 魔法生物の中に吸収されてゆく。
-> CONTEXT: Map156/events/1/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/91/Dialogue
+Shame on your face with shame \\N[12] .
+Sperm jumped out of the penis,
+It is absorbed into magical creatures.#MTLed
 > END STRING
 
 > BEGIN STRING
 デビルウィッチ
 「ふふっ、この子も喜んでいるみたい。
 いっぱい出してくれてありがと♪
-> CONTEXT: Map156/events/1/pages/0/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/97/Dialogue
+Devilwitch. 「He seems to be happy with this girl.
+Thank you for putting out a lot♪#MTLed
 > END STRING
 
 > BEGIN STRING
 これでまた、この魔法生物も成長する。
 強大な生物兵器に成長すれば、
 私も魔界で権力を得られるというものだわ」
-> CONTEXT: Map156/events/1/pages/0/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/101/Dialogue
+With this, this magical creature also grows.
+If you grow into a mighty biological weapon,
+I also can gain power in the Makai」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「くっ……はぁ、はぁ……」
-> CONTEXT: Map156/events/1/pages/0/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/105/Dialogue
+\\N[12]. 「Cut ...... Ah, Ah ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -182,8 +227,24 @@
 「気が向いたら、私の脚ぐらいには触らせてあげてもいいわ。
 ご褒美が欲しければ、これからも頑張ってオナニーなさい。
 いいわね？」
-> CONTEXT: Map156/events/1/pages/0/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map156/events/1/pages/0/108/Dialogue
+Devilwitch. 「If you feel like it, you can touch
+around my legs. If you want a reward, do your
+best and continue to masturbate.
+Good?」#MTLed
+> END STRING
 
+> BEGIN STRING
+\\N[12]
+「わ、わかりました……」
+> CONTEXT: Map156/events/1/pages/0/113/Dialogue
+> CONTEXT: Commonevents/242/77/Dialogue
+> CONTEXT: Commonevents/242/745/Dialogue
+\\N[12]. 「Wow, okay ....」#MTLed
+> CONTEXT: Map041/events/5/pages/5/435/Dialogue
+> CONTEXT: Map041/events/5/pages/5/1101/Dialogue
+> CONTEXT: Map041/events/56/pages/0/42/Dialogue
+\\N[12]. 「Wow, okay ....」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -191,22 +252,32 @@
 搾精奴隷として飼われ続ける。
 たまに肌に触れさせてもらえることもあったが、それも
 \\N[12]を興奮させて精液を効率よく搾取するためであった。
-> CONTEXT: Map156/events/1/pages/0/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/117/Dialogue
+In this way, \\N[12] By Devilwitch
+Keep kept kept as a slush slaughter.
+Sometimes I was allowed to touch my skin, but
+that also. \\N[12] To excite the semen
+efficiently.#MTLed
 > END STRING
 
 > BEGIN STRING
 そのうち、デビルウィッチは成長した魔法生物を駆り
 魔界のとある地方を制圧し、
 領地を得て一目置かれる存在となる。
-> CONTEXT: Map156/events/1/pages/0/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/122/Dialogue
+Among them, Devil Witch ran a magical creature
+that grew up. Suppressing a certain region of the
+Makai world, Gaining the territory and becoming a
+first-placed presence.#MTLed
 > END STRING
 
 > BEGIN STRING
 しかし、\\N[12]は魔法生物に精液を与える役目を終えると
 デビルウィッチから放り捨てられ、
 いいように利用された無残な一生を終えたのだった……
-> CONTEXT: Map156/events/1/pages/0/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map156/events/1/pages/0/126/Dialogue
+But, \\N[12] When finishing the role of giving
+semen to magical creatures. Throw away from devil
+witch, It was a miserable lifetime that was used
+to be good ... ...#MTLed
 > END STRING

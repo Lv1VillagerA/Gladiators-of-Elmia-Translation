@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 ディアーナ
 「あら、どなた？
@@ -603,14 +603,6 @@ sword yet?」#MTLed
 
 > BEGIN STRING
 \\N[12]
-「な、なんだって！」
-> CONTEXT: Map147/events/2/pages/19/30/Dialogue
-> CONTEXT: Map042/events/2/pages/1/341/Dialogue
-\\N[12]. 「?」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
 「お、俺は小さい頃から
 ずっと修行に励んできたっていうのに、
 半年だけの経験で、その俺をここまでにしたっていうのか」
@@ -741,11 +733,12 @@ final game. congratulations for winning」#MTLed
 ディアーナ
 「この私に勝つぐらいだから
 ただ者じゃないとは思っていたけれど、
-あなた、庶民にしてはかなりの才能あるのねっ」
-> CONTEXT: None < UNUSED
+あなた、庶民にしてはかなり才能あるのねっ」
+> CONTEXT: Map042/events/2/pages/8/14/Dialogue
 Diana. 「Because I will win this
 I thought that it was not merely a person,
-You, as a common people, are quite talented」#MTLed
+You, you are quite talented for the common people
+」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1371,11 +1364,12 @@ Would you like to keep it unilaterally as it is」#MTLed
 「あ、甘く見ないでよね！
 \\N[12]のおちんちんだって、こうしてやれば……」
 > CONTEXT: Map042/events/2/pages/8/285/Dialogue
-Diana. 「Oh, do not look sweet! \\N[12] Even if you do
-this......」#MTLed
+Diana. 「Oh, do not look sweet! \\N[12] You got a cunt,
+if you do like this ...」#MTLed
 > CONTEXT: Commonevents/264/115/Dialogue
 Diana. 「Oh, do not look sweet!
-\\N[12] Even if you do this......」#MTLed
+\\N[12] You got a cunt, if you do like this
+...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2115,11 +2109,11 @@ with thin fingers!#MTLed
 可愛く感じられてきちゃったわ」
 > CONTEXT: Map042/events/2/pages/8/573/Dialogue
 Diana. 「With hands or mouths, \\N[12] He will
-obediently wear it. Hahaha, what do you think?
+obediently wear it. Huhuh, somehow a penis
 I came to feel cute」#MTLed
 > CONTEXT: Commonevents/264/403/Dialogue
 Diana. 「With hands or mouths, \\N[12] He will
-obediently wear it. Hahaha, what do you think?
+obediently wear it. Huhuh, somehow a penis
 I came to feel cute」#MTLed
 > END STRING
 
@@ -2711,13 +2705,4 @@ nobility and common people. I will send it.......#MTLed
 ディアーナ バッドエンド：貴族の少女に屈服
 > CONTEXT: Map042/events/10/pages/0/51/Dialogue
 Diana bad end: yielding to a girl of aristocracy#MTLed
-> END STRING
-
-> BEGIN STRING
-ディアーナ
-「この私に勝つぐらいだから
-ただ者じゃないとは思っていたけれど、
-あなた、庶民にしてはかなり才能あるのねっ」
-> CONTEXT: Map042/events/2/pages/8/14/Dialogue < UNTRANSLATED
-
 > END STRING

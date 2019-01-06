@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 魔物
 「ミズヲ　ケガスモノ　オマエカ……」
@@ -743,11 +743,11 @@ Sherry. 「Well, then hold this and ...」#MTLed
 「なかなか立派なおちんちんしてるね。
 熱くて太くて、手が火傷しちゃいそうだよ」
 > CONTEXT: Map113/events/9/pages/0/253/Dialogue
-Sherry. 「It's pretty cool. It's hot and thick, my hands
-seem to get burned」#MTLed
+Sherry. 「It is quite a good decoration. It's hot and
+thick, my hands seem to get burned」#MTLed
 > CONTEXT: Commonevents/238/96/Dialogue
-Sherry. 「It's pretty cool. It's hot and thick,
-my hands seem to get burned」#MTLed
+Sherry. 「It is quite a good decoration.
+It's hot and thick, my hands seem to get burned」#MTLed
 > END STRING
 
 > BEGIN STRING

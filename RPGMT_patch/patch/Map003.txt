@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 北レストン街道
 > CONTEXT: Map003/display_name/
@@ -31,24 +31,15 @@ it easy」#MTLed
 > END STRING
 
 > BEGIN STRING
-自警団員
-「現在、北のモルデリア洞窟の盗賊団への警戒のため
-この橋は通行禁止よ。
-通りたいのなら村長の許可をもらってきてね」
-> CONTEXT: None < UNUSED
-militia member. 「Currently, for warning to the bandits of
-the Morderia cave in the north. This bridge is closed to
-traffic. If you want to pass, please get permission from
-village head」#MTLed
-> END STRING
-
-> BEGIN STRING
 自警団員アルマ
 「現在、北のモルデリア洞窟の盗賊団への警戒のため
 この橋は通行禁止よ。
 通りたいのなら村長の許可をもらってきてね」
-> CONTEXT: Map003/events/11/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map003/events/11/pages/0/0/Dialogue
+militia member Alma. 「Currently, for warning to the
+bandits of the Morderia cave in the north
+This bridge is closed to traffic. If you want to pass,
+please get permission from village head」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -56,8 +47,11 @@ village head」#MTLed
 「現在、北のモルデリア洞窟の盗賊団への警戒のため
 この橋は通行禁止よ。
 通りたいのなら村長の許可をもらってきてね」
-> CONTEXT: Map003/events/12/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map003/events/12/pages/0/0/Dialogue
+militia member canna. 「Currently, for warning to the
+bandits of the Morderia cave in the north
+This bridge is closed to traffic. If you want to pass,
+please get permission from village head」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -65,8 +59,11 @@ village head」#MTLed
 「特にメリーナとかデュアとか、内心で男を馬鹿にしてるよね。
 \\N[12]みたいに頑張ってる男の子がいたから
 今まではかろうじてバランス取れてたけど……
-> CONTEXT: Map003/events/23/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map003/events/23/pages/0/0/Dialogue
+militia member canna. 「Especially Melina or Dyre, you are
+making fun of a guy with inner mind. \\N[12] Because
+there was a boy trying hard like something
+Until now it was barely balanced, but ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -74,8 +71,11 @@ village head」#MTLed
 \\N[12]、あいつ、あなただけしか認めてないんだよ。
 あなたが情けないトコ見せちゃうと
 いろいろ決壊するかもだし、くれぐれも頑張ってよー？」
-> CONTEXT: Map003/events/23/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map003/events/23/pages/0/8/Dialogue
+Especially Jane thinks it is quite dangerous.
+\\N[12] He is the only one who admits you.
+I will show you a miserable place. I'm going to break you
+up and do your best, do not you agree?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -83,6 +83,8 @@ village head」#MTLed
 「最近、自警団員の女の子たちの中に
 男の子への対抗心を持つ子が増えてきてる気がするわ。
 変な対立にならなきゃいいけど」
-> CONTEXT: Map003/events/24/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map003/events/24/pages/0/0/Dialogue
+militia member Alma. 「Recently, in Young Militiawoman et
+al. I feel like I have more children with opponent hearts
+for boys. I do not have to be in a funny confrontation」#MTLed
 > END STRING

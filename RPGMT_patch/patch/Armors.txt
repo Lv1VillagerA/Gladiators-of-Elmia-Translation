@@ -1388,11 +1388,11 @@ Mermaid bangle#MTLed
 > END STRING
 
 > BEGIN STRING
-勃起、魅了の各状態に
+勃起、魅了、恍惚の各状態に
 少し耐性がつき、水属性のダメージを少し軽減する。
-> CONTEXT: None < UNUSED
-Erection, attraction to each state. Slightly resistant,
-slightly reduces water damage damage.#MTLed
+> CONTEXT: Armors/124/description/
+In each state of erection, attraction, ecstasy. Slightly
+resistant, slightly reduces water damage damage.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1485,11 +1485,4 @@ water god and slightly reduces the damage of the sacred attribute.#MTLed
 > CONTEXT: Armors/132/description/
 Crystal that lesser devil used as a magical catalyst. When
 equipped, the skill increases one.#MTLed
-> END STRING
-
-> BEGIN STRING
-勃起、魅了、恍惚の各状態に
-少し耐性がつき、水属性のダメージを少し軽減する。
-> CONTEXT: Armors/124/description/ < UNTRANSLATED
-
 > END STRING

@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 どこかで橋がかかったようだ。
 > CONTEXT: Map128/events/2/pages/0/4/Dialogue
@@ -18,9 +18,9 @@ I got a great skill medicine medicine!#MTLed
 人間の剣ごときで、魔族の魔法に対抗できるとでも
 思ったか？」
 > CONTEXT: Map128/events/6/pages/2/16/Dialogue
-> CONTEXT: Map115/events/2/pages/0/16/Dialogue
 > CONTEXT: Map116/events/5/pages/0/16/Dialogue
 > CONTEXT: Map116/events/6/pages/0/16/Dialogue
+> CONTEXT: Map115/events/2/pages/0/16/Dialogue
 > CONTEXT: Map116/events/10/pages/0/16/Dialogue
 > CONTEXT: Map097/events/18/pages/2/16/Dialogue
 > CONTEXT: Map097/events/20/pages/2/16/Dialogue
@@ -37,43 +37,13 @@ Did you think that?」#MTLed
 > END STRING
 
 > BEGIN STRING
-\\N[12]
-「あぐっ！」
-> CONTEXT: Map128/events/6/pages/2/22/Dialogue
-> CONTEXT: Map115/events/2/pages/0/22/Dialogue
-> CONTEXT: Map116/events/5/pages/0/22/Dialogue
-> CONTEXT: Map116/events/6/pages/0/22/Dialogue
-> CONTEXT: Map116/events/10/pages/0/22/Dialogue
-> CONTEXT: Map097/events/18/pages/2/22/Dialogue
-> CONTEXT: Map097/events/20/pages/2/22/Dialogue
-> CONTEXT: Map097/events/21/pages/2/22/Dialogue
-> CONTEXT: Map097/events/22/pages/2/22/Dialogue
-> CONTEXT: Map097/events/23/pages/2/22/Dialogue
-> CONTEXT: Map075/events/23/pages/2/22/Dialogue
-> CONTEXT: Map075/events/25/pages/2/22/Dialogue
-> CONTEXT: Map075/events/26/pages/2/22/Dialogue
-> CONTEXT: Map075/events/30/pages/2/22/Dialogue
-> CONTEXT: Map149/events/38/pages/0/163/Dialogue
-> CONTEXT: Map149/events/38/pages/1/108/Dialogue
-> CONTEXT: Map149/events/38/pages/2/90/Dialogue
-> CONTEXT: Map095/events/7/pages/2/1/Dialogue
-> CONTEXT: Map025/events/267/pages/0/209/Dialogue
-> CONTEXT: Map025/events/267/pages/1/137/Dialogue
-> CONTEXT: Map025/events/267/pages/2/120/Dialogue
-\\N[12]. 「Thanks!」#MTLed
-> CONTEXT: Commonevents/183/72/Dialogue
-> CONTEXT: Commonevents/243/82/Dialogue
-\\N[12]. 「Thanks!」#MTLed
-> END STRING
-
-> BEGIN STRING
 レッサーデビル
 「人間の分際で我に歯向かったこと、
 後悔するがいい。
 > CONTEXT: Map128/events/6/pages/2/25/Dialogue
 > CONTEXT: Map116/events/5/pages/0/25/Dialogue
-> CONTEXT: Map115/events/2/pages/0/25/Dialogue
 > CONTEXT: Map116/events/6/pages/0/25/Dialogue
+> CONTEXT: Map115/events/2/pages/0/25/Dialogue
 > CONTEXT: Map116/events/10/pages/0/25/Dialogue
 > CONTEXT: Map097/events/18/pages/2/25/Dialogue
 > CONTEXT: Map097/events/20/pages/2/25/Dialogue
@@ -91,9 +61,9 @@ circumstances, You should regret it.#MTLed
 > BEGIN STRING
 敗北イベントを見ますか？
 > CONTEXT: Map128/events/6/pages/2/29/Dialogue
-> CONTEXT: Map115/events/2/pages/0/29/Dialogue
 > CONTEXT: Map116/events/5/pages/0/29/Dialogue
 > CONTEXT: Map116/events/6/pages/0/29/Dialogue
+> CONTEXT: Map115/events/2/pages/0/29/Dialogue
 > CONTEXT: Map116/events/10/pages/0/29/Dialogue
 > CONTEXT: Map097/events/18/pages/2/29/Dialogue
 > CONTEXT: Map097/events/20/pages/2/29/Dialogue
@@ -111,9 +81,9 @@ Do you see the defeat event?#MTLed
 さて、このままただ殺すのも芸がない。
 ひとつ、面白い魔法をかけてやろうか」
 > CONTEXT: Map128/events/6/pages/2/38/Dialogue
-> CONTEXT: Map115/events/2/pages/0/38/Dialogue
 > CONTEXT: Map116/events/5/pages/0/38/Dialogue
 > CONTEXT: Map116/events/6/pages/0/38/Dialogue
+> CONTEXT: Map115/events/2/pages/0/38/Dialogue
 > CONTEXT: Map116/events/10/pages/0/38/Dialogue
 > CONTEXT: Map097/events/18/pages/2/38/Dialogue
 > CONTEXT: Map097/events/20/pages/2/38/Dialogue
@@ -134,8 +104,8 @@ One thing, can you put an interesting magic」#MTLed
 か、体の自由がきかない……」
 > CONTEXT: Map128/events/6/pages/2/43/Dialogue
 > CONTEXT: Map116/events/5/pages/0/43/Dialogue
-> CONTEXT: Map115/events/2/pages/0/43/Dialogue
 > CONTEXT: Map116/events/6/pages/0/43/Dialogue
+> CONTEXT: Map115/events/2/pages/0/43/Dialogue
 > CONTEXT: Map116/events/10/pages/0/43/Dialogue
 > CONTEXT: Map097/events/18/pages/2/43/Dialogue
 > CONTEXT: Map097/events/20/pages/2/43/Dialogue
@@ -155,9 +125,9 @@ of the body ...」#MTLed
 「さあ、ペニスを引っ張り出せ。
 この私を鑑賞しながら自慰行為をするがいい」
 > CONTEXT: Map128/events/6/pages/2/48/Dialogue
-> CONTEXT: Map115/events/2/pages/0/48/Dialogue
 > CONTEXT: Map116/events/5/pages/0/48/Dialogue
 > CONTEXT: Map116/events/6/pages/0/48/Dialogue
+> CONTEXT: Map115/events/2/pages/0/48/Dialogue
 > CONTEXT: Map116/events/10/pages/0/48/Dialogue
 > CONTEXT: Map097/events/18/pages/2/48/Dialogue
 > CONTEXT: Map097/events/20/pages/2/48/Dialogue
@@ -176,9 +146,9 @@ while watching this me」#MTLed
 \\N[12]
 「ううっ……て、手が、勝手に……！」
 > CONTEXT: Map128/events/6/pages/2/52/Dialogue
-> CONTEXT: Map115/events/2/pages/0/52/Dialogue
 > CONTEXT: Map116/events/5/pages/0/52/Dialogue
 > CONTEXT: Map116/events/6/pages/0/52/Dialogue
+> CONTEXT: Map115/events/2/pages/0/52/Dialogue
 > CONTEXT: Map116/events/10/pages/0/52/Dialogue
 > CONTEXT: Map097/events/18/pages/2/52/Dialogue
 > CONTEXT: Map097/events/20/pages/2/52/Dialogue
@@ -198,8 +168,8 @@ while watching this me」#MTLed
 オナニーを始めてしまう！
 > CONTEXT: Map128/events/6/pages/2/56/Dialogue
 > CONTEXT: Map116/events/5/pages/0/56/Dialogue
-> CONTEXT: Map115/events/2/pages/0/56/Dialogue
 > CONTEXT: Map116/events/6/pages/0/56/Dialogue
+> CONTEXT: Map115/events/2/pages/0/56/Dialogue
 > CONTEXT: Map116/events/10/pages/0/56/Dialogue
 > CONTEXT: Map097/events/18/pages/2/56/Dialogue
 > CONTEXT: Map097/events/20/pages/2/56/Dialogue
@@ -219,8 +189,8 @@ Rubbed his penis violently, I will start masturbating!#MTLed
 「あ、ああっ……！」
 > CONTEXT: Map128/events/6/pages/2/60/Dialogue
 > CONTEXT: Map116/events/5/pages/0/60/Dialogue
-> CONTEXT: Map115/events/2/pages/0/60/Dialogue
 > CONTEXT: Map116/events/6/pages/0/60/Dialogue
+> CONTEXT: Map115/events/2/pages/0/60/Dialogue
 > CONTEXT: Map116/events/10/pages/0/60/Dialogue
 > CONTEXT: Map097/events/18/pages/2/60/Dialogue
 > CONTEXT: Map097/events/20/pages/2/60/Dialogue
@@ -239,9 +209,9 @@ Rubbed his penis violently, I will start masturbating!#MTLed
 「ふ……人間の男が自慰行為をする姿、
 いつ見ても滑稽で無様なものだな」
 > CONTEXT: Map128/events/6/pages/2/63/Dialogue
-> CONTEXT: Map115/events/2/pages/0/63/Dialogue
 > CONTEXT: Map116/events/5/pages/0/63/Dialogue
 > CONTEXT: Map116/events/6/pages/0/63/Dialogue
+> CONTEXT: Map115/events/2/pages/0/63/Dialogue
 > CONTEXT: Map116/events/10/pages/0/63/Dialogue
 > CONTEXT: Map097/events/18/pages/2/63/Dialogue
 > CONTEXT: Map097/events/20/pages/2/63/Dialogue
@@ -262,8 +232,8 @@ Whenever you see it, it is comical and unsightly」#MTLed
 > CONTEXT: Map128/events/6/pages/2/67/Dialogue
 > CONTEXT: Map120/events/17/pages/0/105/Dialogue
 > CONTEXT: Map116/events/5/pages/0/67/Dialogue
-> CONTEXT: Map115/events/2/pages/0/67/Dialogue
 > CONTEXT: Map116/events/6/pages/0/67/Dialogue
+> CONTEXT: Map115/events/2/pages/0/67/Dialogue
 > CONTEXT: Map116/events/10/pages/0/67/Dialogue
 > CONTEXT: Map097/events/18/pages/2/67/Dialogue
 > CONTEXT: Map097/events/20/pages/2/67/Dialogue
@@ -283,9 +253,9 @@ Whenever you see it, it is comical and unsightly」#MTLed
 負け犬には似合いの姿だが、
 お前のような男が私たちを退治に来たなどと、お笑いだな」
 > CONTEXT: Map128/events/6/pages/2/70/Dialogue
-> CONTEXT: Map115/events/2/pages/0/70/Dialogue
 > CONTEXT: Map116/events/5/pages/0/70/Dialogue
 > CONTEXT: Map116/events/6/pages/0/70/Dialogue
+> CONTEXT: Map115/events/2/pages/0/70/Dialogue
 > CONTEXT: Map116/events/10/pages/0/70/Dialogue
 > CONTEXT: Map097/events/18/pages/2/70/Dialogue
 > CONTEXT: Map097/events/20/pages/2/70/Dialogue
@@ -307,9 +277,9 @@ like you came to get rid of us, etc」#MTLed
 手が、止められないっ……！
 はぁ、はぁっ……」
 > CONTEXT: Map128/events/6/pages/2/75/Dialogue
-> CONTEXT: Map115/events/2/pages/0/75/Dialogue
 > CONTEXT: Map116/events/5/pages/0/75/Dialogue
 > CONTEXT: Map116/events/6/pages/0/75/Dialogue
+> CONTEXT: Map115/events/2/pages/0/75/Dialogue
 > CONTEXT: Map116/events/10/pages/0/75/Dialogue
 > CONTEXT: Map097/events/18/pages/2/75/Dialogue
 > CONTEXT: Map097/events/20/pages/2/75/Dialogue
@@ -330,9 +300,9 @@ My hands can not stop ...! Ah, Ahh ...」#MTLed
 まあ、魔族の裸を人間ごときが見たらそうなるのが自然だ。
 せいぜい、この私の姿を目に焼き付けながら絶頂するがいい」
 > CONTEXT: Map128/events/6/pages/2/80/Dialogue
-> CONTEXT: Map115/events/2/pages/0/80/Dialogue
 > CONTEXT: Map116/events/5/pages/0/80/Dialogue
 > CONTEXT: Map116/events/6/pages/0/80/Dialogue
+> CONTEXT: Map115/events/2/pages/0/80/Dialogue
 > CONTEXT: Map116/events/10/pages/0/80/Dialogue
 > CONTEXT: Map097/events/18/pages/2/80/Dialogue
 > CONTEXT: Map097/events/20/pages/2/80/Dialogue
@@ -353,9 +323,9 @@ cautiously burn this figure to my eyes」#MTLed
 \\N[12]
 「うっ……あっ、ああああぁぁっ！」
 > CONTEXT: Map128/events/6/pages/2/85/Dialogue
-> CONTEXT: Map115/events/2/pages/0/85/Dialogue
 > CONTEXT: Map116/events/5/pages/0/85/Dialogue
 > CONTEXT: Map116/events/6/pages/0/85/Dialogue
+> CONTEXT: Map115/events/2/pages/0/85/Dialogue
 > CONTEXT: Map116/events/10/pages/0/85/Dialogue
 > CONTEXT: Map097/events/18/pages/2/85/Dialogue
 > CONTEXT: Map097/events/20/pages/2/85/Dialogue
@@ -374,9 +344,9 @@ cautiously burn this figure to my eyes」#MTLed
 「ふふ……射精したな。
 この瞬間を待っていた」
 > CONTEXT: Map128/events/6/pages/2/92/Dialogue
-> CONTEXT: Map115/events/2/pages/0/92/Dialogue
 > CONTEXT: Map116/events/5/pages/0/92/Dialogue
 > CONTEXT: Map116/events/6/pages/0/92/Dialogue
+> CONTEXT: Map115/events/2/pages/0/92/Dialogue
 > CONTEXT: Map116/events/10/pages/0/92/Dialogue
 > CONTEXT: Map097/events/18/pages/2/92/Dialogue
 > CONTEXT: Map097/events/20/pages/2/92/Dialogue
@@ -395,14 +365,14 @@ I was waiting for this moment」#MTLed
 \\N[12]
 「こ、これはっ！」
 > CONTEXT: Map128/events/6/pages/2/98/Dialogue
-> CONTEXT: Map115/events/2/pages/0/98/Dialogue
 > CONTEXT: Map116/events/5/pages/0/98/Dialogue
 > CONTEXT: Map116/events/6/pages/0/98/Dialogue
+> CONTEXT: Map115/events/2/pages/0/98/Dialogue
 > CONTEXT: Map116/events/10/pages/0/98/Dialogue
 > CONTEXT: Map097/events/18/pages/2/98/Dialogue
 > CONTEXT: Map097/events/20/pages/2/98/Dialogue
-> CONTEXT: Map097/events/21/pages/2/98/Dialogue
 > CONTEXT: Map092/events/21/pages/0/195/Dialogue
+> CONTEXT: Map097/events/21/pages/2/98/Dialogue
 > CONTEXT: Map097/events/22/pages/2/98/Dialogue
 > CONTEXT: Map097/events/23/pages/2/98/Dialogue
 > CONTEXT: Map075/events/23/pages/2/98/Dialogue
@@ -417,9 +387,9 @@ I was waiting for this moment」#MTLed
 「絶頂して快楽に浸るとき、
 人間の精神は極めて無防備になるものだ――」
 > CONTEXT: Map128/events/6/pages/2/101/Dialogue
-> CONTEXT: Map115/events/2/pages/0/101/Dialogue
 > CONTEXT: Map116/events/5/pages/0/101/Dialogue
 > CONTEXT: Map116/events/6/pages/0/101/Dialogue
+> CONTEXT: Map115/events/2/pages/0/101/Dialogue
 > CONTEXT: Map116/events/10/pages/0/101/Dialogue
 > CONTEXT: Map097/events/18/pages/2/101/Dialogue
 > CONTEXT: Map097/events/20/pages/2/101/Dialogue
@@ -440,8 +410,8 @@ Human spirit is extremely defenseless -」#MTLed
 ち、力が、吸い取られる……！」
 > CONTEXT: Map128/events/6/pages/2/105/Dialogue
 > CONTEXT: Map116/events/5/pages/0/105/Dialogue
-> CONTEXT: Map115/events/2/pages/0/105/Dialogue
 > CONTEXT: Map116/events/6/pages/0/105/Dialogue
+> CONTEXT: Map115/events/2/pages/0/105/Dialogue
 > CONTEXT: Map116/events/10/pages/0/105/Dialogue
 > CONTEXT: Map097/events/18/pages/2/105/Dialogue
 > CONTEXT: Map097/events/20/pages/2/105/Dialogue
@@ -461,8 +431,8 @@ Human spirit is extremely defenseless -」#MTLed
 快楽を味わったまま、命を捧げて逝くがいい！」
 > CONTEXT: Map128/events/6/pages/2/109/Dialogue
 > CONTEXT: Map116/events/5/pages/0/109/Dialogue
-> CONTEXT: Map115/events/2/pages/0/109/Dialogue
 > CONTEXT: Map116/events/6/pages/0/109/Dialogue
+> CONTEXT: Map115/events/2/pages/0/109/Dialogue
 > CONTEXT: Map116/events/10/pages/0/109/Dialogue
 > CONTEXT: Map097/events/18/pages/2/109/Dialogue
 > CONTEXT: Map097/events/20/pages/2/109/Dialogue
@@ -481,9 +451,9 @@ While tasting the pleasure, dedicate your life and die!」#MTLed
 \\N[12]
 「あ……そ、そん、な……」
 > CONTEXT: Map128/events/6/pages/2/113/Dialogue
-> CONTEXT: Map115/events/2/pages/0/113/Dialogue
 > CONTEXT: Map116/events/5/pages/0/113/Dialogue
 > CONTEXT: Map116/events/6/pages/0/113/Dialogue
+> CONTEXT: Map115/events/2/pages/0/113/Dialogue
 > CONTEXT: Map116/events/10/pages/0/113/Dialogue
 > CONTEXT: Map097/events/18/pages/2/113/Dialogue
 > CONTEXT: Map097/events/20/pages/2/113/Dialogue
@@ -503,8 +473,8 @@ While tasting the pleasure, dedicate your life and die!」#MTLed
 白骨となってしまった――
 > CONTEXT: Map128/events/6/pages/2/124/Dialogue
 > CONTEXT: Map116/events/5/pages/0/124/Dialogue
-> CONTEXT: Map115/events/2/pages/0/124/Dialogue
 > CONTEXT: Map116/events/6/pages/0/124/Dialogue
+> CONTEXT: Map115/events/2/pages/0/124/Dialogue
 > CONTEXT: Map116/events/10/pages/0/124/Dialogue
 > CONTEXT: Map097/events/18/pages/2/124/Dialogue
 > CONTEXT: Map097/events/20/pages/2/124/Dialogue
@@ -526,9 +496,9 @@ bone -#MTLed
 お前の命は私の中でエネルギーとして存在し続ける。
 光栄に思うことだな」
 > CONTEXT: Map128/events/6/pages/2/129/Dialogue
-> CONTEXT: Map115/events/2/pages/0/129/Dialogue
 > CONTEXT: Map116/events/5/pages/0/129/Dialogue
 > CONTEXT: Map116/events/6/pages/0/129/Dialogue
+> CONTEXT: Map115/events/2/pages/0/129/Dialogue
 > CONTEXT: Map116/events/10/pages/0/129/Dialogue
 > CONTEXT: Map097/events/18/pages/2/129/Dialogue
 > CONTEXT: Map097/events/20/pages/2/129/Dialogue
@@ -548,9 +518,9 @@ It is an honor.」#MTLed
 \\N[12]
 「……………………」
 > CONTEXT: Map128/events/6/pages/2/134/Dialogue
-> CONTEXT: Map115/events/2/pages/0/134/Dialogue
 > CONTEXT: Map116/events/5/pages/0/134/Dialogue
 > CONTEXT: Map116/events/6/pages/0/134/Dialogue
+> CONTEXT: Map115/events/2/pages/0/134/Dialogue
 > CONTEXT: Map116/events/10/pages/0/134/Dialogue
 > CONTEXT: Map097/events/18/pages/2/134/Dialogue
 > CONTEXT: Map097/events/20/pages/2/134/Dialogue
@@ -578,9 +548,9 @@ It is an honor.」#MTLed
 下等な人間の男にとっては一生の思い出になっただろう。
 あの世でも私を思い出して自慰をするがいい、ふふふ……♪」
 > CONTEXT: Map128/events/6/pages/2/137/Dialogue
-> CONTEXT: Map115/events/2/pages/0/137/Dialogue
 > CONTEXT: Map116/events/5/pages/0/137/Dialogue
 > CONTEXT: Map116/events/6/pages/0/137/Dialogue
+> CONTEXT: Map115/events/2/pages/0/137/Dialogue
 > CONTEXT: Map116/events/10/pages/0/137/Dialogue
 > CONTEXT: Map097/events/18/pages/2/137/Dialogue
 > CONTEXT: Map097/events/20/pages/2/137/Dialogue
@@ -607,8 +577,8 @@ masturbate, hehe ...♪」#MTLed
 > CONTEXT: Map096/events/11/pages/0/17/Dialogue
 > CONTEXT: Map096/events/12/pages/0/17/Dialogue
 > CONTEXT: Map085/events/11/pages/0/17/Dialogue
-> CONTEXT: Map097/events/24/pages/2/17/Dialogue
 > CONTEXT: Map085/events/16/pages/0/17/Dialogue
+> CONTEXT: Map097/events/24/pages/2/17/Dialogue
 > CONTEXT: Map097/events/27/pages/2/17/Dialogue
 > CONTEXT: Map075/events/24/pages/2/17/Dialogue
 > CONTEXT: Map075/events/27/pages/2/17/Dialogue
@@ -626,8 +596,8 @@ I will receive your soul ... ...」#MTLed
 > CONTEXT: Map096/events/11/pages/0/21/Dialogue
 > CONTEXT: Map096/events/12/pages/0/21/Dialogue
 > CONTEXT: Map085/events/11/pages/0/21/Dialogue
-> CONTEXT: Map097/events/24/pages/2/21/Dialogue
 > CONTEXT: Map085/events/16/pages/0/21/Dialogue
+> CONTEXT: Map097/events/24/pages/2/21/Dialogue
 > CONTEXT: Map097/events/27/pages/2/21/Dialogue
 > CONTEXT: Map075/events/24/pages/2/21/Dialogue
 > CONTEXT: Map075/events/27/pages/2/21/Dialogue
@@ -645,8 +615,8 @@ I will receive your soul ... ...」#MTLed
 > CONTEXT: Map096/events/11/pages/0/24/Dialogue
 > CONTEXT: Map096/events/12/pages/0/24/Dialogue
 > CONTEXT: Map085/events/11/pages/0/24/Dialogue
-> CONTEXT: Map097/events/24/pages/2/24/Dialogue
 > CONTEXT: Map085/events/16/pages/0/24/Dialogue
+> CONTEXT: Map097/events/24/pages/2/24/Dialogue
 > CONTEXT: Map097/events/27/pages/2/24/Dialogue
 > CONTEXT: Map075/events/24/pages/2/24/Dialogue
 > CONTEXT: Map075/events/27/pages/2/24/Dialogue
@@ -664,8 +634,8 @@ Now, I will make it to my soul only」#MTLed
 > CONTEXT: Map096/events/11/pages/0/30/Dialogue
 > CONTEXT: Map096/events/12/pages/0/30/Dialogue
 > CONTEXT: Map085/events/11/pages/0/30/Dialogue
-> CONTEXT: Map097/events/24/pages/2/30/Dialogue
 > CONTEXT: Map085/events/16/pages/0/30/Dialogue
+> CONTEXT: Map097/events/24/pages/2/30/Dialogue
 > CONTEXT: Map076/events/20/pages/0/14/Dialogue
 > CONTEXT: Map097/events/27/pages/2/30/Dialogue
 > CONTEXT: Map075/events/24/pages/2/30/Dialogue
@@ -684,8 +654,8 @@ Now, I will make it to my soul only」#MTLed
 > CONTEXT: Map096/events/11/pages/0/36/Dialogue
 > CONTEXT: Map096/events/12/pages/0/36/Dialogue
 > CONTEXT: Map085/events/11/pages/0/36/Dialogue
-> CONTEXT: Map097/events/24/pages/2/36/Dialogue
 > CONTEXT: Map085/events/16/pages/0/36/Dialogue
+> CONTEXT: Map097/events/24/pages/2/36/Dialogue
 > CONTEXT: Map097/events/27/pages/2/36/Dialogue
 > CONTEXT: Map075/events/24/pages/2/36/Dialogue
 > CONTEXT: Map075/events/27/pages/2/36/Dialogue
@@ -704,8 +674,8 @@ death. 「I was disappointed ... Now let me eat my soul ...
 > CONTEXT: Map096/events/11/pages/0/43/Dialogue
 > CONTEXT: Map096/events/12/pages/0/43/Dialogue
 > CONTEXT: Map085/events/11/pages/0/43/Dialogue
-> CONTEXT: Map097/events/24/pages/2/43/Dialogue
 > CONTEXT: Map085/events/16/pages/0/43/Dialogue
+> CONTEXT: Map097/events/24/pages/2/43/Dialogue
 > CONTEXT: Map097/events/27/pages/2/43/Dialogue
 > CONTEXT: Map075/events/24/pages/2/43/Dialogue
 > CONTEXT: Map075/events/27/pages/2/43/Dialogue
@@ -725,8 +695,8 @@ It is very tasty ...♪」#MTLed
 > CONTEXT: Map096/events/11/pages/0/47/Dialogue
 > CONTEXT: Map096/events/12/pages/0/47/Dialogue
 > CONTEXT: Map085/events/11/pages/0/47/Dialogue
-> CONTEXT: Map097/events/24/pages/2/47/Dialogue
 > CONTEXT: Map085/events/16/pages/0/47/Dialogue
+> CONTEXT: Map097/events/24/pages/2/47/Dialogue
 > CONTEXT: Map097/events/27/pages/2/47/Dialogue
 > CONTEXT: Map075/events/24/pages/2/47/Dialogue
 > CONTEXT: Map075/events/27/pages/2/47/Dialogue
@@ -746,8 +716,8 @@ as mindless, power goes out ... ...)#MTLed
 > CONTEXT: Map096/events/11/pages/0/52/Dialogue
 > CONTEXT: Map096/events/12/pages/0/52/Dialogue
 > CONTEXT: Map085/events/11/pages/0/52/Dialogue
-> CONTEXT: Map097/events/24/pages/2/52/Dialogue
 > CONTEXT: Map085/events/16/pages/0/52/Dialogue
+> CONTEXT: Map097/events/24/pages/2/52/Dialogue
 > CONTEXT: Map097/events/27/pages/2/52/Dialogue
 > CONTEXT: Map075/events/24/pages/2/52/Dialogue
 > CONTEXT: Map075/events/27/pages/2/52/Dialogue
@@ -766,8 +736,8 @@ I will make all the vitality mine ......#MTLed
 > CONTEXT: Map096/events/11/pages/0/56/Dialogue
 > CONTEXT: Map096/events/12/pages/0/56/Dialogue
 > CONTEXT: Map085/events/11/pages/0/56/Dialogue
-> CONTEXT: Map097/events/24/pages/2/56/Dialogue
 > CONTEXT: Map085/events/16/pages/0/56/Dialogue
+> CONTEXT: Map097/events/24/pages/2/56/Dialogue
 > CONTEXT: Map097/events/27/pages/2/56/Dialogue
 > CONTEXT: Map075/events/24/pages/2/56/Dialogue
 > CONTEXT: Map075/events/27/pages/2/56/Dialogue
@@ -787,8 +757,8 @@ Probably, it will be about a thousand years later ... ...#MTLed
 > CONTEXT: Map096/events/11/pages/0/60/Dialogue
 > CONTEXT: Map096/events/12/pages/0/60/Dialogue
 > CONTEXT: Map085/events/11/pages/0/60/Dialogue
-> CONTEXT: Map097/events/24/pages/2/60/Dialogue
 > CONTEXT: Map085/events/16/pages/0/60/Dialogue
+> CONTEXT: Map097/events/24/pages/2/60/Dialogue
 > CONTEXT: Map097/events/27/pages/2/60/Dialogue
 > CONTEXT: Map075/events/24/pages/2/60/Dialogue
 > CONTEXT: Map075/events/27/pages/2/60/Dialogue
@@ -806,8 +776,8 @@ Your fate ...♪」#MTLed
 > CONTEXT: Map096/events/11/pages/0/64/Dialogue
 > CONTEXT: Map096/events/12/pages/0/64/Dialogue
 > CONTEXT: Map085/events/11/pages/0/64/Dialogue
-> CONTEXT: Map097/events/24/pages/2/64/Dialogue
 > CONTEXT: Map085/events/16/pages/0/64/Dialogue
+> CONTEXT: Map097/events/24/pages/2/64/Dialogue
 > CONTEXT: Map097/events/27/pages/2/64/Dialogue
 > CONTEXT: Map075/events/24/pages/2/64/Dialogue
 > CONTEXT: Map075/events/27/pages/2/64/Dialogue

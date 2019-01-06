@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 メルグ邸
 > CONTEXT: Map050/display_name/
@@ -997,8 +997,10 @@ remember?」#MTLed
 練気回復法を教えてもらった！
 > CONTEXT: Map050/events/4/pages/4/61/Dialogue
 > CONTEXT: Map050/events/4/pages/4/114/Dialogue
-> CONTEXT: Commonevents/271/59/Dialogue
 \\N[12] From Lzet. I was taught how to restore breath!#MTLed
+> CONTEXT: Commonevents/271/59/Dialogue
+\\N[12] From Lzet. I was taught how to restore
+breath!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1035,6 +1037,7 @@ be cheering for you」#MTLed
 「ぐっ……ま、負けました……」
 > CONTEXT: Map050/events/4/pages/4/93/Dialogue
 > CONTEXT: Map050/events/4/pages/5/86/Dialogue
+\\N[12]. 「I heard ... lost ......」#MTLed
 > CONTEXT: Commonevents/271/3/Dialogue
 > CONTEXT: Commonevents/271/38/Dialogue
 \\N[12]. 「I heard ... lost ......」#MTLed
@@ -1046,10 +1049,14 @@ be cheering for you」#MTLed
 久々の実戦だったけれど、
 思ったより勘が鈍っていなくてよかったわ」
 > CONTEXT: Map050/events/4/pages/4/97/Dialogue
-> CONTEXT: Commonevents/271/42/Dialogue
 Lzet. 「Fortunately, I managed to win. Although it was a
 real battle for a long time, I was glad I did not feel more
 intuition than I thought」#MTLed
+> CONTEXT: Commonevents/271/42/Dialogue
+Lzet. 「Fortunately, I managed to win.
+Although it was a real battle for a long time,
+I was glad I did not feel more intuition than I
+thought」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1058,10 +1065,14 @@ intuition than I thought」#MTLed
 回復法と打撃をバランスよく繰り出してくるから
 仕留めきれずに、逆にトドメをさされちまった）
 > CONTEXT: Map050/events/4/pages/4/102/Dialogue
-> CONTEXT: Commonevents/271/47/Dialogue
 \\N[12]. (One, strong ... .... I will come out with a
 balanced recovery method and blow. I could not finish it,
 conversely I was told a finisher)#MTLed
+> CONTEXT: Commonevents/271/47/Dialogue
+\\N[12]. (One, strong ... ....
+I will come out with a balanced recovery method
+and blow. I could not finish it, conversely I was
+told a finisher)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1070,11 +1081,16 @@ conversely I was told a finisher)#MTLed
 ちょっとかわいそうだし、ひとつ技を教えてあげるわね。
 魔法が不得手でも回復ができる術だから、役に立つわよ？」
 > CONTEXT: Map050/events/4/pages/4/107/Dialogue
-> CONTEXT: Commonevents/271/52/Dialogue
 Lzet. 「Just like this, I seem to have bullied a young
 child somehow. I feel a little sorry and I will teach you
 one technique. It is useful because magic is a weak
 technique that can recover, is it useful?」#MTLed
+> CONTEXT: Commonevents/271/52/Dialogue
+Lzet. 「Just like this, I seem to have bullied a
+young child somehow. I feel a little sorry and I
+will teach you one technique. It is useful
+because magic is a weak technique that can
+recover, is it useful?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1083,17 +1099,22 @@ technique that can recover, is it useful?」#MTLed
 こんな何年も前に現役を退いた主婦に負けてるようじゃ
 ちょっと情けないわねぇ」
 > CONTEXT: Map050/events/4/pages/4/124/Dialogue
-> CONTEXT: Commonevents/271/64/Dialogue
 Lzet. 「I'm glad I could win ... .... \\N[12] You,
 You seem to be defeated by a housewife who retired from
 active service like this many years ago. I feel a little
 sorry.」#MTLed
+> CONTEXT: Commonevents/271/64/Dialogue
+Lzet. 「I'm glad I could win ... .... \\N[12]
+You, You seem to be defeated by a housewife who
+retired from active service like this many years
+ago. I feel a little sorry.」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ううっ、不甲斐ないです……」
 > CONTEXT: Map050/events/4/pages/4/130/Dialogue
+\\N[12]. 「OHh, it is not pretty ...」#MTLed
 > CONTEXT: Commonevents/271/70/Dialogue
 \\N[12]. 「OHh, it is not pretty ...」#MTLed
 > END STRING
@@ -1104,10 +1125,14 @@ sorry.」#MTLed
 私の戦い方が参考になるか分からないけれど、
 武道大会までに強くなれるよう、頑張ってね」
 > CONTEXT: Map050/events/4/pages/4/133/Dialogue
-> CONTEXT: Commonevents/271/73/Dialogue
 Lzet. 「Well, it's young, so you can grow as much as you
 want. I do not know if my way of fighting will be helpful,
 Good luck to be strong by the martial arts tournament」#MTLed
+> CONTEXT: Commonevents/271/73/Dialogue
+Lzet. 「Well, it's young, so you can grow as much
+as you want. I do not know if my way of fighting
+will be helpful, Good luck to be strong by the
+martial arts tournament」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1116,10 +1141,14 @@ Good luck to be strong by the martial arts tournament」#MTLed
 教えてもらった技も活かして、
 武道大会で勝てるように頑張ります！」
 > CONTEXT: Map050/events/4/pages/4/138/Dialogue
-> CONTEXT: Commonevents/271/78/Dialogue
 \\N[12]. 「Yes, I fought with Lzet-san, I learned a lot.
 Taking advantage of the technique taught,
 I will do my best to win the martial arts tournament!」#MTLed
+> CONTEXT: Commonevents/271/78/Dialogue
+\\N[12]. 「Yes, I fought with Lzet-san, I
+learned a lot. Taking advantage of the technique
+taught, I will do my best to win the martial arts
+tournament!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1127,9 +1156,11 @@ I will do my best to win the martial arts tournament!」#MTLed
 「うんうん、その意気よ。
 私もキミのこと応援させてもらうわね」
 > CONTEXT: Map050/events/4/pages/4/143/Dialogue
-> CONTEXT: Commonevents/271/83/Dialogue
 Lzet. 「, That spirit. I will also be cheering for you
 about me」#MTLed
+> CONTEXT: Commonevents/271/83/Dialogue
+Lzet. 「, That spirit. I will also be cheering
+for you about me」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1265,17 +1296,21 @@ cheering for you」#MTLed
 若い男の子相手に、こんなに何度も勝てちゃうなんて
 私もまだまだ現役でいけるかも♪」
 > CONTEXT: Map050/events/4/pages/5/90/Dialogue
-> CONTEXT: Commonevents/271/7/Dialogue
 Lzet. 「Haha, I also won. To a young boy who can win this
 many times. Maybe I can stay active♪」#MTLed
+> CONTEXT: Commonevents/271/7/Dialogue
+Lzet. 「Haha, I also won. To a young boy who can
+win this many times. Maybe I can stay active♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 ルゼットとの手合わせにより
 100の経験値を得た。
 > CONTEXT: Map050/events/4/pages/5/97/Dialogue
-> CONTEXT: Commonevents/271/14/Dialogue
 By arranging with Lzet. I gained 100 experience points.#MTLed
+> CONTEXT: Commonevents/271/14/Dialogue
+By arranging with Lzet. I gained 100 experience
+points.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1284,10 +1319,14 @@ By arranging with Lzet. I gained 100 experience points.#MTLed
 \\N[12]君、あんまり強くなっていなかったみたいね。
 私に勝てないようじゃ、武道大会は厳しいわよ？」
 > CONTEXT: Map050/events/4/pages/5/107/Dialogue
-> CONTEXT: Commonevents/271/19/Dialogue
 Lzet. 「Well, I'm glad I win, \\N[12] You seem to have
 not been getting stronger. If you do not win me, the
 martial arts tournament is tough?」#MTLed
+> CONTEXT: Commonevents/271/19/Dialogue
+Lzet. 「Well, I'm glad I win, \\N[12] You seem
+to have not been getting stronger.
+If you do not win me, the martial arts tournament
+is tough?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1295,9 +1334,11 @@ martial arts tournament is tough?」#MTLed
 「情けないところを見せて、不甲斐ないです……
 まだまだ鍛え方が足りないですね、俺」
 > CONTEXT: Map050/events/4/pages/5/113/Dialogue
-> CONTEXT: Commonevents/271/25/Dialogue
 \\N[12]. 「Showing miserable place, it is not pretty ...
 ... How to train is not enough, I」#MTLed
+> CONTEXT: Commonevents/271/25/Dialogue
+\\N[12]. 「Showing miserable place, it is not
+pretty ... ... How to train is not enough, I」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1306,11 +1347,16 @@ martial arts tournament is tough?」#MTLed
 次は成長したところを見せてね。
 私でよければ、いつでも相手になってあげるから」
 > CONTEXT: Map050/events/4/pages/5/117/Dialogue
-> CONTEXT: Commonevents/271/29/Dialogue
 Lzet. 「I think that you will definitely become stronger if
 you have more actual experience. Next time, show me where
 you have grown up. If you do not mind, I will always be
 your opponent」#MTLed
+> CONTEXT: Commonevents/271/29/Dialogue
+Lzet. 「I think that you will definitely become
+stronger if you have more actual experience.
+Next time, show me where you have grown up.
+If you do not mind, I will always be your
+opponent」#MTLed
 > END STRING
 
 > BEGIN STRING

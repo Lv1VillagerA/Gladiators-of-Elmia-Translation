@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 おじさん
 「ふふふ、緊張しているのかね若者よ。
@@ -1240,8 +1240,8 @@ have my body. You can touch it as you please」#MTLed
 > CONTEXT: Map057/events/22/pages/0/186/Dialogue
 > CONTEXT: Map057/events/25/pages/0/251/Dialogue
 Muay ...#MTLed
-> CONTEXT: Commonevents/260/39/Dialogue
 > CONTEXT: Commonevents/225/124/Dialogue
+> CONTEXT: Commonevents/260/39/Dialogue
 Muay ...#MTLed
 > END STRING
 
@@ -1302,11 +1302,12 @@ Well, it's the best!」#MTLed
 私はキミのおちんちんを味わわせてもらうから♪」
 > CONTEXT: Map057/events/22/pages/0/205/Dialogue
 bunny girl. 「That's right. Well then, you can massage your
-boobs if you like. Because I have you taste you♪」#MTLed
+boobs if you like. Because I will taste you your lucky day♪
+」#MTLed
 > CONTEXT: Commonevents/260/58/Dialogue
 bunny girl. 「That's right. Well then, you can
 massage your boobs if you like.
-Because I have you taste you♪」#MTLed
+Because I will taste you your lucky day♪」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1405,22 +1406,6 @@ than ever!#MTLed
 Goucuuuuuoo!#MTLed
 > CONTEXT: Commonevents/260/95/Dialogue
 Goucuuuuuoo!#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「くっ、ううっ……」
-> CONTEXT: Map057/events/22/pages/0/256/Dialogue
-> CONTEXT: Map043/events/99/pages/0/419/Dialogue
-\\N[12]. 「Cut, uugh......」#MTLed
-> CONTEXT: Commonevents/260/109/Dialogue
-> CONTEXT: Map147/events/2/pages/15/125/Dialogue
-> CONTEXT: Map147/events/2/pages/15/182/Dialogue
-> CONTEXT: Map147/events/2/pages/19/532/Dialogue
-> CONTEXT: Map147/events/17/pages/0/289/Dialogue
-> CONTEXT: Map147/events/17/pages/0/346/Dialogue
-> CONTEXT: Commonevents/241/69/Dialogue
-\\N[12]. 「Cut, uugh......」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1757,12 +1742,12 @@ done yet」#MTLed
 激しく犯してあげるわ」
 > CONTEXT: Map057/events/22/pages/0/390/Dialogue
 bunny girl. 「I also want to feel comfortable.
-As a last resort, I hope you can do your best
+As a last resort, you can feel yourself as much as you want
 I'm going to fuck you hard」#MTLed
 > CONTEXT: Commonevents/260/243/Dialogue
 bunny girl. 「I also want to feel comfortable.
-As a last resort, I hope you can do your best
-I'm going to fuck you hard」#MTLed
+As a last resort, you can feel yourself as much
+as you want. I'm going to fuck you hard」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1893,16 +1878,6 @@ Could this have semen poured up in me?」#MTLed
 > END STRING
 
 > BEGIN STRING
-\\N[12]
-「あ、あひ……」
-> CONTEXT: Map057/events/22/pages/0/446/Dialogue
-\\N[12]. 「Ah, ...」#MTLed
-> CONTEXT: Commonevents/260/299/Dialogue
-> CONTEXT: Map147/events/2/pages/19/729/Dialogue
-\\N[12]. 「Ah, ...」#MTLed
-> END STRING
-
-> BEGIN STRING
 バニーガール
 「あーあ、よだれと涙で顔がぐしゃぐしゃね。
 試合前にこんなに気持ちよくなっちゃったら、
@@ -1968,12 +1943,12 @@ Muuuuuuuuuuuu!#MTLed
 どうなっちゃうかしら？」
 > CONTEXT: Map057/events/22/pages/0/472/Dialogue
 bunny girl. 「With your favorite boobs, wrap your face.
-If you tightly tighten in this condition,
+If you tightly tighten the dumplings in this state,
 What will happen?」#MTLed
 > CONTEXT: Commonevents/260/325/Dialogue
 bunny girl. 「With your favorite boobs, wrap your
-face. If you tightly tighten in this condition,
-What will happen?」#MTLed
+face. If you tightly tighten the dumplings in
+this state, What will happen?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2666,9 +2641,9 @@ on the face of. * rub * and pressed!#MTLed
 > BEGIN STRING
 ぐりっ、むにむにっ……！
 > CONTEXT: Map057/events/25/pages/0/268/Dialogue
-Guru...um!#MTLed
+Guri, soft embrasse ...!#MTLed
 > CONTEXT: Commonevents/225/141/Dialogue
-Guru...um!#MTLed
+Guri, soft embrasse ...!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2876,10 +2851,10 @@ a stupid thing ...! )#MTLed
 「あなたのおちんちん、大きくていい形してるわねぇ。
 でも、私のおまんこにかかれば……えいっ♪」
 > CONTEXT: Map057/events/25/pages/0/348/Dialogue
-sexy bandit. 「You, your big and nice shape.
+sexy bandit. 「I'm sorry for your big, big shape.
 But, if I apply to my sexual orientation...... Ei♪」#MTLed
 > CONTEXT: Commonevents/225/221/Dialogue
-sexy bandit. 「You, your big and nice shape.
+sexy bandit. 「I'm sorry for your big, big shape.
 But, if I apply to my sexual orientation......
 Ei♪」#MTLed
 > END STRING
@@ -2907,8 +2882,8 @@ Hey, ...#MTLed
 > CONTEXT: Map057/events/25/pages/0/362/Dialogue
 \\N[12]. 「Thanks, Ah, AAh......」#MTLed
 > CONTEXT: Map032/events/50/pages/1/217/Dialogue
-> CONTEXT: Commonevents/263/142/Dialogue
 > CONTEXT: Commonevents/225/235/Dialogue
+> CONTEXT: Commonevents/263/142/Dialogue
 \\N[12]. 「Thanks, Ah, AAh......」#MTLed
 > END STRING
 
@@ -3310,8 +3285,8 @@ Arranging a lot,...Chronoing!#MTLed
 > CONTEXT: Map057/events/25/pages/0/509/Dialogue
 \\N[12]. 「Pursuingly um!」#MTLed
 > CONTEXT: Commonevents/134/25/Dialogue
-> CONTEXT: Commonevents/286/25/Dialogue
 > CONTEXT: Commonevents/225/382/Dialogue
+> CONTEXT: Commonevents/286/25/Dialogue
 > CONTEXT: Commonevents/313/25/Dialogue
 \\N[12]. 「Pursuingly um!」#MTLed
 > END STRING
@@ -3531,6 +3506,19 @@ take care of this」#MTLed
 > END STRING
 
 > BEGIN STRING
+\\N[12]
+「仕方ない、これを使うしかないか」
+> CONTEXT: Map057/events/26/pages/1/0/Dialogue
+\\N[12]. 「There is no choice but to use this」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はショートソードを装備した！
+> CONTEXT: Map057/events/26/pages/1/4/Dialogue
+\\N[12] Equipped with short sword!#MTLed
+> END STRING
+
+> BEGIN STRING
 ゴロツキ
 「うへへ……
 予選決勝まで残って女と当たれば、犯せるんだろ？
@@ -3539,4 +3527,15 @@ take care of this」#MTLed
 Roughness. 「Hi...If you remain a preliminary final and
 hit a woman, you can make it, do not you?
 I played for it, I'm looking forward to it」#MTLed
+> END STRING
+
+> BEGIN STRING
+バンディットガール
+「あはっ、戦ってる最中に射精しちゃってる♪
+まだお頭との試合があるのに、
+そんなことで大丈夫なわけぇ？」
+> CONTEXT: Map057/events/32/pages/0/0/Dialogue
+Bandit Girl. 「Hahah, I'm ejaculating while fighting♪
+I still have a match with your head, Is it okay with such a
+thing?」#MTLed
 > END STRING

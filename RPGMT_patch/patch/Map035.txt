@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 ストレイン武具店
 > CONTEXT: Map035/display_name/
@@ -1700,8 +1700,8 @@ Mileena. 「so? Good, if you say so, I'm relieved」#MTLed
 > CONTEXT: Map035/events/12/pages/0/66/Dialogue
 Mileena. 「Good luck with your job, huh.
 If you can do your job well, occasionally with
-your hands or buttocks. You can give birth to you
-♪」#MTLed
+your hands or buttocks. You can bully me for a
+penis♪」#MTLed
 > END STRING
 
 > BEGIN STRING

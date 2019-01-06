@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 受付
 「ごめんなさいね、
@@ -1414,21 +1414,12 @@ You might as well come and check it out」#MTLed
 
 > BEGIN STRING
 メイド
-「時期によって新たに出現する依頼や
-依頼をこなした数によって出現する依頼は、危険なものが多いです。
-そういうものは上位依頼になるので、当然ですが……」
-> CONTEXT: None < UNUSED
-A maid
-「Requests that newly appear depending on the timing
-Requests that appear due to the number of requests made are often dangerous.
-Because such things become top requests, it is natural, but ...」#MTLed
-> END STRING
-
-> BEGIN STRING
-メイド
 「同じ依頼を受けた冒険者同士での争いは黙認されておりますが、
 あまりに無法、あるいは卑劣なことをすれば制裁を受けます。
 なので、他の冒険者に殺されるような心配はまずありませんよ」
-> CONTEXT: Map037/events/28/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map037/events/28/pages/0/0/Dialogue
+A maid
+「The conflict between adventurers who received the same request is silent,
+Too sanctioned if it is too outrageous or sneaky.
+So, you do not have to worry about being killed by other adventurers」#MTLed
 > END STRING

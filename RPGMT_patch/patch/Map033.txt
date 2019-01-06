@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 ジェーンの実家
 > CONTEXT: Map033/display_name/
@@ -25,22 +25,341 @@ tournament ......」#MTLed
 
 > BEGIN STRING
 ジェーンの母
-「中央区は静かだから、
-私にとっては東区よりも住みやすいねぇ……」
-> CONTEXT: None < UNUSED
-Jane's mother. 「Because Chuo-ku is quiet,
-For me it's easier to live than East Ward ...」#MTLed
+「ジェーンはちょっと実力主義が過ぎるところがあるから
+付き合いにくいかもしれないけど、
+どうか、仲良くしてあげてね」
+> CONTEXT: Map033/events/3/pages/0/0/Dialogue
+Jane's mother. 「Jane has a little bit of powerism
+Although it may be hard to get along with,
+Please, make friends」#MTLed
 > END STRING
 
 > BEGIN STRING
 ジェーン
 「やっほ、\\N[12]。
 大会に向けて腕を磨くなら、この家の右隣にある
-\\C[2]冒険者ギルド\\C[0]に行ってみるのがオススメだよ」
-> CONTEXT: None < UNUSED
+\\C[2]冒険者ギルド\\C[0]に行ってみるのがオススメよ」
+> CONTEXT: Map033/events/4/pages/0/0/Dialogue
 Jane. 「Grind \\N[12] . If you brush your arm towards
 tournament, next to this house's right. \\C[2]Adventurer Guild\\C[0] It
 is recommended to go to」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「\\N[12]、私と稽古してみる？」
+> CONTEXT: Map033/events/4/pages/1/1/Dialogue
+Jane. 「\\N[12] Would you like to practice with me?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「そうこなくっちゃ。
+私も最近は強くなってる手応えがあるし、
+油断してると怪我するわよ？」
+> CONTEXT: Map033/events/4/pages/1/6/Dialogue
+Jane. 「That's right. I also have a strong response
+recently, You got hurt if you are careless?」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「くっ、やるじゃない……さすが\\N[12]ね」
+> CONTEXT: Map033/events/4/pages/1/17/Dialogue
+Jane. 「I will not do it... \\N[12] It is」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ジェーンも、村でやったときより確実に強くなってるな。
+俺もうかうかしていられないぜ」
+> CONTEXT: Map033/events/4/pages/1/20/Dialogue
+\\N[12]. 「Jane is definitely getting stronger than I
+did in the village. I can not bear it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「またいつでも相手になるわ。
+大会までに、お互い強くならなきゃね」
+> CONTEXT: Map033/events/4/pages/1/24/Dialogue
+Jane. 「I will always be my opponent again.
+We must strengthen each other by tournament」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ふふっ、私の新技、とっても効くでしょう。
+どんなにガードを固めても、
+貫いてダメージを与えることができるのよ」
+> CONTEXT: Map033/events/4/pages/1/33/Dialogue
+Jane. 「Huh, my new technique, it will be very effective.
+Regardless of how much we guard, You can penetrate and give
+damage」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くうっ、ジェーン、強くなってるな……
+負けちまうとは……」
+> CONTEXT: Map033/events/4/pages/1/38/Dialogue
+\\N[12]. 「Kuu, Jane, do not get strong ...
+What is defeated......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「女の子に負けちゃって悔しいでしょ、\\N[12]？
+悔しいと思うなら、もっと頑張ってよね。
+村の男どもとは違うってところ、ちゃんと見せてほしいわ」
+> CONTEXT: Map033/events/4/pages/1/42/Dialogue
+Jane. 「It is frustrating to lose to a girl, \\N[12]
+? If you think it is frustrating, do your best more.
+I want you to show me that it is different from the village
+men」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「あら、女相手に尻込みしてたらダメなんじゃない？
+そんなことじゃ大会も勝てないわよ、\\N[12]」
+> CONTEXT: Map033/events/4/pages/1/52/Dialogue
+Jane. 「Oh, it's useless if you're screaming for a woman?
+Even such tournament can not win, \\N[12]」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「稽古してみる？
+最近、\\N[12]ってば負けてばかりだけど、
+そろそろ根性見せて欲しいなー」
+> CONTEXT: Map033/events/4/pages/2/2/Dialogue
+Jane. 「Try to practice? Recently, \\N[12] I just lost
+it, I want you to show guts soon」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「\\N[12]、また私と稽古してみる？」
+> CONTEXT: Map033/events/4/pages/2/9/Dialogue
+> CONTEXT: Map033/events/4/pages/3/1/Dialogue
+Jane. 「\\N[12] Would you like to practice with me again?
+」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「そう。じゃあ、またボコボコにしてあげる。
+女の子に負ける情けなさを味わいたくないなら、
+頑張りなよね。さあ、勝負よ！」
+> CONTEXT: Map033/events/4/pages/2/17/Dialogue
+Jane. 「so. Well then, I will give it another.
+If you do not want to taste the mercilessness to lose to a
+girl, You do your best. Come on!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ふふっ、また女の子に負ける屈辱を
+味わわせてあげるからね。
+さあ、勝負よ！」
+> CONTEXT: Map033/events/4/pages/2/24/Dialogue
+Jane. 「Huh, you humiliated again losing girls
+I will taste it. Come on!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「や、やるわね、\\N[12]。
+さすがに、やられっぱなしじゃいないってところかしら」
+> CONTEXT: Map033/events/4/pages/2/37/Dialogue
+Jane. 「Oh, I'll do it, \\N[12] . In truth, I wonder if
+I'm not going to leave it」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「ジェーンも強くなってるけど、
+同じ奴に何度も負けてはいられないからな」
+> CONTEXT: Map033/events/4/pages/2/41/Dialogue
+\\N[12]. 「Jane is getting stronger too, I can not lose
+to the same person many times.」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「うん、男の子はそうでなくっちゃ。
+でも、私も次は負けないからね」
+> CONTEXT: Map033/events/4/pages/2/45/Dialogue
+Jane. 「Yeah, the boy should do it. But I will not lose
+next time」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「ふふっ、てんでダメね、\\N[12]。
+あなたもしょせん、この程度の男だったのかしら？」
+> CONTEXT: Map033/events/4/pages/2/54/Dialogue
+Jane. 「Huh, you are useless, \\N[12] . Were you also a
+man of this degree?」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ……つ、強い……」
+> CONTEXT: Map033/events/4/pages/2/58/Dialogue
+\\N[12]. 「Cut...... one, strong......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「私も少しは強くなったとはいえ、
+こうも一方的になるなんて、ちょっとびっくりね。
+それとも、キミって本当はたいしたことなかったのかしら？
+> CONTEXT: Map033/events/4/pages/2/62/Dialogue
+Jane. 「Although I became a little stronger,
+It is a little surprising that this is unilateral as well.
+Or perhaps you did not have anything serious?#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、私も大会に向けて稽古相手がいるのは悪くないけど、
+これじゃ、人形を相手に素振りしてるのと
+たいして違いはないし、つまらないわ」
+> CONTEXT: Map033/events/4/pages/2/67/Dialogue
+Well, it is not bad for me to have a practice opponent for
+tournament, In this case, you are swinging with the doll
+There is not much difference, it's boring.」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……
+すまん、不甲斐なくて……」
+> CONTEXT: Map033/events/4/pages/2/71/Dialogue
+\\N[12]. 「Uu...... Sorry, it was not worth it......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「そう思うなら、次こそは意地を見せてよ？
+ま、ギルドの仕事でもしていれば
+そのうち鍛えられると思うし、頑張りなよね」
+> CONTEXT: Map033/events/4/pages/2/75/Dialogue
+Jane. 「If that is the case, then the next time you show me
+what you mean? Well, as long as you are doing the work of
+the guild. I think I will be able to train in a while and I
+do not work hard」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「あんまり失望させないでくれる、\\N[12]？
+私はキミだけは他の男と違うと信じているんだから。
+悔しいなら、次はちゃんと力を見せてね」
+> CONTEXT: Map033/events/4/pages/2/82/Dialogue
+Jane. 「You will not let me down so much, \\N[12] ?
+Because I believe that only you are different from other
+men. If you are regrettable, please show me the power
+properly」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「あら、連敗するのが怖いのかな？
+ふふっ、\\N[12]も思ったより臆病なのね。
+いつでも再挑戦は受けてあげるから、頑張って♪」
+> CONTEXT: Map033/events/4/pages/2/94/Dialogue
+Jane. 「Oh, are you scared of losing stalemate?
+Hehe \\N[12] You are cowardly more than I thought.
+I will accept the challenge again anytime, so please do
+your best♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「今度は私が勝たせてもらうからね。
+女の意地、その身で味わうといいわ。
+さあ、勝負よ！」
+> CONTEXT: Map033/events/4/pages/3/6/Dialogue
+Jane. 「This time I will win the game. You should taste the
+woman's nature, with its body. Come on!」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「さ、さすが\\N[12]ね……また負けちゃうだなんて。
+やっぱりキミは他の男とは一味違うみたいね」
+> CONTEXT: Map033/events/4/pages/3/17/Dialogue
+Jane. 「Surely \\N[12] Ne ...... I'm losing again.
+After all it seems that you are a bit different from other
+guys」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「仮にも武道大会に出ようって身だからな……
+もう誰にも負けたくないし、頑張るぜ」
+> CONTEXT: Map033/events/4/pages/3/21/Dialogue
+\\N[12]. 「Temporarily it is your body to go out to
+martial arts tournament ...... I do not want to lose to
+anyone anymore, I will try my hard」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「その意気よ、頑張ってね。
+私も、キミに追いつけるよう努力しなくちゃ」
+> CONTEXT: Map033/events/4/pages/3/25/Dialogue
+Jane. 「Good luck with that, good luck. I also have to make
+efforts to catch up with you」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「今回は私の勝ちねっ。
+ふふっ、リベンジさせてもらったわよ♪」
+> CONTEXT: Map033/events/4/pages/3/35/Dialogue
+Jane. 「I will win this time. Huh, you got me revenged.♪」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「くっ、負けちまったか……」
+> CONTEXT: Map033/events/4/pages/3/39/Dialogue
+\\N[12]. 「Well, I lost......」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「私も負けっぱなしじゃいられないもの。
+でも、こんなことじゃ、あのシェリーって子には
+勝てないんじゃない？　もっと頑張ってね、\\N[12]」
+> CONTEXT: Map033/events/4/pages/3/42/Dialogue
+Jane. 「I also can not be defeated. But, in such a case,
+that Sherry is a child. Can not you win? Do your best more,
+\\N[12]」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「えーっ、勝ち逃げするのはずるいわよ、\\N[12]。
+忙しいならしょうがないけど、
+また絶対手合わせしてよね」
+> CONTEXT: Map033/events/4/pages/3/52/Dialogue
+Jane. 「Well, it's crane to win and run away, \\N[12] .
+If you are busy you can not help it, You should also make
+absolute arrangements」#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェーン
+「今は稽古をするには都合が悪そうね。
+修行に行くの？
+頑張ってね、\\N[12]」
+> CONTEXT: Map033/events/4/pages/4/0/Dialogue
+Jane. 「I heard that it is not convenient for practicing
+now. Are you going to training? Good luck with, \\N[12]」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -245,7 +564,7 @@ so, \\N[12] He is going to challenge his majestine ne」#MTLed
 ジェーンは王都出身だし……」
 > CONTEXT: Map033/events/4/pages/12/39/Dialogue
 \\N[12]. 「Oh, about that, Do not you know the castle's
-loophole? Jane is from the kingdom ... ...」#MTLed
+loophole? Jane is from the kingdom......」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -254,7 +573,7 @@ loophole? Jane is from the kingdom ... ...」#MTLed
 私もお城については詳しくないしなあ、
 私もレストンにいる期間のほうが長いし」
 > CONTEXT: Map033/events/4/pages/12/44/Dialogue
-Jane. 「Well ... I'm sorry, I do not know.
+Jane. 「Well...I'm sorry, I do not know.
 I do not know about the castle in detail,
 I also have a longer period in Reston」#MTLed
 > END STRING
@@ -347,10 +666,10 @@ Let's go to the inn in Chuo-ku from now ......」#MTLed
 > BEGIN STRING
 ジェーン
 「あ、そうなんだ。
-それなら、今日貸してた部屋を使ってもいいよ？」
-> CONTEXT: None < UNUSED
-Jane. 「Oh, that's right. If so, can I use the room I lent
-today?」#MTLed
+それなら、今日貸してた部屋を使ったら？」
+> CONTEXT: Map033/events/7/pages/0/17/Dialogue
+Jane. 「Oh, that's right. If so, why do not you use the
+room you lent today?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -383,29 +702,44 @@ friends. We will have dinner and work hard with Jane」#MTLed
 
 > BEGIN STRING
 ジェーン
-「そういうこと。
-遠慮しないでウチを拠点にしちゃいなよ」
-> CONTEXT: None < UNUSED
-Jane. 「Such thing. Do not hold back so please base me!」#MTLed
+「私としては実利的な面もあるのよね。
+キミが家にいれば、ちょうどいい稽古相手が確保できるし。
+たまに私と手合わせしてくれると助かるわ」
+> CONTEXT: Map033/events/7/pages/0/37/Dialogue
+Jane. 「I have a practical aspect as well.
+If you are at home, you can secure a good practice partner.
+Sometimes I'll be saved if you go with me」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「そっか、ならせっかくだし世話になるよ。
-正直、すげえありがたいぜ。
+俺も手合わせできる相手がいるのは助かるぜ。
 大会が終わるまでよろしくな、ジェーン」
-> CONTEXT: None < UNUSED
+> CONTEXT: Map033/events/7/pages/0/42/Dialogue
 \\N[12]. 「Well, if it is, it will be awfully taken care
-of. To be honest, I am grateful. Until tournament is over,
-Jane」#MTLed
+of. I am saved for having partners with which I can also
+meet. Until tournament is over, Jane」#MTLed
 > END STRING
 
 > BEGIN STRING
 ジェーン
-「うん。
-たまには、あたしとも手合わせしてよね」
-> CONTEXT: None < UNUSED
-Jane. 「Yup. Occasionally, you have me both with me」#MTLed
+「ええ、よろしく。
+私はね、弱い男は軽蔑するけど強い男には敬意を払いたいし、
+協力も惜しまないわ。
+> CONTEXT: Map033/events/7/pages/0/47/Dialogue
+Jane. 「Yes, thanks. I want a weak man to despise, but I
+want to pay respect to a strong man, I will not spare
+cooperation.#MTLed
+> END STRING
+
+> BEGIN STRING
+あなたには、大会で力を見せてくれることを期待してる。
+ウチでゆっくり休みながら、
+準備をしっかり整えてね」
+> CONTEXT: Map033/events/7/pages/0/52/Dialogue
+I expect you to show power with tournament.
+While resting slowly in our house, Please prepare well」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -418,339 +752,4 @@ Jane. 「Yup. Occasionally, you have me both with me」#MTLed
 "Rest" "staying" command on the second floor bed
 It is available for free. Please note that "stay" will
 decrease the remaining days.#MTLed
-> END STRING
-
-> BEGIN STRING
-ジェーンの母
-「ジェーンはちょっと実力主義が過ぎるところがあるから
-付き合いにくいかもしれないけど、
-どうか、仲良くしてあげてね」
-> CONTEXT: Map033/events/3/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「やっほ、\\N[12]。
-大会に向けて腕を磨くなら、この家の右隣にある
-\\C[2]冒険者ギルド\\C[0]に行ってみるのがオススメよ」
-> CONTEXT: Map033/events/4/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「\\N[12]、私と稽古してみる？」
-> CONTEXT: Map033/events/4/pages/1/1/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「そうこなくっちゃ。
-私も最近は強くなってる手応えがあるし、
-油断してると怪我するわよ？」
-> CONTEXT: Map033/events/4/pages/1/6/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「くっ、やるじゃない……さすが\\N[12]ね」
-> CONTEXT: Map033/events/4/pages/1/17/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ジェーンも、村でやったときより確実に強くなってるな。
-俺もうかうかしていられないぜ」
-> CONTEXT: Map033/events/4/pages/1/20/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「またいつでも相手になるわ。
-大会までに、お互い強くならなきゃね」
-> CONTEXT: Map033/events/4/pages/1/24/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「ふふっ、私の新技、とっても効くでしょう。
-どんなにガードを固めても、
-貫いてダメージを与えることができるのよ」
-> CONTEXT: Map033/events/4/pages/1/33/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「くうっ、ジェーン、強くなってるな……
-負けちまうとは……」
-> CONTEXT: Map033/events/4/pages/1/38/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「女の子に負けちゃって悔しいでしょ、\\N[12]？
-悔しいと思うなら、もっと頑張ってよね。
-村の男どもとは違うってところ、ちゃんと見せてほしいわ」
-> CONTEXT: Map033/events/4/pages/1/42/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「あら、女相手に尻込みしてたらダメなんじゃない？
-そんなことじゃ大会も勝てないわよ、\\N[12]」
-> CONTEXT: Map033/events/4/pages/1/52/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「稽古してみる？
-最近、\\N[12]ってば負けてばかりだけど、
-そろそろ根性見せて欲しいなー」
-> CONTEXT: Map033/events/4/pages/2/2/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「\\N[12]、また私と稽古してみる？」
-> CONTEXT: Map033/events/4/pages/2/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map033/events/4/pages/3/1/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「そう。じゃあ、またボコボコにしてあげる。
-女の子に負ける情けなさを味わいたくないなら、
-頑張りなよね。さあ、勝負よ！」
-> CONTEXT: Map033/events/4/pages/2/17/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「ふふっ、また女の子に負ける屈辱を
-味わわせてあげるからね。
-さあ、勝負よ！」
-> CONTEXT: Map033/events/4/pages/2/24/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「や、やるわね、\\N[12]。
-さすがに、やられっぱなしじゃいないってところかしら」
-> CONTEXT: Map033/events/4/pages/2/37/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ジェーンも強くなってるけど、
-同じ奴に何度も負けてはいられないからな」
-> CONTEXT: Map033/events/4/pages/2/41/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「うん、男の子はそうでなくっちゃ。
-でも、私も次は負けないからね」
-> CONTEXT: Map033/events/4/pages/2/45/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「ふふっ、てんでダメね、\\N[12]。
-あなたもしょせん、この程度の男だったのかしら？」
-> CONTEXT: Map033/events/4/pages/2/54/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「くっ……つ、強い……」
-> CONTEXT: Map033/events/4/pages/2/58/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「私も少しは強くなったとはいえ、
-こうも一方的になるなんて、ちょっとびっくりね。
-それとも、キミって本当はたいしたことなかったのかしら？
-> CONTEXT: Map033/events/4/pages/2/62/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ま、私も大会に向けて稽古相手がいるのは悪くないけど、
-これじゃ、人形を相手に素振りしてるのと
-たいして違いはないし、つまらないわ」
-> CONTEXT: Map033/events/4/pages/2/67/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「う、ううっ……
-すまん、不甲斐なくて……」
-> CONTEXT: Map033/events/4/pages/2/71/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「そう思うなら、次こそは意地を見せてよ？
-ま、ギルドの仕事でもしていれば
-そのうち鍛えられると思うし、頑張りなよね」
-> CONTEXT: Map033/events/4/pages/2/75/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「あんまり失望させないでくれる、\\N[12]？
-私はキミだけは他の男と違うと信じているんだから。
-悔しいなら、次はちゃんと力を見せてね」
-> CONTEXT: Map033/events/4/pages/2/82/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「あら、連敗するのが怖いのかな？
-ふふっ、\\N[12]も思ったより臆病なのね。
-いつでも再挑戦は受けてあげるから、頑張って♪」
-> CONTEXT: Map033/events/4/pages/2/94/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「今度は私が勝たせてもらうからね。
-女の意地、その身で味わうといいわ。
-さあ、勝負よ！」
-> CONTEXT: Map033/events/4/pages/3/6/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「さ、さすが\\N[12]ね……また負けちゃうだなんて。
-やっぱりキミは他の男とは一味違うみたいね」
-> CONTEXT: Map033/events/4/pages/3/17/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「仮にも武道大会に出ようって身だからな……
-もう誰にも負けたくないし、頑張るぜ」
-> CONTEXT: Map033/events/4/pages/3/21/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「その意気よ、頑張ってね。
-私も、キミに追いつけるよう努力しなくちゃ」
-> CONTEXT: Map033/events/4/pages/3/25/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「今回は私の勝ちねっ。
-ふふっ、リベンジさせてもらったわよ♪」
-> CONTEXT: Map033/events/4/pages/3/35/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「くっ、負けちまったか……」
-> CONTEXT: Map033/events/4/pages/3/39/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「私も負けっぱなしじゃいられないもの。
-でも、こんなことじゃ、あのシェリーって子には
-勝てないんじゃない？　もっと頑張ってね、\\N[12]」
-> CONTEXT: Map033/events/4/pages/3/42/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「えーっ、勝ち逃げするのはずるいわよ、\\N[12]。
-忙しいならしょうがないけど、
-また絶対手合わせしてよね」
-> CONTEXT: Map033/events/4/pages/3/52/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「今は稽古をするには都合が悪そうね。
-修行に行くの？
-頑張ってね、\\N[12]」
-> CONTEXT: Map033/events/4/pages/4/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「あ、そうなんだ。
-それなら、今日貸してた部屋を使ったら？」
-> CONTEXT: Map033/events/7/pages/0/17/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「私としては実利的な面もあるのよね。
-キミが家にいれば、ちょうどいい稽古相手が確保できるし。
-たまに私と手合わせしてくれると助かるわ」
-> CONTEXT: Map033/events/7/pages/0/37/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「そっか、ならせっかくだし世話になるよ。
-俺も手合わせできる相手がいるのは助かるぜ。
-大会が終わるまでよろしくな、ジェーン」
-> CONTEXT: Map033/events/7/pages/0/42/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「ええ、よろしく。
-私はね、弱い男は軽蔑するけど強い男には敬意を払いたいし、
-協力も惜しまないわ。
-> CONTEXT: Map033/events/7/pages/0/47/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-あなたには、大会で力を見せてくれることを期待してる。
-ウチでゆっくり休みながら、
-準備をしっかり整えてね」
-> CONTEXT: Map033/events/7/pages/0/52/Dialogue < UNTRANSLATED
-
 > END STRING

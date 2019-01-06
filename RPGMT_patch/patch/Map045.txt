@@ -11,8 +11,8 @@ Royal College of Elmia 1st floor#MTLed
 聴講生でも魔法のひとつくらいは
 覚えることができると思うわよ」
 > CONTEXT: Map045/events/2/pages/0/0/Dialogue
-A student. 「If you take a lecture at this
-academy, Even in the audience one of the magic is
+A student. 「If you take a lecture at this academy,
+Even in the audience one of the magic is
 I think you can remember it」#MTLed
 > END STRING
 

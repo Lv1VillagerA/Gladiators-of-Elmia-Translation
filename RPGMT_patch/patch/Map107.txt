@@ -5,3 +5,111 @@
 > CONTEXT: Map097/events/12/pages/0/9/Dialogue
 I got barrier ring Ⅰ!#MTLed
 > END STRING
+
+> BEGIN STRING
+\\N[12]
+「う、ううっ……
+もう、ダメだ……戦え、ない……」
+> CONTEXT: Map107/events/3/pages/0/18/Dialogue
+> CONTEXT: Map109/events/4/pages/0/18/Dialogue
+> CONTEXT: Map106/events/5/pages/0/18/Dialogue
+> CONTEXT: Map103/events/6/pages/0/18/Dialogue
+> CONTEXT: Map103/events/8/pages/0/18/Dialogue
+> CONTEXT: Map027/events/24/pages/0/18/Dialogue
+> CONTEXT: Map027/events/25/pages/0/18/Dialogue
+\\N[12]. 「Uu ... ... Already, it is useless ......
+Fight, there is no ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+セイレーン
+「ふふ……わたしの歌を聴いたら
+とても戦うことなんてできないよ……
+立つことすら、もう無理でしょう？」
+> CONTEXT: Map107/events/3/pages/0/23/Dialogue
+> CONTEXT: Map109/events/4/pages/0/23/Dialogue
+> CONTEXT: Map106/events/5/pages/0/23/Dialogue
+> CONTEXT: Map103/events/6/pages/0/23/Dialogue
+> CONTEXT: Map103/events/8/pages/0/23/Dialogue
+> CONTEXT: Map027/events/24/pages/0/23/Dialogue
+> CONTEXT: Map027/events/25/pages/0/23/Dialogue
+Siren. 「Hehe ... ... If you listen to my song
+I can not fight very much .... Is not it even impossible to
+stand?」#MTLed
+> END STRING
+
+> BEGIN STRING
+セイレーン
+「頭が痺れて、幸せな気持ちになってくるでしょ？
+さあ、好きなことをしていいのよ」
+> CONTEXT: Map107/events/3/pages/0/52/Dialogue
+> CONTEXT: Map109/events/4/pages/0/52/Dialogue
+> CONTEXT: Map106/events/5/pages/0/52/Dialogue
+> CONTEXT: Map103/events/6/pages/0/52/Dialogue
+> CONTEXT: Map103/events/8/pages/0/52/Dialogue
+> CONTEXT: Map027/events/24/pages/0/52/Dialogue
+> CONTEXT: Map027/events/25/pages/0/52/Dialogue
+Siren. 「My head is numb and it makes me feel happy, is not
+it? Now, you can do whatever you want」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「うう……なんだか、全身がジンジンしてきた……
+はぁ、はぁ……」
+> CONTEXT: Map107/events/3/pages/0/56/Dialogue
+> CONTEXT: Map109/events/4/pages/0/56/Dialogue
+> CONTEXT: Map106/events/5/pages/0/56/Dialogue
+> CONTEXT: Map103/events/6/pages/0/56/Dialogue
+> CONTEXT: Map103/events/8/pages/0/56/Dialogue
+> CONTEXT: Map027/events/24/pages/0/56/Dialogue
+> CONTEXT: Map027/events/25/pages/0/56/Dialogue
+\\N[12]. 「Ugh ...... Whatever, the whole body has come
+... ... Ah, Ah ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]はズボンを下ろし、ペニスを引っ張り出すと
+セイレーンを見上げながらしごき始める！
+> CONTEXT: Map107/events/3/pages/0/67/Dialogue
+> CONTEXT: Map109/events/4/pages/0/67/Dialogue
+> CONTEXT: Map106/events/5/pages/0/67/Dialogue
+> CONTEXT: Map103/events/6/pages/0/67/Dialogue
+> CONTEXT: Map103/events/8/pages/0/67/Dialogue
+> CONTEXT: Map027/events/24/pages/0/67/Dialogue
+> CONTEXT: Map027/events/25/pages/0/67/Dialogue
+\\N[12] He pulls down his pants and pulls out his penis
+I will start to iron while looking up on the siren!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「あっ、あああぁっ！
+こ、こんな突き抜けるように気持ちのいい射精、
+初めてだっ……！」
+> CONTEXT: Map107/events/3/pages/0/88/Dialogue
+> CONTEXT: Map109/events/4/pages/0/88/Dialogue
+> CONTEXT: Map106/events/5/pages/0/88/Dialogue
+> CONTEXT: Map103/events/6/pages/0/88/Dialogue
+> CONTEXT: Map103/events/8/pages/0/88/Dialogue
+> CONTEXT: Map027/events/24/pages/0/88/Dialogue
+> CONTEXT: Map027/events/25/pages/0/88/Dialogue
+\\N[12]. 「Oh, Aaahh! Here, pleasant ejaculation to
+penetrate such, It is the first time ... ....!」#MTLed
+> END STRING
+
+> BEGIN STRING
+セイレーン
+「うふふ、そうでしょう。
+わたしが今歌っていたのは、男の人の恋愛感情を
+引き出す歌だもの。
+> CONTEXT: Map107/events/3/pages/0/93/Dialogue
+> CONTEXT: Map109/events/4/pages/0/93/Dialogue
+> CONTEXT: Map106/events/5/pages/0/93/Dialogue
+> CONTEXT: Map103/events/6/pages/0/93/Dialogue
+> CONTEXT: Map103/events/8/pages/0/93/Dialogue
+> CONTEXT: Map027/events/24/pages/0/93/Dialogue
+> CONTEXT: Map027/events/25/pages/0/93/Dialogue
+Siren. 「Uhufu, I guess so. What I was singing now is that
+the man's romantic feelings. It's a song to bring out.#MTLed
+> END STRING

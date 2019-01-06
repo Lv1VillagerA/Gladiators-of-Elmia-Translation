@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 女兵士Ａ
 「ふっ、よく来たわね\\N[12]君！」
@@ -401,18 +401,6 @@ choosing this one」#MTLed
 > CONTEXT: Map130/events/41/pages/1/124/Dialogue
 Clair. 「Our unit was cleaning the stadium,
 I was surprised to be touched by you suddenly」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「そうだったんですか……」
-> CONTEXT: Map130/events/40/pages/0/207/Dialogue
-> CONTEXT: Map130/events/40/pages/1/87/Dialogue
-> CONTEXT: Map130/events/41/pages/0/207/Dialogue
-> CONTEXT: Map130/events/41/pages/1/87/Dialogue
-> CONTEXT: Map147/events/2/pages/7/59/Dialogue
-> CONTEXT: Map147/events/24/pages/0/195/Dialogue
-\\N[12]. 「Is that so……」#MTLed
 > END STRING
 
 > BEGIN STRING

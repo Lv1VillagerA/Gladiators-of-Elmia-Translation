@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\N[12]
 「う……こ、ここは……」
@@ -78,38 +78,42 @@ thanks, thank you for your support」#MTLed
 
 > BEGIN STRING
 ジェーン
-「いいのよ、同僚のよしみだもの。
-それにしても、なんであんなところに倒れていたの？
-しかも打ち身だらけみたいだけど」
-> CONTEXT: None < UNUSED
-Jane. 「Okay, a good co-worker. Anyway, why was it fallen
-in such a place? Moreover, it seems to be full of bruises」#MTLed
+「同僚のよしみだし、気にしなくてもいいわ。
+それにしても、また決闘で負けでもしたの？
+あんまり恥ずかしい姿を晒さないでよね、同郷として恥ずかしいし」
+> CONTEXT: Map034/events/2/pages/0/43/Dialogue
+Jane. 「It's a good co-worker, you do not have to worry.
+Anyway, did you lose in a duel again? Do not expose your
+embarrassing figure so much, it's embarrassing as the same
+village」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
-「それは……」
-> CONTEXT: None < UNUSED
-\\N[12]. 「that is……」#MTLed
+「うっ、すまん……」
+> CONTEXT: Map034/events/2/pages/0/48/Dialogue
+\\N[12]. 「I'm sorry ...」#MTLed
 > END STRING
 
 > BEGIN STRING
 ジェーン
-「あんまり言いたくなさそうね。
-まあ、強いて聞こうとは思わないし、
-今はゆっくり体を休めてね」
-> CONTEXT: None < UNUSED
-Jane. 「I do not want to say much. Well, I do not think I
-will hear it, Now rest at your body slowly」#MTLed
+「\\N[12]は他の男どもと違って頑張ってると思うし
+私は期待してるからね。
+今日は一晩泊まって、体を休めていくといいわ」
+> CONTEXT: Map034/events/2/pages/0/51/Dialogue
+Jane. 「\\N[12] I think that I am doing my best
+differently from other men. I'm expecting you.
+You ought to stay overnight today and rest yourself.」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
-「すまん。
+「ああ、悪いな、お言葉に甘えて一晩泊まらせてもらうよ。
 それにしても、ジェーンも武道大会に
 出るために戻ってきたのか？」
-> CONTEXT: None < UNUSED
-\\N[12]. 「sorry. Even so, Jane also to martial arts
+> CONTEXT: Map034/events/2/pages/0/56/Dialogue
+\\N[12]. 「Oh, I'm sorry, I will let you spend the night
+listening to your words. Even so, Jane also to martial arts
 tournament. Did you come back to get out?」#MTLed
 > END STRING
 
@@ -146,11 +150,11 @@ I think I will try out as a player」#MTLed
 > BEGIN STRING
 ジェーン
 「うん、もし本戦で当たったら
-そのときはお手柔らかにね。
-じゃ、あとはゆっくり体が回復するまで休んでて」
-> CONTEXT: None < UNUSED
-Jane. 「Yeah, if you hit the main game. Please hand softly
-then. Well then, rest slowly until your body recovers」#MTLed
+そのときは負けないからね。
+じゃ、私は行くから」
+> CONTEXT: Map034/events/2/pages/0/74/Dialogue
+Jane. 「Yeah, if you hit the main game. I will not lose
+then. Well, I will go.」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -461,136 +465,97 @@ of Succubus' nest. It is possible to go directly.#MTLed
 > END STRING
 
 > BEGIN STRING
-ジェーン
-「同僚のよしみだし、気にしなくてもいいわ。
-それにしても、また決闘で負けでもしたの？
-あんまり恥ずかしい姿を晒さないでよね、同郷として恥ずかしいし」
-> CONTEXT: Map034/events/2/pages/0/43/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「うっ、すまん……」
-> CONTEXT: Map034/events/2/pages/0/48/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「\\N[12]は他の男どもと違って頑張ってると思うし
-私は期待してるからね。
-今日は一晩泊まって、体を休めていくといいわ」
-> CONTEXT: Map034/events/2/pages/0/51/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ああ、悪いな、お言葉に甘えて一晩泊まらせてもらうよ。
-それにしても、ジェーンも武道大会に
-出るために戻ってきたのか？」
-> CONTEXT: Map034/events/2/pages/0/56/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「うん、もし本戦で当たったら
-そのときは負けないからね。
-じゃ、私は行くから」
-> CONTEXT: Map034/events/2/pages/0/74/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 \\N[12]
 「金庫だ。どうする？」
-> CONTEXT: Map034/events/10/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/26/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/10/pages/0/7/Dialogue
+> CONTEXT: Map008/events/26/pages/0/7/Dialogue
+\\N[12]. 「It's a safe. what will you do?」#MTLed
 > END STRING
 
 > BEGIN STRING
 お金を引き出す
-> CONTEXT: Map034/events/10/pages/0/12/Choice/0 < UNTRANSLATED
-> CONTEXT: Map008/events/26/pages/0/12/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map034/events/10/pages/0/12/Choice/0
+> CONTEXT: Map008/events/26/pages/0/12/Choice/0
+To withdraw money#MTLed
 > END STRING
 
 > BEGIN STRING
 お金を入れる
-> CONTEXT: Map034/events/10/pages/0/12/Choice/1 < UNTRANSLATED
-> CONTEXT: Map008/events/26/pages/0/12/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map034/events/10/pages/0/12/Choice/1
+> CONTEXT: Map008/events/26/pages/0/12/Choice/1
+To put in money#MTLed
 > END STRING
 
 > BEGIN STRING
 \\$\\N[12]
 「今んとこ、金庫に入っている金は\\V[138]Gだぜ。
 引き出す金額を入力してくれ」
-> CONTEXT: Map034/events/10/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/26/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/10/pages/0/14/Dialogue
+> CONTEXT: Map008/events/26/pages/0/14/Dialogue
+\\$ \\N[12]. 「Now, the money in the safe is \\V[138] G -
+san. Please enter the amount to withdraw」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\$\\N[12]
 「金を\\V[139]G
 引き出したぜ」
-> CONTEXT: Map034/events/10/pages/0/31/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/26/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/10/pages/0/31/Dialogue
+> CONTEXT: Map008/events/26/pages/0/31/Dialogue
+\\$ \\N[12]. 「Money \\V[139] G. I withdrew it.」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「そんなに金を持ち歩くことはできないぜ。
 キャンセルするぜ」
-> CONTEXT: Map034/events/10/pages/0/38/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/26/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/10/pages/0/38/Dialogue
+> CONTEXT: Map008/events/26/pages/0/38/Dialogue
+\\N[12]. 「I can not bring gold so much. I will cancel
+it.」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「金庫には、そんな金額は入っていないぜ」
-> CONTEXT: Map034/events/10/pages/0/47/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/26/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/10/pages/0/47/Dialogue
+> CONTEXT: Map008/events/26/pages/0/47/Dialogue
+\\N[12]. 「There is no such amount in the safe」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\$\\N[12]
 「今んとこ、金庫に入っている金は\\V[138]Gだぜ。
 金庫に入れる金額を入力してくれ」
-> CONTEXT: Map034/events/10/pages/0/55/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/26/pages/0/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/10/pages/0/55/Dialogue
+> CONTEXT: Map008/events/26/pages/0/55/Dialogue
+\\$ \\N[12]. 「Now, the money in the safe is \\V[138] G -
+san. Enter the amount to be put in the safe」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\$\\N[12]
 「金を\\V[139]G
 金庫に入れたぜ」
-> CONTEXT: Map034/events/10/pages/0/72/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/26/pages/0/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/10/pages/0/72/Dialogue
+> CONTEXT: Map008/events/26/pages/0/72/Dialogue
+\\$ \\N[12]. 「Money \\V[139] G. I put it in a safe」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「この金庫に入る金は9999999Gまでだぜ。
 許容用オーバーだから、キャンセルするぜ」
-> CONTEXT: Map034/events/10/pages/0/79/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/26/pages/0/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/10/pages/0/79/Dialogue
+> CONTEXT: Map008/events/26/pages/0/79/Dialogue
+\\N[12]. 「The money to enter this safe is until 9999999
+G. I'm canceling it for permission, so I will cancel it.」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「そんなに持ってないぜ」
-> CONTEXT: Map034/events/10/pages/0/88/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/26/pages/0/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/10/pages/0/88/Dialogue
+> CONTEXT: Map008/events/26/pages/0/88/Dialogue
+\\N[12]. 「I do not have that much」#MTLed
 > END STRING

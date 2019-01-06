@@ -951,9 +951,8 @@ as my strength」#MTLed
 なんていうか、これでようやく
 対等のライバルになれた気がするな。
 > CONTEXT: Map053/events/84/pages/0/13/Dialogue
-\\N[12]. (... really, I won over him.
-I do not know what to say, at last
-I feel I could be equal rival.#MTLed
+\\N[12]. (... really, I won over him. I do not know what
+to say, at last. I feel I could be equal rival.#MTLed
 > END STRING
 
 > BEGIN STRING

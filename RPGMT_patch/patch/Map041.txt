@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 謁見の間
 > CONTEXT: Map041/display_name/
@@ -288,13 +288,11 @@ so far?」#MTLed
 > BEGIN STRING
 アルミナに本気で惚れたから
 > CONTEXT: Map041/events/5/pages/5/51/Choice/0
-> CONTEXT: Map041/events/5/pages/5/51/Choice/0
 I fell in love with alumina seriously#MTLed
 > END STRING
 
 > BEGIN STRING
 女王の試練に屈したくないと思った
-> CONTEXT: Map041/events/5/pages/5/51/Choice/1
 > CONTEXT: Map041/events/5/pages/5/51/Choice/1
 I thought that I do not want to succumb to the Queen's test#MTLed
 > END STRING
@@ -928,9 +926,9 @@ With that degree of force, I can not accept you as a king」#MTLed
 > BEGIN STRING
 \\N[12]
 「くっ、なんて強大な神聖魔法なんだ……」
-> CONTEXT: Map041/events/56/pages/0/9/Dialogue
 > CONTEXT: Map041/events/5/pages/5/402/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1084/Dialogue
+> CONTEXT: Map041/events/56/pages/0/9/Dialogue
 \\N[12]. 「What a hell of sacred magic......」#MTLed
 > CONTEXT: Commonevents/242/44/Dialogue
 > CONTEXT: Commonevents/242/728/Dialogue
@@ -955,8 +953,8 @@ With an evil sword, I will destroy my sacred clothes」#MTLed
 \\N[12]
 「あ、す、すみません。
 この剣は、その……」
-> CONTEXT: Map041/events/56/pages/0/16/Dialogue
 > CONTEXT: Map041/events/5/pages/5/409/Dialogue
+> CONTEXT: Map041/events/56/pages/0/16/Dialogue
 \\N[12]. 「Oh, I'm sorry. This sword, that......」#MTLed
 > CONTEXT: Commonevents/242/51/Dialogue
 \\N[12]. 「Oh, I'm sorry. This sword, that ...
@@ -1012,8 +1010,8 @@ will give your guts directly. I will give you a shot」#MTLed
 女王ルフティナ
 「\\N[12]、まずは服をすべて脱ぎなさい。
 その間に、わたくしは聖なる衣を着直していますから」
-> CONTEXT: Map041/events/56/pages/0/38/Dialogue
 > CONTEXT: Map041/events/5/pages/5/431/Dialogue
+> CONTEXT: Map041/events/56/pages/0/38/Dialogue
 Queen Luftina. 「\\N[12] Take off all your clothes at
 first. Meanwhile, I am dressed in sacred garments」#MTLed
 > CONTEXT: Commonevents/242/73/Dialogue
@@ -1023,23 +1021,10 @@ sacred garments」#MTLed
 > END STRING
 
 > BEGIN STRING
-\\N[12]
-「わ、わかりました……」
-> CONTEXT: Map041/events/56/pages/0/42/Dialogue
-> CONTEXT: Map041/events/5/pages/5/435/Dialogue
-> CONTEXT: Map041/events/5/pages/5/1101/Dialogue
-\\N[12]. 「Wow, okay ....」#MTLed
-> CONTEXT: Map156/events/1/pages/0/113/Dialogue
-> CONTEXT: Commonevents/242/77/Dialogue
-> CONTEXT: Commonevents/242/745/Dialogue
-\\N[12]. 「Wow, okay ....」#MTLed
-> END STRING
-
-> BEGIN STRING
 そして、\\N[12]はルフティナに命じられるまま
 全裸になった。
-> CONTEXT: Map041/events/56/pages/0/45/Dialogue
 > CONTEXT: Map041/events/5/pages/5/438/Dialogue
+> CONTEXT: Map041/events/56/pages/0/45/Dialogue
 Then, \\N[12] I will be ordered by Luftina
 It became naked.#MTLed
 > CONTEXT: Commonevents/242/80/Dialogue
@@ -1052,9 +1037,9 @@ It became naked.#MTLed
 「さあ\\N[12]、準備はできました。
 わたくしの膝の上に
 うつ伏せになって乗りなさい」
-> CONTEXT: Map041/events/56/pages/0/48/Dialogue
 > CONTEXT: Map041/events/5/pages/5/441/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1107/Dialogue
+> CONTEXT: Map041/events/56/pages/0/48/Dialogue
 Queen Luftina. 「here we go \\N[12] I'm ready.
 On my knees. Stay on the stomach and get on.」#MTLed
 > CONTEXT: Commonevents/242/83/Dialogue
@@ -1066,9 +1051,9 @@ On my knees. Stay on the stomach and get on.」#MTLed
 > BEGIN STRING
 \\N[12]
 「えっ？　し、しかし、そんな恐れ多い」
-> CONTEXT: Map041/events/56/pages/0/53/Dialogue
 > CONTEXT: Map041/events/5/pages/5/446/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1112/Dialogue
+> CONTEXT: Map041/events/56/pages/0/53/Dialogue
 \\N[12]. 「eh? However, such a terrible」#MTLed
 > CONTEXT: Commonevents/242/88/Dialogue
 > CONTEXT: Commonevents/242/756/Dialogue
@@ -1079,9 +1064,9 @@ On my knees. Stay on the stomach and get on.」#MTLed
 女王ルフティナ
 「あら、言うことが聞けないとでもいうのですか？
 敗者は勝者の命令を素直に聞かなくてはいけませんよ」
-> CONTEXT: Map041/events/56/pages/0/56/Dialogue
 > CONTEXT: Map041/events/5/pages/5/449/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1115/Dialogue
+> CONTEXT: Map041/events/56/pages/0/56/Dialogue
 Queen Luftina. 「Oh, you say that you can not hear what you
 say? The loser must obediently listen to the order of the
 winner」#MTLed
@@ -1095,9 +1080,9 @@ listen to the order of the winner」#MTLed
 > BEGIN STRING
 女王ルフティナ
 「うっ、は、はい……」
-> CONTEXT: Map041/events/56/pages/0/60/Dialogue
 > CONTEXT: Map041/events/5/pages/5/453/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1119/Dialogue
+> CONTEXT: Map041/events/56/pages/0/60/Dialogue
 Queen Luftina. 「Oooh...yes ....」#MTLed
 > CONTEXT: Commonevents/242/95/Dialogue
 > CONTEXT: Commonevents/242/763/Dialogue
@@ -1107,9 +1092,9 @@ Queen Luftina. 「Oooh...yes ....」#MTLed
 > BEGIN STRING
 \\N[12]はルフティナに言われるまま、
 女王の膝の上にうつ伏せに横たわる。
-> CONTEXT: Map041/events/56/pages/0/63/Dialogue
 > CONTEXT: Map041/events/5/pages/5/456/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1122/Dialogue
+> CONTEXT: Map041/events/56/pages/0/63/Dialogue
 \\N[12] As Luftina told you, I lie on my back on the
 queen 's lap.#MTLed
 > CONTEXT: Commonevents/242/98/Dialogue
@@ -1123,9 +1108,9 @@ on the queen 's lap.#MTLed
 （ううっ、柔らかくて温かくて、
 おまけにいい匂いまでするし……
 なんて心地いい膝の上なんだ……）
-> CONTEXT: Map041/events/56/pages/0/68/Dialogue
 > CONTEXT: Map041/events/5/pages/5/461/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1127/Dialogue
+> CONTEXT: Map041/events/56/pages/0/68/Dialogue
 \\N[12]. (OHh, soft and warm, Moreover, it will make a
 good smell ...... What a comfortable knee......)#MTLed
 > CONTEXT: Commonevents/242/103/Dialogue
@@ -1153,9 +1138,9 @@ I have to tap it firmly」#MTLed
 > BEGIN STRING
 そして、ルフティナは\\N[12]の尻に
 手のひらを振り下ろす！
-> CONTEXT: Map041/events/56/pages/0/78/Dialogue
 > CONTEXT: Map041/events/5/pages/5/471/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1137/Dialogue
+> CONTEXT: Map041/events/56/pages/0/78/Dialogue
 And Luftina \\N[12] In the buttocks. Shake the palm
 down!#MTLed
 > CONTEXT: Commonevents/242/113/Dialogue
@@ -1167,9 +1152,9 @@ Shake the palm down!#MTLed
 > BEGIN STRING
 \\N[12]
 「いっ……いてえええぇぇっ！」
-> CONTEXT: Map041/events/56/pages/0/84/Dialogue
 > CONTEXT: Map041/events/5/pages/5/477/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1143/Dialogue
+> CONTEXT: Map041/events/56/pages/0/84/Dialogue
 \\N[12]. 「Wait...oh yeah yeah!」#MTLed
 > CONTEXT: Commonevents/242/119/Dialogue
 > CONTEXT: Commonevents/242/787/Dialogue
@@ -1181,9 +1166,9 @@ Shake the palm down!#MTLed
 「このまま、今日はいっぱい
 おしりペンペンしてあげますからね。
 えいっ♪」
-> CONTEXT: Map041/events/56/pages/0/87/Dialogue
 > CONTEXT: Map041/events/5/pages/5/480/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1146/Dialogue
+> CONTEXT: Map041/events/56/pages/0/87/Dialogue
 Queen Luftina. 「As it is today, a lot. I will give you an
 ass. Ei♪」#MTLed
 > CONTEXT: Commonevents/242/122/Dialogue
@@ -1195,9 +1180,9 @@ I will give you an ass. Ei♪」#MTLed
 > BEGIN STRING
 \\N[12]
 「うっ、あああぁっ！」
-> CONTEXT: Map041/events/56/pages/0/103/Dialogue
 > CONTEXT: Map041/events/5/pages/5/496/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1162/Dialogue
+> CONTEXT: Map041/events/56/pages/0/103/Dialogue
 \\N[12]. 「Uh, Aaahh!」#MTLed
 > CONTEXT: Commonevents/242/138/Dialogue
 > CONTEXT: Commonevents/242/806/Dialogue
@@ -1219,8 +1204,8 @@ swords, It is a troubled boy」#MTLed
 > BEGIN STRING
 \\N[12]
 「あぐううっ！」
-> CONTEXT: Map041/events/56/pages/0/115/Dialogue
 > CONTEXT: Map041/events/5/pages/5/508/Dialogue
+> CONTEXT: Map041/events/56/pages/0/115/Dialogue
 \\N[12]. 「Aoku OHh!」#MTLed
 > CONTEXT: Commonevents/242/150/Dialogue
 \\N[12]. 「Aoku OHh!」#MTLed
@@ -1244,9 +1229,9 @@ You must think that it's embarrassing」#MTLed
 > BEGIN STRING
 \\N[12]
 「ひぐううっ！」
-> CONTEXT: Map041/events/56/pages/0/128/Dialogue
 > CONTEXT: Map041/events/5/pages/5/521/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1188/Dialogue
+> CONTEXT: Map041/events/56/pages/0/128/Dialogue
 \\N[12]. 「Higu OHh!」#MTLed
 > CONTEXT: Commonevents/242/163/Dialogue
 > CONTEXT: Commonevents/242/832/Dialogue
@@ -1258,9 +1243,9 @@ You must think that it's embarrassing」#MTLed
 「なんですか、さっきからみっともない。
 お尻をぺんぺんされたぐらいで
 悲鳴を上げるなんて、それでも男の子ですか？」
-> CONTEXT: Map041/events/56/pages/0/131/Dialogue
 > CONTEXT: Map041/events/5/pages/5/524/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1191/Dialogue
+> CONTEXT: Map041/events/56/pages/0/131/Dialogue
 Queen Luftina. 「What is it like a bit from a little while
 ago. About being in the butt. Is it still a boy to scream?」#MTLed
 > CONTEXT: Commonevents/242/166/Dialogue
@@ -1273,9 +1258,9 @@ Is it still a boy to scream?」#MTLed
 > BEGIN STRING
 \\N[12]
 「ぐううぅっ……」
-> CONTEXT: Map041/events/56/pages/0/141/Dialogue
 > CONTEXT: Map041/events/5/pages/5/534/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1201/Dialogue
+> CONTEXT: Map041/events/56/pages/0/141/Dialogue
 \\N[12]. 「Wow ...」#MTLed
 > CONTEXT: Commonevents/242/176/Dialogue
 > CONTEXT: Commonevents/242/845/Dialogue
@@ -1287,9 +1272,9 @@ Is it still a boy to scream?」#MTLed
 「これはお仕置きです。
 自らの不甲斐なさを反省し、
 もっと強くなれるように努力なさい！」
-> CONTEXT: Map041/events/56/pages/0/144/Dialogue
 > CONTEXT: Map041/events/5/pages/5/537/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1204/Dialogue
+> CONTEXT: Map041/events/56/pages/0/144/Dialogue
 Queen Luftina. 「This is a punishment. I reflect on my own
 disharmony, Effort to be stronger!」#MTLed
 > CONTEXT: Commonevents/242/179/Dialogue
@@ -1302,9 +1287,9 @@ Effort to be stronger!」#MTLed
 > BEGIN STRING
 \\N[12]
 「あっ、うううぅっ！」
-> CONTEXT: Map041/events/56/pages/0/160/Dialogue
 > CONTEXT: Map041/events/5/pages/5/553/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1220/Dialogue
+> CONTEXT: Map041/events/56/pages/0/160/Dialogue
 \\N[12]. 「Oh, anymore!」#MTLed
 > CONTEXT: Commonevents/242/195/Dialogue
 > CONTEXT: Commonevents/242/864/Dialogue
@@ -1316,8 +1301,8 @@ Effort to be stronger!」#MTLed
 （ううっ……い、痛みもキツいが、それよりも
 こんな美人に叱られて
 お仕置きされてるのが情けなさすぎるっ……！）
-> CONTEXT: Map041/events/56/pages/0/163/Dialogue
 > CONTEXT: Map041/events/5/pages/5/556/Dialogue
+> CONTEXT: Map041/events/56/pages/0/163/Dialogue
 \\N[12]. (Uugh......, pain is also hard, but more than
 that. Scolded by such a beauty. Punishment being too
 pitiable... )#MTLed
@@ -1330,9 +1315,9 @@ Punishment being too pitiable... )#MTLed
 > BEGIN STRING
 \\N[12]は泣きたいような気持ちになりながら、
 ひたすらルフティナのお尻ぺんぺんに耐える。
-> CONTEXT: Map041/events/56/pages/0/168/Dialogue
 > CONTEXT: Map041/events/5/pages/5/561/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1228/Dialogue
+> CONTEXT: Map041/events/56/pages/0/168/Dialogue
 \\N[12] While becoming a feeling of wanting to cry,
 I just endure Luftina's butt.#MTLed
 > CONTEXT: Commonevents/242/203/Dialogue
@@ -1345,9 +1330,9 @@ cry, I just endure Luftina's butt.#MTLed
 女王ルフティナ
 「どうですか？
 反省しましたか、\\N[12]？」
-> CONTEXT: Map041/events/56/pages/0/171/Dialogue
 > CONTEXT: Map041/events/5/pages/5/564/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1231/Dialogue
+> CONTEXT: Map041/events/56/pages/0/171/Dialogue
 Queen Luftina. 「how is it? Did you reflect? \\N[12]
 ?」#MTLed
 > CONTEXT: Commonevents/242/206/Dialogue
@@ -1360,9 +1345,9 @@ Queen Luftina. 「how is it? Did you reflect?
 \\N[12]
 「は、はいっ……女王陛下を辱めたこと、
 それに俺が弱すぎたこと、本当に申し訳ありませんっ」
-> CONTEXT: Map041/events/56/pages/0/175/Dialogue
 > CONTEXT: Map041/events/5/pages/5/568/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1235/Dialogue
+> CONTEXT: Map041/events/56/pages/0/175/Dialogue
 \\N[12]. 「Haa...... that he humiliated the Queen's
 Majesty, And I'm really sorry that I was too weak」#MTLed
 > CONTEXT: Commonevents/242/210/Dialogue
@@ -1376,9 +1361,9 @@ too weak」#MTLed
 \\N[12]
 「あうううぅっ！
 ど、どうしてっ……！」
-> CONTEXT: Map041/events/56/pages/0/184/Dialogue
 > CONTEXT: Map041/events/5/pages/5/577/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1244/Dialogue
+> CONTEXT: Map041/events/56/pages/0/184/Dialogue
 \\N[12]. 「Hey! Well, how come ...!」#MTLed
 > CONTEXT: Commonevents/242/219/Dialogue
 > CONTEXT: Commonevents/242/888/Dialogue
@@ -1390,8 +1375,8 @@ too weak」#MTLed
 「弱いことはもちろんですが……
 あのような邪悪な剣に頼った根性、
 それを反省してもらいたいものですね。
-> CONTEXT: Map041/events/56/pages/0/189/Dialogue
 > CONTEXT: Map041/events/5/pages/5/581/Dialogue
+> CONTEXT: Map041/events/56/pages/0/189/Dialogue
 Queen Luftina. 「Of course it is weak......
 The guts that relied on such an evil sword,
 I would like you to reflect on it.#MTLed
@@ -1406,8 +1391,8 @@ I would like you to reflect on it.#MTLed
 あの暗黒の力を秘めた剣が有効だと思ったのでしょう？
 確かに聖なる衣は破かれてしまいましたが、
 邪悪なる力でわたくしを倒せるとでも思ったのですか？」
-> CONTEXT: Map041/events/56/pages/0/194/Dialogue
 > CONTEXT: Map041/events/5/pages/5/586/Dialogue
+> CONTEXT: Map041/events/56/pages/0/194/Dialogue
 Okita, against the saint lady I. Did you think that a sword
 hiding the dark power was effective? Surely sacred clothes
 have been broken, Did you even think that you could defeat
@@ -1424,8 +1409,8 @@ me with evil power?」#MTLed
 \\N[12]
 「す、すみませんっ
 どうしても勝ちたくて……」
-> CONTEXT: Map041/events/56/pages/0/199/Dialogue
 > CONTEXT: Map041/events/5/pages/5/591/Dialogue
+> CONTEXT: Map041/events/56/pages/0/199/Dialogue
 \\N[12]. 「Sorry, I'm sorry. I just wanted to win......
 」#MTLed
 > CONTEXT: Commonevents/242/233/Dialogue
@@ -1437,8 +1422,8 @@ win......」#MTLed
 女王ルフティナ
 「悪の力は聖なる力の前に屈するということを、
 痛みとともに思い知りなさい！」
-> CONTEXT: Map041/events/56/pages/0/203/Dialogue
 > CONTEXT: Map041/events/5/pages/5/595/Dialogue
+> CONTEXT: Map041/events/56/pages/0/203/Dialogue
 Queen Luftina. 「That the power of evil will yield before
 the holy power, Know yourself with pain!」#MTLed
 > CONTEXT: Commonevents/242/237/Dialogue
@@ -1451,8 +1436,8 @@ pain!」#MTLed
 \\N[12]
 「ああああぁぁっ！
 す、すみませんっ、あんな剣を使ってしまってっ！」
-> CONTEXT: Map041/events/56/pages/0/212/Dialogue
 > CONTEXT: Map041/events/5/pages/5/604/Dialogue
+> CONTEXT: Map041/events/56/pages/0/212/Dialogue
 \\N[12]. 「Aaaahhh! Sorry, I used such a sword!」#MTLed
 > CONTEXT: Commonevents/242/246/Dialogue
 \\N[12]. 「Aaaahhh! Sorry, I used such a sword!
@@ -1464,9 +1449,9 @@ pain!」#MTLed
 「ふふ、ちょっといじめすぎてしまったかしら。
 いいでしょう、次で最後にしてあげます。
 わたくしの手で味わわされる痛みを、心に刻みつけなさい」
-> CONTEXT: Map041/events/56/pages/0/262/Dialogue
 > CONTEXT: Map041/events/5/pages/5/608/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1290/Dialogue
+> CONTEXT: Map041/events/56/pages/0/262/Dialogue
 Queen Luftina. 「Huhu, I wonder why I was too bullied.
 Well, I will do it last in the next. Pain the pain that I
 will taste with my hand, in my heart」#MTLed
@@ -1481,9 +1466,9 @@ my heart」#MTLed
 > BEGIN STRING
 女王ルフティナ
 「あら、まあ……」
-> CONTEXT: Map041/events/56/pages/0/278/Dialogue
 > CONTEXT: Map041/events/5/pages/5/624/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1306/Dialogue
+> CONTEXT: Map041/events/56/pages/0/278/Dialogue
 Queen Luftina. 「Oh well, well ....」#MTLed
 > CONTEXT: Commonevents/242/266/Dialogue
 > CONTEXT: Commonevents/242/950/Dialogue
@@ -1493,9 +1478,9 @@ Queen Luftina. 「Oh well, well ....」#MTLed
 > BEGIN STRING
 \\N[12]は腰をひくひくと震わせながら、
 射精の快楽と、そしてみっともなさに身を震わせる。
-> CONTEXT: Map041/events/56/pages/0/284/Dialogue
 > CONTEXT: Map041/events/5/pages/5/630/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1312/Dialogue
+> CONTEXT: Map041/events/56/pages/0/284/Dialogue
 \\N[12] While trembling the waist, Shake yourself with
 pleasure of ejaculation and unspoiled.#MTLed
 > CONTEXT: Commonevents/242/272/Dialogue
@@ -1522,27 +1507,11 @@ thought?」#MTLed
 > END STRING
 
 > BEGIN STRING
-\\N[12]
-「そ、それはっ……」
-> CONTEXT: Map041/events/56/pages/0/292/Dialogue
-> CONTEXT: Map147/events/2/pages/19/440/Dialogue
-> CONTEXT: Map041/events/5/pages/5/638/Dialogue
-> CONTEXT: Map041/events/5/pages/5/1320/Dialogue
-\\N[12]. 「Well, that is ....」#MTLed
-> CONTEXT: Commonevents/41/50/Dialogue
-> CONTEXT: Commonevents/45/14/Dialogue
-> CONTEXT: Commonevents/149/51/Dialogue
-> CONTEXT: Commonevents/242/280/Dialogue
-> CONTEXT: Commonevents/242/964/Dialogue
-\\N[12]. 「Well, that is ....」#MTLed
-> END STRING
-
-> BEGIN STRING
 ルフティナの太ももの柔らかみと温かさを
 ずっと味わわされ続け、\\N[12]は勃起していたのだ。
-> CONTEXT: Map041/events/56/pages/0/295/Dialogue
 > CONTEXT: Map041/events/5/pages/5/641/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1323/Dialogue
+> CONTEXT: Map041/events/56/pages/0/295/Dialogue
 Luftina's thigh's softness and warmth. It continues to be
 tasted, \\N[12] He was erecting.#MTLed
 > CONTEXT: Commonevents/242/283/Dialogue
@@ -1556,9 +1525,9 @@ erecting.#MTLed
 それに加え、ルフティナの繊細ですべすべとした手によって
 お尻ぺんぺんをされていた、その状況に
 \\N[12]は興奮するあまり、射精してしまったのだった。
-> CONTEXT: Map041/events/56/pages/0/298/Dialogue
 > CONTEXT: Map041/events/5/pages/5/644/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1326/Dialogue
+> CONTEXT: Map041/events/56/pages/0/298/Dialogue
 In addition, by Luftina's delicate hands
 His butt had been, in that situation. \\N[12] He was so
 excited that he had ejaculated.#MTLed
@@ -1575,9 +1544,9 @@ ejaculated.#MTLed
 「ふふっ、なんてみっともないお漏らし……
 この玉座を精液で汚してしまうだなんて、
 \\N[12]、あなたにはどうやら、追加でお尻ぺんぺんが必要ですね」
-> CONTEXT: Map041/events/56/pages/0/303/Dialogue
 > CONTEXT: Map041/events/5/pages/5/649/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1331/Dialogue
+> CONTEXT: Map041/events/56/pages/0/303/Dialogue
 Queen Luftina. 「Huh, what a nuisance leak......
 I waste this thrust with semen, \\N[12] Apparently, you
 need an ass in addition」#MTLed
@@ -1594,9 +1563,9 @@ addition」#MTLed
 「そ、そんなっ……
 も、申し訳ありません、女王陛下っ！
 あまりに陛下の膝が心地よすぎて、そのっ……！」
-> CONTEXT: Map041/events/56/pages/0/308/Dialogue
 > CONTEXT: Map041/events/5/pages/5/654/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1336/Dialogue
+> CONTEXT: Map041/events/56/pages/0/308/Dialogue
 \\N[12]. 「Well, that's...I am sorry, the Queen's
 Majesty! My Majesty 's knees are too comfortable...that!」#MTLed
 > CONTEXT: Commonevents/242/296/Dialogue
@@ -1611,13 +1580,13 @@ comfortable...that!」#MTLed
 「このルフティナに叱られている身でありながら、
 まさか性的に興奮していただなんて、
 浅ましいというほかはありませんものね」
-> CONTEXT: Map041/events/56/pages/0/313/Dialogue
 > CONTEXT: Map041/events/5/pages/5/659/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1341/Dialogue
-> CONTEXT: Commonevents/242/301/Dialogue
+> CONTEXT: Map041/events/56/pages/0/313/Dialogue
 Queen Luftina. 「Despite being scolded by this Luftina,
 I was totally excited about sexuality, There is nothing
 other than being shallow」#MTLed
+> CONTEXT: Commonevents/242/301/Dialogue
 > CONTEXT: Commonevents/242/985/Dialogue
 Queen Luftina. 「Despite being scolded by this
 Luftina, I was totally excited about sexuality,
@@ -1627,9 +1596,9 @@ There is nothing other than being shallow」#MTLed
 > BEGIN STRING
 \\N[12]
 「ひ、ひいっ……！」
-> CONTEXT: Map041/events/56/pages/0/318/Dialogue
 > CONTEXT: Map041/events/5/pages/5/664/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1346/Dialogue
+> CONTEXT: Map041/events/56/pages/0/318/Dialogue
 \\N[12]. 「Hello, hey!」#MTLed
 > CONTEXT: Commonevents/242/306/Dialogue
 > CONTEXT: Commonevents/242/990/Dialogue
@@ -1639,9 +1608,9 @@ There is nothing other than being shallow」#MTLed
 > BEGIN STRING
 その後、二十回ほどお尻を叩かれ、
 \\N[12]は痛みと情けなさに泣き出してしまった――
-> CONTEXT: Map041/events/56/pages/0/328/Dialogue
 > CONTEXT: Map041/events/5/pages/5/674/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1356/Dialogue
+> CONTEXT: Map041/events/56/pages/0/328/Dialogue
 After that, twenty times beaten the ass,
 \\N[12] He burst into tears with pain and pity -#MTLed
 > CONTEXT: Commonevents/242/316/Dialogue
@@ -1654,9 +1623,9 @@ After that, twenty times beaten the ass,
 > BEGIN STRING
 \\N[12]
 「ひぐっ、うっ、ううっ……」
-> CONTEXT: Map041/events/56/pages/0/333/Dialogue
 > CONTEXT: Map041/events/5/pages/5/679/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1361/Dialogue
+> CONTEXT: Map041/events/56/pages/0/333/Dialogue
 \\N[12]. 「Higu, uh, uugh......」#MTLed
 > CONTEXT: Commonevents/242/321/Dialogue
 > CONTEXT: Commonevents/242/1005/Dialogue
@@ -1667,9 +1636,9 @@ After that, twenty times beaten the ass,
 女王ルフティナ
 「あらあら、男の子が女にお尻を叩かれたぐらいで
 泣いていてはいけませんよ？
-> CONTEXT: Map041/events/56/pages/0/336/Dialogue
 > CONTEXT: Map041/events/5/pages/5/682/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1364/Dialogue
+> CONTEXT: Map041/events/56/pages/0/336/Dialogue
 Queen Luftina. 「oh no, the boy was the woman being beaten
 her ass. Do not cry?#MTLed
 > CONTEXT: Commonevents/242/324/Dialogue
@@ -1683,9 +1652,9 @@ being beaten her ass. Do not cry?#MTLed
 鍛えた男の子でも、こうやってお尻を叩かれると
 泣き叫んでしまうものなのですね。
 わたくしに男の子がいたら、こんな感じだったのかしら」
-> CONTEXT: Map041/events/56/pages/0/340/Dialogue
 > CONTEXT: Map041/events/5/pages/5/686/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1368/Dialogue
+> CONTEXT: Map041/events/56/pages/0/340/Dialogue
 Huhu, even so -. Even a tempered boy, like this when you
 hit the ass. It is what makes you cry. If I had a boy, I
 wonder if it was like this」#MTLed
@@ -1700,9 +1669,9 @@ If I had a boy, I wonder if it was like this」#MTLed
 \\N[12]
 「ううっ……ご、ごめんなさいいぃ……
 もう、許して、ください……」
-> CONTEXT: Map041/events/56/pages/0/345/Dialogue
 > CONTEXT: Map041/events/5/pages/5/691/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1373/Dialogue
+> CONTEXT: Map041/events/56/pages/0/345/Dialogue
 \\N[12]. 「uugh...... sorry,...Please forgive me,
 please.」#MTLed
 > CONTEXT: Commonevents/242/333/Dialogue
@@ -1716,9 +1685,9 @@ Please forgive me, please.」#MTLed
 「ふう、まあいいでしょう。
 このくらいやれば、さすがに反省したことでしょうし。
 \\N[12]、いいですね？　次はもっと頑張るのですよ」
-> CONTEXT: Map041/events/56/pages/0/349/Dialogue
 > CONTEXT: Map041/events/5/pages/5/695/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1377/Dialogue
+> CONTEXT: Map041/events/56/pages/0/349/Dialogue
 Queen Luftina. 「Well, it is okay. If I do this for a
 while, it will be a reflection indeed. \\N[12] ,Sounds
 good? Next time I will do my best」#MTLed
@@ -1731,25 +1700,12 @@ do my best」#MTLed
 > END STRING
 
 > BEGIN STRING
-\\N[12]
-「は、はいぃ……」
-> CONTEXT: Map041/events/56/pages/0/354/Dialogue
-> CONTEXT: Map041/events/5/pages/5/700/Dialogue
-> CONTEXT: Map041/events/5/pages/5/1382/Dialogue
-\\N[12]. 「Is not it ...?」#MTLed
-> CONTEXT: Map145/events/2/pages/1/93/Dialogue
-> CONTEXT: Commonevents/242/342/Dialogue
-> CONTEXT: Commonevents/242/1026/Dialogue
-\\N[12]. 「Is not it ...?」#MTLed
-> END STRING
-
-> BEGIN STRING
 こうして、\\N[12]は女王ルフティナに敗れ、
 お尻ぺんぺんというお仕置きまでされて
 城を叩き出されてしまうのだった……
-> CONTEXT: Map041/events/56/pages/0/358/Dialogue
 > CONTEXT: Map041/events/5/pages/5/704/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1386/Dialogue
+> CONTEXT: Map041/events/56/pages/0/358/Dialogue
 In this way, \\N[12] Loses to Queen Luftina,
 Being punished as an ass. I was beaten out of the castle
 ... ...#MTLed
@@ -1779,8 +1735,8 @@ thought」#MTLed
 > BEGIN STRING
 \\N[12]
 「ふ、不甲斐ないです……」
-> CONTEXT: Map041/events/56/pages/0/371/Dialogue
 > CONTEXT: Map041/events/5/pages/5/717/Dialogue
+> CONTEXT: Map041/events/56/pages/0/371/Dialogue
 \\N[12]. 「Well, it is not pretty ......」#MTLed
 > CONTEXT: Commonevents/242/359/Dialogue
 \\N[12]. 「Well, it is not pretty ......」#MTLed
@@ -1838,8 +1794,8 @@ for」#MTLed
 > BEGIN STRING
 \\N[12]
 「ご、ご褒美？」
-> CONTEXT: Map041/events/56/pages/0/391/Dialogue
 > CONTEXT: Map041/events/5/pages/5/737/Dialogue
+> CONTEXT: Map041/events/56/pages/0/391/Dialogue
 \\N[12]. 「Oh, reward?」#MTLed
 > CONTEXT: Commonevents/242/379/Dialogue
 \\N[12]. 「Oh, reward?」#MTLed
@@ -1863,8 +1819,8 @@ So to say sorry award. Welcome to come by my side」#MTLed
 > BEGIN STRING
 \\N[12]はルフティナに手招きされ、
 彼女のそばに歩み寄る。
-> CONTEXT: Map041/events/56/pages/0/399/Dialogue
 > CONTEXT: Map041/events/5/pages/5/745/Dialogue
+> CONTEXT: Map041/events/56/pages/0/399/Dialogue
 \\N[12] He was beckoned by Luftina, I walk up beside
 her.#MTLed
 > CONTEXT: Commonevents/242/387/Dialogue
@@ -1892,8 +1848,8 @@ I thought that I was attractive body」#MTLed
 \\N[12]
 「は、はあ……
 しかし、陛下、こんなことをしていいんでしょうか」
-> CONTEXT: Map041/events/56/pages/0/413/Dialogue
 > CONTEXT: Map041/events/5/pages/5/760/Dialogue
+> CONTEXT: Map041/events/56/pages/0/413/Dialogue
 \\N[12]. 「Haha...But may your Majesty do such a thing」#MTLed
 > CONTEXT: Commonevents/242/399/Dialogue
 \\N[12]. 「Haha...But may your Majesty do
@@ -1916,19 +1872,18 @@ Now, take off all your clothes」#MTLed
 > BEGIN STRING
 \\N[12]
 「はい」
-> CONTEXT: Map041/events/56/pages/0/421/Dialogue
 > CONTEXT: Map041/events/5/pages/5/768/Dialogue
-> CONTEXT: Commonevents/242/407/Dialogue
+> CONTEXT: Map041/events/56/pages/0/421/Dialogue
 \\N[12]. 「Yes」#MTLed
-> CONTEXT: None < UNUSED
+> CONTEXT: Commonevents/242/407/Dialogue
 \\N[12]. 「Yes」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]が全裸になると、
 ルフティナは彼を胸元に抱き寄せようとする。
-> CONTEXT: Map041/events/56/pages/0/424/Dialogue
 > CONTEXT: Map041/events/5/pages/5/771/Dialogue
+> CONTEXT: Map041/events/56/pages/0/424/Dialogue
 \\N[12] When becoming naked, Luftina tries to bring him
 to the chest.#MTLed
 > CONTEXT: Commonevents/242/410/Dialogue
@@ -1940,8 +1895,8 @@ bring him to the chest.#MTLed
 \\N[12]
 （ま、まさか……
 女王陛下に、そういうことをしてもらえるのか……？）
-> CONTEXT: Map041/events/56/pages/0/427/Dialogue
 > CONTEXT: Map041/events/5/pages/5/774/Dialogue
+> CONTEXT: Map041/events/56/pages/0/427/Dialogue
 \\N[12]. (Well, maybe ...... Can the Queen do such a
 thing ...? )#MTLed
 > CONTEXT: Commonevents/242/413/Dialogue
@@ -1952,8 +1907,8 @@ such a thing ...? )#MTLed
 > BEGIN STRING
 ルフティナの豊満で女性的なボディラインを目にして、
 \\N[12]は心臓を高鳴らせ、唾を飲み込む。
-> CONTEXT: Map041/events/56/pages/0/431/Dialogue
 > CONTEXT: Map041/events/5/pages/5/778/Dialogue
+> CONTEXT: Map041/events/56/pages/0/431/Dialogue
 Looking at Luftina's plump and feminine body line,
 \\N[12] He makes the heart runny and swallows spit.#MTLed
 > CONTEXT: Commonevents/242/417/Dialogue
@@ -1966,8 +1921,8 @@ swallows spit.#MTLed
 そんな彼の様子を見て取ってか、
 ルフティナは小さく笑みを浮かべ、
 力いっぱい、おっぱいに彼の頭を抱き寄せた！
-> CONTEXT: Map041/events/56/pages/0/434/Dialogue
 > CONTEXT: Map041/events/5/pages/5/781/Dialogue
+> CONTEXT: Map041/events/56/pages/0/434/Dialogue
 Having seen the state of him like that, Luftina has a small
 smile, Full of strength, embraced his head to the boobs!#MTLed
 > CONTEXT: Commonevents/242/420/Dialogue
@@ -1979,18 +1934,18 @@ embraced his head to the boobs!#MTLed
 > BEGIN STRING
 \\N[12]
 「むぐっ……！」
-> CONTEXT: Map041/events/56/pages/0/442/Dialogue
 > CONTEXT: Map041/events/5/pages/5/787/Dialogue
+> CONTEXT: Map041/events/56/pages/0/442/Dialogue
 \\N[12]. 「Pigeon ......!」#MTLed
 > CONTEXT: Commonevents/153/30/Dialogue
 > CONTEXT: Commonevents/200/73/Dialogue
 > CONTEXT: Commonevents/200/137/Dialogue
 > CONTEXT: Commonevents/205/81/Dialogue
 > CONTEXT: Commonevents/205/144/Dialogue
-> CONTEXT: Commonevents/248/93/Dialogue
-> CONTEXT: Commonevents/248/157/Dialogue
 > CONTEXT: Commonevents/228/163/Dialogue
 > CONTEXT: Commonevents/242/426/Dialogue
+> CONTEXT: Commonevents/248/93/Dialogue
+> CONTEXT: Commonevents/248/157/Dialogue
 \\N[12]. 「Pigeon ......!」#MTLed
 > END STRING
 
@@ -1999,8 +1954,8 @@ embraced his head to the boobs!#MTLed
 「たっぷり可愛がってあげますからね、\\N[12]。
 ふふ、男の子とこんなことをするの、
 いつ以来かしら……」
-> CONTEXT: Map041/events/56/pages/0/445/Dialogue
 > CONTEXT: Map041/events/5/pages/5/790/Dialogue
+> CONTEXT: Map041/events/56/pages/0/445/Dialogue
 Queen Luftina. 「I will give you plenty of love, \\N[12]
 . Huhu, doing something like this with a boy,
 Since when...I wonder ...」#MTLed
@@ -2015,8 +1970,8 @@ a boy, Since when...I wonder ...」#MTLed
 （ううっ……
 女王陛下に抱きしめられているだなんて、
 こんなこと想像もしたこともなかった……
-> CONTEXT: Map041/events/56/pages/0/450/Dialogue
 > CONTEXT: Map041/events/5/pages/5/795/Dialogue
+> CONTEXT: Map041/events/56/pages/0/450/Dialogue
 \\N[12]. (Uugh...... To be hugged by His Majesty
 Queen, I had never imagined such a thing ......#MTLed
 > CONTEXT: Commonevents/242/434/Dialogue
@@ -2030,8 +1985,8 @@ Majesty Queen, I had never imagined such a thing
 陛下の体、なんて柔らかくて包容力に満ちているんだ。
 こんなに抱き心地のいい体があるなんて、
 信じられないくらいだ）
-> CONTEXT: Map041/events/56/pages/0/455/Dialogue
 > CONTEXT: Map041/events/5/pages/5/800/Dialogue
+> CONTEXT: Map041/events/56/pages/0/455/Dialogue
 However, How empty your body is, how soft it is.
 To have such a body that makes you feel so comfortable,
 I can not believe it)#MTLed
@@ -2044,8 +1999,8 @@ comfortable, I can not believe it)#MTLed
 > BEGIN STRING
 あまりの心地よさに、
 \\N[12]の体から力が抜けてゆく。
-> CONTEXT: Map041/events/56/pages/0/460/Dialogue
 > CONTEXT: Map041/events/5/pages/5/805/Dialogue
+> CONTEXT: Map041/events/56/pages/0/460/Dialogue
 To much comfort, \\N[12] The power comes out of my body.#MTLed
 > CONTEXT: Commonevents/242/444/Dialogue
 To much comfort, \\N[12] The power comes out
@@ -2056,8 +2011,8 @@ of my body.#MTLed
 女王ルフティナ
 「\\N[12]、あなたは好きにしてよろしいですからね。
 例えば、おっぱいを自由に弄っても構いませんから」
-> CONTEXT: Map041/events/56/pages/0/463/Dialogue
 > CONTEXT: Map041/events/5/pages/5/808/Dialogue
+> CONTEXT: Map041/events/56/pages/0/463/Dialogue
 Queen Luftina. 「\\N[12] You may want to like it.
 For example, you can finger your breasts freely」#MTLed
 > CONTEXT: Commonevents/242/447/Dialogue
@@ -2069,8 +2024,8 @@ freely」#MTLed
 > BEGIN STRING
 \\N[12]
 （え……）
-> CONTEXT: Map041/events/56/pages/0/467/Dialogue
 > CONTEXT: Map041/events/5/pages/5/812/Dialogue
+> CONTEXT: Map041/events/56/pages/0/467/Dialogue
 \\N[12]. (Huh……)#MTLed
 > CONTEXT: Commonevents/242/451/Dialogue
 \\N[12]. (Huh……)#MTLed
@@ -2078,8 +2033,8 @@ freely」#MTLed
 
 > BEGIN STRING
 \\N[12]は心臓が跳ね上がるのを自覚する。
-> CONTEXT: Map041/events/56/pages/0/470/Dialogue
 > CONTEXT: Map041/events/5/pages/5/815/Dialogue
+> CONTEXT: Map041/events/56/pages/0/470/Dialogue
 \\N[12] He is aware that the heart jumps.#MTLed
 > CONTEXT: Commonevents/242/454/Dialogue
 \\N[12] He is aware that the heart jumps.#MTLed
@@ -2090,8 +2045,8 @@ freely」#MTLed
 （こ、この大きなおっぱいを自由にしていいのか……
 この、柔らかくて、吸い込まれそうな感触のおっぱいを）
 若い女のものとは違う、皮膚に吸い付いてくるような
-> CONTEXT: Map041/events/56/pages/0/472/Dialogue
 > CONTEXT: Map041/events/5/pages/5/817/Dialogue
+> CONTEXT: Map041/events/56/pages/0/472/Dialogue
 \\N[12]. (Well, may I free this big boob.......
 This soft, tits feels like to be inhaled)
 It is different from that of a young woman, it is like
@@ -2107,8 +2062,8 @@ like sucking on the skin#MTLed
 柔らかな胸。
 吸い込まれそうな抱き心地は、
 この胸の感触のおかげでもあっただろう。
-> CONTEXT: Map041/events/56/pages/0/477/Dialogue
 > CONTEXT: Map041/events/5/pages/5/822/Dialogue
+> CONTEXT: Map041/events/56/pages/0/477/Dialogue
 Soft chest. Embracing comfort that is likely to be sucked
 in, It was also thanks to this chest feel.#MTLed
 > CONTEXT: Commonevents/242/461/Dialogue
@@ -2120,8 +2075,8 @@ feel.#MTLed
 > BEGIN STRING
 \\N[12]
 （そ、それならっ）
-> CONTEXT: Map041/events/56/pages/0/481/Dialogue
 > CONTEXT: Map041/events/5/pages/5/826/Dialogue
+> CONTEXT: Map041/events/56/pages/0/481/Dialogue
 \\N[12]. (That's it!#MTLed
 > CONTEXT: Commonevents/242/465/Dialogue
 \\N[12]. (That's it!#MTLed
@@ -2130,8 +2085,8 @@ feel.#MTLed
 > BEGIN STRING
 \\N[12]はルフティナのおっぱいを舐めたり、
 顔を押し付けて感触を楽しもうとし始める。
-> CONTEXT: Map041/events/56/pages/0/484/Dialogue
 > CONTEXT: Map041/events/5/pages/5/829/Dialogue
+> CONTEXT: Map041/events/56/pages/0/484/Dialogue
 \\N[12] Licking the boobs of Luftina, Start pressing on
 the face to enjoy the feel.#MTLed
 > CONTEXT: Commonevents/242/468/Dialogue
@@ -2143,8 +2098,8 @@ Start pressing on the face to enjoy the feel.#MTLed
 女王ルフティナ
 「きゃっ、もう、
 おっぱいをぺろぺろするなんて、甘えん坊なのね」
-> CONTEXT: Map041/events/56/pages/0/487/Dialogue
 > CONTEXT: Map041/events/5/pages/5/832/Dialogue
+> CONTEXT: Map041/events/56/pages/0/487/Dialogue
 Queen Luftina. 「kyaa, already, It's amazing how to do
 breasts」#MTLed
 > CONTEXT: Commonevents/242/471/Dialogue
@@ -2157,8 +2112,8 @@ It's amazing how to do breasts」#MTLed
 （ううっ、舌が埋まるような柔らかな質感の
 なめらかな肌だ……
 とても大きな娘がいるとは思えない、最高の体だっ……！）
-> CONTEXT: Map041/events/56/pages/0/491/Dialogue
 > CONTEXT: Map041/events/5/pages/5/836/Dialogue
+> CONTEXT: Map041/events/56/pages/0/491/Dialogue
 \\N[12]. (OHh, soft texture that fills the tongue
 It's a smooth skin ...... I do not think that there is a
 very big girl, it is the best body ...! )#MTLed
@@ -2173,20 +2128,20 @@ is the best body ...! )#MTLed
 女王ルフティナ
 「さあ、それじゃ繋がりましょうか。
 若い男の子のおちんちん、ちょっと楽しみだったのよね♪」
-> CONTEXT: Map041/events/56/pages/0/496/Dialogue
 > CONTEXT: Map041/events/5/pages/5/841/Dialogue
+> CONTEXT: Map041/events/56/pages/0/496/Dialogue
 Queen Luftina. 「Now, let's get connected.
-It was a little fun for a young boy♪」#MTLed
+The young boy's sister, it was a little fun♪」#MTLed
 > CONTEXT: Commonevents/242/480/Dialogue
 Queen Luftina. 「Now, let's get connected.
-It was a little fun for a young boy♪」#MTLed
+The young boy's sister, it was a little fun♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 そして、ルフティナは\\N[12]をさらに強く抱き寄せ、
 自らの膣に\\N[12]のペニスを挿入させる！
-> CONTEXT: Map041/events/56/pages/0/500/Dialogue
 > CONTEXT: Map041/events/5/pages/5/845/Dialogue
+> CONTEXT: Map041/events/56/pages/0/500/Dialogue
 And Luftina \\N[12] Hold more strongly, In their vagina
 \\N[12] Let's insert penis!#MTLed
 > CONTEXT: Commonevents/242/484/Dialogue
@@ -2196,19 +2151,19 @@ In their vagina \\N[12] Let's insert penis!#MTLed
 
 > BEGIN STRING
 ずちゅうううぅっ！
-> CONTEXT: Map041/events/56/pages/0/504/Dialogue
 > CONTEXT: Map041/events/5/pages/5/851/Dialogue
-> CONTEXT: Commonevents/306/220/Dialogue
+> CONTEXT: Map041/events/56/pages/0/504/Dialogue
 A crowd!#MTLed
 > CONTEXT: Commonevents/242/490/Dialogue
+> CONTEXT: Commonevents/306/220/Dialogue
 A crowd!#MTLed
 > END STRING
 
 > BEGIN STRING
 柔らかに包み込んでくるような膣肉の感触に、
 \\N[12]は体を震わせる。
-> CONTEXT: Map041/events/56/pages/0/510/Dialogue
 > CONTEXT: Map041/events/5/pages/5/856/Dialogue
+> CONTEXT: Map041/events/56/pages/0/510/Dialogue
 To the touch of the vagina meat that wraps softly,
 \\N[12] He trembles the body.#MTLed
 > CONTEXT: Commonevents/242/495/Dialogue
@@ -2221,8 +2176,8 @@ softly, \\N[12] He trembles the body.#MTLed
 （あ、温かいっ……
 な、なんて心地のいい膣なんだ、
 チンコがとろけてしまいそうだっ……！）
-> CONTEXT: Map041/events/56/pages/0/513/Dialogue
 > CONTEXT: Map041/events/5/pages/5/859/Dialogue
+> CONTEXT: Map041/events/56/pages/0/513/Dialogue
 \\N[12]. (Oh, it's warm ...... What a comfortable
 vagina, Dick seems to melt.......! )#MTLed
 > CONTEXT: Commonevents/242/498/Dialogue
@@ -2236,12 +2191,11 @@ What a comfortable vagina, Dick seems to melt ...
 「あらあら、可愛い喘ぎ声……
 いいんですよ、いつ絶頂してしまっても。
 わたくしはすべて受け止めてあげますからね」
-> CONTEXT: Map041/events/56/pages/0/518/Dialogue
 > CONTEXT: Map041/events/5/pages/5/864/Dialogue
-> CONTEXT: Commonevents/242/503/Dialogue
+> CONTEXT: Map041/events/56/pages/0/518/Dialogue
 Queen Luftina. 「oh no, pretty pant voice ......
 It does not matter, when it cums. I will take it all」#MTLed
-> CONTEXT: None < UNUSED
+> CONTEXT: Commonevents/242/503/Dialogue
 Queen Luftina. 「oh no, pretty pant voice ......
 It does not matter, when it cums.
 I will take it all」#MTLed
@@ -2251,8 +2205,8 @@ I will take it all」#MTLed
 女王ルフティナ
 「では、せっかくセックスをしているのですから、
 気持ちよくなれるようにしましょうか」
-> CONTEXT: Map041/events/56/pages/0/526/Dialogue
 > CONTEXT: Map041/events/5/pages/5/872/Dialogue
+> CONTEXT: Map041/events/56/pages/0/526/Dialogue
 Queen Luftina. 「So, since you have sex with great care,
 Shall I try to be comfortable」#MTLed
 > CONTEXT: Commonevents/242/511/Dialogue
@@ -2262,8 +2216,8 @@ great care, Shall I try to be comfortable」#MTLed
 
 > BEGIN STRING
 ずちゅっ、ずっ、ずちゅうっ……
-> CONTEXT: Map041/events/56/pages/0/531/Dialogue
 > CONTEXT: Map041/events/5/pages/5/877/Dialogue
+> CONTEXT: Map041/events/56/pages/0/531/Dialogue
 After a while, coughing ......#MTLed
 > CONTEXT: Commonevents/242/516/Dialogue
 After a while, coughing ......#MTLed
@@ -2273,8 +2227,8 @@ After a while, coughing ......#MTLed
 \\N[12]
 「う、うあっ……！
 へ、陛下っ、今そんなに動かれたら……」
-> CONTEXT: Map041/events/56/pages/0/533/Dialogue
 > CONTEXT: Map041/events/5/pages/5/879/Dialogue
+> CONTEXT: Map041/events/56/pages/0/533/Dialogue
 \\N[12]. 「Well, ooooo ...! To Her Majesty, now if it
 moves so much ......」#MTLed
 > CONTEXT: Commonevents/242/518/Dialogue
@@ -2287,8 +2241,8 @@ now if it moves so much ......」#MTLed
 「今は名前で呼んで欲しいわ。
 男と女が愛し合っているのだから、
 こういうときぐらいはね」
-> CONTEXT: Map041/events/56/pages/0/537/Dialogue
 > CONTEXT: Map041/events/5/pages/5/883/Dialogue
+> CONTEXT: Map041/events/56/pages/0/537/Dialogue
 Queen Luftina. 「I want you to call it by name now.
 Because a man and a woman are in love, About this time
 around」#MTLed
@@ -2301,8 +2255,8 @@ About this time around」#MTLed
 > BEGIN STRING
 \\N[12]
 「う……ルフティナ、さん……」
-> CONTEXT: Map041/events/56/pages/0/542/Dialogue
 > CONTEXT: Map041/events/5/pages/5/888/Dialogue
+> CONTEXT: Map041/events/56/pages/0/542/Dialogue
 \\N[12]. 「Luftina, san.......」#MTLed
 > CONTEXT: Commonevents/242/527/Dialogue
 \\N[12]. 「Luftina, san.......」#MTLed
@@ -2313,19 +2267,19 @@ About this time around」#MTLed
 「ふふ、まあいいでしょう。
 それじゃ、若いおちんちんを
 たっぷり味わわせていただきますね」
-> CONTEXT: Map041/events/56/pages/0/545/Dialogue
 > CONTEXT: Map041/events/5/pages/5/891/Dialogue
-Queen Luftina. 「Huhu, it is okay. Well then, young one
+> CONTEXT: Map041/events/56/pages/0/545/Dialogue
+Queen Luftina. 「Huhu, it is okay. Then, a young lady
 I will taste plenty」#MTLed
 > CONTEXT: Commonevents/242/530/Dialogue
 Queen Luftina. 「Huhu, it is okay.
-Well then, young one. I will taste plenty」#MTLed
+Then, a young lady. I will taste plenty」#MTLed
 > END STRING
 
 > BEGIN STRING
 ぐちゅっ、ぐにっ、にゅるっ……
-> CONTEXT: Map041/events/56/pages/0/550/Dialogue
 > CONTEXT: Map041/events/5/pages/5/896/Dialogue
+> CONTEXT: Map041/events/56/pages/0/550/Dialogue
 Gouchut, * rub *, ...#MTLed
 > CONTEXT: Commonevents/242/535/Dialogue
 Gouchut, * rub *, ...#MTLed
@@ -2335,8 +2289,8 @@ Gouchut, * rub *, ...#MTLed
 \\N[12]
 （う、ううっ、温かいものがチンコを包み込んで
 優しく撫でてきているみたいだっ……）
-> CONTEXT: Map041/events/56/pages/0/552/Dialogue
 > CONTEXT: Map041/events/5/pages/5/898/Dialogue
+> CONTEXT: Map041/events/56/pages/0/552/Dialogue
 \\N[12]. (Oh, OHh, warm things enveloping dicks
 It looks like I gently stroked......)#MTLed
 > CONTEXT: Commonevents/242/537/Dialogue
@@ -2348,8 +2302,8 @@ dicks. It looks like I gently stroked......)#MTLed
 \\N[12]
 「あ、こ、心地よすぎるっ……
 で、出ちまううぅっ……！」
-> CONTEXT: Map041/events/56/pages/0/556/Dialogue
 > CONTEXT: Map041/events/5/pages/5/902/Dialogue
+> CONTEXT: Map041/events/56/pages/0/556/Dialogue
 \\N[12]. 「Oh, this is too comfortable ......
 So, let 's get out ...!」#MTLed
 > CONTEXT: Commonevents/242/541/Dialogue
@@ -2360,14 +2314,14 @@ So, let 's get out ...!」#MTLed
 > BEGIN STRING
 \\N[12]
 「あ、あああぁぁぁ……！」
-> CONTEXT: Map041/events/56/pages/0/564/Dialogue
 > CONTEXT: Map041/events/5/pages/5/910/Dialogue
+> CONTEXT: Map041/events/56/pages/0/564/Dialogue
 \\N[12]. 「Oh, Aaahhh......!」#MTLed
 > CONTEXT: Commonevents/153/190/Dialogue
 > CONTEXT: Commonevents/183/182/Dialogue
-> CONTEXT: Commonevents/243/192/Dialogue
 > CONTEXT: Commonevents/228/323/Dialogue
 > CONTEXT: Commonevents/242/549/Dialogue
+> CONTEXT: Commonevents/243/192/Dialogue
 \\N[12]. 「Oh, Aaahhh......!」#MTLed
 > END STRING
 
@@ -2375,8 +2329,8 @@ So, let 's get out ...!」#MTLed
 女王ルフティナ
 「あんっ、熱いっ……♪
 さすが、若い子の精液は元気ですね」
-> CONTEXT: Map041/events/56/pages/0/568/Dialogue
 > CONTEXT: Map041/events/5/pages/5/914/Dialogue
+> CONTEXT: Map041/events/56/pages/0/568/Dialogue
 Queen Luftina. 「An, it's hot ......♪. As expected, semen
 of a young child is fine」#MTLed
 > CONTEXT: Commonevents/242/553/Dialogue
@@ -2387,8 +2341,8 @@ As expected, semen of a young child is fine」#MTLed
 > BEGIN STRING
 \\N[12]はルフティナのおっぱいに顔をうずめながら、
 温かな膣内に射精した心地よさに体を震わせる。
-> CONTEXT: Map041/events/56/pages/0/572/Dialogue
 > CONTEXT: Map041/events/5/pages/5/918/Dialogue
+> CONTEXT: Map041/events/56/pages/0/572/Dialogue
 \\N[12] While looking down on the boobs of Luftina,
 Shake your body in a warm vaginal cum shot.#MTLed
 > CONTEXT: Commonevents/242/557/Dialogue
@@ -2402,8 +2356,8 @@ shot.#MTLed
 （や、やばい、女王様、とんでもない名器だ……
 おっぱいも、甘い匂いがして気持ちいいし
 頭がぼうっとしてくる……）
-> CONTEXT: Map041/events/56/pages/0/575/Dialogue
 > CONTEXT: Map041/events/5/pages/5/921/Dialogue
+> CONTEXT: Map041/events/56/pages/0/575/Dialogue
 \\N[12]. (And, casualty, Queen, it is a ridiculous
 masterpiece ...... Breasts also feels sweet and smells good
 My head gets furious......)#MTLed
@@ -2418,8 +2372,8 @@ sweet and smells good. My head gets furious ...
 \\N[12]の意識はあっという間に心地よさに染まり、
 ルフティナへの挑戦的な感情が
 加速度的に薄れてゆく――
-> CONTEXT: Map041/events/56/pages/0/580/Dialogue
 > CONTEXT: Map041/events/5/pages/5/926/Dialogue
+> CONTEXT: Map041/events/56/pages/0/580/Dialogue
 \\N[12] The consciousness of the dyed dyed comfortably
 in no time, The challenging feelings to Luftina
 Acceleration fade away -#MTLed
@@ -2433,19 +2387,19 @@ to Luftina. Acceleration fade away -#MTLed
 女王ルフティナ
 「\\N[12]のおちんちん、熱くてドキドキしちゃいます。
 もっともっと、感触を味わわせてくださいな」
-> CONTEXT: Map041/events/56/pages/0/585/Dialogue
 > CONTEXT: Map041/events/5/pages/5/931/Dialogue
-Queen Luftina. 「\\N[12] Well, it will be hot.
+> CONTEXT: Map041/events/56/pages/0/585/Dialogue
+Queen Luftina. 「\\N[12] I will keep you hot.
 Please, let me taste the feeling」#MTLed
 > CONTEXT: Commonevents/242/570/Dialogue
-Queen Luftina. 「\\N[12] Well, it will be hot.
+Queen Luftina. 「\\N[12] I will keep you hot.
 Please, let me taste the feeling」#MTLed
 > END STRING
 
 > BEGIN STRING
 ずっ、ずっ、ずちゅっ、ずぷっ……！
-> CONTEXT: Map041/events/56/pages/0/590/Dialogue
 > CONTEXT: Map041/events/5/pages/5/936/Dialogue
+> CONTEXT: Map041/events/56/pages/0/590/Dialogue
 Huh, always, after a while......!#MTLed
 > CONTEXT: Commonevents/242/575/Dialogue
 Huh, always, after a while......!#MTLed
@@ -2455,8 +2409,8 @@ Huh, always, after a while......!#MTLed
 \\N[12]
 「うあっ、あああっ！
 る、ルフティナさまっ、き、気持ちいですっ！」
-> CONTEXT: Map041/events/56/pages/0/592/Dialogue
 > CONTEXT: Map041/events/5/pages/5/938/Dialogue
+> CONTEXT: Map041/events/56/pages/0/592/Dialogue
 \\N[12]. 「Well, AHHh! Luftina-sama っ ぱ, 」#MTLed
 > CONTEXT: Commonevents/242/577/Dialogue
 \\N[12]. 「Well, AHHh! Luftina-sama っ ぱ, ___
@@ -2468,8 +2422,8 @@ Huh, always, after a while......!#MTLed
 「そう、よかった。
 あまり年上の女相手だと、ドキドキできないかなって
 心配でしたけれど、すごく興奮してくれているのね」
-> CONTEXT: Map041/events/56/pages/0/596/Dialogue
 > CONTEXT: Map041/events/5/pages/5/942/Dialogue
+> CONTEXT: Map041/events/56/pages/0/596/Dialogue
 Queen Luftina. 「That's right. If you are a very older
 woman, you can not do it. I was worried, but I was excited
 very much」#MTLed
@@ -2484,8 +2438,8 @@ I was worried, but I was excited very much」#MTLed
 （こ、こんなっ、どこを触っても柔らかくて
 包み込まれるような感触の体、
 興奮しないわけがないっ……！）
-> CONTEXT: Map041/events/56/pages/0/601/Dialogue
 > CONTEXT: Map041/events/5/pages/5/947/Dialogue
+> CONTEXT: Map041/events/56/pages/0/601/Dialogue
 \\N[12]. (Here, even if you touch anywhere, it is soft
 A body of feeling like being wrapped, There is no way I can
 get excited ...! )#MTLed
@@ -2500,13 +2454,13 @@ There is no way I can get excited ...! )#MTLed
 「んっ、あんっ……
 おちんちんが奥まで届いて、きゅんきゅんしちゃうわ……
 あっ、ああんっ！」
-> CONTEXT: Map041/events/56/pages/0/606/Dialogue
 > CONTEXT: Map041/events/5/pages/5/952/Dialogue
-Queen Luftina. 「Huh, Ann ...... I'm reached deep, I will
-do...... Oh, oh!」#MTLed
+> CONTEXT: Map041/events/56/pages/0/606/Dialogue
+Queen Luftina. 「Huh, Ann ...... The penis arrives all the
+way, I will do...... Oh, oh!」#MTLed
 > CONTEXT: Commonevents/242/591/Dialogue
 Queen Luftina. 「Huh, Ann ......
-I'm reached deep, I will do......
+The penis arrives all the way, I will do......
 Oh, oh!」#MTLed
 > END STRING
 
@@ -2514,8 +2468,8 @@ Oh, oh!」#MTLed
 \\N[12]
 「うあっ、あっ、ルフティナさまあっ！
 お、俺、もう……あ、あああぁっ！」
-> CONTEXT: Map041/events/56/pages/0/611/Dialogue
 > CONTEXT: Map041/events/5/pages/5/957/Dialogue
+> CONTEXT: Map041/events/56/pages/0/611/Dialogue
 \\N[12]. 「Oh, there, Luftina-sama! O me, already ...
 .... あ, Aaahh!」#MTLed
 > CONTEXT: Commonevents/242/596/Dialogue
@@ -2528,8 +2482,8 @@ O me, already....... あ, Aaahh!」#MTLed
 「あらあら、ちょっと早すぎるわね。
 でも、気持ちよくなってくれて嬉しいわ。
 好きなだけわたくしの中に出してくれていいんですからね」
-> CONTEXT: Map041/events/56/pages/0/619/Dialogue
 > CONTEXT: Map041/events/5/pages/5/965/Dialogue
+> CONTEXT: Map041/events/56/pages/0/619/Dialogue
 Queen Luftina. 「oh no, it's a bit too early.
 But I'm happy that it makes me feel comfortable.
 You can put it in my inside as much as you want」#MTLed
@@ -2543,8 +2497,8 @@ You can put it in my inside as much as you want」#MTLed
 \\N[12]が絶頂したのにも構わず、
 ルフティナは腰を動かし続け、
 \\N[12]のペニスを刺激してくる……
-> CONTEXT: Map041/events/56/pages/0/624/Dialogue
 > CONTEXT: Map041/events/5/pages/5/970/Dialogue
+> CONTEXT: Map041/events/56/pages/0/624/Dialogue
 \\N[12] It does not matter regardless of the fact that
 it culminated, Luftina keeps his hips moving,
 \\N[12] It stimulates the penis of......#MTLed
@@ -2559,8 +2513,8 @@ moving, \\N[12] It stimulates the penis of ...
 \\N[12]
 「あ、あああっ！
 ルフティナさま、ルフティナさまあああぁっ！」
-> CONTEXT: Map041/events/56/pages/0/629/Dialogue
 > CONTEXT: Map041/events/5/pages/5/975/Dialogue
+> CONTEXT: Map041/events/56/pages/0/629/Dialogue
 \\N[12]. 「Oh, AHHh! Luftina-sama, Luftina-sama Aaahh!」#MTLed
 > CONTEXT: Commonevents/242/614/Dialogue
 \\N[12]. 「Oh, AHHh! Luftina-sama,
@@ -2571,8 +2525,8 @@ Luftina-sama Aaahh!」#MTLed
 女王ルフティナ
 「うふふっ、夢中でしがみついてきちゃって、
 甘えん坊さんね、\\N[12]ったら。
-> CONTEXT: Map041/events/56/pages/0/633/Dialogue
 > CONTEXT: Map041/events/5/pages/5/979/Dialogue
+> CONTEXT: Map041/events/56/pages/0/633/Dialogue
 Queen Luftina. 「Uhhuhuu, clinging on crazy,
 You are kind of a sweetie, \\N[12] Once.#MTLed
 > CONTEXT: Commonevents/242/618/Dialogue
@@ -2583,8 +2537,8 @@ You are kind of a sweetie, \\N[12] Once.#MTLed
 > BEGIN STRING
 さあ、そろそろわたくしもイっちゃいそうですし、
 一緒に気持ちよくなりましょう……♪」
-> CONTEXT: Map041/events/56/pages/0/637/Dialogue
 > CONTEXT: Map041/events/5/pages/5/983/Dialogue
+> CONTEXT: Map041/events/56/pages/0/637/Dialogue
 Well, it is almost time for me to watch it,
 Let's feel better together ......♪」#MTLed
 > CONTEXT: Commonevents/242/622/Dialogue
@@ -2595,8 +2549,8 @@ Let's feel better together ......♪」#MTLed
 > BEGIN STRING
 そして、ルフティナは\\N[12]を強く抱きしめたまま
 さらに腰の動きを速めてゆく――！
-> CONTEXT: Map041/events/56/pages/0/640/Dialogue
 > CONTEXT: Map041/events/5/pages/5/986/Dialogue
+> CONTEXT: Map041/events/56/pages/0/640/Dialogue
 And Luftina \\N[12] Hold me tightly. We will further
 accelerate the movement of the waist -!#MTLed
 > CONTEXT: Commonevents/242/625/Dialogue
@@ -2610,8 +2564,8 @@ waist -!#MTLed
 「うあっ、あっ、ルフティナさまの奥、
 すごく締めつけてきて……
 も、もう、もたないっ……！」
-> CONTEXT: Map041/events/56/pages/0/643/Dialogue
 > CONTEXT: Map041/events/5/pages/5/989/Dialogue
+> CONTEXT: Map041/events/56/pages/0/643/Dialogue
 \\N[12]. 「Oh, there, in the back of Luftina-sama,
 Tighten it so tight ...... I can not hold it anymore
 ......!」#MTLed
@@ -2626,8 +2580,8 @@ I can not hold it anymore ......!」#MTLed
 「遠慮なくイきなさい、\\N[12]っ。
 わたくしも、あなたの熱いもので
 絶頂しちゃいそう……！」
-> CONTEXT: Map041/events/56/pages/0/648/Dialogue
 > CONTEXT: Map041/events/5/pages/5/994/Dialogue
+> CONTEXT: Map041/events/56/pages/0/648/Dialogue
 Queen Luftina. 「Please do not hesitate, \\N[12] Huh.
 I, too, in your hot things. It seems to get caught ...
 ....!」#MTLed
@@ -2640,8 +2594,8 @@ It seems to get caught.......!」#MTLed
 > BEGIN STRING
 \\N[12]
 「うあっ、出るうううぅっ！」
-> CONTEXT: Map041/events/56/pages/0/653/Dialogue
 > CONTEXT: Map041/events/5/pages/5/999/Dialogue
+> CONTEXT: Map041/events/56/pages/0/653/Dialogue
 \\N[12]. 「Wow, it will come out!」#MTLed
 > CONTEXT: Commonevents/242/638/Dialogue
 \\N[12]. 「Wow, it will come out!」#MTLed
@@ -2650,8 +2604,8 @@ It seems to get caught.......!」#MTLed
 > BEGIN STRING
 女王ルフティナ
 「んっ……あ、ああんっ……！」
-> CONTEXT: Map041/events/56/pages/0/661/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1007/Dialogue
+> CONTEXT: Map041/events/56/pages/0/661/Dialogue
 Queen Luftina. 「Hmm...Oh, oh...oh!」#MTLed
 > CONTEXT: Commonevents/242/646/Dialogue
 Queen Luftina. 「Hmm...Oh, oh...oh!」#MTLed
@@ -2661,8 +2615,8 @@ Queen Luftina. 「Hmm...Oh, oh...oh!」#MTLed
 ルフティナが嬌声を上げて体を震わせる。
 彼女の絶頂の震えが伝わってきたことで、
 \\N[12]は大きなドキドキを味わっていた。
-> CONTEXT: Map041/events/56/pages/0/664/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1010/Dialogue
+> CONTEXT: Map041/events/56/pages/0/664/Dialogue
 Luftina shivers his body shaking his voice.
 As the tremor of her cum is being conveyed,
 \\N[12] He was tasting great.#MTLed
@@ -2677,8 +2631,8 @@ As the tremor of her cum is being conveyed,
 （あ、あぁ……
 ルフティナさまが、
 俺とのセックスで絶頂してる……）
-> CONTEXT: Map041/events/56/pages/0/668/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1014/Dialogue
+> CONTEXT: Map041/events/56/pages/0/668/Dialogue
 \\N[12]. (Oh, ah....... Luftina-sama, I caught up with
 sex with me ......)#MTLed
 > CONTEXT: Commonevents/242/653/Dialogue
@@ -2691,8 +2645,8 @@ I caught up with sex with me ......)#MTLed
 「ふふ……\\N[12]ったらすっかり脱力しちゃって。
 おっぱいも大好きみたいだし、
 本当に甘えん坊なのね」
-> CONTEXT: Map041/events/56/pages/0/674/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1020/Dialogue
+> CONTEXT: Map041/events/56/pages/0/674/Dialogue
 Queen Luftina. 「Whatching \\N[12] Once I got weakness.
 I also like boobs, You are truly amazing」#MTLed
 > CONTEXT: Commonevents/242/659/Dialogue
@@ -2706,8 +2660,8 @@ amazing」#MTLed
 「そ、それは……
 ルフティナさまとのセックスが、
 あまりに心地よくて……」
-> CONTEXT: Map041/events/56/pages/0/679/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1025/Dialogue
+> CONTEXT: Map041/events/56/pages/0/679/Dialogue
 \\N[12]. 「Well, that is ...... Sex with Luftina-sama,
 It's so comfortable......」#MTLed
 > CONTEXT: Commonevents/242/664/Dialogue
@@ -2721,8 +2675,8 @@ Sex with Luftina-sama, It's so comfortable ...
 「ありがとう。
 わたくしも久しぶりに
 性行為の快楽を味わわせてもらいました。
-> CONTEXT: Map041/events/56/pages/0/684/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1030/Dialogue
+> CONTEXT: Map041/events/56/pages/0/684/Dialogue
 Queen Luftina. 「Thank you. For the first time in a long
 time. I had the pleasure of sexual activity tasted.#MTLed
 > CONTEXT: Commonevents/242/669/Dialogue
@@ -2735,8 +2689,8 @@ activity tasted.#MTLed
 あなたの精液はとても熱くて……
 もしかすると、アルミナより先に
 身籠ってしまうかもしれませんね♪」
-> CONTEXT: Map041/events/56/pages/0/689/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1035/Dialogue
+> CONTEXT: Map041/events/56/pages/0/689/Dialogue
 Your semen is very hot ...... Perhaps before alumina
 You might get stuck♪」#MTLed
 > CONTEXT: Commonevents/242/674/Dialogue
@@ -2749,8 +2703,8 @@ alumina. You might get stuck♪」#MTLed
 「さあ、今日のところはこれでいったん帰りなさい。
 まだあきらめない気持ちがあるのなら、
 再びわたくしに挑戦してくるのです。いいですね？」
-> CONTEXT: Map041/events/56/pages/0/696/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1042/Dialogue
+> CONTEXT: Map041/events/56/pages/0/696/Dialogue
 Queen Luftina. 「Now go home with this for today.
 If you still feel like not giving up, I will challenge it
 again. Sounds good?」#MTLed
@@ -2764,8 +2718,8 @@ I will challenge it again. Sounds good?」#MTLed
 \\N[12]
 （うう……だけど、この体験は刺激的すぎて
 陛下の顔を見るたび、思い出してドキドキしちまいそうだ……）
-> CONTEXT: Map041/events/56/pages/0/705/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1051/Dialogue
+> CONTEXT: Map041/events/56/pages/0/705/Dialogue
 \\N[12]. (Wow...but, this experience is too
 stimulating. Every time I see the face of Majesty, I
 remember thinking that ...)#MTLed
@@ -2779,8 +2733,8 @@ Majesty, I remember thinking that ...)#MTLed
 \\N[12]はルフティナとのセックスの心地よさに酔いしれ、
 すっかり気の抜けた様子になり、
 そのまま城を叩き出されてしまった……
-> CONTEXT: Map041/events/56/pages/0/709/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1055/Dialogue
+> CONTEXT: Map041/events/56/pages/0/709/Dialogue
 \\N[12] Being drunk with the comfort of sex with
 Luftina, It became completely disgusted,
 I just beat out the castle as it is ....#MTLed
@@ -2851,8 +2805,8 @@ It became naked.#MTLed
 「では、罰を与えます。
 不甲斐ない男の子の根性を、
 しっかり叩き直してあげなくちゃね」
-> CONTEXT: Map041/events/56/pages/0/73/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1132/Dialogue
+> CONTEXT: Map041/events/56/pages/0/73/Dialogue
 Queen Luftina. 「Then, I will give you punishment.
 The guts of bad boys, I have to tap it firmly」#MTLed
 > CONTEXT: Commonevents/242/776/Dialogue
@@ -2918,8 +2872,8 @@ Punishment being too pitiable... )#MTLed
 「弱いことが罪なのではありませんよ。
 男の子なのに、食い下がりもせずに
 簡単にやられてしまうような根性のなさを叱っているのです。
-> CONTEXT: Map041/events/56/pages/0/218/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1248/Dialogue
+> CONTEXT: Map041/events/56/pages/0/218/Dialogue
 Queen Luftina. 「Weakness is not a sin. Even though he is a
 boy, he did not hurt. I'm scolded for not being gutsy
 enough to get easily done.#MTLed
@@ -2935,8 +2889,8 @@ easily done.#MTLed
 最後までなにが起きるかは分からないのですから、
 必死で戦いなさい。
 そうでなければ、あなたに国や娘を託すことなどできません」
-> CONTEXT: Map041/events/56/pages/0/223/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1253/Dialogue
+> CONTEXT: Map041/events/56/pages/0/223/Dialogue
 Even though I think the opponent is stronger,
 I do not know what will happen until the end,
 Fight desperately and fight. Otherwise I can not trust you
@@ -2951,8 +2905,8 @@ trust you or my daughter」#MTLed
 > BEGIN STRING
 \\N[12]
 「あいいいぃっ！」
-> CONTEXT: Map041/events/56/pages/0/236/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1266/Dialogue
+> CONTEXT: Map041/events/56/pages/0/236/Dialogue
 \\N[12]. 「Ai iti!」#MTLed
 > CONTEXT: Commonevents/242/910/Dialogue
 \\N[12]. 「Ai iti!」#MTLed
@@ -2963,8 +2917,8 @@ trust you or my daughter」#MTLed
 「さあ、わかりましたか？
 自分がどれほど情けなく不甲斐ない戦いをしたのか……
 それを思い知ったら、ちゃんと反省なさい！」
-> CONTEXT: Map041/events/56/pages/0/239/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1269/Dialogue
+> CONTEXT: Map041/events/56/pages/0/239/Dialogue
 Queen Luftina. 「Do you understand now? How punitive and
 miserable did you fight...... If you realize it, please
 reflect properly!」#MTLed
@@ -2979,8 +2933,8 @@ If you realize it, please reflect properly!」#MTLed
 「あああぁっ！　ごめんなさい、女王陛下っ！
 次はもっと必死で抵抗しますっ！
 だから、もう許してくださいいぃっ！」
-> CONTEXT: Map041/events/56/pages/0/255/Dialogue
 > CONTEXT: Map041/events/5/pages/5/1285/Dialogue
+> CONTEXT: Map041/events/56/pages/0/255/Dialogue
 \\N[12]. 「Aaahh! I am sorry, Your Queen!
 Next time I will desperately resist and resist!
 Therefore, please forgive me already!」#MTLed
@@ -3836,8 +3790,8 @@ Welcome to my house」#MTLed
 ロイヤルガード
 「その程度か、少年。
 それで女王陛下に楯突こうなどとは、話にならんな」
-> CONTEXT: Map041/events/27/pages/0/111/Dialogue
 > CONTEXT: Map041/events/26/pages/0/116/Dialogue
+> CONTEXT: Map041/events/27/pages/0/111/Dialogue
 royal guard. 「To that extent, a boy. That's why it's not
 going to be strange to compete with the Queen's Majesty」#MTLed
 > CONTEXT: Commonevents/246/33/Dialogue
@@ -3885,13 +3839,6 @@ You must think that it's embarrassing」#MTLed
 Queen Luftina. 「It is surprising that you will ejaculate.
 No way, while you are ass, you against me
 Did you have a feeling of much unwillingness?」#MTLed
-> END STRING
-
-> BEGIN STRING
-むにゅうううぅんっ！
-> CONTEXT: Map041/events/56/pages/0/438/Dialogue
-> CONTEXT: Map147/events/2/pages/19/697/Dialogue
-Muuuuuuuuuuuu!#MTLed
 > END STRING
 
 > BEGIN STRING

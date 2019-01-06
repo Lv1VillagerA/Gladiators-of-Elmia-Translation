@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 性感度が0になった！
 > CONTEXT: Commonevents/3/0/Dialogue
@@ -677,9 +677,9 @@ Damn it ...!」#MTLed
 > CONTEXT: Commonevents/6/105/Dialogue
 > CONTEXT: Commonevents/216/106/Dialogue
 bandit teen. 「Well, whichever way is OK.
-I will play with my older even today.
-I will let you do a lot of things, Dororon's
-older brother♪」#MTLed
+I will play with my baby girlfriend today as
+well. I will let you do a lot of things,
+Dororon's older brother♪」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -892,9 +892,9 @@ with your fingers!#MTLed
 ホント男ってここをいじめられると弱いよねー。
 > CONTEXT: Commonevents/6/216/Dialogue
 > CONTEXT: Commonevents/216/217/Dialogue
-bandit teen. 「Hihahahahah! I'm trembling, being
-touched by me. It really is weak if you really
-get bullied here.#MTLed
+bandit teen. 「Hihahahahah! I'm trembling with
+being tampered with by me. It really is weak if
+you really get bullied here.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -904,16 +904,6 @@ get bullied here.#MTLed
 > CONTEXT: Commonevents/216/222/Dialogue
 It was made to be so nice for younger girls,
 Are not you ashamed?」#MTLed
-> END STRING
-
-> BEGIN STRING
-\\N[12]
-「ううぅ……」
-> CONTEXT: Commonevents/6/224/Dialogue
-> CONTEXT: Commonevents/216/225/Dialogue
-> CONTEXT: Map147/events/2/pages/6/119/Dialogue
-> CONTEXT: Map147/events/2/pages/6/313/Dialogue
-\\N[12]. 「Uooh ....」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1003,9 +993,9 @@ with it right now, Yaba......!」#MTLed
 フツーのときよりも気持ちいいのかな？」
 > CONTEXT: Commonevents/6/273/Dialogue
 > CONTEXT: Commonevents/216/274/Dialogue
-bandit teen. 「What if you mess with me during a
-shooter? Is it more pleasant than when it is
-futsu?」#MTLed
+bandit teen. 「How are you supposed to be
+tampered with during the shooter?
+Is it more pleasant than when it is futsu?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1355,9 +1345,10 @@ I have a breath ...#MTLed
 > CONTEXT: Commonevents/7/129/Dialogue
 > CONTEXT: Commonevents/65/130/Dialogue
 > CONTEXT: Commonevents/219/130/Dialogue
-sexy bandit. 「As it is, put your head in thighs
-I will make it feel good. Taste it while tasting
-the feeling of your older sister」#MTLed
+sexy bandit. 「As it is, put the dumplings in
+thighs. I will make it feel good.
+Taste it while tasting the feeling of your older
+sister」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1444,7 +1435,7 @@ feeling.#MTLed
 > CONTEXT: Commonevents/7/169/Dialogue
 > CONTEXT: Commonevents/65/170/Dialogue
 > CONTEXT: Commonevents/219/170/Dialogue
-You also * rub * with thighs. oh no, do you feel
+Puppet is also thigh * rub *. oh no, do you feel
 good?」#MTLed
 > END STRING
 
@@ -1769,7 +1760,7 @@ come on ぇ っ♪」#MTLed
 > CONTEXT: Commonevents/7/314/Dialogue
 > CONTEXT: Commonevents/65/324/Dialogue
 > CONTEXT: Commonevents/219/315/Dialogue
-Mumma, what!#MTLed
+Sooo, soft embrasse ...!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1889,19 +1880,6 @@ I regret against my poor head.Hahahah!」#MTLed
 sexy bandit. 「I will do this, I will support
 your face with boobs. Is it soft and comfortable?
 」#MTLed
-> END STRING
-
-> BEGIN STRING
-むにゅっ……
-> CONTEXT: Commonevents/8/40/Dialogue
-> CONTEXT: Commonevents/9/344/Dialogue
-> CONTEXT: Commonevents/13/40/Dialogue
-> CONTEXT: Commonevents/224/148/Dialogue
-> CONTEXT: Commonevents/227/345/Dialogue
-> CONTEXT: Map145/events/2/pages/1/76/Dialogue
-> CONTEXT: Map147/events/2/pages/19/612/Dialogue
-> CONTEXT: Map147/events/2/pages/19/848/Dialogue
-Muyuu ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2033,15 +2011,6 @@ resist a bit. Anyway, I can not run away anyway」#MTLed
 > END STRING
 
 > BEGIN STRING
-しゅっ、しゅっ、くちゅっ、くちゅっ……
-> CONTEXT: Commonevents/8/99/Dialogue
-> CONTEXT: Commonevents/13/99/Dialogue
-> CONTEXT: Commonevents/224/207/Dialogue
-> CONTEXT: Map147/events/2/pages/6/217/Dialogue
-Slouge, slip, crack, neck ......#MTLed
-> END STRING
-
-> BEGIN STRING
 \\N[12]
 「あぐっ、うっ、うあっ……はぁ、はぁっ……」
 > CONTEXT: Commonevents/8/101/Dialogue
@@ -2163,8 +2132,8 @@ can help it」#MTLed
 > CONTEXT: Commonevents/13/148/Dialogue
 > CONTEXT: Commonevents/224/256/Dialogue
 sexy bandit. 「Even though I'm tampered with such
-a miserable appearance. I feel more empathy is
-nothing more than humiliation anymore?」#MTLed
+a miserable dress. I feel more empathy is nothing
+more than humiliation anymore?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2691,7 +2660,7 @@ a penis!#MTLed
 ぐにっ、むにむにっ……！
 > CONTEXT: Commonevents/9/205/Dialogue
 > CONTEXT: Commonevents/227/206/Dialogue
-* rub *, ♪ ...!#MTLed
+* rub *, soft embrasse ♪ ...!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3540,6 +3509,7 @@ I regret against my poor head.Hahahah!」#MTLed
 > CONTEXT: Commonevents/164/167/Dialogue
 > CONTEXT: Commonevents/166/14/Dialogue
 > CONTEXT: Commonevents/166/61/Dialogue
+> CONTEXT: Commonevents/166/133/Dialogue
 > CONTEXT: Commonevents/171/16/Dialogue
 > CONTEXT: Commonevents/171/59/Dialogue
 > CONTEXT: Commonevents/171/137/Dialogue
@@ -3566,16 +3536,15 @@ I regret against my poor head.Hahahah!」#MTLed
 > CONTEXT: Commonevents/206/100/Dialogue
 > CONTEXT: Commonevents/208/16/Dialogue
 > CONTEXT: Commonevents/208/178/Dialogue
-> CONTEXT: Commonevents/280/5/Dialogue
-> CONTEXT: Commonevents/283/5/Dialogue
-> CONTEXT: Commonevents/287/5/Dialogue
-> CONTEXT: Commonevents/293/5/Dialogue
-> CONTEXT: Commonevents/166/133/Dialogue
 > CONTEXT: Commonevents/279/15/Dialogue
 > CONTEXT: Commonevents/279/144/Dialogue
+> CONTEXT: Commonevents/280/5/Dialogue
 > CONTEXT: Commonevents/282/7/Dialogue
+> CONTEXT: Commonevents/283/5/Dialogue
 > CONTEXT: Commonevents/285/89/Dialogue
 > CONTEXT: Commonevents/285/184/Dialogue
+> CONTEXT: Commonevents/287/5/Dialogue
+> CONTEXT: Commonevents/293/5/Dialogue
 > CONTEXT: Commonevents/298/5/Dialogue
 > CONTEXT: Commonevents/299/5/Dialogue
 > CONTEXT: Commonevents/304/17/Dialogue
@@ -4663,17 +4632,6 @@ you were kicked, did not you?」#MTLed
 > END STRING
 
 > BEGIN STRING
-\\N[12]
-「う、くっ……」
-> CONTEXT: Commonevents/40/70/Dialogue
-> CONTEXT: Commonevents/206/63/Dialogue
-> CONTEXT: Troops/196/pages/2/9/Dialogue
-> CONTEXT: Troops/197/pages/4/7/Dialogue
-> CONTEXT: Troops/207/pages/3/8/Dialogue
-\\N[12]. 「Well, ...」#MTLed
-> END STRING
-
-> BEGIN STRING
 バンディットガール
 「パンツに釣られたせいで金蹴りを
 避けられなかったっていうんなら、キミが悪いんだよ♪
@@ -4885,9 +4843,10 @@ crotch!#MTLed
 こんな痛い目にあわされてイっちゃうなんて、本物のヘンタイだね♪」
 > CONTEXT: Commonevents/42/19/Dialogue
 > CONTEXT: Commonevents/42/74/Dialogue
-bandit teen. 「Hahahah! Oo-san, hit me with my ass
-I have leaked out. It's a pervert perfect to be
-caught up with such painful eyes♪」#MTLed
+bandit teen. 「Hahahah! Oo, my guy is beat me
+with a butt. I have leaked out.
+It's a pervert perfect to be caught up with such
+painful eyes♪」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -4955,7 +4914,7 @@ crotch! 30 damage to the spirit!#MTLed
 負けちゃう気分は」
 > CONTEXT: Commonevents/42/92/Dialogue
 bandit teen. 「Of course, it seems that I can not
-fight anymore. How? I got hurt by the girl's butt
+fight anymore. How? I got hurt by a girl's ass
 I feel like I'm losing」#MTLed
 > END STRING
 
@@ -5470,9 +5429,10 @@ AHHHhhhh!」#MTLed
 人間の男が性欲に狂ってる姿って、醜くて大好き♪」
 > CONTEXT: Commonevents/81/22/Dialogue
 > CONTEXT: Commonevents/81/181/Dialogue
-matango. 「... .... I messed around with myself,
-I went without permission. The man 's man is
-crazy about libido is ugly and I love you♪」#MTLed
+matango. 「... .... I messed around with my baby
+by myself, I went without permission.
+The man 's man is crazy about libido is ugly and
+I love you♪」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -5611,7 +5571,7 @@ and I will not be able to fight.#MTLed
 わたしに見惚れながら射精しちゃいなさい……♪」
 > CONTEXT: Commonevents/81/94/Dialogue
 The old man is already my prisoner......
-Now, more and more, Cum on me while ejaculating
+Now, better do it, Cum on me while ejaculating
 ... ...♪」#MTLed
 > END STRING
 
@@ -5633,7 +5593,7 @@ when I see this monster, My hands will not stop
 自分でおちんちんをしこしこしてる……♪」
 > CONTEXT: Commonevents/81/107/Dialogue
 matango. 「Ufufu...A human boy watching me
-I am doing it myself.......♪」#MTLed
+I am squeezing myself......♪」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -5911,7 +5871,6 @@ my tail?」#MTLed
 > CONTEXT: Commonevents/191/5/Choice/0
 > CONTEXT: Commonevents/286/4/Choice/0
 > CONTEXT: Commonevents/289/3/Choice/0
-> CONTEXT: Commonevents/313/4/Choice/0
 > CONTEXT: Commonevents/313/4/Choice/0
 Struggle#MTLed
 > END STRING
@@ -7456,12 +7415,12 @@ I have been ejaculated to be violent!#MTLed
 バニーガール
 「あらあら、うふふ……♪
 おっぱいの感触と匂いに、よっぽどドキドキしたのね。
-おちんちんい触ってもいないのにイっちゃうなんて……」
-> CONTEXT: None < UNUSED
+おちんちんに触ってもいないのにイっちゃうなんて……」
+> CONTEXT: Commonevents/136/20/Dialogue
 bunny girl. 「oh no, hehe ...♪. You made it to
 the touch and smell of your breasts.
-I have not touched it even though I have not
-touched it......」#MTLed
+I do not care even though I have not touched the
+penis......」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -7523,7 +7482,7 @@ of.#MTLed
 > CONTEXT: Commonevents/285/215/Dialogue
 > CONTEXT: Commonevents/312/37/Dialogue
 > CONTEXT: Commonevents/312/157/Dialogue
-Muwait...#MTLed
+Muffled, soft embrasse ......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -7673,12 +7632,12 @@ and can not resist.#MTLed
 > END STRING
 
 > BEGIN STRING
-\\N[12]
+バニーガール
 「このまま窒息させてあげてもいいんだけど……
 それよりは、気持ちよくしてあげたほうがいいわよね。
 さあ、このまま射精させてあげる」
-> CONTEXT: Commonevents/285/111/Dialogue
-\\N[12]. 「You can give me suffocation like
+> CONTEXT: Commonevents/136/112/Dialogue
+bunny girl. 「You can give me suffocation like
 this...... Better you like it better to be
 comfortable. Now, let me ejaculate as it is」#MTLed
 > END STRING
@@ -8347,7 +8306,7 @@ But, the power is strong, can not be removed ...!
 戦ってる最中なのに、そんなことでいいの？　ふふっ」
 > CONTEXT: Commonevents/140/262/Dialogue
 bunny girl. 「I guess I'm going to resist you,
-You have erected eagerly. Hey.
+I'm pretty sure that the penis erected.
 I am in the middle of fighting, can I do such a
 thing? Heh」#MTLed
 > END STRING
@@ -8500,7 +8459,7 @@ My face ...... What a comfortable elasticity ...
 太ももの感触だけで興奮してイっちゃうなんて……
 > CONTEXT: Commonevents/140/334/Dialogue
 bunny girl. 「oh no, I did ejaculate.
-Uhhhhhh, I have not even touched you
+Uhhhhhh, even though I have not touched the penis
 I was excited just by the thigh feeling ...#MTLed
 > END STRING
 
@@ -8972,8 +8931,8 @@ kiss can melt, Culminating -#MTLed
 > CONTEXT: Commonevents/149/80/Dialogue
 bunny girl. 「He was suffering from hoof attack,
 and it got ejaculated. Even though I was not
-stimulated by you. It's masculine to just get
-excited by the blow?」#MTLed
+stimulated by the dumplings. It's masculine to
+just get excited by the blow?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -9091,7 +9050,7 @@ audience. 「Kya, that boy. I've been naked!」#MTLed
 戦ってる最中になにを考えてたのかしら」
 > CONTEXT: Commonevents/152/11/Dialogue
 > CONTEXT: Commonevents/228/418/Dialogue
-audience. 「Oh no, you're getting up
+audience. 「You're getting offended, bastards
 I wonder what you were thinking while fighting」#MTLed
 > END STRING
 
@@ -9723,8 +9682,8 @@ Velvet, \\N[12] Penis of. Step on your feet!#MTLed
 「あぐうううぅっ！」
 > CONTEXT: Commonevents/153/108/Dialogue
 > CONTEXT: Commonevents/183/165/Dialogue
-> CONTEXT: Commonevents/243/175/Dialogue
 > CONTEXT: Commonevents/228/241/Dialogue
+> CONTEXT: Commonevents/243/175/Dialogue
 \\N[12]. 「Easy going!」#MTLed
 > END STRING
 
@@ -11035,7 +10994,7 @@ your own lowness」#MTLed
 今さら止めるのも辛いのではなくて？」
 > CONTEXT: Commonevents/155/129/Dialogue
 alumina. 「Fuu, perhaps......
-The stimulus that became this became,
+The stimulation for the penis that became this,
 Is not it hard to stop now?」#MTLed
 > END STRING
 
@@ -11300,9 +11259,10 @@ me!」#MTLed
 
 > BEGIN STRING
 ジェーン
-「きゃああああぁっ！」
-> CONTEXT: None < UNUSED
-Jane. 「EIIIIii!」#MTLed
+「きゃああああぁっ！
+ふ、服がっ！」
+> CONTEXT: Commonevents/156/43/Dialogue
+Jane. 「EIIIIii! Well, clothes!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -11318,11 +11278,13 @@ Did Jane's clothes get torn? Eh, erotic ......」#MTLed
 > BEGIN STRING
 ジェーン
 「も、もうっ、大勢の前でこんな格好……
+こんな手を使ってまで勝とうとするだなんて、失望したわ！
 \\N[12]っ、許さないわよっ！」
-> CONTEXT: None < UNUSED
+> CONTEXT: Commonevents/156/56/Dialogue
 Jane. 「Well, I already have such a dress in
-front of a lot of people .... \\N[12] I will
-not forgive you!」#MTLed
+front of a lot of people .... It was
+disappointing that I tried to win by using such a
+hand! \\N[12] I will not forgive you!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -11399,17 +11361,6 @@ Bandit Girl. 「Well, the curtain that came out
 with this was also gone, I guess I could never
 win against any of this at all
 I guess it was unnecessary worry」#MTLed
-> END STRING
-
-> BEGIN STRING
-バンディットガール
-「あはっ、戦ってる最中に射精しちゃってる♪
-まだお頭との試合があるのに、
-そんなことで大丈夫なわけぇ？」
-> CONTEXT: Map057/events/32/pages/0/0/Dialogue
-Bandit Girl. 「Hahah, I'm ejaculating while
-fighting♪. I still have a match with your head,
-Is it okay with such a thing?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -11751,12 +11702,12 @@ sounds good to the highest♪」#MTLed
 > END STRING
 
 > BEGIN STRING
-バニーガール
+レッサーサキュバス
 「あらあら、もう戦えないみたいね。
 ま、無理もないわ。
 人間の男が、サキュバスの唇を味わってしまってはね。
-> CONTEXT: None < UNUSED
-bunny girl. 「oh no, I guess I can not fight
+> CONTEXT: Commonevents/179/112/Dialogue
+lesser succubus. 「oh no, I guess I can not fight
 anymore. Well, not surprising.
 Do not taste the lips of Succubus by a human man.#MTLed
 > END STRING
@@ -11931,7 +11882,7 @@ with a large number of people♪」#MTLed
 > CONTEXT: Commonevents/243/56/Dialogue
 Female soldier. 「Well, are you going to go for
 puns? In order not to feel like recovering again,
-I will pull out bullying」#MTLed
+I will pull bullying for the penis」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -11978,8 +11929,9 @@ the buttocks. I was sitting in!#MTLed
 どう？　かなり圧迫感あるでしょ」
 > CONTEXT: Commonevents/183/75/Dialogue
 > CONTEXT: Commonevents/243/85/Dialogue
-Female soldier. 「You got crushed by a woman's ass
-How? You have a lot of pressure」#MTLed
+Female soldier. 「It was crushed by the woman's
+ass in the dumplings. How? You have a lot of
+pressure」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -12008,7 +11960,7 @@ against the belly.#MTLed
 > CONTEXT: Commonevents/183/85/Dialogue
 > CONTEXT: Commonevents/243/95/Dialogue
 Female soldier. 「I'm sorry for being a girl or
-heavy. Well, I'm paying my weight,
+heavy. Well, I'm putting weight on my weight,
 It is no wonder that I feel pain.」#MTLed
 > END STRING
 
@@ -12059,7 +12011,7 @@ How? Is it regrettable?」#MTLed
 > CONTEXT: Commonevents/183/116/Dialogue
 > CONTEXT: Commonevents/243/126/Dialogue
 Female soldier. 「I'm screaming,
-I have been growing for a long time
+The penis has been growing all the way
 Heat is transmitted to the butt, I will do
 something」#MTLed
 > END STRING
@@ -12098,9 +12050,9 @@ As a woman soldier's ass is overrun,
 いじめられてるっていうのに、興奮しちゃってるわけ？」
 > CONTEXT: Commonevents/183/136/Dialogue
 > CONTEXT: Commonevents/243/146/Dialogue
-Female soldier. 「Something is getting harder.
-No way, crushed with your ass like this
-Even though she is being bullied, are you
+Female soldier. 「Something seems to be getting
+harder. No way, it crushed my pillow with this
+ass. Even though she is being bullied, are you
 excited?」#MTLed
 > END STRING
 
@@ -12120,8 +12072,8 @@ excited?」#MTLed
 > CONTEXT: Commonevents/183/145/Dialogue
 > CONTEXT: Commonevents/243/155/Dialogue
 Female soldier. 「By the way, I was misled by my
-pants, you. You were scrubbed with the pants,
-I guess I'm getting excited」#MTLed
+pants, you. You were rubbed on the punch with
+that punch, I guess I'm getting excited」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -13747,7 +13699,7 @@ beings?」#MTLed
 > CONTEXT: Commonevents/200/345/Dialogue
 > CONTEXT: Commonevents/205/332/Dialogue
 > CONTEXT: Commonevents/248/364/Dialogue
-Succubus. 「If you swallow with yourself,
+Succubus. 「If you swallow the dumplings in here,
 Here is another one. You can not get away from
 Succubus sex?」#MTLed
 > END STRING
@@ -14322,10 +14274,10 @@ Half, steadily, steadily, grueling ......#MTLed
 > CONTEXT: Commonevents/200/594/Dialogue
 > CONTEXT: Commonevents/205/558/Dialogue
 > CONTEXT: Commonevents/248/590/Dialogue
-Succubus. 「You are quite hard and you feel well.
-There is nothing to be done by human beings as
-expected, It is not bad to taste the comfortable
-feeling」#MTLed
+Succubus. 「Your dear, you are pretty hard and
+sick. There is nothing to be done by human beings
+as expected, It is not bad to taste the
+comfortable feeling」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -15621,6 +15573,65 @@ Gee, hey!」#MTLed
 > END STRING
 
 > BEGIN STRING
+\\N[12]は女兵士たちのホールド技を回避した！
+> CONTEXT: Commonevents/284/18/Dialogue
+\\N[12] I avoided the female soldiers' hold
+technique!#MTLed
+> END STRING
+
+> BEGIN STRING
+クレア
+「あはっ、射精しちゃった♪
+わたしたちのおっぱいで
+すっごく興奮しちゃったみたいだね」
+> CONTEXT: Commonevents/285/20/Dialogue
+Clair. 「Hahah, I got ejaculated♪
+With our boobs. It sounds like I got so excited」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]は女兵士たちの柔らかなおっぱいの感触と
+彼女たちの匂いに苛まれ、
+頭がぼうっとしている……
+> CONTEXT: Commonevents/285/28/Dialogue
+\\N[12] The feeling of soft tits of female
+soldiers. I suffered from their smell,
+My head is squirming ...#MTLed
+> END STRING
+
+> BEGIN STRING
+リゼ
+「ま、私たちのおっぱいを味わうことができてるんだし
+こうなるのも当然だけどね。
+男なんて、おっぱいを使えばこんなものよ」
+> CONTEXT: Commonevents/285/32/Dialogue
+Rise. 「Well, I can taste our boobs
+Naturally it will be like this though.
+If you use boobs like a man this is like this」#MTLed
+> END STRING
+
+> BEGIN STRING
+ラナ
+「武道大会優勝者といえど、
+しょせんは性欲には抗えない男だったようね」
+> CONTEXT: Commonevents/285/37/Dialogue
+Rana. 「Martial arts tournament Speaking of the
+winner, It seems the shoshin was a man who could
+not resist sexuality」#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[12]
+「このまま窒息させてあげてもいいんだけど……
+それよりは、気持ちよくしてあげたほうがいいわよね。
+さあ、このまま射精させてあげる」
+> CONTEXT: Commonevents/285/111/Dialogue
+\\N[12]. 「You can give me suffocation like
+this...... Better you like it better to be
+comfortable. Now, let me ejaculate as it is」#MTLed
+> END STRING
+
+> BEGIN STRING
 イビルウィッチ
 「あら、私のお尻の誘惑が効きすぎちゃったみたいね。
 ふふ、このお尻に触ってみたいんでしょう？」
@@ -15802,111 +15813,31 @@ at the end. This is finisher!」#MTLed
 > END STRING
 
 > BEGIN STRING
-バニーガール
-「あらあら、うふふ……♪
-おっぱいの感触と匂いに、よっぽどドキドキしたのね。
-おちんちんに触ってもいないのにイっちゃうなんて……」
-> CONTEXT: Commonevents/136/20/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-バニーガール
-「このまま窒息させてあげてもいいんだけど……
-それよりは、気持ちよくしてあげたほうがいいわよね。
-さあ、このまま射精させてあげる」
-> CONTEXT: Commonevents/136/112/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「きゃああああぁっ！
-ふ、服がっ！」
-> CONTEXT: Commonevents/156/43/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ジェーン
-「も、もうっ、大勢の前でこんな格好……
-こんな手を使ってまで勝とうとするだなんて、失望したわ！
-\\N[12]っ、許さないわよっ！」
-> CONTEXT: Commonevents/156/56/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-レッサーサキュバス
-「あらあら、もう戦えないみたいね。
-ま、無理もないわ。
-人間の男が、サキュバスの唇を味わってしまってはね。
-> CONTEXT: Commonevents/179/112/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]は女兵士たちのホールド技を回避した！
-> CONTEXT: Commonevents/284/18/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-クレア
-「あはっ、射精しちゃった♪
-わたしたちのおっぱいで
-すっごく興奮しちゃったみたいだね」
-> CONTEXT: Commonevents/285/20/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\N[12]は女兵士たちの柔らかなおっぱいの感触と
-彼女たちの匂いに苛まれ、
-頭がぼうっとしている……
-> CONTEXT: Commonevents/285/28/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-リゼ
-「ま、私たちのおっぱいを味わうことができてるんだし
-こうなるのも当然だけどね。
-男なんて、おっぱいを使えばこんなものよ」
-> CONTEXT: Commonevents/285/32/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-ラナ
-「武道大会優勝者といえど、
-しょせんは性欲には抗えない男だったようね」
-> CONTEXT: Commonevents/285/37/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 \\N[12]はニーソックスの匂いを嗅いだ。
 性感度が5上がった！
-> CONTEXT: Commonevents/296/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/296/18/Dialogue
+\\N[12] I smelled the smell of the thigh.
+Sexual sensitivity has increased by 5!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は魔女の髪の匂いを嗅いだ。
 甘い香りがして、くらくらする……
 性感度が5上がった！
-> CONTEXT: Commonevents/297/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/297/27/Dialogue
+\\N[12] I smelled the smell of the witch 's
+hair. I smell sweet, I will ...
+Sexual sensitivity has increased by 5!#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチ
 「私の髪の香りに惑わされてしまったかしら？
 目の焦点が合っていませんわよ、ふふっ」
-> CONTEXT: Commonevents/298/10/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/299/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/10/Dialogue
+> CONTEXT: Commonevents/299/10/Dialogue
+Darkwitch. 「Did you get deceived by the
+fragrance of my hair? My eyes are out of focus」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -15914,9 +15845,11 @@ at the end. This is finisher!」#MTLed
 「うっ、ああっ……
 な、なんだ、手足が痺れて……頭もジンジンして、
 くらくらするっ……」
-> CONTEXT: Commonevents/298/14/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/299/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/14/Dialogue
+> CONTEXT: Commonevents/299/14/Dialogue
+\\N[12]. 「Ugh, AAh...... What, what the
+limbs are numb...... headache,
+Okay ....」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -15924,24 +15857,31 @@ at the end. This is finisher!」#MTLed
 「無警戒に香りを吸い込みすぎましたわね。
 私の髪には、膨大な魔力が宿っておりますの。
 当然、その香りも魔法の力を帯びている……
-> CONTEXT: Commonevents/298/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/19/Dialogue
+Darkwitch. 「You smelled too much fragrance
+without warning. There is enormous magical power
+in my hair. Of course, that scent is also taking
+on the power of magic......#MTLed
 > END STRING
 
 > BEGIN STRING
 私の髪の香りに意識を侵食されたら最後。
 あなたは性欲に支配されるだけでなく、
 私に対して恋をしてしまいますのよ、うふふ……」
-> CONTEXT: Commonevents/298/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/24/Dialogue
+Lastly if my consciousness was eroded by the
+fragrance of my hair. You are not only ruled by
+libido, I will fall in love with you, Uhufu ...
+...」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は、ダークウィッチの姿を見つめていると
 鼓動が加速してくるのを感じる――
-> CONTEXT: Commonevents/298/31/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/299/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/31/Dialogue
+> CONTEXT: Commonevents/299/32/Dialogue
+\\N[12] When you are staring at the form of
+Darkwitch. I feel the beat is accelerating -#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -15949,23 +15889,27 @@ at the end. This is finisher!」#MTLed
 「ほら、ドキドキしてきたでしょう？
 もうあなたは私の虜だもの。
 私を前にして平気でいられるはずがないわ」
-> CONTEXT: Commonevents/298/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/34/Dialogue
+Darkwitch. 「You see, did you? You are my
+prisoner any more. I can not be as nice as I can.
+」#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチは\\N[12]の顔を覗き込み
 意味ありげな目を向けてくる。
-> CONTEXT: Commonevents/298/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/39/Dialogue
+Dark witch \\N[12] Look into the face of
+It has meaningful eyes.#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチ
 「どう？　これだけ近くで私を見ていたら
 もうドキドキしてたまらないのではなくて？」
-> CONTEXT: Commonevents/298/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/42/Dialogue
+Darkwitch. 「How? If I were watching me as close
+as this. Is not it irresistible already?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -15973,8 +15917,9 @@ at the end. This is finisher!」#MTLed
 （う、ああぁぁっ……
 な、なんだ、なんでこの魔女が
 こんなに途方もなく可愛く感じられるんだっ……！）
-> CONTEXT: Commonevents/298/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/46/Dialogue
+\\N[12]. (U, ohhh ...... Why, why is this
+witch. I feel so ridiculously cute.......! )#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -15982,16 +15927,21 @@ at the end. This is finisher!」#MTLed
 「さあ、負けを認めなさい。
 この私に恋をしてしまったから降参する、と
 その口で言ってごらんなさいな」
-> CONTEXT: Commonevents/298/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/51/Dialogue
+Darkwitch. 「Now, accept the defeat.
+Because I fell in love with this, I will
+surrender. Tell me in that mouth」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は負けを認めることに抵抗を覚えるが、
 しかし、ダークウィッチの顔を間近に見つめていると
 胸の高鳴りを抑えられない――！
-> CONTEXT: Commonevents/298/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/56/Dialogue
+\\N[12] He is resistant to admitting defeat,
+However, if you look closely at the face of
+Darkwitch. I can not suppress the high sounding
+of the chest -!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -15999,8 +15949,9 @@ at the end. This is finisher!」#MTLed
 「こ、降参する……っ……
 だ、だから、
 俺の、恋人になってくれっ！」
-> CONTEXT: Commonevents/298/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/60/Dialogue
+\\N[12]. 「I will surrender.......
+So, Please become my lover!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16008,15 +15959,19 @@ at the end. This is finisher!」#MTLed
 「ふふっ……あはははっ！
 敵の男を恋に堕として屈服させる、
 この感覚、何度味わっても最高の愉悦ね♪」
-> CONTEXT: Commonevents/298/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/65/Dialogue
+Darkwitch. 「Huh...... Hahahah!
+Let the enemy's man succumble as falling in love,
+This feeling, the most pleasant even if you can
+taste it many times♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はダークウィッチの魅力に屈し、
 彼女に恋へと堕とされて敗北した。
-> CONTEXT: Commonevents/298/70/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/298/70/Dialogue
+\\N[12] I yielded to the charm of Darkwitch,
+I was defeated by falling in love with her.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16024,16 +15979,21 @@ at the end. This is finisher!」#MTLed
 「無警戒に香りを吸い込みすぎましたわね。
 私の髪には、膨大な魔力が宿っていますのよ。
 当然、その香りも魔法の力を帯びている……
-> CONTEXT: Commonevents/299/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/299/19/Dialogue
+Darkwitch. 「You smelled too much fragrance
+without warning. There is enormous magical power
+in my hair. Of course, that scent is also taking
+on the power of magic......#MTLed
 > END STRING
 
 > BEGIN STRING
 私の髪の香りに意識を侵食されたら最後。
 あなたはもう私の虜ですわ。
 ほうら、ドキドキしてきたでしょう？」
-> CONTEXT: Commonevents/299/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/299/24/Dialogue
+Lastly if my consciousness was eroded by the
+fragrance of my hair. You are already a prisoner
+of me. Hoora, you did it?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16041,24 +16001,29 @@ at the end. This is finisher!」#MTLed
 「もう抵抗はできないようですわね。
 これだから男というものは与しやすいですわ。
 私の魅力にかかれば、指一本触れずに勝てるのですもの。
-> CONTEXT: Commonevents/299/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/299/35/Dialogue
+Darkwitch. 「It seems I can not resist it anymore.
+So it's easy to give a man. With my charm, you
+can win without touching one finger.#MTLed
 > END STRING
 
 > BEGIN STRING
 それでは、トドメですわ。
 私の香りで惚けたまま、
 惨めな敗北を味わいなさい♪」
-> CONTEXT: Commonevents/299/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/299/40/Dialogue
+Well then, it is a finisher. With my scent fell
+in love, Taste miserable defeat♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はもはや正気を保つことができず、
 可憐なダークウィッチの姿に恋い焦がれるまま
 愛の告白をしてしまった――
-> CONTEXT: Commonevents/300/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/0/Dialogue
+\\N[12] He can no longer keep his sanity,
+Being in love with the form of pretty dark witch
+I confessed love -#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16066,8 +16031,9 @@ at the end. This is finisher!」#MTLed
 「くうぅっ……
 そ、それで、どうなんだ。
 俺の恋人になってくれるのか？」
-> CONTEXT: Commonevents/300/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/4/Dialogue
+\\N[12]. 「Kuuuuu .... Well, how is it.
+Will you be my lover?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16075,8 +16041,10 @@ at the end. This is finisher!」#MTLed
 「ふっ、誰があなたのような知性のない男と
 恋人になるものですか。
 身のほどというものをわきまえなさい、下郎」
-> CONTEXT: Commonevents/300/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/10/Dialogue
+Darkwitch. 「Who is a man with no intelligence
+like you. Are you going to be a lover?
+Be aware of yourself, Shiro」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16084,16 +16052,19 @@ at the end. This is finisher!」#MTLed
 「とはいえ……私に恋焦がれているあなたを
 無下に突き放すのもかわいそうですわね。
 誠意を見せれば、考えてあげてもよろしくてよ？」
-> CONTEXT: Commonevents/300/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/18/Dialogue
+Darkwitch. 「Still...... you who are in love
+with me. It is sorry for me to throw it down to
+nothing. Do you mind if I show sincerity?」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ほ、本当なのか？
 どうすれば俺と恋人同士になってくれるんだ」
-> CONTEXT: Commonevents/300/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/23/Dialogue
+\\N[12]. 「Is it true? How can I become a
+girlfriend with me」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16101,16 +16072,19 @@ at the end. This is finisher!」#MTLed
 「そうね、私にあなたの力を捧げてくれるかしら？
 満足いく程度に能力を吸収させてもらえれば、
 あなたの恋人になってあげるわ」
-> CONTEXT: Commonevents/300/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/27/Dialogue
+Darkwitch. 「Well, will you give me your strength?
+If you can absorb your ability to a satisfactory
+extent, I will become your lover」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「わかった、捧げる！
 それで、どうすればいいんだ」
-> CONTEXT: Commonevents/300/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/32/Dialogue
+\\N[12]. 「I got it, I give it!
+So, what should I do?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16118,23 +16092,27 @@ at the end. This is finisher!」#MTLed
 「簡単よ。私がドレインの魔法を発動するから、
 あなたはその魔力に逆らわず、
 私に力を捧げると念じてくれればいいの」
-> CONTEXT: Commonevents/300/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/36/Dialogue
+Darkwitch. 「Easy. Because I activate the drain
+magic, You do not go against that magical power,
+You should remember to devote your power to me」#MTLed
 > END STRING
 
 > BEGIN STRING
 そして、ダークウィッチは
 ドレインの魔法を唱える――
-> CONTEXT: Commonevents/300/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/43/Dialogue
+And dark witch. Cast drain magic -#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 （う、ううっ、力が抜けてゆく……
 なんだ、この感覚……き、気持ちいいっ……）
-> CONTEXT: Commonevents/300/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/46/Dialogue
+\\N[12]. (Oh, OHh, power goes through......
+What, this feeling ......, I feel comfortable
+......)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16142,30 +16120,35 @@ at the end. This is finisher!」#MTLed
 「どうかしら、私のドレイン魔法は。
 自分の力を女の子に吸われてゆく感覚、
 なかなかの快楽でしょう？」
-> CONTEXT: Commonevents/300/50/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/50/Dialogue
+Darkwitch. 「I wonder, my drain magic is.
+A sense that girls suck their power,
+Is not it quite pleasant?」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は、ダークウィッチに力を吸い取られながら
 性感を高めてしまう！
-> CONTEXT: Commonevents/300/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/55/Dialogue
+\\N[12] While being sucked up by the dark
+witch. It enhances sexuality!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「う、あああぁぁぁ……！
 ゾクゾクして、もう……で、出るっ……！」
-> CONTEXT: Commonevents/300/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/58/Dialogue
+\\N[12]. 「Aaahhh......! tremble, it is
+already......, it comes out ...!」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はダークウィッチのドレイン魔法で
 力と精液を放出させられてしまった……
-> CONTEXT: Commonevents/300/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/65/Dialogue
+\\N[12] Dark Witch Drain Magic
+Force and semen have been released ......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16173,44 +16156,51 @@ at the end. This is finisher!」#MTLed
 「ふう……こんなところかしら。
 あなたの力、たっぷり吸わせてもらいましたわ。
 ふふ、力がみなぎってくるようですわね」
-> CONTEXT: Commonevents/300/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/68/Dialogue
+Darkwitch. 「Fu...... I wonder why this is the
+place. I had you suck a lot of your power.
+Huhu, the power seems to come full of」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はダークウィッチに
 レベルを1、力と魔力を5吸われてしまった……
-> CONTEXT: Commonevents/300/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/73/Dialogue
+\\N[12] To dark witch. Level 1, power and
+magical power 5 sucked......#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「くっ……で、でも、これで
 晴れて俺とお前は、恋人に……」
-> CONTEXT: Commonevents/300/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/76/Dialogue
+\\N[12]. 「Cud...... but, by this
+Clearly and you and me, to your lover ......」#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチ
 「うふふっ……キュアの魔法をかけてあげますわ♪」
-> CONTEXT: Commonevents/300/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/80/Dialogue
+Darkwitch. 「Uhufu...... I will cast the magic
+of cure♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチは、\\N[12]にキュアを唱えた！
 髪の香りに蝕まれていた意識が治る――
-> CONTEXT: Commonevents/300/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/83/Dialogue
+Darkwitch, \\N[12] I cured cure!
+The awareness that was eroded by the fragrance of
+hair cures -#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あ……お、俺は……」
-> CONTEXT: Commonevents/300/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/86/Dialogue
+\\N[12]. 「Ah......, I ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16218,16 +16208,19 @@ at the end. This is finisher!」#MTLed
 「どうかしら？
 憎い敵の女に、自ら進んで力を捧げてしまった気分は。
 正気に戻って、さぞショックなのではなくて？」
-> CONTEXT: Commonevents/300/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/89/Dialogue
+Darkwitch. 「I wonder? I feel like I have devoted
+myself to a woman of hatred enemy.
+Returning to sanity, is not it a shock?」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「そ、そんなっ……ど、どうして俺は
 お前なんかにっ」
-> CONTEXT: Commonevents/300/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/94/Dialogue
+\\N[12]. 「Well, that's...why, why am I
+You are something.」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16235,30 +16228,36 @@ at the end. This is finisher!」#MTLed
 「女の髪の香りにあっさり惑わされるような
 精神の惰弱なあなたが悪いんですのよ。
 私の魅力に屈しなければ、こんなことにはならなかったのに」
-> CONTEXT: Commonevents/300/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/98/Dialogue
+Darkwitch. 「It seems to be misleading due to the
+scent of a woman's hair. You are bad with weak
+spirit. If I did not succumb to my charm, I would
+not have done such a thing」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「うっ、ぐうっ……
 ち、ちくしょうっ！」
-> CONTEXT: Commonevents/300/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/103/Dialogue
+\\N[12]. 「Wow, heh .... Let's see it!」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は立ち上がり、ダークウィッチに立ち向かおうとする！
-> CONTEXT: Commonevents/300/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/107/Dialogue
+\\N[12] He got up and tried to face Dark
+Witch!#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチ
 「ふっ、今まさに力を吸い取ったばかりだっていうことを
 もう忘れたのかしら？」
-> CONTEXT: Commonevents/300/109/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/109/Dialogue
+Darkwitch. 「Well, I just told you I just took
+off your strength. I wonder if you forgot it yet?
+」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16266,24 +16265,32 @@ at the end. This is finisher!」#MTLed
 「あなたは、そうやって這いつくばっているのがお似合いね。
 つかの間とはいえ、この私に恋をすることができたこと
 身に余る栄誉と思うがよろしいですわ。
-> CONTEXT: Commonevents/300/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/119/Dialogue
+Darkwitch. 「You fitting like that, it suits you.
+Although it was short-term, what I fell in love
+with this. Think of it as a honor to be
+extraordinary.#MTLed
 > END STRING
 
 > BEGIN STRING
 それじゃ、これでお別れね。
 また私に会いたければ、ここにいらっしゃいな。
 今日のようにたっぷり弄んでから捨ててあげるわ、ふふっ♪」
-> CONTEXT: Commonevents/300/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/124/Dialogue
+Well then, I will part with this.
+If you want to see me again, please come here.
+I will throw away after plunging enough like
+today, I will suffer♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はダークウィッチの魅惑の香りによって
 恋心を弄ばれ、利用されたあげく
 惨めに打ち捨てられた……
-> CONTEXT: Commonevents/300/128/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/300/128/Dialogue
+\\N[12] By the fascination aroma of Darkwitch
+I was played with love, I used it
+Miserably abandoned......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16291,39 +16298,47 @@ at the end. This is finisher!」#MTLed
 「より強く美しい存在が勝利するのが自然の摂理というもの。
 あなたが負けるのは当然のことなのですから、
 そう悔しがることはありませんわよ。ふふっ♪」
-> CONTEXT: Commonevents/302/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/4/Dialogue
+Darkwitch. 「A stronger and more beautiful
+existence is victory than natural providence.
+Because it is natural for you to lose,
+There is not to be regretted so. Heh♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ち、ちくしょうっ……
 こんなところで倒れるわけにはっ」
-> CONTEXT: Commonevents/302/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/9/Dialogue
+\\N[12]. 「っ ち ょ う, じ ょ う...It will be
+possible to collapse in such a place」#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチ
 「心配しなくとも、殺しはしませんわ。
 ただ、見せ物にはなってもらいますけれど」
-> CONTEXT: Commonevents/302/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/13/Dialogue
+Darkwitch. 「I do not worry, I will not kill you.
+However, although it will be an exhibition,」#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチは、長くつややかな栗色の髪から
 甘い香りを発した――
-> CONTEXT: Commonevents/302/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/17/Dialogue
+Dark witch from long, shiny maroon hair
+I gave out a sweet scent -#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「う、ああぁ……な、なんだ、この香り……
 ち、力が、抜けて……なんだか、ドキドキしてくるっ……」
-> CONTEXT: Commonevents/302/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/21/Dialogue
+\\N[12]. 「Uh, ah......., what, this scent
+... Power is missing...... somehow, I will come
+... ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16331,23 +16346,29 @@ at the end. This is finisher!」#MTLed
 「私の自慢の髪には、膨大な魔力が宿っておりますのよ。
 そこから発せられる香りにも、当然魔力で満ちている――
 そう、男を惑わす魔性の香りですわ」
-> CONTEXT: Commonevents/302/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/25/Dialogue
+Darkwitch. 「Huge magical power lives in my
+boasting hair. The fragrance emitted from it is
+naturally full of magical power -
+Yes, it is a fragrance of magicality that
+confuses a man」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ううっ……
 はぁ、はぁっ……」
-> CONTEXT: Commonevents/302/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/30/Dialogue
+\\N[12]. 「uugh...... Ah, Ahh ...」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はダークウィッチの可憐な姿を見上げていると
 ドキドキとした興奮が抑えられない！
-> CONTEXT: Commonevents/302/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/34/Dialogue
+\\N[12] He looked up at the pretty appearance
+of Darkwitch. And excitement can not be
+suppressed!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16355,59 +16376,69 @@ at the end. This is finisher!」#MTLed
 「そのまま、私の前でオナニーをしなさい。
 この私を見ながらのオナニーなら、
 簡単に射精できるでしょう？」
-> CONTEXT: Commonevents/302/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/37/Dialogue
+Darkwitch. 「As it is, do masturbation in front
+of me. If you masturbate while looking at me,
+Can you easily ejaculate?」#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチ
 「嫌だと言うなら、この場で焼き殺してあげますわ。
 殺されたくないのなら従いなさい。
-> CONTEXT: Commonevents/302/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/45/Dialogue
+Darkwitch. 「If I say that I do not like it, I
+will kill you at this place. If you do not want
+to be killed, obey it.#MTLed
 > END STRING
 
 > BEGIN STRING
 その見事に勃起したペニス、さぞ辛いのではなくて？
 射精したくてたまらないのでしょう？
 さあ、さっさと始めなさいな」
-> CONTEXT: Commonevents/302/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/49/Dialogue
+The dick that erected elegantly, is not it not
+painful? I want to ejaculate, I wonder?
+Now, start quickly」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「うう……し、仕方ないっ」
-> CONTEXT: Commonevents/302/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/53/Dialogue
+\\N[12]. 「Uu...... and it can not be helped.
+」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はペニスを引っ張り出すと、
 右手で激しくオナニーを始める！
-> CONTEXT: Commonevents/302/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/56/Dialogue
+\\N[12] He pulls out the penis,
+Begin masturbation violently with your right
+hand!#MTLed
 > END STRING
 
 > BEGIN STRING
 しゅっ、しゅっ、しゅっ……
-> CONTEXT: Commonevents/302/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/59/Dialogue
+Slouge, tie, ...#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチ
 「ふっ、いつ見ても男のオナニーというものは
 醜く滑稽なものですわね」
-> CONTEXT: Commonevents/302/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/61/Dialogue
+Darkwitch. 「Whew, whenever you see it, men's
+masturbation. It's ugly and comical」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「うっ、ああっ……！」
-> CONTEXT: Commonevents/302/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/66/Dialogue
+\\N[12]. 「Uh, AAh......!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16415,28 +16446,32 @@ at the end. This is finisher!」#MTLed
 「私の髪の香りに包まれながら
 この完璧なスタイルの体を見上げながらオナニーできること
 幸せだと思ってもらいたいわね」
-> CONTEXT: Commonevents/302/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/69/Dialogue
+Darkwitch. 「While being enveloped in the scent
+of my hair. What you can masturbate while looking
+up at this perfect style body. I want you to
+think that you are happy」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は夢中になって右手を動かし、
 激しくペニスをしごきあげる！
-> CONTEXT: Commonevents/302/74/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/74/Dialogue
+\\N[12] He was crazy and moved his right hand,
+I will shake the penis violently!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「はあっ、はあっ……！」
-> CONTEXT: Commonevents/302/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/77/Dialogue
+\\N[12]. 「Ha ha, ha ha......!」#MTLed
 > END STRING
 
 > BEGIN STRING
 しゅっ、しゅっ、くちゅっ、しゅっ……！
-> CONTEXT: Commonevents/302/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/80/Dialogue
+Slougher, slip, crush, slide ....!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16444,53 +16479,59 @@ at the end. This is finisher!」#MTLed
 「だんだん息が荒くなってきましたわね。
 さあ、そのまま絶頂なさい。
 汚い精液を撒き散らす姿、しっかり見せてもらうわ」
-> CONTEXT: Commonevents/302/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/82/Dialogue
+Darkwitch. 「My breath has become rough.
+Now, just cum. A figure that scatters dirty
+semen, I will show you firmly」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「うっ……で、出るうううぅっ！」
-> CONTEXT: Commonevents/302/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/87/Dialogue
+\\N[12]. 「Wow ......, I will come out!」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あっ、ぐっ……あ、ああぁっ……！」
-> CONTEXT: Commonevents/302/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/93/Dialogue
+\\N[12]. 「Oh, huh ...... Oh, ah......!」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「はううぅっ……
 き、きもちよすぎるうぅ……」
-> CONTEXT: Commonevents/302/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/99/Dialogue
+\\N[12]. 「Ha ha...Well, it's too hard ...」#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチ
 「あははっ、ずいぶん大量に出したものですわねぇ。
 そんなに興奮していましたの？
-> CONTEXT: Commonevents/302/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/103/Dialogue
+Darkwitch. 「Hahahah, it was quite a lot of out.
+Were you excited so much?#MTLed
 > END STRING
 
 > BEGIN STRING
 まあ、私の髪の香りを味わっていては
 性欲が過多になるのも当然ですけれど。
 ふふっ、それにしても汚らしい精液ですわね」
-> CONTEXT: Commonevents/302/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/107/Dialogue
+Well, if you taste my scent of hair
+It is natural that libido will be excessive.
+Huh, it is dirty semen anyway」#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチは、地面に飛び散った精液を
 足の裏で踏みにじる。
-> CONTEXT: Commonevents/302/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/112/Dialogue
+Darkwitch sheds semen splashed to the ground
+Trampling on the soles of the feet.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16498,24 +16539,30 @@ at the end. This is finisher!」#MTLed
 「子種の無駄撃ち、ごくろうさま。
 まあ、あなたのような弱い男の精液が
 私の膣に注がれることは永遠にありえませんわね」
-> CONTEXT: Commonevents/302/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/115/Dialogue
+Darkwitch. 「Shoot useless shoots, cheers.
+Well, sperm of a weak man like you
+I can not ever be poured into my vagina」#MTLed
 > END STRING
 
 > BEGIN STRING
 ダークウィッチは長い髪を手でかき上げる仕草をする。
 そうすると、また\\N[12]に甘い香りが届き、
 再びドキドキさせられてしまう――
-> CONTEXT: Commonevents/302/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/123/Dialogue
+Dark witch makes a long-handed way to scoop hair
+by hand. Then, again \\N[12] The sweet
+fragrance reached, I will be let go again -#MTLed
 > END STRING
 
 > BEGIN STRING
 悔しさとドキドキに苛まれながら
 ダークウィッチを見上げる\\N[12]を、
 彼女は得意げな顔で見下ろしている。
-> CONTEXT: Commonevents/302/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/127/Dialogue
+While being frustrated by regret
+I look up at Darkwitch \\N[12] ,
+She overlooks with a proud face.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16523,15 +16570,18 @@ at the end. This is finisher!」#MTLed
 「これが、あなたと私の格の違いというものですわ。
 この美しく可憐な私にかかれば、
 あなた程度の男、指一本触れずに屈服させられますの」
-> CONTEXT: Commonevents/302/131/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/131/Dialogue
+Darkwitch. 「This is the difference between you
+and me. If I take care of this beautiful pretty,
+A man of your kind, you can get me to submit
+without touching a finger」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「く、くそっ……はぁ、はぁ……」
-> CONTEXT: Commonevents/302/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/136/Dialogue
+\\N[12]. 「Damn it...Ah, Ah ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16539,22 +16589,27 @@ at the end. This is finisher!」#MTLed
 「それじゃ、ごきげんよう。
 私を見上げながらみっともなくおちんちんをしごいて
 射精する姿、とっても滑稽で面白い見せ物でしたわよ、ふふっ♪」
-> CONTEXT: Commonevents/302/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/139/Dialogue
+Darkwitch. 「Well then, have a good day.
+While looking up at me, I squeezed the dumpling
+The figure of ejaculation, it was a very comical
+and funny show, yeah, heh heh♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はダークウィッチの魔性の香りによって弄ばれ、
 恥辱を味わわされて敗北した――
-> CONTEXT: Commonevents/302/144/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/144/Dialogue
+\\N[12] Was played with Darkwitch's magical
+scent, I was tasted shameful and defeated -#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はニーソックスの匂いを嗅いだ。
 性感度が3上がった！
-> CONTEXT: Commonevents/303/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/303/18/Dialogue
+\\N[12] I smelled the smell of the thigh.
+Sexual sensitivity has increased by 3!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16562,17 +16617,20 @@ at the end. This is finisher!」#MTLed
 「ふふっ、射精してしまったわね。
 これでもう、あなたには私に逆らう気力なんて
 残っていないでしょう」
-> CONTEXT: Commonevents/304/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/22/Dialogue
+Devilwitch. 「Huh, I did ejaculate.
+With this, you do not have the power to go
+against me. There will not be any left」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「う、ううっ……
 体が操られちまう、なんて……」
-> CONTEXT: Commonevents/304/27/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/304/180/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/27/Dialogue
+> CONTEXT: Commonevents/304/180/Dialogue
+\\N[12]. 「Uu...... How the body is being
+manipulated ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16580,9 +16638,12 @@ at the end. This is finisher!」#MTLed
 「操られてオナニーをしてしまった気分はどうかしら？
 この私を見上げながら絶頂できたのだから
 さぞ気持ちがよかったでしょう？
-> CONTEXT: Commonevents/304/31/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/304/184/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/31/Dialogue
+> CONTEXT: Commonevents/304/184/Dialogue
+Devilwitch. 「What do you feel like being
+manipulated and masturbating? Because I was able
+to culminate while looking up at me
+Well, did you feel good?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16590,18 +16651,21 @@ at the end. This is finisher!」#MTLed
 ここでもう一度オナニーなさい。
 もう私に逆らうことができなくなるように、
 男のプライドを粉々に打ち砕いてあげる」
-> CONTEXT: Commonevents/304/37/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/304/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/37/Dialogue
+> CONTEXT: Commonevents/304/190/Dialogue
+It's been awful, Masturbate again here.
+To make it impossible for me to defeat anymore,
+I will crush a man's pride to pieces」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はデビルウィッチの可憐な姿を見つめながら、
 必死にペニスを扱き上げる！
-> CONTEXT: Commonevents/304/47/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/304/104/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/304/200/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/47/Dialogue
+> CONTEXT: Commonevents/304/104/Dialogue
+> CONTEXT: Commonevents/304/200/Dialogue
+\\N[12] While staring at the pretty appearance
+of Devilwitch, Desperately treating the penis!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16609,18 +16673,22 @@ at the end. This is finisher!」#MTLed
 「ふふっ、その切なさと悔しさが入り混じった顔、
 たまらないわね。
 さあ、この私に屈服した証として、精液をぶちまけなさい」
-> CONTEXT: Commonevents/304/55/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/304/208/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/55/Dialogue
+> CONTEXT: Commonevents/304/208/Dialogue
+Devilwitch. 「Huh, the face mixed with that
+kindness and regret, It is irresistible.
+Now, as a proof that I succumbed to this, please
+sneak semen」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あ、あうぅ……き、きもちいい……
 さ、逆らえないぃっ……！」
-> CONTEXT: Commonevents/304/67/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/304/220/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/67/Dialogue
+> CONTEXT: Commonevents/304/220/Dialogue
+\\N[12]. 「Oh, oh ...., Comfortable ......
+Well, do not go wrong ...!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16628,10 +16696,12 @@ at the end. This is finisher!」#MTLed
 「これであなたは私の虜。
 魔族の魔法に太刀打ちしようだなんて、
 考えが甘かったわね。あははっ！」
-> CONTEXT: Commonevents/304/71/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/304/134/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/304/224/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/71/Dialogue
+> CONTEXT: Commonevents/304/134/Dialogue
+> CONTEXT: Commonevents/304/224/Dialogue
+Devilwitch. 「Now you are my prisoner.
+I tried to compare the magic of the demon group,
+My thought was sweet. Hahahah!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16639,16 +16709,18 @@ at the end. This is finisher!」#MTLed
 「あ、ああぁ……
 だ、ダメだ、手が止まらないっ……
 どうして、こんなっ……！」
-> CONTEXT: Commonevents/304/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/85/Dialogue
+\\N[12]. 「Oh, ah....... It is useless, the
+hand does not stop ...... Why, this is ...!」#MTLed
 > END STRING
 
 > BEGIN STRING
 デビルウィッチ
 「この私の必殺魔法、チャーム・ザ・マリオネットに
 逆らえる男などいないのよ。
-> CONTEXT: Commonevents/304/90/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/90/Dialogue
+Devilwitch. 「To this my deathbed magic, charm
+the marionette. There is no man to defy.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16656,8 +16728,12 @@ at the end. This is finisher!」#MTLed
 男はみんな、この私の美貌を見上げながら
 虚しくオナニーをすることしかできない。
 さあ、そのままオナニーを続けて惨めな射精をするがいいわ」
-> CONTEXT: Commonevents/304/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/94/Dialogue
+It is the last if you take this magic.
+All the guys looking up at this beautiful face
+I can only do masturbation in vain.
+Now, just continue on masturbating and do
+miserable ejaculation」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16665,8 +16741,9 @@ at the end. This is finisher!」#MTLed
 「う、ううっ……
 だ、だめだ、抵抗できないっ……
 あ、あああぁぁっ……！」
-> CONTEXT: Commonevents/304/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/99/Dialogue
+\\N[12]. 「Uu...... Oh no, no, I can not
+resist...Oh, Aaahhh......!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16674,8 +16751,11 @@ at the end. This is finisher!」#MTLed
 「ふっ、哀れなものね。
 とはいえ、この私を見ながらオナニーできるなんて
 人間の男程度には充分すぎる幸せだと思うわよ」
-> CONTEXT: Commonevents/304/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/108/Dialogue
+Devilwitch. 「It is a pathetic thing.
+However, I can masturbate while watching this me
+I think that it is too happy enough for human
+beings」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16683,8 +16763,10 @@ at the end. This is finisher!」#MTLed
 「く、くそっ……こんな、
 魔族の女に見下されながらオナニーだなんてっ……
 うっ……あ、あああっ！」
-> CONTEXT: Commonevents/304/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/113/Dialogue
+\\N[12]. 「Damn it...damn like this,
+It is a masturbation while being despised by a
+demonic woman ...... Ugh ...... Oh, Ahhh!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16692,15 +16774,19 @@ at the end. This is finisher!」#MTLed
 「屈服の射精をしてしまった気分はどう？
 さぞ気持ちよかったでしょうけれど、
 絶望感と屈辱感もまた格別でしょう？」
-> CONTEXT: Commonevents/304/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/122/Dialogue
+Devilwitch. 「How do you feel like having
+ejaculated your submission? Well, I guess it was
+comfortable, Is not it also exceptional feeling
+of despair and humiliation?」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は屈辱的な快感に震えながら、
 デビルウィッチを見上げる――
-> CONTEXT: Commonevents/304/131/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/131/Dialogue
+\\N[12] While trembling with humiliating
+pleasure, Look up at Devilwitch -#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16708,8 +16794,10 @@ at the end. This is finisher!」#MTLed
 「ふふっ、いっぱい出したわねぇ。
 今のあなたは私の虜。
 このままだと、ずっとオナニーし続けることになるわよ？」
-> CONTEXT: Commonevents/304/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/157/Dialogue
+Devilwitch. 「Huh, I heard a lot of it.
+Now you are my prisoner. If it keeps like this,
+will you keep masturbating forever?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16717,8 +16805,10 @@ at the end. This is finisher!」#MTLed
 「あら、もう抵抗できないようね。
 ま、この私の傀儡魔法にかかれば
 男を屈服させることなど、簡単なものね」
-> CONTEXT: Commonevents/304/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/175/Dialogue
+Devilwitch. 「Oh, it seems I can not resist.
+Well, if you are involved in this puppet magic
+It is easy to inflict a man.」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16726,15 +16816,19 @@ at the end. This is finisher!」#MTLed
 「さてさて、勝負は私の勝ちだけど……
 勝ち抜き戦のグレード６００以上に挑戦して負けた男には、
 罰ゲームを受けてもらう決まりなの」
-> CONTEXT: Commonevents/305/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/7/Dialogue
+Female soldier. 「, I am the winner of the game
+......To the man who challenged over the grade
+of the winning battle and lost,
+It is a rule to have you receive a punishment
+game」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ば、罰ゲームだと……」
-> CONTEXT: Commonevents/305/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/12/Dialogue
+\\N[12]. 「If it is a punishment game ......」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16742,36 +16836,42 @@ at the end. This is finisher!」#MTLed
 「ま、男が女に負けた時点で
 だいぶ恥ずかしいと思うけど。
 それに加えて、逆レイプショーの見せ物になってもらうわ」
-> CONTEXT: Commonevents/305/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/15/Dialogue
+Female soldier. 「Well, as soon as a man loses to
+a woman. I think it's a little embarrassing.
+In addition to that, I will get it to be a show
+of a reverse rape show」#MTLed
 > END STRING
 
 > BEGIN STRING
 女兵士は\\N[12]に歩み寄ると、
 見下ろしながら命令をしてくる。
-> CONTEXT: Commonevents/305/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/20/Dialogue
+Female soldiers \\N[12] As I walked to,
+I give orders while looking down.#MTLed
 > END STRING
 
 > BEGIN STRING
 女兵士
 「服を脱ぎなさい。
 言っておくけど、逆らうことは許されないからね」
-> CONTEXT: Commonevents/305/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/23/Dialogue
+Female soldier. 「Take off your clothes.
+I will tell you, because it is not allowed to go
+against it」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「うっ……くっ、くそっ」
-> CONTEXT: Commonevents/305/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/27/Dialogue
+\\N[12]. 「Ugh ...... Complex, damn secret」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は服を脱ぎ、全裸になった。
-> CONTEXT: Commonevents/305/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/31/Dialogue
+\\N[12] He took off his clothes and got naked.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16779,14 +16879,18 @@ at the end. This is finisher!」#MTLed
 「ふふ、結構いい体してるじゃない。
 でも、女兵士に太刀打ちできると思ったのは甘かったわね。
 鍛え方が違うんだから」
-> CONTEXT: Commonevents/305/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/33/Dialogue
+Female soldier. 「Hehe, you have a pretty good
+body. But I thought that I thought I could
+compete with female soldiers was sweet.
+Because how to train is different」#MTLed
 > END STRING
 
 > BEGIN STRING
 そう言いながら、女兵士は\\N[12]の腹の上に座り込む。
-> CONTEXT: Commonevents/305/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/38/Dialogue
+While saying so, female soldiers \\N[12]
+Sitting on the belly of the.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16794,65 +16898,76 @@ at the end. This is finisher!」#MTLed
 「女に負けた上に、お尻に敷かれちゃってる気分はどうかしら？
 なまじ女のお尻の感触が心地いいから、
 悔しさが余計に大きくなっちゃうでしょ」
-> CONTEXT: Commonevents/305/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/47/Dialogue
+Female soldier. 「How about the feeling of being
+lying on the butt after losing to the woman?
+Because the feeling of the ass of a Japanese
+lady's comfort is comfortable,
+The regret will become unnecessarily bigger」#MTLed
 > END STRING
 
 > BEGIN STRING
 女兵士は\\N[12]の腹に座ったまま、
 お尻の感触を味わわせようとするかのように
 ぐりぐりと押し付けてくる。
-> CONTEXT: Commonevents/305/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/52/Dialogue
+Female soldiers \\N[12] While sitting on the
+belly, As if trying to taste the feel of buttocks
+It rubs against * rub *.#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あっ、ぐっ……」
-> CONTEXT: Commonevents/305/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/60/Dialogue
+\\N[12]. 「Ah, huh ......」#MTLed
 > END STRING
 
 > BEGIN STRING
 女兵士
 「さてと、それじゃおちんちんを嫐ってあげるわ」
-> CONTEXT: Commonevents/305/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/63/Dialogue
+Female soldier. 「Well, then I'll give you a penis
+」#MTLed
 > END STRING
 
 > BEGIN STRING
 女兵士は一度お尻を浮かし、
 \\N[12]のペニスを押しつぶした！
-> CONTEXT: Commonevents/305/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/66/Dialogue
+Once a female soldier hips his ass,
+\\N[12] I crushed my penis!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あぐうっ！」
-> CONTEXT: Commonevents/305/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/72/Dialogue
+\\N[12]. 「Congratulations!」#MTLed
 > END STRING
 
 > BEGIN STRING
 女兵士
 「体重がおちんちんにかかってると、けっこう辛いでしょう。
 このままペニスをお尻でぐりぐりしてあげるわ」
-> CONTEXT: Commonevents/305/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/75/Dialogue
+Female soldier. 「It will be pretty painful if
+your weight is on top of you. I will give you *
+rub * with your penis as it is」#MTLed
 > END STRING
 
 > BEGIN STRING
 下着に包まれた女兵士のお尻が、ペニスを乱暴に蹂躙する！
-> CONTEXT: Commonevents/305/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/79/Dialogue
+The ass of a female soldier wrapped in an
+underwear ruins the penis violently!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「うあっ、いっ、痛いっ！」
-> CONTEXT: Commonevents/305/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/87/Dialogue
+\\N[12]. 「Wow, that hurts!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16860,23 +16975,28 @@ at the end. This is finisher!」#MTLed
 「すぐに気持ちよくなるわよ。
 自分を負かした女のお尻でおちんちんを責められる屈辱
 たっぷり味わいなさい」
-> CONTEXT: Commonevents/305/90/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/90/Dialogue
+Female soldier. 「It will be comfortable soon.
+Humiliation that can blame the baby at the ass of
+the woman who beat her. Taste plenty」#MTLed
 > END STRING
 
 > BEGIN STRING
 女兵士は、ペニス全体を刺激するように
 お尻を前後に動かしてくる。
-> CONTEXT: Commonevents/305/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/95/Dialogue
+Female soldiers like to stimulate the penis whole
+I will move the butt back and forth.#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 （ううっ……し、下着の感触と
 お尻の柔らかさが伝わってきて、ゾクゾクしちまうっ）
-> CONTEXT: Commonevents/305/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/100/Dialogue
+\\N[12]. (Uugh...... and then feel the
+underwear and. The softness of the butt is
+transmitted, tremble it)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16884,52 +17004,60 @@ at the end. This is finisher!」#MTLed
 「あはっ、情けない声出しちゃって。
 さっそく気持ちよくなってきているみたいね。
 それじゃ、こうするとどうかしら？」
-> CONTEXT: Commonevents/305/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/107/Dialogue
+Female soldier. 「Hahah, I got a miserable voice.
+You seem to be getting comfortable at once.
+Well then, how about doing this?」#MTLed
 > END STRING
 
 > BEGIN STRING
 今度は、女兵士は腰を左右に小刻みに動かし
 ペニスを尻肉で揉むようにしてくる！
-> CONTEXT: Commonevents/305/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/112/Dialogue
+Next time, the female soldier moves the waist
+sideways to the left and right
+I will try to rub the penis with the butt meat!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ぐっ、お、重いっ……
 はぁ、はぁっ……」
-> CONTEXT: Commonevents/305/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/115/Dialogue
+\\N[12]. 「Hey, heavy ...... Ah, Ahh ...」#MTLed
 > END STRING
 
 > BEGIN STRING
 女兵士
 「重みがおちんちんにかかって辛いでしょう。
 でも、その分刺激も大きいはずよ」
-> CONTEXT: Commonevents/305/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/119/Dialogue
+Female soldier. 「It will be painful, depending
+on the weight. But, the stimulation should be
+great accordingly」#MTLed
 > END STRING
 
 > BEGIN STRING
 そう言いながら、さらに女兵士は
 円を描くように腰を動かし、
 ペニス全体をお尻で蹂躙してくる！
-> CONTEXT: Commonevents/305/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/123/Dialogue
+While saying that, even female soldiers
+Move your hips to draw a circle,
+I will overrun the entire penis with my butt!#MTLed
 > END STRING
 
 > BEGIN STRING
 ぐにゅううぅっ、ぐにいぃっ！
-> CONTEXT: Commonevents/305/128/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/128/Dialogue
+Gutsu っ ぷ ぅ っ ぅ っ ゅ っ っ ぱ っ ゅ っ っ ぱ っ ぱ っ ぷ っ て,#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「うああああぁっ！」
-> CONTEXT: Commonevents/305/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/130/Dialogue
+\\N[12]. 「Wow Aaahh!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16937,8 +17065,10 @@ at the end. This is finisher!」#MTLed
 「あははっ、切ない悲鳴上げちゃって
 可愛いわよ、ボク♪
 お尻の重みが辛いけど、感触が気持ちいいんでしょう？」
-> CONTEXT: Commonevents/305/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/133/Dialogue
+Female soldier. 「Hahahah, I'm screaming screaming
+You are cute, me.♪. The weight of the buttocks
+is painful, but does the touch feels good?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16946,8 +17076,11 @@ at the end. This is finisher!」#MTLed
 「あらあら、ずいぶん可愛らしいこと……
 女に嫐られる少年の姿というのも
 なかなか見せ物として悪くありませんわねえ」
-> CONTEXT: Commonevents/305/138/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/138/Dialogue
+Noble women. 「oh no, what a pretty thing ......
+It is also said that the appearance of a boy
+suffering from a woman. It is not as bad as a
+show」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16955,8 +17088,10 @@ at the end. This is finisher!」#MTLed
 「うーん、耳に心地いい悲鳴ね。
 なんだかドキドキしてきちゃう、
 自分が男の子いじめてるみたいな気分♪」
-> CONTEXT: Commonevents/305/143/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/143/Dialogue
+Audience (female). 「Well, it sounds comfortable
+to the ear. Somehow it will definitely be,
+I feel like a boy being a boy♪」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16964,30 +17099,34 @@ at the end. This is finisher!」#MTLed
 （くうっ……
 こんな姿を見られて嘲笑されちまうなんて、
 情けなさすぎるっ……）
-> CONTEXT: Commonevents/305/148/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/148/Dialogue
+\\N[12]. (Wow ...... I was scolded by being
+seen such a figure, It is miserable...#MTLed
 > END STRING
 
 > BEGIN STRING
 女性の観客たちがくすくす笑っているのを察し、
 \\N[12]は恥辱に体を震わせる――
-> CONTEXT: Commonevents/305/153/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/153/Dialogue
+I saw women 's audience laughing,
+\\N[12] He trembling with shame -#MTLed
 > END STRING
 
 > BEGIN STRING
 女兵士
 「さあ、そろそろイっちゃうんじゃない？
 おちんちんが震えてきたし、大きくなってきたわよ」
-> CONTEXT: Commonevents/305/156/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/156/Dialogue
+Female soldier. 「Come on now, are not you going
+to wear it? The dumplings have trembled and they
+are getting bigger」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あっ、あうっ……！」
-> CONTEXT: Commonevents/305/162/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/162/Dialogue
+\\N[12]. 「Oh, Ooh!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -16995,28 +17134,30 @@ at the end. This is finisher!」#MTLed
 「このままイかせてあげる。
 さあ、トドメよ。
 女のお尻に押しつぶされて、みっともなく射精しちゃいなさいっ！」
-> CONTEXT: Commonevents/305/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/165/Dialogue
+Female soldier. 「I will leave it alone.
+Now, finisher. Be crushed by the woman's ass, and
+ejaculate with intention!」#MTLed
 > END STRING
 
 > BEGIN STRING
 ぐにゅうううぅっ！
-> CONTEXT: Commonevents/305/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/170/Dialogue
+Gouganou!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あっ、あああああああぁぁっ！」
-> CONTEXT: Commonevents/305/172/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/172/Dialogue
+\\N[12]. 「Oh, Oh Aaaaahhh!」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あがっ、あっ、あううぅっ……」
-> CONTEXT: Commonevents/305/179/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/179/Dialogue
+\\N[12]. 「Well, there, ah, ah ..」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17024,8 +17165,10 @@ at the end. This is finisher!」#MTLed
 「ふふっ、いっぱいぶちまけちゃったわね。
 女の尻に男の象徴を蹂躙されて射精するの、
 とっても気持ちよかったでしょう？
-> CONTEXT: Commonevents/305/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/182/Dialogue
+Female soldier. 「Huh, I suffered a lot.
+The man 's symbol is overrun by a woman's ass and
+ejaculated, Was it really pleasant?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17033,15 +17176,20 @@ at the end. This is finisher!」#MTLed
 もう立ち直れないかな？
 もし、またこのグレードに挑戦してきたら
 この屈辱をもう一度味わわせてあげる♪」
-> CONTEXT: Commonevents/305/187/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/187/Dialogue
+I had such a miserable ejaculation in public,
+I wonder if we can recover already?
+If you challenge this grade again
+I will taste this humiliation again♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はグレード６００の最終戦に敗れ、
 女兵士による逆レイプを受けてしまった……
-> CONTEXT: Commonevents/305/192/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/192/Dialogue
+\\N[12] Was defeated in the final race of
+grade 600, I received a reverse rape by a female
+soldier ......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17049,15 +17197,17 @@ at the end. This is finisher!」#MTLed
 「さて、また敗退しちゃったわねぇ。
 最後の最後に負けちゃうのって悔しいでしょう？
 あとちょっとで3000Gも手に入れられたのに……ねぇ」
-> CONTEXT: Commonevents/306/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/10/Dialogue
+bunny girl. 「Well, I've lost it again.
+It is frustrating to lose at the end of the end?
+I got 3000 G at a later time...... hey」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ぐっ……くそっ……」
-> CONTEXT: Commonevents/306/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/15/Dialogue
+\\N[12]. 「Damn...damn ......」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17065,15 +17215,18 @@ at the end. This is finisher!」#MTLed
 「しかも、これからキミはまた
 快楽と恥辱を味わわされることになる。
 敗北の代償って大きいわよねえ」
-> CONTEXT: Commonevents/306/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/18/Dialogue
+bunny girl. 「Moreover, from now on
+It will taste pleasure and shame.
+The price of defeat is great.」#MTLed
 > END STRING
 
 > BEGIN STRING
 そう言いながら、バニーガールは
 \\N[12]にのしかかってくる。
-> CONTEXT: Commonevents/306/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/23/Dialogue
+As I said so, bunny girl. \\N[12] I am
+approaching.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17081,8 +17234,10 @@ at the end. This is finisher!」#MTLed
 「私のおっぱいで興奮しちゃってるのかしら？
 顔が赤いわよ？
 それとも、前回のことを思い出してドキドキしてる？」
-> CONTEXT: Commonevents/306/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/30/Dialogue
+bunny girl. 「Are you excited about my boobs?
+Your face is red? Or have you remembered the last
+time?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17090,31 +17245,36 @@ at the end. This is finisher!」#MTLed
 「ま、期待通り今回も思いっきり犯してあげる。
 またヒイヒイ喘いで、
 快楽に染まった痴態を晒してね♪」
-> CONTEXT: Commonevents/306/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/38/Dialogue
+bunny girl. 「Well, as expected, I will commit it
+without fail. In addition, Exposed to the
+pleasantly drowned state♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガールは
 ゆっくりと腰を下ろし、\\N[12]のペニスを
 女性器で飲み込んでゆく――
-> CONTEXT: Commonevents/306/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/43/Dialogue
+bunny girl. Slowly sit down, \\N[12] Penis of
+Swallowing with female vessels -#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガール
 「さてと、最高グレードに挑んで虚しく敗北したキミに
 私が罰ゲームを執行してあげるわ」
-> CONTEXT: Commonevents/306/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/57/Dialogue
+bunny girl. 「Well, to Kimi who was defeated
+empty by challenging the highest grade
+I will enforce punishment games」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「う、ううっ……いったい、なにを……」
-> CONTEXT: Commonevents/306/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/61/Dialogue
+\\N[12]. 「Uugh...... what on earth ......」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17122,14 +17282,17 @@ at the end. This is finisher!」#MTLed
 「私がキミを観客の前で犯して恥辱を与える、
 っていうだけよ。
 快楽を味わえるんだから、むしろおいしいかもね」
-> CONTEXT: Commonevents/306/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/64/Dialogue
+bunny girl. 「I commit myself in front of the
+audience and give shame, Just saying.
+Because it can enjoy pleasure, it may be rather
+delicious」#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガールは\\N[12]にのしかかってくる。
-> CONTEXT: Commonevents/306/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/69/Dialogue
+bunny girl \\N[12] I am approaching.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17137,23 +17300,28 @@ at the end. This is finisher!」#MTLed
 「大丈夫よ、手加減してあげるから。
 本気ならキミが廃人になるまで犯してあげるところだけど
 正気を保てる程度にしておいてあげる♪」
-> CONTEXT: Commonevents/306/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/75/Dialogue
+bunny girl. 「Okay, I'll give you a hand.
+If you are serious I will commit you until you
+become a scrapped person. I will keep it to be
+sane♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 そう言いながら、バニーガールは
 ゆっくりと腰を下ろし、\\N[12]のペニスを
 女性器で飲み込んでゆく――
-> CONTEXT: Commonevents/306/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/80/Dialogue
+As I said so, bunny girl. Slowly sit down,
+\\N[12] Penis of. Swallowing with female
+vessels -#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あっ、あぐうぅっ……」
-> CONTEXT: Commonevents/306/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/98/Dialogue
+\\N[12]. 「Oh, ah ..hu ..」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17161,16 +17329,22 @@ at the end. This is finisher!」#MTLed
 「あらあら、挿れただけで射精してしまったのね。
 しょうがないわねぇ、キミって本当に早漏なのね。
 私の膣が名器なのは確かだけど、いくらなんでも早すぎよ」
-> CONTEXT: Commonevents/306/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/102/Dialogue
+bunny girl. 「oh no, I just cummed it by
+ejaculation. It can not be helped, you are really
+premature ejaculation. It is certain that my
+vagina is a masterpiece, but anything is too fast
+」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 （や、やばいっ……
 こいつの中、うねうねとチンコに絡みついてくるみたいだ……）
-> CONTEXT: Commonevents/306/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/107/Dialogue
+\\N[12]. (Oh yeah, yeah yeah ....
+She seems to get caught up in a bitch and a dick
+... ...)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17178,72 +17352,81 @@ at the end. This is finisher!」#MTLed
 「私の膣壁、極上の感触でしょ？
 このまま動かずにいても、キミの早漏おちんちんなら
 また射精しちゃうでしょうけど、それじゃつまらないわ。
-> CONTEXT: Commonevents/306/111/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/111/Dialogue
+bunny girl. 「My vaginal wall, do you feel the
+best? Even if it does not move as it is, if you
+are premature and ejaculated by you
+I will ejaculate again, but that is boring.#MTLed
 > END STRING
 
 > BEGIN STRING
 せっかくセックスしているんだから、
 このまま動いて刺激してあげるわね。
 えいっ♪」
-> CONTEXT: Commonevents/306/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/116/Dialogue
+Because I'm having sex with great pains,
+I will move and stimulate you like this.
+Ei♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 ずちゅうっ……
-> CONTEXT: Commonevents/306/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/121/Dialogue
+Enjoy......#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あっ、あああぁぁっ！」
-> CONTEXT: Commonevents/306/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/123/Dialogue
+\\N[12]. 「Oh, Aaahhh!」#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガール
 「最初はゆっくり動いてあげるわね」
-> CONTEXT: Commonevents/306/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/126/Dialogue
+bunny girl. 「I will move slowly at first」#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガールの温かな膣壁がゆっくりとペニスを撫で、
 ゾクゾクとした性感を\\N[12]に与えてくる――
-> CONTEXT: Commonevents/306/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/130/Dialogue
+The warm vaginal wall of bunny girl caressed the
+penis slowly, Trembling as tremble \\N[12] I
+will give it to you -#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガール
 「ふふっ、こんな緩やかな刺激でも簡単に射精しちゃいそうね。
 いつでもいいわよ、私の中に思いっきり出しちゃいなさい」
-> CONTEXT: Commonevents/306/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/136/Dialogue
+bunny girl. 「He seems to easily ejaculate even
+with such gentle stimulation. You can always make
+it out to me in thought」#MTLed
 > END STRING
 
 > BEGIN STRING
 ずちゅっ、ずちゅううぅっ……！
-> CONTEXT: Commonevents/306/140/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/140/Dialogue
+A couple of things ...!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「うあっ……
 で、出るうううぅっ！」
-> CONTEXT: Commonevents/306/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/142/Dialogue
+\\N[12]. 「Well...So, it will come out!」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「はうううぅぅっ……」
-> CONTEXT: Commonevents/306/152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/152/Dialogue
+\\N[12]. 「Ha ha ....」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17251,37 +17434,43 @@ at the end. This is finisher!」#MTLed
 「心地いい快楽でしょ？
 最初だから優しくしてあげたわ。
 これから、どんどんキツくしていくからね」
-> CONTEXT: Commonevents/306/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/155/Dialogue
+bunny girl. 「Comfortable pleasure right?
+Because I was first, I made it kind.
+From now on, more and more」#MTLed
 > END STRING
 
 > BEGIN STRING
 言うが早いか、バニーガールは腰をグラインドさせ
 激しくペニスを責め立ててくる！
-> CONTEXT: Commonevents/306/160/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/160/Dialogue
+As soon as you say, bunny girl will grind your
+waist. I will accuse the penis fiercely!#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガールが腰を大きく動かしたことで
 強烈な快感がペニスに走り、\\N[12]は悲鳴を上げる。
-> CONTEXT: Commonevents/306/169/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/169/Dialogue
+As bunny girl moved her hips a lot
+An intense pleasure ran to the penis, \\N[12]
+I scream.#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガール
 「はい、もう一回出してね♪」
-> CONTEXT: Commonevents/306/172/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/172/Dialogue
+bunny girl. 「Yes, please put it out once more♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ひっ、ひいっ！
 だ、ダメだっ、出るううぅっ！」
-> CONTEXT: Commonevents/306/178/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/178/Dialogue
+\\N[12]. 「Hit, huh! However, it is useless,
+it will come out!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17289,28 +17478,32 @@ at the end. This is finisher!」#MTLed
 「本当に早いわねえ、ちょっと刺激してあげただけで
 面白いようにイってくれるから、私も楽しいわ。
 優越感でゾクゾクしちゃう」
-> CONTEXT: Commonevents/306/187/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/187/Dialogue
+bunny girl. 「It's really early, I just
+stimulated you for a moment. It will be fun as I
+like it to be funny. I will tremble with a
+feeling of superiority」#MTLed
 > END STRING
 
 > BEGIN STRING
 そう言いながら、バニーガールは
 今度は腰を上下にリズムよく動かしてくる！
-> CONTEXT: Commonevents/306/192/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/192/Dialogue
+As I said so, bunny girl. This time I will move
+your waist up and down rhythmically!#MTLed
 > END STRING
 
 > BEGIN STRING
 ずっ、ずっ、ずちゅっ、ずぷっ……
-> CONTEXT: Commonevents/306/196/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/196/Dialogue
+A lot, a lot, a lot, ...#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あっ、あがっ、あうっ！」
-> CONTEXT: Commonevents/306/198/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/198/Dialogue
+\\N[12]. 「Oh, it's okay, Ooh!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17318,28 +17511,32 @@ at the end. This is finisher!」#MTLed
 「もうすっかり無抵抗になっちゃったわね。
 ま、これだけペニスに絡みつかれながら動かれたら
 どんな男でも耐えられるわけがないけど♪」
-> CONTEXT: Commonevents/306/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/201/Dialogue
+bunny girl. 「I have already become completely
+resistant. Well, as long as it is trapped while
+being caught by the penis. Although no man can
+bear it♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガールは愉快そうに笑みを浮かべながら
 激しく腰を上下させる！
-> CONTEXT: Commonevents/306/206/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/206/Dialogue
+bunny girl smiling funny. Raise your waist up and
+down violently!#MTLed
 > END STRING
 
 > BEGIN STRING
 ずちゅっ、ずちゅっ、ずっ、ぐちゅっ！
-> CONTEXT: Commonevents/306/209/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/209/Dialogue
+A couple of hours, a half hour, a week, a half!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ひあっ、あっ、あひいいぃっ！」
-> CONTEXT: Commonevents/306/211/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/211/Dialogue
+\\N[12]. 「Hit, あ あ, あ い い い っ!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17347,15 +17544,18 @@ at the end. This is finisher!」#MTLed
 「みっともない悲鳴ね、坊や！
 さあ、そろそろまたイっちゃうんじゃない？
 女の責めに屈して、敗北の精液をいっぱい出しなさいっ♪」
-> CONTEXT: Commonevents/306/214/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/214/Dialogue
+bunny girl. 「Awesome scream, boy!
+Come on now, are not you going to wear it again
+soon? Give in to the woman's condemnation and put
+out a lot of semen of defeat.♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ひっ、ひううぅっ……」
-> CONTEXT: Commonevents/306/231/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/231/Dialogue
+\\N[12]. 「Hit, weeping ...」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17363,57 +17563,63 @@ at the end. This is finisher!」#MTLed
 「ふうっ、私もちょっとだけ気持ちよかったわ。
 あなたのおちんちんが膣を撫でてくれて心地いいし、
 それに、キミの痴態が女心をくすぐってくれるから」
-> CONTEXT: Commonevents/306/234/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/234/Dialogue
+bunny girl. 「Fortunately, I was a little
+pleasant. Your pussy gently strokes your vagina
+and you feel comfortable, Besides, your
+foolishness will tickle your woman's heart」#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガールは少し頬を赤く染め、
 満足そうに微笑んでいる。
-> CONTEXT: Commonevents/306/239/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/239/Dialogue
+bunny girl dyed his cheek a little red,
+I am smiling with satisfaction.#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガール
 「さてと、それじゃ最後に……
 膣を思いっきり締め付けてあげるわね」
-> CONTEXT: Commonevents/306/242/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/242/Dialogue
+bunny girl. 「Well then, in the end ...
+I'll tighten the vagina」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「や、やめ……も、もう、限界……」
-> CONTEXT: Commonevents/306/246/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/246/Dialogue
+\\N[12]. 「And, stop...... well, the limit
+......」#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガール
 「そおれ、ぎゅーっ♪」
-> CONTEXT: Commonevents/306/249/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/249/Dialogue
+bunny girl. 「Sure.♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 バニーガールの膣が強烈に締め付けられる！
-> CONTEXT: Commonevents/306/252/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/252/Dialogue
+The vagina of bunny girl is tightened intensely!#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「ひぎいいいぃぃっ！」
-> CONTEXT: Commonevents/306/257/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/257/Dialogue
+\\N[12]. 「Hiki い い ぃ!」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「あ、あひ……あ、ああぁ……」
-> CONTEXT: Commonevents/306/265/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/265/Dialogue
+\\N[12]. 「Oh, あ ひ....... あ, あ あ ぁ ......」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17421,39 +17627,49 @@ at the end. This is finisher!」#MTLed
 「涙を流しながら上半身を反り返らせて
 ひくひく震えてる姿……
 うふふっ、とても剣士とは思えない情けなさね」
-> CONTEXT: Commonevents/306/268/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/268/Dialogue
+bunny girl. 「Raise your upper body while
+shedding tears. Shivering form ......
+Uhufu, it is a miserable feeling that you are not
+a swordsmen very much」#MTLed
 > END STRING
 
 > BEGIN STRING
 観客
 「あはっ、女に犯されてヒイヒイ言っちゃってる」
-> CONTEXT: Commonevents/306/273/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/273/Dialogue
+audience. 「Hahah, I was fucked by a woman and
+said」#MTLed
 > END STRING
 
 > BEGIN STRING
 観客
 「こういう男の子の姿を見るとドキドキするわねぇ。
 これだから、闇闘技場の観戦はやめられないわ」
-> CONTEXT: Commonevents/306/276/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/276/Dialogue
+audience. 「When you see the appearance of a boy
+like this, he's a golly. Because of this, we can
+not stop watching the Yakushi field」#MTLed
 > END STRING
 
 > BEGIN STRING
 観客
 「ミュエルが絡むと賭けも簡単だしね。
 男の子が勝てるわけないもの♪」
-> CONTEXT: Commonevents/306/280/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/280/Dialogue
+audience. 「Betting is easy if Miel is involved.
+What a boy can win♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 女性の観客たちにくすくす笑われながら、
 \\N[12]は全身を苛み続ける痺れるような快楽に
 体をがくがくと震わせ続ける――
-> CONTEXT: Commonevents/306/284/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/284/Dialogue
+While being laughed at by female audiences,
+\\N[12] It is a pitying pleasure to keep
+frightening the whole body. Keep your body
+shivering -#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17461,29 +17677,35 @@ at the end. This is finisher!」#MTLed
 「これでキミの1000Gは没収♪
 女に恥辱と快楽を味わわされたあげくに
 お金も取られちゃった気分はどうかしら？
-> CONTEXT: Commonevents/306/288/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/288/Dialogue
+bunny girl. 「Your 1000 g forfeited with this♪
+As a woman tasted shame and pleasure
+How is the feeling that money has been taken?#MTLed
 > END STRING
 
 > BEGIN STRING
 これに懲りずに、何度でも挑戦してくるといいわ。
 また屈辱を味わうことになると思うけど、
 そのうち癖になっちゃうと思うわよ♪」
-> CONTEXT: Commonevents/306/293/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/293/Dialogue
+Do not be discouraged about this, you should try
+as many times as you like. I think that I will
+also experience humiliation, I guess it will be a
+habit♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はバニーガールに敗北し、
 快楽地獄を味わわされた……
-> CONTEXT: Commonevents/306/298/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/298/Dialogue
+\\N[12] He was defeated by bunny girl,
+I was tasted pleasure hell......#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はルフティナのホールド技を回避した！
-> CONTEXT: Commonevents/311/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/311/18/Dialogue
+\\N[12] He avoided Luftina's hold technique!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17491,8 +17713,10 @@ at the end. This is finisher!」#MTLed
 「あらあら、射精してしまったのね。
 抱きしめているだけでイっちゃっただなんて、
 そんなにわたくしの胸が心地よかったのですか？」
-> CONTEXT: Commonevents/312/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/20/Dialogue
+Queen Luftina. 「oh no, I did ejaculate.
+I just caressed you, I was scared,
+Is my heart so comfortable so much?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17500,8 +17724,12 @@ at the end. This is finisher!」#MTLed
 「結果的には、その邪悪な剣でわたくしの衣を剥ぎ取ったことが
 あなたの自滅につながりましたね。
 やはり、悪の力を使役する者には罰が下るということです」
-> CONTEXT: Commonevents/312/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/28/Dialogue
+Queen Luftina. 「As a result, I stripped my
+clothing with that wicked sword
+It led to your self destruction.
+After all, those who cherish the power of evil
+are to be punished」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17509,25 +17737,29 @@ at the end. This is finisher!」#MTLed
 「ふふっ、武道大会に優勝するほどの剣士といえど
 女の胸の前では可愛いものですね。
 さあ、そのままもう一度絶頂なさい」
-> CONTEXT: Commonevents/312/43/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/312/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/43/Dialogue
+> CONTEXT: Commonevents/312/163/Dialogue
+Queen Luftina. 「Huh, it is a sword fighter who
+can win the martial arts tournament
+It is cute in front of a woman's chest.
+Now, just cum again as it is」#MTLed
 > END STRING
 
 > BEGIN STRING
 ルフティナは\\N[12]を柔らかく抱きしめ続ける――
-> CONTEXT: Commonevents/312/48/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/312/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/48/Dialogue
+> CONTEXT: Commonevents/312/168/Dialogue
+Luftina \\N[12] Keep hugging softly -#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「うあっ、あっ……
 こ、心地よすぎる……あ、ああっ……！」
-> CONTEXT: Commonevents/312/50/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/312/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/50/Dialogue
+> CONTEXT: Commonevents/312/170/Dialogue
+\\N[12]. 「Ugh .... This is too comfortable
+... Ah, AAh......!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17535,17 +17767,21 @@ at the end. This is finisher!」#MTLed
 「まあ、こんなところかしら。
 まだまだ、わたくしのおっぱいも
 若い男の子を惑わせる程度の魅力は保てているみたいね♪」
-> CONTEXT: Commonevents/312/60/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/312/180/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/60/Dialogue
+> CONTEXT: Commonevents/312/180/Dialogue
+Queen Luftina. 「Well, I wonder why this is the
+place. , My boobs too. It seems like I'm keeping
+the charm enough to make the young boy mislead.♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は、女王ルフティナのおっぱいホールドによって
 戦う気力を奪いつくされて屈服した……
-> CONTEXT: Commonevents/312/65/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/312/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/65/Dialogue
+> CONTEXT: Commonevents/312/185/Dialogue
+\\N[12] By Queen Luftina's boob hold
+I was robbed of my fighting power and bowed down
+... ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17553,8 +17789,10 @@ at the end. This is finisher!」#MTLed
 「あら、力が抜けてふにゃっとなってしまったわね。
 こんなおばさんの胸が
 そんなに心地よかったのかしら、ふふっ」
-> CONTEXT: Commonevents/312/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/79/Dialogue
+Queen Luftina. 「Oh, it has gotten out of power
+and turned into a muffler. Such a lady's breasts
+I wonder if it was so comfortable, Fuh?」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17562,8 +17800,10 @@ at the end. This is finisher!」#MTLed
 「甘えたければそれでもいいけれど……
 ふふっ、そんなことでいいのかしら？
 わたくしに勝って、アルミナと結婚したいのでしょう？
-> CONTEXT: Commonevents/312/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/87/Dialogue
+Queen Luftina. 「It's fine even if you want to
+spoil it...... Huh, I wonder if such a thing is
+OK? Do you want to win and marry Alumina?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17571,38 +17811,48 @@ at the end. This is finisher!」#MTLed
 胸に抱かれて脱力してしまうだなんて
 まさに自滅ね。
 こんなことでは、到底娘を任せられないわ」
-> CONTEXT: Commonevents/312/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/92/Dialogue
+Use my evil sword to strip my clothes
+I was getting weakened when I was caught in my
+chest. It is exactly self destruction.
+With such a thing, I can not trust my daughter at
+all」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「う、ううっ……そ、そんな……」
-> CONTEXT: Commonevents/312/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/97/Dialogue
+\\N[12]. 「Uugh...uh...that......」#MTLed
 > END STRING
 
 > BEGIN STRING
 女王ルフティナ
 「おっぱいに甘えたまま負けてしまった気分はどうかしら？
 このまま、しばらく抱きしめ続けてあげます。
-> CONTEXT: Commonevents/312/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/100/Dialogue
+Queen Luftina. 「What do you feel like losing
+while breastfeeding? As it is this way I will
+continue holding you for a while.#MTLed
 > END STRING
 
 > BEGIN STRING
 己の無力さを味わいながら、
 じっくりと負けを噛みしめるといいでしょう。
 うふふっ♪」
-> CONTEXT: Commonevents/312/104/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/104/Dialogue
+While tasting my helplessness,
+You'd better bite down slowly.
+Reshuffle♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]は、女王のおっぱいに抱きしめられ
 戦う気力を奪いつくされて屈服した……
-> CONTEXT: Commonevents/312/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/108/Dialogue
+\\N[12] Hugged in the queen's boobs
+I was robbed of my fighting power and bowed down
+... ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17610,31 +17860,38 @@ at the end. This is finisher!」#MTLed
 「あらあら、射精してしまったのね。
 このまま抱きしめられ続けていたら、手遅れになるわよ？
 早く脱出したほうがいいんじゃないかしら」
-> CONTEXT: Commonevents/312/128/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/128/Dialogue
+Queen Luftina. 「oh no, I did ejaculate.
+If I keep holding you like this, it will be too
+late. I wonder if it is better to escape quickly」#MTLed
 > END STRING
 
 > BEGIN STRING
 女王ルフティナ
 「あら、力が抜けてふにゃっとしてしまったわね。
 どうやら、もう力尽きてしまったのかしら？
-> CONTEXT: Commonevents/312/145/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/145/Dialogue
+Queen Luftina. 「Oh, I got myself pulled out of
+power. Apparently, have you exhausted already?#MTLed
 > END STRING
 
 > BEGIN STRING
 結果的には、その邪悪な剣でわたくしの衣を剥ぎ取ったことが
 あなたの自滅につながりましたね。
 やはり、悪の力を使役する者には罰が下るということです」
-> CONTEXT: Commonevents/312/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/312/149/Dialogue
+As a result, I stripped my clothing with that
+wicked sword. It led to your self destruction.
+After all, those who cherish the power of evil
+are to be punished」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]はルフティナに頭を抱き寄せられ、
 おっぱいの谷間に顔をうずめている！
-> CONTEXT: Commonevents/313/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/313/1/Dialogue
+\\N[12] He was hugged by Luftina 's head,
+He has a face in the cleavage of boobs!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17642,8 +17899,10 @@ at the end. This is finisher!」#MTLed
 「ふふっ、逃しませんよ？
 わたくしのおっぱいの虜にしたまま、
 あなたが力を失うまで抱きしめていてあげます♪」
-> CONTEXT: Commonevents/313/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/313/28/Dialogue
+Luftina. 「Huh, I will not miss it.
+With me captivating my breasts,
+I will hold you till you lose power♪」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17651,25 +17910,28 @@ at the end. This is finisher!」#MTLed
 「あらあら、抵抗しないつもりなのかしら？
 まあ、それもよろしいでしょう。
 女王の胸に抱かれたまま、力尽きるまで甘えていなさい♪」
-> CONTEXT: Commonevents/313/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/313/43/Dialogue
+Luftina. 「oh no, are not you going to resist?
+Well, that would be okay. Keep yourself embraced
+by the Queen's chest until you are exhausted♪」#MTLed
 > END STRING
 
 > BEGIN STRING
 アルミナ
 「戦っている最中に棒立ちになって、どうしましたの？
 隙だらけですわよ！」
-> CONTEXT: Commonevents/316/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/316/11/Dialogue
+alumina. 「I got stuck in the middle of fighting,
+what did you do? There are lots of gaps!」#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[12]
 「はっ！
 し、しまったっ！」
-> CONTEXT: Commonevents/316/15/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/317/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/316/15/Dialogue
+> CONTEXT: Commonevents/317/16/Dialogue
+\\N[12]. 「Ha ha! Then, I got it!」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17677,8 +17939,11 @@ at the end. This is finisher!」#MTLed
 「あなたがわたくしの聖なる衣を剥ぎ取ったのに、
 それでわたくしの裸に見とれて隙を晒すなんて――
 どうしようもないエッチな男の子ね」
-> CONTEXT: Commonevents/317/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/317/11/Dialogue
+Queen Luftina. 「Even though you stripped my
+sacred clothing, So it makes me wonderful about
+my nakedness and exposing the gap -
+There is no doubt a lewd boy」#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -17686,6 +17951,7 @@ at the end. This is finisher!」#MTLed
 「もう遅いわ。
 これで終わりよ、
 神聖魔法――サフェルティ！」
-> CONTEXT: Commonevents/317/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/317/20/Dialogue
+Queen Luftina. 「It is already late.
+This is over, Sacred Magic - Safel Te!」#MTLed
 > END STRING

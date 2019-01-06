@@ -1119,9 +1119,9 @@ medicine.#MTLed
 > END STRING
 
 > BEGIN STRING
-ラミアの皮
-> CONTEXT: None < UNUSED
-Lamia's skin#MTLed
+ラミアの蛇皮
+> CONTEXT: Items/89/name/
+Serpent crust of lamia#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1731,6 +1731,58 @@ Items to move to the place I went once. I can not use it.
 > END STRING
 
 > BEGIN STRING
+魔女の髪
+> CONTEXT: Items/141/name/
+Witch's hair#MTLed
+> END STRING
+
+> BEGIN STRING
+魔女の髪の毛。魔力を帯びて輝いている。
+> CONTEXT: Items/141/description/
+Witch's hair.It is magical and shining.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+白いニーソックス
+> CONTEXT: Items/142/name/
+White thighhighs#MTLed
+> END STRING
+
+> BEGIN STRING
+魔女が履いていた白のニーソックス。
+> CONTEXT: Items/142/description/
+White thighs worn by the witches.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+黒いニーソックス
+> CONTEXT: Items/143/name/
+Black thighhighs#MTLed
+> END STRING
+
+> BEGIN STRING
+魔女が履いていた黒のニーソックス。
+> CONTEXT: Items/143/description/
+A black thief worn by a witch.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
+黒いリボン
+> CONTEXT: Items/144/name/
+Black Ribbon#MTLed
+> END STRING
+
+> BEGIN STRING
+デビルウィッチの髪を結んでいた黒いリボン。
+> CONTEXT: Items/144/description/
+A black ribbon connecting the hair of the devil witch.
+                                                           #MTLed
+> END STRING
+
+> BEGIN STRING
 自動ページ送りモード設定
 > CONTEXT: Items/148/name/
 Auto Dialogue Settings#MTLed
@@ -1768,58 +1820,4 @@ Item picture book#MTLed
 > CONTEXT: Items/150/description/
 An illustration of items.
                                                            #MTLed
-> END STRING
-
-> BEGIN STRING
-ラミアの蛇皮
-> CONTEXT: Items/89/name/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-魔女の髪
-> CONTEXT: Items/141/name/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-魔女の髪の毛。魔力を帯びて輝いている。
-> CONTEXT: Items/141/description/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-白いニーソックス
-> CONTEXT: Items/142/name/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-魔女が履いていた白のニーソックス。
-> CONTEXT: Items/142/description/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-黒いニーソックス
-> CONTEXT: Items/143/name/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-魔女が履いていた黒のニーソックス。
-> CONTEXT: Items/143/description/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-黒いリボン
-> CONTEXT: Items/144/name/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-デビルウィッチの髪を結んでいた黒いリボン。
-> CONTEXT: Items/144/description/ < UNTRANSLATED
-
 > END STRING
